@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="RATING" content="GENERAL" />
+<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+<meta content="text/javascript" http-equiv="Content-Script-Type" />
+<meta content="text/css" http-equiv="Content-Style-Type" />
+<title>
+	Active Duty Retirement
+</title><meta id="MetaDescription" name="DESCRIPTION" content="Military Pay and Benefits Website sponsored by the Office of the Under Secretary of Defense for Personnel and Readiness" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/DOD2/skin.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DOD2/container.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Portals/3/portal.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=1631" type="text/css" rel="stylesheet"/><link href="/DesktopModules/SharedLibrary/Plugins/aos/aos.css?cdv=1631" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=1631" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=1631" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=1631" type="text/javascript"></script><link id="RobotoSlab" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab" /><link rel='SHORTCUT ICON' href='/Portals/3/favicon.ico?ver=MHWq0Ak0eZRJuUTqU0YIhw%3d%3d' type='image/x-icon' /><meta name='host' content='DMA Public Web' /><meta name='contact' content='dma.meade.web-mil-service-desk@mail.mil' /><link rel="stylesheet" type="text/css" href="/DesktopModules/SharedLibrary/Controls/Banner/CSS/usa-banner.css" /><script  src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-6.8.js?agency=DOD&subagency=NDU&sitetopic=dma.web&dclink=true"  id="_fed_an_ua_tag" ></script><style type="text/css">/*Start Dynamic Skin Css*/
+.skin-header-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/header-back.png) !important; }
+.skin-footer-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/footer-back.png) !important; }
+</style><link rel="stylesheet" href="/DesktopModules/LiveHTML/Resources/Tabs/Style.css" type="text/css" media="all" /><meta name="viewport" content="width=device-width,initial-scale=1" /></head>
+<body id="Body">
+    
+    <form method="post" action="/Pay/Retirement/ActiveDuty.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="shcann3P3Ib85GhCK8heFEmy3QVu5Se5S87FIkxc34bAT0ueDArIkmnDXXi13wZNJ4hM1arALlvYhlClL6uh5KXlzAFNP4I4+P1QE/zNgAv2C9AJoGM9DnUk+NxxNk2XJH340GowQcjuJWrUM/x+MLGH1gG8cU4I54ShZk4T4RXrPF5ZJ2Rd1bx7yKovevNbC8cZTiY2yVkyxHgNNY8SOzJRs7x+5xIJNGFnMpMC9a6i2EdR3PtILjx4mNF6g3JIUGQ6gNccovMQnNHhl+zR4Iga/rNU7Zu+AbN3DVdLjWd+QNv/iZ4XKz5gdlaabhCgcgzU7ySzdafQ/A1pRm13hUJtBOPadPQfnK19AZ0G8HrKoIua/CpY9Z7dUZkN42YjH3gaBvUWi9nFgTmoFsHkuWjIKLdv7YnRqd3u3AUGoEZqlKo5oFFnQHa9qgjqc+Kc3g2Wd6OuGB7yt9DTaPzKElud7dLlBoMqNa5sswiWvdQBfaP+T1OPf3KNrDEXKXxOHUcuBKSm6BrhcojlDShffVXcEL0VyEo98eqj+DcxZuhouUVgmWcVGiPwavLawXeO9chOryAs6SzE0My932fMJreJJBreHnVXJyIkfG9gEajTgaKoUbUlbFNp5lu61oolyRB8FFVOXxVMQ+H5evqVS7OhIIiL37g633dLZZv5rdp0Jyd/pRIk+R9fRAZZt8ZOL0sid6hMSTQEJ5EM8X/QNaMCkpl3+nefmiikLg4/h3WnylIGpUbW9y4OaMdcy0Trk9op6HqpvPtjzYhjLetqNcDiRZUkbwEkwRjUB8kjvPiJqugX+KV+YgEDAWzG+LIMlFieSZ5sBvLxNW+gvGLwahgbI10s/rjO7QbcsEDiegjKEuTi5941M/n+qEkVvljy0vsaBag+4IqeTXP8Df1lV806KfxYRjrh4/fV2D2w7XI+FjHNkS0Z4Cl8dO7uGTtW2ECl95B7CuvQRxiSMJ/AeaiTt3Q/dDSm/ERkX8g8ZwFF2fxxOChbpxnawjJAxBdLyrSM57+vsldfbWOwznCINgpIyGZq5RNCCO16731BDUGIqit+wqTf3WoJDllFQWFlo+RtPE9UMkR83ckkvg3kzaZEKVS5aX2TzWvucmKzaODL1s6mKzE9Nmb+8SGXS4a8bSN6XLBMb2G+4YGumWYn8XwUOiMbhLp/u279Jj4aC2g0PY3A3h6R/wqnAx7nKRyRgWircDqjdAdxcEuk17MC6mO5c5+shHe5Z/CRwfM7kHVmGs8yzPfDEDb9lPyUc+na0KxJgOv+S+sQZQTN/QPN0CukgyT8RMmkmVLRPwWxqEtCEVIsXIR76VzbGHEGAJHsOz9YztB0vCulPTm6WPXy+LO+nl4WcUnbo/0MIVFbdw5bjYp4yOy15u/Y8blLowglYf5FaGjDslBZpzfG" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV2CY4Fn_PimPS3slfEWaxdzinZGrGOygBNSjnzpH6qz0Qexsmc1&amp;t=638285902241696996" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IpUMLPYCgVGGtPpDR1BM9Db4ILqKY_JVTI5z1Xxtjzdqs249bxkWhUJ4ub5ippp5CTQwXERH2v6CFz_CBkg109Gz3azLBrDO1TrM7RS4dAqDwEV-4FotRwo5hVc-A2&amp;t=ffffffffa0418512" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoKevpFVtgV5DfbjYodseYTtRXxYKudeQNkT3FesNtd-Tqd5d-eZ9jKtXtnRu_PUHNDc6R6DLPz7x7zD0xHVKEhkWVc4mwzaYi1pTpLjPg_FSbhWM9MNoFiGDgmq0TE5NQl08X1x0&amp;t=ffffffffa0418512" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="lNXTcLYfmq0YeMNfNMYuolhJZTSWAO8I11E4Dkzl9MCL4aD0ITpbFZ+a5rtsQgAu2Bux6RIM4ZuZw5dzYrFTVw1QZp7we5aGCYJ12agKM4R9BK7B" />
+</div><script src="/js/dnn.modalpopup.js?cdv=1631" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=1631" type="text/javascript"></script><script src="/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=1631" type="text/javascript"></script><script src="/js/dnncore.js?cdv=1631" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=1631" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=1631" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=1631" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 1200, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=1631|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+$('#personaBar-iframe').load(function() {$('#personaBar-iframe').contents().find("head").append($("<style type='text/css'>.personabar .personabarLogo {}</style>")); });
+</script>
+<div id="dnn_ctl02_header_banner_container" class="header_banner_container">
+    <span class="header_banner_inner">
+        <div class="header_banner_flag">
+            An official website of the United States government 
+        <div class="header_banner_accordion" tabindex="0"><u>Here's how you know 
+        <span class="expand-more-container"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path class="expand-more" d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
+            </svg></span></u></div>
+        </div>
+        <div class="header_banner_panel" style="">
+            <div class="header_banner_panel_item">
+                <span class="header_banner_dotgov"></span>
+                <div id="dnn_ctl02_bannerContentLeft" class="header_banner_content"><p class="banner-contentLeft-text"><strong> Official websites use .gov </strong></p>A <strong>.gov</strong> website belongs to an official government organization in the United States.</div>
+            </div>
+            <div class="header_banner_panel_item https">
+                <span class="header_banner_https"></span>
+                <div id="dnn_ctl02_bannerContentRight" class="header_banner_content"><p class="banner-contentRight-text"><strong>Secure .gov websites use HTTPS</strong></p><div> A <strong>lock (<span class='header_banner_icon_lock'><svg xmlns = 'http://www.w3.org/2000/svg' width='52' height='64' viewBox='0 0 52 64'><title>lock </title><path class='icon_lock' fill-rule='evenodd' d='M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z' /> </svg></span>)</strong> or <strong> https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.</div></div>
+            </div>
+
+        </div>
+    </span>
+</div><style> .header_banner_container{ background-color: #15263b; color: #FFF; } .icon_lock { fill: #FFF;} .header_banner_container .header_banner_content .banner-contentLeft-text, .header_banner_container .header_banner_content .banner-contentRight-text { color: #FFF;} </style>
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"Military Compensation","SiteShortName":"militarypay.defense.gov","SiteSubTitle":"","aid":"dod_milpay","IsSecureConnection":false,"IsBackEnd":false,"DisableShrink":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://militarypay.defense.gov/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":false,"PiwikSiteID":-1,"SocialLinks":{"Facebook":{"Url":"http://www.facebook.com","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"http://www.twitter.com","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"http://www.youtube.com","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"http://www.flickr.com","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"http://www.pinterest.com","Window":"_blank","Relationship":"noopener"},"Instagram":{"Url":"","Window":"","Relationship":""},"Blog":{"Url":"http://www.dodlive.mil","Window":"_blank","Relationship":"noopener"},"RSS":{"Url":"","Window":"","Relationship":""},"Podcast":{"Url":"","Window":"","Relationship":""},"Email":{"Url":"","Window":"","Relationship":""},"LinkedIn":{"Url":"","Window":"","Relationship":""},"Snapchat":{"Url":"","Window":"","Relationship":""}},"SiteLinks":null,"LogoffTimeout":3300000,"SiteAltLogoText":""};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://militarypay.defense.gov/Portals/3/DODseal80.png?ver=VtpvXzPCBwjTP9jR_Uivpw%3d%3d","name":"Military Compensation","url":"http://militarypay.defense.gov/","sameAs":["http://www.facebook.com","http://www.twitter.com","http://www.pinterest.com","http://www.youtube.com"]}</script><style type="text/css">/*Start Dynamic Skin Css*/
+.skin-header-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/header-back.png) !important; }
+.skin-footer-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/footer-back.png) !important; }
+</style>
+
+
+
+<div class="wrapper container nopad">
+    
+
+<div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+<header id="main-header" role="banner">
+    <div class="skin-header skin-header-background">
+        <div class="skin-header-left">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://militarypay.defense.gov/" rel="" target="">
+                    <img src="/Portals/3/DODseal80.png?ver=VtpvXzPCBwjTP9jR_Uivpw%3d%3d" alt="Home Logo: Military Compensation" title="Military Compensation" class="img-responsive" /></a>
+            </div>
+            <div class="skin-title">
+                <div class="hidden-xs">
+                    
+                    <span class="title-text">Military Compensation</span>
+                    
+                </div>
+                <div class="visible-xs title-text">
+                    Military Compensation
+                </div>
+            </div>
+        </div>
+        <div class="skin-header-right">
+            <div class="skin-search">
+                <div class="mobile-search visible-xs pull-right" hidden>
+                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                    <div class="mobile-search-popup">
+                        <label for="mobileSearch" class="visuallyhidden">Search militarypay.defense.gov: </label>
+                        <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete" maxlength="255" aria-label="Search militarypay.defense.gov" />
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="desktop-search hidden-xs">
+                    <label for="desktopSearch" class="visuallyhidden">Search militarypay.defense.gov: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete" maxlength="255" aria-label="Search militarypay.defense.gov" />
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+    <div class="navbar-collapse nav-main-collapse collapse otnav nopad">
+        <div class="container nopad menu new-menu" data-autoexpand="false">
+            <nav class="nav-main" role="application">
+<ul class="nav nav-main" id="main-nav">
+	
+    <li class=" top-level ">
+    
+        <a href="http://militarypay.defense.gov/" >Home
+		</a>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="http://militarypay.defense.gov/About/" aria-expanded="false">About<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/About/Mission/" >Mission
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/About/Organization/" >Organization
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/About/Bios/" >Bios
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://militarypay.defense.gov/BlendedRetirement/" >Blended Retirement
+		</a>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="http://militarypay.defense.gov/Pay/" aria-expanded="false">Pay<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Basic-Pay/" >Basic Pay
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Special-and-Incentive-Pays/" >Special and Incentive Pays
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Allowances/" >Allowances
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Tax-Information/" >Tax Information
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Recoupment/" >Recoupment
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Pay/Retirement/" >Retirement
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="http://militarypay.defense.gov/Calculators/" aria-expanded="false">Calculators<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm dropdown ">
+        
+			<a  href="javascript:void(0)" aria-expanded="false">Military Retirement<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+		    </a>
+        
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/BRS/" >BRS Comparison Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Blended-Retirement-System-Standalone-Calculator/" >BRS Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/High-3-Calculator/" >High-3 Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Final-Pay-Calculator/" >Final-Pay Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/REDUX-Calculator/" >REDUX Calculator
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+        
+			<a  href="javascript:void(0)" aria-expanded="false">Medical Retirement<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+		    </a>
+        
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Medical-Blended-Retirement-System-Standalone-Calculator/" >Medical BRS Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Medical-High-3-Calculator/" >Medical High-3 Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Medical-Final-Pay-Calculator/" >Medical Final Pay Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/Medical-REDUX-Calculator/" >Medical REDUX Calculator
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/RMC-Calculator/" >RMC Calculator
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Calculators/SCAADL-Calculator/" >SCAADL Calculator
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="http://militarypay.defense.gov/Benefits/" aria-expanded="false">Benefits<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Death-Gratuity/" >Death Gratuity
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/New-Retired-Benefits-Program/" >New Retired Benefits Program
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://actuary.defense.gov/" target="_blank" rel="noopeneer noreferrer">Office of the Actuary
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Savings-Deposit-Program/" >Savings Deposit Program
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Separation-Pay/" >Separation Pay
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Servicemembers-Civil-Relief-Act/" >Servicemembers Civil Relief Act
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/" >Servicemembers Group Life Insurance
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Survivor-Benefit-Program/" >Survivor Benefit Program
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Thrift-Savings-Plan/" >Thrift Savings Plan
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Unemployment-Compensation/" >Unemployment Compensation
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/Benefits/Leave-Benefits-During-Transition/" >Leave Benefits During Transition
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" aria-expanded="false">References<span class="fa fa-lg fa-angle-down"></span>
+	</a> 
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/QRMC/" >QRMC
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/Background-Papers/" >Background Papers
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/Greenbooks/" >Greenbooks
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/In-the-Spotlight/" >In the Spotlight
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/Military-Disability/" >Military Disability
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/Former-Spouse-Protection-Act/" >Former Spouse Protection Act
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://militarypay.defense.gov/References/Taxable-Fringe-Benefits/" >Taxable Fringe Benefits
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+</ul>
+</nav>
+
+
+
+
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1"></a></p>
+
+    <div id="content" role="main">
+        <div class="banner">
+            <div class="container nopad">
+                <div id="dnn_CarouselPane" class="DNNEmptyPane"></div>
+            </div>
+            <div class="container nopad banner-row">
+                <div id="dnn_BannerLeft" class="nopad col-md-9 DNNEmptyPane"></div>
+                <div id="dnn_BannerRight" class="nopad col-md-3 banner-right DNNEmptyPane"></div>
+            </div>
+        </div>
+        <span class="skin-addpad">
+            
+
+<div class="skin-breadcrumb-container container-fluid nopad" role="navigation" aria-label="Breadcrumb Navigation">
+  <span id="dnn_Breadcrumb_Breadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://militarypay.defense.gov/" class="skin-breadcrumb" itemprop="item" ><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://militarypay.defense.gov/Pay/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">Pay</span></a><meta itemprop="position" content="2" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://militarypay.defense.gov/Pay/Retirement/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">Retirement</span></a><meta itemprop="position" content="3" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://militarypay.defense.gov/Pay/Retirement/ActiveDuty/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">ActiveDuty</span></a><meta itemprop="position" content="4" /></span></span></span>
+  <script type="text/javascript">
+    jQuery(".skin-breadcrumb-container a").last().removeAttr("href").css("text-decoration", "none");
+  </script>
+</div>
+
+        </span>
+        <div class="container skin-addpad skin-first-row">
+            <div class="row">
+                <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-LiveHTML DnnModule-746"><a name="746"></a>
+<div class="base-container blue-header">
+    <h2 id="dnn_ctr746_titleControl" class="title">
+        <span id="dnn_ctr746_dnnTitle_titleLabel" class="Head">Active Duty Retirement</span>
+
+
+
+    </h2>
+    <div id="dnn_ctr746_ContentPane"><!-- Start_Module_746 --><div id="dnn_ctr746_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper746" class="livehtml"><p>Members who accumulate 20 or more years of active service are
+eligible for retirement. There are three non-disability retirement plans
+currently in effect for active duty retirees. These are Final Pay plan,
+High-36 Month Average plan, and Military Retirement Reform Act of 1986
+(more commonly referred to as REDUX) plan.</p>
+<p>The basic retirement formula is:</p>
+<p style="margin-left: 30px;">Retired Pay Base  X  Multiplier %</p>
+<h2>Final Pay Plan</h2>
+<p>The Final Pay plan uses the Final Pay method to determine the retired pay base. See the <a href="/Pay/Retirement.aspx">Retirement</a> page.</p>
+<p>The Final Pay plan uses a multiplier % that is 2.5% times the years
+of creditable service. The years of creditable service for an active
+duty retirement calculation is the sum of years of active service (i.e.,
+active duty or full-time National Guard duty) and any additional years
+computed by adding all reserve points, if any (except those for active
+service)and dividing by 360.</p>
+<h2>High-36 Plan</h2>
+<p>The High-36 retirement plan uses the High-36 method to determine the retired pay base. See the <a href="/Pay/Retirement.aspx">Retirement</a> page.</p>
+<p>The High-36 retirement plan uses a multiplier % that is the same as the final pay plan.</p>
+<h2>REDUX Plan</h2>
+<p>The REDUX retirement plan is an option available only to active duty
+members who entered service on or after August 1, 1986. It includes a
+$30,000 Career Status Bonus (CSB).</p>
+<p>The REDUX retirement plan uses the High-36 method to determine the retired pay base. See the <a href="/Pay/Retirement.aspx">Retirement</a> page.</p>
+<p>The REDUX retirement plan uses a multiplier that is the same as for
+the High-36 retirement plan, except the multiplier is reduced by one
+percentage point for each year less than 30 the member has at
+retirement.</p>
+<h2>Years of Service</h2>
+<p>The years of creditable service for computation of the retired pay
+percentage multiplier include all active duty and any credited reserve
+points divided by 360.</p></div>
+</div><!-- End_Module_746 --></div>
+</div>
+</div></div>
+            </div>
+
+            <div class="row">
+                <div id="dnn_ContentPaneLeft" class="col-md-8 DNNEmptyPane"></div>
+                <div id="dnn_RightPane" class="col-md-4 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_LeftPane" class="col-md-4 DNNEmptyPane"></div>
+                <div id="dnn_ContentPaneRight" class="col-md-8 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_EvenLeft" class="col-md-4 DNNEmptyPane"></div>
+                <div id="dnn_EvenMiddle" class="col-md-4 DNNEmptyPane"></div>
+                <div id="dnn_EvenRight" class="col-md-4 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+            </div>
+        </div>
+    </div>
+    <footer role="contentinfo" class="footer-default">
+        <div class="skin-footer-background">
+            <div class="container">
+                <div class="row">
+                    <div id="dnn_FooterLinks" class="col-md-6 col-footerlinks">
+                        
+
+
+                    </div>
+                    <div class="col-md-6 col-sociallinks">
+                        <div id="dnn_SocialLinks_stayconnected" class="skin-social">
+    <h3>Stay Connected</h3>
+</div>
+
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterContentLeftPane" class="col-md-8"><div class="DnnModule DnnModule-LiveHTML DnnModule-623"><a name="623"></a>
+<div class="empty-container-no-pad">
+    <div id="dnn_ctr623_ContentPane"><!-- Start_Module_623 --><div id="dnn_ctr623_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper623" class="livehtml"><div class="footlinks">
+<ul class="fleft box">
+    <li><a href="http://www.defense.gov/about/" target="_blank">About DoD</a></li>
+    <li><a href="http://www.defense.gov/topissues/" target="_blank">Top Issues</a></li>
+    <li><a href="http://www.defense.gov/news/" target="_blank">News</a></li>
+    <li><a href="http://www.defense.gov/multimedia/multimedia.aspx" target="_blank">Photos &amp; Videos</a></li>
+    <li><a href="http://www.defense.gov/RegisteredSites/RegisteredSites.aspx" target="_blank">Military/DoD Websites</a></li>
+    <li><a href="/Contact.aspx">Contact</a></li>
+</ul>
+<ul class="fleft box">
+    <li><a href="http://www.dodig.mil/" target="_blank">DoD Inspector General</a></li>
+    <li><a href="http://www.defense.gov/landing/external_link.aspx" target="_blank">Link Disclaimer</a></li>
+    <li><a href="http://www.defense.gov/recovery/" target="_blank">Recovery Act</a></li>
+    <li><a href="http://www.dod.mil/pubs/foi/dfoipo/" target="_blank">FOIA</a></li>
+    <li><a href="http://www.usa.gov/" target="_blank">USA.gov</a></li>
+    <li><a href="http://prhome.defense.gov/nofear" target="_blank">No FEAR Act</a></li>
+</ul>
+<ul class="fleft box">
+    <li><a href="http://www.todaysmilitary.com/" target="_blank">Join the Military</a></li>
+    <li><a href="https://dod.usajobs.gov/" target="_blank">DoD Careers</a></li>
+    <li><a href="http://www.defense.gov/landing/privacy.aspx" target="_blank">Privacy &amp; Security</a></li>
+    <li><a href="http://www.defense.gov/webmasters/" target="_blank">Web Policy</a></li>
+    <li><a href="/SiteMap.aspx">Site Map</a></li>
+</ul>
+<div class="clr"></div>
+</div></div>
+</div><!-- End_Module_623 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+                    <div id="dnn_FooterRightPane" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterRowLeft" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowMiddle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowRight" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+            </div>
+            
+
+<div class="skin-footer-banner">
+      <a target="_blank" rel="noreferrer noopener" href="https://www.web.dma.mil/">Hosted by Defense Media Activity - WEB.mil</a>
+      
+</div>
+
+        </div>
+    </footer>
+</div>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        <script src="/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=1631" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=1631" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=1631" type="text/javascript"></script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+toggleClick = function(ModuleId) {var wrapper=jQuery('#LiveHTMLWrapper' + ModuleId);if (wrapper.find('#ReviewComment').is(":hidden")) {wrapper.find('#ReviewComment').slideDown('slow');wrapper.find('#toggle').addClass('close');}else {wrapper.find('#ReviewComment').slideUp('slow');wrapper.find('#toggle').removeClass('close');}};//]]>
+</script>
+</form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=1631|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=1631|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=1631|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/DOD2/skin.css?cdv=1631|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=1631|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=1631|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/3/portal.css?cdv=1631|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=1631|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=1631|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=1631|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=1631|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=1631|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/SharedLibrary/Plugins/aos/aos.css?cdv=1631|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=1631|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=1631|DnnFormBottomProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=1631|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=1631|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=1631|DnnFormBottomProvider|100)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=1631|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=1631|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=1631|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=1631|DnnPageHeaderProvider|10)-->
+    
+</body>
+</html>

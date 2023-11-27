@@ -708,7 +708,7 @@ References
    3. https://childlawadvice.org.uk/wp-json/wp/v2/pages/5083
    4. https://childlawadvice.org.uk/wp-json/oembed/1.0/embed?url=https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/
    5. https://childlawadvice.org.uk/wp-json/oembed/1.0/embed?url=https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/&format=xml
-   6. file:///home/marie18/Documents/Master/M1/PPE/PROJET/en-1.html#content
+   6. https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/#content
    7. https://childlawadvice.org.uk/
    8. https://www.childrenslegalcentre.com/
    9. https://www.coram.org.uk/
@@ -1087,4 +1087,4 @@ References
  382. https://childlawadvice.org.uk/privacy-notice/
 
    Hidden links:
- 384. file://localhost/home/marie18/Documents/Master/M1/PPE/PROJET/en-1.html#top
+ 384. https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/#top

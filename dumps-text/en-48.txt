@@ -1,0 +1,968 @@
+
+
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+
+   (BUTTON)
+     * [2]Investing
+          + [3]Stocks
+          + [4]Bonds
+          + [5]ETFs
+          + [6]Options and Derivatives
+          + [7]Commodities
+          + [8]Trading
+          + [9]FinTech and Automated Investing
+          + [10]Brokers
+          + [11]Fundamental Analysis
+          + [12]Technical Analysis
+          + [13]Markets
+          + [14]View All
+     * [15]Simulator
+          + [16]Login / Portfolio
+          + [17]Trade
+          + [18]Research
+          + [19]My Games
+          + [20]Leaderboard
+     * [21]Banking
+          + [22]Savings Accounts
+          + [23]Certificates of Deposit (CDs)
+          + [24]Money Market Accounts
+          + [25]Checking Accounts
+          + [26]View All
+     * [27]Personal Finance
+          + [28]Budgeting and Saving
+          + [29]Personal Loans
+          + [30]Insurance
+          + [31]Mortgages
+          + [32]Credit and Debt
+          + [33]Student Loans
+          + [34]Taxes
+          + [35]Credit Cards
+          + [36]Financial Literacy
+          + [37]Retirement
+          + [38]View All
+     * [39]News
+          + [40]Markets
+          + [41]Companies
+          + [42]Earnings
+          + [43]CD Rates
+          + [44]Mortgage Rates
+          + [45]Economy
+          + [46]Government
+          + [47]Crypto
+          + [48]ETFs
+          + [49]Personal Finance
+          + [50]View All
+     * [51]Reviews
+          + [52]Best Online Brokers
+          + [53]Best Savings Rates
+          + [54]Best CD Rates
+          + [55]Best Life Insurance
+          + [56]Best Personal Loans
+          + [57]Best Mortgage Rates
+          + [58]Best Money Market Accounts
+          + [59]Best Auto Loan Rates
+          + [60]Best Credit Repair Companies
+          + [61]Best Credit Cards
+          + [62]View All
+     * [63]Academy
+          + [64]Investing for Beginners
+          + [65]Trading for Beginners
+          + [66]Become a Day Trader
+          + [67]Technical Analysis
+          + [68]All Investing Courses
+          + [69]All Trading Courses
+          + [70]View All
+
+   [71]Trade
+     * (BUTTON)
+       Search ____________________ (BUTTON) Search (BUTTON)
+       Please fill out this field. (BUTTON)
+
+   Search ____________________ (BUTTON) Search
+   Please fill out this field. (BUTTON)
+     * [72]Investing
+       (BUTTON) Investing
+          + [73]Stocks
+          + [74]Bonds
+          + [75]ETFs
+          + [76]Options and Derivatives
+          + [77]Commodities
+          + [78]Trading
+          + [79]FinTech and Automated Investing
+          + [80]Brokers
+          + [81]Fundamental Analysis
+          + [82]Technical Analysis
+          + [83]Markets
+          + [84]View All
+     * [85]Simulator
+       (BUTTON) Simulator
+          + [86]Login / Portfolio
+          + [87]Trade
+          + [88]Research
+          + [89]My Games
+          + [90]Leaderboard
+     * [91]Banking
+       (BUTTON) Banking
+          + [92]Savings Accounts
+          + [93]Certificates of Deposit (CDs)
+          + [94]Money Market Accounts
+          + [95]Checking Accounts
+          + [96]View All
+     * [97]Personal Finance
+       (BUTTON) Personal Finance
+          + [98]Budgeting and Saving
+          + [99]Personal Loans
+          + [100]Insurance
+          + [101]Mortgages
+          + [102]Credit and Debt
+          + [103]Student Loans
+          + [104]Taxes
+          + [105]Credit Cards
+          + [106]Financial Literacy
+          + [107]Retirement
+          + [108]View All
+     * [109]News
+       (BUTTON) News
+          + [110]Markets
+          + [111]Companies
+          + [112]Earnings
+          + [113]CD Rates
+          + [114]Mortgage Rates
+          + [115]Economy
+          + [116]Government
+          + [117]Crypto
+          + [118]ETFs
+          + [119]Personal Finance
+          + [120]View All
+     * [121]Reviews
+       (BUTTON) Reviews
+          + [122]Best Online Brokers
+          + [123]Best Savings Rates
+          + [124]Best CD Rates
+          + [125]Best Life Insurance
+          + [126]Best Personal Loans
+          + [127]Best Mortgage Rates
+          + [128]Best Money Market Accounts
+          + [129]Best Auto Loan Rates
+          + [130]Best Credit Repair Companies
+          + [131]Best Credit Cards
+          + [132]View All
+     * [133]Academy
+       (BUTTON) Academy
+          + [134]Investing for Beginners
+          + [135]Trading for Beginners
+          + [136]Become a Day Trader
+          + [137]Technical Analysis
+          + [138]All Investing Courses
+          + [139]All Trading Courses
+          + [140]View All
+     * [141]Economy
+       (BUTTON) Economy
+          + [142]Government and Policy
+          + [143]Monetary Policy
+          + [144]Fiscal Policy
+          + [145]Economics
+          + [146]View All
+     * [147]Financial Terms
+     * [148]Newsletter
+     * [149]About Us
+
+   Follow Us
+     *
+     *
+     *
+     *
+     *
+     *
+
+   IFRAME: [150]about:blank
+
+   Table of Contents
+   (BUTTON) Expand
+   Table of Contents
+     * [151]What Is a Fiduciary Duty?
+     * [152]Fiduciary Relationships
+     * [153]Types of Duties
+     * [154]Breaches in Duty
+     * [155]Consequences of a Breach
+     * [156]Elements of a Claim
+     * [157]Examples of Breach Cases
+     * [158]Fiduciary Duty FAQs
+     * [159]The Bottom Line
+
+     * [160]Investing
+     * [161]Laws & Regulations
+
+What Is a Fiduciary Duty? Examples and Types Explained
+
+   By
+   [162]Adam Barone
+   Adam Barone Adam Barone
+   [163]Full Bio
+     *
+     *
+
+   Adam Barone is an award-winning journalist and the proprietor of
+   ContentOven.com. He has 5+ years of experience as a content
+   strategist/editor.
+   Learn about our [164]editorial policies
+   Updated May 24, 2023
+   Reviewed by [165]Julius Mansa
+   Fact checked by
+   [166]Katrina Munichiello
+   Katrina Avila Munichiello Katrina Avila Munichiello
+   Fact checked by Katrina Munichiello
+   [167]Full Bio
+     *
+     *
+
+   Katrina Ávila Munichiello is an experienced editor, writer,
+   fact-checker, and proofreader with more than fourteen years of
+   experience working with print and online publications.
+   Learn about our [168]editorial policies
+
+What Is a Fiduciary Duty?
+
+   Fiduciary duty refers to the relationship between a fiduciary and the
+   principal or beneficiary on whose behalf the fiduciary acts.
+
+   The fiduciary accepts legal responsibility for duties of care, loyalty,
+   good faith, confidentiality, and more when serving the best interests
+   of a beneficiary. Strict care must be taken to ensure that
+   no [169]conflict of interest arises to jeopardize those interests.
+
+Key Takeaways
+
+     * A fiduciary duty involves actions taken in the best interests of
+       another person or entity.
+     * Fiduciary duty describes the relationship between an attorney and a
+       client or a guardian and a ward.
+     * Fiduciary duties include duty of care, loyalty, good faith,
+       confidentiality, prudence, and disclosure.
+     * It has been successfully argued that an employee may have a
+       fiduciary duty of loyalty to an employer.
+     * A breach of fiduciary duty occurs when a fiduciary fails to act
+       responsibly in the best interests of a client.
+
+Examples of Fiduciary Relationships
+
+Trustee/Beneficiary
+
+   A single parent with young children might create a trust to administer
+   the assets that the children would inherit should the parent die while
+   the children are still underage.
+
+   In this case, the parent will name a person or an entity, such as a law
+   firm or bank, as trustee of the [170]estate. That person or entity has
+   a fiduciary duty to the children, who are the beneficiaries of the
+   estate.
+
+   In a trustee/beneficiary relationship, the fiduciary (trustee) has
+   legal ownership of the property and controls the assets held in the
+   trust.
+
+   As fiduciary, the trustee must make decisions that are in the best
+   interest of the beneficiary as the latter holds equitable title to
+   the [171]property.
+
+   The trustee/beneficiary relationship is an important aspect of
+   comprehensive [172]estate planning. Special care should be taken to
+   determine who is designated as trustee.
+
+Guardian/Ward
+
+   In a guardian/ward relationship, an adult is designated as the legal
+   guardian of a minor child. The guardian, as the fiduciary, is tasked
+   with ensuring that all matters related to the daily welfare of the
+   child are dealt with responsibly and in the best interests of the
+   child. This care can include such things as deciding where the child
+   will attend school, arranging for health care, and providing an
+   allowance.
+
+   A guardian may be appointed by a state court when a parent dies or is
+   unable to care for the child for other reasons. In most states, the
+   guardian/ward relationship remains intact until the minor child reaches
+   adulthood.
+
+Agent/Principal
+
+   Any person, corporation, partnership, or government agency might be
+   called upon to act as agent without conflict of interest on behalf of a
+   principal.
+
+   A common example of [173]an agent/principal relationship that implies
+   fiduciary duty is that between the executives of a company and its
+   shareholders. The shareholders expect that the executives will make
+   well-considered, prudent decisions on their behalf and in their best
+   interests as owners.
+
+   A similar fiduciary relationship exists between personal investors and
+   the [174]fund managers they select to manage their assets.
+
+Attorney/Client
+
+   The agreement between an attorney and a client is arguably one of the
+   most stringent of fiduciary relationships.
+
+   The U.S. Supreme Court has stated that the highest level of trust and
+   confidence must exist between an attorney and a client. An attorney, as
+   a fiduciary, must act with fairness, loyalty, care, and within the law
+   on behalf of the client.
+
+   Attorneys can be sued for breaches of their fiduciary duties by
+   clients. They are accountable to the court in which a client is
+   represented when a breach occurs.
+
+Controlling Stockholder/Company
+
+   In certain circumstances, fiduciary duties may be required of a
+   stockholder who possesses a majority interest in a corporation or who
+   exercises control over its activities. A breach of fiduciary duty may
+   result in personal legal liability for the controlling shareholder as
+   well as directors and officers.
+
+   The adjective fiduciary means held or given in trust. A fiduciary
+   commits to acting in the best interests of a principal or beneficiary.
+
+Types of Fiduciary Duties
+
+   Fiduciary duties may differ depending on the type of beneficiary that a
+   fiduciary serves. However, in general, the legal and ethical
+   obligations related to protecting the interests of beneficiaries
+   include the following duties.
+
+Duty of Care
+
+   This is the responsibility to inform oneself as completely as possible
+   in order to exercise sound judgments that protect a beneficiary's
+   interests. It can involve the thoughtful consideration of options and
+   sensible decision-making that's based on a careful examination of
+   available information.
+
+Duty of Loyalty
+
+   This pertains to acting in the best interest of the beneficiary at all
+   times, putting their well-being first and foremost. It includes the
+   duty of the fiduciary to excuse themself from taking actions when
+   there's a conflict of interest with the beneficiary's welfare.
+
+Duty of Good Faith
+
+   This duty pertains to always acting within the law to advance the
+   interests of the beneficiary. At no time should the fiduciary take
+   actions that are outside of legal constraints.
+
+Duty of Confidentiality
+
+   A fiduciary must maintain the confidentiality of all information
+   relating to the beneficiary. They must not use any form of it, whether
+   written or spoken, for their personal gain.
+
+Duty of Prudence
+
+   Fiduciaries must administer matters and make decisions concerning the
+   interests of beneficiaries with the highest degree of professional
+   skill, caution, and critical awareness of risk.
+
+Duty to Disclose
+
+   Fiduciaries must engage in completely forthright behavior, disclosing
+   any and all relevant information that could have an impact on their
+   ability to carry out their duties as fiduciary and/or on the well-being
+   of a beneficiary's interests.
+
+Breaches in Fiduciary Duty
+
+   Fiduciary duties are taken on by individuals and entities for various
+   types of beneficiaries. Such relationships include, among others,
+   lawyers acting for clients, company executives acting for stockholders,
+   guardians acting for their wards, [175]financial advisers acting for
+   investors, and trustees acting for estate beneficiaries.
+
+   An employee may even have a fiduciary duty to an employer. That is,
+   employers have a right to expect that employees are acting in their
+   best interests. For example, they are not sharing trade secrets, or
+   using company equipment for private purposes, or stealing customers
+   from a competitor.
+
+   These expectations may not be actual fiduciary duties but they may be
+   spelled out in an employee handbook or contract clause.
+
+   Case law indicates that breaches of fiduciary duty most often happen
+   when a binding fiduciary relationship is in effect and actions are
+   taken which violate or are counterproductive to the interests of a
+   specific beneficiary.
+
+   Typically, the inappropriate actions are alleged to have benefitted the
+   fiduciary's interests or the interests of a third party instead of a
+   principal's or beneficiary's interests. In some cases, a breach stems
+   from a fiduciary's failure to provide important information to a
+   client, which leads to misunderstandings, misinterpretations, or
+   misguided advice.
+
+   Disclosure of any potential conflict of interest is important in a
+   fiduciary relationship because any conflict can be seen as a cause for
+   a breach of trust.
+
+Consequences of a Fiduciary Breach
+
+   A breach of fiduciary duty can lead to a number of consequences. Not
+   all of them are legal consequences.
+    1. An accusation of a breach of fiduciary duty can hurt the reputation
+       of a professional. A client can end a professional relationship
+       because they do not trust in [176]a professional’s care of the
+       required fiduciary duty.
+    2. If a breach of duty case proceeds to the courts, steeper
+       consequences can result. A successful breach of fiduciary duty
+       lawsuit can result in monetary penalties for direct damages,
+       indirect damages, and legal costs.
+    3. A court ruling can also lead to industry discrediting, the loss of
+       a license, or removal from service.
+
+   However, proving a breach of fiduciary duty is not always easy.
+
+Elements of a Fiduciary Breach Claim
+
+   A number of legal precedents and elements have been established to
+   allow claims by those who have been harmed by a breach of fiduciary
+   duty. Jurisdictions differ, but in general, the following four elements
+   are essential if a plaintiff is to prevail in a breach of fiduciary
+   duty claim.
+
+A Duty Existed
+
+   The plaintiff must show that a legal fiduciary duty existed. Many
+   professionals are obligated, legally and ethically, to conduct their
+   businesses honestly. However, that doesn't mean that they are
+   fiduciaries who must act solely in the interest of a particular client.
+   A fiduciary duty is accepted as such by a fiduciary, typically in
+   writing.
+
+A Breach Occurred
+
+   The plaintiff must show that a fiduciary duty was breached. The type of
+   breach varies in every case. For example, if an accountant was sloppy
+   in filling out a client's tax returns, and the client was slapped with
+   an enormous fine for nonpayment, the accountant may be guilty of a
+   breach of fiduciary duty. However, if the client was sloppy and failed
+   to provide complete and necessary information, no breach occurred.
+
+Damage Was Sustained
+
+   The plaintiff must show that the breach of trust caused actual damage.
+   Without damage, there is usually no basis for a breach of fiduciary
+   duty case. The more specific a principal or beneficiary can be with
+   facts of damage, the better.
+
+   For example, a trustee might be sued for selling a beneficiary's
+   property too cheaply. If the buyer is a relative of the trustee, it's
+   clearly a conflict of interest. However, a specific accounting relating
+   to the loss to the beneficiary is needed to prove a breach of fiduciary
+   duty.
+
+Causation Was Proved
+
+   Causation shows that any damages incurred by the plaintiff were
+   directly linked with the actions taken in breach of fiduciary duty. In
+   the above example of a property sale, the link appears to be clear.
+   However, the trustee might argue that a quick sale was in the best
+   interest of the beneficiary and that no other buyer was interested.
+
+   If you suspect your [177]financial adviser is in breach of their
+   fiduciary duty, you can file a complaint with [178]FINRA, the [179]SEC,
+   or both. If your adviser has a professional certification, you can also
+   notify the entity that provided the credential.
+
+Examples of Fiduciary Breach Cases
+
+A Duty of Loyalty
+
+   One example of a breach in fiduciary duty case went to the Virginia
+   Supreme Court in 2007.
+
+   In "Banks v. Mario Industries of Virginia, Inc." a lighting
+   manufacturer and supplier sued a former employee for establishing a
+   directly competing business by allegedly using proprietary information
+   acquired in their previous employment.
+
+   The manufacturer did not require its employees to sign a non-compete or
+   confidentiality clause, although the company handbook outlined related
+   policies.
+
+   In this case, the question of whether the employees had a fiduciary
+   duty to their former employer, and breached it, was fundamental to the
+   appeal that brought the case to the state's highest court.
+
+   The court affirmed the lower court's ruling that the employees owed
+   Mario a duty of loyalty. In effect, it supported the claim of a breach
+   of fiduciary duty, and a penalty of more than $1 million.
+
+A Menswear Store vs. Ex-Employees
+
+   In 2006, a high-end menswear store cited a breach of fiduciary duty
+   when it sued two of its former sales professionals for taking a job
+   with a competitor, Saks Fifth Avenue. The department store was able to
+   prove that it suffered actual losses after the salesmen left.
+
+   However, the court ruled that the losses could not be attributed
+   directly to the actions of its former employees. The suit failed.
+
+Aiding and Abetting a Breach of Duty
+
+   A comptroller for a corporation embezzled $15 million from his employer
+   by writing checks against his company's bank account and depositing
+   them into another account at his own bank.
+
+   The company sued the bank that took the deposits, alleging that it
+   aided and abetted a breach of fiduciary duty. The court ruled that
+   there was insufficient evidence that the bank was aware of its role in
+   the scam.
+
+What Does It Mean to Have a Fiduciary Duty?
+
+   The adjective fiduciary means held or given in trust. In accepting a
+   fiduciary duty, an individual or entity accepts a legal commitment to
+   act in the best interests of a beneficiary.
+
+What Are the Main Fiduciary Duties?
+
+   There are several types of fiduciary duties. One is the duty of loyalty
+   which implies that the fiduciary will always act in the best interests
+   of the beneficiary or principal. Duty of care is another. It means that
+   a fiduciary will take special care to make sound, sensible decisions
+   regarding a beneficiary's well-being. No conflicting interest will be
+   permitted to influence the fiduciary's actions on behalf of the client.
+   Duty to disclose is a third. It refers to the duty a fiduciary has to
+   disclose any conflict of interest they may have when acting on behalf
+   of a beneficiary.
+
+What Are Some Examples of Fiduciary Relationships?
+
+   The most common fiduciary relationships involve legal or financial
+   professionals who agree to act on behalf of their clients. For example,
+   a lawyer and a client have a fiduciary relationship. So do a trustee
+   and a beneficiary, a corporate board and its shareholders, and an agent
+   acting for a principal.
+
+   However, any individual may, in some cases, have a fiduciary duty to
+   another person or entity. For example, an employee may be found to have
+   a duty of loyalty to an employer and may be legally liable if they
+   cause harm to the employer by misusing information or resources
+   entrusted to them.
+
+What Does It Mean to Be a Fiduciary?
+
+   A fiduciary is entrusted with the authority to act on behalf of another
+   person or entity and has the legal and ethical obligation to act in the
+   best interest of them. A fiduciary agrees to put a beneficiary's
+   interest above their own.
+
+The Bottom Line
+
+   Fiduciary duties refer to the ways that a fiduciary is legally
+   committed to act for a principal or beneficiary. They include a duty of
+   loyalty, a duty of care, a duty of prudence, a duty of confidentiality,
+   and more.
+
+   Fiduciary duties are meant to ensure that the fiduciary acts only in
+   the best interests of a principal or beneficiary. What's more, the
+   fiduciary must act diligently to protect those interests.
+
+   While you should always expect a high standard of care from a
+   fiduciary, you can protect yourself by understanding the rights that
+   this relationship grants you and the responsibilities that are [180]not
+   part of a fiduciary's duties.
+
+   Article Sources
+   Investopedia requires writers to use primary sources to support their
+   work. These include white papers, government data, original reporting,
+   and interviews with industry experts. We also reference original
+   research from other reputable publishers where appropriate. You can
+   learn more about the standards we follow in producing accurate,
+   unbiased content in our [181]editorial policy.
+    1. Find Law. "[182]Banks v. Mario Industries of Virginia, Inc."
+
+   Take the Next Step to Invest
+   (BUTTON) Advertiser Disclosure
+   ×
+   The offers that appear in this table are from partnerships from which
+   Investopedia receives compensation. This compensation may impact how
+   and where listings appear. Investopedia does not include all offers
+   available in the marketplace.
+
+   Related Articles
+   [183]
+   Fiduciary Fiduciary
+   Fiduciary Definition: Examples and Why They Are Important
+   [184]
+   [fiduciary-fcde6a47733d4ecea06b608b4966a531.jpg]
+   5 Common Misconceptions About Fiduciaries
+   [185]
+   Different people pointing fingers at young guy. Different people
+   pointing fingers at young guy.
+   What Does Duty of Care Mean in Business and Financial Services?
+   [186]
+   Colleagues listening to a business presentation Colleagues listening to
+   a business presentation
+   Fiduciary Negligence: Meaning, Types, Penalties
+   [187]
+   Prudent Expert Act Prudent Expert Act
+   Prudent Expert Act
+   [188]
+   Principal Principal
+   Principal: Definition in Loans, Bonds, Investments, and Transactions
+   Partner Links
+   Related Terms
+   [189]Fiduciary Definition: Examples and Why They Are Important
+   A fiduciary is a person or organization that acts on behalf of a person
+   or persons and is legally bound to act solely in their best interests.
+   [190]more
+   [191]What Does Duty of Care Mean in Business and Financial Services?
+   Duty of care is a fiduciary responsibility that requires company
+   directors to make decisions in good faith and in a reasonably prudent
+   manner.
+   [192]more
+   [193]Fiduciary Negligence: Meaning, Types, Penalties
+   Fiduciary negligence is professional malpractice when a person fails to
+   honor their fiduciary obligations and responsibilities.
+   [194]more
+   [195]Prudent Expert Act
+   The Prudent Expert Act is a measure that requires the fiduciary of a
+   defined contribution retirement plan to use care, skill, prudence, and
+   diligence.
+   [196]more
+   [197]Principal: Definition in Loans, Bonds, Investments, and
+   Transactions
+   Principal is the money lent to a borrower or put into an investment. It
+   can also refer to a private company’s owner or the chief participant in
+   a deal.
+   [198]more
+   [199]What Is the Business Judgment Rule? With Exemptions & Example
+   The business judgment rule helps to insulate a corporation's board of
+   directors from frivolous allegations about the way it conducts
+   business.
+   [200]more
+
+     *
+     *
+     *
+     *
+     *
+
+   [201]TRUSTe
+     * [202]About Us
+     * [203]Terms of Service
+     * [204]Dictionary
+     * [205]Editorial Policy
+     * [206]Advertise
+     * [207]News
+     * [208]Privacy Policy
+     * [209]Contact Us
+     * [210]Careers
+     * [211]EU Privacy
+
+     * [212]#
+     * [213]A
+     * [214]B
+     * [215]C
+     * [216]D
+     * [217]E
+     * [218]F
+     * [219]G
+     * [220]H
+     * [221]I
+     * [222]J
+     * [223]K
+     * [224]L
+     * [225]M
+     * [226]N
+     * [227]O
+     * [228]P
+     * [229]Q
+     * [230]R
+     * [231]S
+     * [232]T
+     * [233]U
+     * [234]V
+     * [235]W
+     * [236]X
+     * [237]Y
+     * [238]Z
+
+   Investopedia is part of the [239]Dotdash Meredith publishing family.
+   Please review our updated [240]Terms of Service.
+
+   When you visit the site, Dotdash Meredith and its partners may store or
+   retrieve information on your browser, mostly in the form of cookies.
+   Cookies collect information about your preferences and your devices and
+   are used to make the site work as you expect it to, to understand how
+   you interact with the site, and to show advertisements that are
+   targeted to your interests. You can find out more about our use, change
+   your default settings, and withdraw your consent at any time with
+   effect for the future by visiting Cookies Settings, which can also be
+   found in the footer of the site.
+   (BUTTON) Cookies Settings (BUTTON) Reject All (BUTTON) Accept All
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+   2. https://www.investopedia.com/investing-4427685
+   3. https://www.investopedia.com/stocks-4427785
+   4. https://www.investopedia.com/bonds-4689778
+   5. https://www.investopedia.com/etfs-4427784
+   6. https://www.investopedia.com/options-and-derivatives-trading-4689663
+   7. https://www.investopedia.com/commodities-4427780
+   8. https://www.investopedia.com/trading-4427765
+   9. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
+  10. https://www.investopedia.com/brokers-4689772
+  11. https://www.investopedia.com/fundamental-analysis-4689757
+  12. https://www.investopedia.com/technical-analysis-4689657
+  13. https://www.investopedia.com/markets/
+  14. https://www.investopedia.com/investing-4427685
+  15. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  16. https://www.investopedia.com/simulator/portfolio
+  17. https://www.investopedia.com/simulator/trade/stocks
+  18. https://www.investopedia.com/simulator/research
+  19. https://www.investopedia.com/simulator/games/my-games
+  20. https://www.investopedia.com/simulator/games
+  21. https://www.investopedia.com/banking-4427754
+  22. https://www.investopedia.com/savings-accounts-4689728
+  23. https://www.investopedia.com/certificate-of-deposits-4689733
+  24. https://www.investopedia.com/money-market-account-4689730
+  25. https://www.investopedia.com/checking-accounts-4689732
+  26. https://www.investopedia.com/banking-4427754
+  27. https://www.investopedia.com/personal-finance-4427760
+  28. https://www.investopedia.com/budgeting-and-savings-4427755
+  29. https://www.investopedia.com/personal-loans-4689729
+  30. https://www.investopedia.com/insurance-4427716
+  31. https://www.investopedia.com/mortgage-4689703
+  32. https://www.investopedia.com/credit-and-debt-4689724
+  33. https://www.investopedia.com/student-loans-4689727
+  34. https://www.investopedia.com/taxes-4427724
+  35. https://www.investopedia.com/credit-card-4689721
+  36. https://www.investopedia.com/financial-literacy-resource-center-7151950
+  37. https://www.investopedia.com/retirement-planning-4689695
+  38. https://www.investopedia.com/personal-finance-4427760
+  39. https://www.investopedia.com/news-4427706
+  40. https://www.investopedia.com/markets-news-4427704
+  41. https://www.investopedia.com/company-news-4427705
+  42. https://www.investopedia.com/earnings-reports-5218419
+  43. https://www.investopedia.com/certificates-deposit-news-7111770
+  44. https://www.investopedia.com/mortgage-rates-5184598
+  45. https://www.investopedia.com/economic-news-5218422
+  46. https://www.investopedia.com/political-news-4689737
+  47. https://www.investopedia.com/cryptocurrency-news-5114163
+  48. https://www.investopedia.com/etf-news-5218416
+  49. https://www.investopedia.com/personal-finance-news-5114159
+  50. https://www.investopedia.com/news-4427706
+  51. https://www.investopedia.com/financial-product-reviews-7110783
+  52. https://www.investopedia.com/best-online-brokers-4587872
+  53. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
+  54. https://www.investopedia.com/best-cd-rates-4770214
+  55. https://www.investopedia.com/best-life-insurance-companies-4845858
+  56. https://www.investopedia.com/best-personal-loans-4773300
+  57. https://www.investopedia.com/mortgage-rates-5094943
+  58. https://www.investopedia.com/best-money-market-accounts-5096917
+  59. https://www.investopedia.com/best-auto-loan-rates-4846394
+  60. https://www.investopedia.com/best-credit-repair-companies-4843898
+  61. https://www.investopedia.com/best-credit-cards-4801582
+  62. https://www.investopedia.com/financial-product-reviews-7110783
+  63. https://academy.investopedia.com/
+  64. https://academy.investopedia.com/products/investing-for-beginners
+  65. https://academy.investopedia.com/products/trading-for-beginners
+  66. https://academy.investopedia.com/products/become-a-day-trader
+  67. https://academy.investopedia.com/products/technical-analysis
+  68. https://academy.investopedia.com/collections/investing-courses-catalog
+  69. https://academy.investopedia.com/collections/trading-courses-collection
+  70. https://academy.investopedia.com/
+  71. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  72. https://www.investopedia.com/investing-4427685
+  73. https://www.investopedia.com/stocks-4427785
+  74. https://www.investopedia.com/bonds-4689778
+  75. https://www.investopedia.com/etfs-4427784
+  76. https://www.investopedia.com/options-and-derivatives-trading-4689663
+  77. https://www.investopedia.com/commodities-4427780
+  78. https://www.investopedia.com/trading-4427765
+  79. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
+  80. https://www.investopedia.com/brokers-4689772
+  81. https://www.investopedia.com/fundamental-analysis-4689757
+  82. https://www.investopedia.com/technical-analysis-4689657
+  83. https://www.investopedia.com/markets/
+  84. https://www.investopedia.com/investing-4427685
+  85. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  86. https://www.investopedia.com/simulator/portfolio
+  87. https://www.investopedia.com/simulator/trade/stocks
+  88. https://www.investopedia.com/simulator/research
+  89. https://www.investopedia.com/simulator/games/my-games
+  90. https://www.investopedia.com/simulator/games
+  91. https://www.investopedia.com/banking-4427754
+  92. https://www.investopedia.com/savings-accounts-4689728
+  93. https://www.investopedia.com/certificate-of-deposits-4689733
+  94. https://www.investopedia.com/money-market-account-4689730
+  95. https://www.investopedia.com/checking-accounts-4689732
+  96. https://www.investopedia.com/banking-4427754
+  97. https://www.investopedia.com/personal-finance-4427760
+  98. https://www.investopedia.com/budgeting-and-savings-4427755
+  99. https://www.investopedia.com/personal-loans-4689729
+ 100. https://www.investopedia.com/insurance-4427716
+ 101. https://www.investopedia.com/mortgage-4689703
+ 102. https://www.investopedia.com/credit-and-debt-4689724
+ 103. https://www.investopedia.com/student-loans-4689727
+ 104. https://www.investopedia.com/taxes-4427724
+ 105. https://www.investopedia.com/credit-card-4689721
+ 106. https://www.investopedia.com/financial-literacy-resource-center-7151950
+ 107. https://www.investopedia.com/retirement-planning-4689695
+ 108. https://www.investopedia.com/personal-finance-4427760
+ 109. https://www.investopedia.com/news-4427706
+ 110. https://www.investopedia.com/markets-news-4427704
+ 111. https://www.investopedia.com/company-news-4427705
+ 112. https://www.investopedia.com/earnings-reports-5218419
+ 113. https://www.investopedia.com/certificates-deposit-news-7111770
+ 114. https://www.investopedia.com/mortgage-rates-5184598
+ 115. https://www.investopedia.com/economic-news-5218422
+ 116. https://www.investopedia.com/political-news-4689737
+ 117. https://www.investopedia.com/cryptocurrency-news-5114163
+ 118. https://www.investopedia.com/etf-news-5218416
+ 119. https://www.investopedia.com/personal-finance-news-5114159
+ 120. https://www.investopedia.com/news-4427706
+ 121. https://www.investopedia.com/financial-product-reviews-7110783
+ 122. https://www.investopedia.com/best-online-brokers-4587872
+ 123. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
+ 124. https://www.investopedia.com/best-cd-rates-4770214
+ 125. https://www.investopedia.com/best-life-insurance-companies-4845858
+ 126. https://www.investopedia.com/best-personal-loans-4773300
+ 127. https://www.investopedia.com/mortgage-rates-5094943
+ 128. https://www.investopedia.com/best-money-market-accounts-5096917
+ 129. https://www.investopedia.com/best-auto-loan-rates-4846394
+ 130. https://www.investopedia.com/best-credit-repair-companies-4843898
+ 131. https://www.investopedia.com/best-credit-cards-4801582
+ 132. https://www.investopedia.com/financial-product-reviews-7110783
+ 133. https://academy.investopedia.com/
+ 134. https://academy.investopedia.com/products/investing-for-beginners
+ 135. https://academy.investopedia.com/products/trading-for-beginners
+ 136. https://academy.investopedia.com/products/become-a-day-trader
+ 137. https://academy.investopedia.com/products/technical-analysis
+ 138. https://academy.investopedia.com/collections/investing-courses-catalog
+ 139. https://academy.investopedia.com/collections/trading-courses-collection
+ 140. https://academy.investopedia.com/
+ 141. https://www.investopedia.com/economy-4689801
+ 142. https://www.investopedia.com/government-and-policy-4689793
+ 143. https://www.investopedia.com/monetary-policy-4689792
+ 144. https://www.investopedia.com/fiscal-policy-4689796
+ 145. https://www.investopedia.com/economics-4689800
+ 146. https://www.investopedia.com/economy-4689801
+ 147. https://www.investopedia.com/financial-term-dictionary-4769738
+ 148. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
+ 149. https://www.investopedia.com/about-us-5093223
+ 150. about:blank
+ 151. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-what-is-a-fiduciary-duty
+ 152. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-examples-of-fiduciary-relationships
+ 153. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-types-of-fiduciary-duties
+ 154. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-breaches-in-fiduciary-duty
+ 155. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-consequences-of-a-fiduciary-breach
+ 156. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-elements-of-a-fiduciary-breach-claim
+ 157. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-examples-of-fiduciary-breach-cases
+ 158. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-what-does-it-mean-to-have-a-fiduciary-duty
+ 159. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-the-bottom-line
+ 160. https://www.investopedia.com/investing-4427685
+ 161. https://www.investopedia.com/laws-and-regulations-4427769
+ 162. https://www.investopedia.com/contributors/98156/
+ 163. https://www.investopedia.com/contributors/98156/
+ 164. https://www.investopedia.com/legal-4768893#editorial-policy
+ 165. https://www.investopedia.com/julius-mansa-4799781
+ 166. https://www.investopedia.com/katrina-munichiello-5078531
+ 167. https://www.investopedia.com/katrina-munichiello-5078531
+ 168. https://www.investopedia.com/legal-4768893#editorial-policy
+ 169. https://www.investopedia.com/terms/c/conflict-of-interest.asp
+ 170. https://www.investopedia.com/terms/e/estate.asp
+ 171. https://www.investopedia.com/terms/p/property.asp
+ 172. https://www.investopedia.com/terms/e/estateplanning.asp
+ 173. https://www.investopedia.com/terms/p/principal-agent-relationship.asp
+ 174. https://www.investopedia.com/terms/f/fundmanager.asp
+ 175. https://www.investopedia.com/articles/professionaleducation/07/aif-aifa.asp
+ 176. https://www.investopedia.com/terms/d/duty-care.asp
+ 177. https://www.investopedia.com/articles/professionals/071713/ethical-standards-you-should-expect-financial-advisors.asp
+ 178. https://www.investopedia.com/terms/f/finra.asp
+ 179. https://www.investopedia.com/articles/investing/112914/understanding-sec.asp
+ 180. https://www.investopedia.com/financial-edge/0912/5-misconceptions-about-a-fiduciary.aspx
+ 181. https://www.investopedia.com/legal-4768893#EditorialPolicy
+ 182. https://caselaw.findlaw.com/va-supreme-court/1153884.html
+ 183. https://www.investopedia.com/terms/f/fiduciary.asp
+ 184. https://www.investopedia.com/financial-edge/0912/5-misconceptions-about-a-fiduciary.aspx
+ 185. https://www.investopedia.com/terms/d/duty-care.asp
+ 186. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+ 187. https://www.investopedia.com/terms/p/prudent-expert-act.asp
+ 188. https://www.investopedia.com/terms/p/principal.asp
+ 189. https://www.investopedia.com/terms/f/fiduciary.asp
+ 190. https://www.investopedia.com/terms/f/fiduciary.asp
+ 191. https://www.investopedia.com/terms/d/duty-care.asp
+ 192. https://www.investopedia.com/terms/d/duty-care.asp
+ 193. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+ 194. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+ 195. https://www.investopedia.com/terms/p/prudent-expert-act.asp
+ 196. https://www.investopedia.com/terms/p/prudent-expert-act.asp
+ 197. https://www.investopedia.com/terms/p/principal.asp
+ 198. https://www.investopedia.com/terms/p/principal.asp
+ 199. https://www.investopedia.com/terms/b/businessjudgmentrule.asp
+ 200. https://www.investopedia.com/terms/b/businessjudgmentrule.asp
+ 201. https://privacy.truste.com/privacy-seal/validation?rid=f8e1238d-6371-460f-8ea0-1b8cad9e9c4b
+ 202. https://www.investopedia.com/about-us-5093223
+ 203. https://www.dotdashmeredith.com/brands-termsofservice
+ 204. https://www.investopedia.com/financial-term-dictionary-4769738
+ 205. https://www.investopedia.com/legal-4768893#editorial-policy
+ 206. https://www.dotdashmeredith.com/
+ 207. https://www.investopedia.com/news-4427706
+ 208. https://www.dotdashmeredith.com/brands-privacy
+ 209. https://invcontent.zendesk.com/hc/en-us/requests/new
+ 210. https://www.dotdashmeredith.com/careers
+ 211. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp
+ 212. https://www.investopedia.com/terms-beginning-with-num-4769350
+ 213. https://www.investopedia.com/terms-beginning-with-a-4769351
+ 214. https://www.investopedia.com/terms-beginning-with-b-4769352
+ 215. https://www.investopedia.com/terms-beginning-with-c-4769353
+ 216. https://www.investopedia.com/terms-beginning-with-d-4769354
+ 217. https://www.investopedia.com/terms-beginning-with-e-4769355
+ 218. https://www.investopedia.com/terms-beginning-with-f-4769356
+ 219. https://www.investopedia.com/terms-beginning-with-g-4769357
+ 220. https://www.investopedia.com/terms-beginning-with-h-4769358
+ 221. https://www.investopedia.com/terms-beginning-with-i-4769359
+ 222. https://www.investopedia.com/terms-beginning-with-j-4769360
+ 223. https://www.investopedia.com/terms-beginning-with-k-4769361
+ 224. https://www.investopedia.com/terms-beginning-with-l-4769362
+ 225. https://www.investopedia.com/terms-beginning-with-m-4769363
+ 226. https://www.investopedia.com/terms-beginning-with-n-4769364
+ 227. https://www.investopedia.com/terms-beginning-with-o-4769365
+ 228. https://www.investopedia.com/terms-beginning-with-p-4769366
+ 229. https://www.investopedia.com/terms-beginning-with-q-4769367
+ 230. https://www.investopedia.com/terms-beginning-with-r-4769368
+ 231. https://www.investopedia.com/terms-beginning-with-s-4769369
+ 232. https://www.investopedia.com/terms-beginning-with-t-4769370
+ 233. https://www.investopedia.com/terms-beginning-with-u-4769371
+ 234. https://www.investopedia.com/terms-beginning-with-v-4769372
+ 235. https://www.investopedia.com/terms-beginning-with-w-4769373
+ 236. https://www.investopedia.com/terms-beginning-with-x-4769374
+ 237. https://www.investopedia.com/terms-beginning-with-y-4769375
+ 238. https://www.investopedia.com/terms-beginning-with-z-4769376
+ 239. https://www.dotdashmeredith.com/
+ 240. https://www.dotdashmeredith.com/brands-termsofservice
+
+   Hidden links:
+ 242. https://www.investopedia.com/
+ 243. https://www.facebook.com/Investopedia/
+ 244. https://www.instagram.com/investopedia/?hl=en
+ 245. https://www.linkedin.com/company/investopedia-ulc
+ 246. https://www.tiktok.com/@investopedia
+ 247. https://twitter.com/investopedia
+ 248. https://www.youtube.com/c/investopedia
+ 249. https://www.linkedin.com/in/adambarone52/
+ 250. https://twitter.com/adambarone
+ 251. https://www.linkedin.com/in/kamwrites/
+ 252. https://twitter.com/KatMuniWrites
+ 253. https://www.investopedia.com/
+ 254. https://www.facebook.com/Investopedia/
+ 255. https://www.instagram.com/investopedia/?hl=en
+ 256. https://www.linkedin.com/company/investopedia-ulc
+ 257. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
+ 258. https://twitter.com/investopedia

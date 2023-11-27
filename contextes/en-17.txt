@@ -1,0 +1,48 @@
+
+    1. [40]Overview
+    2. Tax and duty
+    3. [41]Documents
+    4. [42]Gifts
+
+Tax and duty
+
+   You’ll be contacted by Royal Mail, Parcelforce or the courier company
+   if you need to pay any VAT, duty or delivery charges (‘handling fees’)
+   to receive your goods.
+
+--
+     * the value of the goods
+     * postage, packaging and insurance
+     * any duty you owe
+
+   VAT is charged at the [44]VAT rate that applies to your goods.
+--
+
+   If you receive large amounts of alcohol or tobacco for your business,
+   use the [48]Trade Tariff to check duty rates.
+
+   Your goods can also be seized if they’re:
+     * spirits over 35 centilitres without a UK duty stamp
+     * cigarettes or hand-rolling tobacco without UK health warnings or
+       fiscal marks
+--
+References
+
+   1. https://www.gov.uk/goods-sent-from-abroad/tax-and-duty#content
+   2. https://www.gov.uk/help/cookies
+   3. https://www.gov.uk/help/cookies
+--
+  37. https://www.gov.uk/browse/business
+  38. https://www.gov.uk/browse/business/imports
+  39. https://www.gov.uk/goods-sent-from-abroad/tax-and-duty#guide-contents
+  40. https://www.gov.uk/goods-sent-from-abroad
+  41. https://www.gov.uk/goods-sent-from-abroad/documents
+--
+  44. https://www.gov.uk/vat-rates
+  45. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries
+  46. https://www.gov.uk/alcohol-and-tobacco-excise-duty
+  47. https://www.gov.uk/customs-seizures
+  48. https://www.gov.uk/trade-tariff
+  49. https://www.gov.uk/government/publications/vat-customs-dutyimport-vat-relating-to-imports-by-post-bor286
+  50. https://www.gov.uk/government/publications/import-and-export-application-for-repaymentremission-c285
+  51. https://www.gov.uk/goods-sent-from-abroad

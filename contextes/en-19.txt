@@ -1,0 +1,24 @@
+Overview
+
+   When you buy shares, you usually pay a tax or duty of 0.5% on the
+   transaction.
+
+--
+     * [57]Business tax
+     * [58]Income Tax
+     * [59]Stamp duty on shares
+     * [60]Tax on savings and investments
+
+--
+  46. https://www.gov.uk/tax-foreign-income
+  47. https://www.gov.uk/tax-sell-shares
+  48. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/stamp-duty-enquiries-shares-and-land
+  49. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/stamp-duty-reserve-tax
+  50. https://www.gov.uk/tax-help
+  51. https://www.gov.uk/tax-buy-shares/buy-shares-electronically
+--
+  57. https://www.gov.uk/browse/business/business-tax
+  58. https://www.gov.uk/browse/tax/income-tax
+  59. https://www.gov.uk/topic/business-tax/stamp-duty-on-shares
+  60. https://www.gov.uk/topic/personal-tax/savings-investment-tax
+  61. https://www.gov.uk/contact/govuk

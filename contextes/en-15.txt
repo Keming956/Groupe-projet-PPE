@@ -1,0 +1,130 @@
+          + [40]Value added tax (VAT)
+          + [41]VAT and Administrative Cooperation
+          + [42]Excise duties
+          + [43]Tax Co-operation and control
+          + [44]Economic analysis of taxation
+--
+          + [54]AEO (Authorised Economic Operator)
+          + [55]Prohibitions and Restrictions
+          + [56]Calculation of customs duties
+          + [57]Customs controls
+          + [58]Customs Laboratories
+--
+    1. [77]Home
+    2. [78]Taxation
+    3. Excise duties
+
+Excise duties on alcohol, tobacco and energy
+
+   Excise duties are indirect taxes on the sale or use of specific
+   products, such as alcohol, tobacco and energy. The revenue from these
+   excise duties goes entirely to the country to which they are paid.
+
+   EU countries agreed on common EU rules to make sure that excise duties
+   are applied in the same way and to the same products everywhere in the
+   Union.
+--
+
+   In addition, EU law sets out [79]common provisions, which apply to all
+   products subject to excise duties. These common provisions include the
+   framework for the [80]Excise Monitoring and Control System (EMCS), an
+   IT system for monitoring the movement of excise goods within the EU.
+--
+   Legal texts
+     * [81]Council Directive (EU) 2020/262 laying down the general
+       arrangements for excise duty (recast)
+     * [82]Council Regulation (EU) No 389/2012 on administrative
+       cooperation in the field of excise duties as regards the content of
+       electronic registers (subsequently amended by Council Regulations
+       2020/263, 2021/774 and 2023/246)
+--
+[86]Excise Duty on Alcohol
+
+   EU legislation on excise duties on alcohol covers excise duties on
+   alcoholic beverages, specific provisions for locally produced products
+   and alcohol not intended for human consumption
+--
+[87]Excise Duties on Tobacco
+
+   EU legislation on excise duties for manufactured tobacco defines the
+   categories of manufactured tobacco products, the principles of
+   taxation, and the minimum rates and structures to be applied
+--
+[88]Excise Duty on Energy
+
+   EU excise duty rules cover all energy products used for heating and
+   transport, as well as electricity
+
+--
+
+   The Excise Movement and Control System (EMCS) is a computerised system
+   for monitoring the movement of excise goods under duty suspension in
+   the EU
+
+--
+References
+
+   1. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
+   2. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+   3. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
+   4. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en#main-content
+   5. https://commission.europa.eu/index_en
+   6. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+   7. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_bg
+   8. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_es
+   9. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_cs
+  10. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_da
+  11. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
+  12. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_et
+  13. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_el
+  14. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  15. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
+  16. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ga
+  17. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hr
+  18. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_it
+  19. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lv
+  20. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lt
+  21. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hu
+  22. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_mt
+  23. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_nl
+  24. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pl
+  25. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pt
+  26. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ro
+  27. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sk
+  28. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sl
+  29. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fi
+  30. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sv
+  31. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  32. https://commission.europa.eu/business-economy-euro_en
+  33. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  34. https://taxation-customs.ec.europa.eu/index_en
+  35. https://taxation-customs.ec.europa.eu/taxation-1_en
+--
+  40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
+  41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
+  44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
+--
+  54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
+  55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
+  58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
+--
+  77. https://taxation-customs.ec.europa.eu/index_en
+  78. https://taxation-customs.ec.europa.eu/taxation-1_en
+  79. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
+  80. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  81. https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020L0262&from=EN
+  82. https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32012R0389
+  83. https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32020D0263
+  84. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation/economic-studies_en
+  85. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
+  86. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-alcohol_en
+  87. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duties-tobacco_en
+  88. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-energy_en
+  89. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/review-energy-taxation-directive-proposal_en
+  90. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  91. https://taxation-customs.ec.europa.eu/index_en
+  92. https://taxation-customs.ec.europa.eu/contact-us_en

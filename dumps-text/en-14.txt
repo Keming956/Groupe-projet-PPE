@@ -1,0 +1,438 @@
+   #[1]alternate [2]alternate [3]alternate
+
+   [4]Skip to main content
+
+   [5]European Commission logo
+   [6]English
+   Select your language
+   (BUTTON) Close
+     * [7]bgбългарски
+     * [8]esespañol
+     * [9]csčeština
+     * [10]dadansk
+     * [11]deDeutsch
+     * [12]eteesti
+     * [13]elελληνικά
+     * [14]enEnglish
+     * [15]frfrançais
+     * [16]gaGaeilge
+     * [17]hrhrvatski
+     * [18]ititaliano
+     * [19]lvlatviešu
+     * [20]ltlietuvių
+     * [21]humagyar
+     * [22]mtMalti
+     * [23]nlNederlands
+     * [24]plpolski
+     * [25]ptportuguês
+     * [26]roromână
+     * [27]skslovenčina
+     * [28]slslovenščina
+     * [29]fisuomi
+     * [30]svsvenska
+
+   [31]Search
+   Search ____________________
+   (BUTTON) Search
+   [32]Business, Economy, Euro
+   Taxation and Customs Union
+
+   [33]Menu
+
+   (BUTTON) Close
+   Menu
+   (BUTTON) Back (BUTTON) (BUTTON)
+     * [34]Home
+     * [35]Taxation (BUTTON)
+          + [36]Corporate Taxation
+          + [37]International affairs
+          + [38]Decision making on EU Tax Policy
+          + [39]Company taxation
+          + [40]Value added tax (VAT)
+          + [41]VAT and Administrative Cooperation
+          + [42]Excise duties
+          + [43]Tax Co-operation and control
+          + [44]Economic analysis of taxation
+          + [45]Personal taxation
+          + [46]Other taxes
+          + [47]Central Electronic System of Payment information (CESOP)
+          + [48]National tax administrations
+          + [49]Conferences and events
+          + [50]EU Training
+          + [51]Legislation
+          + [52]Glossary
+     * [53]Customs (BUTTON)
+          + [54]AEO (Authorised Economic Operator)
+          + [55]Prohibitions and Restrictions
+          + [56]Calculation of customs duties
+          + [57]Customs controls
+          + [58]Customs Laboratories
+          + [59]EU Customs strategy
+          + [60]Customs Procedures for import and export
+          + [61]Union Customs code
+          + [62]Customs security
+          + [63]Customs Risk Management
+          + [64]International affairs
+          + [65]Legislation
+          + [66]National customs administrations
+          + [67]EU Training
+          + [68]Glossary
+          + [69]Customs cooperation
+          + [70]Electronic customs
+     * [71]Online services (BUTTON)
+          + [72]Online services and databases for Customs
+          + [73]Online services and databases for Taxation
+     * [74]Tenders and grants
+     * [75]News
+     * [76]Events
+
+    1. [77]Home
+    2. Buying goods online coming from a non-European Union country
+
+Buying goods online coming from a non-European Union country
+
+   Page contents
+   (BUTTON)
+
+   In recent years, the ease of ordering online from our own homes has
+   made e-commerce one of the most popular ways for EU consumers to
+   purchase goods. When you buy goods online that are already located in
+   the EU at the time of sale, there are no customs formalities and
+   Value-Added Tax (VAT) is already included in the final price you pay at
+   checkout. However, consumers should be aware that ordering goods online
+   that are located outside the EU at the time of sale, will result in a
+   customs declaration being made and may result in customs duties and
+   handling fees being incurred. Furthermore, import VAT may be charged to
+   the consumer on delivery if the seller of the goods has not already
+   charged VAT on the product and remitted it via the [78]EU Import One
+   Stop Shop.
+
+Ordering goods online that are dispatched from a non-EU country
+
+   When you buy a product from a non-EU country, VAT is payable on your
+   purchase irrespective of the value of the goods. In addition to VAT,
+   you may also have to pay customs duties for goods above €150 and excise
+   duty for specific goods. If the terms of sale do not specify another
+   arrangement, the goods can be held by the customs authority at entry,
+   pending the payment of duty and tax, amongst other reasons (if the
+   goods are prohibited in the EU, for example).
+
+Possible charges on import
+
+Import VAT
+
+   When you buy online from a non-EU country, VAT must also be paid, just
+   as if you ordered goods that are already located within the EU. The VAT
+   is either paid at the point of purchase on the website (for example,
+   when you buy from a seller who is registered to use the Import One Stop
+   Shop for VAT), or the postal operator or courier may collect the VAT
+   from you on delivery.
+
+   Information on the VAT, customs duties and other charges due should be
+   clearly explained on the website, and if they cannot be calculated in
+   advance, you must be informed that additional charges may be payable.
+   Ask assistance from the website to estimate how much more money you
+   will have to pay and compare the price with other offers. In general,
+   traders from non-EU countries selling to consumers in the EU must
+   comply with EU law, including [79]EU consumer law.
+
+   One easy way to check if VAT has been included in the price or not is
+   to check whether the website is signed up to the EU Import One Stop
+   Shop for VAT. If they are, VAT will already have been included in the
+   price you have paid at the moment of purchase. Most of the biggest
+   online platforms have signed up to the Import One Stop Shop.
+
+Customs clearance fees
+
+   Customs clearance for release for free circulation is the documented
+   permission granted by the national customs authority in the EU to allow
+   the goods to be used or consumed in the EU. This permission is given to
+   the person that declared the goods to customs. For e-commerce goods, it
+   is typically a shipping agent (postal operator or courier) that will
+   charge you a customs clearance fee for complying with the necessary
+   formalities.  The permission is proof that all applicable customs
+   formalities have been completed, including the payment of duties, and
+   the shipment is free to be used or consumed.
+
+   These charges can vary from company to company. An overview of charges
+   applied by Universal Service Providers for postal services in the EU as
+   of June 2022 is available [80]here.
+
+   Goods for which you do not have to pay customs duties (e.g. with total
+   value lower than €150) are also subject to customs clearance.
+
+   Customs officers examine packages arriving from outside the EU in order
+   to:
+     * control goods that are not allowed or restricted in the EU
+     * confirm that the description and value stated on the customs
+       declaration is correct and
+     * check the Customs Declaration to determine if customs duty, excise
+       duty and/or Import VAT are chargeable.
+
+Excise duties
+
+   Depending on the goods you order, you may receive an invoice for excise
+   duties from the customs authorities, your postal operator or the
+   courier. This invoice must be paid before the goods are handed over to
+   you.
+
+   See [81]how excise duties are  calculated in the EU Member States.
+
+Warning
+
+   Some commercial websites may offer to show a value on the customs
+   declaration that is much lower than the actual price paid so that you
+   don't have to pay duty and/or pay lower VAT. This may also result in
+   seizure of the goods and/or additional costs and possible a fine at
+   delivery.
+
+VAT in detail
+
+   Import VAT is calculated as a percentage (VAT rate) of the taxable
+   amount. The VAT rate is the one applicable in the country where the
+   goods are being delivered. You can check the [82]VAT rates applied on
+   various goods in each country through the [83]Taxes in Europe database.
+
+   The VAT taxable amount is made up of the customs value plus taxes,
+   duties, levies and other charges, such as shipping and insurance costs.
+   Remember: the import VAT may either be included in the overall delivery
+   price or not.
+
+   If the import VAT is not included in the price paid to the seller, you
+   will have to pay it to the postal company or express courier, or
+   directly to the customs if you clear the goods at customs yourself. In
+   the latter case, the procedure differs according to the country of
+   import.
+
+   If you pay “all inclusive”, you will be paying import VAT to the seller
+   when paying the total price at the moment of purchase. But if the
+   import VAT is not properly estimated by the seller, or if the seller
+   fails to ensure the transfer of this VAT amount to the tax authority,
+   national legislation can hold you jointly liable.
+
+     You should check with your national tax administration ([84]national
+     links/websites, which has competence in this matter.
+
+Customs duty in detail
+
+   On the basis of the data provided in the customs declaration, the
+   supporting documents that accompany it and any information which they
+   may request, the competent customs officers determine, impose and
+   collect Customs duties that are due.
+
+   Customs duty is typically calculated as a percentage of the customs
+   value of the goods:
+
+   The percentage or rate varies depending on the type of goods. You can
+   check the tariff applicable in the [85]TARIC database.
+
+   The customs value is based on the price paid for the goods.
+
+   Customs duty is not due for goods, provided directly to the buyer when
+   their value does not exceed €150, excluding transport and insurance
+   costs. This relief does not apply to perfumes and toilet waters,
+   tobacco or tobacco products and alcoholic products which are subject to
+   special duty-free limits on the quantity provided.
+
+   In some cases, additional duties may be charged, depending on the
+   country of manufacture of the goods. The [86]TARIC database covers all
+   measures relating to tariff, commercial and agricultural legislation.
+
+The customs declaration in detail
+
+   The customs declaration provides information to the customs authorities
+   about the goods that you are importing. This declaration must be
+   submitted by a person established in the EU or their representative who
+   is able to present the goods to customs. This person is typically the
+   buyer (i.e. the importer) that ordered the goods..
+
+   If you are the person who submits the customs declaration, a courier
+   company may offer to make the declaration on your behalf, but there is
+   normally a charge for this service. If you are not the person who
+   submits the customs declaration, you should verify with the supplier
+   that it is submitted. The customs declaration should indicate correctly
+   the nature of the goods and their value not taking into account taxes,
+   charges, transport or other additional costs.
+
+   It is in the customer's own interest to make sure that the declaration
+   has been submitted and is accurate. If no declaration is made, or the
+   information in it was found to be inaccurate, the acceptance of the
+   declaration, and thus the delivery of the package to you may be delayed
+   or even not take place as the customs officials are entitled to make
+   further enquiries and impose penalties and sanctions.
+
+   The customs authority carrying out the customs clearance is entitled to
+   open and examine any package if it considers this appropriate. Packages
+   might even be seized by customs and, when appropriate, destroyed.
+
+Excise duty in detail
+
+   Excise duties are indirect taxes on the sale or use of specific
+   products, such as alcohol and tobacco, and are payable on these goods
+   on entry into the EU. EU legislation sets out only minimum levels of
+   excise duty above which individual Member States are free to set their
+   own rates. You can check the [87]excise duty rates applied on the goods
+   concerned through the [88]Taxes in Europe database. Besides the list of
+   excise products at EU level, Member States have national lists of
+   excise products with their own excise rates, which may vary from one
+   Member State to another. The goods will be held by the Customs
+   Authority at entry into your country, pending the payment of excise
+   duty.
+
+     You should check with your national tax administration ([89]national
+     links/websites), which has the competence in this matter.
+
+   For a full overview of the EU countries and certain territories where
+   EU rules regulating customs, VAT and excise apply or do not apply,
+   please check [90]here.
+
+   Share this page
+
+[91]Taxation and Customs Union
+
+   This site is managed by: Directorate-General for Taxation and Customs
+   Union
+
+Contact us
+
+     * [92]Contact us
+
+Follow us
+
+     * [93]Twitter
+     * [94]LinkedIn
+     * [95]YouTube
+
+About us
+
+     * [96]Newsletter
+     * [97]Glossary
+     * [98]Our department
+
+Related sites
+
+     * [99]Have your say
+
+   More information on:
+     * [100]Business, Economy, Euro
+
+   [101]European Commission logo
+     * [102]Contact the European Commission
+     * [103]Follow the European Commission on social media
+     * [104]Resources for partners
+
+     * [105]Languages on our websites
+     * [106]Cookies
+     * [107]Privacy policy
+     * [108]Legal notice
+
+References
+
+   1. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_de
+   2. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en
+   3. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_fr
+   4. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en#main-content
+   5. https://commission.europa.eu/index_en
+   6. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en
+   7. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_bg
+   8. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_es
+   9. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_cs
+  10. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_da
+  11. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_de
+  12. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_et
+  13. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_el
+  14. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en
+  15. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_fr
+  16. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_ga
+  17. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_hr
+  18. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_it
+  19. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_lv
+  20. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_lt
+  21. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_hu
+  22. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_mt
+  23. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_nl
+  24. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_pl
+  25. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_pt
+  26. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_ro
+  27. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_sk
+  28. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_sl
+  29. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_fi
+  30. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_sv
+  31. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en
+  32. https://commission.europa.eu/business-economy-euro_en
+  33. https://taxation-customs.ec.europa.eu/buying-goods-online-coming-non-european-union-country_en
+  34. https://taxation-customs.ec.europa.eu/index_en
+  35. https://taxation-customs.ec.europa.eu/taxation-1_en
+  36. https://taxation-customs.ec.europa.eu/taxation-1/corporate-taxation_en
+  37. https://ec.europa.eu/taxation_customs/customs-4/international-affairs_en
+  38. https://taxation-customs.ec.europa.eu/taxation-1/decision-making-eu-tax-policy_en
+  39. https://taxation-customs.ec.europa.eu/taxation-1/company-taxation_en
+  40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
+  41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
+  44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
+  45. https://taxation-customs.ec.europa.eu/taxation-1/personal-taxation_en
+  46. https://taxation-customs.ec.europa.eu/taxation-1/other-taxes_en
+  47. https://taxation-customs.ec.europa.eu/taxation-1/central-electronic-system-payment-information-cesop_en
+  48. https://taxation-customs.ec.europa.eu/taxation-1/national-tax-administrations_en
+  49. https://taxation-customs.ec.europa.eu/taxation-1/conferences-and-events_en
+  50. https://taxation-customs.ec.europa.eu/taxation-1/eu-training_en
+  51. https://taxation-customs.ec.europa.eu/taxation-1/legislation_en
+  52. https://ec.europa.eu/taxation_customs/about/glossary_en
+  53. https://taxation-customs.ec.europa.eu/customs-4_en
+  54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
+  55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
+  58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
+  59. https://taxation-customs.ec.europa.eu/customs-4/eu-customs-strategy_en
+  60. https://ec.europa.eu/taxation_customs/business/customs-procedures-import-and-export_en
+  61. https://taxation-customs.ec.europa.eu/customs-4/union-customs-code_en
+  62. https://taxation-customs.ec.europa.eu/customs-4/customs-security_en
+  63. https://taxation-customs.ec.europa.eu/customs-4/customs-risk-management_en
+  64. https://taxation-customs.ec.europa.eu/customs-4/international-affairs_en
+  65. https://ec.europa.eu/taxation_customs/taxation-1/legislation_en
+  66. https://ec.europa.eu/taxation_customs/customs-4/union-customs-code/national-customs-administrations_en
+  67. https://ec.europa.eu/taxation_customs/taxation-1/eu-training_en
+  68. https://ec.europa.eu/taxation_customs/about/glossary_en
+  69. https://taxation-customs.ec.europa.eu/eu-funding-customs-and-tax/customs-programme_en
+  70. https://taxation-customs.ec.europa.eu/customs-4/electronic-customs_en
+  71. https://taxation-customs.ec.europa.eu/online-services_en
+  72. https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-customs_en
+  73. https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-taxation_en
+  74. https://taxation-customs.ec.europa.eu/tenders-and-grants-0_en
+  75. https://taxation-customs.ec.europa.eu/news_en
+  76. https://taxation-customs.ec.europa.eu/events_en
+  77. https://taxation-customs.ec.europa.eu/index_en
+  78. https://taxation-customs.ec.europa.eu/ioss_en
+  79. https://ec.europa.eu/info/law/law-topic/consumer-protection-law/consumer-contract-law/consumer-rights-directive_en
+  80. https://taxation-customs.ec.europa.eu/document/download/b18f2be3-076f-4eb6-9fa2-368461e91d11_en?filename=Information postal fees for publication final.pdf
+  81. https://taxation-customs.ec.europa.eu/document/download/f391bbdd-8d67-49c0-a40b-6b20e680477b_en?filename=excise_customs_buying_online.pdf
+  82. https://taxation-customs.ec.europa.eu/document/download/82a38bdb-d724-472d-8e02-325b271e0d88_en?filename=vat_rates_en.pdf
+  83. https://ec.europa.eu/taxation_customs/tedb/taxDetails.html?id=4046/1656626400
+  84. https://taxation-customs.ec.europa.eu/national-tax-websites_en
+  85. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en
+  86. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en
+  87. https://taxation-customs.ec.europa.eu/document/download/82a38bdb-d724-472d-8e02-325b271e0d88_en?filename=vat_rates_en.pdf
+  88. https://ec.europa.eu/taxation_customs/tedb/taxDetails.html?id=4046/1656626400
+  89. https://taxation-customs.ec.europa.eu/national-tax-websites_en
+  90. https://taxation-customs.ec.europa.eu/territorial-status-eu-countries-and-certain-territories_en
+  91. https://taxation-customs.ec.europa.eu/index_en
+  92. https://taxation-customs.ec.europa.eu/contact-us_en
+  93. https://twitter.com/EU_Taxud
+  94. https://www.linkedin.com/showcase/eu-economy-finance/
+  95. https://www.youtube.com/EUTaxud
+  96. https://taxation-customs.ec.europa.eu/newsletters_en
+  97. https://taxation-customs.ec.europa.eu/glossary_en
+  98. https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/taxation-and-customs-union
+  99. https://ec.europa.eu/info/consultations_en
+ 100. https://commission.europa.eu/business-economy-euro_en
+ 101. https://commission.europa.eu/index_en
+ 102. https://commission.europa.eu/about-european-commission/contact_en
+ 103. https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&institutions=european_commission
+ 104. https://commission.europa.eu/resources-partners_en
+ 105. https://commission.europa.eu/languages-our-websites_en
+ 106. https://commission.europa.eu/cookies_en
+ 107. https://commission.europa.eu/privacy-policy_en
+ 108. https://commission.europa.eu/legal-notice_en

@@ -1,0 +1,290 @@
+   #[1]Search
+
+   [2]Skip to main content
+
+Cookies on GOV.UK
+
+   We use some essential cookies to make this website work.
+
+   We’d like to set additional cookies to understand how you use GOV.UK,
+   remember your settings and improve government services.
+
+   We also use cookies set by other sites to help us deliver content from
+   their services.
+
+   You have accepted additional cookies. You can [3]change your cookie
+   settings at any time.
+
+   You have rejected additional cookies. You can [4]change your cookie
+   settings at any time.
+   (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
+   [5]View cookies
+   (BUTTON) Hide this message
+
+   [6]GOV.UK
+
+Navigation menu
+
+   [7]Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × [8]Search GOV.UK
+
+Services and information
+
+     * [9]Benefits
+     * [10]Births, death, marriages and care
+     * [11]Business and self-employed
+     * [12]Childcare and parenting
+     * [13]Citizenship and living in the UK
+     * [14]Crime, justice and the law
+     * [15]Disabled people
+     * [16]Driving and transport
+     * [17]Education and learning
+     * [18]Employing people
+     * [19]Environment and countryside
+     * [20]Housing and local services
+     * [21]Money and tax
+     * [22]Passports, travel and living abroad
+     * [23]Visas and immigration
+     * [24]Working, jobs and pensions
+
+Government activity
+
+     * [25]Departments
+       Departments, agencies and public bodies
+     * [26]News
+       News stories, speeches, letters and notices
+     * [27]Guidance and regulation
+       Detailed guidance, regulations and rules
+     * [28]Research and statistics
+       Reports, analysis and official statistics
+     * [29]Policy papers and consultations
+       Consultations and strategy
+     * [30]Transparency
+       Data, Freedom of Information releases and corporate reports
+
+Search
+
+   Search GOV.UK
+   ____________________
+   (BUTTON) Search
+
+Popular on GOV.UK
+
+     * [31]Get support with the cost of living
+     * [32]Find out about the Energy Bills Support Scheme
+     * [33]Find a job
+     * [34]Universal Credit account: sign in
+     * [35]Check your National Insurance record
+     * [36]Check MOT history of a vehicle
+
+    1. [37]Home
+    2. [38]Business and self-employed
+    3. [39]Importing
+
+Trade Tariff: look up commodity codes, duty and VAT rates
+
+   Use this service to find a commodity code for goods you’re importing to
+   or exporting from the UK.
+
+   You can also use the service to:
+     * check if there’s duty or VAT to pay
+     * find out about suspensions or reductions
+
+   You’ll need a commodity code when you fill in a customs declaration
+   form, so you pay the correct amount of tax and duties.
+
+   [40]Start now
+
+Before you start
+
+   To find a commodity code for your goods, you’ll need details of the
+   product you’re importing or exporting. This could include:
+     * the type of product
+     * what the product is used for
+     * the materials used to make it
+     * how it’s produced
+     * the way it’s packaged
+
+Help with finding the right commodity code
+
+   If you’re not sure how to classify your goods, you can:
+     * check the [41]guidance on hard to classify goods
+     * use the [42]A to Z of classified goods to find commodity codes for
+       common products
+
+Related content
+
+Collection
+
+     * [43]Guidance for exporting and importing businesses
+     * [44]The arts, culture and heritage sectors and the EU
+
+Explore the topic
+
+     * [45]Exporting and doing business abroad
+     * [46]Importing
+     * [47]Import, export and customs for businesses
+
+Is this page useful?
+
+     * [48]Maybe
+     * (BUTTON) Yes this page is useful
+     * (BUTTON) No this page is not useful
+
+   Thank you for your feedback
+   (BUTTON) Report a problem with this page
+
+Help us improve GOV.UK
+
+   Don’t include personal or financial information like your National
+   Insurance number or credit card details.
+   This field is for robots only. Please leave blank ____________________
+   What were you doing?
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   What went wrong?
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Send (BUTTON) Cancel
+
+Help us improve GOV.UK
+
+   To help us improve GOV.UK, we’d like to know more about your visit
+   today. We’ll send you a link to a feedback form. It will take only 2
+   minutes to fill in. Don’t worry we won’t send you spam or share your
+   email address with anyone.
+   Email address ____________________
+   (BUTTON) Send me the survey (BUTTON) Cancel
+
+Services and information
+
+     * [49]Benefits
+     * [50]Births, death, marriages and care
+     * [51]Business and self-employed
+     * [52]Childcare and parenting
+     * [53]Citizenship and living in the UK
+     * [54]Crime, justice and the law
+     * [55]Disabled people
+     * [56]Driving and transport
+     * [57]Education and learning
+     * [58]Employing people
+     * [59]Environment and countryside
+     * [60]Housing and local services
+     * [61]Money and tax
+     * [62]Passports, travel and living abroad
+     * [63]Visas and immigration
+     * [64]Working, jobs and pensions
+
+Government activity
+
+     * [65]Departments
+     * [66]News
+     * [67]Guidance and regulation
+     * [68]Research and statistics
+     * [69]Policy papers and consultations
+     * [70]Transparency
+     * [71]How government works
+     * [72]Get involved
+     __________________________________________________________________
+
+Support links
+
+     * [73]Help
+     * [74]Privacy
+     * [75]Cookies
+     * [76]Accessibility statement
+     * [77]Contact
+     * [78]Terms and conditions
+     * [79]Rhestr o Wasanaethau Cymraeg
+     * [80]Government Digital Service
+
+   All content is available under the [81]Open Government Licence v3.0,
+   except where otherwise stated
+   [82]© Crown copyright
+
+References
+
+   1. https://www.gov.uk/search/opensearch.xml
+   2. https://www.gov.uk/trade-tariff#content
+   3. https://www.gov.uk/help/cookies
+   4. https://www.gov.uk/help/cookies
+   5. https://www.gov.uk/help/cookies
+   6. https://www.gov.uk/
+   7. https://www.gov.uk/browse
+   8. https://www.gov.uk/search
+   9. https://www.gov.uk/browse/benefits
+  10. https://www.gov.uk/browse/births-deaths-marriages
+  11. https://www.gov.uk/browse/business
+  12. https://www.gov.uk/browse/childcare-parenting
+  13. https://www.gov.uk/browse/citizenship
+  14. https://www.gov.uk/browse/justice
+  15. https://www.gov.uk/browse/disabilities
+  16. https://www.gov.uk/browse/driving
+  17. https://www.gov.uk/browse/education
+  18. https://www.gov.uk/browse/employing-people
+  19. https://www.gov.uk/browse/environment-countryside
+  20. https://www.gov.uk/browse/housing-local-services
+  21. https://www.gov.uk/browse/tax
+  22. https://www.gov.uk/browse/abroad
+  23. https://www.gov.uk/browse/visas-immigration
+  24. https://www.gov.uk/browse/working
+  25. https://www.gov.uk/government/organisations
+  26. https://www.gov.uk/search/news-and-communications
+  27. https://www.gov.uk/search/guidance-and-regulation
+  28. https://www.gov.uk/search/research-and-statistics
+  29. https://www.gov.uk/search/policy-papers-and-consultations
+  30. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
+  31. https://www.gov.uk/cost-of-living
+  32. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
+  33. https://www.gov.uk/find-a-job
+  34. https://www.gov.uk/sign-in-universal-credit
+  35. https://www.gov.uk/check-national-insurance-record
+  36. https://www.gov.uk/check-mot-history
+  37. https://www.gov.uk/
+  38. https://www.gov.uk/browse/business
+  39. https://www.gov.uk/browse/business/imports
+  40. https://www.trade-tariff.service.gov.uk/trade-tariff/sections
+  41. https://www.gov.uk/guidance/finding-commodity-codes-for-imports-or-exports
+  42. https://www.trade-tariff.service.gov.uk/trade-tariff/a-z-index/a?_ga=2.158371897.2055843401.1659945317-1698676568.1654858350
+  43. https://www.gov.uk/government/collections/guidance-for-exporting-and-importing-businesses
+  44. https://www.gov.uk/government/collections/the-arts-culture-and-heritage-sectors-from-january-2021
+  45. https://www.gov.uk/browse/business/exports
+  46. https://www.gov.uk/browse/business/imports
+  47. https://www.gov.uk/topic/business-tax/import-export
+  48. https://www.gov.uk/contact/govuk
+  49. https://www.gov.uk/browse/benefits
+  50. https://www.gov.uk/browse/births-deaths-marriages
+  51. https://www.gov.uk/browse/business
+  52. https://www.gov.uk/browse/childcare-parenting
+  53. https://www.gov.uk/browse/citizenship
+  54. https://www.gov.uk/browse/justice
+  55. https://www.gov.uk/browse/disabilities
+  56. https://www.gov.uk/browse/driving
+  57. https://www.gov.uk/browse/education
+  58. https://www.gov.uk/browse/employing-people
+  59. https://www.gov.uk/browse/environment-countryside
+  60. https://www.gov.uk/browse/housing-local-services
+  61. https://www.gov.uk/browse/tax
+  62. https://www.gov.uk/browse/abroad
+  63. https://www.gov.uk/browse/visas-immigration
+  64. https://www.gov.uk/browse/working
+  65. https://www.gov.uk/government/organisations
+  66. https://www.gov.uk/search/news-and-communications
+  67. https://www.gov.uk/search/guidance-and-regulation
+  68. https://www.gov.uk/search/research-and-statistics
+  69. https://www.gov.uk/search/policy-papers-and-consultations
+  70. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
+  71. https://www.gov.uk/government/how-government-works
+  72. https://www.gov.uk/government/get-involved
+  73. https://www.gov.uk/help
+  74. https://www.gov.uk/help/privacy-notice
+  75. https://www.gov.uk/help/cookies
+  76. https://www.gov.uk/help/accessibility-statement
+  77. https://www.gov.uk/contact
+  78. https://www.gov.uk/help/terms-conditions
+  79. https://www.gov.uk/cymraeg
+  80. https://www.gov.uk/government/organisations/government-digital-service
+  81. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+  82. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/

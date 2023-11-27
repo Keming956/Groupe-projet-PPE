@@ -1,0 +1,605 @@
+   #[1]alternate
+
+   [2]Skip to main content
+
+   [3]European Commission logo
+   [4]English
+   Select your language
+   (BUTTON) Close
+     * [5]bgбългарски
+     * [6]esespañol
+     * [7]csčeština
+     * [8]dadansk
+     * [9]deDeutsch
+     * [10]eteesti
+     * [11]elελληνικά
+     * [12]enEnglish
+     * [13]frfrançais
+     * [14]gaGaeilge
+     * [15]hrhrvatski
+     * [16]ititaliano
+     * [17]lvlatviešu
+     * [18]ltlietuvių
+     * [19]humagyar
+     * [20]mtMalti
+     * [21]nlNederlands
+     * [22]plpolski
+     * [23]ptportuguês
+     * [24]roromână
+     * [25]skslovenčina
+     * [26]slslovenščina
+     * [27]fisuomi
+     * [28]svsvenska
+
+   [29]Search
+   Search ____________________
+   (BUTTON) Search
+   [30]Energy, Climate change, Environment
+   Climate Action
+
+   [31]Menu
+
+   (BUTTON) Close
+   Menu
+   (BUTTON) Back (BUTTON) (BUTTON)
+     * [32]Home
+     * [33]About us (BUTTON)
+          + [34]What we do
+          + [35]Our Director General
+     * [36]Climate change (BUTTON)
+          + [37]Causes of climate change
+          + [38]Consequences of climate change
+     * [39]EU Action (BUTTON)
+          + [40]What is the European Green Deal?
+          + [41]EU competences in the field of climate action
+          + [42]European Climate Law
+          + [43]Climate strategies & targets
+          + [44]Adaptation to climate change
+          + [45]EU Emissions Trading System (EU ETS)
+          + [46]Fluorinated greenhouse gases
+          + [47]Carbon capture, use and storage
+          + [48]Sustainable carbon cycles
+          + [49]Effort sharing: Member States' emission targets
+          + [50]Land use sector
+          + [51]EU funding for climate action
+          + [52]Transport
+          + [53]International action on climate change
+          + [54]Ozone layer
+     * [55]Citizens (BUTTON)
+          + [56]European Climate Pact
+          + [57]Citizen support for climate action
+          + [58]Youth & climate
+          + [59]Quiz
+          + [60]Climate tips
+     * [61]News & Your Voice (BUTTON)
+          + [62]News
+          + [63]Events
+          + [64]Newsletter
+          + [65]Consultations
+          + [66]Stories
+     * [67]Funding opportunities (BUTTON)
+          + [68]Calls for tenders
+          + [69]Calls for proposals
+
+    1. [70]Home
+    2. (BUTTON) …
+    3. [71]EU Action
+    4. [72]Transport
+    5. [73]Road transport: Reducing CO₂ emissions from vehicles
+    6. Reducing CO₂ emissions from heavy-duty vehicles
+
+Reducing CO₂ emissions from heavy-duty vehicles
+
+   Page contents
+   (BUTTON)
+
+   Lorries, buses and coaches are responsible for more than a quarter of
+   GHG emissions from road transport in the EU, and for over 6% of total
+   EU GHG emissions. Despite some improvements in fuel consumption
+   efficiency in recent years, these emissions are still rising, mainly
+   due to increasing road freight traffic.
+
+   To fight the climate crisis, we need to bring down CO[2] emissions in
+   this field. To do so, the Commission is proposing new targets which
+   will raise our ambition and meet the EU’s climate and zero pollution
+   objectives while [74]lowering demand for fossil fuels.
+
+Raising our ambition
+
+   In 2023, the Commission proposed a [75]revision of the Regulation on
+   CO[2] emission standards for heavy-duty vehicles. If adopted, the
+   proposal would introduce new, stronger CO[2] emission standards for
+   heavy-duty vehicles from 2030 onwards, and extend the scope of the
+   Regulation to cover smaller trucks, city buses, long-distance buses and
+   trailers.
+   Previous targets: 2025 -15%, 2030 -30%. New targets: 2030 -45%, 2035
+   -65%, 2040 -90%.
+
+   To stimulate faster deployment of zero-emission buses in cities, the
+   Commission also proposes to make all new city buses zero-emission as of
+   2030.
+
+   The new targets build on those adopted in 2019, which were the
+   first-ever EU-wide CO[2] emission standards for heavy-duty vehicles.
+
+   To enter into force, the Commission’s proposal now needs to be adopted
+   by the European Parliament and the Council of the EU.
+
+Main benefits
+
+   If adopted, our proposal will:
+   hdv_icon_decrease
+   Decrease CO[2] emissions per km from new HDV by 90% by 2040, as
+   compared to the reference period (1 July 2019 – 30 June 2020), with
+   intermediate targets for 2030 (45%) and 2035 (65%)
+   hdv_icon_neutrality
+   Help reach the EU's 2050 climate neutrality target and boost
+   zero-emission mobility
+   hdv_icon_health
+   Improve air quality and health of Europeans by cutting the level of air
+   pollutants, especially in towns and cities
+   hdv_icon_cost
+   Reduce the fuel expenditure and total cost of ownership for transport
+   operators and all users
+   hdv_icon_dependency
+   Lower the EU’s energy dependency on imported fossil fuels, and enhance
+   energy savings and efficiency in the transport sector
+   hdv_icon_industry
+   Provide a clear signal to industry to pursue a zero-emission pathway by
+   investing in innovative zero-emission technologies
+   hdv_icon_zero
+   Increase the share of zero and low-emission vehicles in the market and
+   accelerate the roll-out of recharging and refuelling infrastructure
+   hdv_icon_innovation
+   Strengthen the technological and innovation leadership of industry in
+   the EU and create new jobs
+
+Regulation on CO₂ emission standards for heavy-duty vehicles
+
+   Until the revision is adopted, the [76]Regulation on CO2 emission
+   standards for heavy-duty vehicles applies. This Regulation entered into
+   force on 14 August 2019.
+
+   As per the Regulation, from 2025 onwards, manufacturers will have to
+   meet the targets set for the fleet-wide average CO[2] emissions of
+   their new lorries registered in a given calendar year. Stricter targets
+   will start applying from 2030 on.
+
+   The targets are expressed as a percentage reduction of emissions
+   compared to the EU average in the reference period (1 July 2019–30 June
+   2020):
+     * From 2025 onwards: 15% reduction
+     * From 2030 onwards: 30% reduction
+
+   The 2025 target can be achieved using technologies that are already
+   available on the market. The 2030 target has been assessed as part of
+   the review of the Regulation.
+
+   As a first step, the CO[2] emission standards cover large lorries,
+   which account for over 73% of all CO[2] emissions from heavy-duty
+   vehicles.
+
+Incentive mechanism for zero- and low-emission vehicles (ZLEV)
+
+   The Regulation includes an incentive mechanism for
+     * Zero-emission vehicles (ZEV), lorries without an internal
+       combustion engine, or with an internal combustion engine that emits
+       less than 1gCO[2 ]per kWh[]or per km;
+     * Low-emission vehicles (LEV), lorries with a technically permissible
+       maximum laden mass of more than 16t, with CO[2] emissions of less
+       than half of the average CO[2] emissions of all vehicles in its
+       group registered in the 2019 reporting period.
+
+   To incentivise the uptake of ZLEV and reward early action, a
+   super-credits system applies from 2019 until 2024, and can be used to
+   comply with the target in 2025. A multiplier of 2 applies for ZEV, and
+   a multiplier between 1 and 2 applies for LEV, depending on their CO[2]
+   emissions. An overall cap of 3% is set to preserve the environmental
+   integrity of the system.
+
+   From 2025 onwards, the super-credits system is replaced by a
+   benchmark-based crediting system, with a benchmark set at 2%. The 2030
+   benchmark level will have to be set in the context of the 2022 review.
+
+   As a result, the average specific CO[2] emissions of a manufacturer are
+   adjusted downwards if the share of ZLEV in its entire new heavy-duty
+   vehicles fleet exceeds the 2% benchmark, out of which at least 0.75
+   percentage points have to be vehicles subject to the CO[2] targets,
+   i.e. the largest vehicles. Each percentage point of exceedance of the
+   benchmark will decrease the manufacturer’s average specific CO[2]
+   emissions by one percent.
+
+   In both systems, ZEV not subject to the CO[2] targets are accounted in
+   the incentive mechanism. Buses and coaches are excluded from the
+   scheme. The ZEV not subject to the CO[2] targets can contribute to a
+   maximum of 1.5% CO[2] emissions reduction.
+
+Cost-effective achievement of targets
+
+   The Regulation includes several elements to support cost-effective
+   implementation:
+     * Banking and borrowing to take account of long production cycles,
+       including a reward for early action, while maintaining the
+       environmental integrity of the targets.
+     * Full flexibility for manufacturers to balance emissions between the
+       different groups of vehicles within their portfolio.
+     * Vocational vehicles , such as garbage trucks and construction
+       vehicles, are exempted due to their limited potential for
+       cost-efficient CO[2] reduction.
+
+Governance
+
+   The following measures will ensure the effectiveness and enforcement of
+   the targets. They are based on the experience from [77]cars and
+   [78]vans :
+     * Assess the robustness and representativeness of the reference CO[2]
+       emissions as a basis for calculating the EU fleet-wide emissions
+       targets.
+     * Collect, publish and monitor real-world fuel consumption data
+       reported by manufacturers, based on mandatory standardised fuel
+       consumption meters
+     * Introduce in-service conformity tests and mandate the reporting of
+       deviations and the introduction of a correction mechanism
+     * Apply financial penalties in case of non-compliance with the CO[2]
+       targets. The level of the penalties is set to 4,250 euro per
+       gCO[2]/tkm in 2025 and 6,800 euro per gCO[2]/tkm in 2030.
+
+Monitoring and reporting of CO₂ emissions from heavy-duty vehicles
+
+   The following measures enable the implementation of the emission
+   standards:
+     * [79]Certification Regulation on the determination of the CO[2]
+       emissions and fuel consumption of new lorries
+     * [80]Regulation (EU) 2018/956 on monitoring and reporting
+
+   The monitoring and reporting Regulation mandates the following
+   monitoring and reporting requirements (with data from 1 January 2019
+   onwards): :
+     * Member States monitor and report to the Commission information on
+       the heavy-duty vehicles registered for the first time in the Union;
+     * Lorry manufacturers monitor and report to the Commission CO[2]
+       emission and fuel consumption data as determined pursuant to the
+       certification Regulation for each new vehicle produced for the EU
+       market. This information will be calculated using the Vehicle
+       Energy Consumption Calculation Tool ([81]VECTO).
+
+   The collected data on CO[2] emissions and fuel consumption, together
+   with other relevant technical information on the vehicles, including
+   the aerodynamic drag, is made publicly available by the [82]European
+   Environment Agency on behalf of the Commission
+
+   The new system complements the existing EU reporting system for cars
+   and vans.
+
+Vehicle Energy Consumption Calculation Tool (VECTO)
+
+   VECTO is a simulation software that can be used cost-efficiently and
+   reliably to measure the CO[2] emissions and fuel consumption of
+   heavy-duty vehicles for specific loads, fuels and mission profiles
+   (e.g. long haul, regional delivery, urban delivery, etc.), based on
+   input data from relevant vehicle components.
+
+   The tool has been developed by the Commission in close cooperation with
+   stakeholders.
+
+   [83]More information on VECTO
+
+Documentation
+
+   Click on the + signs for more information.
+
+(BUTTON) CO₂ emission targets for new heavy-duty vehicles
+
+     * [84]CO[2] emission standards for heavy-duty vehicles – a slideshow
+     * 25/07/2019 - [85]Regulation (EU) 2019/1242 - setting CO[2] emission
+       performance standards for new heavy-duty vehicles
+     * 03/07/2018 - COM/2018/284 - [86]Proposal for a regulation setting
+       CO[2] emission performance standards for new heavy-duty vehicles
+       (main text + annexes)
+     * 17/05/2018 - SWD/2018/185 - [87]Impact assessment (main text +
+       annexes)
+          + SWD/2018/186 - [88]Executive summary of the impact assessment
+     * 17/05/2018 - [89]Q&A on proposal for CO[2] emission standards for
+       heavy duty vehicles
+     * 17/05/2018 - [90]Europe on the Move III: Europe on the Move:
+       Commission completes its agenda for safe, clean and connected
+       mobility
+     * 17/05/2018 - [91]Europe on the Move III: Questions & Answers on the
+       Commission's initiatives
+     * 17/05/2018 - [92]Factsheet: Shaping the future of Mobility
+     * 17/05/2018 - [93]Factsheet: Clean Mobility – Implementing the Paris
+       Agreement
+     * 17/05/2018 - [94]All documents on Europe on the Move III
+
+(BUTTON) Monitoring and reporting of CO₂ emissions from new heavy-duty
+vehicles
+
+     * 05/08/2022 - Regulation 2022/1362 – [95]Energy efficiency
+       determination of heavy-duty trailers
+     * 28/06/2018 - Regulation 2018/956 - [96]Monitoring and reporting of
+       CO[2] emissions from and fuel consumption of new heavy-duty
+       vehicles
+     * 12/12/2017 - Regulation 2017/2400 - [97]Determination of the CO[2]
+       emissions and fuel consumption of heavy-duty vehicles
+     * 31/05/2017 - COM/2017/0279 - [98]Proposal on the monitoring and
+       reporting of CO[2] emissions from and fuel consumption of new
+       heavy-duty vehicles
+     * 13/03/2019 - Commission Delegated Regulation (EU) 2018/956 -
+       [99]amending Annex I to Regulation (EU) 2018/956 as regards the
+       data on new heavy-duty vehicles to be monitored and reported by
+       Member States and by manufacturers
+     * [100]Guidance documents and reporting formats
+
+(BUTTON) Commission strategy for reducing CO₂ emissions from heavy-duty
+vehicles
+
+     * 21/05/2014 - COM (2014) 285 - [101]Communication: Strategy for
+       reducing Heavy-Duty Vehicles' fuel consumption and CO[2] emissions
+     * 21/05/2014 - SWD (2014) 160 - [102]Impact Assessment accompanying
+       the document Strategy for Reducing Heavy-Duty Vehicles Fuel
+       Consumption and CO[2] Emissions
+          + SWD (2014) 159 - [103]Executive summary
+     * 21/05/2014 - IP/2014/576 - [104]Climate action: Commission sets out
+       strategy to curb CO[2] emissions from trucks, buses and coaches
+     * 21/05/2014 - MEMO/2014/366 - [105]Questions and Answers on the
+       Commission strategy for reducing Heavy-Duty Vehicles' (HDVs) fuel
+       consumption and CO[2] emissions
+
+Studies
+
+   Click on the + signs for more information.
+
+(BUTTON) Studies
+
+     * 26/07/2023 - [106]Final report - Support for aerodynamic modelling
+       of heavy-duty trailers
+     * 26/07/2023 - [107]Validation report of the computational fluid
+       dynamics simulation method according to Annex V of Regulation (EU)
+       2022/1362
+     * 27/09/2022 - Final report: Bodies and trailers - Support
+       Preparation of Legislation on Trailers Certification
+          + [108]Determination of a classification system
+          + [109]Development of a detailed methodology
+          + [110]Development & validation of the IT tool
+          + [111]Certification methodology for rigid lorry bodyworks
+     * 29/11/2019 - [112]Final report: Further Development of VECTO
+     * 21/11/2019 - [113]Final report: Bodies and trailers – development
+       of CO[2] emissions determination procedure
+     * 10/2019 - [114]Preparation for collection and monitoring of
+       real-world fuel consumption data for light-duty and heavy-duty
+       vehicles
+     * 09/2018 - [115]Support for preparation of the impact assessment for
+       CO[2] emissions standards for Heavy Duty Vehicles
+     * 08/2017 - [116]Analysis of fuel economy and GHG emission reduction
+       measures from Heavy Duty Vehicles in other countries and of options
+       for the EU
+     * 12/2017 - [117]LOT 4 report: "VECTO tool development: Completion of
+       methodology to simulate Heavy Duty Vehicles' fuel consumption and
+       CO[2] emissions. Upgrades to the existing version of VECTO and
+       completion of certification methodology to be incorporated into a
+       Commission legislative proposal"
+     * 12/2017 - [118]Final report: "Feasibility assessment regarding the
+       development of VECTO for hybrid heavy-duty vehicles"
+     * 03/2016 - [119]Monitoring heavy-duty vehicles’ CO[2] emissions and
+       their costs: An assessment
+     * 27/03/2015 - [120]Light weighting as a means of improving Heavy
+       Duty Vehicles’ energy efficiency and overall CO[2] emissions
+     * 26/01/2015 - [121]Final report: Cost-benefit analysis of options
+       for certification, validation, monitoring and reporting of
+       heavy-duty vehicle fuel consumption and CO[2] emissions
+     * 08/01/2015 - [122]Data gathering and analysis to improve
+       understanding of the fleet, market and CO[2] emissions of N2 and M2
+       category of vehicles
+     * 08/09/2014 - [123]Cost-benefit analysis of options for
+       certification, validation, monitoring and reporting of heavy-duty
+       vehicle fuel consumption and CO[2] emissions (Interim report)
+     * 15/05/2014 - [124]Development and validation of a methodology for
+       monitoring and certification of greenhouse gas emissions from heavy
+       duty vehicles through vehicle simulation
+          + [125]Draft certification methodology
+          + [126]Technical annex
+     * 03/02/2014 - [127]Development of a CO[2] certification and
+       monitoring methodology for HDV - Proof of concept report
+     * 29/07/2013 - [128]Tyre Pressure Monitoring Systems (TPMS) as a
+       means to reduce Light- Commercial and Heavy-Duty Vehicles fuel
+       consumption and CO[2] emissions
+     * 18/09/2012 - [129]Final report on HDV CO[2] emission abatement cost
+       curves
+     * 09/01/2012 - [130]Reduction and Testing of Greenhouse Gas Emissions
+       from Heavy-Duty Vehicles - Lot 2: Development and testing of a
+       certification procedure for CO[2] emissions and fuel consumption of
+       HDV
+     * 23/12/2011 - [131]European Union Greenhouse Gas Reduction Potential
+       for Heavy-Duty Vehicles
+     * 22/02/2011 - [132]Reduction and Testing of Greenhouse Gas Emissions
+       from Heavy-Duty Vehicles – Lot 1: Strategy
+     * 03/2008 - [133]Reducing Greenhouse Gas Emissions from Heavy-Duty
+       Vehicles
+
+   Share this page
+
+[134]Climate Action
+
+   This site is managed by: Directorate-General for Climate Action
+
+Contact us
+
+     * [135]Get in touch
+
+Follow us
+
+     * [136]Facebook
+     * [137]Instagram
+     * [138]LinkedIn
+     * [139]Twitter
+     * [140]Youtube
+
+Related sites
+
+     * [141]Accessibility
+
+   More information on:
+     * [142]Energy, Climate change, Environment
+
+   [143]European Commission logo
+     * [144]Contact the European Commission
+     * [145]Follow the European Commission on social media
+     * [146]Resources for partners
+
+     * [147]Languages on our websites
+     * [148]Cookies
+     * [149]Privacy policy
+     * [150]Legal notice
+
+References
+
+   1. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en
+   2. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en#main-content
+   3. https://commission.europa.eu/index_en
+   4. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en
+   5. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_bg
+   6. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_es
+   7. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_cs
+   8. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_da
+   9. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_de
+  10. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_et
+  11. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_el
+  12. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en
+  13. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_fr
+  14. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_ga
+  15. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_hr
+  16. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_it
+  17. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_lv
+  18. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_lt
+  19. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_hu
+  20. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_mt
+  21. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_nl
+  22. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_pl
+  23. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_pt
+  24. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_ro
+  25. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_sk
+  26. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_sl
+  27. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_fi
+  28. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_sv
+  29. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en
+  30. https://commission.europa.eu/energy-climate-change-environment_en
+  31. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/reducing-co2-emissions-heavy-duty-vehicles_en
+  32. https://climate.ec.europa.eu/index_en
+  33. https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/climate-action_en
+  34. https://ec.europa.eu/info/departments/climate-action_en
+  35. https://commission.europa.eu/persons/kurt-vandenberghe_en
+  36. https://climate.ec.europa.eu/climate-change_en
+  37. https://climate.ec.europa.eu/climate-change/causes-climate-change_en
+  38. https://climate.ec.europa.eu/climate-change/consequences-climate-change_en
+  39. https://climate.ec.europa.eu/eu-action_en
+  40. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en
+  41. https://climate.ec.europa.eu/eu-action/eu-competences-field-climate-action_en
+  42. https://climate.ec.europa.eu/eu-action/european-climate-law_en
+  43. https://climate.ec.europa.eu/eu-action/climate-strategies-targets_en
+  44. https://climate.ec.europa.eu/eu-action/adaptation-climate-change_en
+  45. https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en
+  46. https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases_en
+  47. https://climate.ec.europa.eu/eu-action/carbon-capture-use-and-storage_en
+  48. https://climate.ec.europa.eu/eu-action/sustainable-carbon-cycles_en
+  49. https://climate.ec.europa.eu/eu-action/effort-sharing-member-states-emission-targets_en
+  50. https://climate.ec.europa.eu/eu-action/land-use-sector_en
+  51. https://climate.ec.europa.eu/eu-action/eu-funding-climate-action_en
+  52. https://climate.ec.europa.eu/eu-action/transport_en
+  53. https://climate.ec.europa.eu/eu-action/international-action-climate-change_en
+  54. https://climate.ec.europa.eu/eu-action/ozone-layer_en
+  55. https://climate.ec.europa.eu/citizens_en
+  56. https://climate-pact.europa.eu/index_en
+  57. https://climate.ec.europa.eu/citizens/citizen-support-climate-action_en
+  58. https://climate.ec.europa.eu/citizens/youth-climate_en
+  59. https://ec.europa.eu/clima/sites/quiz/index.html
+  60. https://climate.ec.europa.eu/citizens/climate-tips_en
+  61. https://climate.ec.europa.eu/news-your-voice_en
+  62. https://climate.ec.europa.eu/news-your-voice/news_en
+  63. https://climate.ec.europa.eu/news-your-voice/events_en
+  64. https://ec.europa.eu/newsroom/clima/user-subscriptions/1843/create
+  65. https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives_en?topic=CLIMA
+  66. https://climate.ec.europa.eu/news-your-voice/stories_en
+  67. https://climate.ec.europa.eu/funding-opportunities_en
+  68. https://climate.ec.europa.eu/funding-opportunities/calls-tenders_en
+  69. https://climate.ec.europa.eu/funding-opportunities/calls-proposals_en
+  70. https://climate.ec.europa.eu/index_en
+  71. https://climate.ec.europa.eu/eu-action_en
+  72. https://climate.ec.europa.eu/eu-action/transport_en
+  73. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles_en
+  74. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en
+  75. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2023:88:FIN
+  76. https://eur-lex.europa.eu/eli/reg/2019/1242/oj
+  77. https://ec.europa.eu/clima/policies/transport/vehicles/cars_en
+  78. https://ec.europa.eu/clima/policies/transport/vehicles/vans_en
+  79. http://eur-lex.europa.eu/eli/reg/2017/2400/oj
+  80. http://data.europa.eu/eli/reg/2018/956/oj
+  81. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/vehicle-energy-consumption-calculation-tool-vecto_en
+  82. https://www.eea.europa.eu/data-and-maps/data/co2-emission-hdv
+  83. https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/vehicle-energy-consumption-calculation-tool-vecto_en
+  84. https://climate.ec.europa.eu/document/download/63d78d7a-a456-4602-bd7d-133a90d6d682_en?filename=hdv_co2_standards_en.pdf
+  85. https://eur-lex.europa.eu/eli/reg/2019/1242/oj
+  86. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52018PC0284R(01)
+  87. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=comnat:SWD_2018_0185_FIN
+  88. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=comnat:SWD_2018_0186_FIN
+  89. https://climate.ec.europa.eu/document/download/4981a6f2-01df-48c2-b423-8727e8676047_en?filename=faq_hdv_proposal_en.pdf
+  90. http://europa.eu/rapid/press-release_IP-18-3708_en.htm
+  91. http://europa.eu/rapid/press-release_MEMO-18-3681_en.htm
+  92. http://europa.eu/rapid/attachment/IP-18-3708/en/Factsheet Shaping the future of Mobility.pdf
+  93. http://europa.eu/rapid/attachment/IP-18-3708/en/Factsheet Clean Mobility  Implementing the Paris Agreement.pdf
+  94. https://ec.europa.eu/transport/modes/road/news/2018-05-17-europe-on-the-move-3_en
+  95. https://eur-lex.europa.eu/eli/reg_impl/2022/1362/oj
+  96. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0956
+  97. http://eur-lex.europa.eu/eli/reg/2017/2400/oj
+  98. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52017PC0279
+  99. http://data.europa.eu/eli/reg_del/2019/888/oj
+ 100. https://circabc.europa.eu/ui/group/7a14fbd0-0605-4ab8-ad72-f0c19b8d07de/library/bbdc27f0-353a-4943-afc3-46aafd6daf7a
+ 101. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014DC0285
+ 102. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014SC0160
+ 103. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014SC0159
+ 104. http://europa.eu/rapid/press-release_IP-14-576_en.htm
+ 105. http://europa.eu/rapid/press-release_MEMO-14-366_en.htm
+ 106. https://climate.ec.europa.eu/document/download/f9c1a4ef-f3c5-4e5f-92bb-13ef7780c98b_en?filename=policy_transport_road_co2_report_20230726_en.pdf
+ 107. https://climate.ec.europa.eu/document/download/4a6e02bb-acf0-4da7-b203-a4c08d39005c_en?filename=policy_transport_road_co2_validation_report_20230726_en.pdf
+ 108. https://climate.ec.europa.eu/document/download/fba3afac-0355-40ca-8db3-65ddf650bcb4_en?filename=policy_transport_road_co2_energy_efficiency_1_en.pdf
+ 109. https://climate.ec.europa.eu/document/download/e9e49183-5acf-4dd4-a235-d17bea14d309_en?filename=policy_transport_road_co2_energy_efficiency_2_en.pdf
+ 110. https://climate.ec.europa.eu/document/download/d1888289-38e9-4669-8873-bef3be5c5bdb_en?filename=policy_transport_road_co2_energy_efficiency_3_4_en.pdf
+ 111. https://climate.ec.europa.eu/document/download/b7c37302-a5b8-4641-ba39-29c942380739_en?filename=policy_transport_road_co2_energy_efficiency_5_en.pdf
+ 112. https://climate.ec.europa.eu/document/download/366647f7-5133-43a7-8557-da8d5549ca79_en?filename=vecto_further_development_en.pdf
+ 113. https://climate.ec.europa.eu/document/download/b1535285-3af9-4c57-bd2d-94b03800d542_en?filename=report_bodies_trailers_en.pdf
+ 114. https://climate.ec.europa.eu/document/download/d5e3ff53-4d70-43ea-8e86-68a542fd9f60_en?filename=report_fuel_consumption_en.pdf
+ 115. https://climate.ec.europa.eu/document/download/8de567f6-3f9b-482e-a783-fa5d2d89b09f_en?filename=support_impact_assessment_hdv_en.pdf
+ 116. https://climate.ec.europa.eu/document/download/6914f144-901d-4118-9097-94a24e549bac_en?filename=analysis_fuel_economy_hdv_en.pdf
+ 117. https://climate.ec.europa.eu/document/download/9e75c72f-a8dc-425e-8a0a-4f858d763995_en?filename=sr7_lot4_final_report_en.pdf
+ 118. https://climate.ec.europa.eu/document/download/97549364-c188-4cb4-b5ff-4e9632275f78_en?filename=final_report_feasibility_assessment_development_vecto_hybrid_heavy-duty_vehicles_en.pdf
+ 119. https://climate.ec.europa.eu/document/download/8750fa8b-ed47-4ec1-a7e6-d80151636f48_en?filename=monitoring_heavy_duty_vehicles_co2_emissions_en.pdf
+ 120. https://climate.ec.europa.eu/document/download/7ff5549a-a207-4dc5-98df-3c311817cce1_en?filename=hdv_lightweighting_en.pdf
+ 121. https://climate.ec.europa.eu/document/download/7591433a-1e6a-44d6-8ebe-e38cde7e25d6_en?filename=tno_2015_final_report_en.pdf
+ 122. https://climate.ec.europa.eu/document/download/e251205d-9310-4577-8514-98221e7546f6_en?filename=data_gathering_co2_en.pdf
+ 123. https://climate.ec.europa.eu/document/download/ff764266-4e75-463a-b848-dc90299b6c1c_en?filename=tno_2014_interim_report_en.pdf
+ 124. https://climate.ec.europa.eu/document/download/1f6da385-4d99-4fb9-8fdd-9ef89ac1a298_en?filename=final_report_co2_hdv_en.pdf
+ 125. https://climate.ec.europa.eu/document/download/cf1f0c66-fc46-4750-a8be-0d14be10efb1_en?filename=draft_certification_en.pdf
+ 126. https://climate.ec.europa.eu/document/download/1029c64e-c6f3-4844-98b6-0f7ed9782753_en?filename=technical_annex_en.pdf
+ 127. https://climate.ec.europa.eu/document/download/9720bc4a-47e3-4edb-8a40-4753092623e4_en?filename=hdv_co2_certification_en.pdf
+ 128. https://climate.ec.europa.eu/document/download/a72c3926-a097-4272-8bb6-8bb4f200dcb8_en?filename=tno_2013_final_report_en.pdf
+ 129. https://climate.ec.europa.eu/document/download/1179926a-f233-4d51-8d53-990655d20513_en?filename=hdv_2012_co2_abatement_cost_curves_en.pdf
+ 130. https://climate.ec.europa.eu/document/download/7eb66f3f-b191-4ee0-b5b6-d2f56f8672a0_en?filename=hdv_2011_01_09_en.pdf
+ 131. https://climate.ec.europa.eu/document/download/15eba03d-ad85-4c2b-980e-b131030fea46_en?filename=icct_ghg_reduction_potential_en.pdf
+ 132. https://climate.ec.europa.eu/document/download/ecaf2e48-d6c3-4d21-8c49-125dc3a3df74_en?filename=ec_hdv_ghg_strategy_en.pdf
+ 133. https://climate.ec.europa.eu/document/download/1e6d9a0d-a393-4a3c-a806-934cf9f24fdb_en?filename=hdv_ghg_faber_maunsell_en.pdf
+ 134. https://climate.ec.europa.eu/index_en
+ 135. https://climate.ec.europa.eu/contact-us_en
+ 136. http://www.facebook.com/EUClimateAction
+ 137. https://www.instagram.com/ourplanet_eu
+ 138. https://www.linkedin.com/showcase/eu-environment-climate/
+ 139. http://www.twitter.com/EUClimateAction
+ 140. https://www.youtube.com/EUClimateAction
+ 141. https://climate.ec.europa.eu/accessibility-statement_en
+ 142. https://commission.europa.eu/energy-climate-change-environment_en
+ 143. https://commission.europa.eu/index_en
+ 144. https://commission.europa.eu/about-european-commission/contact_en
+ 145. https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&institutions=european_commission
+ 146. https://commission.europa.eu/resources-partners_en
+ 147. https://commission.europa.eu/languages-our-websites_en
+ 148. https://commission.europa.eu/cookies_en
+ 149. https://commission.europa.eu/privacy-policy_en
+ 150. https://commission.europa.eu/legal-notice_en

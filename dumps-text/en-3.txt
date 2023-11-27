@@ -1,0 +1,2322 @@
+
+   A Singapore Government Agency Website How to identify
+   [government_building.svg]
+   Official website links end with .gov.sg
+
+   Government agencies communicate via .gov.sg websites (e.g.
+   go.gov.sg/open).[1] Trusted websites
+   [lock.svg]
+   Secure websites use HTTPS
+
+   Look for a lock ( [lock.svg] ) or https:// as an added precaution.
+   Share sensitive information only on official, secure websites.
+
+   [2]IRAS Home
+   Search filter [For All Profiles________]
+     * [3]Who We Are (BUTTON) Go to next level
+       (BUTTON) Close menu
+          + (BUTTON) Who We Are
+          + [4]Who We Are
+          + [5]Our Organisation (BUTTON) Go to next level
+               o (BUTTON) Our Organisation
+               o [6]Our Organisation
+               o [7]Mission, vision, core values, and logo
+               o [8]Board members and committees
+               o [9]Senior Management
+               o [10]Organisation structure
+               o [11]Social responsibility statement
+               o [12]History and milestones
+               o [13]Awards and accolades
+               o [14]Data Protection Statement
+          + [15]What We Do (BUTTON) Go to next level
+               o (BUTTON) What We Do
+               o [16]What We Do
+               o [17]Taxes in Singapore (BUTTON) Go to next level
+                    # (BUTTON) Taxes in Singapore
+                    # [18]Taxes in Singapore
+                    # [19]The Singapore tax system
+                    # [20]Taxes and nation building
+                    # [21]Encouraging Tax Compliance
+               o [22]Public Engagement (BUTTON) Go to next level
+                    # (BUTTON) Public Engagement
+                    # [23]Public Engagement
+                    # [24]Public Feedback
+                    # [25]Partnership with Tax Agents
+               o [26]Annual Reports and Publications (BUTTON) Go to next
+                 level
+                    # (BUTTON) Annual Reports and Publications
+                    # [27]Annual Reports and Publications
+                    # [28]Annual Reports
+                    # [29]taxBytes@IRAS
+                    # [30]GST Bulletin
+                    # [31]Tax Statistics
+               o [32]Commitment to Service (BUTTON) Go to next level
+                    # (BUTTON) Commitment to Service
+                    # [33]Commitment to Service
+                    # [34]Service Excellence for IRAS
+                    # [35]IRAS Service Awards
+                    # [36]Public Sector Transformation Awards
+               o [37]Corporate Governance (BUTTON) Go to next level
+                    # (BUTTON) Corporate Governance
+                    # [38]Corporate Governance
+                    # [39]Whistleblowing
+          + [40]Social Site (BUTTON) Go to next level
+               o (BUTTON) Social Site
+               o [41]Social Site
+               o [42]Digital Gallery
+               o [43]Life at IRAS
+               o [44]Partnering for Progress (Resources)
+     * [45]Taxes (BUTTON) Go to next level
+       (BUTTON) Close menu
+          + (BUTTON) Taxes
+          + [46]Taxes
+          + [47]Individual Income Tax (BUTTON) Go to next level
+               o (BUTTON) Individual Income Tax
+               o [48]Individual Income Tax
+               o [49]Basics of Individual Income Tax (BUTTON) Go to next
+                 level
+                    # (BUTTON) Basics of Individual Income Tax
+                    # [50]Basics of Individual Income Tax
+                    # [51]Managing myTax Portal account
+                    # [52]Understanding my Income Tax filing
+                    # [53]Tax residency and tax rates
+                    # [54]What is taxable, what is not
+                    # [55]Tax reliefs, rebates and deductions
+                    # [56]Receive tax bill, pay tax, check refunds
+                    # [57]Consequences of non-compliance
+                    # [58]Voluntary disclosure of errors for reduced
+                      penalties
+                    # [59]Report tax evasion
+               o [60]Employees (BUTTON) Go to next level
+                    # (BUTTON) Employees
+                    # [61]Employees
+                    # [62]Basic guide for new individual taxpayers
+                    # [63]Understanding my Income Tax filing
+                    # [64]Tax residency and tax rates
+                    # [65]What is taxable, what is not
+                    # [66]Tax reliefs, rebates & deductions
+                    # [67]Receive tax bill, pay tax, check refunds
+                    # [68]Scenario-based FAQs for working in Singapore and
+                      abroad
+                    # [69]Special tax schemes
+                    # [70]Consequences of non-compliance
+                    # [71]Voluntary disclosure of errors for reduced
+                      penalties
+               o [72]Self-Employed and Partnerships (BUTTON) Go to next
+                 level
+                    # (BUTTON) Self-Employed and Partnerships
+                    # [73]Self-Employed and Partnerships
+                    # [74]Am I a self-employed person?
+                    # [75]Tax obligations of self-employed persons
+                    # [76]Tax obligations of partnerships
+                    # [77]Tax obligations by industry, trade or profession
+                    # [78]Understanding tax filing and payment
+                    # [79]Calculating my business income
+                    # [80]Business expenses and deductions
+                    # [81]Consequences of non-compliance
+                    # [82]Voluntary disclosure of errors for reduced
+                      penalties
+                    # [83]Report tax evasion
+               o [84]Non-Residents
+               o [85]Employers (BUTTON) Go to next level
+                    # (BUTTON) Employers
+                    # [86]Employers
+                    # [87]Filing Employee Earnings (IR8A, Appendix 8A,
+                      Appendix 8B, IR8S)
+                    # [88]Information to share with employees
+                    # [89]Auto Inclusion Scheme (AIS) for Employment
+                      Income
+                    # [90]Understanding the Tax Treatment
+                    # [91]Retrenchment Exercise in the Company
+                    # [92]Tax Clearance for Foreign & SPR Employees (IR21)
+                    # [93]Digital Services
+               o [94]My Situation (BUTTON) Go to next level
+                    # (BUTTON) My Situation
+                    # [95]My Situation
+                    # [96]I have retired
+                    # [97]I have been retrenched
+                    # [98]I have a newborn
+                    # [99]I am affected by COVID-19
+                    # [100]I have other side or personal income
+                    # [101]I am starting a new business
+                    # [102]I have rented out my property
+                    # [103]I received an audit letter
+                    # [104]My family member has passed away
+                    # [105]Scenario-based FAQs for working in Singapore
+                      and abroad
+          + [106]Corporate Income Tax (BUTTON) Go to next level
+               o (BUTTON) Corporate Income Tax
+               o [107]Corporate Income Tax
+               o [108]Basics of Corporate Income Tax (BUTTON) Go to next
+                 level
+                    # (BUTTON) Basics of Corporate Income Tax
+                    # [109]Basics of Corporate Income Tax
+                    # [110]Corporate Income Tax Filing Season 2023
+                    # [111]Basic Guide to Corporate Income Tax for
+                      Companies
+                    # [112]New Company Start-Up Kit
+                    # [113]Tax Residency of a Company/ Certificate of
+                      Residence
+                    # [114]Record Keeping Requirements
+                    # [115]Obtaining a Copy of Documents Issued by IRAS
+                    # [116]Corporate Income Tax Rate, Rebates & Tax
+                      Exemption Schemes
+                    # [117]Updating Company Particulars
+                    # [118]e-Learning Videos/ Webinars/ Seminars on
+                      Corporate Income Tax
+               o [119]Estimated Chargeable Income (ECI) Filing
+               o [120]Form C-S/ Form C-S (Lite)/ Form C Filing (BUTTON) Go
+                 to next level
+                    # (BUTTON) Form C-S/ Form C-S (Lite)/ Form C Filing
+                    # [121]Form C-S/ Form C-S (Lite)/ Form C Filing
+                    # [122]Overview of Form C-S/ Form C-S (Lite)/ Form C
+                    # [123]Guidance on Filing Form C-S/ Form C-S (Lite)/
+                      Form C
+                    # [124]Preparing a Tax Computation
+                    # [125]Penalties for Errors in Tax Returns
+                    # [126]Late filing or non-filing of Corporate Income
+                      Tax Returns (Form C-S/C-S (Lite)/C)
+                    # [127]After Filing Form C-S/ Form C-S (Lite)/ Form C
+                    # [128]Using Accounting Software to Prepare & File
+                      Form C-S Seamlessly
+               o [129]Corporate Income Tax Payment (BUTTON) Go to next
+                 level
+                    # (BUTTON) Corporate Income Tax Payment
+                    # [130]Corporate Income Tax Payment
+                    # [131]Paying Corporate Income Taxes
+                    # [132]Experiencing difficulties in paying your tax?
+                    # [133]Late payment or non-payment of Corporate Income
+                      Tax
+                    # [134]Claiming Refunds
+               o [135]Corporate Income Tax Compliance (BUTTON) Go to next
+                 level
+                    # (BUTTON) Corporate Income Tax Compliance
+                    # [136]Corporate Income Tax Compliance
+                    # [137]Best Practices When Writing to IRAS
+                    # [138]Getting Companies to Comply
+                    # [139]Voluntary Disclosure of Errors for Reduced
+                      Penalties
+                    # [140]International Compliance Assurance Programme
+                      (ICAP)
+                    # [141]Enhanced Taxpayer Relationship (ETR) Programme
+                    # [142]About Tax Governance and Tax Risk Management
+                    # [143]Tax Evasion or Fraud
+               o [144]Income & Deductions for Companies (BUTTON) Go to
+                 next level
+                    # (BUTTON) Income & Deductions for Companies
+                    # [145]Income & Deductions for Companies
+                    # [146]Taxable & Non-Taxable Income
+                    # [147]Companies Receiving Foreign Income
+                    # [148]Business Expenses
+                    # [149]Claiming Allowances
+                    # [150]Claiming Reliefs
+                    # [151]Unutilised Items (Capital Allowances, Trade
+                      Losses & Donations)
+                    # [152]Applying for Tax Incentives
+               o [153]Dormant Companies or Companies Closing Down (BUTTON)
+                 Go to next level
+                    # (BUTTON) Dormant Companies or Companies Closing Down
+                    # [154]Dormant Companies or Companies Closing Down
+                    # [155]Dormant Companies
+                    # [156]Companies Applying for Strike Off/ to Cease
+                      Registration
+                    # [157]Companies under Liquidation/ Judicial
+                      Management/ Receivership
+               o [158]Specific Industries (BUTTON) Go to next level
+                    # (BUTTON) Specific Industries
+                    # [159]Specific Industries
+                    # [160]Car Rental Companies
+                    # [161]Car Tuition Companies
+                    # [162]Companies Servicing Only Related Companies
+                    # [163]Construction Companies
+                    # [164]Investment Holding Companies
+                    # [165]Property Developers
+                    # [166]Shipping Companies
+               o [167]Specific Topics (BUTTON) Go to next level
+                    # (BUTTON) Specific Topics
+                    # [168]Specific Topics
+                    # [169]Adopting Financial Reporting Standard (FRS) 109
+                      & 39 & the Tax Implications
+                    # [170]Advance Ruling System for Income Tax
+                    # [171]Transfer Pricing
+                    # [172]Productivity & Innovation Credit (PIC) Scheme
+                    # [173]Interbank Offered Rate Reform & the Tax
+                      Implications
+                    # [174]Tax Treatment of Interest, Gains or Profits
+                      Derived from Negotiable Certificates of Deposit by
+                      Non-Financial Institutions
+          + [175]Property Tax (BUTTON) Go to next level
+               o (BUTTON) Property Tax
+               o [176]Property Tax
+               o [177]Property Owners (BUTTON) Go to next level
+                    # (BUTTON) Property Owners
+                    # [178]Property Owners
+                    # [179]2024 Property Tax Bill
+                    # [180]Property Tax At A Glance
+                    # [181]Annual Value
+                    # [182]Property Tax Rates
+                    # [183]Information for HDB Flat Owners
+                    # [184]Tax Bills and Notices
+                    # [185]View Statement of Account or View Bills and
+                      Notices
+                    # [186]Payments
+                    # [187]Object to Annual Value
+                    # [188]Refunds
+                    # [189]Property Tax Reliefs
+                    # [190]Your situation
+               o [191]Property Buyers (BUTTON) Go to next level
+                    # (BUTTON) Property Buyers
+                    # [192]Property Buyers
+                    # [193]Buying HDB Flats
+                    # [194]Buying Private Residential Properties
+                    # [195]Buying Vacant Land or Development Sites
+                    # [196]Buying Other Types of Properties
+               o [197]Property Professionals (BUTTON) Go to next level
+                    # (BUTTON) Property Professionals
+                    # [198]Property Professionals
+                    # [199]Real Estate/Housing Agents
+                    # [200]Appraisers/Valuer
+                    # [201]Developer
+                    # [202]Architects
+                    # [203]Lawyer/Legal Professional
+               o [204]Other Services (BUTTON) Go to next level
+                    # (BUTTON) Other Services
+                    # [205]Other Services
+                    # [206]Check Outstanding Property Tax
+                    # [207]Change Mailing Address
+                    # [208]Interactive Property Tax Calculators
+                    # [209]Check Rental Transactions from other Government
+                      Agencies
+               o [210]Tax Compliance (BUTTON) Go to next level
+                    # (BUTTON) Tax Compliance
+                    # [211]Tax Compliance
+                    # [212]Property Tax Audits by IRAS
+                    # [213]Tax Evasion or Fraud
+                    # [214]Update IRAS to Avoid Penalties
+          + [215]Goods & Services Tax (GST) (BUTTON) Go to next level
+               o (BUTTON) Goods & Services Tax (GST)
+               o [216]Goods & Services Tax (GST)
+               o [217]Basics of GST (BUTTON) Go to next level
+                    # (BUTTON) Basics of GST
+                    # [218]Basics of GST
+                    # [219]Goods and Services Tax (GST): What It Is and
+                      How It Works
+                    # [220]Current GST Rates
+                    # [221]Responsibilities of a GST-registered Business
+                    # [222]Invoicing, Price Display and Record Keeping
+                    # [223]e-Learning course Overview of GST
+                    # [224]e-Learning Videos on GST
+               o [225]GST Rate Change (BUTTON) Go to next level
+                    # (BUTTON) GST Rate Change
+                    # [226]GST Rate Change
+                    # [227]GST Rate Change for Businesses
+                    # [228]GST Rate Change for Consumers
+               o [229]GST Registration/Deregistration (BUTTON) Go to next
+                 level
+                    # (BUTTON) GST Registration/Deregistration
+                    # [230]GST Registration/Deregistration
+                    # [231]Do I Need to Register for GST
+                    # [232]Factors to Consider Before Registering
+                      Voluntarily for GST
+                    # [233]Applying for GST Registration
+                    # [234]Applying for exemption from GST registration
+                    # [235]Applying for special GST registration (Group
+                      registration and Divisional registration)
+                    # [236]Cancelling GST Registration
+                    # [237]Guarantee
+                    # [238]Voluntary Disclosure for Wrongful Collection of
+                      GST
+               o [239]Charging GST (Output Tax) (BUTTON) Go to next level
+                    # (BUTTON) Charging GST (Output Tax)
+                    # [240]Charging GST (Output Tax)
+                    # [241]When to Charge Goods and Services Tax (GST)
+                    # [242]When to charge 0% GST (Zero-rate)
+                    # [243]When is GST not charged
+                    # [244]Common scenarios - Do I charge GST
+                    # [245]When to Report Supplies in GST Returns
+                    # [246]Foreign Currency Transactions
+               o [247]Claiming GST (Input Tax) (BUTTON) Go to next level
+                    # (BUTTON) Claiming GST (Input Tax)
+                    # [248]Claiming GST (Input Tax)
+                    # [249]Conditions for Claiming Input Tax
+                    # [250]Importing of Goods
+                    # [251]Claiming Input Tax in the Right Accounting
+                      Period
+                    # [252]Claiming Input Tax Incurred to Make Exempt
+                      Supplies
+                    # [253]Claiming GST Incurred Before GST
+                      Registration/Incorporation
+                    # [254]Paying Suppliers After Claiming GST
+                    # [255]Common scenarios - Do I claim GST
+               o [256]GST and Digital Economy (BUTTON) Go to next level
+                    # (BUTTON) GST and Digital Economy
+                    # [257]GST and Digital Economy
+                    # [258]GST on Imported Services
+                    # [259]GST on Imports of Low-Value Goods
+               o [260]Filing GST (BUTTON) Go to next level
+                    # (BUTTON) Filing GST
+                    # [261]Filing GST
+                    # [262]Overview of GST e-Filing Process
+                    # [263]Completing GST returns
+                    # [264]Correcting Errors Made in GST Return (Filing
+                      GST F7)
+                    # [265]Due Dates and Requests for Extension
+                    # [266]Late filing or non-filing of GST Returns
+                      (F5/F8)
+                    # [267]Check Status of GST Return
+                    # [268]Check Acknowledgements / Correspondence /
+                      Notices
+               o [269]GST Payments/Refunds (BUTTON) Go to next level
+                    # (BUTTON) GST Payments/Refunds
+                    # [270]GST Payments/Refunds
+                    # [271]How to Pay
+                    # [272]Experiencing difficulties in paying your tax?
+                    # [273]Late payment or non-payment of GST
+                    # [274]Refunds
+                    # [275]Check Account Summary / Payments
+                    # [276]Revising Estimated Assessment
+               o [277]Consumers (BUTTON) Go to next level
+                    # (BUTTON) Consumers
+                    # [278]Consumers
+                    # [279]Tourist Refund Scheme
+                    # [280]Buying from a GST-registered business
+                    # [281]Consumers Importing Goods into Singapore
+                    # [282]Travellers bringing goods into Singapore
+                    # [283]Purchasing Remote Services from Overseas
+                      Service Providers
+                    # [284]GST on Imported Low-Value Goods
+                    # [285]Checking if a business is GST-registered
+               o [286]Specific Business Sectors (BUTTON) Go to next level
+                    # (BUTTON) Specific Business Sectors
+                    # [287]Specific Business Sectors
+                    # [288]Advertising
+                    # [289]Aerospace and Aviation
+                    # [290]Air and Sea Containers
+                    # [291]Auction
+                    # [292]Biomedical
+                    # [293]Bunkering
+                    # [294]Charities and Non-Profit Organisations
+                    # [295]Construction
+                    # [296]Consultancy and Professional Services
+                    # [297]Digital Payment Tokens
+                    # [298]e-Commerce
+                    # [299]Energy
+                    # [300]Finance
+                    # [301]Gold Jewellery
+                    # [302]Hotel and Food & Beverage
+                    # [303]Logistics and Freight Forwarding
+                    # [304]Manufacturing
+                    # [305]Marine and Shipping
+                    # [306]Motor Trade
+                    # [307]Pawnbroking
+                    # [308]Real Estate
+                    # [309]REITs and Registered Business Trusts
+                    # [310]Retail
+                    # [311]Telecommunications
+                    # [312]Travel
+                    # [313]Carbon Credits
+               o [314]General GST Schemes (BUTTON) Go to next level
+                    # (BUTTON) General GST Schemes
+                    # [315]General GST Schemes
+                    # [316]Cash Accounting Scheme
+                    # [317]Discounted Sale Price Scheme
+                    # [318]Gross Margin Scheme
+                    # [319]Hand-Carried Exports Scheme (HCES)
+                    # [320]Import GST Deferment Scheme (IGDS)
+                    # [321]Major Exporter Scheme (MES)
+                    # [322]Tourist Refund Scheme (for retailers)
+                    # [323]Zero GST (ZG) Warehouse Scheme
+               o [324]Industry-Specific GST Schemes (BUTTON) Go to next
+                 level
+                    # (BUTTON) Industry-Specific GST Schemes
+                    # [325]Industry-Specific GST Schemes
+                    # [326]Approved Contract Manufacturer and Trader
+                      (ACMT) Scheme
+                    # [327]Approved Import GST Suspension Scheme (AISS)
+                      (For Aerospace Players)
+                    # [328]Approved Marine Customer Scheme (AMCS)
+                    # [329]Approved Marine Fuel Trader (MFT) Scheme
+                    # [330]Approved Refiner and Consolidator Scheme (ARCS)
+                    # [331]Approved Third Party Logistics (3PL) Company
+                      Scheme
+                    # [332]Specialised Warehouse Scheme (SWS)
+               o [333]Getting It Right (BUTTON) Go to next level
+                    # (BUTTON) Getting It Right
+                    # [334]Getting It Right
+                    # [335]Wrongful Collection of GST by GST-registered
+                      persons
+                    # [336]Voluntary Compliance Initiatives
+                    # [337]Voluntary Disclosure of Errors for Reduced
+                      Penalties
+                    # [338]GST Audits by IRAS
+                    # [339]Object to Audit Assessment
+                    # [340]Tax Evasion or Fraud
+                    # [341]Tax Governance and Tax Risk Management
+               o [342]Other Services (BUTTON) Go to next level
+                    # (BUTTON) Other Services
+                    # [343]Other Services
+                    # [344]Notifying IRAS of Changes
+                    # [345]Changing GST Accounting Periods
+                    # [346]Advance Ruling System for GST
+          + [347]Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Stamp Duty
+               o [348]Stamp Duty
+               o [349]For Property (BUTTON) Go to next level
+                    # (BUTTON) For Property
+                    # [350]For Property
+                    # [351]Basics of Stamp Duty for Property
+                    # [352]Buying or Acquiring Property
+                    # [353]Selling or Disposing Property
+                    # [354]Renting a Property
+                    # [355]Paying Stamp Duty
+                    # [356]Appeals, Refunds, Reliefs and Remissions
+                    # [357]Getting it right
+                    # [358]Other Services
+               o [359]For Property-Holding Entities ('PHE') (BUTTON) Go to
+                 next level
+                    # (BUTTON) For Property-Holding Entities ('PHE')
+                    # [360]For Property-Holding Entities ('PHE')
+                    # [361]Basics of Stamp Duty for Property-Holding
+                      Entities
+                    # [362]Buying or Acquiring Property-Holding Entities
+                    # [363]Selling or Disposing Property-Holding Entities
+                    # [364]Paying Stamp Duty
+                    # [365]Claiming Refunds
+                    # [366]Getting it right
+                    # [367]Other Services
+               o [368]For Shares (BUTTON) Go to next level
+                    # (BUTTON) For Shares
+                    # [369]For Shares
+                    # [370]Basics of Stamp Duty for Shares
+                    # [371]Mortgaging Shares
+                    # [372]Buying or Acquiring Shares
+                    # [373]Paying Stamp Duty
+                    # [374]Claiming Refunds, Reliefs and Remissions
+                    # [375]Getting it right
+                    # [376]Other Services
+          + [377]International Tax (BUTTON) Go to next level
+               o (BUTTON) International Tax
+               o [378]International Tax
+               o [379]International Tax Agreements Concluded by Singapore
+                 (BUTTON) Go to next level
+                    # (BUTTON) International Tax Agreements Concluded by
+                      Singapore
+                    # [380]International Tax Agreements Concluded by
+                      Singapore
+                    # [381]List of DTAs, Limited DTAs and EOI Arrangements
+                    # [382]Exchange of Information Arrangements
+                    # [383]Multilateral Convention on Mutual
+                      Administrative Assistance in Tax Matters
+                    # [384]Multilateral Convention to Implement Tax Treaty
+                      Related Measures to Prevent Base Erosion and Profit
+                      Shifting
+               o [385]Common Reporting Standard (CRS) (BUTTON) Go to next
+                 level
+                    # (BUTTON) Common Reporting Standard (CRS)
+                    # [386]Common Reporting Standard (CRS)
+                    # [387]CRS Overview and Latest Developments
+                    # [388]CRS Registration and Deregistration
+                    # [389]CRS Filing
+                    # [390]Getting It Right - CRS Compliance
+                    # [391]Basic information for account holders of
+                      Financial Institutions
+               o [392]Country-by-Country Reporting (CbCR)
+               o [393]Foreign Account Tax Compliance Act (FATCA) (BUTTON)
+                 Go to next level
+                    # (BUTTON) Foreign Account Tax Compliance Act (FATCA)
+                    # [394]Foreign Account Tax Compliance Act (FATCA)
+                    # [395]FATCA Overview and Latest Developments
+                    # [396]FATCA Registration and Deregistration
+                    # [397]FATCA Filing
+                    # [398]FATCA Compliance
+                    # [399]Basic information for account holders of
+                      Financial Institutions
+               o [400]Transfer Pricing
+               o [401]Dispute Prevention and Resolution (BUTTON) Go to
+                 next level
+                    # (BUTTON) Dispute Prevention and Resolution
+                    # [402]Dispute Prevention and Resolution
+                    # [403]Mutual Agreement Procedure and Arbitration
+                    # [404]Advance Pricing Arrangements (APAs)
+                    # [405]International Compliance Assurance Programme
+                      (ICAP)
+               o [406]Singapore's Competent Authorities for International
+                 Tax Agreements
+               o [407]List of DTAs, Limited DTAs and EOI Arrangements
+          + [408]Withholding Tax (BUTTON) Go to next level
+               o (BUTTON) Withholding Tax
+               o [409]Withholding Tax
+               o [410]Basics of Withholding Tax (BUTTON) Go to next level
+                    # (BUTTON) Basics of Withholding Tax
+                    # [411]Basics of Withholding Tax
+                    # [412]Overview of Withholding Tax (WHT)
+                    # [413]Types of Payment and Withholding Tax (WHT)
+                      Rates
+               o [414]Payments to Non-Resident Company (BUTTON) Go to next
+                 level
+                    # (BUTTON) Payments to Non-Resident Company
+                    # [415]Payments to Non-Resident Company
+                    # [416]Payments that are Subject to Withholding Tax
+                    # [417]Payments that are Not Subject to Withholding
+                      Tax
+               o [418]Payments to Non-Resident Director (BUTTON) Go to
+                 next level
+                    # (BUTTON) Payments to Non-Resident Director
+                    # [419]Payments to Non-Resident Director
+                    # [420]Board director
+                    # [421]Tax obligations for non-resident director
+                    # [422]Remuneration of non-resident director
+                    # [423]Tax refund for resident director
+               o [424]Payments to non-resident professional (consultant,
+                 trainer, coach, etc.) (BUTTON) Go to next level
+                    # (BUTTON) Payments to non-resident professional
+                      (consultant, trainer, coach, etc.)
+                    # [425]Payments to non-resident professional
+                      (consultant, trainer, coach, etc.)
+                    # [426]Non-resident professionals
+                    # [427]Tax obligations for non-resident professional
+                    # [428]Treatment of income for non-resident
+                      professional
+                    # [429]Non-resident professional vs. Employee
+                    # [430]Tax treaties and non-resident professional
+                    # [431]Non-resident arbitrator
+                    # [432]Non-resident mediator
+                    # [433]Tax refund for resident professional
+               o [434]Payments to non-resident public entertainer
+                 (artiste, musician, sportsman, etc.) (BUTTON) Go to next
+                 level
+                    # (BUTTON) Payments to non-resident public entertainer
+                      (artiste, musician, sportsman, etc.)
+                    # [435]Payments to non-resident public entertainer
+                      (artiste, musician, sportsman, etc.)
+                    # [436]Non-resident public entertainer
+                    # [437]Tax obligations of non-resident public
+                      entertainer
+                    # [438]Treatment of income for non-resident public
+                      entertainer
+                    # [439]Withholding tax calculations for non-resident
+                      public entertainer
+                    # [440]Exemption of income for non-resident public
+                      entertainer
+                    # [441]Tax refund for resident public entertainer
+               o [442]Withdrawal from Supplementary Retirement Scheme
+                 (SRS) Account (Foreigners & PRs) (BUTTON) Go to next
+                 level
+                    # (BUTTON) Withdrawal from Supplementary Retirement
+                      Scheme (SRS) Account (Foreigners & PRs)
+                    # [443]Withdrawal from Supplementary Retirement Scheme
+                      (SRS) Account (Foreigners & PRs)
+                    # [444]Tax obligations for SRS withdrawal
+                    # [445]Calculating withholding tax
+               o [446]Withholding Tax Filing (BUTTON) Go to next level
+                    # (BUTTON) Withholding Tax Filing
+                    # [447]Withholding Tax Filing
+                    # [448]Withholding Tax (WHT) Filing and Payment Due
+                      Date
+                    # [449]Claim of Relief under the Avoidance of Double
+                      Taxation Agreement (DTA)
+                    # [450]Common Errors Made by Payers
+                    # [451]How to File
+                    # [452]Making amendment after filing/ claiming refund
+               o [453]Withholding Tax Payments (BUTTON) Go to next level
+                    # (BUTTON) Withholding Tax Payments
+                    # [454]Withholding Tax Payments
+                    # [455]How to Pay
+                    # [456]Late payment or non-payment of Withholding Tax
+                      (WHT)
+                    # [457]Confirmation of Payment (CP)
+                    # [458]Tax Refund
+               o [459]Withholding Tax Reporting Compliance (BUTTON) Go to
+                 next level
+                    # (BUTTON) Withholding Tax Reporting Compliance
+                    # [460]Withholding Tax Reporting Compliance
+                    # [461]Voluntary Disclosure of Errors for Reduced
+                      Penalties
+                    # [462]Tax Evasion or Fraud
+          + [463]Other Taxes (BUTTON) Go to next level
+               o (BUTTON) Other Taxes
+               o [464]Other Taxes
+               o [465]Trusts (BUTTON) Go to next level
+                    # (BUTTON) Trusts
+                    # [466]Trusts
+                    # [467]Income Tax of Estate/ Trust
+                    # [468]Guide for Administrators or Trustees
+                    # [469]Working Out Estate/ Trust Income Tax by Trustee
+                      and Beneficiary
+                    # [470]Filing Estate/ Trust Income Tax (Form T)
+                    # [471]Paying Estate/ Trust Income Tax
+               o [472]Gambling Duties (BUTTON) Go to next level
+                    # (BUTTON) Gambling Duties
+                    # [473]Gambling Duties
+                    # [474]Basics of Gambling Duties
+                    # [475]Betting, Lotteries and Sweepstakes
+                    # [476]Gaming Machines, Tombola, Continuous Lucky Draw
+                      and Single/Scheduled Lottery
+               o [477]Casino Tax (BUTTON) Go to next level
+                    # (BUTTON) Casino Tax
+                    # [478]Casino Tax
+                    # [479]Filing & Paying Casino Tax
+                    # [480]Income Tax Treatment for International Market
+                      Agents & Representatives
+                    # [481]Computing Casino Tax (Gross Gaming Revenue,
+                      Casino Tax Rates)
+               o [482]Charities (BUTTON) Go to next level
+                    # (BUTTON) Charities
+                    # [483]Charities
+                    # [484]Charities / IPCs & Taxes
+                    # [485]Tax Deduction Scheme for Grantmakers
+                    # [486]Donations & Tax Deductions
+               o [487]Bodies of Persons (BUTTON) Go to next level
+                    # (BUTTON) Bodies of Persons
+                    # [488]Bodies of Persons
+                    # [489]Overview of bodies of persons & income that is
+                      taxable
+                    # [490]Filing Clubs and Associations Income Tax
+                    # [491]After Filing Form P1
+                    # [492]Paying Taxes or Claiming Refunds
+                    # [493]FAQs
+               o [494]Estate Duty (BUTTON) Go to next level
+                    # (BUTTON) Estate Duty
+                    # [495]Estate Duty
+                    # [496]Estate Duty
+                    # [497]Estate Duty Glossary
+                    # [498]FAQs
+                    # [499]Estate Duty Forms
+                    # [500]Getting Estate Duty Clearance
+                    # [501]How to Calculate Estate Duty
+                    # [502]Late Payment or Non-Payment of Estate Duty
+                    # [503]Trust (including income from Estates)
+                    # [504]How to Pay
+     * [505]Schemes (BUTTON) Go to next level
+       (BUTTON) Close menu
+          + (BUTTON) Schemes
+          + [506]Schemes
+          + [507]Government Schemes (BUTTON) Go to next level
+               o (BUTTON) Government Schemes
+               o [508]Government Schemes
+               o [509]Enterprise Innovation Scheme (EIS)
+               o [510]Jobs Growth Incentive (JGI)
+               o [511]Progressive Wage Credit Scheme (PWCS) (BUTTON) Go to
+                 next level
+                    # (BUTTON) Progressive Wage Credit Scheme (PWCS)
+                    # [512]Progressive Wage Credit Scheme (PWCS)
+                    # [513]PWCS Glossary
+               o [514]Uplifting Employment Credit (UEC)
+               o [515]Senior Employment Credit (SEC), Enabling Employment
+                 Credit (EEC) and CPF Transition Offset (CTO)
+               o [516]Self-review for Eligibility of Payouts
+               o [517]Jobs Support Scheme (JSS) (BUTTON) Go to next level
+                    # (BUTTON) Jobs Support Scheme (JSS)
+                    # [518]Jobs Support Scheme (JSS)
+                    # [519]Specific Industries in Tiers and SSIC Codes
+               o [520]Wage Credit Scheme (WCS) (BUTTON) Go to next level
+                    # (BUTTON) Wage Credit Scheme (WCS)
+                    # [521]Wage Credit Scheme (WCS)
+                    # [522]WCS Glossary
+               o [523]SkillsFuture Enterprise Credit
+               o [524]MediShield Life (MSHL)
+          + [525]Corporate Income Tax (BUTTON) Go to next level
+               o (BUTTON) Corporate Income Tax
+               o [526]Corporate Income Tax
+               o [527]Corporate Volunteer Scheme
+               o [528]Double Tax Deduction for Internationalisation Scheme
+               o [529]Productivity and Innovation Credit (PIC) Scheme
+          + [530]GST (BUTTON) Go to next level
+               o (BUTTON) GST
+               o [531]GST
+               o [532]General GST Schemes (BUTTON) Go to next level
+                    # (BUTTON) General GST Schemes
+                    # [533]General GST Schemes
+                    # [534]Cash Accounting Scheme
+                    # [535]Discounted Sale Price Scheme
+                    # [536]Gross Margin Scheme
+                    # [537]Hand-Carried Exports Scheme (HCES)
+                    # [538]Major Exporter Scheme (MES)
+                    # [539]Tourist Refund Scheme (TRS) for Businesses
+                    # [540]Zero GST (ZG) Warehouse Scheme
+               o [541]Industry-Specific GST Schemes (BUTTON) Go to next
+                 level
+                    # (BUTTON) Industry-Specific GST Schemes
+                    # [542]Industry-Specific GST Schemes
+                    # [543]Approved Contract Manufacturer and Trader
+                      (ACMT) Scheme
+                    # [544]Approved Import GST Suspension Scheme (AISS)
+                      (For Aerospace Players)
+                    # [545]Approved Marine Customer Scheme (AMCS)
+                    # [546]Approved Marine Fuel Trader (MFT) Scheme
+                    # [547]Approved Refiner and Consolidator Scheme (ARCS)
+                    # [548]Approved Third Party Logistics (3PL) Company
+                      Scheme
+                    # [549]Specialised Warehouse Scheme (SWS)
+          + [550]Individual Income Tax (BUTTON) Go to next level
+               o (BUTTON) Individual Income Tax
+               o [551]Individual Income Tax
+               o [552]Angel Investors Tax Deduction Scheme (AITD)
+               o [553]Not Ordinarily Resident (NOR) Scheme
+               o [554]SRS contributions and tax relief
+               o [555]Tax on SRS withdrawals
+               o [556]Withholding Tax on SRS
+     * [557]Digital Services (BUTTON) Go to next level
+       (BUTTON) Close menu
+          + (BUTTON) Digital Services
+          + [558]Digital Services
+          + [559]Employees (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Employees
+               o [560]Digital Services for Employees
+               o View Individual Tax Notices
+               o View Account Summary
+               o View Filing Status
+               o Check Employment Income Status
+               o View/ Cancel Payment Plan
+               o File Income Tax Return
+               o myTax Mail
+               o Update Contact Details
+               o View Late Filing Fee/ Summons
+               o Pay Taxes
+               o Apply for Payment Plan
+               o Update Notice Preferences (Individuals)
+               o [561]View more
+          + [562]Self-Employed (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Self-Employed
+               o [563]Digital Services for Self-Employed
+               o View Individual Tax Notices
+               o View PIC Scheme Notices
+               o View Account Summary
+               o View Filing Status
+               o Check Employment Income Status
+               o View/ Cancel Payment Plan
+               o File Income Tax Return
+               o myTax Mail
+               o Update Contact Details
+               o View Late Filing Fee/ Summons
+               o Pay Taxes
+               o Apply for Payment Plan
+               o [564]View more
+          + [565]Intermediaries of Self-Employed Persons (Taxi
+            Drivers/Private-Hire Car Drivers) (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Intermediaries of
+                 Self-Employed Persons (Taxi Drivers/Private-Hire Car
+                 Drivers)
+               o [566]Digital Services for Intermediaries of Self-Employed
+                 Persons (Taxi Drivers/Private-Hire Car Drivers)
+               o Submit Income Records for Self-Employed
+               o [567]View more
+          + [568]Employers (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Employers
+               o [569]Digital Services for Employers
+               o Tips on e-Filing
+               o Tax Clearance - View Tax Clearance Notices/Letters
+               o Tax Clearance - File Form IR21
+               o Tax Clearance - View Form IR21 Records
+               o Submit Employment Income Records
+               o Register for AIS
+               o Search AIS Organisation
+               o myTax Mail
+               o Senior Employment Credit, Enabling Employment Credit and
+                 CPF Transition Offset – Eligibility Search and Breakdown
+                 Request
+               o Jobs Growth Incentive – Breakdown Records
+               o Progressive Wage Credit Scheme – Eligibility Search and
+                 Breakdown Request
+               o [570]View more
+          + [571]Partnerships (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Partnerships
+               o [572]Digital Services for Partnerships
+               o File Partnership Income Tax Return Form P
+               o Request Extension of Time to File
+               o Apply for PIC Cash Payout
+               o View PIC Cash Payout Application Status
+               o View PIC Scheme Notices
+               o View Partnership Tax Filing Status
+               o View Partnership Tax Notices
+               o Update Partnership Contact Details
+               o Request Penalty Waiver/ Extension of Time to File
+               o [573]View more
+          + [574]Companies/ Tax Agents (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Companies/ Tax Agents
+               o [575]Digital Services for Companies/ Tax Agents
+               o View Notices/ Letters - PIC Scheme
+               o View Account Summary
+               o View/ Cancel Payment Plan
+               o View Notices/ Letters - Corporate Tax
+               o Access Tax Agent e-Services
+               o Pay Taxes
+               o Apply for Payment Plan
+               o Update Notice Preferences (Businesses)
+               o View Corporate Tax Filing Status
+               o Access Company Dashboard
+               o File Form C-S/ Form C-S (Lite)
+               o Update Corporate Profile/ Contact Details
+               o [576]View more
+          + [577]Commission-paying organisations (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Commission-paying
+                 organisations
+               o [578]Digital Services for Commission-paying organisations
+               o e-Submission of Commission
+               o Submit Commission Records
+               o [579]View more
+          + [580]Property Owners (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Property Owners
+               o [581]Digital Services for Property Owners
+               o View Property Tax Notices
+               o View/ Cancel Payment Plan
+               o myTax Mail
+               o Update Contact Details
+               o View Property Dashboard
+               o Pay Taxes
+               o Apply for Payment Plan
+               o Update Notice Preferences (Businesses)
+               o Update Notice Preferences (Individuals)
+               o Check Property Tax Balance
+               o View Account Summary
+               o Apply/ Withdraw for Owner-Occupier Tax Rates
+               o Apply House and/or Unit Number
+               o [582]View more
+          + [583]Property Professionals (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Property Professionals
+               o [584]Digital Services for Property Professionals
+               o Check Annual Value of Property
+               o Update Property Ownership
+               o Apply House and/or Unit Number
+               o [585]View more
+          + [586]GST (BUTTON) Go to next level
+               o (BUTTON) Digital Services for GST
+               o [587]Digital Services for GST
+               o View Account Summary
+               o View/ Cancel Payment Plan
+               o myTax Mail
+               o GST Registered Business Search
+               o Notices/ Letters
+               o File GST Return/ Edit Past Return
+               o Pay Taxes
+               o Apply for Payment Plan
+               o Update Notice Preferences (Businesses)
+               o Retrieve GST Returns/ Assessments for ASK Review
+               o View GST Filing Status
+               o Update GST Contact Details
+               o [588]View more
+          + [589]Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Stamp Duty
+               o [590]Digital Services for Stamp Duty
+               o Stamping: Lease/ Tenancy
+               o Stamping: Mortgage
+               o Stamping: Sale and Purchase (For Sellers)
+               o Stamping: Sale and Purchase (For Buyers)
+               o Stamping: Shares
+               o Requests: Amendment to Stamp Certificate
+               o Stamping: Others - Declaration of Trust/ Trust Deed
+               o Requests: Apply for Assessment/ Appeal/ Remission
+               o Stamping: Additional Stamp Duty
+               o Stamping: Exemptions & Remissions - Transfer of HDB Flat
+                 within Family
+               o Stamping: Others - Other Transfer (Dutiable documents)
+               o Requests: Object to an Assessment
+               o Stamp Duty Chatbot
+               o [591]View more
+          + [592]Withholding Tax (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Withholding Tax
+               o [593]Digital Services for Withholding Tax
+               o File S45 Form
+               o Retrieve S45 Form (Draft)
+               o Approve S45 Form
+               o Submit S45 Form
+               o View/Amend S45 Form
+               o View S45 GIRO Plan
+               o View S45 COR Status
+               o View S45 Notices/Letters
+               o Update Notice Preferences (Businesses)
+               o Update Notice Preferences (Individuals)
+               o [594]View more
+          + [595]Automatic Exchange of Information (CRS and FATCA)
+            (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Automatic Exchange of
+                 Information (CRS and FATCA)
+               o [596]Digital Services for Automatic Exchange of
+                 Information (CRS and FATCA)
+               o Apply for CRS Registration
+               o Check CRS Registration Status
+               o View/ Update FI AEOI Profile
+               o View/ Update My Profile
+               o View AEOI Contact Details
+               o View/ Edit Trustee-Documented Trusts
+               o View AEOI e-Service Transaction History
+               o Submit CRS or FATCA Return
+               o View Submitted Financial Account Report
+               o View AEOI Notices/ Letters
+               o Email Us on AEOI matters
+               o Apply to deregister for AEOI
+               o [597]View more
+          + [598]Others (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Others
+               o [599]Digital Services for Others
+               o IRAS Bot
+               o Corppass
+               o Institutions of a Public Character and Qualifying
+                 Grantmakers
+               o Government Payout Schemes
+               o IRAS Digital Notices
+               o Singpass Foreign user Account (SFA) for Foreign
+                 Individuals
+               o myTax Portal Technical FAQ
+               o View Corporate Tax Notices (for Companies)
+               o View Partnership Tax Notices (for Partnerships)
+               o View Individual Tax Notices (for Sole-Proprietors)
+               o View Individual Tax Notices
+               o Download Donation Application & Submit Records
+               o CVS (Previously known as BIPS) Service Giving Declaration
+                 Form Submission
+               o Update Notice Preferences (Individuals)
+               o Update Notice Preferences (Businesses)
+               o [600]View more
+     * [601]Digital Collaboration (BUTTON) Go to next level
+       (BUTTON) Close menu
+          + (BUTTON) Digital Collaboration
+          + [602]Digital Collaboration
+          + [603]For Businesses/ Employers
+          + [604]For Tax Agents (BUTTON) Go to next level
+               o (BUTTON) For Tax Agents
+               o [605]For Tax Agents
+               o [606]#SeamlessFilingFromSoftware (#SFFS) for Tax Agents
+               o [607]External Value Network (EVN)
+          + [608]For Software Developers (BUTTON) Go to next level
+               o (BUTTON) For Software Developers
+               o [609]For Software Developers
+               o [610]Partnership with Software Developers
+               o [611]Accounting/ Tax Software (BUTTON) Go to next level
+                    # (BUTTON) Accounting/ Tax Software
+                    # [612]Accounting/ Tax Software
+                    # [613]IRAS Accounting Software Register Plus (ASR+)
+                    # [614]IRAS Digital Integration Incentive (DII)
+               o [615]Payroll Software (BUTTON) Go to next level
+                    # (BUTTON) Payroll Software
+                    # [616]Payroll Software
+                    # [617]How to support AIS submission as a vendor
+                    # [618]#SeamlessFilingFromSoftware (#SFFS) for Tax
+                      Clearance (IR21)
+
+   [619]LOGIN
+   (BUTTON) Toggle search
+   (BUTTON) Navigation menu
+
+     * [620]Home
+     * [621]Taxes
+     * [622]Stamp Duty
+     * [623]For Property
+     * [624]Buying or Acquiring Property
+     * Buyer's Stamp Duty (BSD)
+
+[625]Buying or Acquiring Property
+
+     * [626]Definition of Residential Property
+     * [627]Buyer's Stamp Duty (BSD)
+     * [628]Additional Buyer's Stamp Duty (ABSD)
+     * [629]Mortgage Duty
+
+Buyer's Stamp Duty (BSD)
+
+   Share:
+     * [630]Facebook
+     * [631]Twitter
+     * [632]LinkedIn
+     * [633]Whatsapp
+     * [634]Telegram
+     * [635]Email
+
+   BSD is tax paid on documents signed when you buy or acquire property
+   located in Singapore.
+   On this page:
+     * [636]Manner of acquisitions
+     * [637]Requirement to pay BSD
+     * [638]Acquisition of property through an en-bloc purchase or “block”
+       purchase
+     * [639]Rates and computation
+     * [640]Examples
+     * [641]Remissions
+     * [642]How to apply
+     * [643]FAQS
+     * [644]Related content
+
+Manner of acquisitions
+
+   Examples of property acquisition in which ad valorem stamp duty (i.e.
+   BSD, ABSD and SSD, whichever applicable) is payable:
+    1. By way of purchase e.g. acceptance to option to purchase, sale and
+       purchase agreement
+    2. By way of gift including a voluntary declaration of trust and
+       settlement
+          + Declaration of Trust / Trust Deed:
+               o A fixed duty of $10 is payable on the Declaration of
+                 Trust/Trust deed which does not result in a change in
+                 beneficial interest in the property.
+               o Where there is a change in beneficial interest in the
+                 property, ad valorem stamp duty will be payable on the
+                 Declaration of Trust / Trust Deed.
+    3. By way of distribution in specie upon the winding up of a company*
+    4. By way of distribution from the estate of a deceased that is not in
+       accordance to the Will, Intestate Succession Act or Muslim Law of
+       Inheritance.
+    5. By way of resulting trust pursuant to a renunciation of interest in
+       residential property held under a bare trust
+
+   *ABSD is applicable on transfer of interest in a residential property
+   on or after 13 Oct 2023 which is distributed in specie to a shareholder
+   of a company in connection with a liquidation of the company.
+   [645]
+
+Renunciation of interest in trust over residential property by beneficial
+owner (Section 22C)
+
+   Where any beneficiary renounces his interest in a residential property
+   that is transferred to be held on bare trust on or after 10 May 2022,
+   the settlor will need to pay stamp duty i.e. BSD and ABSD on the
+   transfer of the share of the residential property back to him, under
+   Section 22C of the Stamp Duties Act.
+   You can refer to [646]Renunciation of Interest in Trust over
+   residential property by Beneficial Owner (Section 22C) for more
+   information.
+   Example: A settlor sets up a trust where a residential property is held
+   on bare trust for a sole identifiable beneficiary. The beneficiary
+   later renounces his interest in the property, and a resulting trust is
+   formed in favour of the settlor. The settlor is required to pay BSD and
+   ABSD (based on the settlor’s profile) on the transfer of the
+   residential property back to him.
+
+Requirement to pay BSD
+
+   You are required to pay BSD for documents executed for the transfer or
+   sale and purchase of property located in Singapore. BSD will
+   be computed on the purchase price as stated in the document to be
+   stamped or market value of the property (whichever is the higher
+   amount).
+
+   If there is a benefit associated with the acquisition, and the benefit
+   is stated in the document to be stamped and is a cash discount (i.e.
+   cash, non-post dated cashier's order or cheque) to be given to the
+   purchaser upon execution of the document (and not later), the amount of
+   discount may be deducted from the purchase price to determine the
+   consideration for stamp duty purpose. This is provided that the nett
+   price is still reflective of market value.
+
+   If the document to be stamped stated a non-cash benefit to be given
+   (e.g. furniture voucher, rental guarantee, car or lucky draw), the
+   value of benefit is not deductible from the purchase price for stamp
+   duty purpose.
+
+   If the cash or non- cash benefit is not stated in the document to be
+   stamped, the value of the benefit is also not deductible from the
+   purchase price for stamp duty purpose.
+
+   The first instrument executed relating to a sale and purchase is liable
+   to ad valorem duty (i.e. full duty). Subsequent document(s) relating to
+   the same sale transaction are not liable to stamp duty.
+
+Acquisition of property through an en-bloc purchase or “block” purchase
+
+   Where multiple properties are acquired collectively, stamp duty will be
+   calculated on the total purchase price of the multiple properties if:
+    1. There is a single contract for the purchase of the multiple
+       properties; or
+    2. The purchases of the multiple properties are dependent and
+       conditional on one another.
+
+Stamp duty on a single contract for multiple properties
+
+   Where there is a single contract for the purchase of multiple
+   properties followed by individual documents for the purchase of each
+   property, the single contract should be stamped at ad valorem duty
+   based on the total purchase price.
+
+Stamp duty on multiple documents
+
+   Where there are multiple documents (with purchases which are dependent
+   and conditional on one another), only one of the documents is required
+   to be stamped at ad valorem duty, based on the total purchase price of
+   all the related properties.
+
+Rates and computation
+
+   BSD^ is computed based on the purchase price or market value of the
+   property, whichever is higher.
+
+   Prior to 20 Feb 2018, the BSD rate was up to 3%. With effect from 20
+   Feb 2018, there are differentiated BSD rates between residential and
+   non-residential properties. The BSD rate for acquisition of residential
+   properties from 20 Feb 2018 to 14 Feb 2023 is up to 4%. From 15 Feb
+   2023, the top marginal rate for residential properties is 6%, and the
+   top marginal rate for non-residential properties is 5%.
+
+   For definition of residential or non-residential properties,
+   click [647]here.
+
+   The BSD rates are as follows:
+   On or after 15 Feb 2023
+   Purchase price or market value of the property BSD rates for
+   residential properties BSD rates for non-residential properties
+   First $180,000 1% 1%
+   Next $180,000 2% 2%
+   Next $640,000 3% 3%
+   Next $500,000 4% 4%
+   Next $1,500,000 5% 5%
+   Remaining amount 6%
+   ^BSD is rounded down to the nearest dollar, subject to a minimum duty
+   of $1.
+   From 20 Feb 2018 to 14 Feb 2023
+   Purchase price or market value of the property BSD rates for
+   residential properties BSD rates for non-residential properties
+   First $180,000 1% 1%
+   Next $180,000 2% 2%
+   Next $640,000 3%
+
+
+   3%
+   Remaining amount 4%
+   ^BSD is rounded down to the nearest dollar, subject to a minimum duty
+   of $1.
+                     Before 20 Feb 2018
+   Purchase price or market value of the property BSD rates
+   First $180,000                                 1%
+   Next $180,000                                  2%
+   Remaining amount                               3%
+
+Examples
+
+   Example 1: A terrace house was purchased on 17 Feb 2023 at $4,500,100
+   which is reflective of the market value
+    Market Value of the Property BSD Rate   Calculation
+    First $180,000 1%   = $1,800 (1% x $180,000)
+    Next $180,000   2%  = $3,600 (2% x $180,000)
+    Next $640,000  3%  = $19,200 (3% x $640,000)
+   Next $500,000 4% =  $20,000 (4% x $500,000)
+   Next $1,500,000 5% = $75,000 (5% x $1,500,000)
+   Remaining $1,500,100  6%  = $90,006 (6% x $1,500,100)
+    BSD Payable    = $209,606 ($1,800 + $3,600 + $19,200 + $20,000 +
+   $75,000 + $90,006)
+
+   Example 2: A vacant land zoned “Commercial and Residential” was
+   purchased on 1 Mar 2023 at $22,000,000 which is reflective of the
+   market value
+
+   Since the land is zoned “Commercial and Residential”, 60% and 40% of
+   the gross floor area of the property is deemed attributable for
+   residential and non-residential purposes respectively. BSD rates for
+   residential and non-residential properties apply on the respective
+   component.
+
+   Value of 60% of the GFA deemed attributable for residential purposes =
+   $9,000,000*
+
+   Value of 40% of the GFA deemed attributable for commercial purposes =
+   $13,000,000*
+
+   *Valued and determined by a professional valuer.
+
+   The BSD payable is:
+   Market value of the Property BSD rate Calculation
+   For the residential component
+   First $180,000 1% = $1,800 (1% x $180,000)
+   Next $180,000 2% = $3,600 (2% x $180,000)
+   Next $640,000 3% = $19,200 (3% x $640,000)
+   Next $500,000 4% = $20,000 (4% x $500,000)
+   Next $1,500,000 5% = $75,000 (5% x $1,500,000)
+   Remaining $6,000,000 6% = $360,000 (6% x $6,000,000)
+   BSD for the residential component = $479,600 ($1,800 + $3,600 + $19,200
+   + $20,000 + $75,000 + $360,000)
+   For the non-residential component
+   First $180,000 1% = $1,800 (1% x $180,000)
+   Next $180,000 2% = $3,600 (2% x $180,000)
+   Next $640,000 3% = $19,200 (3% x $640,000)
+   Next $500,000 4% = $20,000 (4% x $500,000)
+   Remaining $11,500,000 5% = $575,000 (5% x $11,500,000)
+   BSD for the non-residential component = $619,600 ($1,800 + $3,600 +
+   $19,200 + $20,000 + $575,000)
+   BSD payable = $1,099,200 ($497,600 + $619,600)
+
+Remissions
+
+Acquisition of residential land for non-residential development
+
+   Acquisition of residential land (i.e. vacant land or entire building
+   with land zoned “Residential”, “Residential/ Institution”, “White”,
+   “Commercial & Residential” or “Residential with Commercial at 1st
+   storey”) may qualify for upfront BSD remission (by way of the
+   difference of the BSD rates for residential and non-residential
+   properties) if the remission conditions are met.
+
+A. BSD remission for acquisition of residential land with use restriction
+
+   This is a BSD remission for acquisition of residential land that is
+   restricted^1 from residential use/ development (e.g. where the entire
+   site or part of the site must be developed for non-residential
+   purposes). If remission is granted, the BSD rates for non-residential
+   properties would apply on the entire site or the part of the site
+   restricted from residential use/development.
+
+   The BSD remission may be considered, subject to the following
+   conditions:
+    1. X%^2 of the gross floor area (“GFA”) of the subject property (as
+       the case may be) must be developed/ used for non-residential
+       purposes;
+    2. Not to develop and/ or use X% of GFA of the subject property for
+       residential purposes;
+    3. Notify the IRAS immediately should any of the X% of GFA of the
+       subject property be subsequently developed and/ or used for
+       residential purposes;
+    4. Submit the following documents to IRAS within 14 days from the date
+       of the acquisition:
+         1. Technical Condition of Tender for the Government Land Sales
+            site;
+         2. Written Permission (“WP”) issued by URA for the redevelopment;
+            or
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    5. Pay to the COSD as a debt due to the Singapore Government an amount
+       equal to the BSD remitted with immediate effect from the earlier of
+       the following:
+         1. The date that any of the X% of GFA of the subject property is
+            used for residential purposes; or
+         2. The date that regulatory approval (e.g. WP) is granted for the
+            development of residential units; and
+    6. Pay the amount recoverable by the COSD under condition (e) at the
+       place stated and in the manner provided in a notice served by the
+       COSD within one month after the service of the notice by the COSD.
+
+   [Notes]
+   [^1 Imposed by the relevant authorities.]
+   [^2 X% refers to the specific percentage (based on GFA) of the site
+   that must be used/developed for non-residential purposes.]
+
+B. BSD remission for acquisition of residential land without use restriction
+for 100% non-residential development
+
+   A buyer who acquires a residential land that does not have any use
+   restriction^1 may wish to build a 100% non-residential development. In
+   such case, he may qualify for BSD remission (by way of the difference
+   of the BSD rates for residential and non-residential properties),
+   subject to the following conditions:
+    1. Not to develop and/ or use the subject property for residential
+       purposes;
+    2. Notify the IRAS immediately should the subject property be
+       subsequently developed and/ or used for residential purposes;
+    3. Submit the following documents to IRAS within 14 days from the date
+       of Temporary Occupation Permit (“TOP”) or Certificate of Statutory
+       Completion (“CSC”), whichever is earlier:
+         1. Written Permission (“WP”) issued by URA for the redevelopment;
+         2. TOP or CSC issued by BCA; and
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    4. Pay to the COSD as a debt due to the Singapore Government an amount
+       equal to the BSD remitted with immediate effect from the earlier of
+       the following:
+         1. The date that the subject property is used for residential
+            purposes; or
+         2. The date that regulatory approval (e.g. WP) is granted for the
+            development of residential units; and
+    5. Pay the amount recoverable by the COSD under condition (d) at the
+       place stated and in the manner provided in a notice served by the
+       COSD within one month after the service of the notice by the COSD.
+       For other remissions, please click  [648]here.
+
+   [Notes]
+   [^1 Imposed by the relevant authorities.]
+
+How to apply
+
+   To apply for the remission, please submit an online application with
+   the supporting documents via the e-Stamping Portal (select "Apply for
+   Assessment/ Appeal" under “Request”) within 14 days from the date of
+   acquisition.
+
+List of supporting documents required for application of BSD remission
+
+    1. Copy of the instrument
+    2. Copy of Letter of Undertaking to comply with all the remission
+       conditions
+    3. Other documentary evidence listed within the remission conditions.
+
+FAQS
+
+   [649]
+
+I am a Singapore Citizen buying my first property. Do I need to pay BSD?
+
+   Yes, your purchase is subject to BSD. BSD is payable on all
+   acquisitions of immovable properties in Singapore. It is not dependent
+   on the nationality of the buyer or the number of properties that the
+   buyer owns.
+   [650]
+
+I am buying an HDB flat. Do I need to pay BSD?
+
+   Yes, BSD is payable upon the acquisition of any immovable property or
+   land in Singapore, regardless of whether it is a private property or an
+   HDB flat.
+   [651]
+
+I am buying an HDB shop with living quarters. Is my purchase subject to BSD
+rates for non-residential property?
+
+   No, as this is a property where one of the permitted uses is for
+   residential use, the BSD rates for residential and non-residential
+   properties would apply on the value attributable to the respective
+   components.
+   [652]
+
+I am buying a semi-detached house with land zoned “Residential”. The
+semi-detached house has been approved as a child care centre. Is my purchase
+subject to BSD rates for non-residential property?
+
+   No, as this is an acquisition of the building and land, the applicable
+   BSD rates would depend on the zoning of the land. Since the land is
+   zoned “Residential”, BSD rates for residential property applies.
+   [653]
+
+I am buying the upper floors of a shophouse which have been approved as a
+child care centre for 3 years. Upon expiry of the approval, the use will
+automatically revert to residential use. Is my purchase subject to BSD rates
+for non-residential property?
+
+   No, the BSD rates for residential properties will apply as this is a
+   residential property and the use as a child care centre is only a
+   temporary permitted use.
+   [654]
+
+I am buying the upper floors of a shophouse which have been permitted for
+restaurant use by a Written Permission given under section 14(4) of the
+Planning Act for a period exceeding 10 years. Is my purchase subject to BSD
+rates for non-residential property?
+
+   Yes, the BSD rates for non-residential property will apply since the
+   properties acquired are permitted for non-residential use.
+   [655]
+
+I am buying a land zoned “Commercial & Residential”. What is the market value
+attributable to the residential and non-residential component?
+
+   For a land zoned “Commercial & Residential”, 60% GFA of the land is
+   deemed attributable for residential purpose and the remainder is deemed
+   attributable for non-residential purpose. You may get a professional
+   valuer to value the part of the property attributable to residential
+   and non-residential purposes.
+   [656]
+
+Can the contracting parties change the date of instrument to avoid paying
+higher duty?
+
+   No. The Commissioner of Stamp Duties takes a serious view of any
+   attempt to evade or reduce the incidence of duties. Evasion of duties
+   is an offence under section 62 of the Stamp Duties Act. Any person
+   guilty of such an offence shall be liable on conviction to a fine of up
+   to $10,000 or to imprisonment for a term of up to 3 years or to both.
+   The Commissioner of Stamp Duties may also disregard or vary any
+   arrangements meant to evade or reduce the incidence of duty, and impose
+   the duty (including late stamping penalties, if applicable) which would
+   otherwise be payable.
+   [657]
+
+Can I pay BSD using my Central Provident Fund (CPF) money?
+
+   Using CPF funds to pay stamp duty is subject to the terms and
+   conditions under the Private Properties and Public Housing Schemes. You
+   may wish to check with CPF Board for more details.
+   [658]
+
+Do I need to pay the ABSD if I have paid the BSD?
+
+   ABSD remains payable in addition to the BSD by buyers of certain
+   profiles. For more information on ABSD, please refer to our webpage
+   on [659]ABSD.
+   [660]
+
+I executed a contract to acquire a land zoned “White”. Its allowable use
+includes residential but I would like to develop a 100% non-residential
+development instead. Is the BSD payable calculated based on the BSD rates for
+non-residential properties?
+
+   As 100% GFA of the land is deemed attributable for residential purpose,
+   the BSD payable would be calculated using the BSD rates for residential
+   properties on the full purchase price or market value, whichever the
+   higher. The BSD has to be paid within 14 days from the date of
+   execution of the instrument.
+
+   However, since you are constructing a 100% non-residential development,
+   remission may be applicable. Please refer to part B of the remission
+   section mentioned above, i.e. BSD remission for acquisition of
+   residential land without use restriction for 100% non-residential
+   development.
+
+Related Content
+
+   Pages
+
+Stamp Duty
+
+   Pages
+
+Who Should Pay Stamp Duty
+
+   Pages
+
+When to Pay Stamp Duty
+
+   Pages
+
+How to Pay
+
+   Useful Links
+
+Stamp Duty Calculator
+
+Inland Revenue Authority of Singapore
+
+   (BUTTON) Back to top
+     * [661]Careers
+     * [662]News & Events
+     * [663]Useful links
+
+   [664]SUBSCRIBE TO OUR eALERTS
+     * [665]Contact Us
+     * [666]Feedback
+
+     * [667]IRAS Facebook
+     * [668]IRAS Twitter
+     * [669]IRAS LinkedIn
+     * [670]IRAS Instagram
+     * [671]IRAS Youtube
+     * [672]Add Telegram Icon to IRAS Website
+
+     * [673]Report Vulnerability
+     * [674]Privacy Statement
+     * [675]Terms of Use & Browser Compatibility
+     * [676]Sitemap
+
+
+
+   © 2023, Government of Singapore
+
+   Last updated on 24 October 2023
+
+References
+
+   Visible links:
+   1. https://go.gov.sg/trusted-sites
+   2. https://www.iras.gov.sg/home
+   3. https://www.iras.gov.sg/who-we-are
+   4. https://www.iras.gov.sg/who-we-are
+   5. https://www.iras.gov.sg/who-we-are/our-organisation
+   6. https://www.iras.gov.sg/who-we-are/our-organisation
+   7. https://www.iras.gov.sg/who-we-are/our-organisation/mission-vision-core-values-and-logo
+   8. https://www.iras.gov.sg/who-we-are/our-organisation/board-members-and-committees
+   9. https://www.iras.gov.sg/who-we-are/our-organisation/senior-management
+  10. https://www.iras.gov.sg/who-we-are/our-organisation/organisation-structure
+  11. https://www.iras.gov.sg/who-we-are/our-organisation/social-responsibility-statement
+  12. https://www.iras.gov.sg/who-we-are/our-organisation/history-and-milestones
+  13. https://www.iras.gov.sg/who-we-are/our-organisation/awards-and-accolades
+  14. https://www.iras.gov.sg/who-we-are/our-organisation/data-protection-statement
+  15. https://www.iras.gov.sg/who-we-are/what-we-do
+  16. https://www.iras.gov.sg/who-we-are/what-we-do
+  17. https://www.iras.gov.sg/who-we-are/what-we-do/taxes-in-singapore
+  18. https://www.iras.gov.sg/who-we-are/what-we-do/taxes-in-singapore
+  19. https://www.iras.gov.sg/who-we-are/what-we-do/taxes-in-singapore/the-singapore-tax-system
+  20. https://www.iras.gov.sg/who-we-are/what-we-do/taxes-in-singapore/taxes-and-nation-building
+  21. https://www.iras.gov.sg/who-we-are/what-we-do/taxes-in-singapore/encouraging-tax-compliance
+  22. https://www.iras.gov.sg/who-we-are/what-we-do/public-engagement
+  23. https://www.iras.gov.sg/who-we-are/what-we-do/public-engagement
+  24. https://www.iras.gov.sg/who-we-are/what-we-do/public-engagement/public-feedback
+  25. https://www.iras.gov.sg/who-we-are/what-we-do/public-engagement/partnership-with-tax-agents
+  26. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications
+  27. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications
+  28. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/annual-reports
+  29. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras
+  30. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/gst-bulletin
+  31. https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/tax-statistics
+  32. https://www.iras.gov.sg/who-we-are/what-we-do/commitment-to-service
+  33. https://www.iras.gov.sg/who-we-are/what-we-do/commitment-to-service
+  34. https://www.iras.gov.sg/who-we-are/what-we-do/commitment-to-service/service-excellence-for-iras
+  35. https://www.iras.gov.sg/who-we-are/what-we-do/commitment-to-service/iras-service-awards
+  36. https://www.iras.gov.sg/who-we-are/what-we-do/commitment-to-service/public-sector-transformation-awards
+  37. https://www.iras.gov.sg/who-we-are/what-we-do/corporate-governance
+  38. https://www.iras.gov.sg/who-we-are/what-we-do/corporate-governance
+  39. https://www.iras.gov.sg/who-we-are/what-we-do/corporate-governance/whistleblowing
+  40. https://www.iras.gov.sg/who-we-are/social-site
+  41. https://www.iras.gov.sg/who-we-are/social-site
+  42. https://www.iras.gov.sg/who-we-are/social-site/digital-gallery
+  43. https://www.iras.gov.sg/who-we-are/social-site/life-at-iras
+  44. https://www.iras.gov.sg/who-we-are/social-site/partnering-for-progress
+  45. https://www.iras.gov.sg/taxes
+  46. https://www.iras.gov.sg/taxes
+  47. https://www.iras.gov.sg/taxes/individual-income-tax
+  48. https://www.iras.gov.sg/taxes/individual-income-tax
+  49. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax
+  50. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax
+  51. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/managing-mytax-portal-account
+  52. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing
+  53. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates
+  54. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not
+  55. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-reliefs-rebates-and-deductions
+  56. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/receive-tax-bill-pay-tax-check-refunds
+  57. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/consequences-of-non-compliance
+  58. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/voluntary-disclosure-of-errors-for-reduced-penalties
+  59. https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/report-tax-evasion
+  60. https://www.iras.gov.sg/taxes/individual-income-tax/employees
+  61. https://www.iras.gov.sg/taxes/individual-income-tax/employees
+  62. https://www.iras.gov.sg/taxes/individual-income-tax/employees/basic-guide-for-new-individual-taxpayers
+  63. https://www.iras.gov.sg/taxes/individual-income-tax/employees/understanding-my-income-tax-filing
+  64. https://www.iras.gov.sg/taxes/individual-income-tax/employees/tax-residency-and-tax-rates
+  65. https://www.iras.gov.sg/taxes/individual-income-tax/employees/what-is-taxable-what-is-not
+  66. https://www.iras.gov.sg/taxes/individual-income-tax/employees/tax-reliefs-rebates-deductions
+  67. https://www.iras.gov.sg/taxes/individual-income-tax/employees/receive-tax-bill-pay-tax-check-refunds
+  68. https://www.iras.gov.sg/taxes/individual-income-tax/employees/scenario-based-faqs-for-working-in-singapore-and-abroad
+  69. https://www.iras.gov.sg/taxes/individual-income-tax/employees/special-tax-schemes
+  70. https://www.iras.gov.sg/taxes/individual-income-tax/employees/consequences-of-non-compliance
+  71. https://www.iras.gov.sg/taxes/individual-income-tax/employees/voluntary-disclosure-of-errors-for-reduced-penalties
+  72. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships
+  73. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships
+  74. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/am-i-a-self-employed-person
+  75. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-self-employed-persons
+  76. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-partnerships
+  77. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-by-industry-trade-or-profession
+  78. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/understanding-tax-filing-and-payment
+  79. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/calculating-my-business-income
+  80. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/business-expenses-and-deductions
+  81. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/consequences-of-non-compliance
+  82. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/voluntary-disclosure-of-errors-for-reduced-penalties
+  83. https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/report-tax-evasion
+  84. https://www.iras.gov.sg/taxes/individual-income-tax/non-residents
+  85. https://www.iras.gov.sg/taxes/individual-income-tax/employers
+  86. https://www.iras.gov.sg/taxes/individual-income-tax/employers
+  87. https://www.iras.gov.sg/taxes/individual-income-tax/employers/filing-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)
+  88. https://www.iras.gov.sg/taxes/individual-income-tax/employers/information-to-share-with-employees
+  89. https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income
+  90. https://www.iras.gov.sg/taxes/individual-income-tax/employers/understanding-the-tax-treatment
+  91. https://www.iras.gov.sg/taxes/individual-income-tax/employers/retrenchment-exercise-in-the-company
+  92. https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)
+  93. https://www.iras.gov.sg/taxes/individual-income-tax/employers/digital-services
+  94. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation
+  95. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation
+  96. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-have-retired
+  97. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-have-been-retrenched
+  98. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-have-a-newborn
+  99. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-am-affected-by-covid-19
+ 100. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-have-other-side-or-personal-income
+ 101. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-am-starting-a-new-business
+ 102. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-have-rented-out-my-property
+ 103. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/i-received-an-audit-letter
+ 104. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/my-family-member-has-passed-away
+ 105. https://www.iras.gov.sg/taxes/individual-income-tax/my-situation/scenario-based-faqs-for-working-in-singapore-and-abroad
+ 106. https://www.iras.gov.sg/taxes/corporate-income-tax
+ 107. https://www.iras.gov.sg/taxes/corporate-income-tax
+ 108. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax
+ 109. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax
+ 110. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/corporate-income-tax-filing-season-2023
+ 111. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies
+ 112. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/new-company-start-up-kit
+ 113. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/tax-residency-of-a-company-certificate-of-residence
+ 114. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/record-keeping-requirements
+ 115. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/obtaining-a-copy-of-documents-issued-by-iras
+ 116. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/corporate-income-tax-rate-rebates-and-tax-exemption-schemes
+ 117. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/updating-company-particulars
+ 118. https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/e-learning-videos-webinars-seminars-on-corporate-income-tax
+ 119. https://www.iras.gov.sg/taxes/corporate-income-tax/estimated-chargeable-income-(eci)-filing
+ 120. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing
+ 121. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing
+ 122. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/overview-of-form-c-s-form-c-s-(lite)-form-c
+ 123. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/guidance-on-filing-form-c-s-form-c-s-(lite)-form-c
+ 124. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/preparing-a-tax-computation
+ 125. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/penalties-for-errors-in-tax-returns
+ 126. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/late-filing-or-non-filing-of-Corporate-Income-Tax-Returns-form-c-s-form-c-s-(Lite)-form-c
+ 127. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/after-filing-form-c-s-form-c-s-(lite)-form-c
+ 128. https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/using-accounting-software-to-prepare-file-form-c-s-seamlessly
+ 129. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment
+ 130. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment
+ 131. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment/paying-corporate-income-taxes
+ 132. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment/experiencing-difficulties-in-paying-your-tax
+ 133. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment/late-payment-or-non-payment-of-corporate-income-tax
+ 134. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-payment/claiming-refunds
+ 135. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance
+ 136. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance
+ 137. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/best-practices-when-writing-to-iras
+ 138. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/getting-companies-to-comply
+ 139. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/voluntary-disclosure-of-errors-for-reduced-penalties
+ 140. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/international-compliance-assurance-programme-(icap)
+ 141. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/enhanced-taxpayer-relationship-(etr)-programme
+ 142. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/about-tax-governance-and-tax-risk-management
+ 143. https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/tax-evasion-or-fraud
+ 144. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies
+ 145. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies
+ 146. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/taxable-non-taxable-income
+ 147. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/companies-receiving-foreign-income
+ 148. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/business-expenses
+ 149. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/claiming-allowances
+ 150. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/claiming-reliefs
+ 151. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/unutilised-items-(capital-allowances-trade-losses-donations)
+ 152. https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/applying-for-tax-incentives
+ 153. https://www.iras.gov.sg/taxes/corporate-income-tax/dormant-companies-or-companies-closing-down
+ 154. https://www.iras.gov.sg/taxes/corporate-income-tax/dormant-companies-or-companies-closing-down
+ 155. https://www.iras.gov.sg/taxes/corporate-income-tax/dormant-companies-or-companies-closing-down/dormant-companies
+ 156. https://www.iras.gov.sg/taxes/corporate-income-tax/dormant-companies-or-companies-closing-down/companies-applying-for-strike-off-to-cease-registration
+ 157. https://www.iras.gov.sg/taxes/corporate-income-tax/dormant-companies-or-companies-closing-down/companies-under-liquidation-judicial-management-receivership
+ 158. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries
+ 159. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries
+ 160. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/car-rental-companies
+ 161. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/car-tuition-companies
+ 162. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/companies-servicing-only-related-companies
+ 163. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/construction-companies
+ 164. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/investment-holding-companies
+ 165. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/property-developers
+ 166. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-industries/shipping-companies
+ 167. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics
+ 168. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics
+ 169. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/adopting-financial-reporting-standard-(frs)-109-39-the-tax-implications
+ 170. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/advance-ruling-system-for-income-tax
+ 171. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/transfer-pricing
+ 172. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/productivity-innovation-credit-(pic)-scheme
+ 173. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/interbank-offered-rate-reform-the-tax-implications
+ 174. https://www.iras.gov.sg/taxes/corporate-income-tax/specific-topics/tax-treatment-of-interest-gains-or-profits-derived-from-negotiable-certificates-of-deposit-by-non-financial-institutions
+ 175. https://www.iras.gov.sg/taxes/property-tax
+ 176. https://www.iras.gov.sg/taxes/property-tax
+ 177. https://www.iras.gov.sg/taxes/property-tax/property-owners
+ 178. https://www.iras.gov.sg/taxes/property-tax/property-owners
+ 179. https://www.iras.gov.sg/taxes/property-tax/property-owners/2024-property-tax-bill
+ 180. https://www.iras.gov.sg/taxes/property-tax/property-owners/property-tax-at-a-glance
+ 181. https://www.iras.gov.sg/taxes/property-tax/property-owners/annual-value
+ 182. https://www.iras.gov.sg/taxes/property-tax/property-owners/property-tax-rates
+ 183. https://www.iras.gov.sg/taxes/property-tax/property-owners/information-for-hdb-flat-owners
+ 184. https://www.iras.gov.sg/taxes/property-tax/property-owners/tax-bills-and-notices
+ 185. https://www.iras.gov.sg/taxes/property-tax/property-owners/view-statement-of-account-or-view-bills-and-notices
+ 186. https://www.iras.gov.sg/taxes/property-tax/property-owners/payments
+ 187. https://www.iras.gov.sg/taxes/property-tax/property-owners/object-to-annual-value
+ 188. https://www.iras.gov.sg/taxes/property-tax/property-owners/refunds
+ 189. https://www.iras.gov.sg/taxes/property-tax/property-owners/property-tax-reliefs
+ 190. https://www.iras.gov.sg/taxes/property-tax/property-owners/your-situation
+ 191. https://www.iras.gov.sg/taxes/property-tax/property-buyers
+ 192. https://www.iras.gov.sg/taxes/property-tax/property-buyers
+ 193. https://www.iras.gov.sg/taxes/property-tax/property-buyers/buying-hdb-flats
+ 194. https://www.iras.gov.sg/taxes/property-tax/property-buyers/buying-private-residential-properties
+ 195. https://www.iras.gov.sg/taxes/property-tax/property-buyers/buying-vacant-land-or-development-sites
+ 196. https://www.iras.gov.sg/taxes/property-tax/property-buyers/buying-other-types-of-properties
+ 197. https://www.iras.gov.sg/taxes/property-tax/property-professionals
+ 198. https://www.iras.gov.sg/taxes/property-tax/property-professionals
+ 199. https://www.iras.gov.sg/taxes/property-tax/property-professionals/real-estate-housing-agents
+ 200. https://www.iras.gov.sg/taxes/property-tax/property-professionals/appraisers-valuer
+ 201. https://www.iras.gov.sg/taxes/property-tax/property-professionals/developer
+ 202. https://www.iras.gov.sg/taxes/property-tax/property-professionals/architect
+ 203. https://www.iras.gov.sg/taxes/property-tax/property-professionals/lawyer-legal-professional
+ 204. https://www.iras.gov.sg/taxes/property-tax/other-services
+ 205. https://www.iras.gov.sg/taxes/property-tax/other-services
+ 206. https://www.iras.gov.sg/taxes/property-tax/other-services/check-outstanding-tax
+ 207. https://www.iras.gov.sg/taxes/property-tax/other-services/change-mailing-address
+ 208. https://www.iras.gov.sg/taxes/property-tax/other-services/interactive-property-tax-calculators
+ 209. https://www.iras.gov.sg/taxes/property-tax/other-services/check-rental-transactions-from-other-government-agencies
+ 210. https://www.iras.gov.sg/taxes/property-tax/tax-compliance
+ 211. https://www.iras.gov.sg/taxes/property-tax/tax-compliance
+ 212. https://www.iras.gov.sg/taxes/property-tax/tax-compliance/property-tax-audits-by-iras
+ 213. https://www.iras.gov.sg/taxes/property-tax/tax-compliance/tax-evasion-or-fraud
+ 214. https://www.iras.gov.sg/taxes/property-tax/tax-compliance/update-iras-to-avoid-penalties
+ 215. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)
+ 216. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)
+ 217. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst
+ 218. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst
+ 219. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/goods-and-services-tax-(gst)-what-it-is-and-how-it-works
+ 220. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/current-gst-rates
+ 221. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/responsibilities-of-a-gst-registered-business
+ 222. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/invoicing-price-display-and-record-keeping
+ 223. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/e-learning-course-overview-of-gst
+ 224. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/e-learning-videos-on-gst
+ 225. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change
+ 226. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change
+ 227. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change/gst-rate-change-for-business
+ 228. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change/gst-rate-change-for-consumers1
+ 229. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration
+ 230. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration
+ 231. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/do-i-need-to-register-for-gst
+ 232. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/factors-to-consider-before-registering-voluntarily-for-gst
+ 233. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration
+ 234. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-exemption-from-gst-registration
+ 235. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-special-gst-registration-(group-registration-and-divisional-registration)
+ 236. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/cancelling-gst-registration
+ 237. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee
+ 238. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/voluntary-disclosure-for-wrongful-collection-of-gst
+ 239. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)
+ 240. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)
+ 241. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-to-charge-goods-and-services-tax-(gst)
+ 242. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-to-charge-0-gst-(zero-rate)
+ 243. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-is-gst-not-charged
+ 244. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst
+ 245. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-to-report-supplies-in-gst-returns
+ 246. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/foreign-currency-transactions
+ 247. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)
+ 248. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)
+ 249. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/conditions-for-claiming-input-tax
+ 250. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/importing-of-goods
+ 251. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/claiming-input-tax-in-the-right-accounting-period
+ 252. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/claiming-input-tax-incurred-to-make-exempt-supplies
+ 253. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/claiming-gst-incurred-before-gst-registration-incorporation
+ 254. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/paying-suppliers-after-claiming-gst
+ 255. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/common-scenarios---do-i-claim-gst
+ 256. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-and-digital-economy
+ 257. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-and-digital-economy
+ 258. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-and-digital-economy/gst-on-imported-services
+ 259. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-and-digital-economy/gst-on-imports-of-low-value-goods
+ 260. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst
+ 261. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst
+ 262. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/overview-of-gst-e-filing-process
+ 263. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns
+ 264. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/correcting-errors-made-in-gst-return-(filing-gst-f7)
+ 265. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/due-dates-and-requests-for-extension
+ 266. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/late-filing-or-non-filing-of-GST-returns-f5-f8
+ 267. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/check-status-of-gst-return
+ 268. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/check-acknowledgements-correspondence-notices
+ 269. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds
+ 270. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds
+ 271. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/how-to-pay
+ 272. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/experiencing-difficulties-in-paying-your-tax
+ 273. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/late-payment-or-non-payment-of-gst
+ 274. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/refunds
+ 275. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/check-account-summary-payments
+ 276. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-payments-refunds/revising-estimated-assessment
+ 277. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers
+ 278. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers
+ 279. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/tourist-refund-scheme
+ 280. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/buying-from-a-gst-registered-business
+ 281. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore
+ 282. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/travellers-bringing-goods-into-singapore
+ 283. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/purchasing-remote-services-from-overseas-service-providers
+ 284. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods
+ 285. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/checking-if-a-business-is-gst-registered
+ 286. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors
+ 287. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors
+ 288. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/advertising
+ 289. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/aerospace-and-aviation
+ 290. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/air-and-sea-containers
+ 291. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/auction
+ 292. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/biomedical
+ 293. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/bunkering
+ 294. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/charities-and-non-profit-organisations
+ 295. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/construction
+ 296. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/consultancy-and-professional-services
+ 297. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/digital-payment-tokens
+ 298. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/e-commerce
+ 299. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/energy
+ 300. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/finance
+ 301. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/gold-jewellery
+ 302. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/hotel-and-food-beverage
+ 303. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/logistics-and-freight-forwarding
+ 304. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/manufacturing
+ 305. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/marine-and-shipping
+ 306. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/motor-trade
+ 307. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/pawnbroking
+ 308. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/real-estate
+ 309. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/reits-and-registered-business-trusts
+ 310. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/retail
+ 311. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/telecommunications
+ 312. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/travel
+ 313. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/carbon-credits
+ 314. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes
+ 315. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes
+ 316. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/cash-accounting-scheme
+ 317. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/discounted-sale-price-scheme
+ 318. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/gross-margin-scheme
+ 319. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/hand-carried-exports-scheme-(hces)
+ 320. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/import-gst-deferment-scheme-(igds)
+ 321. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/major-exporter-scheme-(mes)
+ 322. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/tourist-refund-scheme-(for-retailers)
+ 323. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/general-gst-schemes/zero-gst-(zg)-warehouse-scheme
+ 324. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes
+ 325. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes
+ 326. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-contract-manufacturer-and-trader-(acmt)-scheme
+ 327. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-import-gst-suspension-scheme-(aiss)-(for-aerospace-players)
+ 328. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-marine-customer-scheme-(amcs)
+ 329. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-marine-fuel-trader-(mft)-scheme
+ 330. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-refiner-and-consolidator-scheme-(arcs)
+ 331. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/approved-third-party-logistics-(3pl)-company-scheme
+ 332. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/industry-specific-gst-schemes/specialised-warehouse-scheme-(sws)
+ 333. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right
+ 334. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right
+ 335. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/wrongful-collection-of-gst-by-gst-registered-persons
+ 336. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/voluntary-compliance-initiatives
+ 337. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/voluntary-disclosure-of-errors-for-reduced-penalties
+ 338. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/gst-audits-by-iras
+ 339. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/object-to-audit-assessment
+ 340. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/tax-evasion-or-fraud
+ 341. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/getting-it-right/tax-governance-and-tax-risk-management
+ 342. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services
+ 343. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services
+ 344. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services/notifying-iras-of-changes
+ 345. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services/changing-gst-accounting-periods
+ 346. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services/advance-ruling-system-for-gst
+ 347. https://www.iras.gov.sg/taxes/stamp-duty
+ 348. https://www.iras.gov.sg/taxes/stamp-duty
+ 349. https://www.iras.gov.sg/taxes/stamp-duty/for-property
+ 350. https://www.iras.gov.sg/taxes/stamp-duty/for-property
+ 351. https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property
+ 352. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
+ 353. https://www.iras.gov.sg/taxes/stamp-duty/for-property/selling-or-disposing-property
+ 354. https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property
+ 355. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty
+ 356. https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions
+ 357. https://www.iras.gov.sg/taxes/stamp-duty/for-property/getting-it-right
+ 358. https://www.iras.gov.sg/taxes/stamp-duty/for-property/other-services
+ 359. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')
+ 360. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')
+ 361. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/basics-of-stamp-duty-for-property-holding-entities
+ 362. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/buying-or-acquiring-property-holding-entities
+ 363. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/selling-or-disposing-property-holding-entities
+ 364. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/paying-stamp-duty
+ 365. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/claiming-refunds
+ 366. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/getting-it-right
+ 367. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/other-services
+ 368. https://www.iras.gov.sg/taxes/stamp-duty/for-shares
+ 369. https://www.iras.gov.sg/taxes/stamp-duty/for-shares
+ 370. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/basics-of-stamp-duty-for-shares
+ 371. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/mortgaging-shares
+ 372. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/buying-or-acquiring-shares
+ 373. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/paying-stamp-duty
+ 374. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/claiming-refunds-reliefs-and-remissions
+ 375. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/getting-it-right
+ 376. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/other-services
+ 377. https://www.iras.gov.sg/taxes/international-tax
+ 378. https://www.iras.gov.sg/taxes/international-tax
+ 379. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore
+ 380. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore
+ 381. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore/list-of-dtas-limited-dtas-and-eoi-arrangements
+ 382. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore/exchange-of-information-arrangements
+ 383. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore/multilateral-convention-on-mutual-administrative-assistance-in-tax-matters
+ 384. https://www.iras.gov.sg/taxes/international-tax/international-tax-agreements-concluded-by-singapore/multilateral-convention-to-implement-tax-treaty-related-measures-to-prevent-base-erosion-and-profit-shifting
+ 385. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)
+ 386. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)
+ 387. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-overview-and-latest-developments
+ 388. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-registration-and-deregistration
+ 389. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-filing
+ 390. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-compliance
+ 391. https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/basic-information-for-account-holders-of-financial-institutions
+ 392. https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)
+ 393. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)
+ 394. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)
+ 395. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)/fatca-overview-and-latest-developments
+ 396. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)/fatca-registration-and-deregistration
+ 397. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)/fatca-filing
+ 398. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)/fatca-compliance
+ 399. https://www.iras.gov.sg/taxes/international-tax/foreign-account-tax-compliance-act-(fatca)/basic-information-for-account-holders-of-financial-institutions
+ 400. https://www.iras.gov.sg/taxes/international-tax/transfer-pricing
+ 401. https://www.iras.gov.sg/taxes/international-tax/dispute-prevention-and-resolution
+ 402. https://www.iras.gov.sg/taxes/international-tax/dispute-prevention-and-resolution
+ 403. https://www.iras.gov.sg/taxes/international-tax/dispute-prevention-and-resolution/mutual-agreement-procedure-(map)-and-arbitration
+ 404. https://www.iras.gov.sg/taxes/international-tax/dispute-prevention-and-resolution/bilateral-multilateral-advance-pricing-arrangements
+ 405. https://www.iras.gov.sg/taxes/international-tax/dispute-prevention-and-resolution/international-compliance-assurance-programme-(icap)
+ 406. https://www.iras.gov.sg/taxes/international-tax/singapore's-competent-authorities-for-international-tax-agreements
+ 407. https://www.iras.gov.sg/taxes/international-tax/list-of-dtas-limited-dtas-and-eoi-arrangements
+ 408. https://www.iras.gov.sg/taxes/withholding-tax
+ 409. https://www.iras.gov.sg/taxes/withholding-tax
+ 410. https://www.iras.gov.sg/taxes/withholding-tax/basics-of-withholding-tax
+ 411. https://www.iras.gov.sg/taxes/withholding-tax/basics-of-withholding-tax
+ 412. https://www.iras.gov.sg/taxes/withholding-tax/basics-of-withholding-tax/overview-of-withholding-tax-(WHT)
+ 413. https://www.iras.gov.sg/taxes/withholding-tax/basics-of-withholding-tax/types-of-payment-and-withholding-tax-rates
+ 414. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-company
+ 415. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-company
+ 416. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-company/payments-that-are-subject-to-withholding-tax
+ 417. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-company/payments-that-are-not-subject-to-withholding-tax
+ 418. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director
+ 419. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director
+ 420. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director/board-director
+ 421. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director/tax-obligations-for-non-resident-director
+ 422. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director/remueration-of-non-resident-director
+ 423. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-director/tax-refund-for-resident-director
+ 424. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)
+ 425. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)
+ 426. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/non-resident-professional
+ 427. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/tax-obligations-for-non-resident-professional
+ 428. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/treatment-of-income-for-non-resident-professional
+ 429. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/non-resident-professional-vs-employee
+ 430. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/tax-treaties-and-non-resident-professional
+ 431. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/non-resident-arbitrator
+ 432. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/non-resident-mediator
+ 433. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-professional-(consultant-trainer-coach-etc-)/tax-refund-for-resident-professional
+ 434. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)
+ 435. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)
+ 436. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/non-resident-public-entertainer
+ 437. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer
+ 438. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/treatment-of-income-for-non-resident-public-entertainer
+ 439. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/withholding-tax-calculations-for-non-resident-public-entertainer
+ 440. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/exemptions-of-income-for-non-resident-public-entertainer
+ 441. https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-refund-for-resident-public-entertainer
+ 442. https://www.iras.gov.sg/taxes/withholding-tax/withdrawal-from-supplementary-retirement-scheme-(srs)-account-(foreigners-prs)
+ 443. https://www.iras.gov.sg/taxes/withholding-tax/withdrawal-from-supplementary-retirement-scheme-(srs)-account-(foreigners-prs)
+ 444. https://www.iras.gov.sg/taxes/withholding-tax/withdrawal-from-supplementary-retirement-scheme-(srs)-account-(foreigners-prs)/tax-obligations-for-srs-withdrawal
+ 445. https://www.iras.gov.sg/taxes/withholding-tax/withdrawal-from-supplementary-retirement-scheme-(srs)-account-(foreigners-prs)/calculating-withholding-tax
+ 446. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing
+ 447. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing
+ 448. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing/withholding-tax-filing-and-payment-due-date
+ 449. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing/claim-of-relief-under-the-avoidance-of-double-taxation-agreement-(dta)
+ 450. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing/common-errors-made-by-payers
+ 451. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing/how-to-file
+ 452. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-filing/making-amendment-after-filing-claiming-refund
+ 453. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments
+ 454. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments
+ 455. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments/how-to-pay
+ 456. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments/late-payment-and-non-payment-of-taxes
+ 457. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments/confirmation-of-payment-(cp)
+ 458. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-payments/tax-refund
+ 459. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-reporting-compliance
+ 460. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-reporting-compliance
+ 461. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-reporting-compliance/voluntary-disclosure-of-errors-for-reduced-penalties
+ 462. https://www.iras.gov.sg/taxes/withholding-tax/withholding-tax-reporting-compliance/tax-evasion-or-fraud
+ 463. https://www.iras.gov.sg/taxes/other-taxes
+ 464. https://www.iras.gov.sg/taxes/other-taxes
+ 465. https://www.iras.gov.sg/taxes/other-taxes/trusts
+ 466. https://www.iras.gov.sg/taxes/other-taxes/trusts
+ 467. https://www.iras.gov.sg/taxes/other-taxes/trusts/basics-of-income-tax-of-estate-trust
+ 468. https://www.iras.gov.sg/taxes/other-taxes/trusts/guide-for-administrators-or-trustees
+ 469. https://www.iras.gov.sg/taxes/other-taxes/trusts/working-out-estate-trust-income-tax-by-trustee-and-beneficiary
+ 470. https://www.iras.gov.sg/taxes/other-taxes/trusts/filing-estate-trust-income-tax-(form-t)
+ 471. https://www.iras.gov.sg/taxes/other-taxes/trusts/paying-estate-trust-income-tax
+ 472. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
+ 473. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
+ 474. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/basics-of-gambling-duties
+ 475. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Betting-Lotteries-and-Sweepstakes
+ 476. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Gaming-Machines-Tombola-Continuous-Lucky-Draw-and-Single-Scheduled-Lottery
+ 477. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
+ 478. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
+ 479. https://www.iras.gov.sg/taxes/other-taxes/casino-tax/filing-paying-casino-tax
+ 480. https://www.iras.gov.sg/taxes/other-taxes/casino-tax/income-tax-treatment-for-international-market-agents-representatives
+ 481. https://www.iras.gov.sg/taxes/other-taxes/casino-tax/computing-casino-tax-(gross-gaming-revenue-casino-tax-rates)
+ 482. https://www.iras.gov.sg/taxes/other-taxes/charities
+ 483. https://www.iras.gov.sg/taxes/other-taxes/charities
+ 484. https://www.iras.gov.sg/taxes/other-taxes/charities/charities-ipcs-taxes
+ 485. https://www.iras.gov.sg/taxes/other-taxes/charities/tax-deduction-scheme-for-grantmakers
+ 486. https://www.iras.gov.sg/taxes/other-taxes/charities/donations-tax-deductions
+ 487. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons
+ 488. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons
+ 489. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/overview_bodiesofpersons
+ 490. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/filing-clubs-and-associations-income-tax
+ 491. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/after-filing-formP1
+ 492. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/paying-taxes-or-claiming-refunds
+ 493. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/FAQs
+ 494. https://www.iras.gov.sg/taxes/other-taxes/estate-duty
+ 495. https://www.iras.gov.sg/taxes/other-taxes/estate-duty
+ 496. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty
+ 497. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty-glossary
+ 498. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/faqs
+ 499. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty-forms
+ 500. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/getting-estate-duty-clearance
+ 501. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/how-to-calculate-estate-duty
+ 502. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/late-payment-or-non-payment-of-estate-duty
+ 503. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/trust-(including-income-from-estates)
+ 504. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/how-to-pay
+ 505. https://www.iras.gov.sg/schemes
+ 506. https://www.iras.gov.sg/schemes
+ 507. https://www.iras.gov.sg/schemes/disbursement-schemes
+ 508. https://www.iras.gov.sg/schemes/disbursement-schemes
+ 509. https://www.iras.gov.sg/schemes/disbursement-schemes/enterprise-innovation-scheme-(eis)
+ 510. https://www.iras.gov.sg/schemes/disbursement-schemes/jobs-growth-incentive
+ 511. https://www.iras.gov.sg/schemes/disbursement-schemes/progressive-wage-credit-scheme
+ 512. https://www.iras.gov.sg/schemes/disbursement-schemes/progressive-wage-credit-scheme
+ 513. https://www.iras.gov.sg/schemes/disbursement-schemes/progressive-wage-credit-scheme/pwcs-glossary
+ 514. https://www.iras.gov.sg/schemes/disbursement-schemes/uplifting-employment-credit
+ 515. https://www.iras.gov.sg/schemes/disbursement-schemes/senior-employment-credit-(sec)-cpf-transition-offset-(cto)-and-enabling-employment-credit-(eec)
+ 516. https://www.iras.gov.sg/schemes/disbursement-schemes/self-review-for-eligibility-of-government-schemes
+ 517. https://www.iras.gov.sg/schemes/disbursement-schemes/jobs-support-scheme-(jss)
+ 518. https://www.iras.gov.sg/schemes/disbursement-schemes/jobs-support-scheme-(jss)
+ 519. https://www.iras.gov.sg/schemes/disbursement-schemes/jobs-support-scheme-(jss)/specific-industries-in-tiers-and-ssic-codes
+ 520. https://www.iras.gov.sg/schemes/disbursement-schemes/wage-credit-scheme-(wcs)
+ 521. https://www.iras.gov.sg/schemes/disbursement-schemes/wage-credit-scheme-(wcs)
+ 522. https://www.iras.gov.sg/schemes/disbursement-schemes/wage-credit-scheme-(wcs)/wcs-glossary
+ 523. https://www.iras.gov.sg/schemes/disbursement-schemes/skillsfuture-enterprise-credit
+ 524. https://www.iras.gov.sg/schemes/disbursement-schemes/medishield-life-(mshl)
+ 525. https://www.iras.gov.sg/schemes/corporate-income-tax
+ 526. https://www.iras.gov.sg/schemes/corporate-income-tax
+ 527. https://www.iras.gov.sg/schemes/corporate-income-tax/business-and-ipc-partnership-scheme
+ 528. https://www.iras.gov.sg/schemes/corporate-income-tax/double-tax-deduction-for-internationalisation-scheme
+ 529. https://www.iras.gov.sg/schemes/corporate-income-tax/productivity-and-innovation-credit-(pic)-scheme
+ 530. https://www.iras.gov.sg/schemes/gst
+ 531. https://www.iras.gov.sg/schemes/gst
+ 532. https://www.iras.gov.sg/schemes/gst/general-gst-schemes
+ 533. https://www.iras.gov.sg/schemes/gst/general-gst-schemes
+ 534. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/cash-accounting-scheme
+ 535. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/discounted-sale-price-scheme
+ 536. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/gross-margin-scheme
+ 537. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/hand-carried-exports-scheme-(hces)
+ 538. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/major-exporter-scheme-(mes)
+ 539. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/tourist-refund-scheme-(trs)
+ 540. https://www.iras.gov.sg/schemes/gst/general-gst-schemes/zero-gst-(zg)-warehouse-scheme
+ 541. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes
+ 542. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes
+ 543. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-contract-manufacturer-and-trader-(acmt)-scheme
+ 544. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-import-gst-suspension-scheme-(aiss)-(for-aerospace-players)
+ 545. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-marine-customer-scheme-(amcs)
+ 546. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-marine-fuel-trader-(mft)-scheme
+ 547. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-refiner-and-consolidator-scheme-(arcs)
+ 548. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/approved-third-party-logistics-(3pl)-company-scheme
+ 549. https://www.iras.gov.sg/schemes/gst/industry-specific-gst-schemes/specialised-warehouse-scheme-(sws)
+ 550. https://www.iras.gov.sg/schemes/individual-income-tax
+ 551. https://www.iras.gov.sg/schemes/individual-income-tax
+ 552. https://www.iras.gov.sg/schemes/individual-income-tax/angel-investors-tax-deduction-scheme-(aitd)
+ 553. https://www.iras.gov.sg/schemes/individual-income-tax/not-ordinarily-resident-(nor)-scheme
+ 554. https://www.iras.gov.sg/schemes/individual-income-tax/srs-contributions-and-tax-relief
+ 555. https://www.iras.gov.sg/schemes/individual-income-tax/tax-on-srs-withdrawals
+ 556. https://www.iras.gov.sg/schemes/individual-income-tax/withholding-tax-on-srs
+ 557. https://www.iras.gov.sg/digital-services
+ 558. https://www.iras.gov.sg/digital-services
+ 559. https://www.iras.gov.sg/digital-services/employees
+ 560. https://www.iras.gov.sg/digital-services/employees
+ 561. https://www.iras.gov.sg/digital-services/employees
+ 562. https://www.iras.gov.sg/digital-services/self-employed
+ 563. https://www.iras.gov.sg/digital-services/self-employed
+ 564. https://www.iras.gov.sg/digital-services/self-employed
+ 565. https://www.iras.gov.sg/digital-services/intermediaries-of-self-employed-persons-(taxi-drivers-private-hire-car-drivers)
+ 566. https://www.iras.gov.sg/digital-services/intermediaries-of-self-employed-persons-(taxi-drivers-private-hire-car-drivers)
+ 567. https://www.iras.gov.sg/digital-services/intermediaries-of-self-employed-persons-(taxi-drivers-private-hire-car-drivers)
+ 568. https://www.iras.gov.sg/digital-services/employers
+ 569. https://www.iras.gov.sg/digital-services/employers
+ 570. https://www.iras.gov.sg/digital-services/employers
+ 571. https://www.iras.gov.sg/digital-services/partnerships
+ 572. https://www.iras.gov.sg/digital-services/partnerships
+ 573. https://www.iras.gov.sg/digital-services/partnerships
+ 574. https://www.iras.gov.sg/digital-services/companies-tax-agents
+ 575. https://www.iras.gov.sg/digital-services/companies-tax-agents
+ 576. https://www.iras.gov.sg/digital-services/companies-tax-agents
+ 577. https://www.iras.gov.sg/digital-services/commission-paying-organisations
+ 578. https://www.iras.gov.sg/digital-services/commission-paying-organisations
+ 579. https://www.iras.gov.sg/digital-services/commission-paying-organisations
+ 580. https://www.iras.gov.sg/digital-services/property-owners
+ 581. https://www.iras.gov.sg/digital-services/property-owners
+ 582. https://www.iras.gov.sg/digital-services/property-owners
+ 583. https://www.iras.gov.sg/digital-services/property-professionals
+ 584. https://www.iras.gov.sg/digital-services/property-professionals
+ 585. https://www.iras.gov.sg/digital-services/property-professionals
+ 586. https://www.iras.gov.sg/digital-services/gst
+ 587. https://www.iras.gov.sg/digital-services/gst
+ 588. https://www.iras.gov.sg/digital-services/gst
+ 589. https://www.iras.gov.sg/digital-services/stamp-duty
+ 590. https://www.iras.gov.sg/digital-services/stamp-duty
+ 591. https://www.iras.gov.sg/digital-services/stamp-duty
+ 592. https://www.iras.gov.sg/digital-services/withholding-tax
+ 593. https://www.iras.gov.sg/digital-services/withholding-tax
+ 594. https://www.iras.gov.sg/digital-services/withholding-tax
+ 595. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)
+ 596. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)
+ 597. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)
+ 598. https://www.iras.gov.sg/digital-services/others
+ 599. https://www.iras.gov.sg/digital-services/others
+ 600. https://www.iras.gov.sg/digital-services/others
+ 601. https://www.iras.gov.sg/digital-collaboration
+ 602. https://www.iras.gov.sg/digital-collaboration
+ 603. https://www.iras.gov.sg/digital-collaboration/for-businesses-employers
+ 604. https://www.iras.gov.sg/digital-collaboration/for-tax-agents
+ 605. https://www.iras.gov.sg/digital-collaboration/for-tax-agents
+ 606. https://www.iras.gov.sg/digital-collaboration/for-tax-agents/seamlessfilingfromsoftware-(-sffs)-for-tax-agents
+ 607. https://www.iras.gov.sg/digital-collaboration/for-tax-agents/external-value-network-(evn)
+ 608. https://www.iras.gov.sg/digital-collaboration/for-software-developers
+ 609. https://www.iras.gov.sg/digital-collaboration/for-software-developers
+ 610. https://www.iras.gov.sg/digital-collaboration/for-software-developers/partnership-with-software-developers
+ 611. https://www.iras.gov.sg/digital-collaboration/for-software-developers/accounting-tax-software
+ 612. https://www.iras.gov.sg/digital-collaboration/for-software-developers/accounting-tax-software
+ 613. https://www.iras.gov.sg/digital-collaboration/for-software-developers/accounting-tax-software/iras-accounting-software-register-plus
+ 614. https://www.iras.gov.sg/digital-collaboration/for-software-developers/accounting-tax-software/iras-digital-integration-incentive-(dii)
+ 615. https://www.iras.gov.sg/digital-collaboration/for-software-developers/payroll-software
+ 616. https://www.iras.gov.sg/digital-collaboration/for-software-developers/payroll-software
+ 617. https://www.iras.gov.sg/digital-collaboration/for-software-developers/payroll-software/how-to-support-ais-submission-as-a-vendor
+ 618. https://www.iras.gov.sg/digital-collaboration/for-software-developers/payroll-software/seamlessfilingfromsoftware-(-sffs)-for-tax-clearance-(ir21)
+ 619. https://mytax.iras.gov.sg/ESVWeb/default.aspx
+ 620. https://www.iras.gov.sg/
+ 621. https://www.iras.gov.sg/taxes
+ 622. https://www.iras.gov.sg/taxes/stamp-duty
+ 623. https://www.iras.gov.sg/taxes/stamp-duty/for-property
+ 624. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
+ 625. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
+ 626. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/definition-of-residential-property
+ 627. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 628. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)
+ 629. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/mortgage-duty
+ 630. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 631. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 632. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 633. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 634. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 635. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
+ 636. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title1
+ 637. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title2
+ 638. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title3
+ 639. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title4
+ 640. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title5
+ 641. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title6
+ 642. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title7
+ 643. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title8
+ 644. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title9
+ 645. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#renunciation-of-interest-in-trust-over-residential-property-by-beneficial-owner--section-22c-
+ 646. https://www.iras.gov.sg/taxes/stamp-duty/for-property/selling-or-disposing-property/renunciation-of-interest-in-trust-over-residential-property-by-beneficial-owner-(section-22c)
+ 647. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/definition-of-residential-property
+ 648. https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property
+ 649. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-a-singapore-citizen-buying-my-first-property--do-i-need-to-pay-bsd-
+ 650. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-an-hdb-flat--do-i-need-to-pay-bsd-
+ 651. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-an-hdb-shop-with-living-quarters--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
+ 652. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-a-semi-detached-house-with-land-zoned--residential---the-semi-detached-house-has-been-approved-as-a-child-care-centre--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
+ 653. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-the-upper-floors-of-a-shophouse-which-have-been-approved-as-a-child-care-centre-for-3-years--upon-expiry-of-the-approval--the-use-will-automatically-revert-to-residential-use--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
+ 654. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-the-upper-floors-of-a-shophouse-which-have-been-permitted-for-restaurant-use-by-a-written-permission-given-under-section-14-4--of-the-planning-act-for-a-period-exceeding-10-years--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
+ 655. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-a-land-zoned--commercial---residential---what-is-the-market-value-attributable-to-the-residential-and-non-residential-component-
+ 656. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#can-the-contracting-parties-change-the-date-of-instrument-to-avoid-paying-higher-duty-
+ 657. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#can-i-pay-bsd-using-my-central-provident-fund--cpf--money-
+ 658. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#do-i-need-to-pay-the-absd-if-i-have-paid-the-bsd-
+ 659. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)
+ 660. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-executed-a-contract-to-acquire-a-land-zoned--white---its-allowable-use-includes-residential-but-i-would-like-to-develop-a-100--non-residential-development-instead--is-the-bsd-payable-calculated-based-on-the-bsd-rates-for-non-residential-properties-
+ 661. https://www.iras.gov.sg/careers
+ 662. https://www.iras.gov.sg/news-events
+ 663. https://www.iras.gov.sg/useful-links
+ 664. https://www.iras.gov.sg/subscribe-to-iras-ealerts
+ 665. https://www.iras.gov.sg/contact-us
+ 666. https://www.iras.gov.sg/feedback
+ 667. https://www.facebook.com/irassg
+ 668. https://twitter.com/IRAS_SG
+ 669. https://sg.linkedin.com/company/iras
+ 670. https://www.instagram.com/irassg/
+ 671. https://www.youtube.com/channel/UCVWvCzqueXUdrT7VdnrnpaQ
+ 672. https://t.me/irassg
+ 673. https://www.tech.gov.sg/report_vulnerability
+ 674. https://www.iras.gov.sg/privacy-statement
+ 675. https://www.iras.gov.sg/terms-of-use-browser-compatibility
+ 676. https://www.iras.gov.sg/sitemap
+
+   Hidden links:
+ 678. https://www.iras.gov.sg/digital-services/employees/view-individual-tax-notices
+ 679. https://www.iras.gov.sg/digital-services/employees/view-account-summary
+ 680. https://www.iras.gov.sg/digital-services/employees/view-filing-status
+ 681. https://www.iras.gov.sg/digital-services/employees/check-employment-income-status
+ 682. https://www.iras.gov.sg/digital-services/employees/view-cancel-payment-plan
+ 683. https://www.iras.gov.sg/digital-services/employees/file-income-tax-return
+ 684. https://www.iras.gov.sg/digital-services/employees/mytax-mail
+ 685. https://www.iras.gov.sg/digital-services/employees/update-contact-details
+ 686. https://www.iras.gov.sg/digital-services/employees/view-late-filing-fee-summons
+ 687. https://www.iras.gov.sg/digital-services/employees/pay-taxes
+ 688. https://www.iras.gov.sg/digital-services/employees/apply-for-payment-plan
+ 689. https://www.iras.gov.sg/digital-services/employees/update-notice-preferences-(individuals)
+ 690. https://www.iras.gov.sg/digital-services/self-employed/view-individual-tax-notices
+ 691. https://www.iras.gov.sg/digital-services/self-employed/view-pic-scheme-notices
+ 692. https://www.iras.gov.sg/digital-services/self-employed/view-account-summary
+ 693. https://www.iras.gov.sg/digital-services/self-employed/view-filing-status
+ 694. https://www.iras.gov.sg/digital-services/self-employed/check-employment-income-status
+ 695. https://www.iras.gov.sg/digital-services/self-employed/view-cancel-payment-plan
+ 696. https://www.iras.gov.sg/digital-services/self-employed/file-income-tax-return
+ 697. https://www.iras.gov.sg/digital-services/self-employed/mytax-mail
+ 698. https://www.iras.gov.sg/digital-services/self-employed/update-contact-details
+ 699. https://www.iras.gov.sg/digital-services/self-employed/view-late-filing-fee-summons
+ 700. https://www.iras.gov.sg/digital-services/self-employed/pay-taxes
+ 701. https://www.iras.gov.sg/digital-services/self-employed/apply-for-payment-plan
+ 702. https://www.iras.gov.sg/digital-services/intermediaries-of-self-employed-persons-(taxi-drivers-private-hire-car-drivers)/submit-income-records-for-self-employed
+ 703. https://www.iras.gov.sg/digital-services/employers/tips-on-e-filing
+ 704. https://www.iras.gov.sg/digital-services/employers/tax-clearance---view-tax-clearance-notices-letters
+ 705. https://www.iras.gov.sg/digital-services/employers/tax-clearance---file-form-ir21
+ 706. https://www.iras.gov.sg/digital-services/employers/tax-clearance---view-form-ir21-records
+ 707. https://www.iras.gov.sg/digital-services/employers/submit-employment-income-records
+ 708. https://www.iras.gov.sg/digital-services/employers/register-for-ais
+ 709. https://www.iras.gov.sg/digital-services/employers/search-ais-organisation
+ 710. https://www.iras.gov.sg/digital-services/employers/mytax-mail
+ 711. https://www.iras.gov.sg/digital-services/employers/senior-employment-credit-enabling-employment-credit-and-cpf-transition-offset-eligibility-search-and-breakdown-request
+ 712. https://www.iras.gov.sg/digital-services/employers/wage-credit-scheme-breakdown-request
+ 713. https://www.iras.gov.sg/digital-services/employers/progressive-wage-credit-scheme-eligibility-search-and-breakdown-request
+ 714. https://www.iras.gov.sg/digital-services/partnerships/file-partnership-income-tax-return-form-p
+ 715. https://www.iras.gov.sg/digital-services/partnerships/request-extension-of-time-to-file
+ 716. https://www.iras.gov.sg/digital-services/partnerships/apply-for-pic-cash-payout
+ 717. https://www.iras.gov.sg/digital-services/partnerships/view-pic-cash-payout-application-status
+ 718. https://www.iras.gov.sg/digital-services/partnerships/view-pic-scheme-notices
+ 719. https://www.iras.gov.sg/digital-services/partnerships/view-partnership-tax-filing-status
+ 720. https://www.iras.gov.sg/digital-services/partnerships/view-partnership-tax-notices
+ 721. https://www.iras.gov.sg/digital-services/partnerships/update-partnership-contact-details
+ 722. https://www.iras.gov.sg/digital-services/partnerships/request-penalty-waiver-extension-of-time-to-file
+ 723. https://www.iras.gov.sg/digital-services/companies-tax-agents/view-notices-letters---pic-scheme
+ 724. https://www.iras.gov.sg/digital-services/companies-tax-agents/view-account-summary
+ 725. https://www.iras.gov.sg/digital-services/companies-tax-agents/view-cancel-payment-plan
+ 726. https://www.iras.gov.sg/digital-services/companies-tax-agents/view-notices-letters---corporate-tax
+ 727. https://www.iras.gov.sg/digital-services/companies-tax-agents/access-tax-agent-e-services
+ 728. https://www.iras.gov.sg/digital-services/companies-tax-agents/pay-taxes
+ 729. https://www.iras.gov.sg/digital-services/companies-tax-agents/apply-for-payment-plan
+ 730. https://www.iras.gov.sg/digital-services/companies-tax-agents/update-notice-preferences-(businesses)
+ 731. https://www.iras.gov.sg/digital-services/companies-tax-agents/view-corporate-tax-filing-status
+ 732. https://www.iras.gov.sg/digital-services/companies-tax-agents/access-company-dashboard
+ 733. https://www.iras.gov.sg/digital-services/companies-tax-agents/file-form-c-s-form-c-s-(lite)
+ 734. https://www.iras.gov.sg/digital-services/companies-tax-agents/update-corporate-profile-contact-details
+ 735. https://www.iras.gov.sg/digital-services/commission-paying-organisations/e-submission-of-commission
+ 736. https://www.iras.gov.sg/digital-services/commission-paying-organisations/submit-commission-records
+ 737. https://www.iras.gov.sg/digital-services/property-owners/view-property-tax-notices
+ 738. https://www.iras.gov.sg/digital-services/property-owners/view-cancel-payment-plan
+ 739. https://www.iras.gov.sg/digital-services/property-owners/mytax-mail
+ 740. https://www.iras.gov.sg/digital-services/property-owners/update-contact-details
+ 741. https://www.iras.gov.sg/digital-services/property-owners/view-property-dashboard
+ 742. https://www.iras.gov.sg/digital-services/property-owners/pay-taxes
+ 743. https://www.iras.gov.sg/digital-services/property-owners/apply-for-payment-plan
+ 744. https://www.iras.gov.sg/digital-services/property-owners/update-notice-preferences-(businesses)
+ 745. https://www.iras.gov.sg/digital-services/property-owners/update-notice-preferences-(individuals)
+ 746. https://www.iras.gov.sg/digital-services/property-owners/check-property-tax-balance
+ 747. https://www.iras.gov.sg/digital-services/property-owners/view-account-summary
+ 748. https://www.iras.gov.sg/digital-services/property-owners/apply-withdraw-for-owner-occupier-tax-rates
+ 749. https://www.iras.gov.sg/digital-services/property-owners/apply-house-and-or-unit-number
+ 750. https://www.iras.gov.sg/digital-services/property-professionals/check-annual-value-of-property
+ 751. https://www.iras.gov.sg/digital-services/property-professionals/update-property-ownership
+ 752. https://www.iras.gov.sg/digital-services/property-professionals/apply-house-and-or-unit-number
+ 753. https://www.iras.gov.sg/digital-services/gst/view-account-summary
+ 754. https://www.iras.gov.sg/digital-services/gst/view-cancel-payment-plan
+ 755. https://www.iras.gov.sg/digital-services/gst/mytax-mail
+ 756. https://www.iras.gov.sg/digital-services/gst/gst-registered-business-search
+ 757. https://www.iras.gov.sg/digital-services/gst/notices-letters
+ 758. https://www.iras.gov.sg/digital-services/gst/file-gst-return-edit-past-return
+ 759. https://www.iras.gov.sg/digital-services/gst/pay-taxes
+ 760. https://www.iras.gov.sg/digital-services/gst/apply-for-payment-plan
+ 761. https://www.iras.gov.sg/digital-services/gst/update-notice-preferences-(businesses)
+ 762. https://www.iras.gov.sg/digital-services/gst/retrieve-gst-returns-assessments-for-ask-review
+ 763. https://www.iras.gov.sg/digital-services/gst/view-gst-filing-status
+ 764. https://www.iras.gov.sg/digital-services/gst/update-gst-contact-details
+ 765. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-lease-tenancy
+ 766. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-mortgage
+ 767. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-sale-and-purchase-(for-buyers)
+ 768. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-sale-and-purchase-(for-sellers)
+ 769. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-shares
+ 770. https://www.iras.gov.sg/digital-services/stamp-duty/requests-amendment-to-stamp-certificate
+ 771. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-others---declaration-of-trust-trust-deed
+ 772. https://www.iras.gov.sg/digital-services/stamp-duty/requests-apply-for-assessment-appeal-remission
+ 773. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-additional-stamp-duty
+ 774. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-exemptions-remissions---transfer-of-hdb-flat-within-family
+ 775. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-others---other-transfer-(dutiable-documentsstamping-others---other-transfer-(dutiable-documents)
+ 776. https://www.iras.gov.sg/digital-services/stamp-duty/requests-object-to-an-assessment
+ 777. https://www.iras.gov.sg/digital-services/stamp-duty/stamp-duty-chatbot
+ 778. https://www.iras.gov.sg/digital-services/withholding-tax/file-s45-form
+ 779. https://www.iras.gov.sg/digital-services/withholding-tax/retrieve-s45-form-(draft)
+ 780. https://www.iras.gov.sg/digital-services/withholding-tax/approve-s45-form
+ 781. https://www.iras.gov.sg/digital-services/withholding-tax/submit-s45-form
+ 782. https://www.iras.gov.sg/digital-services/withholding-tax/view-amend-s45-form
+ 783. https://www.iras.gov.sg/digital-services/withholding-tax/view-s45-giro-plan
+ 784. https://www.iras.gov.sg/digital-services/withholding-tax/view-s45-cor-status
+ 785. https://www.iras.gov.sg/digital-services/withholding-tax/view-s45-notices-letters
+ 786. https://www.iras.gov.sg/digital-services/withholding-tax/update-notice-preferences-(businesses)
+ 787. https://www.iras.gov.sg/digital-services/withholding-tax/update-notice-preferences-(individuals)
+ 788. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/apply-for-crs-registration
+ 789. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/check-crs-registration-status
+ 790. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-update-fi-aeoi-profile
+ 791. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-update-my-profile
+ 792. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-aeoi-contact-details
+ 793. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-edit-trustee-documented-trusts
+ 794. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-aeoi-e-service-transaction-history
+ 795. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/submit-crs-or-fatca-return
+ 796. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-submitted-financial-account-report
+ 797. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/view-aeoi-notices-letters
+ 798. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/email-us-on-aeoi-matters
+ 799. https://www.iras.gov.sg/digital-services/automatic-exchange-of-information-(crs-and-fatca)/apply-to-deregister-for-aeoi
+ 800. https://www.iras.gov.sg/digital-services/others/iras-bot
+ 801. https://www.iras.gov.sg/digital-services/others/corppass
+ 802. https://www.iras.gov.sg/digital-services/others/institutions-of-a-public-character-and-qualifying-grantmakers
+ 803. https://www.iras.gov.sg/digital-services/others/government-payout-schemes
+ 804. https://www.iras.gov.sg/digital-services/others/iras-digital-notices
+ 805. https://www.iras.gov.sg/digital-services/others/singpass-foreign-user-account-(sfa)-for-foreign-individuals
+ 806. https://www.iras.gov.sg/digital-services/others/mytax-portal-technical-faq
+ 807. https://www.iras.gov.sg/digital-services/others/view-corporate-tax-notices-(for-companies)
+ 808. https://www.iras.gov.sg/digital-services/others/view-partnership-tax-notices-(for-partnerships)
+ 809. https://www.iras.gov.sg/digital-services/others/view-individual-tax-notices-(for-sole-proprietors)
+ 810. https://www.iras.gov.sg/digital-services/others/view-individual-tax-notices
+ 811. https://www.iras.gov.sg/digital-services/others/download-donation-application-submit-records
+ 812. https://www.iras.gov.sg/digital-services/others/institutions-of-a-public-character-and-qualifying-grantmakers-cvs
+ 813. https://www.iras.gov.sg/digital-services/others/update-notice-preferences-(individuals)
+ 814. https://www.iras.gov.sg/digital-services/others/update-notice-preferences-(businesses)
+ 815. https://www.iras.gov.sg/quick-links/forms/stamp-duty
+ 816. https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/who-should-pay-stamp-duty
+ 817. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty/when-to-pay-stamp-duty
+ 818. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty/how-to-pay
+ 819. https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro

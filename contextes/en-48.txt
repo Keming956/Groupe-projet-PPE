@@ -1,0 +1,269 @@
+What Is a Fiduciary Duty?
+
+   Fiduciary duty refers to the relationship between a fiduciary and the
+   principal or beneficiary on whose behalf the fiduciary acts.
+
+   The fiduciary accepts legal responsibility for duties of care, loyalty,
+   good faith, confidentiality, and more when serving the best interests
+   of a beneficiary. Strict care must be taken to ensure that
+--
+Key Takeaways
+
+     * A fiduciary duty involves actions taken in the best interests of
+       another person or entity.
+     * Fiduciary duty describes the relationship between an attorney and a
+       client or a guardian and a ward.
+     * Fiduciary duties include duty of care, loyalty, good faith,
+       confidentiality, prudence, and disclosure.
+     * It has been successfully argued that an employee may have a
+       fiduciary duty of loyalty to an employer.
+     * A breach of fiduciary duty occurs when a fiduciary fails to act
+       responsibly in the best interests of a client.
+
+--
+   In this case, the parent will name a person or an entity, such as a law
+   firm or bank, as trustee of the [170]estate. That person or entity has
+   a fiduciary duty to the children, who are the beneficiaries of the
+   estate.
+
+--
+
+   A common example of [173]an agent/principal relationship that implies
+   fiduciary duty is that between the executives of a company and its
+   shareholders. The shareholders expect that the executives will make
+   well-considered, prudent decisions on their behalf and in their best
+--
+   on behalf of the client.
+
+   Attorneys can be sued for breaches of their fiduciary duties by
+   clients. They are accountable to the court in which a client is
+   represented when a breach occurs.
+--
+Controlling Stockholder/Company
+
+   In certain circumstances, fiduciary duties may be required of a
+   stockholder who possesses a majority interest in a corporation or who
+   exercises control over its activities. A breach of fiduciary duty may
+   result in personal legal liability for the controlling shareholder as
+   well as directors and officers.
+--
+Types of Fiduciary Duties
+
+   Fiduciary duties may differ depending on the type of beneficiary that a
+   fiduciary serves. However, in general, the legal and ethical
+   obligations related to protecting the interests of beneficiaries
+   include the following duties.
+
+Duty of Care
+--
+   This pertains to acting in the best interest of the beneficiary at all
+   times, putting their well-being first and foremost. It includes the
+   duty of the fiduciary to excuse themself from taking actions when
+   there's a conflict of interest with the beneficiary's welfare.
+
+Duty of Good Faith
+
+   This duty pertains to always acting within the law to advance the
+   interests of the beneficiary. At no time should the fiduciary take
+   actions that are outside of legal constraints.
+--
+   Fiduciaries must engage in completely forthright behavior, disclosing
+   any and all relevant information that could have an impact on their
+   ability to carry out their duties as fiduciary and/or on the well-being
+   of a beneficiary's interests.
+
+Breaches in Fiduciary Duty
+
+   Fiduciary duties are taken on by individuals and entities for various
+   types of beneficiaries. Such relationships include, among others,
+   lawyers acting for clients, company executives acting for stockholders,
+--
+   investors, and trustees acting for estate beneficiaries.
+
+   An employee may even have a fiduciary duty to an employer. That is,
+   employers have a right to expect that employees are acting in their
+   best interests. For example, they are not sharing trade secrets, or
+--
+   from a competitor.
+
+   These expectations may not be actual fiduciary duties but they may be
+   spelled out in an employee handbook or contract clause.
+
+   Case law indicates that breaches of fiduciary duty most often happen
+   when a binding fiduciary relationship is in effect and actions are
+   taken which violate or are counterproductive to the interests of a
+--
+Consequences of a Fiduciary Breach
+
+   A breach of fiduciary duty can lead to a number of consequences. Not
+   all of them are legal consequences.
+    1. An accusation of a breach of fiduciary duty can hurt the reputation
+       of a professional. A client can end a professional relationship
+       because they do not trust in [176]a professional’s care of the
+       required fiduciary duty.
+    2. If a breach of duty case proceeds to the courts, steeper
+       consequences can result. A successful breach of fiduciary duty
+       lawsuit can result in monetary penalties for direct damages,
+       indirect damages, and legal costs.
+--
+       a license, or removal from service.
+
+   However, proving a breach of fiduciary duty is not always easy.
+
+Elements of a Fiduciary Breach Claim
+--
+   A number of legal precedents and elements have been established to
+   allow claims by those who have been harmed by a breach of fiduciary
+   duty. Jurisdictions differ, but in general, the following four elements
+   are essential if a plaintiff is to prevail in a breach of fiduciary
+   duty claim.
+
+A Duty Existed
+
+   The plaintiff must show that a legal fiduciary duty existed. Many
+   professionals are obligated, legally and ethically, to conduct their
+   businesses honestly. However, that doesn't mean that they are
+   fiduciaries who must act solely in the interest of a particular client.
+   A fiduciary duty is accepted as such by a fiduciary, typically in
+   writing.
+
+A Breach Occurred
+
+   The plaintiff must show that a fiduciary duty was breached. The type of
+   breach varies in every case. For example, if an accountant was sloppy
+   in filling out a client's tax returns, and the client was slapped with
+   an enormous fine for nonpayment, the accountant may be guilty of a
+   breach of fiduciary duty. However, if the client was sloppy and failed
+   to provide complete and necessary information, no breach occurred.
+
+--
+   The plaintiff must show that the breach of trust caused actual damage.
+   Without damage, there is usually no basis for a breach of fiduciary
+   duty case. The more specific a principal or beneficiary can be with
+   facts of damage, the better.
+
+--
+   clearly a conflict of interest. However, a specific accounting relating
+   to the loss to the beneficiary is needed to prove a breach of fiduciary
+   duty.
+
+Causation Was Proved
+
+   Causation shows that any damages incurred by the plaintiff were
+   directly linked with the actions taken in breach of fiduciary duty. In
+   the above example of a property sale, the link appears to be clear.
+   However, the trustee might argue that a quick sale was in the best
+--
+
+   If you suspect your [177]financial adviser is in breach of their
+   fiduciary duty, you can file a complaint with [178]FINRA, the [179]SEC,
+   or both. If your adviser has a professional certification, you can also
+   notify the entity that provided the credential.
+--
+A Duty of Loyalty
+
+   One example of a breach in fiduciary duty case went to the Virginia
+   Supreme Court in 2007.
+
+--
+
+   In this case, the question of whether the employees had a fiduciary
+   duty to their former employer, and breached it, was fundamental to the
+   appeal that brought the case to the state's highest court.
+
+   The court affirmed the lower court's ruling that the employees owed
+   Mario a duty of loyalty. In effect, it supported the claim of a breach
+   of fiduciary duty, and a penalty of more than $1 million.
+
+A Menswear Store vs. Ex-Employees
+
+   In 2006, a high-end menswear store cited a breach of fiduciary duty
+   when it sued two of its former sales professionals for taking a job
+   with a competitor, Saks Fifth Avenue. The department store was able to
+--
+
+   The company sued the bank that took the deposits, alleging that it
+   aided and abetted a breach of fiduciary duty. The court ruled that
+   there was insufficient evidence that the bank was aware of its role in
+   the scam.
+--
+
+   The adjective fiduciary means held or given in trust. In accepting a
+   fiduciary duty, an individual or entity accepts a legal commitment to
+   act in the best interests of a beneficiary.
+
+What Are the Main Fiduciary Duties?
+
+   There are several types of fiduciary duties. One is the duty of loyalty
+   which implies that the fiduciary will always act in the best interests
+   of the beneficiary or principal. Duty of care is another. It means that
+--
+   regarding a beneficiary's well-being. No conflicting interest will be
+   permitted to influence the fiduciary's actions on behalf of the client.
+   Duty to disclose is a third. It refers to the duty a fiduciary has to
+   disclose any conflict of interest they may have when acting on behalf
+   of a beneficiary.
+--
+   acting for a principal.
+
+   However, any individual may, in some cases, have a fiduciary duty to
+   another person or entity. For example, an employee may be found to have
+   a duty of loyalty to an employer and may be legally liable if they
+   cause harm to the employer by misusing information or resources
+   entrusted to them.
+--
+The Bottom Line
+
+   Fiduciary duties refer to the ways that a fiduciary is legally
+   committed to act for a principal or beneficiary. They include a duty of
+   loyalty, a duty of care, a duty of prudence, a duty of confidentiality,
+   and more.
+
+   Fiduciary duties are meant to ensure that the fiduciary acts only in
+   the best interests of a principal or beneficiary. What's more, the
+   fiduciary must act diligently to protect those interests.
+--
+   fiduciary, you can protect yourself by understanding the rights that
+   this relationship grants you and the responsibilities that are [180]not
+   part of a fiduciary's duties.
+
+   Article Sources
+--
+ 149. https://www.investopedia.com/about-us-5093223
+ 150. about:blank
+ 151. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-what-is-a-fiduciary-duty
+ 152. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-examples-of-fiduciary-relationships
+ 153. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-types-of-fiduciary-duties
+ 154. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-breaches-in-fiduciary-duty
+ 155. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-consequences-of-a-fiduciary-breach
+ 156. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-elements-of-a-fiduciary-breach-claim
+ 157. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-examples-of-fiduciary-breach-cases
+ 158. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-what-does-it-mean-to-have-a-fiduciary-duty
+ 159. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-the-bottom-line
+ 160. https://www.investopedia.com/investing-4427685
+ 161. https://www.investopedia.com/laws-and-regulations-4427769
+--
+ 174. https://www.investopedia.com/terms/f/fundmanager.asp
+ 175. https://www.investopedia.com/articles/professionaleducation/07/aif-aifa.asp
+ 176. https://www.investopedia.com/terms/d/duty-care.asp
+ 177. https://www.investopedia.com/articles/professionals/071713/ethical-standards-you-should-expect-financial-advisors.asp
+ 178. https://www.investopedia.com/terms/f/finra.asp
+--
+ 183. https://www.investopedia.com/terms/f/fiduciary.asp
+ 184. https://www.investopedia.com/financial-edge/0912/5-misconceptions-about-a-fiduciary.aspx
+ 185. https://www.investopedia.com/terms/d/duty-care.asp
+ 186. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+ 187. https://www.investopedia.com/terms/p/prudent-expert-act.asp
+--
+ 189. https://www.investopedia.com/terms/f/fiduciary.asp
+ 190. https://www.investopedia.com/terms/f/fiduciary.asp
+ 191. https://www.investopedia.com/terms/d/duty-care.asp
+ 192. https://www.investopedia.com/terms/d/duty-care.asp
+ 193. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+ 194. https://www.investopedia.com/terms/f/fiduciary_negligence.asp
+--
+ 209. https://invcontent.zendesk.com/hc/en-us/requests/new
+ 210. https://www.dotdashmeredith.com/careers
+ 211. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp
+ 212. https://www.investopedia.com/terms-beginning-with-num-4769350
+ 213. https://www.investopedia.com/terms-beginning-with-a-4769351

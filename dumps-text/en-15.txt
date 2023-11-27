@@ -1,0 +1,316 @@
+   #[1]alternate [2]alternate [3]alternate
+
+   [4]Skip to main content
+
+   [5]European Commission logo
+   [6]English
+   Select your language
+   (BUTTON) Close
+     * [7]bgбългарски
+     * [8]esespañol
+     * [9]csčeština
+     * [10]dadansk
+     * [11]deDeutsch
+     * [12]eteesti
+     * [13]elελληνικά
+     * [14]enEnglish
+     * [15]frfrançais
+     * [16]gaGaeilge
+     * [17]hrhrvatski
+     * [18]ititaliano
+     * [19]lvlatviešu
+     * [20]ltlietuvių
+     * [21]humagyar
+     * [22]mtMalti
+     * [23]nlNederlands
+     * [24]plpolski
+     * [25]ptportuguês
+     * [26]roromână
+     * [27]skslovenčina
+     * [28]slslovenščina
+     * [29]fisuomi
+     * [30]svsvenska
+
+   [31]Search
+   Search ____________________
+   (BUTTON) Search
+   [32]Business, Economy, Euro
+   Taxation and Customs Union
+
+   [33]Menu
+
+   (BUTTON) Close
+   Menu
+   (BUTTON) Back (BUTTON) (BUTTON)
+     * [34]Home
+     * [35]Taxation (BUTTON)
+          + [36]Corporate Taxation
+          + [37]International affairs
+          + [38]Decision making on EU Tax Policy
+          + [39]Company taxation
+          + [40]Value added tax (VAT)
+          + [41]VAT and Administrative Cooperation
+          + [42]Excise duties
+          + [43]Tax Co-operation and control
+          + [44]Economic analysis of taxation
+          + [45]Personal taxation
+          + [46]Other taxes
+          + [47]Central Electronic System of Payment information (CESOP)
+          + [48]National tax administrations
+          + [49]Conferences and events
+          + [50]EU Training
+          + [51]Legislation
+          + [52]Glossary
+     * [53]Customs (BUTTON)
+          + [54]AEO (Authorised Economic Operator)
+          + [55]Prohibitions and Restrictions
+          + [56]Calculation of customs duties
+          + [57]Customs controls
+          + [58]Customs Laboratories
+          + [59]EU Customs strategy
+          + [60]Customs Procedures for import and export
+          + [61]Union Customs code
+          + [62]Customs security
+          + [63]Customs Risk Management
+          + [64]International affairs
+          + [65]Legislation
+          + [66]National customs administrations
+          + [67]EU Training
+          + [68]Glossary
+          + [69]Customs cooperation
+          + [70]Electronic customs
+     * [71]Online services (BUTTON)
+          + [72]Online services and databases for Customs
+          + [73]Online services and databases for Taxation
+     * [74]Tenders and grants
+     * [75]News
+     * [76]Events
+
+    1. [77]Home
+    2. [78]Taxation
+    3. Excise duties
+
+Excise duties on alcohol, tobacco and energy
+
+   Excise duties are indirect taxes on the sale or use of specific
+   products, such as alcohol, tobacco and energy. The revenue from these
+   excise duties goes entirely to the country to which they are paid.
+
+   EU countries agreed on common EU rules to make sure that excise duties
+   are applied in the same way and to the same products everywhere in the
+   Union.
+
+   This helps prevent trade distortions in the Single Market, ensures fair
+   competition between businesses, and reduces administrative burdens for
+   companies.
+
+   In addition, EU law sets out [79]common provisions, which apply to all
+   products subject to excise duties. These common provisions include the
+   framework for the [80]Excise Monitoring and Control System (EMCS), an
+   IT system for monitoring the movement of excise goods within the EU.
+
+   Legal texts
+     * [81]Council Directive (EU) 2020/262 laying down the general
+       arrangements for excise duty (recast)
+     * [82]Council Regulation (EU) No 389/2012 on administrative
+       cooperation in the field of excise duties as regards the content of
+       electronic registers (subsequently amended by Council Regulations
+       2020/263, 2021/774 and 2023/246)
+     * [83]Decision (EU) 2020/263 on computerising the movement and
+       surveillance of excise goods (recast)
+
+   Related links
+
+   DG TAXUD published an external [84]study (2020) on the common
+   provisions relating to cross border acquisitions of excise products by
+   private individuals, cross border distance selling of excise products
+   by businesses to consumers and the wholesale to retails sales of excise
+   products by a business in one Member State to a business in another.
+
+   In this section, you will find more information on:
+
+[85]Common Excise Duty Provisions
+
+   Common horizontal rules cover, for example, the scope. overarching
+   principles and rules on the rules on the production, storage and
+   movement of excise products
+
+[86]Excise Duty on Alcohol
+
+   EU legislation on excise duties on alcohol covers excise duties on
+   alcoholic beverages, specific provisions for locally produced products
+   and alcohol not intended for human consumption
+
+[87]Excise Duties on Tobacco
+
+   EU legislation on excise duties for manufactured tobacco defines the
+   categories of manufactured tobacco products, the principles of
+   taxation, and the minimum rates and structures to be applied
+
+[88]Excise Duty on Energy
+
+   EU excise duty rules cover all energy products used for heating and
+   transport, as well as electricity
+
+[89]Review of the Energy Taxation Directive (proposal)
+
+   As part of the EU Green Deal package of July 2021, the Commission put
+   forward a proposal for a revised ETD to bring the EU’s energy taxation
+   rules into line with our climate policy objectives
+
+[90]Excise Movement and Control System (EMCS)
+
+   The Excise Movement and Control System (EMCS) is a computerised system
+   for monitoring the movement of excise goods under duty suspension in
+   the EU
+
+   Share this page
+
+[91]Taxation and Customs Union
+
+   This site is managed by: Directorate-General for Taxation and Customs
+   Union
+
+Contact us
+
+     * [92]Contact us
+
+Follow us
+
+     * [93]Twitter
+     * [94]LinkedIn
+     * [95]YouTube
+
+About us
+
+     * [96]Newsletter
+     * [97]Glossary
+     * [98]Our department
+
+Related sites
+
+     * [99]Have your say
+
+   More information on:
+     * [100]Business, Economy, Euro
+
+   [101]European Commission logo
+     * [102]Contact the European Commission
+     * [103]Follow the European Commission on social media
+     * [104]Resources for partners
+
+     * [105]Languages on our websites
+     * [106]Cookies
+     * [107]Privacy policy
+     * [108]Legal notice
+
+References
+
+   1. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
+   2. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+   3. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
+   4. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en#main-content
+   5. https://commission.europa.eu/index_en
+   6. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+   7. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_bg
+   8. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_es
+   9. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_cs
+  10. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_da
+  11. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
+  12. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_et
+  13. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_el
+  14. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  15. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
+  16. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ga
+  17. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hr
+  18. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_it
+  19. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lv
+  20. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lt
+  21. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hu
+  22. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_mt
+  23. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_nl
+  24. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pl
+  25. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pt
+  26. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ro
+  27. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sk
+  28. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sl
+  29. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fi
+  30. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sv
+  31. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  32. https://commission.europa.eu/business-economy-euro_en
+  33. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  34. https://taxation-customs.ec.europa.eu/index_en
+  35. https://taxation-customs.ec.europa.eu/taxation-1_en
+  36. https://taxation-customs.ec.europa.eu/taxation-1/corporate-taxation_en
+  37. https://ec.europa.eu/taxation_customs/customs-4/international-affairs_en
+  38. https://taxation-customs.ec.europa.eu/taxation-1/decision-making-eu-tax-policy_en
+  39. https://taxation-customs.ec.europa.eu/taxation-1/company-taxation_en
+  40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
+  41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
+  44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
+  45. https://taxation-customs.ec.europa.eu/taxation-1/personal-taxation_en
+  46. https://taxation-customs.ec.europa.eu/taxation-1/other-taxes_en
+  47. https://taxation-customs.ec.europa.eu/taxation-1/central-electronic-system-payment-information-cesop_en
+  48. https://taxation-customs.ec.europa.eu/taxation-1/national-tax-administrations_en
+  49. https://taxation-customs.ec.europa.eu/taxation-1/conferences-and-events_en
+  50. https://taxation-customs.ec.europa.eu/taxation-1/eu-training_en
+  51. https://taxation-customs.ec.europa.eu/taxation-1/legislation_en
+  52. https://ec.europa.eu/taxation_customs/about/glossary_en
+  53. https://taxation-customs.ec.europa.eu/customs-4_en
+  54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
+  55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
+  58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
+  59. https://taxation-customs.ec.europa.eu/customs-4/eu-customs-strategy_en
+  60. https://ec.europa.eu/taxation_customs/business/customs-procedures-import-and-export_en
+  61. https://taxation-customs.ec.europa.eu/customs-4/union-customs-code_en
+  62. https://taxation-customs.ec.europa.eu/customs-4/customs-security_en
+  63. https://taxation-customs.ec.europa.eu/customs-4/customs-risk-management_en
+  64. https://taxation-customs.ec.europa.eu/customs-4/international-affairs_en
+  65. https://ec.europa.eu/taxation_customs/taxation-1/legislation_en
+  66. https://ec.europa.eu/taxation_customs/customs-4/union-customs-code/national-customs-administrations_en
+  67. https://ec.europa.eu/taxation_customs/taxation-1/eu-training_en
+  68. https://ec.europa.eu/taxation_customs/about/glossary_en
+  69. https://taxation-customs.ec.europa.eu/eu-funding-customs-and-tax/customs-programme_en
+  70. https://taxation-customs.ec.europa.eu/customs-4/electronic-customs_en
+  71. https://taxation-customs.ec.europa.eu/online-services_en
+  72. https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-customs_en
+  73. https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-taxation_en
+  74. https://taxation-customs.ec.europa.eu/tenders-and-grants-0_en
+  75. https://taxation-customs.ec.europa.eu/news_en
+  76. https://taxation-customs.ec.europa.eu/events_en
+  77. https://taxation-customs.ec.europa.eu/index_en
+  78. https://taxation-customs.ec.europa.eu/taxation-1_en
+  79. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
+  80. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  81. https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020L0262&from=EN
+  82. https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32012R0389
+  83. https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32020D0263
+  84. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation/economic-studies_en
+  85. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
+  86. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-alcohol_en
+  87. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duties-tobacco_en
+  88. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-energy_en
+  89. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/review-energy-taxation-directive-proposal_en
+  90. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  91. https://taxation-customs.ec.europa.eu/index_en
+  92. https://taxation-customs.ec.europa.eu/contact-us_en
+  93. https://twitter.com/EU_Taxud
+  94. https://www.linkedin.com/showcase/eu-economy-finance/
+  95. https://www.youtube.com/EUTaxud
+  96. https://taxation-customs.ec.europa.eu/newsletters_en
+  97. https://taxation-customs.ec.europa.eu/glossary_en
+  98. https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/taxation-and-customs-union
+  99. https://ec.europa.eu/info/consultations_en
+ 100. https://commission.europa.eu/business-economy-euro_en
+ 101. https://commission.europa.eu/index_en
+ 102. https://commission.europa.eu/about-european-commission/contact_en
+ 103. https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&institutions=european_commission
+ 104. https://commission.europa.eu/resources-partners_en
+ 105. https://commission.europa.eu/languages-our-websites_en
+ 106. https://commission.europa.eu/cookies_en
+ 107. https://commission.europa.eu/privacy-policy_en
+ 108. https://commission.europa.eu/legal-notice_en

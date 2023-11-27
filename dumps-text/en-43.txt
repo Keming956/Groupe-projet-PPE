@@ -1,0 +1,835 @@
+   #[1]alternate
+
+   [2]Skip to main content [3]Skip to search box
+
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-PCC62S
+
+   [5]Home
+
+   Search ____________________________________________________________
+   (Search) Search
+
+   (BUTTON) Toggle navigation
+
+Main navigation
+
+     * [6]About us
+
+Contact us
+       Get in touch by phone, via our online form, or by post:
+
+       Financial Conduct Authority
+       12 Endeavour Square
+       London E20 1JN
+
+       [7]Contact us
+
+What we do
+          + [8]About the FCA
+          + [9]Enhancing market integrity
+          + [10]How we work
+          + [11]Promoting competition
+          + [12]Protecting consumers
+
+How we regulate
+          + [13]Authorisation
+          + [14]Enforcement
+          + [15]Handbook of rules and guidance
+          + [16]International standards and regulations
+          + [17]Supervision
+
+How we operate
+          + [18]Complain about us, the PRA or the Bank of England (the
+            regulators)
+          + [19]Corporate responsibility
+          + [20]Diversity, equity and inclusion
+          + [21]Environmental sustainability
+          + [22]Who we work with
+
+Who we are
+          + [23]Chair
+          + [24]Chief Executive
+          + [25]Committees
+          + [26]Executive committees
+          + [27]FCA Board
+
+Join us
+          + [28]Careers home
+          + [29]Early careers
+          + [30]Experienced professionals
+       (BUTTON) Close menu
+     * [31]Firms
+
+Firms overview
+       Go to our dedicated section to see support for firms and our latest
+       policy updates.
+
+       [32]Find out more
+
+[33]Firm authorisation
+          + [34]Authorisation
+          + [35]Cancelling an authorisation or registration
+          + [36]Check if a firm is authorised
+          + [37]How to apply for authorisation or registration
+
+Regulated firms
+          + [38]All firms
+          + [39]Claims management companies
+          + [40]Consumer credit firms
+          + [41]Electronic money and payment institutions
+          + [42]Funeral plan providers and intermediaries
+          + [43]Innovation Hub
+          + [44]Mutual societies
+       (BUTTON) Close menu
+
+Tasks for firms
+          + [45]Approved persons
+          + [46]Change in control
+          + [47]Fees and levies
+          + [48]Keeping your firm's details up to date
+          + [49]Principals and appointed representatives
+
+[50]Focus areas
+          + [51]Consumer Duty
+          + [52]Cost of living: firm information
+          + [53]Helping people access cash
+          + [54]Regulatory framework reforms
+          + [55]Senior Managers and Certification Regime
+       Consumer Duty
+       We're hosting events to help firms prepare for the new rules. Sign
+       up to hear about these and related communications.
+       [56]Sign up
+       (BUTTON) Close menu
+     * [57]Markets
+
+Primary markets
+          + [58]Regulatory Disclosures
+
+Markets policy
+          + [59]About LIBOR transition
+          + [60]Data reporting services providers
+          + [61]Securitisation
+          + [62]UK EMIR
+          + [63]UK Securities Financing Transactions Regulation (UK SFTR)
+
+Regulated markets
+          + [64]Benchmarks
+          + [65]Central securities depositories
+
+Market abuse
+          + [66]How to report suspected market abuse as a firm or trading
+            venue
+          + [67]How to report suspected market abuse as an individual
+          + [68]Market Abuse Regulation
+          + [69]Polling and Market Abuse Regulation
+
+Short selling
+          + [70]Exemptions from short-selling requirements
+          + [71]Notification and disclosure of net short positions
+          + [72]Short selling
+
+Transaction reporting
+          + [73]Instrument Reference Data
+          + [74]Reportable instruments
+          + [75]Transaction reporting
+       (BUTTON) Close menu
+     * [76]Consumers
+
+Our Consumer section
+       See our dedicated section to help you stay up-to-date with
+       financial services in the UK.
+
+       [77]Find out more
+
+Your rights
+          + [78]Check if a firm is authorised
+          + [79]Considering a defined benefit pension transfer
+          + [80]High risk investments
+          + [81]Information for victims of financial crime
+          + [82]Using the Financial Services Register
+          + [83]Your rights with financial services
+
+Complaints
+          + [84]Complain about a regulator
+          + [85]How to claim compensation if a firm fails
+          + [86]How to complain
+          + [87]Using claims management companies
+
+Scams
+          + [88]Crypto investment scams
+          + [89]Fake FCA communications
+          + [90]Loan fee fraud
+          + [91]Pension scams
+          + [92]Protect yourself from scams
+
+Report a firm
+          + [93]Misleading financial promotions
+          + [94]Report a payment services or e-money firm
+          + [95]Report a scam
+          + [96]Unfair contracts
+       FCA Warning List
+       Find our most up-to-date warnings of firms and individuals running
+       scams or operating without authorisation.
+       [97]Read more
+       (BUTTON) Close menu
+     * [98]News
+
+Sign up to receive daily alerts on the warnings we issue
+       Receive new and updated warnings in a daily email.
+
+       [99]Sign up
+
+[100]News
+          + [101]Blogs
+          + [102]News stories
+          + [103]Newsletters
+          + [104]Press releases
+          + [105]Speeches
+          + [106]Statements
+          + [107]Warnings
+
+Media centre
+          + [108]Inside FCA podcasts
+          + [109]Media library
+
+[110]Events
+          + [111]See all FCA events
+       (BUTTON) Close menu
+     * [112]Publications
+
+[113]Policy and guidance
+
+[114]Corporate documents
+
+[115]Notices and decisions
+
+[116]Data
+
+[117]Research
+
+[118]Forms
+       (BUTTON) Close menu
+
+    1. [119]Home
+    2. [120]Firms
+    3. Consumer Duty – information for firms
+
+Consumer Duty – information for firms
+
+   First published: 03/10/2022 Last updated: 01/11/2023 [121]See all
+   updates
+
+   To help firms implement the Duty, we explain more on the areas of the
+   Duty that we have been receiving firm queries on which are relevant for
+   the wider market.
+
+   We will keep this updated.
+
+   [122]
+
+   Our approach to supervision and enforcement
+
+   When the Duty comes into force firms need to make sure, and be able to
+   show us, that they are acting to deliver good customer outcomes.
+
+   We will be proportionate to the harm – or risk of harm - to consumers,
+   prioritising the most serious breaches and acting swiftly and
+   assertively. In some cases, firms can expect us to take robust action,
+   such as interventions or investigations, along with possible
+   disciplinary sanctions.
+
+   We understand that some firms will need to continually improve the way
+   they use data and analytics to demonstrate compliance and we will be
+   pragmatic and open in working with them on this.
+   [123]
+
+   Our expectations for outcomes monitoring
+
+   A key part of the Duty is that firms assess, test, understand and
+   evidence the outcomes their customers are receiving. Without this, it
+   will be impossible for firms to know that they are meeting the
+   requirements set out in the Consumer Duty.
+
+   The type of information firms will use will vary depending on factors
+   like:
+     * size
+     * client base
+     * types of products and services that they offer
+
+   Firms will need to use their judgement to identify data sources as
+   evidence against the outcomes of the Duty. Chapter 11 of our
+   [124]Finalised Guidance gives examples of the types of data firms could
+   collect.
+
+    Monitoring outcomes is only required after the implementation
+   deadline. But we recommend that firms start monitoring sooner to check
+   they’re ready in time.
+
+   During the implementation period we will monitor firms’ readiness and
+   feed back insights to the market.
+   [125]
+
+   Consumer Duty Board champions
+
+   We want firms’ Boards and senior management to make good outcomes for
+   consumers central to their firm’s culture, strategy and business
+   objectives.
+
+   In [126]FG22/5, we said that we expect firms to have a champion at
+   Board (or equivalent governing body) level. We said that this champion
+   should be an Independent Non-Executive Director (NED), where possible.
+   For larger organisations with group structures, we expect this champion
+   to be at an appropriate Board level so that the Duty is discussed in a
+   meaningful way.
+
+   The primary role of the Board champion is to support the Chair and CEO
+   in raising the Duty regularly in all relevant discussions, and
+   challenging the firm’s governing body/management on how it is embedding
+   the Duty and focusing on consumer outcomes.
+
+   This is not a ‘prescribed responsibility’ under the Senior Managers &
+   Certification Regime (SM&CR). Firms can set it up in a way that fits
+   with existing roles and responsibilities on their Boards.
+
+   Generally, the Board champion should work with the Chair, but this will
+   depend on the firm and its Board. In some cases, it may work for the
+   Chair to be the Board champion for the Duty. Firms should apply their
+   judgement and set up the role in a way that works for their
+   organisation.
+
+   This does not affect the Board’s collective responsibility under the
+   Duty or their roles in complying with the Duty under existing
+   governance procedures.
+
+   In FG22/5, we have included examples of the types of questions the
+   Board champion, or other members of firms’ governing bodies, could ask
+   to make sure the firm is meeting expectations under the Duty. These
+   questions illustrate the outcome focus of the Duty and are the sorts of
+   questions we will ask firms.
+   [127]
+
+   Definition of closed products
+
+   The Duty comes into effect on:
+     * 31 July 2023 - for new and existing products or services that are
+       open for sale or renewal
+     * 31 July 2024 - for closed products or services
+
+   ‘Closed products’ are no longer marketed or distributed to retail
+   customers nor open to renewal.
+
+   If existing customers can continue to make payments under the existing
+   product terms, this would still be considered ‘closed’ if the product
+   or service is not open to new customers. For example, a pension product
+   that is no longer sold to new customers, but where existing
+   policyholders can continue to pay in contributions, would be considered
+   closed.
+
+   It is up to firms to consider each product and determine whether it is
+   closed.
+   [128]
+
+   Retrospective application
+
+   The Consumer Duty does not apply retrospectively. Both we and the
+   Financial Ombudsman Service work on the basis that conduct should be
+   judged on the rules and standards in place at that time.
+
+   We have been working closely with the Financial Ombudsman to make sure
+   our interpretations are consistent, while recognising the different
+   roles that we both play.
+   [129]
+
+   Proportionality
+
+   The Duty applies in a reasonable way. The focus on good customer
+   outcomes applies to all aspects of firms’ operations and culture. All
+   firms have a Duty to act to deliver good outcomes for their customers.
+   What this means in practice will depend on key factors, including:
+     * The nature of the product or service. More complicated products are
+       likely to need more attention than simpler or less risky products.
+     * The characteristics of a firm’s customers. Where customers are more
+       likely to have characteristics of vulnerability, for example, we
+       would expect it to take additional care.
+     * The firm’s relationship with its customers. Obligations under the
+       Duty reflect the firm’s role and ability to influence retail
+       customer outcomes. We would expect firms to focus on harms that are
+       reasonably foreseeable.
+     * The size of the firm. We do not expect a small firm to apply the
+       same resources or processes as a large firm.
+
+   We set out more on how the Duty applies reasonably in Chapter 4 of
+   [130]FG22/5.
+
+   [131]
+
+   Requirements for firms seeking authorisation
+
+   If your firm is in scope of the Consumer Duty, your application must
+   prove that you can comply with the Consumer Duty. We expect your
+   application to be tailored to your firm and expressly set out how your
+   firm will act to consistently deliver good outcomes to retail
+   customers.
+
+   To help us assess whether you can comply with the Consumer Duty you
+   should provide all the policies, processes, Management Information (MI)
+   and any other materials you have created or rely on to support your
+   firm’s compliance with the Consumer Duty. These should include the
+   following. This is not an exhaustive list and you may be asked to
+   review and amend any documents you submit or create new documents
+   should they deemed to be missing:
+     * target market analysis and identification
+     * a product and service governance framework
+     * a fair value assessment framework
+     * customer understanding assessment & testing framework
+     * customer support monitoring polices and supporting Management
+       Information (MI) suite
+     * customer outcome monitoring framework
+     * root cause identification process
+
+   [132]
+
+   How the Duty applies to firms throughout the distribution chain
+
+   The Duty applies to all firms with a key role in delivering retail
+   customer outcomes, including those with no direct customer
+   relationship. For example, it applies to firms that can determine or
+   influence:
+     * the design or operation of retail products or services, including
+       their price and value
+     * communications with retail customers
+     * customer support for retail customers
+
+   Where this applies, a firm’s responsibilities under the Duty will
+   depend on the firm’s role and level of influence.
+
+   See Chapter 2 of our [133]Finalised Guidance for how the Duty applies
+   across the distribution chain.
+   [134]
+
+   Information-sharing in the distribution chain
+
+   Manufacturers and distributors need to work together and share
+   information, in order to perform their own roles effectively and
+   deliver good outcomes.
+
+   Distributors should have a clear understanding of the target market and
+   the way products operate. We expect distributors to get the information
+   they need from manufacturers, and manufacturers to be monitoring that
+   their products are delivering good consumer outcomes.
+
+   6.68 of [135]FG22/5 includes examples of the type of information we
+   would expect to be shared, where appropriate.
+
+   In general, we do not expect distributors to share information without
+   being asked. We expect the manufacturer to consider what information
+   would be helpful and to take reasonable steps to gather it. For
+   example, through focus groups or sending surveys to distributors.
+
+   Unless there are regulatory or contractual requirements, firms are only
+   responsible for their own activities and do not need to oversee the
+   actions of other firms in the distribution chain.
+
+   If a firm identifies consumer harm elsewhere in the chain it must raise
+   the concerns with other relevant parties. This could include situations
+   where a distributor identifies foreseeable harm or problems with the
+   way a product or service is operating in practice.
+
+   Firms must also notify us where they become aware that another firm in
+   the distribution chain may not be complying with the Duty. This
+   expectation is in line with the existing Principle 11 requirement to
+   inform us of anything relating to the firm which we reasonably expect
+   notice of.
+   [136]
+
+   Application to non-UK firms
+
+   Only firms conducting regulated activities in the UK are within our
+   regulatory remit and subject to the Duty.
+
+   Where the distribution chain involves firms in Gibraltar selling
+   products or services to UK retail customers, the Duty still applies. It
+   applies to those firms whether they have an establishment in the UK or
+   operate on a cross-border basis.
+
+   We recognise that risks remain for UK retail customers if the
+   distribution chain involves other parties outside the UK that are not
+   subject to equivalent requirements. To help manage this risk, UK
+   distributors of non-UK products and services must take all reasonable
+   steps to understand the product or service, the target market it would
+   serve and the value it provides so that it will be distributed
+   appropriately.
+
+   Regulated firms should also consider whether including a firm that is
+   not subject to the Duty in the distribution chain leads to a risk of
+   poor customer outcomes.
+
+   There is more information on application outside of the UK in Chapter 2
+   of our [137]FG22/5.
+   [138]
+
+   Application to non-UK customers
+
+   For firms dealing with non-UK customers, the Duty applies in line with
+   the existing regulatory perimeter. Where current rules apply to a UK
+   firm dealing with non-UK customers, the Duty will also apply.
+
+   Where the chain includes firms outside the UK, which are not subject to
+   the Duty, we recognise that UK firms may not be able to meet elements
+   of the Duty to the same degree. A UK product manufacturer may find it
+   difficult to obtain information from non-UK distributors about their
+   distribution of the product.
+
+   In this case, UK firms should consider what is reasonable in the
+   circumstances. For example, they could use any information that they do
+   have available to support their work. We would not expect UK firms to
+   obtain information from firms that are not subject to the Duty.
+   [139]
+
+   Clarifying the scope
+
+   We have made some changes in the [140]March 2023 Handbook Notice to
+   make certain points clearer in the rules:
+     * The application to firms approving or communicating financial
+       promotions
+     * The application to firms in the temporary marketing permissions
+       regime (TMPR)
+     * The ‘closed product’ and ‘existing product’ definitions
+     * The application to credit unions
+
+   This follows on from our [141]consultation in December 2022 and the
+   changes are consistent with our position in Consultation Paper
+   [142]CP21/36.
+
+   We are still considering responses to the December consultation in
+   relation to the amendments we had proposed on:
+     * Defined benefit occupational pension schemes
+     * Non-retail financial instruments
+     * Exemptions in sectoral Sourcebooks
+
+   If we take any of these proposals forward, we will grant an appropriate
+   implementation period for any changes we make to the rules.
+   [143]
+
+   Data protection law and customer communications
+
+   Under the Consumer Understanding outcome, we expect consumers to be
+   given the information they need, at the right time, and presented in a
+   way they can understand.
+
+   Data protection laws (the UK GDPR and Data Protection Act 2018) and the
+   Privacy and Electronic Communications Regulations 2003 (PECR) don't
+   stop firms from telling customers about better deals or providing
+   information that they need to know as part of their relationship with
+   that firm.
+
+   Administrative or customer service messages aren't considered to be
+   direct marketing, so there are no restrictions on communicating this
+   type of information. Firms can also provide regulatory communications
+   to all customers that provide neutral, factual information. For
+   example, information about the product they hold, terms of other
+   available products, and what their options are for moving to another
+   product.
+
+   The Information Commissioner's Office (ICO) [144]guidance on direct
+   marketing and regulatory communications explains how to draft
+   regulatory communications, and includes illustrative examples.
+
+Page updates
+
+   01/11/2023 : Information changed portfolio/sector comms section moved
+   to resources page
+   31/07/2023 : Information added on data protection law and customer
+   communications
+   03/04/2023 : Information changed Clarifying the scope updated.
+   03/02/2023 : Publication added portfolio letters published
+   23/01/2023 : Information added Requirements for firms seeking
+   authorisation updated
+
+Was this page helpful?
+
+   radios
+
+   (*) Yes
+   ( ) No
+
+   What can we do to improve pages like this?
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   What did you find helpful?
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (Submit Feedback) Submit Feedback
+   Leave this field blank ____________________
+   [145]Print Page
+   [146]Linkedin
+   [147]Twitter
+   Share page
+
+In this section
+
+   [148]Consumer Duty resources
+   [149]How we are using the Consumer Duty
+
+[150]More on Consumer Duty
+
+   [151]Consumer Duty
+   [152]PS22/9: A new Consumer Duty
+   [153]Inside FCA Podcast: What is the price and value outcome?
+   [154]Key milestones (PDF)
+
+[155]Latest news
+
+   [156]The FCA’s Consumer Duty will lead to a major shift in financial
+   services
+   [157]FCA to introduce new Consumer Duty to drive a fundamental shift in
+   industry mindset
+   [158]One month to go for the Consumer Duty
+
+     * [159]Accessibility
+     * [160]Complain about us
+     * [161]Copyright notice
+     * [162]Corporate responsibility
+     * [163]Cymraeg
+     * [164]Freedom of information
+     * [165]Modern Slavery and Human Trafficking Statement
+     * [166]Privacy
+     * [167]Sitemap
+     * [168]Translated languages
+
+Social
+
+     * [169]LinkedIn
+     * [170]RSS Feed
+     * [171]Twitter
+
+[172]Registers and Systems
+
+     * [173]Connect
+     * [174]FCA Handbook
+     * [175]Financial Services Register
+     * [176]RegData
+
+[177]Careers
+
+     * [178]Careers home
+     * [179]Early careers
+     * [180]Experienced professionals
+
+[181]Contact
+
+   FCA Head Office
+
+   12 Endeavour Square
+
+   London E20 1JN
+
+   [182]Contact us
+   [183]Plain Language Commission Gold Award Clear English Gold Standard
+   Award Logo
+
+   Copyright © 2023 FCA. All rights reserved.
+   [184]
+
+   Back to top
+
+   Company no. 01920623
+
+References
+
+   Visible links:
+   1. https://www.fca.org.uk/firms/consumer-duty-information-firms
+   2. https://www.fca.org.uk/firms/consumer-duty-information-firms#main-content
+   3. https://www.fca.org.uk/firms/consumer-duty-information-firms#edit-search-term
+   4. https://www.googletagmanager.com/ns.html?id=GTM-PCC62S
+   5. https://www.fca.org.uk/
+   6. https://www.fca.org.uk/about
+   7. https://www.fca.org.uk/contact
+   8. https://www.fca.org.uk/about/what-we-do/the-fca
+   9. https://www.fca.org.uk/about/what-we-do/enhancing-market-integrity
+  10. https://www.fca.org.uk/about/how-we-work-menu
+  11. https://www.fca.org.uk/about/what-we-do/promoting-competition
+  12. https://www.fca.org.uk/about/what-we-do/protecting-consumers
+  13. https://www.fca.org.uk/authorisation-menu
+  14. https://www.fca.org.uk/about/how-we-regulate/enforcement
+  15. https://www.fca.org.uk/about/how-we-regulate/handbook
+  16. https://www.fca.org.uk/about/how-we-regulate/international-standards-regulations
+  17. https://www.fca.org.uk/about/how-we-regulate/supervision
+  18. https://www.fca.org.uk/about/how-we-operate/complain-about-regulators
+  19. https://www.fca.org.uk/about/how-we-operate/corporate-responsibility
+  20. https://www.fca.org.uk/about/how-we-operate/diversity-equity-inclusion
+  21. https://www.fca.org.uk/about/how-we-operate/environmental-sustainability
+  22. https://www.fca.org.uk/about/how-we-operate/who-work-with
+  23. https://www.fca.org.uk/about/who-we-are/chair
+  24. https://www.fca.org.uk/about/who-we-are/chief-executive
+  25. https://www.fca.org.uk/about/who-we-are/committees
+  26. https://www.fca.org.uk/about/who-we-are/executive-committees
+  27. https://www.fca.org.uk/about/who-we-are/fca-board
+  28. https://www.fca.org.uk/careers-home
+  29. https://www.fca.org.uk/careers/early-careers
+  30. https://www.fca.org.uk/careers/experienced-professionals
+  31. https://www.fca.org.uk/firms
+  32. https://www.fca.org.uk/firms
+  33. https://www.fca.org.uk/firms/authorisation
+  34. https://www.fca.org.uk/firms/authorisation
+  35. https://www.fca.org.uk/firms/authorisation/cancel
+  36. https://www.fca.org.uk/firms/check-if-firm-authorised
+  37. https://www.fca.org.uk/firms/authorisation/apply
+  38. https://www.fca.org.uk/firms
+  39. https://www.fca.org.uk/firms/claims-management-companies
+  40. https://www.fca.org.uk/firms/consumer-credit
+  41. https://www.fca.org.uk/firms/electronic-money-payment-institutions
+  42. https://www.fca.org.uk/firms/funeral-plan-providers-intermediaries
+  43. https://www.fca.org.uk/firms/innovation
+  44. https://www.fca.org.uk/firms/mutual-societies
+  45. https://www.fca.org.uk/firms/approved-persons
+  46. https://www.fca.org.uk/firms/change-control
+  47. https://www.fca.org.uk/firms/fees
+  48. https://www.fca.org.uk/firms/firm-details
+  49. https://www.fca.org.uk/firms/appointed-representatives-principals
+  50. https://www.fca.org.uk/firms/consumer-duty
+  51. https://www.fca.org.uk/firms/consumer-duty
+  52. https://www.fca.org.uk/firms/cost-living-firm-information
+  53. https://www.fca.org.uk/firms/access-to-cash
+  54. https://www.fca.org.uk/firms/regulatory-framework-reforms
+  55. https://www.fca.org.uk/firms/senior-managers-certification-regime
+  56. https://www.fca.org.uk/sign-consumer-duty-email-updates
+  57. https://www.fca.org.uk/markets
+  58. https://www.fca.org.uk/markets/ukla/regulatory-disclosures
+  59. https://www.fca.org.uk/markets/libor-transition
+  60. https://www.fca.org.uk/markets/data-reporting-services-providers-drsps
+  61. https://www.fca.org.uk/markets/securitisation
+  62. https://www.fca.org.uk/markets/uk-emir
+  63. https://www.fca.org.uk/markets/sftr
+  64. https://www.fca.org.uk/markets/benchmarks
+  65. https://www.fca.org.uk/markets/central-securities-depositories
+  66. https://www.fca.org.uk/markets/market-abuse/how-report-suspected-market-abuse-firm-or-trading-venue
+  67. https://www.fca.org.uk/markets/market-abuse/how-report-suspected-market-abuse-individual
+  68. https://www.fca.org.uk/markets/market-abuse/regulation
+  69. https://www.fca.org.uk/markets/market-abuse/polling-and-market-abuse-regulation
+  70. https://www.fca.org.uk/markets/short-selling/exemptions-requirements
+  71. https://www.fca.org.uk/markets/short-selling/notification-disclosure-net-short-positions
+  72. https://www.fca.org.uk/markets/short-selling
+  73. https://www.fca.org.uk/markets/transaction-reporting/instrument-reference-data
+  74. https://www.fca.org.uk/markets/transaction-reporting/reportable-instruments
+  75. https://www.fca.org.uk/markets/transaction-reporting
+  76. https://www.fca.org.uk/consumers
+  77. https://www.fca.org.uk/consumers
+  78. https://www.fca.org.uk/consumers/check-if-firm-fca-authorised
+  79. https://www.fca.org.uk/consumers/pension-transfer-defined-benefit
+  80. https://www.fca.org.uk/consumers/high-risk-investments
+  81. https://www.fca.org.uk/consumers/information-victims-financial-crime
+  82. https://www.fca.org.uk/consumers/using-financial-services-register
+  83. https://www.fca.org.uk/consumers/your-rights-financial-services
+  84. https://www.fca.org.uk/consumers/complain-about-regulator
+  85. https://www.fca.org.uk/consumers/claim-compensation-firm-fails
+  86. https://www.fca.org.uk/consumers/how-complain
+  87. https://www.fca.org.uk/consumers/using-claims-management-companies
+  88. https://www.fca.org.uk/consumers/crypto-investment-scams
+  89. https://www.fca.org.uk/consumers/fake-fca-communications
+  90. https://www.fca.org.uk/consumers/loan-fee-fraud
+  91. https://www.fca.org.uk/consumers/pension-scams
+  92. https://www.fca.org.uk/consumers/protect-yourself-scams
+  93. https://www.fca.org.uk/consumers/misleading-financial-promotions
+  94. https://www.fca.org.uk/consumers/how-complain/report-payment-services-e-money-firm
+  95. https://www.fca.org.uk/consumers/report-scam
+  96. https://www.fca.org.uk/consumers/unfair-contracts
+  97. https://www.fca.org.uk/consumers/warning-list-unauthorised-firms
+  98. https://www.fca.org.uk/news
+  99. https://www.fca.org.uk/sign-fca-warnings-list-daily-alerts
+ 100. https://www.fca.org.uk/news
+ 101. https://www.fca.org.uk/news/blogs/blogs
+ 102. https://www.fca.org.uk/news/news-stories/news-stories
+ 103. https://www.fca.org.uk/news/newsletters/newsletters
+ 104. https://www.fca.org.uk/news/press-releases/press-releases
+ 105. https://www.fca.org.uk/news/speeches/speeches
+ 106. https://www.fca.org.uk/news/statements/statements
+ 107. https://www.fca.org.uk/news/warnings/warnings
+ 108. https://www.fca.org.uk/news/news-stories/inside-fca-podcasts
+ 109. https://www.fca.org.uk/news/news-stories/media-library
+ 110. https://www.fca.org.uk/events
+ 111. https://www.fca.org.uk/news/news-stories/see-all-fca-events
+ 112. https://www.fca.org.uk/publications
+ 113. https://www.fca.org.uk/publications/search-results?p_search_term= &category=policy and guidance,policy and guidance-policy statements,policy and guidance-finalised guidance,policy and guidance-consultation papers,policy and guidance-guidance consultations,policy and guidance-feedback statements,policy and guidance-discussion papers,policy and guidance-calls for input,policy and guidance-newsletters,policy and guidance-handbook&sort_by=dmetaZ
+ 114. https://www.fca.org.uk/publications/search-results?category=corporate documents,corporate documents-annual reports,corporate documents-business plans,corporate documents-corporate documents,corporate documents-impact assessments,corporate documents-memorandums of understanding,corporate documents-correspondence,corporate documents-foi releases,corporate documents-meeting minutes&start=1
+ 115. https://www.fca.org.uk/publications/search-results?p_search_term=&category=notices and decisions-decision notices,notices and decisions-libor notices,notices and decisions-final notices,notices and decisions-warning notices,notices and decisions-supervisory notices,notices and decisions-cancellation notices,notices and decisions-requirement notices,notices and decisions-temporary product interventions,notices and decisions-undertakings,notices and decisions-waivers and crr notices
+ 116. https://www.fca.org.uk/data
+ 117. https://www.fca.org.uk/research
+ 118. https://www.fca.org.uk/publications/search-results?start=1&category=forms
+ 119. https://www.fca.org.uk/
+ 120. https://www.fca.org.uk/firms
+ 121. https://www.fca.org.uk/firms/consumer-duty-information-firms#revisions
+ 122. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1199341
+ 123. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1075856
+ 124. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 125. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1075861
+ 126. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 127. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1075866
+ 128. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1075871
+ 129. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1075876
+ 130. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 131. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082686
+ 132. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082696
+ 133. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 134. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082701
+ 135. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 136. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082706
+ 137. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
+ 138. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082711
+ 139. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1082716
+ 140. https://www.fca.org.uk/publication/handbook/handbook-notice-108.pdf
+ 141. https://www.fca.org.uk/publication/consultation/cp22-26.pdf
+ 142. https://www.fca.org.uk/publication/consultation/cp21-36.pdf
+ 143. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1231301
+ 144. https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/direct-marketing-and-regulatory-communications/
+ 145. https://www.fca.org.uk/firms/consumer-duty-information-firms/printable/print
+ 146. https://www.linkedin.com/shareArticle?mini=true&url=https://www.fca.org.uk/firms/consumer-duty-information-firms&title=Consumer Duty – information for firms&summary=&source=FCA
+ 147. https://twitter.com/share?url=https://www.fca.org.uk/firms/consumer-duty-information-firms&text=Consumer Duty – information for firms&summary=&source=FCA
+ 148. https://www.fca.org.uk/firms/consumer-duty/resources
+ 149. https://www.fca.org.uk/firms/consumer-duty/how-using-duty
+ 150. https://www.fca.org.uk/firms/consumer-duty-information-firms#relatedContentCollapse
+ 151. https://www.fca.org.uk/firms/consumer-duty
+ 152. https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty
+ 153. https://www.fca.org.uk/multimedia/inside-fca-podcast-price-and-value-outcome
+ 154. https://www.fca.org.uk/publication/documents/consumer-duty-detailed-timeline.pdf
+ 155. https://www.fca.org.uk/firms/consumer-duty-information-firms#usefulResourcesCollapse
+ 156. https://www.fca.org.uk/news/press-releases/fca-consumer-duty-major-shift-financial-services
+ 157. https://www.fca.org.uk/news/press-releases/fca-introduce-new-consumer-duty-drive-fundamental-shift-industry-mindset
+ 158. https://www.fca.org.uk/news/news-stories/one-month-go-consumer-duty
+ 159. https://www.fca.org.uk/accessibility
+ 160. https://www.fca.org.uk/about/how-we-operate/complain-about-regulators
+ 161. https://www.fca.org.uk/legal
+ 162. https://www.fca.org.uk/about/how-we-operate/corporate-responsibility
+ 163. https://www.fca.org.uk/about/cymraeg
+ 164. https://www.fca.org.uk/freedom-information
+ 165. https://www.fca.org.uk/about/how-we-operate/corporate-responsibility#section-modern-slavery-and-human-trafficking-statement
+ 166. https://www.fca.org.uk/privacy
+ 167. https://www.fca.org.uk/sitemap
+ 168. https://www.fca.org.uk/translated-pages
+ 169. https://www.linkedin.com/company/financial-conduct-authority
+ 170. https://www.fca.org.uk/news/rss.xml
+ 171. https://twitter.com/thefca
+ 172. https://www.fca.org.uk/firms/consumer-duty-information-firms#footerSystems
+ 173. https://www.fca.org.uk/firms/connect
+ 174. https://www.fca.org.uk/about/how-we-regulate/handbook
+ 175. https://www.fca.org.uk/firms/financial-services-register
+ 176. https://www.fca.org.uk/firms/regdata
+ 177. https://www.fca.org.uk/firms/consumer-duty-information-firms#footerCareers
+ 178. https://www.fca.org.uk/careers
+ 179. https://www.fca.org.uk/careers/early-careers
+ 180. https://www.fca.org.uk/careers/experienced-professionals
+ 181. https://www.fca.org.uk/firms/consumer-duty-information-firms#footerContact
+ 182. https://www.fca.org.uk/contact
+ 183. https://www.clearest.co.uk/gold-standard
+ 184. https://www.fca.org.uk/firms/consumer-duty-information-firms
+
+   Hidden links:
+ 186. https://www.fca.org.uk/cdn-cgi/l/email-protection#fec1ad8b9c949b9d8ac3bd91908d8b939b8cdbccceba8b8a87dbcccedbbbccdbc6cedbc7cddbccce979098918c939f8a979190dbccce98918cdbccce98978c938ddbccce9f8adbccceb8bdbfd89f938ec5bc919a87c3b7dbccce8d9f89dbccce8a96978ddbccce9190dbccce8a969bdbccceb8bdbfdbccce899b9c8d978a9bdbccce9f909adbccce8a96918b99968adbccce87918bdbccce939799968adbccce9c9bdbccce97908a9b8c9b8d8a9b9adbccce968a8a8e8ddbcdbfd1d1898989d0989d9fd0918c99d08b95d198978c938dd19d91908d8b939b8cd39a8b8a87d3979098918c939f8a979190d398978c938d

@@ -1,0 +1,15 @@
+    3. [39]Importing
+
+Trade Tariff: look up commodity codes, duty and VAT rates
+
+   Use this service to find a commodity code for goods you’re importing to
+--
+
+   You can also use the service to:
+     * check if there’s duty or VAT to pay
+     * find out about suspensions or reductions
+
+   You’ll need a commodity code when you fill in a customs declaration
+   form, so you pay the correct amount of tax and duties.
+
+   [40]Start now
