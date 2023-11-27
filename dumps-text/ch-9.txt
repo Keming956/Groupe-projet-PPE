@@ -1,0 +1,276 @@
+   #[1]alternate
+
+   [2]跳至主要内容/导航
+
+   [3]欢迎来到联合国，您的世界！
+
+Language
+
+     * [4]العربية
+     * [5]中文
+     * [6]English
+     * [7]Français
+     * [8]Русский
+     * [9]Español
+     * [10]Português
+     * [11]Kiswahili
+     * (BUTTON) 其它
+          + [12]Hindi हिंदी
+          + [13]Urdu اردو
+          + [14]Global
+
+   [15]United Nations
+   [16]联合国新闻
+   全球视野, 常人故事
+   (BUTTON) zh (BUTTON) 搜索 (BUTTON)
+
+   ____________________________________________________________
+   (搜索) 搜索
+   [17]高级搜�
+
+语言
+
+     * [18]العربية
+     * [19]中文
+     * [20]English
+     * [21]Français
+     * [22]Русский
+     * [23]Español
+     * [24]Português
+     * [25]Kiswahili
+     * (BUTTON) 其它
+          + [26]Hindi हिंदी
+          + [27]Urdu اردو
+          + [28]Global
+
+   (BUTTON)
+   [29]联合国新闻
+   全球视野, 常人故事
+
+[30]菜单
+
+     * [31]主页
+          + [32]亚洲及太平洋
+          + [33]非洲
+          + [34]美洲
+          + [35]中东
+          + [36]欧洲
+     * [37]全球议题
+          + [38]和平与安全
+          + [39]经济发展
+          + [40]人道主义援助
+          + [41]气候变化与环境
+          + [42]人权
+          + [43]联合国事务
+          + [44]妇女
+          + [45]法律与预防犯罪
+          + [46]健康及卫生
+          + [47]文化与教育
+          + [48]可持续发展目标
+          + [49]移民与难民
+     * [50]深度报道
+          + [51]人物专访
+          + [52]图片故事
+          + [53]专题报道
+     * [54]秘书长
+          + [55]秘书长发言人
+          + [56]所有发言
+          + [57]精选发言稿
+          + [58]媒体座谈会
+          + [59]公务旅行
+     * [60]新闻媒体
+          + [61]联合国图片
+          + [62]网络电视
+          + [63]会议报道
+          + [64]媒体办证和联络
+          + [65]音像图书馆
+
+[66]语言
+
+     * [67]العربية
+     * [68]中文
+     * [69]English
+     * [70]Français
+     * [71]Русский
+     * [72]Español
+     * [73]Português
+     * [74]Kiswahili
+     * (BUTTON) 其它
+          + [75]Hindi हिंदी
+          + [76]Urdu اردو
+          + [77]Global
+
+[78]搜索
+
+   ____________________________________________________________
+   (搜索) 搜索
+   [79]高级搜�
+
+   404
+
+媒体资讯 (BUTTON)
+
+     * [80]广播业者须知
+     * [81]联合国系统新闻链接
+     * [82]媒体通知
+     * [83]联合国期刊
+     * [84]会议记录
+     * [85]视听图书馆
+
+联合国秘书长 (BUTTON)
+
+     * [86]公务旅行
+     * [87]媒体招待会
+     * [88]所有发言
+     * [89]联合国秘书长推特
+
+发言人办公室 (BUTTON)
+
+     * [90]最新声明
+     * [91]简报要闻
+     * [92]简报记录
+     * [93]给记者的说明
+
+联系我们 (BUTTON)
+
+     * [94]联合国新闻应用程序
+     * [95]微博
+     * [96]RSS
+     * [97]新闻导航
+     * [98]联系信息
+
+Footer menu
+
+     * [99]网址索引
+     * [100]版权
+     * [101]常见问题解答
+     * [102]欺诈警告
+     * [103]隐私通知
+     * [104]使用条款
+     __________________________________________________________________
+
+Social Media Links
+
+     *
+     *
+     *
+     *
+
+Footer buttons
+
+     * [105]捐款
+
+References
+
+   Visible links:
+   1. android-app://https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
+   2. https://news.un.org/zh/story/2023/03/1116242#main-content
+   3. https://www.un.org/
+   4. https://news.un.org/ar/
+   5. https://news.un.org/zh/
+   6. https://news.un.org/en/
+   7. https://news.un.org/fr/
+   8. https://news.un.org/ru/
+   9. https://news.un.org/es/
+  10. https://news.un.org/pt/
+  11. https://news.un.org/sw/
+  12. https://news.un.org/hi/
+  13. https://news.un.org/ur/
+  14. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  15. https://www.un.org/zh
+  16. https://news.un.org/zh/
+  17. https://news.un.org/zh/advanced-search
+  18. https://news.un.org/ar/
+  19. https://news.un.org/zh/
+  20. https://news.un.org/en/
+  21. https://news.un.org/fr/
+  22. https://news.un.org/ru/
+  23. https://news.un.org/es/
+  24. https://news.un.org/pt/
+  25. https://news.un.org/sw/
+  26. https://news.un.org/hi/
+  27. https://news.un.org/ur/
+  28. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  29. https://news.un.org/zh/
+  30. https://news.un.org/zh/story/2023/03/1116242#CollapsingNavbar
+  31. https://news.un.org/zh/
+  32. https://news.un.org/zh/news/region/asia-pacific
+  33. https://news.un.org/zh/news/region/africa
+  34. https://news.un.org/zh/news/region/americas
+  35. https://news.un.org/zh/news/region/middle-east
+  36. https://news.un.org/zh/news/region/europe
+  37. https://news.un.org/zh/story/2023/03/1116242
+  38. https://news.un.org/zh/news/topic/peace-and-security
+  39. https://news.un.org/zh/news/topic/economic-development
+  40. https://news.un.org/zh/news/topic/humanitarian-aid
+  41. https://news.un.org/zh/news/topic/climate-change
+  42. https://news.un.org/zh/news/topic/human-rights
+  43. https://news.un.org/zh/news/topic/un-affairs
+  44. https://news.un.org/zh/news/topic/women
+  45. https://news.un.org/zh/news/topic/law-and-crime-prevention
+  46. https://news.un.org/zh/news/topic/health
+  47. https://news.un.org/zh/news/topic/culture-and-education
+  48. https://news.un.org/zh/news/topic/sdgs
+  49. https://news.un.org/zh/news/topic/migrants-and-refugees
+  50. https://news.un.org/zh/story/2023/03/1116242
+  51. https://news.un.org/zh/interviews
+  52. https://news.un.org/zh/gallery
+  53. https://news.un.org/zh/features
+  54. https://www.un.org/sg/zh
+  55. https://www.un.org/sg/en/spokesperson
+  56. https://www.un.org/sg/en/latest/sg/statement
+  57. https://www.un.org/sg/en/archive/sg/speeches
+  58. https://www.un.org/sg/en/content/sg/press-encounters
+  59. https://www.un.org/sg/en/content/travels
+  60. https://news.un.org/zh/story/2023/03/1116242
+  61. https://dam.media.un.org/
+  62. https://webtv.un.org/zh
+  63. https://press.un.org/en
+  64. https://www.un.org/zh/media/accreditation/
+  65. http://www.unmultimedia.org/avlibrary/
+  66. https://news.un.org/zh/story/2023/03/1116242#block-un-base-theme-language-primary-content
+  67. https://news.un.org/ar/
+  68. https://news.un.org/zh/
+  69. https://news.un.org/en/
+  70. https://news.un.org/fr/
+  71. https://news.un.org/ru/
+  72. https://news.un.org/es/
+  73. https://news.un.org/pt/
+  74. https://news.un.org/sw/
+  75. https://news.un.org/hi/
+  76. https://news.un.org/ur/
+  77. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  78. https://news.un.org/zh/story/2023/03/1116242#block-un-news-search-block-primary-content
+  79. https://news.un.org/zh/advanced-search
+  80. https://news.un.org/zh/content/information-broadcasters
+  81. https://news.un.org/zh/content/un-system-links
+  82. https://www.un.org/en/media/accreditation/alert.shtml
+  83. https://journal.un.org/zh/
+  84. https://www.un.org/press/en/content/meetings-coverage/
+  85. https://www.unmultimedia.org/avlibrary/
+  86. https://www.un.org/sg/en/content/travels
+  87. https://www.un.org/sg/en/content/sg/press-encounters
+  88. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
+  89. https://twitter.com/antonioguterres?lang=en
+  90. https://www.un.org/sg/en/spokesperson
+  91. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
+  92. https://www.un.org/press/en/content/noon-briefings
+  93. https://www.un.org/sg/en/content/sg/notes-correspondents
+  94. https://news.un.org/zh/content/un-news-app
+  95. https://weibo.com/275800001
+  96. https://news.un.org/zh/rss-feeds
+  97. https://news.un.org/zh/content/navigate-news
+  98. https://news.un.org/zh/contact
+  99. https://www.un.org/zh/site-index
+ 100. https://www.un.org/zh/about-us/copyright
+ 101. https://www.un.org/zh/about-us/frequently-asked-questions
+ 102. https://www.un.org/zh/about-us/fraud-alert
+ 103. https://www.un.org/zh/about-us/privacy-notice
+ 104. https://www.un.org/zh/about-us/terms-of-use
+ 105. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
+
+   Hidden links:
+ 107. https://www.weibo.com/275800001?refer_flag=1001030101_&is_hot=1
+ 108. https://soundcloud.com/unradiochinese
+ 109. https://podcasts.apple.com/us/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB/id306300959?mt=2&app=podcast
+ 110. https://www.un.org/zh/get-involved/social-media

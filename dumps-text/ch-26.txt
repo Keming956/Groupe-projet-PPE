@@ -1,0 +1,286 @@
+   [1]Click here to return to Amazon Web Services homepage
+   [2]Contact Us [3]Support  [4]English  [5]My Account
+   [6]Sign In
+   [7]Create an AWS Account
+     * [8]re:Invent
+     * [9]Products
+     * [10]Solutions
+     * [11]Pricing
+     * [12]Documentation
+     * [13]Learn
+     * [14]Partner Network
+     * [15]AWS Marketplace
+     * [16]Customer Enablement
+     * [17]Events
+     * [18]Explore More
+
+   ____________________
+   Close
+     * [19]عربي
+     * [20]Bahasa Indonesia
+     * [21]Deutsch
+     * [22]English
+     * [23]Español
+     * [24]Français
+     * [25]Italiano
+     * [26]Português
+
+     * [27]Tiếng Việt
+     * [28]Türkçe
+     * [29]Ρусский
+     * [30]ไทย
+     * [31]日本語
+     * [32]한국어
+     * [33]中文 (简体)
+     * [34]中文 (繁體)
+
+   Close
+     * [35]My Profile
+     * [36]Sign out of AWS Builder ID
+     * [37]AWS Management Console
+     * [38]Account Settings
+     * [39]Billing & Cost Management
+     * [40]Security Credentials
+     * [41]AWS Personal Health Dashboard
+
+   Close
+     * [42]Support Center
+     * [43]Expert Help
+     * [44]Knowledge Center
+     * [45]AWS Support Overview
+     * [46]AWS re:Post
+
+   [47]Click here to return to Amazon Web Services homepage
+   [48]Get Started for Free
+   [49]Contact Us
+   ____________________
+     * [50]re:Invent
+     * [51]Products
+     * [52]Solutions
+     * [53]Pricing
+     * [54]Introduction to AWS
+     * [55]Getting Started
+     * [56]Documentation
+     * [57]Training and Certification
+     * [58]Developer Center
+     * [59]Customer Success
+     * [60]Partner Network
+     * [61]AWS Marketplace
+     * [62]Support
+     * [63]AWS re:Post
+     * [64]Log into Console
+     * [65]Download the Mobile App
+
+404
+
+Sorry, the page you tried cannot be found.
+
+   [66]Sign In to the Console
+
+Learn About AWS
+
+     * [67]What Is AWS?
+     * [68]What Is Cloud Computing?
+     * [69]AWS Inclusion, Diversity & Equity
+     * [70]What Is DevOps?
+     * [71]What Is a Container?
+     * [72]What Is a Data Lake?
+     * [73]What is Generative AI?
+     * [74]AWS Cloud Security
+     * [75]What's New
+     * [76]Blogs
+     * [77]Press Releases
+
+Resources for AWS
+
+     * [78]Getting Started
+     * [79]Training and Certification
+     * [80]AWS Solutions Library
+     * [81]Architecture Center
+     * [82]Product and Technical FAQs
+     * [83]Analyst Reports
+     * [84]AWS Partners
+
+Developers on AWS
+
+     * [85]Developer Center
+     * [86]SDKs & Tools
+     * [87].NET on AWS
+     * [88]Python on AWS
+     * [89]Java on AWS
+     * [90]PHP on AWS
+     * [91]JavaScript on AWS
+
+Help
+
+     * [92]Contact Us
+     * [93]Get Expert Help
+     * [94]File a Support Ticket
+     * [95]AWS re:Post
+     * [96]Knowledge Center
+     * [97]AWS Support Overview
+     * [98]Legal
+     * [99]AWS Careers
+
+   [100]Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+     * Language
+     * [101]عربي
+     * [102]Bahasa Indonesia
+     * [103]Deutsch
+     * [104]English
+     * [105]Español
+     * [106]Français
+     * [107]Italiano
+     * [108]Português
+     * [109]Tiếng Việt
+     * [110]Türkçe
+     * [111]Ρусский
+     * [112]ไทย
+     * [113]日本語
+     * [114]한국어
+     * [115]中文 (简体)
+     * [116]中文 (繁體)
+
+     * [117]Privacy
+     * |
+     * [118]Site Terms
+     * |
+     * [119]Cookie Preferences
+     * |
+     * © 2023, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+
+References
+
+   Visible links:
+   1. https://aws.amazon.com/?nc2=h_lg
+   2. https://aws.amazon.com/contact-us/?nc2=h_header
+   3. https://aws.amazon.com/cn/compliance/shared-responsibility-model/%0D/
+   4. https://aws.amazon.com/cn/compliance/shared-responsibility-model/%0D/
+   5. https://aws.amazon.com/cn/compliance/shared-responsibility-model/%0D/
+   6. https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin
+   7. https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup
+   8. https://reinvent.awsevents.com/?nc2=h_ql_reinv
+   9. https://aws.amazon.com/products/?nc2=h_ql_prod
+  10. https://aws.amazon.com/solutions/?nc2=h_ql_sol
+  11. https://aws.amazon.com/pricing/?nc2=h_ql_pr
+  12. https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do
+  13. https://aws.amazon.com/getting-started/?nc2=h_ql_le
+  14. https://aws.amazon.com/partners/?nc2=h_ql_pn
+  15. https://aws.amazon.com/marketplace/?nc2=h_ql_mp
+  16. https://aws.amazon.com/customer-enablement/?nc2=h_ql_ce
+  17. https://aws.amazon.com/events/?nc2=h_ql_ev
+  18. https://aws.amazon.com/contact-us/?nc2=h_ql_exm
+  19. https://aws.amazon.com/ar/?nc1=h_ls
+  20. https://aws.amazon.com/id/?nc1=h_ls
+  21. https://aws.amazon.com/de/?nc1=h_ls
+  22. https://aws.amazon.com/?nc1=h_ls
+  23. https://aws.amazon.com/es/?nc1=h_ls
+  24. https://aws.amazon.com/fr/?nc1=h_ls
+  25. https://aws.amazon.com/it/?nc1=h_ls
+  26. https://aws.amazon.com/pt/?nc1=h_ls
+  27. https://aws.amazon.com/vi/?nc1=f_ls
+  28. https://aws.amazon.com/tr/?nc1=h_ls
+  29. https://aws.amazon.com/ru/?nc1=h_ls
+  30. https://aws.amazon.com/th/?nc1=f_ls
+  31. https://aws.amazon.com/jp/?nc1=h_ls
+  32. https://aws.amazon.com/ko/?nc1=h_ls
+  33. https://aws.amazon.com/cn/?nc1=h_ls
+  34. https://aws.amazon.com/tw/?nc1=h_ls
+  35. https://aws.amazon.com/profile/?nc2=h_m_mc
+  36. https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc
+  37. https://console.aws.amazon.com/?nc2=h_m_mc
+  38. https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma
+  39. https://console.aws.amazon.com/billing/home?nc2=h_m_bc
+  40. https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential
+  41. https://phd.aws.amazon.com/?nc2=h_m_sc
+  42. https://console.aws.amazon.com/support/home/?nc2=h_ql_cu
+  43. https://iq.aws.amazon.com/?utm=mkt.nav
+  44. https://repost.aws/knowledge-center/?nc2=h_m_ma
+  45. https://aws.amazon.com/premiumsupport/?nc2=h_m_bc
+  46. https://repost.aws/
+  47. https://aws.amazon.com/?nc2=h_lg
+  48. https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile
+  49. https://aws.amazon.com/contact-us/?nc2=h_mobile
+  50. https://reinvent.awsevents.com/?nc2=h_ql_reinv23_mo
+  51. https://aws.amazon.com/products/?nc2=h_mo
+  52. https://aws.amazon.com/solutions/?nc2=h_mo
+  53. https://aws.amazon.com/pricing/?nc2=h_mo
+  54. https://aws.amazon.com/what-is-aws/?nc2=h_mo
+  55. https://aws.amazon.com/getting-started/?nc2=h_mo
+  56. https://aws.amazon.com/documentation-overview/?nc2=h_mo
+  57. https://aws.amazon.com/training/?nc2=h_mo
+  58. https://aws.amazon.com/developer/?nc2=h_mo
+  59. https://aws.amazon.com/solutions/case-studies/?nc2=h_mo
+  60. https://aws.amazon.com/partners/?nc2=h_mo
+  61. https://aws.amazon.com/marketplace/?nc2=h_mo
+  62. https://console.aws.amazon.com/support/home?nc2=h_ql_cu
+  63. https://repost.aws/
+  64. https://console.aws.amazon.com/console/home
+  65. https://aws.amazon.com/console/mobile/
+  66. https://console.aws.amazon.com/console/home?nc1=f_ct&src=footer-signin-mobile
+  67. https://aws.amazon.com/what-is-aws/?nc1=f_cc
+  68. https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc
+  69. https://aws.amazon.com/diversity-inclusion/?nc1=f_cc
+  70. https://aws.amazon.com/devops/what-is-devops/?nc1=f_cc
+  71. https://aws.amazon.com/containers/?nc1=f_cc
+  72. https://aws.amazon.com/what-is/data-lake/?nc1=f_cc
+  73. https://aws.amazon.com/what-is/generative-ai/?nc1=f_cc
+  74. https://aws.amazon.com/security/?nc1=f_cc
+  75. https://aws.amazon.com/new/?nc1=f_cc
+  76. https://aws.amazon.com/blogs/?nc1=f_cc
+  77. https://press.aboutamazon.com/press-releases/aws
+  78. https://aws.amazon.com/getting-started/?nc1=f_cc
+  79. https://aws.amazon.com/training/?nc1=f_cc
+  80. https://aws.amazon.com/solutions/?nc1=f_cc
+  81. https://aws.amazon.com/architecture/?nc1=f_cc
+  82. https://aws.amazon.com/faqs/?nc1=f_dr
+  83. https://aws.amazon.com/resources/analyst-reports/?nc1=f_cc
+  84. https://aws.amazon.com/partners/work-with-partners/?nc1=f_dr
+  85. https://aws.amazon.com/developer/?nc1=f_dr
+  86. https://aws.amazon.com/developer/tools/?nc1=f_dr
+  87. https://aws.amazon.com/developer/language/net/?nc1=f_dr
+  88. https://aws.amazon.com/developer/language/python/?nc1=f_dr
+  89. https://aws.amazon.com/developer/language/java/?nc1=f_dr
+  90. https://aws.amazon.com/developer/language/php/?nc1=f_cc
+  91. https://aws.amazon.com/developer/language/javascript/?nc1=f_dr
+  92. https://aws.amazon.com/contact-us/?nc1=f_m
+  93. https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m
+  94. https://console.aws.amazon.com/support/home/?nc1=f_dr
+  95. https://repost.aws/?nc1=f_dr
+  96. https://repost.aws/knowledge-center/?nc1=f_dr
+  97. https://aws.amazon.com/premiumsupport/?nc1=f_dr
+  98. https://aws.amazon.com/legal/?nc1=f_cc
+  99. https://aws.amazon.com/careers/
+ 100. https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc1=f_ct&src=default
+ 101. https://aws.amazon.com/ar/?nc1=h_ls
+ 102. https://aws.amazon.com/id/?nc1=h_ls
+ 103. https://aws.amazon.com/de/?nc1=h_ls
+ 104. https://aws.amazon.com/?nc1=h_ls
+ 105. https://aws.amazon.com/es/?nc1=h_ls
+ 106. https://aws.amazon.com/fr/?nc1=h_ls
+ 107. https://aws.amazon.com/it/?nc1=h_ls
+ 108. https://aws.amazon.com/pt/?nc1=h_ls
+ 109. https://aws.amazon.com/vi/?nc1=f_ls
+ 110. https://aws.amazon.com/tr/?nc1=h_ls
+ 111. https://aws.amazon.com/ru/?nc1=h_ls
+ 112. https://aws.amazon.com/th/?nc1=f_ls
+ 113. https://aws.amazon.com/jp/?nc1=h_ls
+ 114. https://aws.amazon.com/ko/?nc1=h_ls
+ 115. https://aws.amazon.com/cn/?nc1=h_ls
+ 116. https://aws.amazon.com/tw/?nc1=h_ls
+ 117. https://aws.amazon.com/privacy/?nc1=f_pr
+ 118. https://aws.amazon.com/terms/?nc1=f_pr
+ 119. https://aws.amazon.com/cn/compliance/shared-responsibility-model/%0D/
+
+   Hidden links:
+ 121. https://twitter.com/awscloud
+ 122. https://www.facebook.com/amazonwebservices
+ 123. https://www.linkedin.com/company/amazon-web-services/
+ 124. https://www.instagram.com/amazonwebservices/
+ 125. https://www.twitch.tv/aws
+ 126. https://www.youtube.com/user/AmazonWebServices/Cloud/
+ 127. https://aws.amazon.com/podcasts/
+ 128. https://pages.awscloud.com/communication-preferences?trk=homepage

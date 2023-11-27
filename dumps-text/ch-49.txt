@@ -1,0 +1,21 @@
+百度百科错误页
+
+   抱歉，您所访问的页面不存在...
+
+   3秒后自动跳转到[1]百科首页
+
+     * 如果想提出功能问题或意见建议,请到[2]意见反馈;
+     * 如果您要举报侵权或违法信息,请到[3]投诉中心;
+     * 其他问题请访问[4]百度百科吧。
+
+   ©2022Baidu [5]使用百度前必读 | [6]百科协议 | [7]百度百科合作平台
+
+References
+
+   1. http://baike.baidu.com/
+   2. http://baike.baidu.com/feedback
+   3. http://help.baidu.com/newadd?prod_id=10&category=1
+   4. http://tieba.baidu.com/f?kw=�ٶȰٿ�
+   5. http://www.baidu.com/duty/
+   6. http://help.baidu.com/question?prod_en=baike&class=89&id=1637
+   7. http://baike.baidu.com/hezuo/

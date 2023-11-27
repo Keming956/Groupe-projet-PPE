@@ -1,0 +1,577 @@
+   #[1]alternate
+
+   [2]ֻ| [3]OFweekҳ | [4]�뵼 | [5]̫ܹ | [6]�ӹ�� | [7]��� | [8]�ͨѶ | [9]��� |
+   [10]ʾ
+   [11]ܵ | [12]Ƽ | [13]���� | [14]� | [15]� | [16]3D�ӡ | [17]ܼҾ | [18]˹� |
+   [19]Դ |
+   [20]ǻ۳ | [21]Ǳ | [22]VR | [23]Ӳ�� | [24]��� | | [25]﮵ | [26]² | [27]��
+   | [28]�
+   | [29]ǻۺ�| [30]�ɴ��豸| [31]ҽƿƼ�| [32]���| [33]ͨ| [34]��| | [35]�Դ|
+   [36]�ѧ| | [37]PCB
+   [38]ȨͶ
+     * [39]APP
+     * [40]�¼| [41]ע� | [42]Ѷ��
+     * [43]�| [44]˳
+
+[45][newlogo.png?v=3]
+
+     * [46]ҳ
+     * [47]Ѷ
+     * [48]Ʒ
+     * [49]��
+     * [50]г�
+     * [51]���
+     * [52]�ƾ�
+     * [53]ӵ
+     * [54]�̸
+     * [55]ר
+     * [56]Ŀ
+     * [57]Ƶ
+     * [58]�չ
+     * [59]ְ
+     * [60]Ƹ
+     * [61]ѵ
+     * [62]̳
+     * [63]ֻ
+     * [64]�
+     * [65]ֱ��
+     * [66]ά�ƺ
+
+     * �� [67]Զ��ʻ [68]��� [69]MCU/��� [70]���� [71]��ȫ� [72]ͨѶ [73]��
+       [74]�� [75]�ܼ [76]�� [77]² [78]��ҵ
+
+   ȵ㣺
+     * [79]ҵ[80]˼ʻ[81]�����ȫ
+     * [82]�[83]�����[84]�[85]������
+
+   [86]�>>
+   [ȫ��_�_________________________________________ [navbg_25.gif]-Submit
+
+   ղ
+   ȡղ
+   ��
+   ��
+   [87]΢�� [88]ѶQQ [89]QQ�ռ [90]΢
+   �ý
+   ��ǰλã� [91]OFweek    >   [92]Զ��ʻ   >
+
+   L3/L4�·��һ�š���Զ��ʻ¹ж�
+   2023-11-22 10:48
+   E���
+   �ע
+
+   �գ�ҹĲ���Ϸ������ڿ�չ�׼·ͨԵ㹤֪ͨ������֪ͨ��ʽ� L3/L4
+   [93]Զ��ʻ�׼淶�˾Ҫ󣬲�عֵ�ùע�֪ͨл�ȷ�涨Զ��ʻ¹ж��ع涨��ͬʱ��׼֪ͨ�����Ҳ��˶ҵ�ѡ��ζL3/L4���
+   ·�һ�ˡ�
+
+   [wx_article__c8c5b75d933e5af187d9e010b6860fb6.jpg]
+
+   ϤԶ��ʻ�Ѷ�֪���Զ��ʻ��յȼ��ԷΪL1��L4ĸ׶Σ�L1�L2���Զ��ʻʵ�ֻ֮ܳΪ��ʻ��L3�L4�Զ��ʻ�Ľ׶Ρ
+   �Ŀǰҹ涨��ϽܴL2���ĸ�ʻ��ܣ���ߵĽһ�����ţ�δ�ܺԶ��ʻҵ����ӭ�һ�ȫµķ�չ�׶Ρ�
+
+   L3/L4ǰ·
+
+   Ȼ˵Ĳ���Ϸ���L3/L4�Ե֪ͨ����ҪʵL3/L4�·��Ҫһ�����̡��ݹ�Ų�װ����ҵһ˾�Ľܣ�Ҫʵװ·�ԣ�Ҫ���
+   裬��Ե걨���Ʒ׼Ե㡢·ͨԵ㡢Եͣ˳��
+
+   ��Ų�Ҫʵװ·�Եҵ��λҪڲԺܽ����ǿ֯쵼��ǿ��ʵ��Ӫ��û�����ܽƹķ�϶����������Ե㹤˳չ��
+
+   ֵ�עǣ���֪ͨ��й涨Ե̷Ϊ׶Ρ�ȣ�뷽ƶ��뷽�������õ�гУ���ֱϽϽ����׼���¡�Σ�뷽轫걨����ύ�ڵʡ����ҵ
+   �Ϣ��ܲ�š��ò�Ż��ʡ�������ؽ�ͨ�簲ȫ����š�ס���ͳ罨貿š���ͨ䲿š�ͨŹ֣��걨�����飬�� 2023 12
+   20 ǰ��䱨��ҵ�Ϣ������
+
+   󣬹�ҵ�Ϣ��������������ס���ͳ罨貿����ͨ䲿�Ĳ�Ž���ͬ֯ר�Ҷ걨�����гˣ����ѡ�뷽��ͨ�׼Եн׶Ρ�
+
+   ׶ȷԶ��ʻ¹
+
+   �׼�Ե⣬Ĳ�Ż�׶ȷԶ��ʻ¹ж��ϸ������εġ�֪ͨ��ȷع涨��Ӳ�ͬȷ����ͨ¹ι
+
+   �Զ��ʻϵͳδ���״̬·�¹ʣ���й涨�е�Ρ�Զ��ʻϵͳ���״̬·�Υ���¹ʣ�ԵҵԵʹڹ涨ʱ�ز�ṩ֤ϡ�δ���涨ṩ�ϣ�е
+   �¹Ρ�
+
+   �⣬�¹пΪж��Եʹж����е�⳥Ρ�¹ʹ�Եʹ��׷��������ɷ���׷��Ρ�
+
+   �L3/L4Զ��ʻ��Ŀǰ��٣��ѱʵ�·�ʱ��ͨ⣬йز�Ҫ��ȫ���н�ͨ�ߵƽȺͰ�ȫ�ĻĿ�չԶ��ʻ鹤
+
+   ˹�FSD׼���һ����
+
+   ˼�ǣ��Ĳ�ŷ���ˡ�֪ͨ���һ�Ϊ“Tesla China Analyst”�Ĳ�ͷ�ģ�FSD Entering
+   China��Everything is
+   ready��˵��FSD�����й鶼׼���ˣ�ɴ˿ɼһ��з��Զ��ʻ��ߵĽ˹��ȹʾ�Ʒʱýйһ�����׼����
+
+   [wx_article__7ad30d51c2613fef8d93a97c10c2d76e.jpg]
+
+   ʵڽ10³����Ϣ˵˹�۹FSDԶ��ʻ��йʱ����ʱ˹��߹ʾ��FSD�ȴйԶ��ʻ��ɷ��ȷ���ͬʱ��˹�йڻЭйز�ƶ�Щ��ɷ
+   ��ƶ���ڿ���˹��FSD�йıѾá�
+
+   Ŀǰ�ڸƷܸ�ʻ�˵ǿ����Ǽ��NOA��ε��NIO��СNGP��AD
+   MAX����滹Ӳ��Ѿ�ǰ���L3L4��Զ��ʻ�Ե֪ͨ�ķ�����йǼг��ܻܿӭ�˹�FSD�һֳ����Ԥ�ڲ��õĽ����Ʒ�ؽ�
+   Զ��ʻ���ʱǼݼ�ܻܿΪ��һ�ҳ�ֵ�һ�±׼��
+
+          ԭı : L3/L4�·��һ�š���Զ��ʻ¹ж�
+   [94]Զ��ʻ[95]�[96]˹�
+
+   Ķ
+   [97]Զ��ʻ[98]�[99]˹�
+     * [100]��ΪԶ��ʻӭǿ�֣�˹��ƶ�FSD 2023-11-24
+     * [101]ܼ֤��˹���Զ��ʻ��ʵ����й�ܾΪԤ� 2023-02-07
+     * [102]���ʻԶ��ʻ��г��Ϊ���״﷢չ��� 2023-01-11
+     * [103]����ռ٣�Զ��ʻ 2022-10-14
+     * [104]˹�Զ��ʻ��ͻƣ� 2022-07-21
+
+   �
+   [105]΢�� [106]ѶQQ [107]QQ�ռ [108]΢
+   [109]���ղ [110]�ӡ [111]Ƽ
+   ��פά�ƺŵ׫д���۵߱�ˣ����OFweek�����Ȩ�⣬�ϵ�ٱ���
+
+���
+
+   ��[112]0ۣ�0˲
+   �¼ �¼���ɷOFweek��
+     * û�//ֻ
+     * ____________________
+     * 룺
+     * ____________________
+     * [btn-dl.gif]-Submit [113]룿
+     * ˺ŵ¼�� [114]QQ | [115]΢ | [116]΢��
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   ...
+
+   /۳��6~500�
+   [BUTTON Input] (not implemented)_________
+
+   ύ�۹Ƶ����֤
+     *
+     * ֤�_______________________ ����壬�һ   [117]ˢ
+     * [BUTTON Input] (not implemented)_______ [BUTTON Input] (not
+       implemented)___
+
+     *
+     *
+
+   [no-comment.png]
+
+   [no-comment.png]
+
+   ͼƬ
+     * �����ʲô��߼���
+       �����ʲô��߼���
+     * ��ŵ62
+       ��ŵ62
+     * ̷��٣��Ʒ
+       ̷��٣��Ʒ
+     * 5Gʱ�Զ��ʻ�ͳ��
+       5Gʱ�Զ��ʻ�ͳ��
+     * ˭�һ�Ӵ
+       ˭�һ�Ӵ
+     * Ϊ�γ�ֻӵԶ��ʻ1/3��
+       Ϊ�γ�ֻӵԶ��ʻ1/3��
+     * ƼȨ�����ᱳ�
+       ƼȨ�����ᱳ�
+     * ˹�ǿWaymo�
+       ˹�ǿWaymo�
+
+   ҵ���
+     * [118]2023꼤�״Ӧг��м�ǰ��Ԥ�ⱨ�
+     * [119]2023й紫�г���չ״��Ͷǰ���
+     * [120]2023йҵг���չ״��Ͷǰ���
+     * [121]2022Դ׮г������
+
+   [122]·���
+     * [123]��ΪΪ�Ҫ��ҵ����
+     * [124]��ΪԶ��ʻӭǿ�֣�
+     * [125]ǽ�����Ӧ̲ȵ㱻����
+     * [126];10·����½�3.9%
+     * [127]ִֵεΣ�Сչ�߷ɡ���
+
+   ֱ���
+
+   »[128]�
+     * ���ʻع
+       [129]����鿴>> [130]��ֱ������ҵ�Ӽ�߻
+     * ���ʻع
+       [131]����鿴>> [132]��ֻ᡿COMSOL���Ż�MEMS�
+     * ���ʻع
+       [133]����鿴>> [134]��TEܳ����ӡ�з�����ֳ�ֱ�
+     * ���ʻع
+       [135]����鿴>> [136]��»顿OFweek 2023йҵ�
+     * ���ʻع
+       [137]����鿴>> [138]2023���죩��ܼ�Ӧø߷̳
+     * ���ʻع
+       [139]����鿴>> [140]��չ�᡿2023 WAIE �˹�չ
+
+   Ƽר
+   ɱȷſ����϶���������˭�裿
+
+   ɱȷſ�ȷ������˭�裿
+   [141]һȵ [142]µ
+     * 1 [143]�ӹݳ�չ��공ξ�
+     * 2 [144]˭ܳ20򼶳�˵
+     * 3 [145]��ΪԶ��ʻӭǿ�֣�
+     * 4 [146]Զ��ʻ¹ж�أ�
+     * 5 [147]ܲôְ��Cruise¹Զ��ʻΣ�
+     * 6 [148]ǽ�����Ӧ̲ȵ㱻����
+     * 7 [149]���ʿַ���ż�RCU Lite���ͨѶն
+     * 8 [150];10·����½�3.9%
+     * 9 [151]ִֵεΣ�Сչ�߷ɡ���
+     * 10 [152]���ٴεݱ۽�ϰ»�
+
+     * 1 [153]СAEB�ԲҰܣ���Ϊ�ȫʤ
+     * 2 [154]ܼʻ�����������
+     * 3 [155]СOTA�Ρ�P5ֻ��
+     * 4 [156]�ͻ�Ϊ���ܣ��Сĳ��
+     * 5 [157]ĩ�ս
+     * 6 [158]ܼʻӭ���죿ȴ̣�ٿ�Ч
+     * 7 [159]�ӹݳ�չ��공ξ�
+     * 8 [160]�ˮս��ж��û
+     * 9 [161]��ƴòƷ�Ϊ룿
+     * 10 [162]2023공߹ܱ䶯�¼�
+
+   [163][autohrlogo.png]
+   [164]ҵ�� [165]�� [166]ͷ�� [167]н�걨�
+   ͷְλ [168]�
+
+     * [169]�߼�����ʦ �㶫ʡ/
+     * [170]Զ����߼����ʦ �㶫ʡ/
+     * [171]��з����ʦ ����ʡ/��
+     * [172]ܼࣨ���� ����/���
+     * [173]���߼�۾� Ϻ�/�
+     * [174]����ʦ ����/���
+     * [175]���з����ʦ ����/�ƽ
+     * [176]��ר� �㶫ʡ/��
+     * [177]�װ���ʦ ����/���
+     * [178]�ṹ���ʦ �㶫ʡ/
+
+   [179][online2.gif]
+
+   [180][qr_gongzhonghao.jpg]
+
+   ¾�
+   x
+   [*]ֱ⣺
+   ____________________
+   [*]��ݣ�
+
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   []�ϵ䣺
+   дĵ__________________
+   [*] ֤ 룺
+   ____________________ ����壬�һ
+   [BUTTON Input] (not implemented)_______ [BUTTON Input] (not
+   implemented)___
+
+   [181]� - [182]About OFweek - [183]� - [184]�ѯ - [185]�Ϣ - [186]�ϵ -
+   [187]�Ա�� - [188]վ���� - [189]ֻOFweek
+   ǵվ�� [190]�뵼 | [191]̫ܹ | [192]�ӹ�� | [193]� | [194]��� | [195]� | |
+   [196]ǻۺ�| [197]��� | [198]ʾ | [199]�ͨѶ | [200]Ƽ | [201]3D�ӡ
+   [202]˹� | [203]Ӳ��| [204]ҽƿƼ� | [205]﮵ | [206]² | [207]�ɴ��豸 | [208]VR
+   | [209]Դ | | [210]ǻ۳ | [211]ܼҾ | [212]��� | [213]���� | [214]Ǳ
+   [215]��� | [216]�� | [217]ܵ| [218]� | | [219]ͨ| [220]��| | [221]�Դ |
+   [222]�ѧ | | [223]PCB| [224]˲ | [225]ó | [226]ѵ| [227]���| [228]�Ƽ��ɹ
+   ѯߣ�4009962228 �ͷ���棺+86-755-83279008
+   [229]ICP��06087881� Copyright © 2006-, All Rights Reserved.
+   �ȨУ�OFweekά�߿Ƽ�ҵŻ���վͼƬ��δ��ɲ��ÿ�������ơ�
+
+   [230]羯�챨��ƽ̨ [231]羯
+   �챨��ƽ̨
+
+   [232]����Ϣ��ȫ [233]����Ϣ��
+   ȫ
+
+   [234]���Ϣ�ٱ� [235]���Ϣ
+   �ٱ�
+
+   [236]г��ල�ҵݹ�ʾ
+
+   [237][beian.png]
+
+   ������� 44030502002758�
+
+References
+
+   Visible links:
+   1. https://m.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+   2. https://www.ofweek.com/mobile.html
+   3. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+   4. https://lights.ofweek.com/
+   5. https://solar.ofweek.com/
+   6. https://ee.ofweek.com/
+   7. https://laser.ofweek.com/
+   8. https://fiber.ofweek.com/
+   9. https://gongkong.ofweek.com/
+  10. https://display.ofweek.com/
+  11. https://smartgrids.ofweek.com/
+  12. https://cloud.ofweek.com/
+  13. https://ecep.ofweek.com/
+  14. https://windpower.ofweek.com/
+  15. https://iot.ofweek.com/
+  16. https://3dprint.ofweek.com/
+  17. https://smarthome.ofweek.com/
+  18. https://www.ofweek.com/ai/
+  19. https://nev.ofweek.com/
+  20. https://www.ofweek.com/smartcity/
+  21. https://instrument.ofweek.com/
+  22. https://vr.ofweek.com/
+  23. https://znyj.ofweek.com/
+  24. https://sensor.ofweek.com/
+  25. https://libattery.ofweek.com/
+  26. https://xincailiao.ofweek.com/
+  27. https://chuneng.ofweek.com/
+  28. https://robot.ofweek.com/
+  29. https://www.ofweek.com/smartocean/
+  30. https://wearable.ofweek.com/
+  31. https://medical.ofweek.com/
+  32. https://www.ofweek.com/security/
+  33. https://tele.ofweek.com/
+  34. https://power.ofweek.com/
+  35. https://dianyuan.ofweek.com/
+  36. https://optics.ofweek.com/
+  37. https://pcb.ofweek.com/
+  38. javascript:window.location='//www.ofweek.com/ofweek/article/ofweektousu.html?fromid=3&sourceURL='+location.href;
+  39. https://www.ofweek.com/app/
+  40. javascript:window.location='//www.ofweek.com/user/ulogin.do?returnurl='+location.href;
+  41. https://www.ofweek.com/user/ureg.do
+  42. javascript:window.location='//www.ofweek.com/user/subscribe.do?returnurl='+location.href;
+  43. https://www.ofweek.com/usercenter/usercenter.do
+  44. https://www.ofweek.com/user/userLogout.do
+  45. https://www.ofweek.com/auto/
+  46. https://www.ofweek.com/auto/
+  47. https://www.ofweek.com/auto/CATList-7000-8100-auto.html
+  48. https://www.ofweek.com/auto/CATList-7000-8200-auto.html
+  49. https://www.ofweek.com/auto/CATList-7000-8300-auto.html
+  50. https://www.ofweek.com/auto/CATList-7000-8400-auto.html
+  51. https://research.ofweek.com/list-71100-auto.html
+  52. https://finance.ofweek.com/finance/75011/200/71100.html
+  53. https://www.ofweek.com/auto/CATList-7000-8500-auto.html
+  54. https://www.ofweek.com/auto/CATList-7000-8600-auto.html
+  55. https://www.ofweek.com/auto/topic/auto.html
+  56. https://wenku.ofweek.com/auto
+  57. https://video.ofweek.com/auto
+  58. https://www.ofweek.com/auto/exhibition-71100.html
+  59. https://hr.ofweek.com/
+  60. https://hr.ofweek.com/hrlogin/
+  61. https://peixun.ofweek.com/
+  62. https://mall.ofweek.com/
+  63. https://webinar.ofweek.com/
+  64. https://seminar.ofweek.com/
+  65. https://live.ofweek.com/
+  66. https://mp.ofweek.com/
+  67. https://www.ofweek.com/auto/CAT-70109-automaticdriving.html
+  68. https://www.ofweek.com/auto/CAT-70110-iov.html
+  69. https://www.ofweek.com/auto/IND-70301-mcusensor.html
+  70. https://www.ofweek.com/auto/IND-70302-dynamiccontrol.html
+  71. https://www.ofweek.com/auto/IND-70303-securitycontrol.html
+  72. https://www.ofweek.com/auto/IND-70304-tele.html
+  73. https://www.ofweek.com/auto/CAT-70108-chezaiyule.html
+  74. https://www.ofweek.com/auto/IND-70305-cheshendianzi.html
+  75. https://www.ofweek.com/auto/CAT-70102-energysaving.html
+  76. https://www.ofweek.com/auto/CAT-70103-gongyizhizao.html
+  77. https://www.ofweek.com/auto/CAT-70104-newmaterial.html
+  78. https://www.ofweek.com/auto/CAT-70105-ID.html
+  79. https://www.ofweek.com/auto/tag-汽车行业.HTM
+  80. https://www.ofweek.com/auto/tag-无人驾驶汽车.HTM
+  81. https://www.ofweek.com/auto/tag-汽车安全.HTM
+  82. https://www.ofweek.com/auto/tag-大众汽车.HTM
+  83. https://www.ofweek.com/auto/tag-汽车技术.HTM
+  84. https://www.ofweek.com/auto/tag-丰田汽车.HTM
+  85. https://www.ofweek.com/auto/tag-汽车传感器.HTM
+  86. https://www.ofweek.com/auto/TableRecommend-auto.html
+  87. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+  88. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+  89. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+  90. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+  91. https://www.ofweek.com/auto/
+  92. https://www.ofweek.com/auto/CAT-70109-automaticdriving.html
+  93. https://www.ofweek.com/auto/CAT-70109-automaticdriving.html
+  94. https://www.ofweek.com/auto/tag-Զ��ʻ.HTM
+  95. https://www.ofweek.com/auto/tag-�.HTM
+  96. https://www.ofweek.com/auto/tag-˹�.HTM
+  97. https://www.ofweek.com/auto/tag-Զ��ʻ.HTM
+  98. https://www.ofweek.com/auto/tag-�.HTM
+  99. https://www.ofweek.com/auto/tag-˹�.HTM
+ 100. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617596.html
+ 101. https://www.ofweek.com/auto/2023-02/ART-70109-8470-30586657.html
+ 102. https://www.ofweek.com/auto/2023-01/ART-70109-8420-30584536.html
+ 103. https://www.ofweek.com/auto/2022-10/ART-70109-8500-30576335.html
+ 104. https://www.ofweek.com/auto/2022-07/ART-70109-8120-30569104.html
+ 105. http://service.weibo.com/share/share.php?url=file:///C:/Users/Administrator/Desktop/ofweek/artical/index.html&title=Document&pic=file:///C:/Users/Administrator/Desktop/ofweek/artical/images/a1.jpg&appkey=
+ 106. http://connect.qq.com/widget/shareqq/index.html?url=file:///C:/Users/Administrator/Desktop/ofweek/artical/index.html&title=Document&source=Document&desc=&pics=file:///C:/Users/Administrator/Desktop/ofweek/artical/images/a1.jpg&summary=""
+ 107. http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=file:///C:/Users/Administrator/Desktop/ofweek/artical/index.html&title=Document&desc=&summary=&site=Document
+ 108. javascript:/
+ 109. javascript:addFavorite();
+ 110. javascript:window.location.href='http://www.ofweek.com/print/PrintNews.do?detailid=30617257'
+ 111. javascript:/
+ 112. https://auto.ofweek.com/newscomment/30617257.html
+ 113. https://www.ofweek.com/user/userGetPassword.do
+ 114. https://www.ofweek.com/user/login.do?method=qqLogin
+ 115. javascript:window.location='http://www.ofweek.com/user/login.do?method=weixinLogin&returnurl='+window.location
+ 116. https://www.ofweek.com/user/login.do?method=weiboLogin
+ 117. javascript:GetImage();
+ 118. http://research.ofweek.com/2019-05/RET-10689.html
+ 119. http://research.ofweek.com/2021-06/RET-10803.html
+ 120. http://research.ofweek.com/2021-06/RET-10802.html
+ 121. https://research.ofweek.com/2015-11/RET-10579.html
+ 122. https://auto.ofweek.com/NewsCenter-71100.html
+ 123. https://www.ofweek.com/auto/2023-11/ART-70109-8500-30617764.html
+ 124. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617596.html
+ 125. https://www.ofweek.com/auto/2023-11/ART-70106-8120-30617464.html
+ 126. https://www.ofweek.com/auto/2023-11/ART-70111-8460-30617431.html
+ 127. https://www.ofweek.com/auto/2023-11/ART-70111-8500-30617407.html
+ 128. https://seminar.ofweek.com/
+ 129. https://v.ofweek.com/#/live/1488
+ 130. https://v.ofweek.com/#/live/1488
+ 131. https://forms.ofweek.com/Form/preview/form_id/1507?tgfrom=668
+ 132. https://forms.ofweek.com/Form/preview/form_id/1507?tgfrom=668
+ 133. https://www.te.com.cn/chn-zh/campaigns/transportation-solutions/ict-dc-live-stream.html?te_bu=Cor&te_type=oth&te_campaign=oth_chn_cor-oth-chn-oth-fy23-smbmktg-dclive-ow-pc-0905_sma-3250_1&elqCampaignId=175888
+ 134. https://www.te.com.cn/chn-zh/campaigns/transportation-solutions/ict-dc-live-stream.html?te_bu=Cor&te_type=oth&te_campaign=oth_chn_cor-oth-chn-oth-fy23-smbmktg-dclive-ow-pc-0905_sma-3250_1&elqCampaignId=175888
+ 135. https://v.ofweek.com/#/live/1414
+ 136. https://v.ofweek.com/#/live/1414
+ 137. https://v.ofweek.com/#/live/1411
+ 138. https://v.ofweek.com/#/live/1411
+ 139. https://aiexpo.ofweek.com/
+ 140. https://aiexpo.ofweek.com/
+ 141. https://auto.ofweek.com/CATList-7000-8100-auto.html
+ 142. https://auto.ofweek.com/CATList-7000-8100-auto.html
+ 143. https://www.ofweek.com/auto/2023-11/ART-70101-8110-30617155.html
+ 144. https://www.ofweek.com/auto/2023-11/ART-70111-8420-30617139.html
+ 145. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617596.html
+ 146. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30617257.html
+ 147. https://www.ofweek.com/auto/2023-11/ART-70109-8460-30617179.html
+ 148. https://www.ofweek.com/auto/2023-11/ART-70106-8120-30617464.html
+ 149. https://www.ofweek.com/auto/2023-11/ART-70110-8110-30617172.html
+ 150. https://www.ofweek.com/auto/2023-11/ART-70111-8460-30617431.html
+ 151. https://www.ofweek.com/auto/2023-11/ART-70111-8500-30617407.html
+ 152. https://www.ofweek.com/auto/2023-11/ART-70110-8460-30617302.html
+ 153. https://www.ofweek.com/auto/2023-11/ART-70109-8110-30616018.html
+ 154. https://www.ofweek.com/auto/2023-11/ART-70109-8500-30616898.html
+ 155. https://www.ofweek.com/auto/2023-11/ART-70109-8330-30615096.html
+ 156. https://www.ofweek.com/auto/2023-11/ART-70109-8120-30616029.html
+ 157. https://www.ofweek.com/auto/2023-11/ART-70109-8420-30616295.html
+ 158. https://www.ofweek.com/auto/2023-11/ART-70109-8420-30616351.html
+ 159. https://www.ofweek.com/auto/2023-11/ART-70101-8110-30617155.html
+ 160. https://www.ofweek.com/auto/2023-11/ART-70111-8500-30616204.html
+ 161. https://www.ofweek.com/auto/2023-11/ART-70101-8500-30616196.html
+ 162. https://www.ofweek.com/auto/2023-11/ART-70111-8120-30617038.html
+ 163. https://qchr.ofweek.com/
+ 164. https://hr.ofweek.com/hrlogin/
+ 165. https://hr.ofweek.com/hrlogin/
+ 166. https://hr.ofweek.com/jobhunter/
+ 167. https://hr.ofweek.com/salary-report/
+ 168. https://hr.ofweek.com/
+ 169. https://hr.ofweek.com/jobs/jobs-show-681138.html
+ 170. https://hr.ofweek.com/jobs/jobs-show-681143.html
+ 171. https://hr.ofweek.com/jobs/jobs-show-524905.html
+ 172. https://hr.ofweek.com/jobs/jobs-show-877371.html
+ 173. https://hr.ofweek.com/jobs/jobs-show-863600.html
+ 174. https://hr.ofweek.com/jobs/jobs-show-877372.html
+ 175. https://hr.ofweek.com/jobs/jobs-show-653858.html
+ 176. https://hr.ofweek.com/jobs/jobs-show-728960.html
+ 177. https://hr.ofweek.com/jobs/jobs-show-925925.html
+ 178. https://hr.ofweek.com/jobs/jobs-show-681139.html
+ 179. javascript:;
+ 180. javascript:;
+ 181. https://www.ofweek.com/about.shtml
+ 182. https://www.ofweek.com/abouten/company.html
+ 183. https://mp.ofweek.com/index/login_company.html
+ 184. https://www.ofweek.com/ad.shtml
+ 185. https://www.ofweek.com/help.shtml
+ 186. https://www.ofweek.com/contact.shtml
+ 187. https://www.ofweek.com/service.shtml
+ 188. https://www.ofweek.com/sitemap.shtml
+ 189. https://m.ofweek.com/
+ 190. https://lights.ofweek.com/
+ 191. https://solar.ofweek.com/
+ 192. https://ee.ofweek.com/
+ 193. https://iot.ofweek.com/
+ 194. https://gongkong.ofweek.com/
+ 195. https://robot.ofweek.com/
+ 196. https://www.ofweek.com/smartocean/
+ 197. https://laser.ofweek.com/
+ 198. https://display.ofweek.com/
+ 199. https://fiber.ofweek.com/
+ 200. https://cloud.ofweek.com/
+ 201. https://3dprint.ofweek.com/
+ 202. https://www.ofweek.com/ai/
+ 203. https://znyj.ofweek.com/
+ 204. https://medical.ofweek.com/
+ 205. https://libattery.ofweek.com/
+ 206. https://xincailiao.ofweek.com/
+ 207. https://wearable.ofweek.com/
+ 208. https://vr.ofweek.com/
+ 209. https://nev.ofweek.com/
+ 210. https://www.ofweek.com/smartcity/
+ 211. https://smarthome.ofweek.com/
+ 212. https://sensor.ofweek.com/
+ 213. https://ecep.ofweek.com/
+ 214. https://instrument.ofweek.com/
+ 215. https://www.ofweek.com/security/
+ 216. https://chuneng.ofweek.com/
+ 217. https://smartgrids.ofweek.com/
+ 218. https://windpower.ofweek.com/
+ 219. https://tele.ofweek.com/
+ 220. https://power.ofweek.com/
+ 221. https://dianyuan.ofweek.com/
+ 222. https://optics.ofweek.com/
+ 223. https://pcb.ofweek.com/
+ 224. https://hr.ofweek.com/
+ 225. https://en.ofweek.com/
+ 226. https://peixun.ofweek.com/
+ 227. http://www.isweek.cn/
+ 228. https://texchange.ofweek.com/
+ 229. http://www.beian.miit.gov.cn/
+ 230. http://www.szwljb.gov.cn/
+ 231. http://www.szwljb.gov.cn/
+ 232. http://www.cyberpolice.cn/wfjb/
+ 233. http://www.cyberpolice.cn/wfjb/
+ 234. http://www.12377.cn/
+ 235. http://www.12377.cn/
+ 236. http://szcert.ebs.org.cn/784173c0-6282-4aaa-a359-a389f2d5ce9e
+ 237. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502002758
+
+   Hidden links:
+ 239. https://www.ofweek.com/hydrogen/
+ 240. https://www.ofweek.com/auto/
+ 241. https://www.ofweek.com/im/
+ 242. https://lighting.ofweek.com/
+ 243. https://dl.ofweek.com/
+ 244. https://www.ofweek.com/auto/CAT-70101-automotive.html
+ 245. https://www.ofweek.com/auto/tag-%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6.HTM
+ 246. https://www.ofweek.com/auto/tag-%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0.HTM
+ 247. javascript:window.location='//www.ofweek.com/user/subscribe.do?returnurl='+location.href;
+ 248. http://mp.ofweek.com/index/login_member.html
+ 249. https://mp.ofweek.com/m034552916155
+ 250. https://www.ofweek.com/auto/
+ 251. javascript:/
+ 252. javascript:/
+ 253. https://www.ofweek.com/auto/2022-07/ART-70103-11000-30567878.html
+ 254. https://www.ofweek.com/auto/2020-08/ART-70103-8500-30452673.html
+ 255. https://www.ofweek.com/auto/2019-08/ART-70109-8470-30402508.html
+ 256. https://www.ofweek.com/auto/2019-06/ART-70110-8440-30395192.html
+ 257. https://www.ofweek.com/auto/2019-06/ART-70103-8470-30394635.html
+ 258. https://www.ofweek.com/auto/2019-06/ART-70109-8420-30394068.html
+ 259. https://www.ofweek.com/auto/2019-06/ART-70111-12008-30393793.html
+ 260. https://www.ofweek.com/auto/2019-06/ART-70109-8420-30393388.html
+ 261. https://www.ofweek.com/auto/2018-04/ART-70111-8440-30223762.html
+ 262. https://www.ofweek.com/form/view.php?id=122
+ 263. https://auto.ofweek.com/
+ 264. https://www.ofweek.com/app/
+ 265. https://www.ofweek.com/im/
+ 266. https://www.ofweek.com/hydrogen/
+ 267. https://www.ofweek.com/auto/
+ 268. https://lighting.ofweek.com/
+ 269. https://dl.ofweek.com/
