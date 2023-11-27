@@ -1,0 +1,191 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+
+[6]le radar
+du devoir de vigilance
+
+     * [7]Trouver un plan de vigilance
+     * [8]Ressources
+     *
+          + [9]La loi sur le devoir de vigilance
+          + [10]Notre méthodologie
+          + [11]Analyses des plans de vigilance
+          + [12]Les actualités
+     * [13]Les affaires en cours
+     * [14]FR / [15]EN
+
+   (BUTTON)
+     * [16]Trouver un plan de vigilance
+     * [17]Ressources
+     *
+          + [18]La loi sur le devoir de vigilance
+          + [19]Notre méthodologie
+          + [20]Les actualités
+     * [21]Les affaires en cours
+
+   [22]FR / [23]EN
+
+Les affaires en cours
+
+Le devoir de vigilance devant les tribunaux
+
+   Véritable levier judiciaire à disposition des personnes, communautés
+   affectées, syndicats et organisations de la société civile pour mener
+   la lutte contre l’impunité, la loi sur le devoir de vigilance démontre
+   sa capacité à contraindre les entreprises à modifier en profondeur
+   leurs modèles d’affaires et leurs pratiques.
+
+   Nous recensons ici toutes les affaires en cours qui s’appuient sur la
+   loi sur le devoir de vigilance, y compris les mises en demeure
+   publiques n’ayant pas encore donné lieu à des assignations en justice.
+
+Les affaires en cours
+
+Total – Climat
+
+   Contribution au changement climatique et alignement sur les objectifs
+   de l’Accord de Paris
+
+   [24]climat
+
+Total – Ouganda
+
+   Méga-projet pétrolier en Ouganda, expropriation de terres et risques
+   pour la biodiversité
+
+   [25]ouganda
+
+Teleperformance
+
+   Droits des travailleurs dans les filiales du géant des centres d’appel
+
+   [26]tp
+
+XPO Logistics
+
+   Droits des travailleurs dans la chaîne de sous-traitance de la
+   multinationale du transport routier
+
+   [27]xpo
+
+EDF – Mexique
+
+   Construction d’un parc éolien au Mexique et droits des populations
+   autochtones
+
+   [28]test
+
+Yves Rocher – Turquie
+
+   Libertés syndicales et discriminations contre les femmes
+
+   [29]yvesrocher
+
+Suez – Chili
+
+   Droit à l’eau potable au Chili
+
+   [30]suez
+
+La Poste
+
+   Sous-traitance et droits des travailleurs
+
+   [31]Laposte
+
+Casino – Déforestation
+
+   Déforestation, atteintes aux droits des populations autochtones et
+   travail forcé au Brésil et en Colombie
+
+   [32]casino
+
+Idemia – Kenya
+
+   Déploiement de technologies biométriques
+
+   [33]Idemia-kenya
+
+Total – Russie
+
+   Guerre en Ukraine
+
+   [34]Totalrussie
+
+McDonald’s
+
+   Droits des travailleurs au Brésil et en France
+
+   [35]Mcdonalds
+
+Déplastifiez-vous
+
+   Utilisation de plastiques et cycle de vie des produits
+
+   [36]deplastifiez-vous
+
+BNP Paribas – Brésil
+
+   Financement d’un abattoir et déforestation
+
+   [37]Bnp-paribas-deforestation
+
+L’affaire BNP
+
+   Financement des énergies fossiles et changement climatique
+
+   [38]BNP-Paribas-energiesfossiles
+
+     * [39]Sherpa
+     * [40]CCFD
+     * [41]BHRRC
+
+     * [42]À propos
+     * [43]Mentions légales
+     * [44]Contact
+
+Références
+
+   1. https://plan-vigilance.org/les-affaires-en-cours/
+   2. https://vigilance-plan.org/court-cases-under-the-duty-of-vigilance-law/
+   3. https://plan-vigilance.org/wp-json/wp/v2/pages/1393
+   4. https://plan-vigilance.org/wp-json/oembed/1.0/embed?url=https://plan-vigilance.org/les-affaires-en-cours/
+   5. https://plan-vigilance.org/wp-json/oembed/1.0/embed?url=https://plan-vigilance.org/les-affaires-en-cours/&format=xml
+   6. https://plan-vigilance.org/
+   7. https://plan-vigilance.org/recherche/
+   8. https://plan-vigilance.org/les-affaires-en-cours/
+   9. https://plan-vigilance.org/la-loi/
+  10. https://plan-vigilance.org/methodologie/
+  11. https://plan-vigilance.org/analyses-des-plans-de-vigilance/
+  12. https://plan-vigilance.org/les-actualites/
+  13. https://plan-vigilance.org/les-affaires-en-cours/
+  14. https://plan-vigilance.org/les-affaires-en-cours/
+  15. https://vigilance-plan.org/court-cases-under-the-duty-of-vigilance-law/
+  16. https://plan-vigilance.org/recherche/
+  17. https://plan-vigilance.org/les-affaires-en-cours/
+  18. https://plan-vigilance.org/la-loi/
+  19. https://plan-vigilance.org/methodologie/
+  20. https://plan-vigilance.org/les-actualites/
+  21. https://plan-vigilance.org/les-affaires-en-cours/
+  22. https://plan-vigilance.org/les-affaires-en-cours/
+  23. https://vigilance-plan.org/court-cases-under-the-duty-of-vigilance-law/
+  24. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-Total-Climat.pdf
+  25. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-Total-Ouganda.pdf
+  26. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-Teleperformance.pdf
+  27. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-XPO-Logistics.pdf
+  28. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-EDF-Mexique.pdf
+  29. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-Yves-Rocher-FR.pdf
+  30. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-Suez-au-Chili.pdf
+  31. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-La-Poste-FR.pdf
+  32. https://plan-vigilance.org/wp-content/uploads/2021/07/VF-Casino-en-Amazonie.pdf
+  33. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-Idemia-FR.pdf
+  34. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-Total-Russie-FR.pdf
+  35. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-McDonalds-FR.pdf
+  36. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-Plastic-FR.pdf
+  37. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-BNP-deforestation-FR.pdf
+  38. https://plan-vigilance.org/wp-content/uploads/2022/12/PDF-BNP-climat-FR.pdf
+  39. https://www.asso-sherpa.org/
+  40. https://ccfd-terresolidaire.org/
+  41. https://www.business-humanrights.org/
+  42. https://plan-vigilance.org/a-propos/
+  43. https://plan-vigilance.org/mentions-legales/
+  44. https://plan-vigilance.org/contact-fr/

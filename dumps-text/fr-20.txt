@@ -1,0 +1,729 @@
+   #[1]RSS
+
+   Javascript est desactivé dans votre navigateur.
+
+     * [2]Aller au contenu
+     * [3]Aller au menu
+     * [4]Aller à la recherche
+
+   Préfet
+   de la Meuse
+   (BUTTON) Rechercher (BUTTON) Menu
+   [5]
+
+   Les services de l'État de la
+   Meuse
+     * [6]Nous contacter
+     * (BUTTON) Paramètres d'affichage
+
+   (BUTTON) Fermer
+   Rechercher ____________________ (BUTTON) Rechercher
+
+   (BUTTON) Fermer Menu
+
+     * (BUTTON) Actualités
+       (BUTTON) Fermer - Actualités
+
+Actualités
+       [7]Voir toute la rubrique
+
+[8]Salon presse
+
+[9]Informations nationales
+     * (BUTTON) Actions de l'État
+       (BUTTON) Fermer - Actions de l'État
+
+Actions de l'État
+       [10]Voir toute la rubrique
+
+[11]Agriculture, forêt et développement rural
+
+[12]Alimentation, consommation et commerce
+
+[13]Aménagement du territoire, carte
+
+[14]Animaux
+
+[15]CIGEO
+
+[16]Collectivités locales
+
+[17]Devoir de mémoire et anciens combattants
+
+[18]Droits des femmes et égalité
+
+[19]Élection
+
+[20]Entreprises, économie, emploi
+
+[21]Environnement
+
+[22]Finances publiques
+
+[23]France Services
+
+[24]Habitat, construction et accessibilité
+
+[25]Jeunesse, sports et vie associative
+
+[26]Mémoire et Anciens combattants
+
+[27]Prévention des risques
+
+[28]Sécurité
+
+[29]Solidarité, santé et cohésion sociale
+
+[30]Transport et déplacement
+     * (BUTTON) Services de l'État
+       (BUTTON) Fermer - Services de l'État
+
+Services de l'État
+       [31]Voir toute la rubrique
+
+[32]Coordonnées et horaires des services de l'Etat
+
+[33]Préfecture et sous-préfectures
+
+[34]Agriculture, environnement, aménagement et logement
+
+[35]Emploi, Travail, Solidarités, Santé, Protection des populations
+
+[36]Culture
+
+[37]Défense
+
+[38]Finances publiques
+
+[39]Éducation
+
+[40]Justice
+
+[41]Sécurité
+     * (BUTTON) Publications
+       (BUTTON) Fermer - Publications
+
+Publications
+       [42]Voir toute la rubrique
+
+[43]Recueil des Actes Administratifs (RAA)
+
+[44]Rapport d'activité des services de l'Etat en Meuse
+
+[45]Programme transparence
+
+[46]Schéma départemental d'amélioration de l'accessibilité des Services au
+public (SDAASP)
+
+[47]Baromètre des résultats de l'action publique en Meuse
+
+[48]Qualité - Résultats
+
+[49]Commission Départementale d'Aménagement Commercial (CDAC)
+
+[50]Autres publications
+     * (BUTTON) Démarches
+       (BUTTON) Fermer - Démarches
+
+Démarches
+       [51]Voir toute la rubrique
+
+[52]Toutes les démarches pour les particuliers
+
+[53]Toutes les démarches pour les collectivités
+
+[54]Toutes les démarches pour les professionnels
+
+[55]Toutes les démarches pour les associations
+
+[56]Médailles et distinctions honorifiques
+
+[57]Vidéoprotection dans les lieux publics
+
+[58]Informations
+
+[59]Activités réglementées
+
+[60]Points numériques
+
+[61]Armes
+
+[62]Manifestations sportives
+
+   (BUTTON) Voir le fil d’Ariane
+    1. [63]Accueil
+    2. [64]Actions de l'État
+    3. Devoir de mémoire et anciens combattants
+
+   (BUTTON) Dans cette rubrique
+
+   Actions de l'État
+   (BUTTON) Agriculture, forêt et développement rural
+          + [65]Compensation collective agricole
+          + [66]Documentation
+          + [67]Prairies - biodiversité
+          + [68]Politique Agricole Commune (PAC)
+          + [69]Modernisation exploitations
+          + [70]Contrôle des structures des exploitations agricoles
+          + [71]Nitrates
+          + [72]Forêt
+       (BUTTON) Alimentation, consommation et commerce
+          + [73]Alimentation et Hygiène alimentaire
+          + [74]Restauration
+          + [75]Consommation et produits non alimentaires
+          + [76]Répression des fraudes
+       (BUTTON) Aménagement du territoire, carte
+          + [77]Atlas
+          + [78]Données
+       (BUTTON) Animaux
+          + [79]Les animaux d'élevage
+          + [80]Les animaux de compagnie
+       (BUTTON) CIGEO
+          + [81]DUP - ANDRA - centre de stockage CIGEO
+          + [82]Le projet de développement du territoire pour
+            l’accompagnement de Cigéo (PDT)
+          + [83]Opération d'intérêt national (OIN)
+          + [84]Cigéo (Centre industriel de stockage géologique) - BURE
+          + [85]Le projet industriel Cigéo
+          + [86]Compensation collective agricole
+       (BUTTON) Collectivités locales
+          + [87]@CTES
+          + [88]Actualité des collectivités locales
+          + [89]Contrôle budgétaire
+          + [90]Dotations
+          + [91]Espace d'information pour les maires
+          + [92]Intercommunalité
+       (BUTTON) Devoir de mémoire et anciens combattants
+          + [93]Journée nationale du Souvenir des Victimes et des Héros de
+            la déportation
+          + [94]Commémoration de la Victoire du 8 mai 1945
+          + [95]Journée nationale d’hommage aux morts pour la France en
+            Indochine
+          + [96]Cérémonie d'hommage aux Sapeurs-Pompiers
+          + [97]Journée nationale commémorative de l'appel historique du
+            général de Gaulle
+          + [98]Journée nationale de la commémoration de la Victoire et de
+            la Paix - 11 novembre
+       (BUTTON) Droits des femmes et égalité
+          + [99]COVID-19
+          + [100]Prévenir et lutter contre les violences faites aux femmes
+          + [101]Promouvoir l'égalité professionnelle et l'emploi des
+            femmes
+          + [102]SANTÉ
+       (BUTTON) Élection
+          + [103]Elections politiques
+          + [104]Elections professionnelles
+       (BUTTON) Entreprises, économie, emploi
+          + [105]Brexit
+          + [106]Flash infos SIAE
+          + [107]Politique du travail
+          + [108]Portail de la DREETS Grand Est
+          + [109]Présentation de l'appel à projets "Intégration et Accès à
+            la nationalité française - BOP 104
+          + [110]Présentation de l'appel à projets Fonds d'initiatives
+            territoriales concerté pour l'emploi
+       (BUTTON) Environnement
+          + [111]PECHE
+          + [112]Espèces nuisibles à la santé humaine
+          + [113]Participation du Public
+          + [114]Commissaires enquêteurs
+          + [115]Commissions consultatives
+          + [116]Installations classées
+          + [117]Déchets
+          + [118]Gestion de l'eau
+          + [119]Énergies renouvelables
+          + [120]Hydrocarbures
+          + [121]Schéma régional des carrières
+          + [122]Autorisation de pénétrer/occuper des propriétés privées
+          + [123]Servitudes d'utilité publique
+          + [124]Biodiversité
+          + [125]Chasse
+          + [126]Déclaration d'intention
+          + [127]Sites et Sols pollués
+          + [128]Nuisances
+          + [129]Peste Porcine Africaine (PPA)
+          + [130]Loup et activités d'élevage
+          + [131]ZNT ( zones de non traitement)
+       (BUTTON) Finances publiques
+          + [132]Entreprises en difficulté_ Soutien des entreprises
+     * [133]France Services (BUTTON) Habitat, construction et
+       accessibilité
+          + [134]Logement indigne
+          + [135]Accessibilité
+          + [136]Construction, rénovation
+          + [137]Appel à projets pour le FNAVDL
+          + [138]Gens du voyage
+       (BUTTON) Jeunesse, sports et vie associative
+          + [139]Jeunesse
+          + [140]Sport
+          + [141]Vie associative
+     * [142]Mémoire et Anciens combattants (BUTTON) Prévention des risques
+          + [143]IAL
+          + [144]Information préventive et Gestion de crise
+          + [145]Réduction de la vulnérabilité des personnes et des biens
+          + [146]Risques d'inondation
+          + [147]Risques de mouvement de terrain
+          + [148]Risques majeurs présents dans le département
+          + [149]Risques miniers
+          + [150]Risques technologiques
+       (BUTTON) Sécurité
+          + [151]Manifestations sportives
+          + [152]Sécurité civile
+          + [153]Sécurité intérieure et prévention de la délinquance
+          + [154]Sécurité publique
+          + [155]Sécurité routière
+       (BUTTON) Solidarité, santé et cohésion sociale
+          + [156]Accès, maintien dans le logement, rapports locatifs
+          + [157]Solidarité, Inclusion sociale, accompagnement des jeunes
+            et des familles
+          + [158]Commission départementale d'aide sociale (CDAS)
+          + [159]Protection et accès aux droits des personnes
+          + [160]SCHEMA DEPARTEMENTAL DES SERVICES AUX FAMILLES
+          + [161]Stratégie Pauvreté
+          + [162]Ukraine
+          + [163]Politique de la ville
+       (BUTTON) Transport et déplacement
+          + [164]Permis de conduire
+
+Devoir de mémoire et anciens combattants
+
+   Le devoir de mémoire consiste à préserver et à transmettre aux plus
+   jeunes la mémoire et les valeurs républicaines des hommes et femmes qui
+   ont défendu le territoire national et ses idéaux. La paix et l'histoire
+   doivent être au cœur de l’apprentissage civique des générations
+   futures. La citoyenneté fait partie de ce devoir de mémoire. Chaque
+   citoyen doit connaître et sauvegarder l’héritage des anciens
+   combattants.
+
+   L'Office National des Anciens Combattants et Victimes de Guerre, pour
+   le compte de l'Etat (Ministère de la Défense), est chargé de la
+   gestion, de l’animation et de la valorisation mémorielle des lieux de
+   mémoire et des nécropoles nationales.
+
+   Contact :
+
+   Service départemental de l’ONACVG de la Meuse
+   Cité administrative
+   Avenue du 94ème R.I. – BP 70 614
+   55 013 BAR-le-DUC
+   Tél : 03.29.77.39.45
+   E-Mail : sd55@onacvg.fr
+
+   [165]Aller sur le site national de l'ONACVG
+     __________________________________________________________________
+
+   Retrouvez la plaquette des comportements et réflexes à adopter sur les
+   lieux de mémoire de l'ONACVG
+
+   [166]Télécharger Lieux de mémoire : les comportements et réflexes à
+   adopter PDF - 5,24 Mb - 21/07/2016
+     __________________________________________________________________
+
+   Retrouvez la bande dessinée de l'ONACVG de la Meuse "Le protocole d'une
+   cérémonie patriotique française"
+
+   [167]Télécharger BD - Le protocole d'une cérémonie patriotique
+   française PDF - 4,01 Mb - 04/10/2016
+
+   Sélectionnez votre thématique
+
+[168]Journée nationale du Souvenir des Victimes et des Héros de la
+déportation
+
+[169]Commémoration de la Victoire du 8 mai 1945
+
+[170]Journée nationale d’hommage aux morts pour la France en Indochine
+
+[171]Cérémonie d'hommage aux Sapeurs-Pompiers
+
+[172]Journée nationale commémorative de l'appel historique du général de
+Gaulle
+
+[173]Journée nationale de la commémoration de la Victoire et de la Paix - 11
+novembre
+
+   (BUTTON) Voir moins d'éléments Voir plus d'éléments
+
+   A lire dans cette rubrique
+
+[174]Conseil départemental pour les anciens combattants et victimes de guerre
+et la mémoire de la nation_12 juin 2019
+
+   Publié le 12/06/2019
+
+[175]Journée nationale d'hommage aux harkis et autres membres des formations
+supplétives
+
+   Publié le 25/09/2020
+
+   Préfet
+   de la Meuse
+
+[176]Journée nationale d’hommage aux Harkis et autres membres des formations
+supplétives
+
+   Publié le 26/09/2022
+
+   Partager la page
+     * [177]Partager sur Facebook
+     * [178]Partager sur Twitter
+     * [179]Partager sur LinkedIn
+     *
+     * (BUTTON) Copier dans le presse-papier
+     *
+
+Suivez-nous
+sur les réseaux sociaux
+
+     * [180]twitter
+     * [181]facebook
+
+Actualités
+
+     * [182]Salon presse
+     * [183]Informations nationales
+
+Actions de l'État
+
+     * [184]Agriculture, forêt et développement rural
+     * [185]Alimentation, consommation et commerce
+     * [186]Aménagement du territoire, carte
+     * [187]Animaux
+     * [188]CIGEO
+     * [189]Collectivités locales
+     * [190]Devoir de mémoire et anciens combattants
+     * [191]Droits des femmes et égalité
+     * [192]Élection
+     * [193]Entreprises, économie, emploi
+     * [194]Environnement
+     * [195]Finances publiques
+     * [196]France Services
+     * [197]Habitat, construction et accessibilité
+     * [198]Jeunesse, sports et vie associative
+     * [199]Mémoire et Anciens combattants
+     * [200]Prévention des risques
+     * [201]Sécurité
+     * [202]Solidarité, santé et cohésion sociale
+     * [203]Transport et déplacement
+
+Services de l'État
+
+     * [204]Coordonnées et horaires des services de l'Etat
+     * [205]Préfecture et sous-préfectures
+     * [206]Agriculture, environnement, aménagement et logement
+     * [207]Emploi, Travail, Solidarités, Santé, Protection des
+       populations
+     * [208]Culture
+     * [209]Défense
+     * [210]Finances publiques
+     * [211]Éducation
+     * [212]Justice
+     * [213]Sécurité
+
+Publications
+
+     * [214]Recueil des Actes Administratifs (RAA)
+     * [215]Rapport d'activité des services de l'Etat en Meuse
+     * [216]Programme transparence
+     * [217]Schéma départemental d'amélioration de l'accessibilité des
+       Services au public (SDAASP)
+     * [218]Baromètre des résultats de l'action publique en Meuse
+     * [219]Qualité - Résultats
+     * [220]Commission Départementale d'Aménagement Commercial (CDAC)
+     * [221]Autres publications
+
+Démarches
+
+     * [222]Toutes les démarches pour les particuliers
+     * [223]Toutes les démarches pour les collectivités
+     * [224]Toutes les démarches pour les professionnels
+     * [225]Toutes les démarches pour les associations
+     * [226]Médailles et distinctions honorifiques
+     * [227]Vidéoprotection dans les lieux publics
+     * [228]Etrangers
+     * [229]Activités réglementées
+     * [230]Points numériques
+     * [231]Armes
+     * [232]Manifestations sportives
+
+   [233]
+
+   Préfet
+   de la Meuse
+
+     * [234]legifrance.gouv.fr
+     * [235]gouvernement.fr
+     * [236]service-public.fr
+     * [237]data.gouv.fr
+
+     * [238]Plan du site
+     * [239]Nous contacter
+     * [240]Accessibilité : non
+     * [241]Mentions légales
+     * [242]Données personnelles
+     * [243]Gestion des cookies
+
+   Sauf mention contraire, tous les contenus de ce site sont sous
+   [244]licence etalab-2.0
+
+   (BUTTON) Fermer
+
+Paramètres d’affichage
+
+   Choisissez un thème pour personnaliser l’apparence du site.
+
+   (*) Thème clair
+   ( ) Thème sombre
+   ( ) Système Utilise les paramètres système.
+
+Références
+
+   Liens visibles :
+   1. https://www.meuse.gouv.fr/rss/feed/my_feed
+   2. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants#main
+   3. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants#nav-main
+   4. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants#search
+   5. https://www.meuse.gouv.fr/
+   6. https://www.meuse.gouv.fr/nous-contacter
+   7. https://www.meuse.gouv.fr/Actualites
+   8. https://www.meuse.gouv.fr/Actualites/Salon-presse
+   9. https://www.meuse.gouv.fr/Actualites/Informations-nationales
+  10. https://www.meuse.gouv.fr/Actions-de-l-Etat
+  11. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural
+  12. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce
+  13. https://www.meuse.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-carte
+  14. https://www.meuse.gouv.fr/Actions-de-l-Etat/Animaux
+  15. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO
+  16. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales
+  17. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants
+  18. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite
+  19. https://www.meuse.gouv.fr/Actions-de-l-Etat/Election
+  20. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi
+  21. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement
+  22. https://www.meuse.gouv.fr/Actions-de-l-Etat/Finances-publiques
+  23. https://www.meuse.gouv.fr/Actions-de-l-Etat/France-Services
+  24. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite
+  25. https://www.meuse.gouv.fr/Actions-de-l-Etat/Jeunesse-sports-et-vie-associative
+  26. https://www.meuse.gouv.fr/Actions-de-l-Etat/Memoire-et-Anciens-combattants
+  27. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques
+  28. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite
+  29. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale
+  30. https://www.meuse.gouv.fr/Actions-de-l-Etat/Transport-et-deplacement
+  31. https://www.meuse.gouv.fr/Services-de-l-Etat
+  32. https://www.meuse.gouv.fr/Services-de-l-Etat/Coordonnees-et-horaires-des-services-de-l-Etat
+  33. https://www.meuse.gouv.fr/Services-de-l-Etat/Prefecture-et-sous-prefectures
+  34. https://www.meuse.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement
+  35. https://www.meuse.gouv.fr/Services-de-l-Etat/Emploi-Travail-Solidarites-Sante-Protection-des-populations
+  36. https://www.meuse.gouv.fr/Services-de-l-Etat/Culture
+  37. https://www.meuse.gouv.fr/Services-de-l-Etat/Defense
+  38. https://www.meuse.gouv.fr/Services-de-l-Etat/Finances-publiques
+  39. https://www.meuse.gouv.fr/Services-de-l-Etat/Education
+  40. https://www.meuse.gouv.fr/Services-de-l-Etat/Justice
+  41. https://www.meuse.gouv.fr/Services-de-l-Etat/Securite
+  42. https://www.meuse.gouv.fr/Publications
+  43. https://www.meuse.gouv.fr/Publications/Recueil-des-Actes-Administratifs-RAA
+  44. https://www.meuse.gouv.fr/Publications/Rapport-d-activite-des-services-de-l-Etat-en-Meuse
+  45. https://www.meuse.gouv.fr/Publications/Programme-transparence
+  46. https://www.meuse.gouv.fr/Publications/Schema-departemental-d-amelioration-de-l-accessibilite-des-Services-au-public-SDAASP
+  47. https://www.meuse.gouv.fr/Publications/Barometre-des-resultats-de-l-action-publique-en-Meuse
+  48. https://www.meuse.gouv.fr/Publications/Qualite-Resultats
+  49. https://www.meuse.gouv.fr/Publications/Commission-Departementale-d-Amenagement-Commercial-CDAC
+  50. https://www.meuse.gouv.fr/Publications/Autres-publications
+  51. https://www.meuse.gouv.fr/Demarches
+  52. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-particuliers
+  53. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-collectivites
+  54. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-professionnels
+  55. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-associations
+  56. https://www.meuse.gouv.fr/Demarches/Medailles-et-distinctions-honorifiques
+  57. https://www.meuse.gouv.fr/Demarches/Videoprotection-dans-les-lieux-publics
+  58. https://www.meuse.gouv.fr/Demarches/Etrangers
+  59. https://www.meuse.gouv.fr/Demarches/Activites-reglementees
+  60. https://www.meuse.gouv.fr/Demarches/Points-numeriques
+  61. https://www.meuse.gouv.fr/Demarches/Armes
+  62. https://www.meuse.gouv.fr/Demarches/Manifestations-sportives
+  63. https://www.meuse.gouv.fr/
+  64. https://www.meuse.gouv.fr/Actions-de-l-Etat
+  65. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Compensation-collective-agricole
+  66. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Documentation
+  67. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Prairies-biodiversite
+  68. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Politique-Agricole-Commune-PAC
+  69. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Modernisation-exploitations
+  70. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Controle-des-structures-des-exploitations-agricoles2
+  71. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Nitrates
+  72. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/Foret
+  73. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce/Alimentation-et-Hygiene-alimentaire
+  74. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce/Restauration
+  75. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce/Consommation-et-produits-non-alimentaires
+  76. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce/Repression-des-fraudes
+  77. https://www.meuse.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-carte/Atlas
+  78. https://www.meuse.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-carte/Donnees
+  79. https://www.meuse.gouv.fr/Actions-de-l-Etat/Animaux/Les-animaux-d-elevage
+  80. https://www.meuse.gouv.fr/Actions-de-l-Etat/Animaux/Les-animaux-de-compagnie
+  81. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/DUP-ANDRA-centre-de-stockage-CIGEO
+  82. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/Le-projet-de-developpement-du-territoire-pour-l-accompagnement-de-Cigeo-PDT
+  83. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/Operation-d-interet-national-OIN
+  84. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/Cigeo-Centre-industriel-de-stockage-geologique-BURE
+  85. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/Le-projet-industriel-Cigeo
+  86. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO/Compensation-collective-agricole
+  87. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/CTES
+  88. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/Actualite-des-collectivites-locales
+  89. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/Controle-budgetaire
+  90. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/Dotations
+  91. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/Espace-d-information-pour-les-maires
+  92. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales/Intercommunalite
+  93. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-du-Souvenir-des-Victimes-et-des-Heros-de-la-deportation
+  94. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Commemoration-de-la-Victoire-du-8-mai-1945
+  95. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-d-hommage-aux-morts-pour-la-France-en-Indochine
+  96. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Ceremonie-d-hommage-aux-Sapeurs-Pompiers
+  97. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-commemorative-de-l-appel-historique-du-general-de-Gaulle
+  98. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-de-la-commemoration-de-la-Victoire-et-de-la-Paix-11-novembre
+  99. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite/COVID-19
+ 100. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite/Prevenir-et-lutter-contre-les-violences-faites-aux-femmes
+ 101. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite/Promouvoir-l-egalite-professionnelle-et-l-emploi-des-femmes
+ 102. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite/SANTE
+ 103. https://www.meuse.gouv.fr/Actions-de-l-Etat/Election/Elections-politiques
+ 104. https://www.meuse.gouv.fr/Actions-de-l-Etat/Election/Elections-professionnelles
+ 105. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Brexit
+ 106. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Flash-infos-SIAE
+ 107. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Politique-du-travail
+ 108. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Portail-de-la-DREETS-Grand-Est
+ 109. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Presentation-de-l-appel-a-projets-Integration-et-Acces-a-la-nationalite-francaise-BOP-104
+ 110. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi/Presentation-de-l-appel-a-projets-Fonds-d-initiatives-territoriales-concerte-pour-l-emploi
+ 111. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/PECHE
+ 112. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Especes-nuisibles-a-la-sante-humaine
+ 113. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Participation-du-Public
+ 114. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Commissaires-enqueteurs
+ 115. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Commissions-consultatives
+ 116. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Installations-classees
+ 117. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Dechets
+ 118. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Gestion-de-l-eau
+ 119. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Energies-renouvelables
+ 120. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Hydrocarbures
+ 121. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Schema-regional-des-carrieres
+ 122. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Autorisation-de-penetrer-occuper-des-proprietes-privees
+ 123. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Servitudes-d-utilite-publique
+ 124. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Biodiversite
+ 125. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Chasse
+ 126. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Declaration-d-intention
+ 127. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Sites-et-Sols-pollues
+ 128. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Nuisances
+ 129. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Peste-Porcine-Africaine-PPA
+ 130. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/Loup-et-activites-d-elevage
+ 131. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement/ZNT-zones-de-non-traitement
+ 132. https://www.meuse.gouv.fr/Actions-de-l-Etat/Finances-publiques/Entreprises-en-difficulte_-Soutien-des-entreprises
+ 133. https://www.meuse.gouv.fr/Actions-de-l-Etat/France-Services
+ 134. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite/Logement-indigne
+ 135. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite/Accessibilite
+ 136. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite/Construction-renovation
+ 137. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite/Appel-a-projets-pour-le-FNAVDL
+ 138. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite/Gens-du-voyage2
+ 139. https://www.meuse.gouv.fr/Actions-de-l-Etat/Jeunesse-sports-et-vie-associative/Jeunesse
+ 140. https://www.meuse.gouv.fr/Actions-de-l-Etat/Jeunesse-sports-et-vie-associative/Sport
+ 141. https://www.meuse.gouv.fr/Actions-de-l-Etat/Jeunesse-sports-et-vie-associative/Vie-associative
+ 142. https://www.meuse.gouv.fr/Actions-de-l-Etat/Memoire-et-Anciens-combattants
+ 143. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/IAL2
+ 144. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Information-preventive-et-Gestion-de-crise
+ 145. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Reduction-de-la-vulnerabilite-des-personnes-et-des-biens
+ 146. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Risques-d-inondation
+ 147. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Risques-de-mouvement-de-terrain
+ 148. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Risques-majeurs-presents-dans-le-departement
+ 149. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Risques-miniers
+ 150. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques/Risques-technologiques
+ 151. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite/Manifestations-sportives
+ 152. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite/Securite-civile
+ 153. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite/Securite-interieure-et-prevention-de-la-delinquance
+ 154. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite/Securite-publique
+ 155. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite/Securite-routiere
+ 156. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Acces-maintien-dans-le-logement-rapports-locatifs
+ 157. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Solidarite-Inclusion-sociale-accompagnement-des-jeunes-et-des-familles
+ 158. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Commission-departementale-d-aide-sociale-CDAS
+ 159. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Protection-et-acces-aux-droits-des-personnes
+ 160. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/SCHEMA-DEPARTEMENTAL-DES-SERVICES-AUX-FAMILLES
+ 161. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Strategie-Pauvrete
+ 162. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Ukraine
+ 163. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale/Politique-de-la-ville
+ 164. https://www.meuse.gouv.fr/Actions-de-l-Etat/Transport-et-deplacement/Permis-de-conduire
+ 165. http://www.onac-vg.fr/fr/
+ 166. https://www.meuse.gouv.fr/contenu/telechargement/10912/70312/file/Lieux de mémoire  les comportements et réflexes à adopter.pdf
+ 167. https://www.meuse.gouv.fr/contenu/telechargement/11380/73116/file/BD_protocole_ONAC.pdf
+ 168. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-du-Souvenir-des-Victimes-et-des-Heros-de-la-deportation
+ 169. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Commemoration-de-la-Victoire-du-8-mai-1945
+ 170. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-d-hommage-aux-morts-pour-la-France-en-Indochine
+ 171. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Ceremonie-d-hommage-aux-Sapeurs-Pompiers
+ 172. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-commemorative-de-l-appel-historique-du-general-de-Gaulle
+ 173. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-de-la-commemoration-de-la-Victoire-et-de-la-Paix-11-novembre
+ 174. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Conseil-departemental-pour-les-anciens-combattants-et-victimes-de-guerre-et-la-memoire-de-la-nation_12-juin-2019
+ 175. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-d-hommage-aux-harkis-et-autres-membres-des-formations-suppletives
+ 176. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants/Journee-nationale-d-hommage-aux-Harkis-et-autres-membres-des-formations-suppletives2
+ 177. https://www.facebook.com/sharer/sharer.php?u=https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants
+ 178. https://twitter.com/intent/tweet?url=https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants&text=Devoir de mémoire et anciens combattants
+ 179. https://www.linkedin.com/shareArticle?url=https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants&title=Devoir de mémoire et anciens combattants
+ 180. https://www.twitter.com/prefet55
+ 181. https://www.facebook.com/prefet55/
+ 182. https://www.meuse.gouv.fr/Actualites/Salon-presse
+ 183. https://www.meuse.gouv.fr/Actualites/Informations-nationales
+ 184. https://www.meuse.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural
+ 185. https://www.meuse.gouv.fr/Actions-de-l-Etat/Alimentation-consommation-et-commerce
+ 186. https://www.meuse.gouv.fr/Actions-de-l-Etat/Amenagement-du-territoire-carte
+ 187. https://www.meuse.gouv.fr/Actions-de-l-Etat/Animaux
+ 188. https://www.meuse.gouv.fr/Actions-de-l-Etat/CIGEO
+ 189. https://www.meuse.gouv.fr/Actions-de-l-Etat/Collectivites-locales
+ 190. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants
+ 191. https://www.meuse.gouv.fr/Actions-de-l-Etat/Droits-des-femmes-et-egalite
+ 192. https://www.meuse.gouv.fr/Actions-de-l-Etat/Election
+ 193. https://www.meuse.gouv.fr/Actions-de-l-Etat/Entreprises-economie-emploi
+ 194. https://www.meuse.gouv.fr/Actions-de-l-Etat/Environnement
+ 195. https://www.meuse.gouv.fr/Actions-de-l-Etat/Finances-publiques
+ 196. https://www.meuse.gouv.fr/Actions-de-l-Etat/France-Services
+ 197. https://www.meuse.gouv.fr/Actions-de-l-Etat/Habitat-construction-et-accessibilite
+ 198. https://www.meuse.gouv.fr/Actions-de-l-Etat/Jeunesse-sports-et-vie-associative
+ 199. https://www.meuse.gouv.fr/Actions-de-l-Etat/Memoire-et-Anciens-combattants
+ 200. https://www.meuse.gouv.fr/Actions-de-l-Etat/Prevention-des-risques
+ 201. https://www.meuse.gouv.fr/Actions-de-l-Etat/Securite
+ 202. https://www.meuse.gouv.fr/Actions-de-l-Etat/Solidarite-sante-et-cohesion-sociale
+ 203. https://www.meuse.gouv.fr/Actions-de-l-Etat/Transport-et-deplacement
+ 204. https://www.meuse.gouv.fr/Services-de-l-Etat/Coordonnees-et-horaires-des-services-de-l-Etat
+ 205. https://www.meuse.gouv.fr/Services-de-l-Etat/Prefecture-et-sous-prefectures
+ 206. https://www.meuse.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement
+ 207. https://www.meuse.gouv.fr/Services-de-l-Etat/Emploi-Travail-Solidarites-Sante-Protection-des-populations
+ 208. https://www.meuse.gouv.fr/Services-de-l-Etat/Culture
+ 209. https://www.meuse.gouv.fr/Services-de-l-Etat/Defense
+ 210. https://www.meuse.gouv.fr/Services-de-l-Etat/Finances-publiques
+ 211. https://www.meuse.gouv.fr/Services-de-l-Etat/Education
+ 212. https://www.meuse.gouv.fr/Services-de-l-Etat/Justice
+ 213. https://www.meuse.gouv.fr/Services-de-l-Etat/Securite
+ 214. https://www.meuse.gouv.fr/Publications/Recueil-des-Actes-Administratifs-RAA
+ 215. https://www.meuse.gouv.fr/Publications/Rapport-d-activite-des-services-de-l-Etat-en-Meuse
+ 216. https://www.meuse.gouv.fr/Publications/Programme-transparence
+ 217. https://www.meuse.gouv.fr/Publications/Schema-departemental-d-amelioration-de-l-accessibilite-des-Services-au-public-SDAASP
+ 218. https://www.meuse.gouv.fr/Publications/Barometre-des-resultats-de-l-action-publique-en-Meuse
+ 219. https://www.meuse.gouv.fr/Publications/Qualite-Resultats
+ 220. https://www.meuse.gouv.fr/Publications/Commission-Departementale-d-Amenagement-Commercial-CDAC
+ 221. https://www.meuse.gouv.fr/Publications/Autres-publications
+ 222. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-particuliers
+ 223. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-collectivites
+ 224. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-professionnels
+ 225. https://www.meuse.gouv.fr/Demarches/Toutes-les-demarches-pour-les-associations
+ 226. https://www.meuse.gouv.fr/Demarches/Medailles-et-distinctions-honorifiques
+ 227. https://www.meuse.gouv.fr/Demarches/Videoprotection-dans-les-lieux-publics
+ 228. https://www.meuse.gouv.fr/Demarches/Etrangers
+ 229. https://www.meuse.gouv.fr/Demarches/Activites-reglementees
+ 230. https://www.meuse.gouv.fr/Demarches/Points-numeriques
+ 231. https://www.meuse.gouv.fr/Demarches/Armes
+ 232. https://www.meuse.gouv.fr/Demarches/Manifestations-sportives
+ 233. https://www.meuse.gouv.fr/
+ 234. https://www.legifrance.gouv.fr/
+ 235. https://www.gouvernement.fr/
+ 236. https://www.service-public.fr/
+ 237. https://www.data.gouv.fr/
+ 238. https://www.meuse.gouv.fr/content/view/sitemap/2
+ 239. https://www.meuse.gouv.fr/nous-contacter
+ 240. https://www.meuse.gouv.fr/accessibilite
+ 241. https://www.meuse.gouv.fr/mentions-legales
+ 242. https://www.meuse.gouv.fr/donnees-personnelles-et-cookies
+ 243. https://www.meuse.gouv.fr/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants
+ 244. https://github.com/etalab/licence-ouverte/blob/master/LO.md
+
+   Liens cachés :
+ 246. https://www.meuse.gouv.fr/contenu/conseiller/812
+ 247. https://www.meuse.gouv.fr/layout/set/print/Actions-de-l-Etat/Devoir-de-memoire-et-anciens-combattants

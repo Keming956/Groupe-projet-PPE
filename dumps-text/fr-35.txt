@@ -1,0 +1,265 @@
+   #[1]alternate
+
+   [2]Menu principal [3]Aller au champ "Rechercher" [4]Aller au contenu
+   principal [5]Contact
+
+     * [6]Contraste
+     * [7]Dyslexie
+     * [8]A-
+     * [9]A
+     * [10]A+
+
+   (BUTTON) Menu
+     * [11]Votre espace particulier
+     * [12]Votre espace professionnel
+     * [13]Contact et RDV
+
+Navigation principale
+
+     * [14]Accueil
+     * [15]Particulier
+     * [16]Professionnel
+     * [17]Partenaire
+     * [18]Collectivité
+     * [19]International
+     * [20]English
+
+     * [21]Accueil
+     * [22]Particulier
+     * [23]Professionnel
+     * [24]Partenaire
+     * [25]Collectivité
+     * [26]International
+     * [27]English
+
+   ______________________________ (BUTTON)
+
+    1. [28]Accueil
+    2. [29]Particulier
+    3. [30]Questions
+    4. J'achète un bien pour le louer non meublé. Vais-je devoir payer la
+       taxe d'habitation ?
+
+   [31]
+   Votre avis sur le site
+
+   J'achète un bien pour le louer non meublé. Vais-je devoir payer la taxe
+   d'habitation ?
+
+   La taxe d'habitation sur les résidences principales est supprimée à
+   compter de 2023.
+   Pour qu'un bien soit imposé à la taxe d'habitation, deux conditions
+   cumulatives doivent être remplies au 1er janvier de l’année
+   d’imposition :
+     * vous devez en avoir la disposition (c’est le cas en tant que
+       propriétaire d’un bien, autre que votre résidence principale, non
+       encore loué)
+     * et le bien doit être meublé afin d'en permettre l'habitation.
+
+   Ainsi, aucune imposition n'est émise si le bien est vide de meubles au
+   1er janvier.
+
+   Par conséquent, si le logement loué non meublé constitue la résidence
+   principale de votre locataire aucune taxe d’habitation ne sera éditée
+   ni à votre nom, ni à celui de votre locataire.
+   Lorsque le bien n’est pas meublé, aucune taxe d’habitation sur
+   résidence secondaire ne sera mise à votre charge.
+
+   Nouveauté 2023 : une nouvelle obligation déclarative codifiée à
+   l’article 1418 du Code Général des Impôts incombe à tous les
+   propriétaires de biens immobiliers bâtis en tant que personnes
+   physiques (particuliers) ou personnes morales (SCI) à partir de leur
+   espace sécurisé sur impots.gouv.fr.
+   Tous les propriétaires doivent déclarer à l’administration fiscale la
+   situation d’occupation des logements à usage d'habitation dont ils sont
+   propriétaires via le service en ligne disponible sur impots.gouv.fr
+   dans l’espace particulier > onglet « Biens immobiliers »  pour les
+   particuliers ou bien pour les SCI depuis l’espace professionnel après
+   adhésion au service « Gérer mes biens immobiliers (GMBI) ».
+   Vous devez répondre à cette obligation déclarative à chaque changement
+   de locataire et préciser l'identité des occupants, la période
+   d’occupation (ou de vacance) ainsi que le montant du loyer des locaux
+   d’habitation.
+
+   MAJ le 18/07/2023
+
+Questions du moment
+
+     [32]Qui est concerné, en 2023, par le paiement d’une taxe
+       d’habitation ?
+     * [33]Taxe sur les logements vacants (TLV) et taxe d'habitation sur
+       les logements vacants (THLV), qui est concerné ?
+     * [34]Comment est calculée la taxe d'habitation pour ma résidence
+       secondaire ?
+     * [35]Jusqu'à quelle date puis-je modifier ma déclaration de revenus
+       ?
+     * [36]J'ai reçu une taxe sur les logements vacants (TLV) ou une taxe
+       d'habitation sur les logements vacants (THLV) alors que mon bien
+       n’est pas vacant, que faire ?
+     * [37]Comment modifier mes coordonnées bancaires / mon RIB ?
+     * [38]Comment créer votre espace particulier ?
+     * [39]J’ai égaré les identifiants de connexion à mon espace
+       Particulier, comment puis-je les obtenir ?
+
+   [40]Plus de questions
+
+PARTAGER
+
+     * [41]Twitter
+     * [42]Facebook
+     * Print
+     * [43]Email
+
+Informations
+
+     * [44]Aide sur le site
+     * [45]Confidentialité / Informations personnelles
+     * [46]Sécurité informatique
+     * [47]Ouverture des données publiques de la DGFiP
+     * [48]À quoi servent mes impôts ?
+     * [49]Supports pédagogiques et citoyens
+
+Qualité de service
+
+     * [50]Accessibilité : non conforme
+     * [51]Sourds et malentendants - Accéo
+     * [52]Les engagements de la DGFiP
+     * [53]Votre avis sur le site
+     * [54]Gestion des cookies
+
+Rubriques du site
+
+     * [55]Particulier
+     * [56]Professionnel
+     * [57]Partenaire
+     * [58]Collectivité
+     * [59]International
+     * [60]Documentation
+     * [61]Études et Statistiques
+     * [62]Trouver un contact
+     * [63]Nous connaître
+     * [64]Nous rejoindre
+
+Autres sites
+
+     * [65]Amendes
+     * [66]Cadastre
+     * [67]PayFiP
+     * [68]Timbres
+     * [69]Cessions immobilières de l'Etat
+     * [70]Locations immobilières de l’État
+     * [71]Ventes domaniales
+     * [72]Retraites de l'État
+     * [73]Stationnement.gouv.fr
+     * [74]Redevance du code de la route
+     * [75]Taxe de séjour
+     * [76]Collectivités locales
+     * [77]Economie.gouv.fr
+     * [78]Ciclade
+
+Nous suivre :
+
+     * [79]impots-gouv sur Facebook
+     * [80]impots-gouv sur Twitter
+
+Institutional Menu
+
+     * [81]Service-public.fr
+     * [82]Legifrance.gouv.fr
+
+Legals Menu
+
+   [83]Direction générale des Finances publiques - Sauf mention contraire,
+   tous les textes de ce site sont sous licence etalab-2.0 [84]Mentions
+   légales
+
+Références
+
+   Liens visibles :
+   1. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+   2. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation#block-navigationprincipale
+   3. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+   4. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation#page-content
+   5. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation#menu-contact
+   6. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+   7. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+   8. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+   9. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+  10. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+  11. https://cfspart.impots.gouv.fr/
+  12. https://cfspro.impots.gouv.fr/
+  13. https://www.impots.gouv.fr/contacts
+  14. https://www.impots.gouv.fr/accueil
+  15. https://www.impots.gouv.fr/particulier
+  16. https://www.impots.gouv.fr/professionnel
+  17. https://www.impots.gouv.fr/partenaire
+  18. https://www.impots.gouv.fr/collectivite
+  19. https://www.impots.gouv.fr/international
+  20. https://www.impots.gouv.fr/international_en
+  21. https://www.impots.gouv.fr/accueil
+  22. https://www.impots.gouv.fr/particulier
+  23. https://www.impots.gouv.fr/professionnel
+  24. https://www.impots.gouv.fr/partenaire
+  25. https://www.impots.gouv.fr/collectivite
+  26. https://www.impots.gouv.fr/international
+  27. https://www.impots.gouv.fr/international_en
+  28. https://www.impots.gouv.fr/
+  29. https://www.impots.gouv.fr/particulier
+  30. https://www.impots.gouv.fr/questions/theme/avis-impot/3
+  31. https://www.impots.gouv.fr/votre-avis-sur-le-site
+  32. https://www.impots.gouv.fr/particulier/questions/je-suis-non-imposable-limpot-sur-le-revenu-vais-je-payer-une-taxe-dhabitation
+  33. https://www.impots.gouv.fr/particulier/questions/taxe-sur-les-logements-vacants-tlv-et-taxe-dhabitation-sur-les-logements
+  34. https://www.impots.gouv.fr/particulier/questions/comment-est-calculee-la-taxe-dhabitation-pour-ma-residence-secondaire
+  35. https://www.impots.gouv.fr/particulier/questions/jusqua-quelle-date-puis-je-modifier-ma-declaration-de-revenus
+  36. https://www.impots.gouv.fr/particulier/questions/jai-recu-une-taxe-sur-les-logements-vacants-tlv-ou-une-taxe-dhabitation-sur
+  37. https://www.impots.gouv.fr/particulier/questions/comment-modifier-mes-coordonnees-bancaires-mon-rib-pour-payer-mes-impots
+  38. https://www.impots.gouv.fr/particulier/questions/comment-creer-votre-espace-particulier-pour-declarer-en-ligne
+  39. https://www.impots.gouv.fr/particulier/questions/jai-egare-les-identifiants-dacces-mon-espace-particulier-comment-puis-je-les-0
+  40. https://www.impots.gouv.fr/particulier/questions
+  41. https://twitter.com/intent/tweet?url=https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation&url=https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation&hashtags=Hashtag
+  42. http://www.facebook.com/share.php?u=https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation&title=J&#039;achète un bien pour le louer non meublé. Vais-je devoir payer la taxe d&#039;habitation ?
+  43. https://www.impots.gouv.fr/particulier/questions/jachete-un-bien-pour-le-louer-vais-je-devoir-payer-la-taxe-dhabitation
+  44. https://www.impots.gouv.fr/aide-en-ligne
+  45. https://www.impots.gouv.fr/confidentialite-informations-personnelles
+  46. https://www.impots.gouv.fr/securite-informatique-soyez-vigilants
+  47. https://www.impots.gouv.fr/ouverture-des-donnees-publiques-de-la-dgfip
+  48. https://www.economie.gouv.fr/aqsmi
+  49. https://www.impots.gouv.fr/supports-pedagogiques-et-citoyens
+  50. https://www.impots.gouv.fr/accessibilite
+  51. https://www.impots.gouv.fr/les-services-de-la-direction-generale-des-finances-publiques-accessibles-aux-sourds-et-malentendant
+  52. https://www.impots.gouv.fr/les-engagements-de-qualite-de-service
+  53. https://www.impots.gouv.fr/votre-avis-sur-le-site
+  54. https://www.impots.gouv.fr/gestion-des-cookies
+  55. https://www.impots.gouv.fr/particulier
+  56. https://www.impots.gouv.fr/professionnel
+  57. https://www.impots.gouv.fr/partenaire
+  58. https://www.impots.gouv.fr/collectivite
+  59. https://www.impots.gouv.fr/international
+  60. https://www.impots.gouv.fr/documentation
+  61. https://www.impots.gouv.fr/statistiques-et-donnees-produites-par-la-dgfip
+  62. https://www.impots.gouv.fr/contacts
+  63. https://www.impots.gouv.fr/nous-connaitre
+  64. https://www.impots.gouv.fr/site-rejoindrelesfinancespubliqueseconomiegouvfr
+  65. https://www.amendes.gouv.fr/portail/index.jsp
+  66. https://www.cadastre.gouv.fr/scpc/accueil.do
+  67. https://www.payfip.gouv.fr/tpa/accueilportail.web
+  68. https://timbres.impots.gouv.fr/
+  69. http://www.economie.gouv.fr/cessions
+  70. https://locations.immobilier-etat.gouv.fr/
+  71. https://encheres-domaine.gouv.fr/
+  72. https://retraitesdeletat.gouv.fr/
+  73. https://www.stationnement.gouv.fr/fps
+  74. https://timbres.impots.gouv.fr/pages/achat/redevance/informations.jsp
+  75. http://taxesejour.impots.gouv.fr/
+  76. http://www.collectivites-locales.gouv.fr/
+  77. http://www.economie.gouv.fr/
+  78. https://ciclade.caissedesdepots.fr/
+  79. http://www.facebook.com/pages/Direction-générale-des-Finances-publiques/250996308359760
+  80. https://twitter.com/dgfip_officiel
+  81. https://www.service-public.fr/
+  82. https://www.legifrance.gouv.fr/
+  83. https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+  84. https://www.impots.gouv.fr/mentions-legales
+
+   Liens cachés :
+  86. https://www.impots.gouv.fr/

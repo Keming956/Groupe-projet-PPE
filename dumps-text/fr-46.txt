@@ -1,0 +1,393 @@
+   #[1]alternate
+
+   (BUTTON) (BUTTON)
+   [2]logo header
+   Facebook Twitter Facebook (BUTTON)
+   (BUTTON) Rechercher
+
+     * [3]Actualités
+          + Informatique
+               o Ordinateurs
+               o Portables Gaming
+               o Processeurs
+               o Cartes graphiques
+               o SSD
+               o Cartes mères
+               o Mémoires
+               o Alimentations
+               o Boitiers
+               o Refroidissement
+          + Périphériques
+               o Ecrans
+               o Claviers
+               o Souris
+               o Manettes
+               o Casques
+          + Gaming
+               o Consoles
+               o Jeux-vidéo
+               o Overclocking
+               o Cloud Gaming
+               o RV et RA
+          + Logiciels
+               o Pilotes (Drivers)
+               o Applications
+               o Linux
+               o Android
+               o Windows
+               o iOS et MacOS
+          + Objets connectés
+               o Montres connectées
+               o Domotique
+               o TV
+          + [4]Mobilité
+               o [5]Automobile
+               o [6]Smartphones
+               o [7]Tablettes
+               o [8]APN
+          + Entreprises
+               o Développement
+               o IA
+               o Internet & Telecom
+               o R&D
+               o Sécurité
+     * [9]Tests
+     * [10]Guides d’achat
+     * [11]Dossiers
+     * [12]Tutos
+     * [13]Forum
+
+   Facebook Twitter Facebook (BUTTON)
+     * Contact
+
+   Recherchez
+   ____________________ (BUTTON) Lancer la recherche
+   <
+
+   Thèmes :
+     * [14]Nintendo Switch 2
+     * [15]AMD Ryzen
+     * [16]Counter-Strike 2
+     * [17]Bons plans
+
+   >
+
+     * [18]Tomshardware.fr
+
+     [19]Mobilité
+
+     [20]Smartphones
+
+     Le Touch ID va devoir se réinventer, ou disparaître complètement
+
+Le Touch ID va devoir se réinventer, ou disparaître complètement
+
+   Rémi Bouvet Rémi Bouvet
+   [21]Rémi Bouvet , le 23 novembre 2023 18:05
+   Facebook Twitter Whatsapp Reddit Share
+
+   Le Touch ID, abandonné depuis quelques séries pour les iPhone non-SE,
+   ne ferait pas son retour sur les iPhone 16. Apple envisagerait de
+   définitivement remiser ce système d’authentification, ou de le faire
+   évoluer pour l’intégrer sous l’écran.
+   Apple touch id(1) Apple touch id(1) © Apple
+
+   Apple a délaissé son système d’authentification Touch ID sur ses iPhone
+   standards depuis plusieurs années, et n’aurait pas l’intention de le
+   faire renaître avec ses [22]iPhone 16, attendus en 2024. De fait, la
+   marque a la pomme aurait cessé la production des puces utilisées par le
+   processus.
+
+   Depuis l’iPhone X de 2017, Apple a abandonné l’authentification via
+   Touch ID sur ses séries de smartphones haut et milieu de gammes.
+   Désormais, parmi les modèles proposés à la vente sur le site de la
+   marque, seul l’iPhone SE de 2022 armé d’une puce Bionic A15 exploite
+   toujours ce bouton dédié.
+
+Une intégration sous l’écran pour assurer le salut ?
+
+   Pour ceux qui n’ont jamais eu un produit Apple entre les mains,
+   précisons que Touch ID est un système de lecture d’empreinte digitale
+   qui sert au déverrouillage, au autorisation d’achats ou encore à la
+   connexion d’applications tierces via un bouton spécifique. Certains
+   appareils l’utilisent encore ; outre l’iPhone SE, citons l’iPad Air ou
+   encore l’iPad mini 6.
+
+   Depuis la série des iPhone 11, le système authentification a été
+   remplacé par Face ID, une technologie de reconnaissance faciale.
+   Celle-ci est toujours à l’œuvre sur les [23]iPhone 15 lancés récemment.
+
+   Des rumeurs suggéraient toutefois un possible retour du Touch ID avec
+   les iPhone 16. Cette allégation a été démentie par un utilisateur Weibo
+   a priori bien renseigné puisqu’il avait partagé des informations
+   confidentielles au sujet des iPhone 14 par le passé. De fait, même
+   l’iPhone SE 4 actuellement en préparation délaisserait le Touch ID au
+   profit du Face ID.
+
+   Pour l’avenir, les principales préoccupations d’Apple seraient plutôt
+   d’intégrer sa reconnaisse faciale directement via des capteurs
+   TrueDepth sous l’écran. L’objectif est bien sûr de maximiser la la
+   surface de l’écran en réduisant la place accordée à l’encoche. Ce
+   projet pourrait être concrétisé l’année prochaine avec les iPhone 16,
+   et plus spécifiquement avec [24]les modèles Pro, lesquels hériteraient
+   également de l’objectif photo de l’iPhone 15 Pro Max.
+
+   D’autres sources estiment néanmoins que les ingénieurs d’Apple
+   planchent sur une intégration similaire pour un retour du Touch ID à
+   l’avenir, avec un système d’identification directement sous l’écran, à
+   l’instar de ce que proposent de nombreux [25]smartphones Android depuis
+   maintenant plusieurs années.
+
+   Bref, en l’état, la seule quasi-certitude est que le Touch ID intégré à
+   un bouton semble définitivement appartenir au passé.
+
+   Source : [26]Weibo
+
+   👉 Vous utilisez Google News ? Ajoutez Tom's Hardware sur Google News
+   pour ne rater aucune actualité importante de notre site.
+   Rémi Bouvet Rémi Bouvet
+   [27]Rémi Bouvet
+   LinkedIn
+
+   Pas du tout convaincu que "c'était mieux avant", je préfère
+   m'intéresser à demain plutôt que fantasmer hier.
+
+La rédaction vous conseille aussi...
+
+     * samsung exynos samsung exynos
+       [28]L’Exynos 2400 enterre complètement la puce précédente de
+       Samsung
+     * iphone 15 pro max iphone 15 pro max
+       [29]Des pénuries d’iPhone 15 Pro à craindre, son nouvel écran met
+       en difficulté LG Display
+     * [30]Apple charge les batteries amovibles de l’UE, les iPhone y
+       perdraient en qualité et robustesse
+     * Iphone_15_Pro_Pro_Max Iphone_15_Pro_Pro_Max
+       [31]Une mise à jour protège l’iPhone 15 du chargeur des BMW
+     * Apple Batterie révolutionnaire 2025(1) Apple Batterie
+       révolutionnaire 2025(1)
+       [32]Apple planche sur des batteries révolutionnaires pour ses
+       montres et casques
+     * iPhone_14_Pro iPhone_14_Pro
+       [33]Pas de 5G maison pour l’iPhone 17, Apple aurait toujours besoin
+       de Qualcomm
+
+   Thèmes : [34]Apple
+   Facebook Messenger Twitter Linkedin Whatsapp Reddit Share
+   Veuillez laisser ce champ vide ____________________
+
+Votre Newsletter Tom's Hardware
+
+   📣 📣 Souscrivez à notre newsletter pour recevoir par email nos dernières
+   actualités !
+   Adresse e-mail * ____________________
+   Je m’abonne !
+   Politique de confidentialité
+
+   Vérifiez votre boite de réception ou votre répertoire d’indésirables
+   pour confirmer votre abonnement.
+
+   Suivre la discussion
+   M'alerter des
+   [nouveaux commentaires__________________]
+   ____________________
+   ›
+   guest guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Nom*
+   ____________________ E-mail*
+   ____________________ Site Web
+   [ ] Publier un commentaire
+   guest guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Nom*
+   ____________________ E-mail*
+   ____________________ Site Web
+   [ ] Publier un commentaire
+   0 Commentaires
+   Inline Feedbacks
+   View all comments
+       Les derniers articles
+          + Black Friday Apple 2023 Black Friday Apple 2023
+            [35]iPhone, iPad, MacBook : les meilleures offres du Black
+            Friday Apple 2023
+            26 novembre 2023 12:11
+          + Apple_Vision_Pro_trackpad Apple_Vision_Pro_trackpad
+            [36]L’Apple Vision Pro imagine le pavé tactile du futur
+            24 novembre 2023 16:45
+          + iphone 15 et 15 pro iphone 15 et 15 pro
+            [37]Le prochain iPhone sera-t-il protégé des regards
+            indiscrets ?
+            23 novembre 2023 11:50
+          + Vision Pro Vision Pro
+            [38]Vision Pro : mal placée, sa batterie pourrait changer de
+            place et libérer l’utilisateur
+            22 novembre 2023 14:31
+          + iPad_Pro_Daniel_Romero iPad_Pro_Daniel_Romero
+            [39]Apple prévoit un iPad Pro plus grand pour 2024, mais avec
+            des sacrifices
+            22 novembre 2023 12:23
+          + MacBook 5G 2028 Apple(1) MacBook 5G 2028 Apple(1)
+            [40]N’espérez pas de MacBook 5G avant la fin de la décennie
+            21 novembre 2023 11:45
+          + Apple vision pro 2024(2) Apple vision pro 2024(2)
+            [41]Vision Pro : le casque de réalité mixte d’Apple
+            n’arriverait pas sur votre tête avant mi-2024
+            20 novembre 2023 18:30
+          + MacBook_Pro_M3 MacBook_Pro_M3
+            [42]Apple mise sur l’OLED et le tactile pour ses futurs
+            MacBook Pro et Air
+            20 novembre 2023 16:32
+          + iPhone_14_Pro iPhone_14_Pro
+            [43]Pas de 5G maison pour l’iPhone 17, Apple aurait toujours
+            besoin de Qualcomm
+            17 novembre 2023 19:28
+          + MacBookProM3 MacBookProM3
+            [44]Le MacBook Pro M3 est quasi irréparable sans l’assistance
+            d’Apple
+            15 novembre 2023 15:45
+       chargement des articles chargement des articles
+
+   👉 Vous utilisez Google News ? Ajoutez Tom's Hardware sur Google News
+   pour ne rater aucune actualité importante de notre site.
+   🔥 Les Tendances
+     * [45]Nintendo Switch 2
+     * [46]Assassin's Creed : Nexus
+     * [47]Samsung Galaxy S24
+     * [48]Call of Duty : Modern Warfare III moins cher
+     * [49]Meilleurs smartphones Google en 2023
+     * [50]Meilleur PC pour jouer en 2023
+     * [51]Windows 11
+     * [52]Google Pixel 8 Pro
+     * [53]Apple iPhone 15
+
+   Veuillez laisser ce champ vide ____________________
+
+   📣 📣 Newsletter
+
+   Abonnez-vous à notre newsletter pour recevoir nos dernières actus par
+   mail !
+   Adresse e-mail * ____________________
+   Je m’abonne !
+   Politique de confidentialité
+
+   Vérifiez votre boite de réception ou votre répertoire d’indésirables
+   pour confirmer votre abonnement.
+
+   Entreprise
+     * Confidentialité et Cookies
+     * Mentions légales et CGU
+     * Préférences Cookies
+     * Qui sommes nous
+
+   À propos
+   [54]Archives
+     * [55]Contact
+
+   Tom's Hardware © 2023 Galaxie Media Tous droits réservés
+       Tom's Guide
+          + Call of Duty Modern Warfare 3 : ce glitch qui rend surpuissant
+            gâche le multijoueur Call of Duty Modern Warfare 3 : ce glitch
+            qui rend surpuissant gâche le multijoueur
+            27/11 [56]Call of Duty Modern Warfare 3 : ce glitch qui rend
+            surpuissant gâche le multijoueur
+          + Voiture européenne de l’année 2024 : quatre SUV électriques
+            élus, dont deux français Voiture européenne de l’année 2024 :
+            quatre SUV électriques élus, dont deux français
+            27/11 [57]Voiture européenne de l’année 2024 : quatre SUV
+            électriques élus, dont deux français
+          + Google Assistant : le bug de l’Aperçu persiste et agace les
+            utilisateurs Android Google Assistant : le bug de l’Aperçu
+            persiste et agace les utilisateurs Android
+            27/11 [58]Google Assistant : le bug de l’Aperçu persiste et
+            agace les utilisateurs Android
+          + PlayStation Portal : de gros problèmes de connexion à cause
+            d’une limitation des débits PlayStation Portal : de gros
+            problèmes de connexion à cause d’une limitation des débits
+            27/11 [59]PlayStation Portal : de gros problèmes de connexion
+            à cause d’une limitation des débits
+
+   wpDiscuz
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Insert
+
+Références
+
+   1. https://www.tomshardware.fr/wp-json/wp/v2/posts/868361
+   2. https://www.tomshardware.fr/
+   3. https://www.tomshardware.fr/category/actualite/
+   4. https://www.tomshardware.fr/category/mobilite/
+   5. https://www.tomshardware.fr/category/mobilite/automobile/
+   6. https://www.tomshardware.fr/category/mobilite/smartphones/
+   7. https://www.tomshardware.fr/category/mobilite/tablettes/
+   8. https://www.tomshardware.fr/category/mobilite/apn/
+   9. https://www.tomshardware.fr/category/test/
+  10. https://www.tomshardware.fr/category/comparatif/
+  11. https://www.tomshardware.fr/category/dossier/
+  12. https://www.tomshardware.fr/category/trucs-et-astuces/
+  13. https://forum.tomshardware.fr/
+  14. https://www.tomshardware.fr/tag/switch/
+  15. https://www.tomshardware.fr/tag/ryzen-7000-series/
+  16. https://www.tomshardware.fr/tag/counter-strike-2/
+  17. https://www.tomshardware.fr/tag/bons-plans/
+  18. https://www.tomshardware.fr/
+  19. https://www.tomshardware.fr/category/mobilite/
+  20. https://www.tomshardware.fr/category/mobilite/smartphones/
+  21. https://www.tomshardware.fr/author/remi/
+  22. https://www.tomshardware.fr/liphone-16-pro-misera-sur-une-batterie-en-metal-pour-ameliorer-ses-performances/
+  23. https://www.tomshardware.fr/iphone-15-ce-qui-faut-savoir/
+  24. https://www.tomshardware.fr/liphone-16-pro-devrait-adopter-lobjectif-photo-revolutionnaire-des-modeles-precedents/
+  25. https://www.tomshardware.fr/meilleurs-smartphones-de-2023-notre-guide-dachat-pour-mieux-choisir/
+  26. https://weibo.com/u/1833340431
+  27. https://www.tomshardware.fr/author/remi/
+  28. https://www.tomshardware.fr/lexynos-2400-enterre-completement-la-puce-precedente-de-samsung/
+  29. https://www.tomshardware.fr/des-penuries-diphone-15-pro-a-craindre-son-nouvel-ecran-met-en-difficulte-lg-display/
+  30. https://www.tomshardware.fr/apple-charge-les-batteries-amovibles-de-lue-les-iphone-y-perdraient-en-qualite-et-robustesse/
+  31. https://www.tomshardware.fr/une-mise-a-jour-protege-liphone-15-du-chargeur-des-bmw/
+  32. https://www.tomshardware.fr/apple-planche-sur-des-batteries-revolutionnaires-pour-ses-montres-et-casques/
+  33. https://www.tomshardware.fr/apple-prend-du-retard-dans-la-course-a-la-5g-liphone-17-pourrait-toujours-faire-appel-a-qualcomm/
+  34. https://www.tomshardware.fr/tag/apple/
+  35. https://www.tomshardware.fr/iphone-ipad-macbook-les-meilleures-offres-du-black-friday-apple/
+  36. https://www.tomshardware.fr/lapple-vision-pro-imagine-le-pave-tactile-du-futur/
+  37. https://www.tomshardware.fr/le-prochain-iphone-sera-t-il-protege-des-regards-indiscrets/
+  38. https://www.tomshardware.fr/vision-pro-mal-placee-sa-batterie-pourrait-changer-de-place-et-liberer-lutilisateur/
+  39. https://www.tomshardware.fr/apple-prevoit-un-ipad-pro-plus-grand-pour-2024-mais-avec-des-sacrifices/
+  40. https://www.tomshardware.fr/nesperez-pas-de-macbook-5g-avant-la-fin-de-la-decennie/
+  41. https://www.tomshardware.fr/vision-pro-le-casque-de-realite-mixte-dapple-narriverait-pas-sur-votre-tete-avant-mi-2024/
+  42. https://www.tomshardware.fr/apple-mise-sur-loled-et-le-tactile-pour-ses-futurs-macbook-pro-et-air/
+  43. https://www.tomshardware.fr/apple-prend-du-retard-dans-la-course-a-la-5g-liphone-17-pourrait-toujours-faire-appel-a-qualcomm/
+  44. https://www.tomshardware.fr/le-macbook-pro-m3-est-quasi-irreparable-sans-lassistance-dapple/
+  45. https://www.tomshardware.fr/test-nintendo-switch-2-design-performances-jeux-prix/
+  46. https://www.tomshardware.fr/assassins-creed-nexus-vr-gameplay-scenario-graphismes-tout-savoir-performances-test/
+  47. https://www.tomshardware.fr/samsung-galaxy-s24-prix-disponibilite-fiche-technique-tout-savoir-smartphone-android/
+  48. https://www.tomshardware.fr/call-of-duty-modern-warfare-3-pas-cher-ou-trouver-le-jeu-au-meilleur-prix/
+  49. https://www.tomshardware.fr/meilleurs-smartphones-google-notre-comparatif-pour-bien-choisir/
+  50. https://www.tomshardware.fr/guide-dachat-pc-gaming-toutes-les-marques-nos-8-selections/
+  51. https://www.tomshardware.fr/tag/windows-11/
+  52. https://www.tomshardware.fr/test-pixel-8-pro-faut-il-craquer-pour-le-smartphone-photo-de-google-booste-a-lia/
+  53. https://www.tomshardware.fr/iphone-15-ce-qui-faut-savoir/
+  54. https://www.tomshardware.fr/date/2023/11/
+  55. https://www.tomshardware.fr/contact/
+  56. https://www.tomsguide.fr/call-of-duty-modern-warfare-3-ce-glitch-qui-rend-surpuissant-gache-le-multijoueur/
+  57. https://www.tomsguide.fr/voiture-europeenne-de-lannee-2024-quatre-suv-electriques-elus-dont-deux-francais/
+  58. https://www.tomsguide.fr/google-assistant-le-bug-de-lapercu-persiste-et-agace-les-utilisateurs-android/
+  59. https://www.tomsguide.fr/playstation-portal-de-gros-problemes-de-connexion-a-cause-dune-limitation-des-debits/

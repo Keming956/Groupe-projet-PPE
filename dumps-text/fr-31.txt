@@ -1,0 +1,981 @@
+     * [1]Aller au contenu
+     * [2]Aller à la navigation
+
+     * (BUTTON) La galaxie Sénat
+     * (BUTTON) Réseaux sociaux
+          + [3]X / Twitter
+          + [4]Facebook
+          + [5]LinkedIn
+          + [6]Instagram
+          + [7]YouTube
+          + [8]TikTok
+
+     * [9]S'abonner
+     * (BUTTON) Langues
+          + [10]Français
+          + [11]English
+          + [12]Deutsch
+          + [13]Español
+          + [14]Português
+          + [15]Italiano
+          + [16]عربي
+          + [17]中文
+          + [18]Русский
+          + [19]Türk
+
+   (BUTTON) (BUTTON) Ouvrir la recherche
+     * (BUTTON) Travaux parlementaires
+       Travaux parlementaires
+       Le Sénat a pour missions premières le vote de la loi, le contrôle
+       du Gouvernement et l'évaluation des politiques publiques.
+       [20]En savoir plus
+          + (BUTTON) Séance publique
+               o [21]Découvrez le fonctionnement de la séance publique
+               o [22]Ordre du jour
+               o [23]Dérouleurs
+               o [24]Scrutins publics
+               o [25]Direct vidéo
+               o [26]Application "En séance"
+          + (BUTTON) Textes législatifs
+               o [27]Textes récents
+               o [28]Tous les textes
+          + (BUTTON) Contrôle et évaluation
+               o [29]Toute l'actualité du contrôle et de l'évaluation
+               o [30]Questions des sénateurs au Gouvernement
+               o [31]Suivi des ordonnances
+               o [32]Contrôle de l'application des lois
+               o [33]Programme de contrôle
+          + (BUTTON) Commissions
+               o [34]Découvrir le rôle et l'actualité des commissions
+               o [35]Commission des affaires économiques
+               o [36]Commission des affaires étrangères, de la défense et
+                 des forces armées
+               o [37]Commission des affaires sociales
+               o [38]Commission de l'aménagement du territoire et du
+                 développement durable
+               o [39]Commission de la culture, de l'éducation et de la
+                 communication
+               o [40]Commission des finances
+               o [41]Commission des lois
+               o [42]Commission des affaires européennes
+               o [43]Application "En commission"
+          + (BUTTON) Structures temporaires
+               o [44]Commissions d'enquête
+               o [45]Missions d'information communes
+               o [46]Commissions spéciales
+               o [47]Commissions mixtes paritaires
+          + (BUTTON) Office et délégations
+               o [48]Découvrir le rôle et l'actualité de l'office et des
+                 délégations
+               o [49]Délégation aux collectivités territoriales et à la
+                 décentralisation
+               o [50]Délégation aux droits des femmes et à l’égalité des
+                 chances entre les hommes et les femmes
+               o [51]Délégation aux entreprises
+               o [52]Délégation sénatoriale aux outre-mer
+               o [53]Délégation à la prospective
+               o [54]Délégation parlementaire au renseignement
+               o [55]Office parlementaire d’évaluation des choix
+                 scientifiques et technologiques (OPECST)
+          + [56]Groupes d'études
+          + (BUTTON) Rapports et documents de travail
+               o [57]Derniers rapports
+               o [58]Tous les rapports et documents de travail
+          + [59]Résolutions
+          + [60]Comptes rendus
+          + [61]L’activité du Sénat en chiffres
+     * (BUTTON) Vos sénateurs
+       Vos sénateurs
+       Découvrez qui sont vos sénateurs et suivez leurs principales
+       activités.
+       [62]En savoir plus
+          + (BUTTON) Recherche de sénateurs
+               o [63]Recherche simple de sénateurs
+               o [64]Recherche avancée de sénateurs
+          + [65]Présidence du Sénat
+          + [66]Sénatoriales 2023
+          + [67]Groupes politiques
+          + (BUTTON) Organisation interne
+               o [68]Bureau du Sénat
+               o [69]Conférence des Présidents
+               o [70]Conseil de Questure
+               o [71]Comité de déontologie
+               o [72]Commission spéciale chargée du contrôle des comptes
+                 et de l'évaluation interne
+          + (BUTTON) Déclarations
+               o [73]Déclarations de rattachement
+               o [74]Déclarations d'intérêts et d'activités
+          + [75]Activités principales des Sénateurs
+          + [76]Organismes extraparlementaires
+          + (BUTTON) Anciens sénateurs
+               o [77]Anciens sénateurs de la Vème République
+               o [78]Anciens sénateurs de la IVème République
+               o [79]Anciens sénateurs de la Communauté
+               o [80]Anciens sénateurs de la IIIème République
+               o [81]Anciens sénateurs du Second Empire
+               o [82]Pairs de France
+     * (BUTTON) Connaître le Sénat
+       Connaître le Sénat
+       Retrouvez toutes les informations clés sur le rôle, le
+       fonctionnement, l'histoire et le patrimoine du Sénat.
+       [83]En savoir plus
+          + [84]Rôle et fonctionnement
+          + [85]Sénat Junior
+          + [86]Documents de référence et guides pratiques
+          + [87]L’histoire du Sénat
+          + [88]Patrimoine
+          + [89]Jardin du Luxembourg
+          + [90]Événements et manifestations culturelles
+          + [91]Photothèque
+
+     * (BUTTON) Le Sénat et vous
+       Le Sénat et vous
+       Vous souhaitez participer à nos consultations, visiter le Sénat ou
+       même y travailler ?
+       [92]En savoir plus
+          + [93]Le Sénat pour les élus locaux
+          + (BUTTON) Participer aux consultations
+               o [94]Consultations citoyennes
+               o [95]Consultations des élus locaux
+          + [96]Déposer ou soutenir une pétition
+          + [97]Visiter le Sénat
+          + [98]Assister aux séances
+          + (BUTTON) Travailler au Sénat
+               o [99]Le Sénat recrute
+               o [100]Recrutement des fonctionnaires par concours
+               o [101]Fonctionnaires extérieurs
+               o [102]Contractuels
+               o [103]Faire son apprentissage au Sénat
+               o [104]Effectuer un stage au Sénat
+          + (BUTTON) Les prix décernés par le Sénat
+               o [105]Tous les prix du Sénat
+               o [106]Le prix du livre d'histoire
+               o [107]Le prix de thèse du Sénat
+               o [108]Le prix de la Fondation Jacques Descours Desacres
+               o [109]La bourse de recherche du Sénat
+     * (BUTTON) Europe et international
+       Europe et international
+       Découvrez l'action internationale et européenne du Sénat.
+       [110]En savoir plus
+          + (BUTTON) Le Sénat et l'Europe
+               o [111]Découvrir les activités européennes du Sénat
+               o [112]Commission des affaires européennes
+               o [113]Assemblée parlementaire du Conseil de l'Europe
+                 (APCE)
+               o [114]Assemblée parlementaire de l'OSCE
+               o [115]L'Europe en séance publique
+          + (BUTTON) Le Sénat à l'international
+               o [116]Découvrir les activités internationales du Sénat
+               o [117]Commission des affaires étrangères, de la défense et
+                 des forces armées
+               o [118]Groupes interparlementaires d'amitié
+               o [119]Assemblées interparlementaires
+               o [120]Coopération
+               o [121]Colloques et événements
+          + [122]Études de législation comparée
+          + [123]Le Sénat et les Français de l'étranger
+          + [124]Sénats d'Europe, Sénats du monde
+     * (BUTTON) Presse
+       Presse
+       Retrouvez dans cette section toutes les informations clés pour la
+       presse et les médias.
+       [125]En savoir plus
+          + [126]Auditions accessibles à la presse
+          + [127]Conférences de presse
+          + [128]Communiqués de presse
+          + [129]Informations pratiques
+          + [130]Boîte à outils
+          + [131]Nous contacter et nous suivre
+     * (BUTTON) Ouvrir la recherche
+
+     * (BUTTON) La galaxie Sénat
+     * (BUTTON) Langues
+          + [132]Français
+          + [133]English
+          + [134]Deutsch
+          + [135]Español
+          + [136]Português
+          + [137]Italiano
+          + [138]عربي
+          + [139]中文
+          + [140]Русский
+          + [141]Türk
+
+     * [142]Sénateurs
+     * [143]Ordre du jour
+     * [144]Vidéos
+     * [145]Travaux récents
+     * [146]Agenda
+
+   La galaxie Sénat
+   (BUTTON) Fermer
+
+   Retrouvez l’ensemble des sites internet et applications composant
+   l’écosystème du Sénat.
+     * [147]Vidéothèque
+     * [148]Audiothèque
+     * [149]E-petitions
+     * [150]La plateforme des élus locaux
+     * [151]Sénat Junior
+     * [152]Application "En séance"
+     * [153]Application "En commission"
+     * [154]Infox
+
+     * [155]Sénatoriales 2023
+     * [156]Open Data
+     * [157]Boutique officielle
+     * [158]Librairie en ligne
+     * [159]Public Sénat
+     * [160]Institut du Sénat
+     * [161]Jardin du Luxembourg
+     * [162]Musée du Luxembourg
+
+   Recherche rapide
+   (BUTTON) Fermer la recherche
+
+   Rechercher dans la base documentaire du Sénat et le reste du site.
+   ____________________
+   Affiner ma recherche :
+     * [ ] Dossiers législatifs
+     * [ ] Rapports d’information
+     * [ ] Questions parlementaires
+     * [ ] Comptes rendus
+     * [ ] Textes européens
+     * [ ] Documents de travail
+
+   (BUTTON) Lancer la recherche
+
+   Moteurs de recherche avancés
+     * [163]Sénateurs actifs
+     * [164]Dossiers législatifs
+     * [165]Questions parlementaires
+     * [166]Rapports d'informations
+     * [167]Comptes rendus de séance
+     * [168]Comptes rendus des commissions
+     * [169]Textes européens
+     * [170]Documents de travail
+
+   (BUTTON) Voir le fil d’Ariane
+    1. [171]Accueil
+    2. [172]Travaux parlementaires
+    3. [173]Rapports et documents de travail
+    4. [174]Rapports de commission d'enquête
+
+Le devoir de souveraineté numérique
+
+   Rapports de commission d'enquête
+
+   Rapport n° 7 (2019-2020), tome I, déposé le 1er octobre 2019
+
+(BUTTON) Les informations clés Les informations clés
+
+Nature
+
+   Rapport de commission d'enquête
+
+Structure en charge
+
+   [175]Commission d'enquête
+
+PRÉSIDENT
+
+   [176]Franck MONTAUGÉ
+
+RAPPORTEUR
+
+   [177]Gérard LONGUET
+
+ESSENTIEL
+
+     * [178]Voir l'essentiel
+
+NOTICE DU DOCUMENT
+
+   [179]Voir la notice
+
+   (BUTTON) Autres formats
+     * [180]PDF
+     * [181]En une page HTML
+     * [182]Version imprimée
+
+     * [183]Page précédente
+     * [184]Page suivante
+
+   Rapport n° 7 (2019-2020) de M. [185]Gérard LONGUET , fait au nom de la
+   commission d'enquête, déposé le 1er octobre 2019
+
+   Disponible au [186]format PDF (3,3 Moctets)
+
+   [187]Synthèse du rapport (178 Koctets)
+     * [188]PRINCIPALES RECOMMANDATIONS
+     * [189]AVANT-PROPOS
+          + [190]I. QUELS SCÉNARII FACE AUX MENACES PESANT SUR NOTRE
+            SOUVERAINETÉ ?
+               o [191]A. LA COMPÉTITION INTENSE ENTRE ÉTATS DANS LE
+                 CYBERESPACE
+                    # [192]1. La politique américaine : la recherche d'un
+                      leadership incontesté
+                         @ [193]a) Des relations complexes entre les Gafam
+                           et l'État américain
+                         @ [194]b) Une politique de la donnée basée sur
+                           une extraterritorialité juridique agressive
+                    # [195]2. La Chine : une politique numérique globale
+                      aux résultats encore incomplets
+                         @ [196]a) Le basculement de la Chine vers le
+                           cyberespace
+                         @ [197]b) Une souveraineté numérique chinoise
+                           encore relative
+                         @ [198]c) Politique économique dirigiste et
+                           arsenal juridique au service de la souveraineté
+                           numérique de la Chine
+                    # [199]3. La Russie : une stratégie numérique
+                      autoritaire adaptée à ses moyens et ses ambitions
+                         @ [200]a) La Russie investit les couches du
+                           cyberespace à sa portée
+                         @ [201]b) Elle déploie un arsenal juridique
+                           visant à garantir sa souveraineté
+                         @ [202]c) La Russie affiche une capacité de
+                           déstabilisation profonde du web
+               o [203]B. ÉTABLIR LA CONCURRENCE SUR LES MARCHÉS NUMÉRIQUES
+                    # [204]1. Une économie du monopole qui minore le
+                      potentiel économique de la France
+                         @ [205]a) Effets de réseau et rendements
+                           d'échelle, ferments d'une économie du monopole
+                         @ [206]b) Des abus de position dominante et des
+                           stratégies de croissance externe agressives.
+                         @ [207]c) Une minoration du potentiel économique
+                           de la France
+                    # [208]2. Le nécessaire renouvellement du droit de la
+                      concurrence.
+                         @ [209]a) La piste du démantèlement ne semble pas
+                           apporter de garanties suffisantes
+                         @ [210]b) Un renforcement du droit de la
+                           concurrence apparaît nécessaire
+                    # [211]3. L'émergence de nouvelles régulations
+                      sectorielles, et d'un cadre général de régulation ex
+                      ante
+                         @ [212]a) De premières initiatives encourageantes
+                           amenées à être complétées ?
+                         @ [213]b) Établir un cadre général de régulation
+                           ex ante des acteurs systémiques
+                    # [214]4. Un renforcement de la transparence de
+                      l'économie numérique.
+                         @ [215]a) Accroître la transparence : une
+                           tendance affirmée
+                         @ [216](1) La transparence envers les
+                           consommateurs : le nécessaire bilan
+                           d'application de la loi pour une République
+                           numérique.
+                         @ [217](2) La transparence envers les
+                           professionnels : l'entrée en vigueur à venir du
+                           règlement européen dit
+                           « Platform-to-business ».
+                         @ [218]b) Auditer les algorithmes plutôt que les
+                           rendre publics
+                         @ [219]c) Favoriser la régulation par la donnée
+                         @ [220]d) Renforcer l'observatoire de l'économie
+                           des plateformes en ligne créé au niveau
+                           européen
+               o [221]C. PRÉSERVER NOTRE ORDRE JURIDIQUE EN RENFORÇANT
+                 NOTRE MAÎTRISE DES DONNÉES ET NOTRE CAPACITÉ À RÉGULER
+                 LES PLATEFORMES
+                    # [222]1. La souveraineté de l'État remise en cause
+                      par la « révolution des données »
+                         @ [223]a) Les données, matière première du
+                           cyberespace
+                         @ [224]b) Les défis de la « révolution des
+                           données » pour notre ordre juridique
+                    # [225]2. Développer l'identité numérique garantie par
+                      l'État
+                    # [226]3. Renforcer les moyens des régulateurs à la
+                      hauteur du défi numérique plutôt que créer un unique
+                      régulateur du numérique
+                         @ [227]a) Éviter de bouleverser une architecture
+                           administrative qui fonctionne
+                         @ [228]b) Renforcer les moyens humains des
+                           régulateurs et approfondir leur mutualisation
+                    # [229]4. Mieux responsabiliser certaines plateformes
+                      en affinant le régime de responsabilité aménagée des
+                      intermédiaires techniques ?
+                    # [230]5. Localisation des données et
+                      extraterritorialité des lois : assumer un rapport de
+                      force international
+                         @ [231]a) L'obligation de localisation
+                           géographique : une solution imparfaite
+                         @ [232]b) Défendre nos données stratégiques
+                           contre l'extraterritorialité de lois
+                           étrangères : un rapport de force qui reste à
+                           engager
+                    # [233]6. Au-delà du RGPD : passer d'un droit à la
+                      portabilité à une forme d'interopérabilité ?
+                         @ [234]a) Une première année d'application du
+                           RGPD, outil ambitieux au service des valeurs et
+                           de la souveraineté numérique européennes
+                         @ [235]b) Aller plus loin : instaurer une
+                           obligation d'interopérabilité ?
+               o [236]D. RÉPONDRE AU DÉFI FISCAL LANCÉ PAR LES GRANDES
+                 ENTREPRISES DU NUMÉRIQUE : UN ENJEU DE SOUVERAINETÉ ET
+                 D'ÉQUITÉ
+                    # [237]1. L'impôt contourné
+                         @ [238]a) Les entreprises du numérique sont
+                           régulièrement accusées de contourner les règles
+                           d'imposition nationales
+                         @ [239]b) La taxe française sur les services
+                           numériques : une réaction justifiée mais
+                           périlleuse
+                    # [240]2. Modifier nos règles d'imposition : un
+                      monopole régalien et une opportunité pour
+                      l'attractivité de notre territoire
+                         @ [241]a) La taxe sur les services numériques :
+                           une démarche incomplète
+                         @ [242]b) Parvenir à un accord mondial sur la
+                           fiscalité
+                         @ [243]c) La fiscalité, un enjeu d'attractivité
+               o [244]E. DEVENIR PROACTIF ET INNOVANT DANS LE DOMAINE
+                 MONÉTAIRE
+                    # [245]1. Les cryptoactifs : la monnaie concurrencée ?
+                    # [246]2. Répondre au défi des cryptoactifs : la
+                      perspective d'une cryptomonnaie banque centrale
+                         @ [247]a) Les projets développés par les acteurs
+                           privés doivent inciter la puissance publique à
+                           agir plus rapidement dans ce domaine
+                         @ [248]b) Une piste de réaction à explorer : la
+                           cryptomonnaie de banque centrale
+                         @ [249]c) Soutenir le développement d'acteurs
+                           européens des systèmes de paiement : un enjeu
+                           de souveraineté méconnu mais crucial
+          + [250]II. COMMENT REMPORTER LE DÉFI DE LA SOUVERAINETÉ
+            NUMÉRIQUE ?
+               o [251]A. POUR RELEVER LE DÉFI DE LA SOUVERAINETÉ
+                 NUMÉRIQUE : FÉDÉRER ET ANTICIPER
+                    # [252]1. Créer un forum institutionnel pour remédier
+                      à une gouvernance insatisfaisante
+                         @ [253]a) Le consensus : la France et l'Union
+                           européenne à la croisée des chemins
+                         @ [254]b) Donner l'impulsion fédératrice
+                           nécessaire
+                    # [255]2. Créer un moment politique récurrent au
+                      service de la souveraineté numérique nationale
+               o [256]B. LA CYBERDÉFENSE DOIT RESTER UNE PRIORITÉ
+                    # [257]1. La mise en oeuvre d'une cyberdéfense
+                      française : pour une autonomie française dans le
+                      cyberespace
+                         @ [258]a) Des menaces avérées
+                         @ [259]b) Une lente montée en puissance de la
+                           cyberdéfense
+                         @ [260]c) La revue de cyberdéfense de 2018 : un
+                           document stratégique structurant
+                    # [261]2. Des actions probantes dans le domaine de la
+                      cybersécurité
+                         @ [262]a) Un système efficace, désormais offensif
+                           en cas d'attaque
+                         @ [263]b) ... objet de l'attention de votre
+                           commission d'enquête : un bilan positif de la
+                           revue stratégique de cyberdéfense
+                    # [264]3. Des orientations à soutenir : la promotion
+                      de la vision française et le développement du
+                      chiffrement
+                         @ [265]a) La promotion à l'international de la
+                           vision française de cybersécurité
+                         @ [266]b) L'enjeu de la protection des données
+                           stratégiques : quel chiffrement pour quelles
+                           données ?
+               o [267]C. FAVORISER LE DÉPLOIEMENT DES INFRASTRUCTURES
+                 NUMÉRIQUES SUR NOTRE TERRITOIRE.
+                    # [268]1. Être attractif dans le domaine des câbles
+                      sous-marins
+                    # [269]2. Accélérer la couverture numérique du
+                      territoire
+                    # [270]3. Accroître l'attractivité de la France pour
+                      l'implantation des centres de données
+                    # [271]4. Favoriser la constitution de bases de
+                      données massives
+               o [272]D. SE DONNER LES MOYENS DE LA SOUVERAINETÉ NUMÉRIQUE
+                 À TRAVERS UNE VÉRITABLE POLITIQUE INDUSTRIELLE SOUTENANT
+                 LE DÉVELOPPEMENT DES TECHNOLOGIES CLÉS.
+                    # [273]1. Sécuriser les approvisionnements et les
+                      solutions utilisées par les secteurs sensibles
+                      plutôt que créer ex nihilo des solutions déjà
+                      dominées par des acteurs prépondérants.
+                         @ [274]a) Les difficultés techniques et
+                           financières de créer des solutions ex nihilo
+                           sur des marchés déjà dominés.
+                         @ [275]b) Sécuriser les approvisionnements et les
+                           solutions utilisées par les secteurs sensibles
+                    # [276]2. Assumer le soutien direct au développement
+                      des technologies et outils dont la France doit avoir
+                      la maîtrise technique.
+                         @ [277]a) Préserver et soutenir la base
+                           économique existante
+                         @ [278]b) Cloud et intelligence artificielle :
+                           une stratégie basée sur la différenciation
+                         @ [279](1) Le « cloud de confiance » : une
+                           initiative bienvenue mais qui tarde à se
+                           concrétiser.
+                         @ [280](2) L'intelligence artificielle :
+                           l'émergence trop lente d'une stratégie
+                           nationale.
+                         @ [281]c) Développer les technologies d'avenir :
+                           ordinateur quantique et blockchain
+                         @ [282](1) La blockchain, un outil d'avenir pour
+                           défendre notre souveraineté ?
+                         @ [283](2) Entrer dans la course des technologies
+                           quantiques.
+                    # [284]3. Mobiliser tous les leviers de la politique
+                      industrielle
+                    # [285]4. Renforcer la place des acteurs français et
+                      européens dans les organismes de normalisation et de
+                      gouvernance d'internet.
+               o [286]E. POUR COMBLER NOTRE RETARD, LA NÉCESSITÉ DE
+                 MOBILISER LE CAPITAL FINANCIER ET HUMAIN
+                    # [287]1. Améliorer les dispositifs du capital-risque
+                      et du crédit d'impôt recherche
+                         @ [288]a) Un manque de profondeur du
+                           capital-risque en France ?
+                         @ [289]b) Le crédit d'impôt recherche : un
+                           dispositif favorable à clarifier
+                         @ [290]c) Sur le rachat des pépites
+                           technologiques et le financement de
+                           l'innovation en France
+                         @ [291]d) Recruter et fidéliser les talents
+                    # [292]2. Maintenir l'excellence de nos formations et
+                      renforcer les liens entre la recherche publique et
+                      le secteur privé
+                         @ [293]a) La formation initiale : un atout à
+                           conserver
+                         @ [294]b) Les liens entre la recherche publique
+                           et le secteur privé : des progrès louables mais
+                           insuffisants
+                         @ [295]c) Une attention particulière à porter aux
+                           doctorants
+                    # [296]3. Défendre notre souveraineté nationale,
+                      s'appuyer sur l'échelon européen
+     * [297]EXAMEN EN COMMISSION
+     * [298]LISTE DES PERSONNES ENTENDUES PAR LA COMMISSION
+     * [299]LISTE DES PERSONNES ENTENDUES PAR LE PRÉSIDENT ET LE
+       RAPPORTEUR
+     * [300]DÉPLACEMENT À BRUXELLES LES 17 ET 18 JUIN 2019
+     * [301]ANNEXE 1 : LES GAFAM OU LE PAROXYSME DE LA PUISSANCE
+       ÉCONOMIQUE FACE À L'ÉTAT
+          + [302]a) Les Gafam ont atteint une ampleur systémique
+          + [303]b) Ils développent des services en concurrence avec les
+            missions régaliennes de l'État
+          + [304]c) Ils font preuve d'un rapport ambigu aux législations
+            nationales
+          + [305](1) Ces acteurs établis à l'étranger sont des
+            spécialistes de l'optimisation juridique et fiscale
+          + [306](2) Réciproquement, ils créent leurs propres normes...
+          + [307](3) ...et entendent influencer la décision publique
+     * [308]ANNEXE 2 : SYNTHÈSE DES RAPPORTS DE L'OPECST
+     * [309]ANNEXE 3 : RAPPORT ÉTUDIANT LA POSSIBILITÉ DE CRÉER UN
+       COMMISSARIAT À LA SOUVERAINETÉ NUMÉRIQUE
+
+     * [310]Page précédente
+     * [311]Page suivante
+
+Les thèmes associés à ce dossier
+
+     * [312]Société
+     * [313]Affaires étrangères et coopération
+     * [314]Recherche, sciences et techniques
+
+   Page mise à jour le 3 avril 2023
+   Partager cette page
+     * [315]X
+     * [316]Facebook
+     * [317]LinkedIn
+     * [318]E-mail
+
+   Nous suivre sur les réseaux
+     * [319]X / Twitter
+     * [320]Facebook
+     * [321]LinkedIn
+     * [322]Instagram
+     * [323]YouTube
+     * [324]TikTok
+
+   Liens pratiques
+     * [325]Foire aux questions
+     * [326]Recrutement et stages
+     * [327]Biens réformés
+     * [328]Marchés publics
+     * [329]Facturation
+     * [330]Représentants d'intérêts
+
+   Services
+     * [331]Visiter le Sénat
+     * [332]Les abonnements du Sénat
+     * [333]Participer aux consultations
+     * [334]Déposer ou soutenir une pétition
+     * [335]Flux RSS
+     * [336]Accéder au Règlement du Sénat
+
+
+    Le Sénat
+    15, rue de Vaugirard
+    75291 Paris Cedex 06
+    Standard : [337]+33 (0)1 42 34 20 00
+
+   [338]Nous contacter
+
+     * [339]Mentions légales
+     * [340]Plan du site
+     * [341]Accessibilité : partiellement conforme
+     * [342]Données personnelles
+     * [343]Gestion des cookies
+     * [344]Intr@Sénat
+
+   © Sénat 2023. Tous droits réservés.
+
+   (BUTTON)
+
+Références
+
+   Liens visibles :
+   1. https://www.senat.fr/rap/r19-007-1/r19-007-1.html#main
+   2. https://www.senat.fr/rap/r19-007-1/r19-007-1.html#nav
+   3. https://twitter.com/senat
+   4. https://www.facebook.com/senat.fr/
+   5. https://www.linkedin.com/company/senat/
+   6. https://www.instagram.com/senat_fr/
+   7. https://www.youtube.com/c/senat
+   8. https://www.tiktok.com/@senat_fr
+   9. https://www.senat.fr/les-abonnements-du-senat.html
+  10. https://www.senat.fr/
+  11. https://www.senat.fr/lng/en.html
+  12. https://www.senat.fr/lng/de.html
+  13. https://www.senat.fr/lng/es.html
+  14. https://www.senat.fr/lng/pt.html
+  15. https://www.senat.fr/lng/it.html
+  16. https://www.senat.fr/lng/ar.html
+  17. https://www.senat.fr/lng/cn.html
+  18. https://www.senat.fr/lng/ru.html
+  19. https://www.senat.fr/lng/tr.html
+  20. https://www.senat.fr/travaux-parlementaires.html
+  21. https://www.senat.fr/travaux-parlementaires/seance-publique.html
+  22. https://www.senat.fr/ordre-du-jour/ordre-du-jour.html
+  23. https://www.senat.fr/travaux-parlementaires/seance-publique/derouleurs.html
+  24. https://www.senat.fr/scrutin-public/scr2023.html
+  25. http://videos.senat.fr/video/seance_direct.html
+  26. https://www.senat.fr/enseance/textes/accueil.html
+  27. https://www.senat.fr/dossiers-legislatifs/textes-recents.html
+  28. https://www.senat.fr/leg/
+  29. https://www.senat.fr/travaux-parlementaires/controle-et-evaluation.html
+  30. https://www.senat.fr/travaux-parlementaires/controle-et-evaluation/questions-des-senateurs-au-gouvernement.html
+  31. https://www.senat.fr/travaux-parlementaires/controle-et-evaluation/suivi-des-ordonnances.html
+  32. https://www.senat.fr/travaux-parlementaires/controle-et-evaluation/controle-de-lapplication-des-lois.html
+  33. https://www.senat.fr/controle/2022/organismes.html
+  34. https://www.senat.fr/travaux-parlementaires/commissions.html
+  35. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-economiques.html
+  36. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-etrangeres-de-la-defense-et-des-forces-armees.html
+  37. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-sociales.html
+  38. https://www.senat.fr/travaux-parlementaires/commissions/commission-de-lamenagement-du-territoire-et-du-developpement-durable.html
+  39. https://www.senat.fr/travaux-parlementaires/commissions/commission-de-la-culture-de-leducation-et-de-la-communication.html
+  40. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-finances.html
+  41. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois.html
+  42. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-europeennes.html
+  43. https://www.senat.fr/encommission/textes/accueil.html
+  44. https://www.senat.fr/travaux-parlementaires/structures-temporaires/commissions-denquete.html
+  45. https://www.senat.fr/travaux-parlementaires/structures-temporaires/missions-dinformation-communes.html
+  46. https://www.senat.fr/travaux-parlementaires/structures-temporaires/commissions-speciales.html
+  47. https://www.senat.fr/travaux-parlementaires/structures-temporaires/commissions-mixtes-paritaires.html
+  48. https://www.senat.fr/travaux-parlementaires/office-et-delegations.html
+  49. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-aux-collectivites-territoriales-et-a-la-decentralisation.html
+  50. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-aux-droits-des-femmes-et-a-legalite-des-chances.html
+  51. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-aux-entreprises.html
+  52. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-senatoriale-aux-outre-mer.html
+  53. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-a-la-prospective.html
+  54. https://www.senat.fr/travaux-parlementaires/office-et-delegations/delegation-parlementaire-au-renseignement.html
+  55. https://www.senat.fr/travaux-parlementaires/office-et-delegations/office-parlementaire-devaluation-des-choix-scientifiques-et-technologiques.html
+  56. https://www.senat.fr/groupe-etude/etulst.html
+  57. https://www.senat.fr/rapports/derniers-rapports.html
+  58. https://www.senat.fr/rap/
+  59. https://www.senat.fr/dossiers-legislatifs/resolutions.html
+  60. https://www.senat.fr/seances/comptes-rendus.html
+  61. https://www.senat.fr/travaux-parlementaires/lactivite-du-senat-en-chiffres.html
+  62. https://www.senat.fr/vos-senateurs.html
+  63. https://www.senat.fr/vos-senateurs.html
+  64. https://www.senat.fr/vos-senateurs/recherche-de-senateurs/recherche-avancee-de-senateurs.html
+  65. https://www.senat.fr/vos-senateurs/presidence-du-senat.html
+  66. https://senatoriales2023.senat.fr/
+  67. https://www.senat.fr/vos-senateurs/groupes-politiques.html
+  68. https://www.senat.fr/vos-senateurs/organisation-interne/bureau.html
+  69. https://www.senat.fr/vos-senateurs/organisation-interne/conference-des-presidents.html
+  70. https://www.senat.fr/vos-senateurs/organisation-interne/conseil-de-questure.html
+  71. https://www.senat.fr/vos-senateurs/organisation-interne/comite-de-deontologie.html
+  72. https://www.senat.fr/vos-senateurs/organisation-interne/commission-speciale-chargee-du-controle-des-comptes-et-de-levaluation-interne.html
+  73. https://www.senat.fr/vos-senateurs/declarations/declarations-de-rattachement.html
+  74. https://www.senat.fr/declarations_activites_interets/index.html
+  75. https://www.senat.fr/calendrier_activite/activites-principales-des-senateurs.html
+  76. https://www.senat.fr/vos-senateurs/organismes-extraparlementaires.html
+  77. https://www.senat.fr/vos-senateurs/anciens-senateurs/veme-republique.html
+  78. https://www.senat.fr/vos-senateurs/anciens-senateurs/iveme-republique.html
+  79. https://www.senat.fr/vos-senateurs/anciens-senateurs/communaute.html
+  80. https://www.senat.fr/vos-senateurs/anciens-senateurs/iiieme-republique.html
+  81. https://www.senat.fr/vos-senateurs/anciens-senateurs/second-empire.html
+  82. https://www.senat.fr/pairs_de_france/liste.html
+  83. https://www.senat.fr/connaitre-le-senat.html
+  84. https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement.html
+  85. http://junior.senat.fr/accueil.html
+  86. https://www.senat.fr/connaitre-le-senat/documents-de-reference-et-guides-pratiques.html
+  87. https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat.html
+  88. https://www.senat.fr/connaitre-le-senat/patrimoine.html
+  89. https://jardin.senat.fr/
+  90. https://www.senat.fr/connaitre-le-senat/evenements-et-manifestations-culturelles.html
+  91. https://www.senat.fr/connaitre-le-senat/phototheque.html
+  92. https://www.senat.fr/le-senat-et-vous.html
+  93. https://www.senat.fr/le-senat-et-vous/le-senat-pour-les-elus-locaux.html
+  94. https://www.senat.fr/le-senat-et-vous/participer-aux-consultations/consultations-citoyennes.html
+  95. https://www.senat.fr/le-senat-et-vous/participer-aux-consultations/pour-les-elus-locaux.html
+  96. https://petitions.senat.fr/
+  97. https://www.senat.fr/le-senat-et-vous/visiter-le-senat.html
+  98. https://www.senat.fr/le-senat-et-vous/assister-aux-seances.html
+  99. https://www.senat.fr/le-senat-et-vous/travailler-au-senat.html
+ 100. https://www.senat.fr/le-senat-et-vous/travailler-au-senat/recrutement-des-fonctionnaires-par-concours.html
+ 101. https://www.senat.fr/le-senat-et-vous/travailler-au-senat/fonctionnaires-exterieurs.html
+ 102. https://www.senat.fr/le-senat-et-vous/travailler-au-senat/effectuer-un-stage-au-senat/contractuels.html
+ 103. https://www.senat.fr/le-senat-et-vous/travailler-au-senat/faire-son-apprentissage-au-senat.html
+ 104. https://www.senat.fr/le-senat-et-vous/travailler-au-senat/effectuer-un-stage-au-senat.html
+ 105. https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat.html
+ 106. https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/le-prix-du-livre-dhistoire.html
+ 107. https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/le-prix-de-these-du-senat.html
+ 108. https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/le-prix-de-la-fondation-jacques-descours-desacres.html
+ 109. https://www.senat.fr/le-senat-et-vous/les-prix-decernes-par-le-senat/la-bourse-de-recherche-du-senat.html
+ 110. https://www.senat.fr/europe-et-international.html
+ 111. https://www.senat.fr/europe-et-international/europe.html
+ 112. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-europeennes.html
+ 113. https://www.senat.fr/europe-et-international/europe/assemblee-parlementaire-du-conseil-de-leurope.html
+ 114. https://www.senat.fr/europe-et-international/europe/assemblee-parlementaire-de-losce.html
+ 115. https://www.senat.fr/europe-et-international/europe/leurope-en-seance-publique.html
+ 116. https://www.senat.fr/europe-et-international/international.html
+ 117. https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-etrangeres-de-la-defense-et-des-forces-armees.html
+ 118. https://www.senat.fr/europe-et-international/international/groupes-interparlementaires-damitie.html
+ 119. https://www.senat.fr/europe-et-international/international/assemblees-interparlementaires.html
+ 120. https://www.senat.fr/europe-et-international/international/cooperation.html
+ 121. https://www.senat.fr/europe-et-international/international/colloques-et-evenements.html
+ 122. https://www.senat.fr/europe-et-international/etudes-de-legislation-comparee.html
+ 123. https://www.senat.fr/europe-et-international/le-senat-et-les-francais-de-letranger.html
+ 124. https://www.senat.fr/europe-et-international/senats-deurope-senats-du-monde.html
+ 125. https://www.senat.fr/salle-de-presse.html
+ 126. https://www.senat.fr/salle-de-presse/auditions-accessibles-a-la-presse-1-1-1.html
+ 127. https://www.senat.fr/salle-de-presse/dernieres-conferences-de-presse.html
+ 128. https://www.senat.fr/communiques/index.html
+ 129. https://www.senat.fr/salle-de-presse/informations-pratiques.html
+ 130. https://www.senat.fr/salle-de-presse/boite-a-outils.html
+ 131. https://www.senat.fr/salle-de-presse/nous-contacter-et-nous-suivre.html
+ 132. https://www.senat.fr/
+ 133. https://www.senat.fr/lng/en.html
+ 134. https://www.senat.fr/lng/de.html
+ 135. https://www.senat.fr/lng/es.html
+ 136. https://www.senat.fr/lng/pt.html
+ 137. https://www.senat.fr/lng/it.html
+ 138. https://www.senat.fr/lng/ar.html
+ 139. https://www.senat.fr/lng/cn.html
+ 140. https://www.senat.fr/lng/ru.html
+ 141. https://www.senat.fr/lng/tr.html
+ 142. https://www.senat.fr/vos-senateurs.html
+ 143. https://www.senat.fr/ordre-du-jour/ordre-du-jour.html
+ 144. https://videos.senat.fr/index
+ 145. https://www.senat.fr/rapports/travaux-recents.html
+ 146. https://www.senat.fr/aglae/Global/index.html
+ 147. https://videos.senat.fr/index
+ 148. https://audio.senat.fr/
+ 149. https://petitions.senat.fr/
+ 150. https://participation.senat.fr/
+ 151. http://junior.senat.fr/accueil.html
+ 152. https://www.senat.fr/enseance/textes/accueil.html
+ 153. https://www.senat.fr/encommission/textes/accueil.html
+ 154. https://infox.senat.fr/
+ 155. https://senatoriales2023.senat.fr/
+ 156. https://data.senat.fr/
+ 157. https://boutique.senat.fr/
+ 158. https://www.senat.fr/librairie_du_senat.html
+ 159. https://www.publicsenat.fr/
+ 160. https://www.senat.fr/institutdusenat/index.html
+ 161. https://jardin.senat.fr/
+ 162. https://museeduluxembourg.fr/fr
+ 163. https://www.senat.fr/vos-senateurs/recherche-de-senateurs/recherche-avancee-de-senateurs.html
+ 164. https://www.senat.fr/basile/rechercheDosleg.do?rch=da&rch=&dp=1+an&radio=dp&aff=sep&tri=p&off=0&afd=ppr&afd=ppl&afd=pjl&afd=cvn&&noSearch=true
+ 165. https://www.senat.fr/basile/rechercheQuestion.do?rch=qa&rch=&dp=1+an&radio=dp&aff=sep&tri=p&off=0&afd=ppr&afd=ppl&afd=pjl&afd=cvn&&noSearch=true
+ 166. https://www.senat.fr/basile/rechercheRapport.do?rch=ra&rch=&dp=1+an&radio=dp&aff=sep&tri=p&off=0&afd=ppr&afd=ppl&afd=pjl&afd=cvn&&noSearch=true
+ 167. https://www.senat.fr/basile/rechercheSeance.do
+ 168. https://www.senat.fr/basile/rechercheAutresCRCom.do
+ 169. https://www.senat.fr/basile/recherchePAC.do
+ 170. https://www.senat.fr/basile/rechercheDoctravail.do
+ 171. https://www.senat.fr/
+ 172. https://www.senat.fr/somtravaux.html
+ 173. https://www.senat.fr/rapsen.html
+ 174. https://www.senat.fr/commission/enquete/index.html#rap
+ 175. https://www.senat.fr/commission/enquete/index.html
+ 176. https://www.senat.fr/senateur/montauge_franck14257w.html
+ 177. https://www.senat.fr/senateur/longuet_gerard01048v.html
+ 178. https://www.senat.fr/rap/r19-007-1/r19-007-1-syn.pdf
+ 179. https://www.senat.fr/notice-rapport/2019/r19-007-1-notice.html
+ 180. https://www.senat.fr/rap/r19-007-1/r19-007-11.pdf
+ 181. https://www.senat.fr/rap/r19-007-1/r19-007-1_mono.html
+ 182. https://www.senat.fr/travaux-parlementaires/librairie-du-senat.html
+ 183. https://www.senat.fr/rap/r19-007-1/r19-007-1.html
+ 184. https://www.senat.fr/rap/r19-007-1/r19-007-10.html
+ 185. https://www.senat.fr/senateur/longuet_gerard01048v.html
+ 186. https://www.senat.fr/rap/r19-007-1/r19-007-11.pdf
+ 187. https://www.senat.fr/rap/r19-007-1/r19-007-1-syn.pdf
+ 188. https://www.senat.fr/rap/r19-007-1/r19-007-10.html#toc0
+ 189. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc1
+ 190. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc5
+ 191. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc9
+ 192. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc13
+ 193. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc17
+ 194. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc21
+ 195. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc25
+ 196. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc29
+ 197. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc33
+ 198. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc37
+ 199. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc41
+ 200. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc45
+ 201. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc49
+ 202. https://www.senat.fr/rap/r19-007-1/r19-007-11.html#toc53
+ 203. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc57
+ 204. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc61
+ 205. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc65
+ 206. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc69
+ 207. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc73
+ 208. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc77
+ 209. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc81
+ 210. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc85
+ 211. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc89
+ 212. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc93
+ 213. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc97
+ 214. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc101
+ 215. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc105
+ 216. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc110
+ 217. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc115
+ 218. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc119
+ 219. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc123
+ 220. https://www.senat.fr/rap/r19-007-1/r19-007-12.html#toc127
+ 221. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc131
+ 222. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc135
+ 223. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc139
+ 224. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc143
+ 225. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc147
+ 226. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc151
+ 227. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc155
+ 228. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc159
+ 229. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc163
+ 230. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc167
+ 231. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc171
+ 232. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc175
+ 233. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc179
+ 234. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc183
+ 235. https://www.senat.fr/rap/r19-007-1/r19-007-13.html#toc187
+ 236. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc191
+ 237. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc195
+ 238. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc199
+ 239. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc203
+ 240. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc207
+ 241. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc211
+ 242. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc215
+ 243. https://www.senat.fr/rap/r19-007-1/r19-007-14.html#toc219
+ 244. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc223
+ 245. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc227
+ 246. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc231
+ 247. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc235
+ 248. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc239
+ 249. https://www.senat.fr/rap/r19-007-1/r19-007-15.html#toc243
+ 250. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc248
+ 251. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc252
+ 252. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc256
+ 253. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc260
+ 254. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc264
+ 255. https://www.senat.fr/rap/r19-007-1/r19-007-16.html#toc268
+ 256. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc272
+ 257. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc276
+ 258. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc280
+ 259. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc284
+ 260. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc288
+ 261. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc292
+ 262. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc296
+ 263. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc300
+ 264. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc304
+ 265. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc308
+ 266. https://www.senat.fr/rap/r19-007-1/r19-007-17.html#toc312
+ 267. https://www.senat.fr/rap/r19-007-1/r19-007-18.html#toc316
+ 268. https://www.senat.fr/rap/r19-007-1/r19-007-18.html#toc320
+ 269. https://www.senat.fr/rap/r19-007-1/r19-007-18.html#toc324
+ 270. https://www.senat.fr/rap/r19-007-1/r19-007-18.html#toc328
+ 271. https://www.senat.fr/rap/r19-007-1/r19-007-18.html#toc332
+ 272. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc336
+ 273. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc340
+ 274. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc344
+ 275. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc348
+ 276. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc352
+ 277. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc356
+ 278. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc360
+ 279. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc365
+ 280. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc370
+ 281. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc374
+ 282. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc379
+ 283. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc384
+ 284. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc388
+ 285. https://www.senat.fr/rap/r19-007-1/r19-007-19.html#toc392
+ 286. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc396
+ 287. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc400
+ 288. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc404
+ 289. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc408
+ 290. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc412
+ 291. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc416
+ 292. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc420
+ 293. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc424
+ 294. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc428
+ 295. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc432
+ 296. https://www.senat.fr/rap/r19-007-1/r19-007-110.html#toc436
+ 297. https://www.senat.fr/rap/r19-007-1/r19-007-111.html#toc437
+ 298. https://www.senat.fr/rap/r19-007-1/r19-007-112.html#toc438
+ 299. https://www.senat.fr/rap/r19-007-1/r19-007-113.html#toc439
+ 300. https://www.senat.fr/rap/r19-007-1/r19-007-113.html#toc440
+ 301. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc441
+ 302. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc445
+ 303. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc449
+ 304. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc453
+ 305. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc458
+ 306. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc463
+ 307. https://www.senat.fr/rap/r19-007-1/r19-007-114.html#toc468
+ 308. https://www.senat.fr/rap/r19-007-1/r19-007-115.html#toc469
+ 309. https://www.senat.fr/rap/r19-007-1/r19-007-116.html#toc470
+ 310. https://www.senat.fr/rap/r19-007-1/r19-007-1.html
+ 311. https://www.senat.fr/rap/r19-007-1/r19-007-10.html
+ 312. https://www.senat.fr/themes/documents-societe.html
+ 313. https://www.senat.fr/themes/documents-affaires-etrangeres-et-cooperation.html
+ 314. https://www.senat.fr/themes/documents-recherche-sciences-et-techniques.html
+ 315. https://twitter.com/share?url=https://www.senat.fr/rap/r19-007-1/r19-007-1.html
+ 316. http://www.facebook.com/sharer/sharer.php?u=https://www.senat.fr/rap/r19-007-1/r19-007-1.html
+ 317. https://www.linkedin.com/shareArticle?mini=true&url=https://www.senat.fr/rap/r19-007-1/r19-007-1.html&title=Le devoir de souveraineté numérique
+ 318. mailto:?subject=Vu sur le site Sénat : Le devoir de souveraineté numérique&body=Une personne vous invite à consulter une page du site du Sénat : https://www.senat.fr/rap/r19-007-1/r19-007-1.html
+ 319. https://twitter.com/senat
+ 320. https://www.facebook.com/senat.fr/
+ 321. https://www.linkedin.com/company/senat/
+ 322. https://www.instagram.com/senat_fr/
+ 323. https://www.youtube.com/c/senat
+ 324. https://www.tiktok.com/@senat_fr
+ 325. https://www.senat.fr/foire-aux-questions.html
+ 326. https://www.senat.fr/le-senat-et-vous/travailler-au-senat.html
+ 327. https://www.senat.fr/biens-reformes.html
+ 328. https://www.senat.fr/marches-publics.html
+ 329. https://www.senat.fr/facturation.html
+ 330. https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement/les-representants-dinterets.html
+ 331. https://www.senat.fr/le-senat-et-vous/visiter-le-senat.html
+ 332. https://www.senat.fr/les-abonnements-du-senat.html
+ 333. https://www.senat.fr/le-senat-et-vous/participer-aux-consultations/consultations-citoyennes.html
+ 334. https://petitions.senat.fr/
+ 335. https://www.senat.fr/flux-rss.html
+ 336. https://www.senat.fr/reglement/reglement.html
+ 337. tel:0033142342000
+ 338. https://www.senat.fr/nous-contacter.html
+ 339. https://www.senat.fr/mentions-legales.html
+ 340. https://www.senat.fr/plan-du-site.html
+ 341. https://www.senat.fr/accessibilite.html
+ 342. https://www.senat.fr/donnees-personnelles.html
+ 343. https://www.senat.fr/donnees-personnelles.html
+ 344. https://intra.senat.fr/
+
+   Liens cachés :
+ 346. https://www.senat.fr/

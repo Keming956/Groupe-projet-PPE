@@ -1,435 +1,210 @@
+    Devoir
 
-   REFRESH(600 sec):
-   [1]file://localhost/home/batou/Documents/TAL/Programmation_et_projets_e
-   ncadres/Groupe-projet-PPE/URLs/fr-1.html
+   Pour saisir les notes, vous créez un devoir auquel les notes sont
+   associées. Un service de notation doit avoir été créé pour la matière
+   et la classe à noter [1](Service de notation).
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-TDG4CSD
+   Les paramètres renseignés pour le devoir, tels que le barème et le
+   coefficient, permettent à PRONOTE de calculer automatiquement la
+   moyenne des élèves [2](Moyenne). Les notes sont publiées sur l’Espace
+   Élèves et l’Espace Parents à la date que vous spécifiez.
 
-   [3]Novethic, Le media expert de l'économie responsable
-     * [4]Qui sommes-nous ?
-     * [5]Contact
-     * [6]Presse
-     * [7]Lexique
-     *
-     *
-     *
-     *
 
-   Rechercher
-   ____________________ (BUTTON)
+   [3]Paramétrage
 
-   (BUTTON) Toggle navigation [8]Retourner à l'accueil de Novethic
-     * [9]News
-       Environnement, énergie, social, finance, entreprises et startups,
-       retrouvez tous les débats, tendances et acteurs de l’économie
-       responsable.
-          + [10]Environnement
-          + [11]Énergie
-          + [12]Numérique
-          + [13]Infographies
-          + [14]Gouvernance
-          + [15]Social
-          + [16]Politique
-          + [17]Vidéos
-     * [18]Finance durable
-       Plateforme d’information pour les professionnels, formations,
-       études, label vert, Novethic offre les moyens d’agir sur la finance
-       durable
-          + [19]L'Essentiel de la Finance Durable
-          + [20]Études & publications
-          + [21]Label Greenfin
-          + [22]Fonds durables
-          + [23]Cercle des institutionnels
-          + [24]Formations & ateliers
-          + [25]Conférences Live #Replay
-     * [26]Entreprises responsables
-       Découvrez les initiatives RSE, les stratégies de création de valeur
-       durable et les entreprises qui innovent pour une économie inclusive
-       et bas carbone.
-          + [27]B-A-BA de la RSE
-          + [28]Performance globale
-          + [29]Parties prenantes
-          + [30]Les Objectifs de Développement Durable
-          + [31]Entreprises et ODD
-          + [32]Entreprises à mission
-          + [33]Cadre de référence international
-          + [34]Transparence et reporting ESG
-     * [35]Formations
-       Organisme de Formation référent sur la finance durable, Novethic
-       forme les professionnels -investissement, gestion d’actif,
-       distribution – aux évolutions du marché et à l’intégration des
-       questions ESG dans leurs stratégies et leurs décisions.
-          + [36]Finance Durable
-          + [37]Finance Verte
-          + [38]Analyse ESG
-          + [39]Parcours expert.e
-          + [40]Expert.es & Formateur.ices
-     * [41]Market Data
+   [4]Création et saisie des notes
 
-     * Abonnés
-     * [42]Novethic Essentiel
-     * [43]Spécial COP28
+   [5]Manipulations
 
-     * [44]Accueil
-     * [45]Lexique
-     * Détail lexique
-     * Devoir de vigilance
+   Paramétrage
 
-Devoir de vigilance
+   Définir les droits liés aux devoirs pour les professeurs  ModeAdmin.jpg
 
-   Le devoir de vigilance est une obligation faite aux entreprises
-   donneuses d’ordre de prévenir les risques sociaux, environnementaux et
-   de gouvernance liés à leurs opérations mais qui peut aussi
-   s'étendre aux activités de leurs filiales et de leurs partenaires
-   commerciaux (sous-traitants et fournisseurs).
+   1. Rendez-vous dans l’onglet Ressources > Professeurs >
+   Aff_ProfilsAutorisation.jpg  Profils d’autorisations.
 
-   En France, ce devoir s’incarne dans la loi relative au devoir de
-   vigilance des sociétés mères et des entreprises donneuses d'ordre.
-   Celle-ci a été [46]adoptée le 21 février 2017 par les députés et
-   [47]validée par le Conseil constitutionnel le 23 mars qui a toutefois
-   censuré les amendes civiles prévues initialement par les députés.
+   2. Sélectionnez un profil dans la liste à gauche.
 
-   La loi sur le devoir de vigilance a pour objectif de remettre le
-   respect des droits humains au cœur des préoccupations des
-   multinationales. Elle concerne les grandes entreprises : les sociétés
-   françaises qui emploient au moins 5 000 salariés en France et celles de
-   plus de 10 000 salariés dans l’Hexagone ayant leur siège social
-   ailleurs dans le monde. Celles-ci doivent établir et publier un
-   [48]plan de vigilance pour prévenir les risques en matière
-   d’environnement, de droits humains mais aussi de corruption sur leurs
-   propres activités mais aussi celles de leurs filiales, sous-traitants
-   et fournisseurs, en France comme à l’étranger.
+   3. Dans la catégorie Services et notations, cochez les actions
+   autorisées.
+   Devoir_Autorisations.jpg
 
-   En cas d’accident les victimes, associations et syndicats, pourront
-   saisir le juge pour faire respecter cette nouvelle obligation. Le juge
-   pourra enjoindre sous astreinte l'entreprise à publier et mettre en
-   œuvre de manière effective un plan de vigilance.
+   Création et saisie des notes
 
-   Ce texte a été élaboré en réponse à différents scandales comme la
-   catastrophe d’avril 2013 au Bangladesh où un immeuble – le [49]Rana
-   Plaza – s’est effondré, entrainant la mort de plus de 1 000 salariés ou
-   encore l’affaire du travail forcé sur les chantiers de la Coupe du
-   monde au Qatar. Ces évènements ont provoqué une prise de conscience de
-   l’Europe sur les conditions de travail des sous-traitants des grands
-   groupes industriels européens.
+   Créer un devoir et saisir les notes  ModeAdmin.jpg ModeProf.jpg
 
-   Si cette loi a été bien accueillie par l’opinion publique, elle reste
-   fortement contestée par le patronat qui craint une baisse de
-   compétitivité pour les entreprises.
+    Prérequis  Les périodes de notation ne sont pas clôturées.
 
-   D’autres pays, notamment en Europe, examinent aujourd’hui la
-   possibilité d’adopter des mesures inspirées de la loi française.
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Saisie.jpg
+    Saisie.
 
-   Le principe du devoir de vigilance est également inscrit dans les
-   [50]grands textes internationaux de référence destinés aux
-   multinationales.
+   2. Sélectionnez Classes ou Groupes dans le menu déroulant. Dès que le
+   service ne concerne pas la classe entière (et uniquement la classe
+   entière), il est défini pour un groupe : classe en demi-groupes, groupe
+   de langues, etc.
 
-   Pour aller plus loin, Novethic vous propose des
-   formations thématiques : [51]La matérialité des risques sociaux et
-   [52]Risques sociaux et chaîne de sous-traitance
-   Qu'est-ce que le label isr ?
+   3. Sélectionnez une classe ou un groupe puis un service dans les listes
+   à gauche. Si vous ne trouvez pas le service correspondant, assurez-vous
+   qu’il a bien été créé, qu’il est actif et que son mode est Avec notes
+   [6](Service de notation).
 
-Pour aller plus loin
+   4. Sélectionnez une période dans le menu déroulant en haut à droite.
 
-   Économie - Publié le 14 Novembre 2023
+   5. Cliquez sur le bouton Créer un devoir.
+   Devoir_CreerUnDevoir.jpg
 
-[53]"Cobalt responsable" : BMW ouvre une enquête auprès d’un fournisseur
-marocain accusé de pollution
+   6. Dans la fenêtre qui s’affiche, renseignez les paramètres du devoir :
 
-   [54]
+   lpour noter les élèves sur un QCM préalablement créé [7](QCM), cliquez
+   sur le bouton  Btn_3PointsSuspension.jpg en face d’Associer un QCM ;
 
-   Le virage électrique des constructeurs automobiles est loin d'être un
-   long fleuve tranquille. Si les mérites du véhicule électrique sont
-   avérés, sa fabrication pose encore de nombreux défis. C'est ce que
-   révèle une enquête publiée en début de semaine dans plusieurs médias
-   pointant la...
+   lla date du devoir ;
 
-   Entreprises controversées - Publié le 05 Octobre 2023
+   lla date à laquelle les notes seront publiées sur les Espaces ; il est
+   possible de modifier cette date manuellement.
+    Nouveauté  Il est possible de différencier la date de publication de
+   la note pour les responsables et les élèves : ce choix est alors
+   appliqué à toutes les notes. Rendez-vous dans l'onglet Espaces web
+   > Parents >  Aff_Saisie.jpg . Dans l’arborescence, cochez Les notes et
+   sélectionnez ensuite l’une des 3 options proposées.
+   Devoir_DecalerLaPublicationDesNotesSurLEspaceParents.jpg
 
-[55]La bataille judiciaire reprend pour TotalÉnergies, attaqué au pénal pour
-ses projets fossiles climaticides
+   ljoignez éventuellement un sujet et/ou un corrigé, qui sera publié sur
+   les Espaces en même temps que les notes ;
 
-   [56]
+   lla ou les périodes où le devoir doit être comptabilisé dans la
+   moyenne ; si une période d'examen blanc a été définie [8](Bac blanc
+   (brevet blanc, etc.)), le devoir peut compter à la fois pour l'examen
+   et le trimestre ;
 
-   Quatre associations de défense de l’environnement ont porté plainte
-   devant le tribunal judiciaire de Nanterre contre TotalÉnergies pour
-   "des faits s’apparentant à un climaticide" en raison de ses
-   investissements dans les énergies fossiles. Une première.
+   ldéfinissez le mode de notation (barème, coefficient et, si le devoir
+   est facultatif, s’il doit être compté comme un bonus ou comme une
+   note) ;
 
-   Entreprises controversées - Publié le 01 Septembre 2023
+   lla catégorie du devoir, si vous souhaitez pouvoir facilement trier la
+   liste des devoirs ;
 
-[57]"Tout ça pour 60 euros la journée" : Des salariés sans-papiers accusent
-Veolia de travail illégal à Paris
+   lpour créer une évaluation de compétences en même temps, cochez Créer
+   une évaluation [9](Évaluation de compétences).
 
-   [58]
+   7. Cliquez sur Créer : PRONOTE crée une colonne dans laquelle vous
+   pouvez saisir les notes. Il est également possible de saisir des
+   annotations pour indiquer que l’élève était absent, dispensé, n’a pas
+   rendu le devoir, etc. : pour en connaître le détail, cliquez sur le
+   bouton  Btn_Information.jpg  en haut à droite de l’affichage.
 
-   Les manquements à la loi sur le devoir de vigilance ne se produisent
-   pas qu'à l'autre bout du monde. C'est en région parisienne que Veolia,
-   mais aussi Suez ou encore Paprec, sont accusés d'avoir fait travailler
-   des sans-papiers, via une entreprise sous-traitante peu scrupuleuse.
-   Depuis le...
+   Remarque : les professeurs peuvent également créer un devoir sur table
+   depuis le cahier de texte, en faisant clic droit sur le cours où doit
+   avoir lieu le DS et en choisissant Programmer un devoir sur table.
 
-Découvrez l'Essentiel de la Finance Durable
+   Importer les notes depuis un tableur  ModeAdmin.jpg ModeProf.jpg
 
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-    7.
-    8.
-    9.
-   10.
-   11.
-   12.
-   13.
-   14.
-   15.
-   16.
+   1. Depuis le tableur, sélectionnez et copiez vos notes. Elles doivent
+   avoir été saisies avec les élèves dans l’ordre alphabétique.
+   Devoir_ImporterNotesFichierExcel.jpg
 
-     [59]Facebook
+   2. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
+    Liste.
 
-   Novethic, Le media expert de l'économie responsable
+   3. Sélectionnez le devoir dans la liste et cliquez sur le bouton
+   Btn_RecupererNotesDepuisPressePapier.jpg  en haut à droite du tableau
+   de notes pour coller les données saisies.
 
-   5 Avenue de l’Opéra
-   75001 Paris
+   Manipulations
 
-   [60]Contactez-nous
+   Modifier un devoir  ModeAdmin.jpg ModeProf.jpg
 
-   +33 (0)1 58 50 98 14
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Saisie.jpg
+    Saisie.
 
-   Suivez-nous
-     *
-     *
-     *
+   2. Double-cliquez sur la date du devoir pour ouvrir la fenêtre de
+   modification.
+   Devoir_ModifierUnDevoir.jpg
 
-     * [61]Abonnés
-          + [62]Novethic Essentiel
-          + [63]Spécial COP28
+   Modifier plusieurs devoirs en même temps  ModeAdmin.jpg ModeProf.jpg
 
-     * [64]News
-          + [65]Environnement
-          + [66]Énergie
-          + [67]Numérique
-          + [68]Infographies
-          + [69]Gouvernance
-          + [70]Social
-          + [71]Politique
-          + [72]Vidéos
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+   Administration.
 
-     * [73]Finance durable
-          + [74]L'Essentiel de la Finance Durable
-          + [75]Études & publications
-          + [76]Label Greenfin
-          + [77]Fonds durables
-          + [78]Cercle des institutionnels
-          + [79]Formations & ateliers
-          + [80]Conférences Live #Replay
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
+    Liste.
 
-     * [81]Entreprises responsables
-          + [82]B-A-BA de la RSE
-          + [83]Performance globale
-          + [84]Parties prenantes
-          + [85]Les Objectifs de Développement Durable
-          + [86]Entreprises et ODD
-          + [87]Entreprises à mission
-          + [88]Cadre de référence international
-          + [89]Transparence et reporting ESG
+   2. Sélectionnez les devoirs à modifier, faites un clic droit et
+   choisissez l’élément à changer dans Modifier les devoirs sélectionnés.
 
-     * [90]Formations
-          + [91]Finance Durable
-          + [92]Finance Verte
-          + [93]Analyse ESG
-          + [94]Parcours expert.e
-          + [95]Expert.es & Formateur.ices
+   Changer un devoir de service de notation  ModeAdmin.jpg ModeProf.jpg
 
-     * [96]Les études
-     * [97]Presse
-     * [98]Contact
-     * [99]Mentions légales
-     * [100]Abonnements
-     * [101]Flux RSS
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+   Administration et il faut que le service de notation de rattachement
+   ait été créé [10](Service de notation).
 
-   Novethic, Le media expert de l'économie responsable
-     5, avenue de l’Opéra, 75001 Paris
-   +33 (0)1 58 50 98 14
-   Suivez Novethic
-   [102]Contactez-nous
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
+    Liste.
 
-NEWS
+   2. Sélectionnez le devoir, faites un clic droit et choisissez Changer
+   de service le devoir sélectionné.
 
-   [103]Actualités
-   [104]Finance Durable
-   [105]Infographies
-   [106]Videos
+   3. Dans la fenêtre qui s’affiche, sélectionnez le nouveau service et
+   validez.
 
-TRANSFORMATION
+   Verrouiller des devoirs  ModeAdmin.jpg ModeProf.jpg
 
-   [107]Cercle des Institutionnels
-   [108]Formations & ateliers
-   [109]Labels
-   [110]L'Essentiel de la Finance Durable
-   [111]Positive Investors Forum
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+   Administration.
 
-FINANCE DURABLE
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
+    Liste.
 
-   [112]Accueil
-   [113]Comprendre l'Investissement Responsable
-   [114]Etudes & publications
-   [115]Fonds Responsables
+   2. Sélectionnez les devoirs qui ne doivent plus être modifiés, faites
+   un clic droit et choisissez Verrouiller les devoirs sélectionnés.
 
-ENTREPRISES RESPONSABLES
+   Remarque : vous pouvez également cocher Devoir verrouillé depuis la
+   fenêtre de modification du devoir dans l’onglet Notes > Saisie des
+   notes >  Aff_Saisie.jpg  Saisie.
 
-   [116]Accueil
-   [117]Le B-A-BA de la RSE
-   [118]Premiers Pas
-   [119]Les Objectifs de Développement Durable
-   [120]Qui sommes-nous ?
-   [121]Contact
-   [122]Presse
-   [123]Mentions légales
-   [124]Flux RSS
+   Trier les devoirs par catégorie  ModeAdmin.jpg ModeProf.jpg
+
+   Pour retrouver plus rapidement un devoir, vous pouvez lui attribuer une
+   catégorie.
+
+   1. Dans la fenêtre de création ou de modification des devoirs,
+   sélectionnez une catégorie dans le menu déroulant.
+
+   2. Si la catégorie souhaitée n’existe pas, cliquez sur le bouton
+   Btn_3PointsSuspension.jpg  pour la créer. Par défaut, les catégories
+   saisies par un enseignant sont visibles par tous les enseignants : pour
+   réduire la liste, cochez Uniquement mes catégories et celles affectées
+   à mes devoirs. Il est également possible de retirer le droit de
+   création aux enseignants depuis leur profil.
+   Devoir_Categorie_Creer.jpg
+
+   3. Les devoirs s’affichent avec une bande de couleur correspondant à
+   leur catégorie dans le tableau de notes.
+   Devoir_Categorie_TableauDeNotes.jpg
+
+   4. Pour trier les devoirs, rendez-vous dans l’onglet Notes > Saisie des
+   notes >  Aff_Liste.jpg  Liste. Cliquez sur le bouton
+   Btn_3PointsSuspension.jpg Catégories et, dans la fenêtre qui s’affiche,
+   décochez les catégories de devoirs à ne pas afficher.
+   Devoir_Categorie_Trier.jpg
+
+   Voir aussi
+
+   [11]Cahier de textes
+
+   [12]Notation
 
 Références
 
-   Liens visibles :
-   1. file:///home/batou/Documents/TAL/Programmation_et_projets_encadres/Groupe-projet-PPE/URLs/fr-1.html
-   2. https://www.googletagmanager.com/ns.html?id=GTM-TDG4CSD
-   3. https://www.novethic.fr/
-   4. https://www.novethic.fr/qui-sommes-nous.html
-   5. https://www.novethic.fr/contact.html
-   6. https://www.novethic.fr/communiques-de-presse.html
-   7. https://www.novethic.fr/lexique.html
-   8. https://www.novethic.fr/
-   9. https://www.novethic.fr/articles-les-recents.html
-  10. https://www.novethic.fr/actualite/environnement.html
-  11. https://www.novethic.fr/actualite/energie.html
-  12. https://www.novethic.fr/actualite/numerique.html
-  13. https://www.novethic.fr/actualite/infographies.html
-  14. https://www.novethic.fr/actualite/gouvernance-dentreprise.html
-  15. https://www.novethic.fr/actualite/social.html
-  16. https://www.novethic.fr/actualite/politique.html
-  17. https://www.novethic.fr/actualite/videos.html
-  18. https://www.novethic.fr/finance-durable.html
-  19. https://www.novethic.fr/finance-durable/lessentiel-de-la-finance-durable.html
-  20. https://www.novethic.fr/finance-durable/publications.html
-  21. https://www.novethic.fr/finance-durable/greenfin-label-finance-verte.html
-  22. https://www.novethic.fr/finance-durable/publications.html
-  23. https://www.novethic.fr/finance-durable/cercle-des-institutionnels.html
-  24. https://www.novethic.fr/formations-finance-climat-investissement-responsable.html
-  25. https://www.novethic.fr/finance-durable/live-novethic.html
-  26. https://www.novethic.fr/entreprises-responsables.html
-  27. https://www.novethic.fr/entreprises-responsables/quest-ce-que-la-rse.html
-  28. https://www.novethic.fr/entreprises-responsables/la-rse-dans-lentreprise.html
-  29. https://www.novethic.fr/entreprises-responsables/qui-sont-les-parties-prenantes-de-lentreprise.html
-  30. https://www.novethic.fr/entreprises-responsables/les-objectifs-de-developpement-durable-odd.html
-  31. https://www.novethic.fr/entreprises-responsables/la-contribution-des-entreprises-et-des-investisseurs-aux-objectifs-de-developpement-durable-odd.html
-  32. https://www.novethic.fr/entreprises-responsables/entreprises-a-mission.html
-  33. https://www.novethic.fr/entreprises-responsables/la-rse-une-demarche-mondiale.html
-  34. https://www.novethic.fr/entreprises-responsables/transparence-le-reporting-esg.html
-  35. https://www.novethic.fr/formations.html
-  36. https://www.novethic.fr/formations/finance-durable.html
-  37. https://www.novethic.fr/formations/finance-verte.html
-  38. https://www.novethic.fr/formations/analyse-esg.html
-  39. https://www.novethic.fr/formations/parcours-experte.html
-  40. https://www.novethic.fr/formations/expertes-formateurices.html
-  41. https://www.novethic.fr/finance-durable/publications.html
-  42. https://www.novethic.fr/novethic-essentiel.html
-  43. https://www.novethic.fr/special-cop28.html
-  44. https://www.novethic.fr/
-  45. https://www.novethic.fr/lexique.html
-  46. http://www.novethic.fr/isr-et-rse/actualite-de-la-rse/isr-rse/devoir-de-vigilance-la-loi-definitivement-adoptee-144294.html
-  47. http://www.novethic.fr/isr-et-rse/actualite-de-la-rse/isr-rse/devoir-de-vigilance-le-conseil-constitutionnel-invalide-en-partie-la-loi-144336.html
-  48. http://www.novethic.fr/isr-et-rse/actualite-de-la-rse/isr-rse/devoir-de-vigilance-les-mesures-demandees-aux-entreprises-precisees-144195.html
-  49. http://www.novethic.fr/empreinte-sociale/conditions-de-travail/isr-rse/rana-plaza-l-effondrement-de-l-usine-au-bangladesh-a-cause-plus-de-1000-morts-144016.html
-  50. http://www.novethic.fr/empreinte-sociale/droits-humains/isr-rse/responsabilite-des-entreprises-sur-leur-chaine-d-approvisionnement-les-grandes-references-internationales-144001.html
-  51. https://www.novethic.fr/formations-finance-climat-investissement-responsable/analyse-esg-impact-formation-risques-sociaux-4.html
-  52. https://www.novethic.fr/formations-finance-climat-investissement-responsable/notation-esg-impact-fondamentaux.html
-  53. https://www.novethic.fr/actualite/economie/isr-rse/cobalt-responsable-bmw-ouvre-une-enquete-aupres-d-un-fournisseur-marocain-accuse-de-pollution-et-de-violation-des-droits-humains-151885.html
-  54. https://www.novethic.fr/actualite/economie/isr-rse/cobalt-responsable-bmw-ouvre-une-enquete-aupres-d-un-fournisseur-marocain-accuse-de-pollution-et-de-violation-des-droits-humains-151885.html
-  55. https://www.novethic.fr/actualite/gouvernance-dentreprise/entreprises-controversees/isr-rse/la-bataille-judiciaire-reprend-pour-totalenergies-attaque-au-penal-pour-ses-projets-fossiles-climaticides-151800.html
-  56. https://www.novethic.fr/actualite/gouvernance-dentreprise/entreprises-controversees/isr-rse/la-bataille-judiciaire-reprend-pour-totalenergies-attaque-au-penal-pour-ses-projets-fossiles-climaticides-151800.html
-  57. https://www.novethic.fr/actualite/gouvernance-dentreprise/entreprises-controversees/isr-rse/devoir-de-vigilance-veolia-accusee-d-avoir-fait-travailler-des-sans-papiers-via-un-sous-traitant-en-region-parisienne-151729.html
-  58. https://www.novethic.fr/actualite/gouvernance-dentreprise/entreprises-controversees/isr-rse/devoir-de-vigilance-veolia-accusee-d-avoir-fait-travailler-des-sans-papiers-via-un-sous-traitant-en-region-parisienne-151729.html
-  59. https://www.facebook.com/Novethic-Finance-Durable-100327865154147/
-  60. https://www.novethic.fr/contact.html
-  61. https://www.novethic.fr/bandeau-rouge.html
-  62. https://www.novethic.fr/novethic-essentiel.html
-  63. https://www.novethic.fr/special-cop28.html
-  64. https://www.novethic.fr/articles-les-recents.html
-  65. https://www.novethic.fr/actualite/environnement.html
-  66. https://www.novethic.fr/actualite/energie.html
-  67. https://www.novethic.fr/actualite/numerique.html
-  68. https://www.novethic.fr/actualite/infographies.html
-  69. https://www.novethic.fr/actualite/gouvernance-dentreprise.html
-  70. https://www.novethic.fr/actualite/social.html
-  71. https://www.novethic.fr/actualite/politique.html
-  72. https://www.novethic.fr/actualite/videos.html
-  73. https://www.novethic.fr/finance-durable.html
-  74. https://www.novethic.fr/finance-durable/lessentiel-de-la-finance-durable.html
-  75. https://www.novethic.fr/finance-durable/publications.html
-  76. https://www.novethic.fr/finance-durable/greenfin-label-finance-verte.html
-  77. https://www.novethic.fr/finance-durable/publications.html
-  78. https://www.novethic.fr/finance-durable/cercle-des-institutionnels.html
-  79. https://www.novethic.fr/formations-finance-climat-investissement-responsable.html
-  80. https://www.novethic.fr/finance-durable/live-novethic.html
-  81. https://www.novethic.fr/entreprises-responsables.html
-  82. https://www.novethic.fr/entreprises-responsables/quest-ce-que-la-rse.html
-  83. https://www.novethic.fr/entreprises-responsables/la-rse-dans-lentreprise.html
-  84. https://www.novethic.fr/entreprises-responsables/qui-sont-les-parties-prenantes-de-lentreprise.html
-  85. https://www.novethic.fr/entreprises-responsables/les-objectifs-de-developpement-durable-odd.html
-  86. https://www.novethic.fr/entreprises-responsables/la-contribution-des-entreprises-et-des-investisseurs-aux-objectifs-de-developpement-durable-odd.html
-  87. https://www.novethic.fr/entreprises-responsables/entreprises-a-mission.html
-  88. https://www.novethic.fr/entreprises-responsables/la-rse-une-demarche-mondiale.html
-  89. https://www.novethic.fr/entreprises-responsables/transparence-le-reporting-esg.html
-  90. https://www.novethic.fr/formations.html
-  91. https://www.novethic.fr/formations/finance-durable.html
-  92. https://www.novethic.fr/formations/finance-verte.html
-  93. https://www.novethic.fr/formations/analyse-esg.html
-  94. https://www.novethic.fr/formations/parcours-experte.html
-  95. https://www.novethic.fr/formations/expertes-formateurices.html
-  96. https://www.novethic.fr/finance-durable/publications.html
-  97. https://www.novethic.fr/communiques-de-presse.html
-  98. https://www.novethic.fr/contact.html
-  99. https://www.novethic.fr/mentions-legales.html
- 100. https://www.novethic.fr/alertes-thematiques.html
- 101. https://www.novethic.fr/flux-rss.html
- 102. https://contact.novethic.fr/
- 103. https://www.novethic.fr/articles-les-recents.html
- 104. https://www.novethic.fr/actualite/finance-durable.html
- 105. https://www.novethic.fr/actualite/infographies.html
- 106. https://www.novethic.fr/actualite/videos.html
- 107. https://www.novethic.fr/cercle-des-institutionnels.html
- 108. https://www.novethic.fr/formations-finance-climat-investissement-responsable.html
- 109. https://www.novethic.fr/finance-durable/labels.html
- 110. https://lessentiel.novethic.fr/
- 111. https://www.positiveinvestorsforum.com/
- 112. https://www.novethic.fr/finance-durable.html
- 113. https://www.novethic.fr/finance-durable/comprendre-linvestissement-responsable.html
- 114. https://www.novethic.fr/finance-durable/publications.html
- 115. https://www.novethic.fr/finance-durable/fonds-responsables.html
- 116. https://www.novethic.fr/entreprises-responsables.html
- 117. https://www.novethic.fr/entreprises-responsables/quest-ce-que-la-rse.html
- 118. https://www.novethic.fr/entreprises-responsables/la-rse-dans-lentreprise.html
- 119. https://www.novethic.fr/entreprises-responsables/les-objectifs-de-developpement-durable-odd.html
- 120. https://www.novethic.fr/qui-sommes-nous.html
- 121. https://contact.novethic.fr/
- 122. https://www.novethic.fr/communiques-de-presse.html
- 123. https://www.novethic.fr/mentions-legales.html
- 124. https://www.novethic.fr/flux-rss.html
-
-   Liens cachés :
- 126. https://twitter.com/#!/novethic
- 127. https://www.facebook.com/Novethic
- 128. https://www.linkedin.com/company/novethic
- 129. https://www.novethic.com/
- 130. file://localhost/home/batou/Documents/TAL/Programmation_et_projets_encadres/Groupe-projet-PPE/URLs/fr-1.html#RssCarousel
- 131. file://localhost/home/batou/Documents/TAL/Programmation_et_projets_encadres/Groupe-projet-PPE/URLs/fr-1.html#RssCarousel
- 132. https://twitter.com/#!/novethic
- 133. https://www.facebook.com/Novethic
- 134. https://www.linkedin.com/company/novethic
- 135. https://twitter.com/#!/novethic
- 136. https://www.facebook.com/Novethic-548233512759955
- 137. https://www.linkedin.com/company/novethic
- 138. https://www.instagram.com/novethic/?hl=fr
+   1. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
+   2. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/M/Moyenne.htm#XREF_47726_Moyenne
+   3. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_82122_Param_trage
+   4. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_28983_Cr_ation_et_saisie
+   5. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_43732_Manipulations
+   6. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
+   7. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/Q/QCM.htm#XREF_43308_QCM
+   8. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/B/Bac_blanc_brevet_blanc_etc.htm#XREF_84921_Bac_blanc
+   9. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/E/Évaluation_de_compétences.htm#XREF_78426_valuation_de_comp
+  10. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
+  11. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/C/Cahier_de_textes.htm#XREF_55345_Cahier_de_textes
+  12. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/N/Notation.htm#XREF_57453_Notation
