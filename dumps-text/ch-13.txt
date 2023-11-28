@@ -144,16 +144,17 @@
 
 近期文�
 
-     * [119]Muck Rack：2023年PR测量报告
-     * [120]2023年全球电信服务收入及同比（附原数据表） ​​​
-     * [121]2023年Q3加拿大主要OEM智能手机厂商出货量市场份额（附原数据表） ​​​
-     * [122]2023年Q3加拿大主要OEM智能手机厂商出货量同比（附原数据表） ​​​
-     * [123]2022年全球主要SSD模块制造厂商出货量市场份额（附原数据表） ​​​
-     * [124]2022年Q1-2023年Q3加拿大TCL智能手机出货量市场份额（附原数据表） ​​​
-     * [125]2021年-2024年全球MLCC需求量及同比预测（附原数据表） ​​​
-     * [126]Crunchbase：2023年到目前为止自动驾驶初创企业仅获得45亿美元投资
-     * [127]Counterpoint：2023年Q3拉丁美洲智能手机出货量增长8.7%
-     * [128]灼识咨询：2022中国内衣行业蓝皮书（附下载）
+     * [119]为什么全球变暖控制目标要设在1.5℃？
+     * [120]《细胞·代谢》：防减肥反弹的关键免疫细胞出现了！
+     * [121]JAMA子刊：中国科学家发现，肝癌患者使用抗抑郁药与死亡风险降低31%有关
+     * [122]亚马逊云科技与Salesforce深化合作，为客户更轻松地构建可信的AI应用程序，提供无缝CRM体验，并将其产品上架亚马逊云
+       科技Marketplace
+     * [123]联合国环境规划署：2023年生产差距报告
+     * [124]希尔顿：2023年游客报告
+     * [125]Muck Rack：2023年PR测量报告
+     * [126]2023年全球电信服务收入及同比（附原数据表） ​​​
+     * [127]2023年Q3加拿大主要OEM智能手机厂商出货量市场份额（附原数据表） ​​​
+     * [128]2023年Q3加拿大主要OEM智能手机厂商出货量同比（附原数据表） ​​​
 
 标签
 
@@ -298,16 +299,16 @@ References
  116. https://www.199it.com/archives/category/info-graphics/shuju
  117. https://t.xiaomiquan.com/AmqFYR3
  118. https://t.xiaomiquan.com/AmqFYR3
- 119. https://www.199it.com/archives/1660806.html
- 120. https://www.199it.com/archives/1663103.html
- 121. https://www.199it.com/archives/1663100.html
- 122. https://www.199it.com/archives/1663097.html
- 123. https://www.199it.com/archives/1663094.html
- 124. https://www.199it.com/archives/1663091.html
- 125. https://www.199it.com/archives/1663088.html
- 126. https://www.199it.com/archives/1659035.html
- 127. https://www.199it.com/archives/1661676.html
- 128. https://www.199it.com/archives/1493826.html
+ 119. https://www.199it.com/archives/1657638.html
+ 120. https://www.199it.com/archives/1658423.html
+ 121. https://www.199it.com/archives/1658162.html
+ 122. https://www.199it.com/archives/1663186.html
+ 123. https://www.199it.com/archives/1662248.html
+ 124. https://www.199it.com/archives/1650907.html
+ 125. https://www.199it.com/archives/1660806.html
+ 126. https://www.199it.com/archives/1663103.html
+ 127. https://www.199it.com/archives/1663100.html
+ 128. https://www.199it.com/archives/1663097.html
  129. https://www.199it.com/archives/tag/2019
  130. https://www.199it.com/archives/tag/2019年
  131. https://www.199it.com/archives/tag/android

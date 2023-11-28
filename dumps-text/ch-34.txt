@@ -310,8 +310,6 @@ Main navigation
             [277]前往 工作成果和报告
 
 Header persistent submenu
-          + 告诉我们
-            tellus
           + 联系我们
             contactus
      * [278]品牌与产品
@@ -321,8 +319,6 @@ Header persistent submenu
        [281]前往 品牌与产品
 
 Header persistent submenu
-          + 告诉我们
-            tellus
           + 联系我们
             contactus
      * [282]科研创新
@@ -374,48 +370,41 @@ Secondary menu
           + [325]在校生和毕业生
             [326]返回
             [327]前往 在校生和毕业生
-          + [328]雀巢全球青年计划
+          + [328]多元化与包容性
             [329]返回
-            [330]前往 雀巢全球青年计划
-          + [331]多元化与包容性
+            [330]前往 多元化与包容性
+          + [331]开始你的雀巢之�
             [332]返回
-            [333]前往 多元化与包容性
-          + [334]开始你的雀巢之�
+            [333]前往 开始你的雀巢之�
+          + [334]常见问题解答
             [335]返回
-            [336]前往 开始你的雀巢之�
-          + [337]常见问题解答
-            [338]返回
-            [339]前往 常见问题解答
+            [336]前往 常见问题解答
 
 Header persistent submenu
-          + 告诉我们
-            tellus
           + 联系我们
             contactus
-     * [340]加入雀巢
-       [341]Close Menu Button [342]返回
-       [343]前往 加入雀巢
-     * [344]新闻中心
-       [345]Close Menu Button [346]返回
+     * [337]加入雀巢
+       [338]Close Menu Button [339]返回
+       [340]前往 加入雀巢
+     * [341]新闻中心
+       [342]Close Menu Button [343]返回
        新闻中心
        欢迎浏览更多雀巢相关资讯、新闻稿件、声明，及其它多媒体内容。
-       [347]前往 新闻中心
-          + [348]集团新闻
+       [344]前往 新闻中心
+          + [345]集团新闻
+            [346]返回
+            [347]前往 集团新闻
+          + [348]媒体看雀巢
             [349]返回
-            [350]前往 集团新闻
-          + [351]媒体看雀巢
+            [350]前往 媒体看雀巢
+          + [351]新闻特写
             [352]返回
-            [353]前往 媒体看雀巢
-          + [354]新闻特写
+            [353]前往 新闻特写
+          + [354]媒体联系
             [355]返回
-            [356]前往 新闻特写
-          + [357]媒体联系
-            [358]返回
-            [359]前往 媒体联系
+            [356]前往 媒体联系
 
 Header persistent submenu
-          + 告诉我们
-            tellus
           + 联系我们
             contactus
 
@@ -430,12 +419,10 @@ Header persistent submenu
 
 Header persistent submenu
 
-     * 告诉我们
-       tellus
      * 联系我们
        contactus
 
-    1. [360]Home
+    1. [357]Home
     2. 错误信息
 
 错误信息
@@ -452,8 +439,8 @@ Header persistent submenu
 
    请点击下方连接查找您需要的内容：
 
-   [361]首页
-   [362]站点地图
+   [358]首页
+   [359]站点地图
 
    感谢您的支持与理解。
    雀巢（中国）有限公司
@@ -462,25 +449,25 @@ Header persistent submenu
      *
      *
 
-   [363]To The Top
+   [360]To The Top
 
 Mini Footer
 
-[364]雀巢新闻
+[361]雀巢新闻
 
-   [365]订阅雀巢全球新闻
-   [366]注册
+   [362]订阅雀巢全球新闻
+   [363]注册
 
-[367]合规问题
+[364]合规问题
 
-   [368]请告知我们您的顾虑
-   [369]联系我们
+   [365]请告知我们您的顾虑
+   [366]联系我们
    map
 
-[370]如果您对雀巢的产品或服务有相关问题
+[367]如果您对雀巢的产品或服务有相关问题
 
-   [371]我们将解答您的疑问
-   [372]联系我们
+   [368]我们将解答您的疑问
+   [369]联系我们
 
 雀巢
 
@@ -492,74 +479,74 @@ Mini Footer
 
 关于雀巢
 
-     * [373]雀巢历史
-     * [374]业务原则
-     * [375]雀巢在中国
-     * [376]质量与安全
-     * [377]负责任采购
-     * [378]问雀巢
+     * [370]雀巢历史
+     * [371]业务原则
+     * [372]雀巢在中国
+     * [373]质量与安全
+     * [374]负责任采购
+     * [375]问雀巢
 
 关于雀巢
 
-     * [379]雀巢历史
-     * [380]业务原则
-     * [381]雀巢在中国
-     * [382]质量与安全
-     * [383]负责任采购
-     * [384]问雀巢
+     * [376]雀巢历史
+     * [377]业务原则
+     * [378]雀巢在中国
+     * [379]质量与安全
+     * [380]负责任采购
+     * [381]问雀巢
 
 品牌与产品
 
-     * [385]雀巢
-     * [386]豪吉
-     * [387]太太乐
-     * [388]徐福记
-     * [389]惠氏营养品
-     * [390]Nespresso 浓遇咖啡
+     * [382]雀巢
+     * [383]豪吉
+     * [384]太太乐
+     * [385]徐福记
+     * [386]惠氏营养品
+     * [387]Nespresso 浓遇咖啡
 
 新闻中心
 
-     * [391]集团新闻
-     * [392]新闻特写
-     * [393]雀巢声明
-     * [394]媒体看雀巢
-     * [395]媒体联系
+     * [388]集团新闻
+     * [389]新闻特写
+     * [390]雀巢声明
+     * [391]媒体看雀巢
+     * [392]媒体联系
 
 科研创新
 
-     * [396]我们的愿景
-     * [397]研发网络
-     * [398]食品科学和技术
-     * [399]食品质量和安全
-     * [400]环境可持续性
-     * [401]植物科学
+     * [393]我们的愿景
+     * [394]研发网络
+     * [395]食品科学和技术
+     * [396]食品质量和安全
+     * [397]环境可持续性
+     * [398]植物科学
 
 SHARE INFORMATION
 
-   [402]Share Price
+   [399]Share Price
 
 关注我们
 
-     * [403]雀巢
+     * [400]雀巢
 
-     * [404]雀巢
+     * [401]雀巢
 
-     * [405]雀巢
+     * [402]雀巢
 
 Report Concern form modal block
 
-   [406]Report Concern
+   [403]Report Concern
 
 Sub Footer Menu
 
-     * [407]© 2023 Nestlé 雀巢集团
-     * [408]网站地图
-     * [409]选择地点
-     * [410]各地销售办事处
-     * [411]碳效率
-     * [412]网站条款
-     * [413]雀巢个人信息处理规则
-     * [414]京ICP备09030901号-12
+     * [404]© 2023 Nestlé 雀巢集团
+     * [405]网站地图
+     * [406]选择地点
+     * [407]各地销售办事处
+     * [408]碳效率
+     * [409]网站条款
+     * [410]雀巢个人信息处理规则
+     * [411]京ICP备09030901号-12
 
 References
 
@@ -651,7 +638,7 @@ References
   85. http://www.nestle.co.uk/
   86. http://www.nestle.ua/
   87. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  88. https://www.nestle.com.cn/info/
+  88. https://www.nestle.com.cn/info
   89. https://www.nestle.com.cn/info/website-carbon-footprint
   90. https://www.nestle.com.cn/
   91. https://www.nestle.com.cn/
@@ -853,9 +840,9 @@ References
  287. https://www.nestle.com.cn/about_nestle/responsible-sourcing
  288. https://www.nestle.com.cn/about_nestle/responsible-sourcing
  289. https://www.nestle.com.cn/jobs
- 290. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&lang=en_US&company=nestleHRprdBX&site=&loginFlowRequired=true&_s_crb=128XaTChe+qwSenlLkmymZtGysV5vKPHSGLbrs+KtpQ=
+ 290. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&company=nestleHRprdBX&lang=zh_CN&loginFlowRequired=true&site=
  291. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 292. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&lang=en_US&company=nestleHRprdBX&site=&loginFlowRequired=true&_s_crb=128XaTChe+qwSenlLkmymZtGysV5vKPHSGLbrs+KtpQ=
+ 292. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&company=nestleHRprdBX&lang=zh_CN&loginFlowRequired=true&site=
  293. https://www.nestle.com.cn/jobs/search-jobs
  294. https://www.nestle.com.cn/about_nestle/responsible-sourcing
  295. https://www.nestle.com.cn/jobs/search-jobs
@@ -891,112 +878,104 @@ References
  325. https://www.nestle.com.cn/jobs/students-graduates
  326. https://www.nestle.com.cn/about_nestle/responsible-sourcing
  327. https://www.nestle.com.cn/jobs/students-graduates
- 328. https://www.nestle.com.cn/jobs/nestle-needs-youth
+ 328. https://www.nestle.com.cn/jobs/diversity-inclusion
  329. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 330. https://www.nestle.com.cn/jobs/nestle-needs-youth
- 331. https://www.nestle.com.cn/jobs/diversity-inclusion
+ 330. https://www.nestle.com.cn/jobs/diversity-inclusion
+ 331. https://www.nestle.com.cn/jobs/recruitment-journey
  332. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 333. https://www.nestle.com.cn/jobs/diversity-inclusion
- 334. https://www.nestle.com.cn/jobs/recruitment-journey
+ 333. https://www.nestle.com.cn/jobs/recruitment-journey
+ 334. https://www.nestle.com.cn/jobs/faqs
  335. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 336. https://www.nestle.com.cn/jobs/recruitment-journey
- 337. https://www.nestle.com.cn/jobs/faqs
+ 336. https://www.nestle.com.cn/jobs/faqs
+ 337. https://www.nestlecareers.cn/
  338. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 339. https://www.nestle.com.cn/jobs/faqs
+ 339. https://www.nestle.com.cn/about_nestle/responsible-sourcing
  340. https://www.nestlecareers.cn/
- 341. https://www.nestle.com.cn/about_nestle/responsible-sourcing
+ 341. https://www.nestle.com.cn/media
  342. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 343. https://www.nestlecareers.cn/
- 344. https://www.nestle.com.cn/media/
- 345. https://www.nestle.com.cn/about_nestle/responsible-sourcing
+ 343. https://www.nestle.com.cn/about_nestle/responsible-sourcing
+ 344. https://www.nestle.com.cn/media
+ 345. https://www.nestle.com.cn/media/pressreleases
  346. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 347. https://www.nestle.com.cn/media
- 348. https://www.nestle.com.cn/media/pressreleases
+ 347. https://www.nestle.com.cn/media/pressreleases
+ 348. https://www.nestle.com.cn/media/nestleinnews
  349. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 350. https://www.nestle.com.cn/media/pressreleases
- 351. https://www.nestle.com.cn/media/nestleinnews
+ 350. https://www.nestle.com.cn/media/nestleinnews
+ 351. https://www.nestle.com.cn/media/news-feed
  352. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 353. https://www.nestle.com.cn/media/nestleinnews
- 354. https://www.nestle.com.cn/media/news-feed
+ 353. https://www.nestle.com.cn/media/news-feed
+ 354. https://www.nestle.com.cn/media/media-contacts
  355. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 356. https://www.nestle.com.cn/media/news-feed
- 357. https://www.nestle.com.cn/media/media-contacts
- 358. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 359. https://www.nestle.com.cn/media/media-contacts
- 360. https://www.nestle.com.cn/
- 361. https://www.nestle.com.cn/
- 362. https://www.nestle.com.cn/info/sitemap
- 363. javascript:void(0);
- 364. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
- 365. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
- 366. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
+ 356. https://www.nestle.com.cn/media/media-contacts
+ 357. https://www.nestle.com.cn/
+ 358. https://www.nestle.com.cn/
+ 359. https://www.nestle.com.cn/info/sitemap
+ 360. javascript:void(0);
+ 361. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
+ 362. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
+ 363. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
+ 364. https://www.nestle.com.cn/info
+ 365. https://www.nestle.com.cn/info
+ 366. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2021-07/20210708-One-Reporting-System-in-Nestle-Greater-China-Region.pdf
  367. https://www.nestle.com.cn/info
  368. https://www.nestle.com.cn/info
- 369. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2021-07/20210708-One-Reporting-System-in-Nestle-Greater-China-Region.pdf
- 370. https://www.nestle.com.cn/info
- 371. https://www.nestle.com.cn/info
- 372. https://www.nestle.com.cn/info
- 373. https://www.nestle.com.cn/about-us/history
- 374. https://www.nestle.com.cn/aboutus/principles
- 375. https://www.nestle.com.cn/aboutus/nestle_in_china
- 376. https://www.nestle.com.cn/aboutus/quality-and-safety
- 377. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 378. https://www.nestle.com.cn/aboutus/ask_nestle
- 379. https://www.nestle.com.cn/about-us/history
- 380. https://www.nestle.com.cn/aboutus/principles
- 381. https://www.nestle.com.cn/aboutus/nestle_in_china
- 382. https://www.nestle.com.cn/aboutus/quality-and-safety
- 383. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 384. https://www.nestle.com.cn/aboutus/ask_nestle
- 385. https://www.nestle.com.cn/brands
- 386. http://www.haoji.com.cn/
- 387. https://www.totole.com.cn/#page1
- 388. http://www.hsufuchifoods.com/
- 389. https://www.wyethbb.com.cn/
- 390. https://www.nespresso.com/cn/zh/home
- 391. https://www.nestle.com.cn/media/pressreleases
- 392. https://www.nestle.com.cn/media/news-feed
- 393. https://www.nestle.com.cn/media/statements
- 394. https://www.nestle.com.cn/media/nestleinnews
- 395. https://www.nestle.com.cn/media/media-contacts
- 396. https://www.nestle.com.cn/randd/ourvision
- 397. https://www.nestle.com.cn/randd/globalnetwork
- 398. https://www.nestle.com.cn/randd/food-science-and-technology
- 399. https://www.nestle.com.cn/randd/quality-safety
- 400. https://www.nestle.com.cn/randd/environmental-sustainability
- 401. https://www.nestle.com.cn/randd/plant-sciences
- 402. https://www.nestle.com/investors/sharesadrsbonds/stockquotes
- 403. https://www.linkedin.com/company/nestle-s-a-/
- 404. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
- 405. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg
- 406. https://www.nestle.com.cn/report-concern
- 407. https://www.nestle.com.cn/info/copyright
- 408. https://www.nestle.com.cn/info/sitemap
- 409. https://www.nestle.com/change-location
- 410. https://www.nestle.com.cn/info/office
- 411. https://www.nestle.com.cn/info/website-carbon-footprint
- 412. https://www.nestle.com.cn/info/tc
- 413. https://www.nestle.com.cn/info/20211029-yourdata
- 414. http://beian.miit.gov.cn/
+ 369. https://www.nestle.com.cn/info
+ 370. https://www.nestle.com.cn/about-us/history
+ 371. https://www.nestle.com.cn/aboutus/principles
+ 372. https://www.nestle.com.cn/aboutus/nestle_in_china
+ 373. https://www.nestle.com.cn/aboutus/quality-and-safety
+ 374. https://www.nestle.com.cn/about_nestle/responsible-sourcing
+ 375. https://www.nestle.com.cn/aboutus/ask_nestle
+ 376. https://www.nestle.com.cn/about-us/history
+ 377. https://www.nestle.com.cn/aboutus/principles
+ 378. https://www.nestle.com.cn/aboutus/nestle_in_china
+ 379. https://www.nestle.com.cn/aboutus/quality-and-safety
+ 380. https://www.nestle.com.cn/about_nestle/responsible-sourcing
+ 381. https://www.nestle.com.cn/aboutus/ask_nestle
+ 382. https://www.nestle.com.cn/brands
+ 383. http://www.haoji.com.cn/
+ 384. https://www.totole.com.cn/#page1
+ 385. http://www.hsufuchifoods.com/
+ 386. https://www.wyethbb.com.cn/
+ 387. https://www.nespresso.com/cn/zh/home
+ 388. https://www.nestle.com.cn/media/pressreleases
+ 389. https://www.nestle.com.cn/media/news-feed
+ 390. https://www.nestle.com.cn/media/statements
+ 391. https://www.nestle.com.cn/media/nestleinnews
+ 392. https://www.nestle.com.cn/media/media-contacts
+ 393. https://www.nestle.com.cn/randd/ourvision
+ 394. https://www.nestle.com.cn/randd/globalnetwork
+ 395. https://www.nestle.com.cn/randd/food-science-and-technology
+ 396. https://www.nestle.com.cn/randd/quality-safety
+ 397. https://www.nestle.com.cn/randd/environmental-sustainability
+ 398. https://www.nestle.com.cn/randd/plant-sciences
+ 399. https://www.nestle.com/investors/sharesadrsbonds/stockquotes
+ 400. https://www.linkedin.com/company/nestle-s-a-/
+ 401. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
+ 402. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg
+ 403. https://www.nestle.com.cn/report-concern
+ 404. https://www.nestle.com.cn/info/copyright
+ 405. https://www.nestle.com.cn/info/sitemap
+ 406. https://www.nestle.com/change-location
+ 407. https://www.nestle.com.cn/info/office
+ 408. https://www.nestle.com.cn/info/website-carbon-footprint
+ 409. https://www.nestle.com.cn/info/tc
+ 410. https://www.nestle.com.cn/info/20211029-yourdata
+ 411. http://beian.miit.gov.cn/
 
    Hidden links:
- 416. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#main
- 417. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#block-da-vinci-code-mainnavigation-2
- 418. https://www.nestle.com.cn/info/tellus
+ 413. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#main
+ 414. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#block-da-vinci-code-mainnavigation-2
+ 415. https://www.nestle.com.cn/info
+ 416. https://www.nestle.com.cn/info
+ 417. https://www.nestle.com.cn/info
+ 418. https://www.nestle.com.cn/info
  419. https://www.nestle.com.cn/info
- 420. https://www.nestle.com.cn/info/tellus
- 421. https://www.nestle.com.cn/info
- 422. https://www.nestle.com.cn/info/tellus
- 423. https://www.nestle.com.cn/info
- 424. https://www.nestle.com.cn/info/tellus
- 425. https://www.nestle.com.cn/info
- 426. https://www.nestle.com.cn/info/tellus
- 427. https://www.nestle.com.cn/info
- 428. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D&title=%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
- 429. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
- 430. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D&title=%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
- 431. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
- 432. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#main-footer
- 433. https://www.linkedin.com/company/nestle-s-a-/
- 434. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
- 435. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg
+ 420. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D&title=%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
+ 421. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
+ 422. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D&title=%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
+ 423. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing%250D
+ 424. https://www.nestle.com.cn/about_nestle/responsible-sourcing%0D#main-footer
+ 425. https://www.linkedin.com/company/nestle-s-a-/
+ 426. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
+ 427. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg

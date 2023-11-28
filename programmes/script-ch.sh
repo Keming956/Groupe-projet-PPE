@@ -31,8 +31,8 @@ do
 	#URL 2, 21, 37, 50 code 403
 	dump_html=$(curl $URL > "../aspirations/${lang}-${lineno}.html")
 	dump_text=$(lynx -dump -assume_charset=utf-8 --display_charset=utf-8 $URL > "../dumps-text/${lang}-${lineno}.txt")
-	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "dut(y|ies)" -c)
+	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "责任" -c)
 	contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -A 2 -B 2 "责任" > "../contextes/${lang}-${lineno}.txt")
 	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
 	echo -e "<tr>
