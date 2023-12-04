@@ -1,3 +1,15 @@
+   Guidance
+
+Proving originating status and claiming a reduced rate of Customs Duty for
+trade between the UK and EU
+
+--
+   The Origin Procedures in the Trade and Cooperation Agreement (Articles
+   37 to 67) set out the process for goods to prove their originating
+   status and how a reduced rate of Customs Duty (known as a tariff
+   preference) can be claimed.
+
+--
    as long as it is made within 3 years of the importation date and
    accompanied with a valid proof of origin. In those circumstances any
    duties would be repaid to the importer.
@@ -6,10 +18,16 @@
 --
    requirement is that those goods are clearly indicated.
 
-   In the UK, a [47]claim for duties to be repaid is made using C285,
-   however there are different ways to claim the preferential rate of duty
+   In the UK, a claim for duties to be repaid is made using C285, however
+   there are different ways to claim the preferential rate of duty
    depending on which system you’re using to make your import declaration.
 
+--
+   evidence to show that the goods you exported to the EU originate in the
+   UK, your EU customer will be liable to pay the full rate of Customs
+   Duty.
+
+Exporter requirements
 --
      * the import declaration in respect of the originating products is
        accepted by the customs authorities
@@ -17,34 +35,8 @@
        submitted
 
 --
-References
+     * General rules to determine the origin of your products for trade
+       between the UK and EU
+     * Pay less Customs Duty on goods from a country with a UK trade
+       agreement
 
-   1. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  37. https://www.gov.uk/government/collections/brexit-guidance
-  38. https://www.gov.uk/government/organisations/hm-revenue-customs
-  39. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#full-publication-update-history
-  40. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#claiming-preferential-tariff-treatment
-  41. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#applying-for-preference-using-a-statement-on-origin
-  42. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#applying-for-preference-using-importers-knowledge
-  43. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#verification-of-claims-for-preferential-treatment
-  44. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#denial-of-preferential-tariff-treatment
-  45. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#the-text-of-the-statement-on-origin-annex-7-of-the-trade-and-cooperation-agreement
-  46. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  47. https://www.gov.uk/guidance/how-to-apply-for-a-repayment-of-import-duty-and-vat-if-youve-overpaid-c285
-  48. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  49. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
---
-  57. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  58. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  59. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#one
-  60. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#two
-  61. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#three
-  62. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#four
-  63. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  64. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#full-history
-  65. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#contents
-  66. https://www.gov.uk/government/collections/rules-of-origin-for-goods-moving-between-the-uk-and-eu
-  67. https://www.gov.uk/guidance/using-a-suppliers-declaration-to-support-a-proof-of-origin

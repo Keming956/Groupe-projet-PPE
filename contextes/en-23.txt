@@ -1,9 +1,9 @@
 
-    1. [36]Home
-    2. [37]Alcohol duties
-    3. [38]UK Trade Tariff: excise duties, reliefs, drawbacks and
-       allowances
+    1. Home
+    2. Alcohol duties
+    3. UK Trade Tariff: excise duties, reliefs, drawbacks and allowances
 
+     * HM Revenue
 --
    Guidance
 
@@ -11,10 +11,10 @@ UK Trade Tariff: excise duties, reliefs, drawbacks and allowances on or
 before 31 July 2023
 
 --
-   11. [50]11. Climate Change Levy
-   12. [51]12. Biofuels
-   13. [52]13. Reliefs from excise duty
-   14. [53]14. Excise drawbacks and allowances
+   11. 11. Climate Change Levy
+   12. 12. Biofuels
+   13. 13. Reliefs from excise duty
+   14. 14. Excise drawbacks and allowances
 
 --
    This publication is available at
@@ -31,9 +31,9 @@ before 31 July 2023
 --
      * biofuels
 
-   Use this guide with the [56]Trade Tariff: look up commodity codes, duty
-   and VAT rates to help with commodity code numbers (for example, 2204 10
-   11 for certain wines).
+   Use this guide with the Trade Tariff: look up commodity codes, duty and
+   VAT rates to help with commodity code numbers (for example, 2204 10 11
+   for certain wines).
 
    This part also contains some information and reference about excise
    drawback and excise duty reliefs.
@@ -57,8 +57,8 @@ before 31 July 2023
    addition to the commodity description and code number each excisable
    item has allocated a tax type code number (for example, 451 for
    spirits). These identify the type and rate of excise duty payable. They
-   are included in the tables listed in section [57]Wine and made-wine.
-   [58]UK Trade Tariff: Box 47(a) tax type codes also lists tax codes
+   are included in the tables listed in section Wine and made-wine. UK
+   Trade Tariff: Box 47(a) tax type codes also lists tax codes which are
 --
    strengths measured by reference to the following percentages of alcohol
    at a temperature of 20°C).
@@ -78,6 +78,23 @@ before 31 July 2023
    Made in UK (standard rate, that is, annual production more than 60,000
    hectolitres) 407 £19.08 for each hectolitre per 1% ABV charged to the
 --
+   (and the respective proportionate charges for parts of hectolitres)
+   If total ABdoes not exceed 1.2% 431 Nil
+   Made in UK — high strength Beer Duty (applies to beer exceeding 7.5%
+   ABV — general Beer Duty is also due on all UK-produced high strength
+   beer) 445 £5.69 for each hectolitre per 1% ABV charged to the nearest
+   0.1% ABV (and the respective proportionate charges for parts of
+   hectolitres)
+   Imported beer — high strength Beer Duty (applies to beer exceeding 7.5%
+   ABV — general Beer Duty is also due on all imported high strength beer)
+   447 £5.69 for each hectolitre per 1% ABV charged to the nearest 0.1%
+   ABV (and the respective proportionate charges for parts of hectolitres)
+   Made in UK — reduced rate of general Beer Duty (applies to beer
+   exceeding 1.2% ABVbut not exceeding 2.8% ABV) 444 £8.42 for each
+   hectolitre per 1% ABV c res)
+   Imported beer — reduced rate of general Beer Duty (applies to beer
+   exceeding 1.2% ABV but not exceeding 2.8% ABV) 446 £8.42 for each
+   hectolitre per 1% ABV charged to the nearest 0.1% ABV (and the
    respective proportionate charges for parts of hectolitres)
 
    Reduced rates of duty were introduced from 1 June 2002 for beer
@@ -110,12 +127,19 @@ before 31 July 2023
    Low alcohol beverages made from malt exceeding 0.5% ABV but not
    exceeding 1.2% ABV are not liable to excise duty.
 
-   Examples of beer-based beverages are set out in the section on [61]Low
+   Examples of beer-based beverages are set out in the section on Low
    alcohol beverages which also shows the rate of excise duty for these
    products up to 5.5% ABV. Beer and spirits mixtures exceeding 1.2% ABV
    are liable to duty at the spirits rate. Beer mixtures containing
    dutiable liquors other than spirits and exceeding 5.5% ABV are liable
    at the appropriate made-wine rate.
+
+   Small brewery beer relief will still be available on the general Beer
+   Duty element of beer above 7.5% ABV. However, it will not apply to high
+   strength Beer Duty and no further relief will be applied to the reduced
+   rate of general Beer Duty for lower strength beers.
+
+4. Cider and perry
 --
    Cider (or perry) — manufactured in the UK by a registered maker of
    cider or perry or imported.
@@ -156,6 +180,12 @@ before 31 July 2023
    strength exceeding 1.2% ABV but not exceeding 5.5% ABV and cannot be
    dutiable as a ‘made-wine’.
 --
+          + any alcoholic liquor or other alcoholic substance
+
+   A reduced rate of general Beer Duty should be applied to beer-based
+   beverages of an alcoholic strength exceeding 1.2% ABV but not exceeding
+   2.8% ABV. The tax type codes 444 or 446 should be used based on the
+--
 7. Imported composite goods containing alcohol
 
    Goods containing ingredients liable to excise duty are chargeable with:
@@ -183,6 +213,13 @@ before 31 July 2023
    the cigar, which may exclude any detachable filter or mouthpiece Not
    applicable
 --
+8.1 Definitions and notes
+
+   For the purposes of Tobacco Products Duty, tobacco products are defined
+   in the Tobacco Products (Descriptions of Products) Order 2003 SI
+   2003/1471. The following is a summary of those definitions.
+--
+9. Hydrocarbon oil
 
    The Hydrocarbon Oil Duties Act 1979 (HODA) specifies full rates of
    excise duty on mineral oils and rebates of duty. The effect of applying
@@ -217,7 +254,7 @@ before 31 July 2023
 
    Eligibility for rebate, as set out, is restricted as follows.
 --
-   be observed are set out in [76]Excise Notice 179.
+   be observed are set out in Excise Notice 179.
 
    The excise duty on hydrocarbon oil removed to a refinery, instead of
    being charged at the time of importation, is charged on the delivery of
@@ -239,6 +276,12 @@ before 31 July 2023
      * oil delivered without payment of excise duty
 
    except under and in accordance with either an approval granted by the
+--
+   Commissioners.
+
+   For excisedDuty purposes the methods of test whether any material is
+   solid or semi-solid at a temperature of 15°C, and for the distillation
+   characteristics of oil, are those laid down by the Institute of
 --
 
    Goods containing mineral oils as a part or ingredient of them are not
@@ -294,66 +337,82 @@ before 31 July 2023
 --
 Nature and conditions of relief
 
+   Duty paid on alcohol which has been used for these purposes can be
+   claimed back (see Excise Notice 41), section 4.
+
+--
+   Having been removed from the registered premises of a brewer and
+   returned to the brewer as spoilt or otherwise unfit for use (Alcoholic
+   Liquor Duties Act 1979, section 46(1).
+
+Nature and conditions of relief
+
    Remission or repayment of duty (see the Beer Regulations 1993).
    Statutory Instrument 1993/1228/ — Part IX covers spoilt beer (see
-   [80]Excise Notice 226).
+   Excise Notice 226).
 --
+   Scope of relief and statutory provision Nature and conditions of relief
    Contained in an article, imported or delivered from warehouse,
    recognised as being used for medical purposes (Alcoholic Liquor Duties
-   Act 1979, section 7). Free of duty (see [81]Excise Notice 47).
+   Act 1979, section 7). Free of duty (see Excise Notice 47).
    Proved to the satisfaction of the Commissioners of Revenue and Customs
    to have been used for scientific purposes or used solely in the
    manufacture or preparation of articles recognized by them as being used
    for medical purposes. (Alcoholic Liquor Duties Act 1979, section 8).
    Spirits for these purposes can be used for received duty free, from an
-   excise warehouse by trades as properly authorized (see [82]Excise
-   Notice 47).
+   excise warehouse by trades as properly authorized (see Excise Notice
+   47).
    Delivered from excise warehouse for use in the conditions manufacture
    of denatured alcohol. (Alcoholic Liquor Duties Act 1979, section 75).
    Free of spirits duty subject to such as the Commissioners see fit to
-   impose (see [83]Excise Notice 473).
+   impose (see Excise Notice 473).
    Delivered from excise warehouse to authorised persons for use in any
---
+   art or manufacture where the Commissioners of Revenue and Customs are
    satisfied that the use of denatured alcohol is unsuitable or
    detrimental (Alcoholic Liquor Duties Act 1979, section 10). Free of
    duty subject to such conditions as the Commissioners see fit to impose
-   (see [84]Excise Notice 47).
+   (see Excise Notice 47).
    Contained in goods not for human consumption (Alcoholic Liquor Duties
    Act 1979, section 11). Free of duty, subject to certain conditions (see
-   [85]Excise Notice 64).
+   Excise Notice 64).
    Used in warehouse in specified proportions to fortify made-wine or wine
    (Alcoholic Liquor Duties Act 1979, sections 57 and 68). Free of spirits
    duty subject to such conditions as the Commissioners see fit to impose.
 
 13.5 Tobacco products
 --
+
+   Used solely for the purposes of research or experiment (Tobacco
+   Products Duty Act 1979, section 2(2)).
+
 Nature and conditions of relief
 
    Free of duty subject to such conditions as the Commissioners see fit to
-   impose (see [86]Excise Notice 476).
+   impose (see Excise Notice 476).
 
 --
+   Scope of relief and statutory provision Nature and conditions of relief
    Used on board vessels including hovercraft but not pleasure craft
    engaged on marine voyages (Hydrocarbon Oil Duties Act (Marine Voyager
    Reliefs) Regulations 1996). Light oil — repayment of duty paid.
-   Heavy oil — shipment duty-free or repayment of duty paid (see
-   [87]Excise Notice 263).
+   Heavy oil — shipment duty-free or repayment of duty paid (see Excise
+   Notice 263).
    Consumed in premises approved by the Commissioners of Revenue and
    Customs as a refinery in a process of chemical conversion into
    substances other than hydrocarbon oil. (Hydrocarbon Oil Duties Act
-   1979, section 6). Free of duty (see [88]Excise Notice 179).
+   1979, section 6). Free of duty (see Excise Notice 179).
    Heavy oil used in horticulture. (Hydrocarbon Oil Duties Act 1979,
-   section 17). Repayment of duty (see [89]Excise Notice 183).
+   section 17). Repayment of duty (see Excise Notice 183).
    Delivered to a person approved by the Commissioners for use other than
    as motor fuel (including as extender or additive to motor fuel) or as
    heating fuel. (Hydrocarbon Oil Duties Act 1979, section 9). Delivery or
    importation free of duty or repayment of any excise duty paid (see
-   [90]Excise Notice 184A).
+   Excise Notice 184A).
    Rebated oil used as fuel in power plants producing energy for the
    treatment or production of oil at refineries or producers’ premises.
    (Hydrocarbon Oil Duties Act 1979, sections 19A and 27(1)). Free of
    excise duty if eligible for full relief, repayment of excise duty if
-   eligible for partial relief (see [91]Excise Notice 179, Appendix K).
+   eligible for partial relief (see Excise Notice 179, Appendix K).
 
 --
 
@@ -366,82 +425,12 @@ Beer
 
    Drawback equal to the excise duty shown to the satisfaction of the
    Commissioners of Revenue and Customs to have been paid (see paragraph
-   on [92]Beer) may be claimed on beer imported or removed from the Isle
-   of Man or produced in the UK on which it is shown that excise duty has
+   on Beer) may be claimed on beer imported or removed from the Isle of
+   Man or produced in the UK on which it is shown that excise duty has
    been paid upon being exported, or shipped as stores.
 
 Conditions and rates — hydrocarbon oil
 
    Drawback equal to the excise duty shown to the satisfaction of the
-   Commissioners to have been paid (see paragraph on [93]Hydrocardon Oil)
-   may be claimed on hydrocarbon oil or any article containing hydrocarbon
---
-References
-
-   1. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/topic/business-tax/alcohol-duties
-  38. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances
-  39. https://www.gov.uk/government/organisations/hm-revenue-customs
-  40. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#introduction
-  41. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine-and-made-wine
-  42. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  43. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#cider-and-perry
-  44. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#spirits
-  45. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#low-alcohol-beverages
-  46. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-alcohol
-  47. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
-  48. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hydrocarbon-oil
-  49. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-mineral-oils
-  50. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#climate-change-levy
-  51. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#biofuels
-  52. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#reliefs-from-excise-duty
-  53. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#excise-drawbacks-and-allowances
-  54. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
-  55. mailto:psi@nationalarchives.gov.uk
-  56. https://www.gov.uk/trade-tariff
-  57. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
-  58. https://www.gov.uk/government/publications/uk-trade-tariff-box-47a-tax-type-codes
-  59. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  60. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine
-  61. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  62. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
-  63. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#candd
-  64. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  65. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  66. https://www.gov.uk/government/publications/excise-notice-64-spirits-in-imported-goods-remission-of-excise-duty
-  67. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
-  68. https://www.gov.uk/guidance/get-relief-for-mineral-oil-put-to-certain-uses-excise-notice-184a#general-information-about-the-approved-distributor-and-user-scheme
-  69. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#light-oil
-  70. https://www.gov.uk/government/publications/excise-notice-75-fuel-for-road-vehicles
-  71. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  72. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#unleaded-petrol
-  73. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  74. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  75. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  76. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  77. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-I
-  78. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-c
-  79. https://www.gov.uk/government/publications/excise-notice-41-alcoholic-ingredients-relief/excise-notice-41-alcoholic-ingredients-relief#sec4
-  80. https://www.gov.uk/government/publications/excise-notice-226-beer-duty
-  81. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  82. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  83. https://www.gov.uk/government/publications/excise-notice-473-production-distribution-and-use-of-denatured-alcohol
-  84. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  85. https://www.gov.uk/government/publications/excise-notice-64-spirits-in-imported-goods-remission-of-excise-duty
-  86. https://www.gov.uk/government/publications/excise-notice-476-tobacco-products-duty
-  87. https://www.gov.uk/government/publications/excise-notice-263-marine-voyages-excise-duty-relief-for-mineral-hydrocarbon-oil
-  88. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  89. https://www.gov.uk/government/publications/excise-notice-183-repayment-of-excise-duty-on-heavy-oil-used-by-growers-of-horticultural-produce
-  90. https://www.gov.uk/government/publications/excise-notice-184a-mineral-oil-put-to-certain-use-excise-duty-relief
-  91. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-k
-  92. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  93. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hoil
-  94. https://www.gov.uk/government/publications/excise-notice-172-excise-duty-drawback-ships-and-aircraft-stores
-  95. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#contents
-  96. https://www.gov.uk/contact/govuk
-  97. https://www.gov.uk/browse/benefits
+   Commissioners to have been paid (see paragraph on Hydrocardon Oil) may
+   be claimed on hydrocarbon oil or any article containing hydrocarbon oil

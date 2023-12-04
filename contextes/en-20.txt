@@ -1,12 +1,24 @@
-     * [68]8. Duty to accommodate
-     * [69]9. Undue hardship
-     * [70]10. Other limits on the duty to accommodate
-     * [71]11. Preventing and responding to discrimination
-     * [72]Appendix A: Purpose of this policy
+
+   Home » Policy on ableism and discrimination based on disability » 8.
+   Duty to accommodate
+
+Policy on ableism and discrimination based on disability
+--
+     * 6. Forms of discrimination
+     * 7. Reprisal
+     * 8. Duty to accommodate
+     * 9. Undue hardship
+     * 10. Other limits on the duty to accommodate
+     * 11. Preventing and responding to discrimination
+     * Appendix A: Purpose of this policy
+
+8. Duty to accommodate
+
+Page controls
 --
 
    Organizational responsibility:
-   [77]duty to accommodate
+   duty to accommodate
 
 Page content
 
@@ -26,29 +38,29 @@ Page content
      have a duty to change working conditions in a fundamental way, but
      does have a duty, if it can do so without undue hardship, to arrange
      the employee's workplace or duties to enable the employee to do his
-     or her work.^[78][120]
+     or her work.^[120]
 
 --
-   education and employment).^[79][121]
+   education and employment).^[121]
 
    The duty to accommodate has both a substantive and a procedural
    component. The procedure to assess an accommodation (the process) is as
    important as the substantive content of the accommodation (the
 --
-   said: “a failure to give any thought or consideration to the issue of
-   accommodation, including what, if any, steps could be taken constitutes
-   a failure to satisfy the ‘procedural’ duty to accommodate.”^[81][123]
+   to give any thought or consideration to the issue of accommodation,
+   including what, if any, steps could be taken constitutes a failure to
+   satisfy the ‘procedural’ duty to accommodate.”^[123]
 
    In Ontario, it is clear that a failure in the procedural duty to
    accommodate can lead to a finding of a breach of the Code even if there
    was no substantive accommodation that could have been provided short of
    undue hardship. Failure to perform either component of the duty is a
-   failure to carry out the duty to accommodate.^[82][124]
+   failure to carry out the duty to accommodate.^[124]
 
    Moreover, an organization will not be able to argue persuasively that
    providing accommodation would cause undue hardship if it has not taken
    steps to explore accommodation solutions, and otherwise fulfil the
-   procedural component of the duty to accommodate.^[83][125]
+   procedural component of the duty to accommodate.^[125]
 
      Example: In one case, a human rights tribunal upheld a claim of
 --
@@ -58,7 +70,7 @@ Page content
    dignity, individualization, as well as integration and full
    participation.
 --
-   person.”^[85][127]
+   violation of the inherent dignity and worth of the human person.”^[127]
 
    The duty to accommodate people with disabilities means accommodation
    must be provided in the way that most respects the dignity of the
@@ -70,7 +82,7 @@ Page content
    accommodation be determined and provided, unless this causes undue
 
 --
-   expensive or less disruptive to the organization.^[108][150]
+   expensive or less disruptive to the organization.^[150]
 
 8.3.1 Essential duties and requirements
 
@@ -107,16 +119,16 @@ Page content
      employer violated the Code when it based its decision to place the
      employee in a lower-paying position on its belief about the
 --
-   necessary.^[112][154]
+   necessary.^[154]
 
    The duty to accommodate does not require exempting a person from
-   performing the essential duties of the job,^[113][155] requirements of
-   the service, etc. In the context of employment, the duty to accommodate
+   performing the essential duties of the job,^[155] requirements of the
+   service, etc. In the context of employment, the duty to accommodate
    does not require an employer to fundamentally change the working
    conditions of employees, assign the essential duties of an employee
    with a disability to other employees or change the essential duties and
-   requirements of a position.^[114][156] In these cases, a next-best
-   solution, such as alternative work, may need to be found.
+   requirements of a position.^[156] In these cases, a next-best solution,
+   such as alternative work, may need to be found.
 
      Example: A delivery truck driver’s duties included loading skids of
      product onto a truck, and unloading them at his destination. He
@@ -132,7 +144,7 @@ Page content
      disability to other employees or to hire another employee to perform
      them in the employee's place. An employer is also not required to
      change the essential duties and requirements of a position so that
-     an employee can meet them.^[115][157]
+     an employee can meet them.^[157]
 
 --
 8.3.2.1 Alternative work
@@ -142,15 +154,15 @@ Page content
    be feasible. Human rights case law recognizes that employers have a
    duty to consider temporary and permanent alternative work for people
    who can no longer remain in their position even with
-   accommodation.^[116][158] This duty includes diligently investigating
-   positions and proposing job options^[117][159] that are within the
-   person’s functional limitations.^[118][160]
+   accommodation.^[158] This duty includes diligently investigating
+   positions and proposing job options^[159] that are within the person’s
+   functional limitations.^[160]
 --
-   work.^[123][165]
+   work.^[165]
 
    The duty to accommodate may include some workplace
-   reorganization.^[124][166] For example, it may require employers to
-   consider placing an employee with a disability into a vacant position
+   reorganization.^[166] For example, it may require employers to consider
+   placing an employee with a disability into a vacant position without
 --
      positions available at the company. He is generally qualified for
      one of these positions, but does not know how to use a computer
@@ -160,18 +172,18 @@ Page content
 
    The duty to accommodate does not require the employer to completely
    alter the essence of the contract of employment, that is, the
-   employee’s duty to perform work in exchange for
-   remuneration.^[126][168] The duty to accommodate does not require an
-   employer to provide “make work” or “to create a job that is not
-   productive or that, in the employer’s view, does not need to be
+   employee’s duty to perform work in exchange for remuneration.^[168] The
+   duty to accommodate does not require an employer to provide “make work”
+   or “to create a job that is not productive or that, in the employer’s
+   view, does not need to be done.”^[169] Nor is an employer required to
 --
 
    The right of people with disabilities to return to work exists if the
    worker can fulfil the essential duties of the job after accommodation
-   short of undue hardship.^[133][175] If a person cannot fulfil the
-   essential duties of the pre-disability job, despite the employer's
-   effort to accommodate short of undue hardship, the employer still has
-   an obligation to canvass alternative work possibilities, as outlined
+   short of undue hardship.^[175] If a person cannot fulfil the essential
+   duties of the pre-disability job, despite the employer's effort to
+   accommodate short of undue hardship, the employer still has an
+   obligation to canvass alternative work possibilities, as outlined
 --
 
    Under the Code, there is no fixed rule as to how long an employee with
@@ -179,7 +191,7 @@ Page content
    This will depend on the ability of the employee to perform the
    essential duties of the job considering the unique circumstances of
    every absence and the nature of the employee’s condition, as well as
-   circumstances in the workplace.^[134][176] Also important is the
+   circumstances in the workplace.^[176] Also important is the
 --
    recur and the frequency of the absence. The employee’s prognosis and
    length of absence are also important considerations. It is more likely
@@ -187,32 +199,38 @@ Page content
    regardless of the length of absence.
 
    The duty to accommodate does not necessarily guarantee a limitless
-   right to return to work.^[135][177] On the other hand, a return to work
+   right to return to work.^[177] On the other hand, a return to work
    program that relies on arbitrarily selected cut-offs or that requires
 --
 
    The Supreme Court of Canada has set out a framework for examining
-   whether the duty to accommodate has been met.^[138][180] If prima
+   whether the duty to accommodate has been met.^[180] If prima
    facie discrimination (or discrimination on its face) is found to exist,
    a respondent must establish on a balance of probabilities that the
 --
    Employment
-     * allowing a flexible work schedule^[143][185]
-     * modifying job duties^[144][186]
+     * allowing a flexible work schedule^[185]
+     * modifying job duties^[186]
      * modifying policies
      * making changes to the building (for example, installing ramps, hand
 --
    Keeping in mind that everyone experiences disability differently,
    accommodation providers are also required to educate themselves about
    the nature and impact of disabilities as part of the procedural duty to
-   accommodate,^[155][197] and to dispel any misperceptions or stereotypes
-   that employees, other tenants or service staff or users may have about
+   accommodate,^[197] and to dispel any misperceptions or stereotypes that
+   employees, other tenants or service staff or users may have about
+--
+   poisoned environment for the person with the disability.
+
+8.6 Duties and responsibilities in the accommodation process
+
+   The accommodation process is a shared responsibility. Everyone involved
 --
      * bear the cost of required accommodation.
 
    Although the person seeking accommodation has a duty to assist in
    securing appropriate accommodation that will meet their needs, they are
-   not responsible for originating a solution^[166][208] or leading the
+   not responsible for originating a solution^[208] or leading the
 --
    the co-operation of the person seeking accommodation. After
    accommodation is provided, the person receiving the accommodation is
@@ -220,6 +238,8 @@ Page content
    tenancy, or taking part in a service.
 
 --
+   assessment.
+
 8.6.1 Duty to inquire about accommodation needs
 
    In general, the duty to accommodate a disability exists for needs that
@@ -233,14 +253,14 @@ Page content
      accommodation where it is aware of facts that indicate that the
      employee may be having difficulties because of disability; there is
      a duty to take the initiative to inquire in these
-     circumstances.”^[173][215]
+     circumstances.”^[215]
 
    Where an organization is aware, or reasonably ought to be aware, that
    there may be a relationship between a disability and someone’s job
    performance, or their abilities to fulfil their duties as a tenant or
    service user, the organization has a “duty to inquire” into that
    possible relationship before making a decision that would affect the
-   person adversely.^[174][216] This includes providing a meaningful
+   person adversely.^[216] This includes providing a meaningful
 --
 
    Where a person exhibits inappropriate behaviour due to a disability,
@@ -256,18 +276,18 @@ Page content
 --
 
    Once disability-related needs are known, the legal onus shifts to those
-   with the duty to accommodate.^[177][219] For example, support or
-   referral through employee assistance programs (EAPs) could be the
-   solution for an underlying disability.
+   with the duty to accommodate.^[219] For example, support or referral
+   through employee assistance programs (EAPs) could be the solution for
+   an underlying disability.
 --
-   employees, tenants and service users.^[178][220] At the same time,
+   employees, tenants and service users.^[220] At the same time,
    organizations must have enough information to allow them to meet their
    duty to accommodate.
 
    As stated above, the person seeking accommodation is generally required
 --
-   accommodation in good faith.^[179][221] A person with a disability does
-   not have to meet an onerous standard for initially communicating that a
+   accommodation in good faith.^[221] A person with a disability does not
+   have to meet an onerous standard for initially communicating that a
    disability exists to trigger the organization’s duty to accommodate.
    Organizations should limit requests for information to those reasonably
    related to the nature of the limitation or restriction, to assess needs
@@ -275,8 +295,8 @@ Page content
      * that the person has a disability
      * the limitations or needs associated with the disability
      * whether the person can perform the essential duties or requirements
-       of the job^[180][222], of being a tenant, or of being a service
-       user, with or without accommodation
+       of the job^[222], of being a tenant, or of being a service user,
+       with or without accommodation
      * the type of accommodation(s) that may be needed to allow the person
        to fulfill the essential duties or requirements of the job, of
        being a tenant, or of being a service user, etc.
@@ -286,19 +306,19 @@ Page content
      to provide. The Ontario Divisional Court stated that the co-op had a
      duty to respect the rights of its occupants under the Ontario Human
      Rights Code and to accommodate the needs of an occupant with a
-     disability, to the point of undue hardship.^[181][223]
+     disability, to the point of undue hardship.^[223]
 --
-   ^[201][124] In Lane, supra note 6, the HRTO held at para. 150 that a
-   failure to meet the procedural dimensions
+   ^[124] In Lane, supra note 6, the HRTO held at para. 150 that a failure
+   to meet the procedural dimensions
    of the duty to accommodate is a form of discrimination in itself
    because it “denies the affected person
    the benefit of what the law requires: a recognition of the obligation
 --
-   stated at para. 186: “…while human rights principles include an
-   acknowledgment that not every barrier can be eliminated, they also
-   include a duty to prevent new ones, or at least, not knowingly to
-   perpetuate old ones where preventable.” Organizations, including
-   government, should design their programs, services and facilities
+   ^[141] In VIA Rail, supra note 6, the Supreme Court of Canada stated at
+   para. 186: “…while human rights principles include an acknowledgment
+   that not every barrier can be eliminated, they also include a duty to
+   prevent new ones, or at least, not knowingly to perpetuate old ones
+   where preventable.” Organizations, including government, should design
 --
    para. 31.
 
@@ -361,6 +381,11 @@ Page content
    engage in a fuller exploration of the nature of bipolar disorder and to
    form a better informed prognosis of the likely impact of his condition
 --
+   ^[198] See Dawson, supra note 33 at paras. 243-245.
+
+   ^[199] See section 8.6.1 of this Policy on “Duty to inquire about
+   accommodation needs” for information on when an organization is
+   expected to inquire about accommodation needs, even when a person may
    not have made a specific request.
 
    ^[200] In Baber, supra note 12, the HRTO found that even if the duty to
@@ -390,185 +415,3 @@ Page content
    we cannot impose a duty to disclose a conclusive medical diagnosis.”
    Some people may present with a set of symptoms, but without a specific
    diagnosis. See Ball, supra note 56.
---
-   2. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability
-   3. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-   4. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-content-wrapper
-   5. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#block-book-navigation
-   6. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-content-wrapper
-   7. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-menu-wrapper
-   8. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#section-footer
-   9. https://www.googletagmanager.com/ns.html?id=GTM-WT4KDF3
-  10. https://www3.ohrc.on.ca/en
-  11. https://www3.ohrc.on.ca/en
-  12. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
-  13. https://www3.ohrc.on.ca/fr/politique-sur-le-capacitisme-et-la-discrimination-fondée-sur-le-handicap/8-obligation-d’accommodement
-  14. https://www.facebook.com/the.ohrc
---
-  66. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/6-forms-discrimination
-  67. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
-  68. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
-  69. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-  70. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/10-other-limits-duty-accommodate
-  71. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/11-preventing-and-responding-discrimination
-  72. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/appendix-purpose-policy
-  73. https://www3.ohrc.on.ca/en/book/export/html/18936
-  74. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#tags
-  75. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
-  76. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-  77. https://www3.ohrc.on.ca/en/tag/organizational-responsibility/duty-accommodate
-  78. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn120
-  79. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn121
-  80. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn122
-  81. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn123
-  82. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn124
-  83. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn125
-  84. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn126
-  85. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn127
-  86. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn128
-  87. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn129
-  88. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn130
-  89. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn131
-  90. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn132
-  91. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn133
-  92. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn134
-  93. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn135
-  94. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn136
-  95. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn137
-  96. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn138
-  97. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn139
-  98. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn140
-  99. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn141
- 100. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn142
- 101. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn143
- 102. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn144
- 103. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn145
- 104. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn146
- 105. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn147
- 106. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn148
- 107. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn149
- 108. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn150
- 109. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn151
- 110. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn152
- 111. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn153
- 112. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn154
- 113. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn155
- 114. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn156
- 115. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn157
- 116. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn158
- 117. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn159
- 118. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn160
- 119. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn161
- 120. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn162
- 121. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn163
- 122. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn164
- 123. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn165
- 124. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn166
- 125. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn167
- 126. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn168
- 127. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn169
- 128. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn170
- 129. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn171
- 130. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn172
- 131. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn173
- 132. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn174
- 133. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn175
- 134. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn176
- 135. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn177
- 136. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn178
- 137. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn179
- 138. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn180
- 139. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn181
- 140. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn182
- 141. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn183
- 142. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn184
- 143. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn185
- 144. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn186
- 145. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn187
- 146. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn188
- 147. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn189
- 148. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn190
- 149. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn191
- 150. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn192
- 151. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn193
- 152. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn194
- 153. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn195
- 154. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn196
- 155. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn197
- 156. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn198
- 157. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn199
- 158. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn200
- 159. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn201
- 160. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn202
- 161. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn203
- 162. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn204
- 163. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn205
- 164. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn206
- 165. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn207
- 166. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn208
- 167. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn209
- 168. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn210
- 169. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn211
- 170. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn212
- 171. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn213
- 172. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn214
- 173. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn215
- 174. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn216
- 175. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn217
- 176. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn218
- 177. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn219
- 178. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn220
- 179. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn221
- 180. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn222
- 181. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn223
- 182. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn224
- 183. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn225
- 184. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn226
- 185. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn227
- 186. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn228
- 187. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn229
- 188. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn230
- 189. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn231
- 190. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn232
- 191. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn233
- 192. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn234
- 193. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn235
- 194. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn236
- 195. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn237
- 196. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref120
- 197. https://www.canlii.org/en/ca/scc/doc/2008/2008scc43/2008scc43.html
- 198. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref121
- 199. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref122
- 200. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref123
- 201. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref124
- 202. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref125
- 203. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref126
- 204. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref127
- 205. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref128
- 206. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref129
- 207. https://www.canlii.org/en/ca/scc/doc/2007/2007scc4/2007scc4.html
- 208. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref130
- 209. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref131
- 210. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref132
- 211. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref133
- 212. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref134
- 213. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref135
- 214. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref136
- 215. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref137
- 216. http://www.ohrc.on.ca/en/re-ohchr-thematic-study-participation-persons-disabilities-political-and-public-life
- 217. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref138
- 218. http://www.ontario.ca/laws/statute/90e06
- 219. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref139
- 220. http://www.elections.on.ca/en/voting-in-ontario/how--when-and-where-to-vote/when-and-where-to-vote/accessible-voting.html
- 221. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref140
- 222. http://www.mcss.gov.on.ca/documents/en/mcss/publications/accessibility/Quickreferenceguidetoaccessibleallcandidatesmeetin.pdf
- 223. http://www.ohrc.on.ca/en/elections-accessibility-letter-executive-all-political-parties-registered-ontario
- 224. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref141
- 225. http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/
- 226. https://www.canlii.org/en/on/onhrt/doc/2014/2014hrto766/2014hrto766.html
---
- 236. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
- 237. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
- 238. https://www3.ohrc.on.ca/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
- 239. https://www3.ohrc.on.ca/en/about-commission
- 240. https://www3.ohrc.on.ca/en/our_work/business_plans

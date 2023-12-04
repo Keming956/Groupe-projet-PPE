@@ -1,35 +1,36 @@
 
-    1. [36]Home
-    2. [37]Stamp duty and other tax on property
+    1. Home
+    2. Stamp duty and other tax on property
 
    Guidance
+
+Stamp Duty Land Tax: temporary reduced rates
+
+   Reduced rates of Stamp Duty Land Tax (SDLT) will apply for residential
+   properties purchased from 8 July 2020 until 30 June 2021 and from 1
+   July 2021 to 30 September 2021 inclusive.
 --
+Overview
+
+   The temporary increase to the nil rate band for Stamp Duty Land Tax
+   (SDLT), which is the rate before you start paying SDLT on residential
+   property has been extended.
+--
+   Last updated 8 June 2021 + show all updates
+    1. 8 June 2021
+       Guidance about when the rate of Stamp Duty Land Tax which applies
+       to your purchase has been added.
+    2. 3 March 2021
+--
+Related content
+
+     * Stamp Duty: rates on land transfers before December 2003
+     * Stamp Duty Land Tax: Scottish transactions
+     * Stamp Duty Land Tax: shared ownership property
+     * Apply to be a UK Real Estate Investment Trust
+
 Explore the topic
 
-     * [55]Stamp duty and other tax on property
+     * Stamp duty and other tax on property
 
 Is this page useful?
---
-References
-
-   1. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  37. https://www.gov.uk/topic/business-tax/stamp-taxes
-  38. https://www.gov.uk/government/organisations/hm-revenue-customs
-  39. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#full-publication-update-history
-  40. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#overview
-  41. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#residential-rates-on-purchases-from-8-july-2020-to-30-june-2021
-  42. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#residential-rates-on-purchases-from-1-july-2021-to-30-september-2021
-  43. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#higher-rates-for-additional-properties
-  44. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#new-leasehold-sales-and-transfers
-  45. https://www.gov.uk/buy-sell-your-home/transferring-ownership-conveyancing
-  46. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  47. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  48. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  49. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#full-history
-  50. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#contents
-  51. https://www.gov.uk/guidance/stamp-duty-rates-on-land-transfers-before-december-2003
-  52. https://www.gov.uk/guidance/sdlt-scottish-transactions
-  53. https://www.gov.uk/guidance/sdlt-shared-ownership-property

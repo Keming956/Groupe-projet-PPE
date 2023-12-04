@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,18 +68,18 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Business and industry
-    3. [38]Trade and investment
-    4. [39]Importing
-    5. [40]Import controls
+    1. Home
+    2. Business and industry
+    3. Trade and investment
+    4. Importing
+    5. Import controls
 
    Guidance
 
@@ -89,31 +89,31 @@ UK Trade Tariff: duty suspensions and autonomous tariff quotas
    goods into the UK.
 
    From:
-          [41]Department for Business and Trade, [42]HM Treasury, and
-          [43]HM Revenue & Customs
+          Department for Business and Trade, HM Treasury, and HM Revenue &
+          Customs
 
    Published
           6 August 2012
 
    Last updated
-          23 November 2023 — [44]See all updates
+          23 November 2023 — See all updates
 
    (BUTTON) Get emails about this page
 
 Contents
 
-    1. [45]Duty suspensions and autonomous tariff quotas
-    2. [46]Current duty suspensions
-    3. [47]Apply for a new duty suspension
-    4. [48]How we will assess applications in 2023
-    5. [49]Outcome of the 2021 duty suspension window
-    6. [50]Coronavirus (COVID-19) critical products
-    7. [51]Sunflower-seed oil
-    8. [52]Current ATQs
-    9. [53]ATQs for fish products
-   10. [54]ATQ for raw cane sugar
-   11. [55]UK Global Tariff
-   12. [56]Contact us
+    1. Duty suspensions and autonomous tariff quotas
+    2. Current duty suspensions
+    3. Apply for a new duty suspension
+    4. How we will assess applications in 2023
+    5. Outcome of the 2021 duty suspension window
+    6. Coronavirus (COVID-19) critical products
+    7. Sunflower-seed oil
+    8. Current ATQs
+    9. ATQs for fish products
+   10. ATQ for raw cane sugar
+   11. UK Global Tariff
+   12. Contact us
 
    (BUTTON) Print this page
 
@@ -140,13 +140,13 @@ Duty suspensions and autonomous tariff quotas
    When more than one tariff concession applies, importers will wish to
    ensure that their goods are entered at the most advantageous rate.
 
-   Read guidance on [57]declaring goods ‘not at risk’ of moving to the EU
-   if you are importing goods subject to a duty suspension or an ATQ into
+   Read guidance on declaring goods ‘not at risk’ of moving to the EU if
+   you are importing goods subject to a duty suspension or an ATQ into
    Northern Ireland.
 
 Current duty suspensions
 
-   Find the current duty suspensions and quotas using the [58]Trade Tariff
+   Find the current duty suspensions and quotas using the Trade Tariff
    lookup tool.
 
    Duty suspensions for products which previously existed in the UK under
@@ -175,8 +175,8 @@ Apply for a new duty suspension
 
    The objections window has now closed, but the list is still accessible
    below.
-     * [59]Notice of UK duty suspensions: 2023 application window (ODS,
-       28.0 KB)
+     * Notice of UK duty suspensions: 2023 application window (ODS, 28.0
+       KB)
 
    The list is not an indication of whether an application has been
    successful. The government expects to confirm the outcome of all
@@ -196,8 +196,8 @@ Apply for a new duty suspension
    The criteria and examples of the wider considerations the government
    will consider when assessing applications are set out below.
 
-   Continue to monitor this page for updates or [60]subscribe to get
-   emails alerts for this page.
+   Continue to monitor this page for updates or subscribe to get emails
+   alerts for this page.
 
 How we will assess applications in 2023
 
@@ -205,10 +205,10 @@ How we will assess applications in 2023
    following criteria:
      * the product you are seeking a suspension on should not be not
        traded between persons who are related parties (defined in
-       [61]Regulation 8(4) of the Customs Tariff (Suspension of Import
-       Duty Rates) (EU Exit) Regulations 2020) in circumstances which
-       would not enable other United Kingdom businesses to benefit from
-       the suspension
+       Regulation 8(4) of the Customs Tariff (Suspension of Import Duty
+       Rates) (EU Exit) Regulations 2020) in circumstances which would not
+       enable other United Kingdom businesses to benefit from the
+       suspension
      * the same product (falling under the same commodity code) or similar
        products, should not be produced in the UK or Crown Dependencies,
        not produced in sufficient quantities, or production should be
@@ -251,8 +251,8 @@ Outcome of the 2021 duty suspension window
    The government invited applications for duty suspensions between 1 June
    and 31 July 2021. As a result, over 100 measures were implemented on 1
    January 2023.
-     * [62]List of business suspensions resulting from the 2021
-       application window (ODT, 55.1 KB)
+     * List of business suspensions resulting from the 2021 application
+       window (ODT, 55.1 KB)
 
 Coronavirus (COVID-19) critical products
 
@@ -267,7 +267,7 @@ Coronavirus (COVID-19) critical products
 
    In an effort to provide continuity for businesses and ease pressures on
    the NHS, these suspensions are now extended until 31 December 2028.
-     * [63]List of tariff suspensions on medical and pharmaceutical goods
+     * List of tariff suspensions on medical and pharmaceutical goods
        (ODT, 50.7 KB)
 
 Sunflower-seed oil
@@ -283,7 +283,7 @@ Current ATQs
      * 1 ATQ for raw cane sugar
 
    Read more detail on these products:
-     * [64]List of autonomous tariff quotas (ODT, 29.6 KB)
+     * List of autonomous tariff quotas (ODT, 29.6 KB)
 
 ATQs for fish products
 
@@ -345,15 +345,15 @@ ATQ for raw cane sugar
 
 UK Global Tariff
 
-   Find more [65]guidance on tariffs on goods imported into the UK. This
-   page also sets out how you can provide feedback on the tariff.
+   Find more guidance on tariffs on goods imported into the UK. This page
+   also sets out how you can provide feedback on the tariff.
 
 Contact us
 
    For queries about tariff suspensions or ATQs, contact
-   [66]tariffsuspensions@businessandtrade.gov.uk.
+   tariffsuspensions@businessandtrade.gov.uk.
    Published 6 August 2012
-   Last updated 23 November 2023 [67]+ show all updates
+   Last updated 23 November 2023 + show all updates
     1. 23 November 2023
        Updating the extensions of current duty suspensions to 31 December
        2028.
@@ -485,28 +485,28 @@ Contact us
 
    (BUTTON) Get emails about this page
    (BUTTON) Print this page
-   [68]Contents
+   Contents
 
 Related content
 
-     * [69]Reference Documents for The Customs Tariff (Suspension of
-       Import Duty Rates) (EU Exit) Regulations 2020
-     * [70]Find out when to make an exit summary declaration
-     * [71]Declaring goods you bring into Northern Ireland 'not at risk’
-       of moving to the EU
-     * [72]Reference Documents for The Customs (Tariff Quotas) (EU Exit)
+     * Reference Documents for The Customs Tariff (Suspension of Import
+       Duty Rates) (EU Exit) Regulations 2020
+     * Find out when to make an exit summary declaration
+     * Declaring goods you bring into Northern Ireland 'not at risk’ of
+       moving to the EU
+     * Reference Documents for The Customs (Tariff Quotas) (EU Exit)
        Regulations 2020
-     * [73]Get proof of origin for your goods
+     * Get proof of origin for your goods
 
 Explore the topic
 
-     * [74]Rules for specific goods and services
-     * [75]UK Trade Tariff and classification of goods
-     * [76]Import controls
+     * Rules for specific goods and services
+     * UK Trade Tariff and classification of goods
+     * Import controls
 
 Is this page useful?
 
-     * [77]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -539,160 +539,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [78]Benefits
-     * [79]Births, death, marriages and care
-     * [80]Business and self-employed
-     * [81]Childcare and parenting
-     * [82]Citizenship and living in the UK
-     * [83]Crime, justice and the law
-     * [84]Disabled people
-     * [85]Driving and transport
-     * [86]Education and learning
-     * [87]Employing people
-     * [88]Environment and countryside
-     * [89]Housing and local services
-     * [90]Money and tax
-     * [91]Passports, travel and living abroad
-     * [92]Visas and immigration
-     * [93]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [94]Departments
-     * [95]News
-     * [96]Guidance and regulation
-     * [97]Research and statistics
-     * [98]Policy papers and consultations
-     * [99]Transparency
-     * [100]How government works
-     * [101]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [102]Help
-     * [103]Privacy
-     * [104]Cookies
-     * [105]Accessibility statement
-     * [106]Contact
-     * [107]Terms and conditions
-     * [108]Rhestr o Wasanaethau Cymraeg
-     * [109]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [110]Open Government Licence v3.0,
-   except where otherwise stated
-   [111]© Crown copyright
-
-References
-
-   1. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/business-and-industry
-  38. https://www.gov.uk/business-and-industry/trade-and-investment
-  39. https://www.gov.uk/business-and-industry/importing
-  40. https://www.gov.uk/business-and-industry/import-controls
-  41. https://www.gov.uk/government/organisations/department-for-business-and-trade
-  42. https://www.gov.uk/government/organisations/hm-treasury
-  43. https://www.gov.uk/government/organisations/hm-revenue-customs
-  44. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#full-publication-update-history
-  45. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#duty-suspensions-and-autonomous-tariff-quotas
-  46. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#current-duty-suspensions
-  47. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#apply-for-a-new-duty-suspension
-  48. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#how-we-will-assess-applications-in-2023
-  49. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#outcome-of-the-2021-duty-suspension-window
-  50. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#coronavirus-covid-19-critical-products
-  51. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#sunflower-seed-oil
-  52. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#current-atqs
-  53. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#atqsfor-fish-products
-  54. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#atqfor-raw-cane-sugar
-  55. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#uk-global-tariff
-  56. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#contact-us
-  57. https://www.gov.uk/guidance/check-if-you-can-declare-goods-you-bring-into-northern-ireland-not-at-risk-of-moving-to-the-eu
-  58. https://www.gov.uk/trade-tariff
-  59. https://assets.publishing.service.gov.uk/media/6528ff382548ca000dddf238/notice-of-UK-duty-suspensions_2023-application-window_published-20-September-2023.ods
-  60. https://www.gov.uk/email/subscriptions/single-page/new?topic_id=uk-trade-tariff-duty-suspensions-and-tariff-quotas
-  61. https://www.legislation.gov.uk/uksi/2020/1435/made
-  62. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1123303/dit-uk-trade-tariff-list-of-suspensions.odt
-  63. https://assets.publishing.service.gov.uk/media/655f2cd9c39e5a000d92e4d6/tariff-suspensions-on-medical-and-pharmaceutical-goods.odt
-  64. https://assets.publishing.service.gov.uk/media/63cfcebae90e071ba44851a9/autonomous-tariff-quotas.odt
-  65. https://www.gov.uk/guidance/tariffs-on-goods-imported-into-the-uk
-  66. mailto:tariffsuspensions@businessandtrade.gov.uk
-  67. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#full-history
-  68. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#contents
-  69. https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020
-  70. https://www.gov.uk/guidance/find-out-when-to-make-an-exit-summary-declaration
-  71. https://www.gov.uk/guidance/check-if-you-can-declare-goods-you-bring-into-northern-ireland-not-at-risk-of-moving-to-the-eu
-  72. https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-quotas-eu-exit-regulations-2020
-  73. https://www.gov.uk/guidance/get-proof-of-origin-for-your-goods
-  74. https://www.gov.uk/business/business-tax-import-export-rules-for-specific-goods-and-services
-  75. https://www.gov.uk/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods
-  76. https://www.gov.uk/business-and-industry/import-controls
-  77. https://www.gov.uk/contact/govuk
-  78. https://www.gov.uk/browse/benefits
-  79. https://www.gov.uk/browse/births-deaths-marriages
-  80. https://www.gov.uk/browse/business
-  81. https://www.gov.uk/browse/childcare-parenting
-  82. https://www.gov.uk/browse/citizenship
-  83. https://www.gov.uk/browse/justice
-  84. https://www.gov.uk/browse/disabilities
-  85. https://www.gov.uk/browse/driving
-  86. https://www.gov.uk/browse/education
-  87. https://www.gov.uk/browse/employing-people
-  88. https://www.gov.uk/browse/environment-countryside
-  89. https://www.gov.uk/browse/housing-local-services
-  90. https://www.gov.uk/browse/tax
-  91. https://www.gov.uk/browse/abroad
-  92. https://www.gov.uk/browse/visas-immigration
-  93. https://www.gov.uk/browse/working
-  94. https://www.gov.uk/government/organisations
-  95. https://www.gov.uk/search/news-and-communications
-  96. https://www.gov.uk/search/guidance-and-regulation
-  97. https://www.gov.uk/search/research-and-statistics
-  98. https://www.gov.uk/search/policy-papers-and-consultations
-  99. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
- 100. https://www.gov.uk/government/how-government-works
- 101. https://www.gov.uk/government/get-involved
- 102. https://www.gov.uk/help
- 103. https://www.gov.uk/help/privacy-notice
- 104. https://www.gov.uk/help/cookies
- 105. https://www.gov.uk/help/accessibility-statement
- 106. https://www.gov.uk/contact
- 107. https://www.gov.uk/help/terms-conditions
- 108. https://www.gov.uk/cymraeg
- 109. https://www.gov.uk/government/organisations/government-digital-service
- 110. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
- 111. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

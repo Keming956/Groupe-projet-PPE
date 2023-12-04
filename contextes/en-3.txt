@@ -1,3 +1,98 @@
+                    # Changing GST Accounting Periods
+                    # Advance Ruling System for GST
+          + Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Stamp Duty
+               o Stamp Duty
+               o For Property (BUTTON) Go to next level
+                    # (BUTTON) For Property
+                    # For Property
+                    # Basics of Stamp Duty for Property
+                    # Buying or Acquiring Property
+                    # Selling or Disposing Property
+                    # Renting a Property
+                    # Paying Stamp Duty
+                    # Appeals, Refunds, Reliefs and Remissions
+                    # Getting it right
+--
+                    # (BUTTON) For Property-Holding Entities ('PHE')
+                    # For Property-Holding Entities ('PHE')
+                    # Basics of Stamp Duty for Property-Holding Entities
+                    # Buying or Acquiring Property-Holding Entities
+                    # Selling or Disposing Property-Holding Entities
+                    # Paying Stamp Duty
+                    # Claiming Refunds
+                    # Getting it right
+--
+                    # (BUTTON) For Shares
+                    # For Shares
+                    # Basics of Stamp Duty for Shares
+                    # Mortgaging Shares
+                    # Buying or Acquiring Shares
+                    # Paying Stamp Duty
+                    # Claiming Refunds, Reliefs and Remissions
+                    # Getting it right
+--
+                    # Filing Estate/ Trust Income Tax (Form T)
+                    # Paying Estate/ Trust Income Tax
+               o Gambling Duties (BUTTON) Go to next level
+                    # (BUTTON) Gambling Duties
+                    # Gambling Duties
+                    # Basics of Gambling Duties
+                    # Betting, Lotteries and Sweepstakes
+                    # Gaming Machines, Tombola, Continuous Lucky Draw and
+--
+                    # Paying Taxes or Claiming Refunds
+                    # FAQs
+               o Estate Duty (BUTTON) Go to next level
+                    # (BUTTON) Estate Duty
+                    # Estate Duty
+                    # Estate Duty
+                    # Estate Duty Glossary
+                    # FAQs
+                    # Estate Duty Forms
+                    # Getting Estate Duty Clearance
+                    # How to Calculate Estate Duty
+                    # Late Payment or Non-Payment of Estate Duty
+                    # Trust (including income from Estates)
+                    # How to Pay
+--
+               o Update GST Contact Details
+               o View more
+          + Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Stamp Duty
+               o Digital Services for Stamp Duty
+               o Stamping: Lease/ Tenancy
+               o Stamping: Mortgage
+--
+               o Stamping: Others - Declaration of Trust/ Trust Deed
+               o Requests: Apply for Assessment/ Appeal/ Remission
+               o Stamping: Additional Stamp Duty
+               o Stamping: Exemptions & Remissions - Transfer of HDB Flat
+                 within Family
+               o Stamping: Others - Other Transfer (Dutiable documents)
+               o Requests: Object to an Assessment
+               o Stamp Duty Chatbot
+               o View more
+          + Withholding Tax (BUTTON) Go to next level
+--
+     * Home
+     * Taxes
+     * Stamp Duty
+     * For Property
+     * Buying or Acquiring Property
+     * Buyer's Stamp Duty (BSD)
+
+Buying or Acquiring Property
+
+     * Definition of Residential Property
+     * Buyer's Stamp Duty (BSD)
+     * Additional Buyer's Stamp Duty (ABSD)
+     * Mortgage Duty
+
+Buyer's Stamp Duty (BSD)
+
+   Share:
+--
 Manner of acquisitions
 
    Examples of property acquisition in which ad valorem stamp duty (i.e.
@@ -19,6 +114,8 @@ Manner of acquisitions
    the settlor will need to pay stamp duty i.e. BSD and ABSD on the
    transfer of the share of the residential property back to him, under
    Section 22C of the Stamp Duties Act.
+   You can refer to Renunciation of Interest in Trust over residential
+   property by Beneficial Owner (Section 22C) for more information.
 --
    purchaser upon execution of the document (and not later), the amount of
    discount may be deducted from the purchase price to determine the
@@ -73,6 +170,18 @@ Stamp duty on multiple documents
    of $1.
                      Before 20 Feb 2018
 --
+            or
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    5. Pay to the COSD as a debt due to the Singapore Government an amount
+--
+         2. TOP or CSC issued by BCA; and
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    4. Pay to the COSD as a debt due to the Singapore Government an amount
+--
 
 Can the contracting parties change the date of instrument to avoid paying
 higher duty?
@@ -86,149 +195,29 @@ higher duty?
    arrangements meant to evade or reduce the incidence of duty, and impose
    the duty (including late stamping penalties, if applicable) which would
    otherwise be payable.
-   [657]
---
+
 Can I pay BSD using my Central Provident Fund (CPF) money?
 
    Using CPF funds to pay stamp duty is subject to the terms and
    conditions under the Private Properties and Public Housing Schemes. You
    may wish to check with CPF Board for more details.
 --
- 345. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services/changing-gst-accounting-periods
- 346. https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/other-services/advance-ruling-system-for-gst
- 347. https://www.iras.gov.sg/taxes/stamp-duty
- 348. https://www.iras.gov.sg/taxes/stamp-duty
- 349. https://www.iras.gov.sg/taxes/stamp-duty/for-property
- 350. https://www.iras.gov.sg/taxes/stamp-duty/for-property
- 351. https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property
- 352. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
- 353. https://www.iras.gov.sg/taxes/stamp-duty/for-property/selling-or-disposing-property
- 354. https://www.iras.gov.sg/taxes/stamp-duty/for-property/renting-a-property
- 355. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty
- 356. https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions
- 357. https://www.iras.gov.sg/taxes/stamp-duty/for-property/getting-it-right
- 358. https://www.iras.gov.sg/taxes/stamp-duty/for-property/other-services
- 359. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')
- 360. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')
- 361. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/basics-of-stamp-duty-for-property-holding-entities
- 362. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/buying-or-acquiring-property-holding-entities
- 363. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/selling-or-disposing-property-holding-entities
- 364. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/paying-stamp-duty
- 365. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/claiming-refunds
- 366. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/getting-it-right
- 367. https://www.iras.gov.sg/taxes/stamp-duty/for-property-holding-entities-('phe')/other-services
- 368. https://www.iras.gov.sg/taxes/stamp-duty/for-shares
- 369. https://www.iras.gov.sg/taxes/stamp-duty/for-shares
- 370. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/basics-of-stamp-duty-for-shares
- 371. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/mortgaging-shares
- 372. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/buying-or-acquiring-shares
- 373. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/paying-stamp-duty
- 374. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/claiming-refunds-reliefs-and-remissions
- 375. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/getting-it-right
- 376. https://www.iras.gov.sg/taxes/stamp-duty/for-shares/other-services
- 377. https://www.iras.gov.sg/taxes/international-tax
- 378. https://www.iras.gov.sg/taxes/international-tax
+   Pages
+
+Stamp Duty
+
+   Pages
+
+Who Should Pay Stamp Duty
+
+   Pages
+
+When to Pay Stamp Duty
+
+   Pages
 --
- 470. https://www.iras.gov.sg/taxes/other-taxes/trusts/filing-estate-trust-income-tax-(form-t)
- 471. https://www.iras.gov.sg/taxes/other-taxes/trusts/paying-estate-trust-income-tax
- 472. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
- 473. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
- 474. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/basics-of-gambling-duties
- 475. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Betting-Lotteries-and-Sweepstakes
- 476. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Gaming-Machines-Tombola-Continuous-Lucky-Draw-and-Single-Scheduled-Lottery
- 477. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
- 478. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
---
- 492. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/paying-taxes-or-claiming-refunds
- 493. https://www.iras.gov.sg/taxes/other-taxes/bodiesofpersons/FAQs
- 494. https://www.iras.gov.sg/taxes/other-taxes/estate-duty
- 495. https://www.iras.gov.sg/taxes/other-taxes/estate-duty
- 496. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty
- 497. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty-glossary
- 498. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/faqs
- 499. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty-forms
- 500. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/getting-estate-duty-clearance
- 501. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/how-to-calculate-estate-duty
- 502. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/late-payment-or-non-payment-of-estate-duty
- 503. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/trust-(including-income-from-estates)
- 504. https://www.iras.gov.sg/taxes/other-taxes/estate-duty/how-to-pay
- 505. https://www.iras.gov.sg/schemes
- 506. https://www.iras.gov.sg/schemes
---
- 587. https://www.iras.gov.sg/digital-services/gst
- 588. https://www.iras.gov.sg/digital-services/gst
- 589. https://www.iras.gov.sg/digital-services/stamp-duty
- 590. https://www.iras.gov.sg/digital-services/stamp-duty
- 591. https://www.iras.gov.sg/digital-services/stamp-duty
- 592. https://www.iras.gov.sg/digital-services/withholding-tax
- 593. https://www.iras.gov.sg/digital-services/withholding-tax
---
- 620. https://www.iras.gov.sg/
- 621. https://www.iras.gov.sg/taxes
- 622. https://www.iras.gov.sg/taxes/stamp-duty
- 623. https://www.iras.gov.sg/taxes/stamp-duty/for-property
- 624. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
- 625. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property
- 626. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/definition-of-residential-property
- 627. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 628. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)
- 629. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/mortgage-duty
- 630. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 631. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 632. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 633. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 634. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 635. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)
- 636. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title1
- 637. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title2
- 638. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title3
- 639. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title4
- 640. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title5
- 641. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title6
- 642. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title7
- 643. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title8
- 644. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#title9
- 645. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#renunciation-of-interest-in-trust-over-residential-property-by-beneficial-owner--section-22c-
- 646. https://www.iras.gov.sg/taxes/stamp-duty/for-property/selling-or-disposing-property/renunciation-of-interest-in-trust-over-residential-property-by-beneficial-owner-(section-22c)
- 647. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/definition-of-residential-property
- 648. https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property
- 649. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-a-singapore-citizen-buying-my-first-property--do-i-need-to-pay-bsd-
- 650. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-an-hdb-flat--do-i-need-to-pay-bsd-
- 651. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-an-hdb-shop-with-living-quarters--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
- 652. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-a-semi-detached-house-with-land-zoned--residential---the-semi-detached-house-has-been-approved-as-a-child-care-centre--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
- 653. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-the-upper-floors-of-a-shophouse-which-have-been-approved-as-a-child-care-centre-for-3-years--upon-expiry-of-the-approval--the-use-will-automatically-revert-to-residential-use--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
- 654. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-the-upper-floors-of-a-shophouse-which-have-been-permitted-for-restaurant-use-by-a-written-permission-given-under-section-14-4--of-the-planning-act-for-a-period-exceeding-10-years--is-my-purchase-subject-to-bsd-rates-for-non-residential-property-
- 655. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-am-buying-a-land-zoned--commercial---residential---what-is-the-market-value-attributable-to-the-residential-and-non-residential-component-
- 656. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#can-the-contracting-parties-change-the-date-of-instrument-to-avoid-paying-higher-duty-
- 657. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#can-i-pay-bsd-using-my-central-provident-fund--cpf--money-
- 658. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#do-i-need-to-pay-the-absd-if-i-have-paid-the-bsd-
- 659. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer's-stamp-duty-(absd)
- 660. https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)#i-executed-a-contract-to-acquire-a-land-zoned--white---its-allowable-use-includes-residential-but-i-would-like-to-develop-a-100--non-residential-development-instead--is-the-bsd-payable-calculated-based-on-the-bsd-rates-for-non-residential-properties-
- 661. https://www.iras.gov.sg/careers
- 662. https://www.iras.gov.sg/news-events
---
- 763. https://www.iras.gov.sg/digital-services/gst/view-gst-filing-status
- 764. https://www.iras.gov.sg/digital-services/gst/update-gst-contact-details
- 765. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-lease-tenancy
- 766. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-mortgage
- 767. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-sale-and-purchase-(for-buyers)
- 768. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-sale-and-purchase-(for-sellers)
- 769. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-shares
- 770. https://www.iras.gov.sg/digital-services/stamp-duty/requests-amendment-to-stamp-certificate
- 771. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-others---declaration-of-trust-trust-deed
- 772. https://www.iras.gov.sg/digital-services/stamp-duty/requests-apply-for-assessment-appeal-remission
- 773. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-additional-stamp-duty
- 774. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-exemptions-remissions---transfer-of-hdb-flat-within-family
- 775. https://www.iras.gov.sg/digital-services/stamp-duty/stamping-others---other-transfer-(dutiable-documentsstamping-others---other-transfer-(dutiable-documents)
- 776. https://www.iras.gov.sg/digital-services/stamp-duty/requests-object-to-an-assessment
- 777. https://www.iras.gov.sg/digital-services/stamp-duty/stamp-duty-chatbot
- 778. https://www.iras.gov.sg/digital-services/withholding-tax/file-s45-form
- 779. https://www.iras.gov.sg/digital-services/withholding-tax/retrieve-s45-form-(draft)
---
- 813. https://www.iras.gov.sg/digital-services/others/update-notice-preferences-(individuals)
- 814. https://www.iras.gov.sg/digital-services/others/update-notice-preferences-(businesses)
- 815. https://www.iras.gov.sg/quick-links/forms/stamp-duty
- 816. https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/who-should-pay-stamp-duty
- 817. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty/when-to-pay-stamp-duty
- 818. https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty/how-to-pay
- 819. https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro
+   Useful Links
+
+Stamp Duty Calculator
+
+Inland Revenue Authority of Singapore

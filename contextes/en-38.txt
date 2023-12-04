@@ -1,4 +1,4 @@
-    3. [39]Importing
+    3. Importing
 
 Trade Tariff: look up commodity codes, duty and VAT rates
 
@@ -12,4 +12,4 @@ Trade Tariff: look up commodity codes, duty and VAT rates
    You’ll need a commodity code when you fill in a customs declaration
    form, so you pay the correct amount of tax and duties.
 
-   [40]Start now
+   Start now

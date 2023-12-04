@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,15 +68,15 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Brexit
+    1. Home
+    2. Brexit
 
    Guidance
 
@@ -87,24 +87,24 @@ trade between the UK and EU
    you can claim preferential tariff treatment.
 
    From:
-          [38]HM Revenue & Customs
+          HM Revenue & Customs
 
    Published
           6 October 2021
 
    Last updated
-          20 December 2022 — [39]See all updates
+          20 December 2022 — See all updates
 
    (BUTTON) Get emails about this page
 
 Contents
 
-    1. [40]Claiming preferential tariff treatment
-    2. [41]Applying for preference using a statement on origin
-    3. [42]Applying for preference using importer’s knowledge
-    4. [43]Verification of claims for preferential treatment
-    5. [44]Denial of preferential tariff treatment
-    6. [45]The text of the statement on origin (Annex 7 of the Trade and
+    1. Claiming preferential tariff treatment
+    2. Applying for preference using a statement on origin
+    3. Applying for preference using importer’s knowledge
+    4. Verification of claims for preferential treatment
+    5. Denial of preferential tariff treatment
+    6. The text of the statement on origin (Annex 7 of the Trade and
        Cooperation Agreement)
 
    (BUTTON) Print this page
@@ -116,7 +116,7 @@ Contents
 
 Claiming preferential tariff treatment
 
-   Read the relevant [46]Trade and Cooperation Agreement articles:
+   Read the relevant Trade and Cooperation Agreement articles:
      * Claim for preferential tariff treatment (article 54 on page 71 —
        section 2 — Origin Procedures)
      * Time of the claim for preferential tariff treatment (article 55 on
@@ -151,8 +151,8 @@ How to claim preference
    non-originating. There is no fixed method for doing this — the only
    requirement is that those goods are clearly indicated.
 
-   In the UK, a [47]claim for duties to be repaid is made using C285,
-   however there are different ways to claim the preferential rate of duty
+   In the UK, a claim for duties to be repaid is made using C285, however
+   there are different ways to claim the preferential rate of duty
    depending on which system you’re using to make your import declaration.
 
 If you’re using Customs Declaration Service software
@@ -202,7 +202,7 @@ Rules for small consignments of goods
 
 Applying for preference using a statement on origin
 
-   Read the relevant [48]Trade and Cooperation Agreement articles:
+   Read the relevant Trade and Cooperation Agreement articles:
      * Cumulation of origin (article 40 on page 56 — section 2 — Origin
        Procedures)
      * Statement on origin (article 56 on page 73 — section 2 — Origin
@@ -248,8 +248,8 @@ Statement on origin
    The following sections in this guide have more details of requirements
    about the document, suppliers’ declarations and the exporter.
 
-   The text of the statement on origin is shown in Annex 7 of the
-   [49]Trade and Cooperation Agreement.
+   The text of the statement on origin is shown in Annex 7 of the Trade
+   and Cooperation Agreement.
 
    You must hold a supplier declaration (when needed) at the time you
    issue a statement on origin.
@@ -272,8 +272,8 @@ Exporter requirements
      * can be any person (such as a producer or a trading company) as long
        as they fulfil the obligations under the Trade and Cooperation
        Agreement, the exporter does not need to lodge the customs export
-       declaration in respect of the products — they can [50]appoint a
-       customs representative to act on their behalf
+       declaration in respect of the products — they can appoint a customs
+       representative to act on their behalf
      * exports or produces the originating product, and makes out a
        statement on origin
      * is responsible for the correct identification of the originating
@@ -290,7 +290,7 @@ Exporter requirements
    exports consignments with a total value of more than 6,000 euros.
 
    In the UK, the exporter’s reference number will be the EORI number. If
-   you do not have one, you can [51]apply for an EORI number.
+   you do not have one, you can apply for an EORI number.
 
    The statement on origin must be made out by the exporter. It does not
    need to give any details of the person issuing the document used for
@@ -326,8 +326,8 @@ Supplier declarations
    can be counted towards bilateral cumulation if the goods or materials
    are supported by the supplier declaration for non-originating goods as
    set out in:
-     * Article 40 of the [52]Trade and Cooperation Agreement
-     * Annex 6 (supplier declaration) of the [53]Trade and Cooperation
+     * Article 40 of the Trade and Cooperation Agreement
+     * Annex 6 (supplier declaration) of the Trade and Cooperation
        Agreement
 
    A supplier uses a supplier declaration to give information to a
@@ -358,8 +358,8 @@ When supplier declarations are needed
        that specified, for example using bought-in fabric where the origin
        rule is manufacture from yarn
      * the only processing which you carry out on a product is among the
-       minimal processes listed in Article 43 (page 61) of the [54]Trade
-       and Cooperation Agreement
+       minimal processes listed in Article 43 (page 61) of the Trade and
+       Cooperation Agreement
      * you buy and export goods in the same state
 
 When supplier declarations are not needed
@@ -404,7 +404,7 @@ When supplier declarations are not needed
      * of the end of the period (end date) — which may not be more than 24
        months after the start date
 
-   Find more [55]information on supplier declarations.
+   Find more information on supplier declarations.
 
 Bilateral cumulation and supplier declarations
 
@@ -434,7 +434,7 @@ Bilateral cumulation and supplier declarations
        the rules of origin for export to the EU
 
    This declaration could either be in the form set out in Annex 6
-   (supplier declaration) of the [56]Trade and Cooperation Agreement or an
+   (supplier declaration) of the Trade and Cooperation Agreement or an
    equivalent document that has the same information, describing the
    non-originating materials concerned in enough detail so they can be
    identified. As with supplier declarations in the context of intra-UK
@@ -495,7 +495,7 @@ Multiple shipments
 
 Applying for preference using importer’s knowledge
 
-   Read the relevant [57]Trade and Cooperation Agreement articles:
+   Read the relevant Trade and Cooperation Agreement articles:
      * Cumulation of origin (article 40 on page 56 — section 2 — Origin
        Procedures)
      * Importer’s knowledge (article 58 on page 74 — section 2 — Origin
@@ -561,7 +561,7 @@ Applying for preference using importer’s knowledge
 
 Verification of claims for preferential treatment
 
-   Read the relevant [58]Trade and Cooperation Agreement articles:
+   Read the relevant Trade and Cooperation Agreement articles:
      * Verification (article 61 on page 78 — section 2 — Origin
        Procedures)
      * Administrative cooperation (article 62 on page 80 — section 2 —
@@ -691,14 +691,14 @@ Denial of preferential tariff treatment
 The text of the statement on origin (Annex 7 of the Trade and Cooperation
 Agreement)
 
-   (Period: from ………………… to ………………… [59][footnote 1])
+   (Period: from ………………… to ………………… [footnote 1])
 
    The exporter of the products covered by this document (Exporter
-   Reference Number … [60][footnote 2]) declares that, except where
-   otherwise clearly indicated, these products are of … [61][footnote 3]
-   preferential origin.
+   Reference Number … [footnote 2]) declares that, except where otherwise
+   clearly indicated, these products are of … [footnote 3] preferential
+   origin.
 
-   …………………………………………………………… [62][footnote 4]
+   …………………………………………………………… [footnote 4]
    (Place and date)
 
    ……………………………………………………………
@@ -708,7 +708,7 @@ Footnotes
 
     1. If the statement on origin is completed for multiple shipments of
        identical originating products within the meaning of point (b) of
-       Article 56 — statement on origin of the [63]Trade and Cooperation
+       Article 56 — statement on origin of the Trade and Cooperation
        Agreement of this Agreement, indicate the period for which the
        statement on origin is to apply. That period shall not exceed 12
        months. All importations of the product must occur within the
@@ -727,7 +727,7 @@ Footnotes
        the document itself.
 
    Published 6 October 2021
-   Last updated 20 December 2022 [64]+ show all updates
+   Last updated 20 December 2022 + show all updates
     1. 20 December 2022
        An example of what to include for different data elements has been
        added to the 'Claiming preferential tariff treatment' section.
@@ -746,32 +746,32 @@ Footnotes
 
    (BUTTON) Get emails about this page
    (BUTTON) Print this page
-   [65]Contents
+   Contents
 
 Related content
 
-     * [66]Rules of origin for goods moving between the UK and EU
-     * [67]Using a suppliers’ declaration to support a proof of origin
-     * [68]Checking the origin of your goods using product specific rules
-       when trading between the UK and EU
-     * [69]General rules to determine the origin of your products for
-       trade between the UK and EU
-     * [70]Pay less Customs Duty on goods from a country with a UK trade
+     * Rules of origin for goods moving between the UK and EU
+     * Using a suppliers’ declaration to support a proof of origin
+     * Checking the origin of your goods using product specific rules when
+       trading between the UK and EU
+     * General rules to determine the origin of your products for trade
+       between the UK and EU
+     * Pay less Customs Duty on goods from a country with a UK trade
        agreement
 
 Collection
 
-     * [71]Rules of origin for goods moving between the UK and EU
+     * Rules of origin for goods moving between the UK and EU
 
 Explore the topic
 
-     * [72]Exporting
-     * [73]Importing
-     * [74]Brexit
+     * Exporting
+     * Importing
+     * Brexit
 
 Is this page useful?
 
-     * [75]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -804,158 +804,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [76]Benefits
-     * [77]Births, death, marriages and care
-     * [78]Business and self-employed
-     * [79]Childcare and parenting
-     * [80]Citizenship and living in the UK
-     * [81]Crime, justice and the law
-     * [82]Disabled people
-     * [83]Driving and transport
-     * [84]Education and learning
-     * [85]Employing people
-     * [86]Environment and countryside
-     * [87]Housing and local services
-     * [88]Money and tax
-     * [89]Passports, travel and living abroad
-     * [90]Visas and immigration
-     * [91]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [92]Departments
-     * [93]News
-     * [94]Guidance and regulation
-     * [95]Research and statistics
-     * [96]Policy papers and consultations
-     * [97]Transparency
-     * [98]How government works
-     * [99]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [100]Help
-     * [101]Privacy
-     * [102]Cookies
-     * [103]Accessibility statement
-     * [104]Contact
-     * [105]Terms and conditions
-     * [106]Rhestr o Wasanaethau Cymraeg
-     * [107]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [108]Open Government Licence v3.0,
-   except where otherwise stated
-   [109]© Crown copyright
-
-References
-
-   1. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/government/collections/brexit-guidance
-  38. https://www.gov.uk/government/organisations/hm-revenue-customs
-  39. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#full-publication-update-history
-  40. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#claiming-preferential-tariff-treatment
-  41. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#applying-for-preference-using-a-statement-on-origin
-  42. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#applying-for-preference-using-importers-knowledge
-  43. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#verification-of-claims-for-preferential-treatment
-  44. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#denial-of-preferential-tariff-treatment
-  45. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#the-text-of-the-statement-on-origin-annex-7-of-the-trade-and-cooperation-agreement
-  46. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  47. https://www.gov.uk/guidance/how-to-apply-for-a-repayment-of-import-duty-and-vat-if-youve-overpaid-c285
-  48. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  49. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  50. https://www.gov.uk/guidance/appoint-someone-to-deal-with-customs-on-your-behalf
-  51. https://www.gov.uk/eori
-  52. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  53. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  54. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982648/TS_8.2021_UK_EU_EAEC_Trade_and_Cooperation_Agreement.pdf#page=61
-  55. https://www.gov.uk/guidance/using-a-suppliers-declaration-to-support-a-proof-of-origin
-  56. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  57. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  58. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  59. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#one
-  60. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#two
-  61. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#three
-  62. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#four
-  63. https://www.gov.uk/government/publications/ukeu-and-eaec-trade-and-cooperation-agreement-ts-no82021
-  64. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#full-history
-  65. https://www.gov.uk/guidance/proving-originating-status-and-claiming-a-reduced-rate-of-customs-duty-for-trade-between-the-uk-and-eu#contents
-  66. https://www.gov.uk/government/collections/rules-of-origin-for-goods-moving-between-the-uk-and-eu
-  67. https://www.gov.uk/guidance/using-a-suppliers-declaration-to-support-a-proof-of-origin
-  68. https://www.gov.uk/guidance/using-the-harmonised-system-and-product-specific-rules-for-trade-between-the-uk-and-eu
-  69. https://www.gov.uk/guidance/general-rules-to-determine-the-origin-your-products-for-trade-between-the-uk-and-eu
-  70. https://www.gov.uk/guidance/import-and-export-goods-using-preference-agreements
-  71. https://www.gov.uk/government/collections/rules-of-origin-for-goods-moving-between-the-uk-and-eu
-  72. https://www.gov.uk/business-and-industry/exporting
-  73. https://www.gov.uk/business-and-industry/importing
-  74. https://www.gov.uk/brexit
-  75. https://www.gov.uk/contact/govuk
-  76. https://www.gov.uk/browse/benefits
-  77. https://www.gov.uk/browse/births-deaths-marriages
-  78. https://www.gov.uk/browse/business
-  79. https://www.gov.uk/browse/childcare-parenting
-  80. https://www.gov.uk/browse/citizenship
-  81. https://www.gov.uk/browse/justice
-  82. https://www.gov.uk/browse/disabilities
-  83. https://www.gov.uk/browse/driving
-  84. https://www.gov.uk/browse/education
-  85. https://www.gov.uk/browse/employing-people
-  86. https://www.gov.uk/browse/environment-countryside
-  87. https://www.gov.uk/browse/housing-local-services
-  88. https://www.gov.uk/browse/tax
-  89. https://www.gov.uk/browse/abroad
-  90. https://www.gov.uk/browse/visas-immigration
-  91. https://www.gov.uk/browse/working
-  92. https://www.gov.uk/government/organisations
-  93. https://www.gov.uk/search/news-and-communications
-  94. https://www.gov.uk/search/guidance-and-regulation
-  95. https://www.gov.uk/search/research-and-statistics
-  96. https://www.gov.uk/search/policy-papers-and-consultations
-  97. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  98. https://www.gov.uk/government/how-government-works
-  99. https://www.gov.uk/government/get-involved
- 100. https://www.gov.uk/help
- 101. https://www.gov.uk/help/privacy-notice
- 102. https://www.gov.uk/help/cookies
- 103. https://www.gov.uk/help/accessibility-statement
- 104. https://www.gov.uk/contact
- 105. https://www.gov.uk/help/terms-conditions
- 106. https://www.gov.uk/cymraeg
- 107. https://www.gov.uk/government/organisations/government-digital-service
- 108. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
- 109. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

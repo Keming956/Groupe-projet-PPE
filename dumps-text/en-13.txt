@@ -1,24 +1,24 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-PJXQV7X
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PJXQV7X
 
-   [2]ACT Revenue Logo
+   ACT Revenue Logo
      * Search: ____________________ (BUTTON) Search submit
-     * [3]ACT Contact
+     * ACT Contact
 
    You are here:
-    1. [4]Home /
-    2. [5]Duties /
+    1. Home /
+    2. Duties /
     3. Conveyance duty
 
 Conveyance duty
 
    (BUTTON) Conveyance duty
-    1. [6]Overview
-    2. [7]Non-commercial transfer duty
-    3. [8]Commercial transfer duty
-    4. [9]Conveyance duty exemptions
-    5. [10]Transactions before 18 September 2017
-    6. [11]Historical rates of duty
-    7. [12]Certificate of duty and other charges
+    1. Overview
+    2. Non-commercial transfer duty
+    3. Commercial transfer duty
+    4. Conveyance duty exemptions
+    5. Transactions before 18 September 2017
+    6. Historical rates of duty
+    7. Certificate of duty and other charges
 
 Overview
 
@@ -108,12 +108,12 @@ Getting assistance
 
    If you’re buying a home, land or both, you may be eligible for a stamp
    duty concession through one of the following:
-     * [13]Home Buyer Concession Scheme,
-     * [14]Pensioner Duty Concession Scheme,
-     * [15]Disability Duty Concession Scheme.
+     * Home Buyer Concession Scheme,
+     * Pensioner Duty Concession Scheme,
+     * Disability Duty Concession Scheme.
 
-   Under certain circumstances, you may also be eligible to [16]defer your
-   duty payment or be eligible for an [17]exemption.
+   Under certain circumstances, you may also be eligible to defer your
+   duty payment or be eligible for an exemption.
 
    Once you determine your eligibility you can claim it on the forms you
    lodge at Access Canberra. If we need to see your supporting documents,
@@ -122,7 +122,7 @@ Getting assistance
 Proof of identity
 
    Access Canberra requires you provide proof of your identity through a
-   [18]Buyer Verification Declaration before you lodge the transfer. All
+   Buyer Verification Declaration before you lodge the transfer. All
    identification must be valid and current.
 
    Individuals (including individuals as trustees) must provide details
@@ -136,14 +136,14 @@ Primary identification
      * Australian or overseas birth certificate
      * Australian or overseas passport
      * Australian citizenship certificate
-     * [19]ImmiCard
+     * ImmiCard
 
 Secondary identification
 
      * Australian or overseas birth certificate
      * Australian or overseas passport
      * Australian citizenship certificate
-     * [20]ImmiCard
+     * ImmiCard
      * Australian driver licence
      * Medicare card
      * Australian visa
@@ -159,12 +159,11 @@ Paying duty
    with Access Canberra. Penalty tax may be applied if the transfer is
    lodged late.
 
-   Remember you will need to complete the [21]Buyer Verification
-   Declaration before you lodge the transfer instrument at Access
-   Canberra. Don’t forget to claim your owner-occupier rate, concession or
-   exemption, if you’re eligible, by entering the [22]concession code
-   number on the Buyer Verification Declaration before you lodge for
-   registration.
+   Remember you will need to complete the Buyer Verification Declaration
+   before you lodge the transfer instrument at Access Canberra. Don’t
+   forget to claim your owner-occupier rate, concession or exemption, if
+   you’re eligible, by entering the concession code number on the Buyer
+   Verification Declaration before you lodge for registration.
 
    Once Access Canberra accepts and registers your title, we’ll email a
    Notice of Assessment to you* and your agent, if applicable. The Notice
@@ -185,10 +184,10 @@ Paying duty
    residency requirements).
 
    Payment must be made in 14 days and can be made by BPAY or Electronic
-   Funds Transfer. [23]Interest applies to late payments. As conveyance
-   duty is a known cost of purchasing a property, the Revenue Office
-   expects payments to be made on time and does not provide payments plans
-   for conveyance duty.
+   Funds Transfer. Interest applies to late payments. As conveyance duty
+   is a known cost of purchasing a property, the Revenue Office expects
+   payments to be made on time and does not provide payments plans for
+   conveyance duty.
 
    You’ll need to keep all records of the transaction for at least five
    years after settlement, in case we request copies. Be sure that all the
@@ -199,81 +198,32 @@ Paying duty
 Transactions before 18 September 2017
 
    Different rules apply to transactions where you signed the contract
-   before 18 September 2017. See the [24]Transactions before 18 September
-   2017 page for more information.
-     * [25]Sub navigation item
+   before 18 September 2017. See the Transactions before 18 September 2017
+   page for more information.
+     * Sub navigation item
        Previous section
-     * [26]Sub navigation item
+     * Sub navigation item
        Next section
 
-     * [27]ACT facebook page
-     * [28]ACT linkedin page
-     * [29]ACT twitter page
-     * [30]ACT youtube page
+     * ACT facebook page
+     * ACT linkedin page
+     * ACT twitter page
+     * ACT youtube page
 
-     * [31]About us
-     * [32]Contact us
-     * [33]How we connect with you
-     * [34]News
-     * [35]Newsletter subscription
-     * [36]Jobs
-     * [37]Languages
-     * [38]Accessibility
+     * About us
+     * Contact us
+     * How we connect with you
+     * News
+     * Newsletter subscription
+     * Jobs
+     * Languages
+     * Accessibility
 
-     * [39]Privacy
-     * [40]Disclaimer
-     * [41]Copyright
-     * [42]Sitemap
+     * Privacy
+     * Disclaimer
+     * Copyright
+     * Sitemap
 
-     * [43]Access Canberra website Access Canberra Logo Access Canberra
-       Logo
-     * [44]You Say Website Your Say Logo Your Say Logo
-     * [45]ACT main website ACT Government Logo ACT Government Logo
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-PJXQV7X
-   2. https://www.revenue.act.gov.au/
-   3. https://www.revenue.act.gov.au/contact-us
-   4. https://www.revenue.act.gov.au/duties/conveyance-duty
-   5. https://www.revenue.act.gov.au/duties
-   6. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=1
-   7. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=2
-   8. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=3
-   9. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=4
-  10. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=5
-  11. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=6
-  12. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=7
-  13. https://www.revenue.act.gov.au/home-buyer-assistance/home-buyer-concession-scheme
-  14. https://www.revenue.act.gov.au/home-buyer-assistance/pensioner-duty-concession
-  15. https://www.revenue.act.gov.au/home-buyer-assistance/disability-duty-concession-scheme
-  16. https://www.revenue.act.gov.au/home-buyer-assistance/deferred-duty
-  17. https://www.revenue.act.gov.au/duties/conveyance-duty/conveyance-duty-exemptions
-  18. https://actlis.act.gov.au/verificationFormLanding/buyer
-  19. https://www.border.gov.au/Trav/Refu/Immi
-  20. https://www.border.gov.au/Trav/Refu/Immi
-  21. https://actlis.act.gov.au/verificationFormLanding/buyer
-  22. https://www.revenue.act.gov.au/self-assessment-tools-and-forms/codes-and-supporting-documents
-  23. https://www.revenue.act.gov.au/rights-and-obligations/interest-and-penalty-tax
-  24. https://www.revenue.act.gov.au/duties/conveyance-duty/transactions-before-18-september-2017
-  25. https://www.revenue.act.gov.au/duties/conveyance-duty
-  26. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=2
-  27. https://www.facebook.com/ACTGov
-  28. https://www.linkedin.com/company/act-government
-  29. https://twitter.com/actgovernment
-  30. https://www.youtube.com/user/actgovernment
-  31. https://www.revenue.act.gov.au/about-us
-  32. https://www.revenue.act.gov.au/contact-us
-  33. https://www.revenue.act.gov.au/how-we-connect-with-you
-  34. https://www.revenue.act.gov.au/news
-  35. https://www.revenue.act.gov.au/newsletter-subscription
-  36. http://www.jobs.act.gov.au/
-  37. https://www.revenue.act.gov.au/languages
-  38. https://www.revenue.act.gov.au/accessibility
-  39. https://www.revenue.act.gov.au/privacy
-  40. https://www.revenue.act.gov.au/disclaimer
-  41. https://www.revenue.act.gov.au/copyright
-  42. https://www.revenue.act.gov.au/sitemap
-  43. https://www.accesscanberra.act.gov.au/
-  44. https://www.yoursay.act.gov.au/
-  45. http://www.act.gov.au/
+     * Access Canberra website Access Canberra Logo Access Canberra Logo
+     * You Say Website Your Say Logo Your Say Logo
+     * ACT main website ACT Government Logo ACT Government Logo

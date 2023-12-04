@@ -8,12 +8,12 @@ Complying with the biodiversity duty
 --
 Contents
 
-    1. [41]Who must comply with the biodiversity duty
-    2. [42]When to meet your biodiversity duty
-    3. [43]Consider relevant strategies
-    4. [44]How your biodiversity duty helps achieve biodiversity goals and
+    1. Who must comply with the biodiversity duty
+    2. When to meet your biodiversity duty
+    3. Consider relevant strategies
+    4. How your biodiversity duty helps achieve biodiversity goals and
        targets
-    5. [45]Actions you could take
+    5. Actions you could take
 --
    Public authorities who operate in England must consider what they can
    do to conserve and enhance biodiversity in England. This is the
@@ -27,7 +27,7 @@ Who must comply with the biodiversity duty
 
    You must meet the biodiversity duty if you are a public authority, such
    as a:
-     * [52]government department or public body
+     * government department or public body
      * local authority or local planning authority
      * statutory undertaker – a business that has public authority duties
        for their land and delivers something of public importance
@@ -39,8 +39,8 @@ When to meet your biodiversity duty
 
    You must check if these strategies will affect how your organisation
    complies with the biodiversity duty:
-     * [53]local nature recovery strategies
-     * [54]species conservation strategies
+     * local nature recovery strategies
+     * species conservation strategies
 --
    positive actions you plan to take in the strategy, you can help improve
    their quality. It will also make it easier for you to show how you have
@@ -57,12 +57,12 @@ How your biodiversity duty helps achieve biodiversity goals and targets
    As a core component of natural capital, biodiversity supports ecosystem
    services that benefit people and the economy. When thinking about what
    actions you could take as part of your duty, you could consider the
-   value of taking a [57]Natural Capital approach.
+   value of taking a Natural Capital approach.
 
    If your public authority is involved with development plans and
    decisions, consider your biodiversity duty when you’re complying with
    requirements under:
-     * [58]strategic environmental assessment
+     * strategic environmental assessment
 --
 
    You should already be helping to conserve and enhance biodiversity on
@@ -95,52 +95,6 @@ How your biodiversity duty helps achieve biodiversity goals and targets
 --
    5-yearly reviews of the Environmental Improvement Plan.
 
-   Defra’s [74]reporting your biodiversity duty actions guidance gives
+   Defra’s reporting your biodiversity duty actions guidance gives
    information about when you must publish your report and what you need
    to include.
---
-References
-
-   1. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  39. https://www.gov.uk/environment/biodiversity-and-ecosystems
-  40. https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs
-  41. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#who-must-comply-with-the-biodiversity-duty
-  42. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#when-to-meet-your-biodiversity-duty
-  43. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#consider-relevant-strategies
-  44. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#how-your-biodiversity-duty-helps-achieve-biodiversity-goals-and-targets
-  45. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#actions-you-could-take
-  46. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#manage-land-to-improve-biodiversity
-  47. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#educate-advise-and-raise-awareness
-  48. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#review-internal-policies-and-processes
-  49. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#prepare-for-biodiversity-net-gain
-  50. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#reporting-your-biodiversity-policies-and-actions
-  51. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#footnotes
-  52. https://www.gov.uk/government/organisations
-  53. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#local-nature-recovery-strategies
-  54. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#species-conservation-strategies
-  55. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#protected-site-strategies
-  56. https://www.gov.uk/government/publications/environmental-improvement-plan
-  57. https://www.gov.uk/guidance/enabling-a-natural-capital-approach-enca
---
-  59. https://www.gov.uk/guidance/environmental-impact-assessment
-  60. https://www.gov.uk/guidance/habitats-regulations-assessments-protecting-a-european-site
-  61. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#make-space-for-wildlife
-  62. https://designatedsites.naturalengland.org.uk/GreenInfrastructure/Home.aspx
-  63. https://www.gov.uk/government/publications/habitats-and-species-of-principal-importance-in-england
-  64. https://www.gov.uk/guidance/protected-areas-sites-of-special-scientific-interest
-  65. https://www.gov.uk/guidance/duty-to-protect-conserve-and-restore-european-sites
-  66. https://www.gov.uk/government/collections/national-nature-reserves-in-england
-  67. https://www.gov.uk/government/publications/environmental-improvement-plan
-  68. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#footnote-1
-  69. https://www.gov.uk/government/collections/biodiversity-net-gain
-  70. https://www.alerc.org.uk/lerc-finder.html
-  71. https://magic.defra.gov.uk/magicmap.aspx
-  72. https://www.gov.uk/guidance/local-planning-authorities-get-environmental-advice
-  73. https://www.gov.uk/guidance/reporting-your-biodiversity-duty-actions
-  74. https://www.gov.uk/guidance/reporting-your-biodiversity-duty-actions
-  75. https://www.gov.uk/guidance/complying-with-the-biodiversity-duty#contents
-  76. https://www.gov.uk/guidance/understanding-biodiversity-net-gain
-  77. https://www.gov.uk/environment/biodiversity-and-ecosystems

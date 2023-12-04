@@ -1,30 +1,30 @@
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-NTJGQG3
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NTJGQG3
 
-   (BUTTON) Toggle menu [4]
+   (BUTTON) Toggle menu
 
 Irish Human Rights and Equality Commission
 
-     * [5]Home
-     * [6]About
-     * [7]Your Rights
-     * [8]Guides and Tools
-     * [9]Our Work
-     * [10]Publications
+     * Home
+     * About
+     * Your Rights
+     * Guides and Tools
+     * Our Work
+     * Publications
 
-     * [11]Press Releases
-     * [12]Opportunities
-     * [13]Contact
-     * [14]Gaeilge
-     * [15]LinkedIn
-     * [16]Instagram
-     * [17]Twitter
+     * Press Releases
+     * Opportunities
+     * Contact
+     * Gaeilge
+     * LinkedIn
+     * Instagram
+     * Twitter
 
    Site Search ____________________
    (BUTTON) Submit
 
-   [18]Home / [19]Our Work / Public Sector Equality and Human Rights Duty
+   Home / Our Work / Public Sector Equality and Human Rights Duty
 
 Public Sector Equality and Human Rights Duty
 
@@ -35,32 +35,32 @@ and Protect Human Rights of Staff and Service Users
    prevent discrimination and protect the human rights of their employees,
    customers, service users and everyone affected by their policies and
    plans. This is a legal obligation, called the Public Sector Equality
-   and Human Rights Duty, and it originated in Section 42 of the [20]Irish
+   and Human Rights Duty, and it originated in Section 42 of the Irish
    Human Rights and Equality Act 2014.
 
-   [21]Irish Human Rights and Equality Act 2014
+   Irish Human Rights and Equality Act 2014
      __________________________________________________________________
 
    Public Sector Equality and Human Rights Duty
-   [22]Implementing the Public Sector Equality and Human Rights Duty
+   Implementing the Public Sector Equality and Human Rights Duty
 
-   [23]Implementing the Public Sector Equality and Human Rights Duty
-   [24]Dualgas na hEarnála Poiblí um Chomhionannas agus Cearta an Duine a
-   chur i bhfeidhm
+   Implementing the Public Sector Equality and Human Rights Duty
+   Dualgas na hEarnála Poiblí um Chomhionannas agus Cearta an Duine a chur
+   i bhfeidhm
 
-   [25]Dualgas na hEarnála Poiblí um Chomhionannas agus Cearta an Duine a
-   chur i bhfeidhm
+   Dualgas na hEarnála Poiblí um Chomhionannas agus Cearta an Duine a chur
+   i bhfeidhm
 
    If you have any queries about Public Sector Duty, please send an email
-   to [26]publicsectorduty@ihrec.ie
+   to publicsectorduty@ihrec.ie
 
    If you have queries about our eLearning module, please
-   email: [27]support@ihrec.ie
+   email: support@ihrec.ie
 
-   IFRAME: [28]https://player.vimeo.com/video/467731986?dnt=1
+   IFRAME: https://player.vimeo.com/video/467731986?dnt=1
 
 
-   IFRAME: [29]https://player.vimeo.com/video/325208092?dnt=1
+   IFRAME: https://player.vimeo.com/video/325208092?dnt=1
      __________________________________________________________________
 
    Public Sector Equality and Human Rights Duty
@@ -107,8 +107,8 @@ eLearning
    bodies to understand and meet their obligations under the Public Sector
    Equality and Human Rights Duty.
 
-   [30]Access the Equality and Human Rights in the Public Service
-   eLearning module
+   Access the Equality and Human Rights in the Public Service eLearning
+   module
 
      __________________________________________________________________
 
@@ -119,17 +119,17 @@ Current News
    The Commission has published a guidance note on COVID-19 and the Public
    Sector Equality and Human Rights Duty.
 
-   [31]View guidance note on Covid-19 and the Public Sector Equality and
-   Human Rights Duty
+   View guidance note on Covid-19 and the Public Sector Equality and Human
+   Rights Duty
 
    New tools are now available to assist public bodies in the effective
    implementation of the Public Sector Equality and Human Rights Duty
    including:
 
-   [32]Tool for an evidence-based assessment of equality and human rights
+   Tool for an evidence-based assessment of equality and human rights
    issues
 
-   [33]Tool for a consultative approach
+   Tool for a consultative approach
      __________________________________________________________________
 
    Public Sector Equality and Human Rights Duty
@@ -209,18 +209,18 @@ Section 42, Irish Human Rights and Equality Commission Act 2014
    public body in respect of the performance by it of its functions under
    subsection (1).
 
-[34]In this section
+In this section
 
-     * [35]Overview
-     * [36]FAQs on the Duty
-     * [37]Duty Assessment: Tools and Data Sources
-     * [38]Training, tools and resources
-     * [39]Implementing the Duty: Pilot Case Studies
-     * [40]Duty Events
-     * [41]Public Sector Duty eLearning
-     * [42]Further Learning (P.Dip. HR&E – IPA)
+     * Overview
+     * FAQs on the Duty
+     * Duty Assessment: Tools and Data Sources
+     * Training, tools and resources
+     * Implementing the Duty: Pilot Case Studies
+     * Duty Events
+     * Public Sector Duty eLearning
+     * Further Learning (P.Dip. HR&E – IPA)
 
-   [43]Back to top of page
+   Back to top of page
 
    Help us improve our site
    Leave feedback
@@ -245,7 +245,7 @@ Section 42, Irish Human Rights and Equality Commission Act 2014
    __________________________________________________
    Submit
 
-   IFRAME: [44]gform_ajax_frame_1
+   IFRAME: gform_ajax_frame_1
 
    IHREC Logo
 
@@ -254,101 +254,29 @@ Section 42, Irish Human Rights and Equality Commission Act 2014
     16 – 22 Green Street
     Dublin 7
     D07 CR20
-    [45]Click for map
+    Click for map
     Tel: +353 1 8589601
-    [46]info@ihrec.ie
+    info@ihrec.ie
 
-     * [47]Accessibility
-     * [48]Web Accessibility Statement
-     * [49]Freedom of Information Publication Scheme
-     * [50]Customer Service Charter
-     * [51]Re-use of Public Sector Information
-     * [52]Prompt Payment Returns
-     * [53]Language Scheme 2021-2024
-     * [54]Protected Disclosures
-     * [55]Site Map
+     * Accessibility
+     * Web Accessibility Statement
+     * Freedom of Information Publication Scheme
+     * Customer Service Charter
+     * Re-use of Public Sector Information
+     * Prompt Payment Returns
+     * Language Scheme 2021-2024
+     * Protected Disclosures
+     * Site Map
 
-     * [56]About
-     * [57]Your Rights
-     * [58]Guides and Tools
-     * [59]Our Work
-     * [60]Disclaimer
-     * [61]Cookie Information Notice
-     * [62]Cookie Settings
-     * [63]Data protection Information Notice
+     * About
+     * Your Rights
+     * Guides and Tools
+     * Our Work
+     * Disclaimer
+     * Cookie Information Notice
+     * Cookie Settings
+     * Data protection Information Notice
 
-   [64] Subscribe to IHREC E-Newsletter
+    Subscribe to IHREC E-Newsletter
 
-   [65]Web Design & Development by FUSIO
-
-References
-
-   Visible links:
-   1. https://www.ihrec.ie/wp-json/oembed/1.0/embed?url=https://www.ihrec.ie/our-work/public-sector-duty/
-   2. https://www.ihrec.ie/wp-json/oembed/1.0/embed?url=https://www.ihrec.ie/our-work/public-sector-duty/&format=xml
-   3. https://www.googletagmanager.com/ns.html?id=GTM-NTJGQG3
-   4. https://www.ihrec.ie/
-   5. https://www.ihrec.ie/
-   6. https://www.ihrec.ie/about/who-we-are/
-   7. https://www.ihrec.ie/your-rights/
-   8. https://www.ihrec.ie/guides-and-tools/
-   9. https://www.ihrec.ie/our-work/
-  10. https://www.ihrec.ie/publications/
-  11. https://www.ihrec.ie/category/press-releases/
-  12. https://www.ihrec.ie/about/opportunities/
-  13. https://www.ihrec.ie/about/contact/
-  14. https://www.ihrec.ie/ga/our-work/public-sector-duty
-  15. https://ie.linkedin.com/company/irish-human-rights-and-equality-commission
-  16. https://www.instagram.com/irishhumanrightsequality/
-  17. https://twitter.com/_ihrec
-  18. https://www.ihrec.ie/
-  19. https://www.ihrec.ie/our-work/
-  20. https://www.ihrec.ie/documents/ihrec-act-2014/
-  21. https://www.ihrec.ie/documents/ihrec-act-2014/
-  22. https://www.ihrec.ie/documents/implementing-the-public-sector-equality-and-human-rights-duty/
-  23. https://www.ihrec.ie/documents/implementing-the-public-sector-equality-and-human-rights-duty/
-  24. https://www.ihrec.ie/documents/dualgas-na-hearnala-poibli-um-chomhionannas-agus-cearta-an-duine-a-chur-i-bhfeidhm/
-  25. https://www.ihrec.ie/documents/dualgas-na-hearnala-poibli-um-chomhionannas-agus-cearta-an-duine-a-chur-i-bhfeidhm/
-  26. mailto:publicsectorduty@ihrec.ie
-  27. mailto:support@ihrec.ie
-  28. https://player.vimeo.com/video/467731986?dnt=1
-  29. https://player.vimeo.com/video/325208092?dnt=1
-  30. https://elearning.ihrec.ie/
-  31. https://www.ihrec.ie/documents/guidance-note-covid-19-and-the-public-sector-equality-and-human-rights-duty/
-  32. https://www.ihrec.ie/app/uploads/2022/08/IHREC-Tool-for-an-Evidence-Based-Assessment-of-Equality-and-Human-Rights-Issues.pdf
-  33. https://www.ihrec.ie/app/uploads/2022/08/IHREC-Tool-for-a-Consultative-Approach.pdf
-  34. https://www.ihrec.ie/our-work/public-sector-duty/
-  35. https://www.ihrec.ie/our-work/public-sector-duty/
-  36. https://www.ihrec.ie/our-work/public-sector-duty/faqs-on-the-duty/
-  37. https://www.ihrec.ie/our-work/public-sector-duty/duty-assessment-tools-and-data-sources/
-  38. https://www.ihrec.ie/our-work/public-sector-duty/training-tools-and-resources/
-  39. https://www.ihrec.ie/our-work/public-sector-equality-and-human-rights-duty-faq/implementing-the-duty-pilot-case-studies/
-  40. https://www.ihrec.ie/our-work/public-sector-duty/duty-events/
-  41. https://www.ihrec.ie/elearning/
-  42. https://www.ihrec.ie/further-learning-p-dip-hre-ipa/
-  43. https://www.ihrec.ie/our-work/public-sector-duty/#top
-  44. about:blank
-  45. https://www.ihrec.ie/about/contact/
-  46. mailto:info@ihrec.ie
-  47. https://www.ihrec.ie/accessibility/
-  48. https://www.ihrec.ie/web-accessibility-statement/
-  49. https://www.ihrec.ie/freedom-of-information-publication-scheme/
-  50. https://www.ihrec.ie/customer-service-charter/
-  51. https://www.ihrec.ie/re-use-of-public-sector-information/
-  52. https://www.ihrec.ie/our-work/prompt-payment-returns/
-  53. https://www.ihrec.ie/language-scheme-sceim-teanga/
-  54. https://www.ihrec.ie/protected-disclosures/
-  55. https://www.ihrec.ie/site-map/
-  56. https://www.ihrec.ie/about/who-we-are/
-  57. https://www.ihrec.ie/your-rights/
-  58. https://www.ihrec.ie/guides-and-tools/
-  59. https://www.ihrec.ie/our-work/
-  60. https://www.ihrec.ie/disclaimer/
-  61. https://www.ihrec.ie/cookie-information-notice/
-  62. https://www.ihrec.ie/our-work/public-sector-duty/
-  63. https://www.ihrec.ie/documents/data-protection-information-notice/
-  64. https://www.ihrec.ie/newsletter-signup/
-  65. https://www.fusio.net/
-
-   Hidden links:
-  67. https://www.ihrec.ie/our-work/public-sector-duty/
+   Web Design & Development by FUSIO

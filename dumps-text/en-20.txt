@@ -1,18 +1,18 @@
-   #[1]prev [2]up [3]next
+   #prev up next
 
-   [4]Skip to main content [5]Skip to local navigation [6]Skip to main
-   content [7]Skip to global navigation [8]Skip to footer
+   Skip to main content Skip to local navigation Skip to main content Skip
+   to global navigation Skip to footer
 
-   IFRAME: [9]https://www.googletagmanager.com/ns.html?id=GTM-WT4KDF3
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WT4KDF3
 
-   [10]Ontario Human Rights Commission
+   Ontario Human Rights Commission
 
-[11]Ontario Human Rights Commission
+Ontario Human Rights Commission
 
 Language selector
 
-     * [12]English
-     * [13]Français
+     * English
+     * Français
 
 Search
 
@@ -21,89 +21,89 @@ Search
 
 OHRC Social Links
 
-   [14]Facebook logo. Link to OHRC Facebook page [15]Twitter logo. Link to
-   OHRC Twitter page [16]Instagram logo Link to OHRC Instagram page
+   Facebook logo. Link to OHRC Facebook page Twitter logo. Link to OHRC
+   Twitter page Instagram logo Link to OHRC Instagram page
 
 Main Navigation
 
-     * [17]Your Rights
-          + [18]The Ontario Human Rights Code
-          + [19]The Human Rights System
-          + [20]The Ontario Human Rights Commission
-          + [21]The Human Rights Legal Support Centre
-          + [22]The Human Rights Tribunal of Ontario
-          + [23]Frequently asked questions
-     * [24]Code Grounds
-          + [25]Age
-          + [26]Creed
-          + [27]Disability
-          + [28]Family and marital status
-          + [29]Gender identity and gender expression
-          + [30]Race and related grounds
-          + [31]Receipt of public assistance
-          + [32]Record of offences
-          + [33]Sex
-          + [34]Sexual orientation
-     * [35]Social Areas
-          + [36]Contracts
-          + [37]Employment
-          + [38]Goods, services and facilities
-          + [39]Housing
-          + [40]Membership in vocational associations and trade unions
-     * [41]Education & Outreach
-          + [42]Events
-          + [43]eLearning
-          + [44]Webinars
-          + [45]Teaching human rights in Ontario
-          + [46]Public education requests
-     * [47]Our Work
-          + [48]The OHRC at 60
-          + [49]Backgrounders and research
-          + [50]Brochures, fact sheets and guides
-          + [51]COVID-19
-          + [52]Inquiries
-          + [53]Legal
-          + [54]Letters
-          + [55]Papers and reports
-          + [56]Policies and guidelines
-          + [57]Submissions
+     * Your Rights
+          + The Ontario Human Rights Code
+          + The Human Rights System
+          + The Ontario Human Rights Commission
+          + The Human Rights Legal Support Centre
+          + The Human Rights Tribunal of Ontario
+          + Frequently asked questions
+     * Code Grounds
+          + Age
+          + Creed
+          + Disability
+          + Family and marital status
+          + Gender identity and gender expression
+          + Race and related grounds
+          + Receipt of public assistance
+          + Record of offences
+          + Sex
+          + Sexual orientation
+     * Social Areas
+          + Contracts
+          + Employment
+          + Goods, services and facilities
+          + Housing
+          + Membership in vocational associations and trade unions
+     * Education & Outreach
+          + Events
+          + eLearning
+          + Webinars
+          + Teaching human rights in Ontario
+          + Public education requests
+     * Our Work
+          + The OHRC at 60
+          + Backgrounders and research
+          + Brochures, fact sheets and guides
+          + COVID-19
+          + Inquiries
+          + Legal
+          + Letters
+          + Papers and reports
+          + Policies and guidelines
+          + Submissions
 
 You are here
 
-   [58]Home » [59]Policy on ableism and discrimination based on disability
-   » 8. Duty to accommodate
+   Home » Policy on ableism and discrimination based on disability » 8.
+   Duty to accommodate
 
-[60]Policy on ableism and discrimination based on disability
+Policy on ableism and discrimination based on disability
 
-     * [61]1. Introduction
-     * [62]2. What is disability?
-     * [63]3. Legal framework
-     * [64]4. Intersecting grounds
-     * [65]5. Establishing discrimination
-     * [66]6. Forms of discrimination
-     * [67]7. Reprisal
-     * [68]8. Duty to accommodate
-     * [69]9. Undue hardship
-     * [70]10. Other limits on the duty to accommodate
-     * [71]11. Preventing and responding to discrimination
-     * [72]Appendix A: Purpose of this policy
+     * 1. Introduction
+     * 2. What is disability?
+     * 3. Legal framework
+     * 4. Intersecting grounds
+     * 5. Establishing discrimination
+     * 6. Forms of discrimination
+     * 7. Reprisal
+     * 8. Duty to accommodate
+     * 9. Undue hardship
+     * 10. Other limits on the duty to accommodate
+     * 11. Preventing and responding to discrimination
+     * Appendix A: Purpose of this policy
 
 8. Duty to accommodate
 
 Page controls
 
-     * [73]Printer-friendly version
-     * [74]+ show tags
+     * Printer-friendly version
+     * + show tags
      *
 
 Book Prev / Next Navigation
-       [75]Previous [76]
+       Previous
        Next
 
 Tags
 
    Organizational responsibility:
-   [77]duty to accommodate
+   duty to accommodate
 
 Page content
 
@@ -134,33 +134,33 @@ Page content
      have a duty to change working conditions in a fundamental way, but
      does have a duty, if it can do so without undue hardship, to arrange
      the employee's workplace or duties to enable the employee to do his
-     or her work.^[78][120]
+     or her work.^[120]
 
    Requirements under the Convention on the Rights of Persons with
    Disabilities provide that States Parties, including Canada, must take
    steps to make sure that people with disabilities are provided with
    accommodation (for example, to ensure equal access to justice,
-   education and employment).^[79][121]
+   education and employment).^[121]
 
    The duty to accommodate has both a substantive and a procedural
    component. The procedure to assess an accommodation (the process) is as
    important as the substantive content of the accommodation (the
-   accommodation provided).^[80][122] In a case involving the
-   accommodation of a mental health disability in the workplace, the court
-   said: “a failure to give any thought or consideration to the issue of
-   accommodation, including what, if any, steps could be taken constitutes
-   a failure to satisfy the ‘procedural’ duty to accommodate.”^[81][123]
+   accommodation provided).^[122] In a case involving the accommodation of
+   a mental health disability in the workplace, the court said: “a failure
+   to give any thought or consideration to the issue of accommodation,
+   including what, if any, steps could be taken constitutes a failure to
+   satisfy the ‘procedural’ duty to accommodate.”^[123]
 
    In Ontario, it is clear that a failure in the procedural duty to
    accommodate can lead to a finding of a breach of the Code even if there
    was no substantive accommodation that could have been provided short of
    undue hardship. Failure to perform either component of the duty is a
-   failure to carry out the duty to accommodate.^[82][124]
+   failure to carry out the duty to accommodate.^[124]
 
    Moreover, an organization will not be able to argue persuasively that
    providing accommodation would cause undue hardship if it has not taken
    steps to explore accommodation solutions, and otherwise fulfil the
-   procedural component of the duty to accommodate.^[83][125]
+   procedural component of the duty to accommodate.^[125]
 
      Example: In one case, a human rights tribunal upheld a claim of
      discrimination against a housing co-op when it failed to investigate
@@ -171,7 +171,7 @@ Page content
      The co-op also did not respond to her legitimate request to be moved
      to another unit. Instead, it chose not to communicate with her after
      it suggested that her family move out, except to send a threatening
-     letter from the co-op’s lawyers.^[84][126]
+     letter from the co-op’s lawyers.^[126]
 
 8.1 Principles of accommodation
 
@@ -183,8 +183,7 @@ Page content
 
    The Convention on the Rights of Persons with Disabilities states
    “…discrimination against any person on the basis of disability is a
-   violation of the inherent dignity and worth of the human
-   person.”^[85][127]
+   violation of the inherent dignity and worth of the human person.”^[127]
 
    The duty to accommodate people with disabilities means accommodation
    must be provided in the way that most respects the dignity of the
@@ -224,13 +223,13 @@ Page content
    afresh when an accommodation request is made. People sharing the same
    condition often experience it in very different ways, with different
    symptoms, limitations and prognoses. In terms of accommodation, what
-   might work for one person may not work for another.^[86][128]
+   might work for one person may not work for another.^[128]
 
      Example: The Supreme Court of Canada found that a workplace
      attendance standard that defined a maximum period for employee
      absences was prima facie discriminatory in part because it did not
      take into account the individualized nature of the accommodation
-     process.[87]^^[129]
+     process.^^[129]
 
    Accommodations may need to be re-visited over time to make sure that
    they continue to meet a person’s needs appropriately.
@@ -263,13 +262,13 @@ Page content
    services, employment or housing for people with disabilities is less
    dignified and is unacceptable, unless it can be shown that integrated
    treatment would pose undue hardship or that segregation is the only way
-   to achieve equality.[88]^^[130]
+   to achieve equality.^^[130]
 
 8.2 Inclusive design
 
    Ensuring integration and full participation means designing society and
    structures for inclusiveness. Inclusive or “universal”
-   design^[89][131] emphasizes barrier-free environments and equal
+   design^[131] emphasizes barrier-free environments and equal
    participation of persons with disabilities with varying levels of
    ability. It is a preferred approach to removing barriers or making
    “one-off” accommodations, which assume that existing structures may
@@ -281,7 +280,7 @@ Page content
      [T]he principle that discrimination can accrue from a failure to
      take positive steps to ensure that disadvantaged groups benefit
      equally from services offered to the general public is widely
-     accepted in the human rights field^.[90][132]
+     accepted in the human rights field^.[132]
 
    Effective inclusive design will minimize the need for people to ask for
    individualized accommodation. As the Law Commission of Ontario has
@@ -296,17 +295,17 @@ Page content
      accommodations and supports that they need in order to live
      autonomously and independently. In this way, the principle of
      autonomy and independence is closely linked to that of participation
-     and inclusion.”[91]^^[133]
+     and inclusion.”^^[133]
 
    The Supreme Court has noted the need to “fine-tune” society so that
    structures and assumptions do not exclude persons with disabilities
-   from taking part in society.[92]^^[134] It has affirmed that standards
+   from taking part in society.^^[134] It has affirmed that standards
    should be designed to reflect all members of society, to the extent
-   that this is reasonably possible.[93]^^[135] Housing providers, service
+   that this is reasonably possible.^^[135] Housing providers, service
    providers, employers and others need to build in conceptions of
-   equality to standards or requirements.[94]^^[136] This proactive
-   approach is more effective because it emphasizes accessibility and
-   inclusion from the start.
+   equality to standards or requirements.^^[136] This proactive approach
+   is more effective because it emphasizes accessibility and inclusion
+   from the start.
 
    Organizations, including government, should use the principles of
    inclusive design when they are developing and building policies,
@@ -317,25 +316,25 @@ Page content
      hard of hearing are able to identify emergency situations.
 
      Example: Voters and candidates with disabilities have the right to
-     accommodation during elections.^[95][137] Leading up to a provincial
+     accommodation during elections.^[137] Leading up to a provincial
      by-election, the election office procures only accessible facilities
-     for polling stations.^[96][138] Accessibility
-     standards^[97][139] are specified in facility rental agreements and
-     accessible voting equipment and services are available so that
-     people with disabilities can vote independently on election day.
-     Local riding associations follow similar accessibility standards
-     when selecting locations for all-candidate debates and all parties
-     agree to share the costs of sign language interpreters and
-     captioning to make sure voters and candidates with hearing
-     disabilities can participate equally.^[98][140]
+     for polling stations.^[138] Accessibility standards^[139] are
+     specified in facility rental agreements and accessible voting
+     equipment and services are available so that people with
+     disabilities can vote independently on election day. Local riding
+     associations follow similar accessibility standards when selecting
+     locations for all-candidate debates and all parties agree to share
+     the costs of sign language interpreters and captioning to make sure
+     voters and candidates with hearing disabilities can participate
+     equally.^[140]
 
    New barriers should never be created when designing new structures or
-   revising old ones.^[99][141] Organizations that knowingly create new
+   revising old ones.^[141] Organizations that knowingly create new
    barriers for people with disabilities, or take steps that perpetuate
    existing barriers, may violate the Code. Design plans should
    incorporate current accessibility standards such as the Principles of
-   Universal Design.[100]^^[142] This type of planning decreases the need
-   to remove barriers and provide accommodations at a later date.
+   Universal Design.^^[142] This type of planning decreases the need to
+   remove barriers and provide accommodations at a later date.
 
      Example: The entrance to a convenience store included four steps up
      to the front door, the store’s only public entrance. As a result,
@@ -353,19 +352,19 @@ Page content
      environmental sensitivities for its managers and staff, and informs
      its clients about its policy.
 
-   The Accessibility for Ontarians with Disabilities
-   Act[101]^^[143] provides a mechanism for developing, implementing and
-   enforcing accessibility standards with the goal of a fully accessible
-   province by 2025. Standards have already been passed into regulation
-   for customer service, employment, information and communication,
-   transportation and public spaces. Changes have also been made to the
-   accessibility provisions of the Building Code
-   Regulation.^[102][144] Under the AODA, government public and private
-   sector employers, service providers and landlords are required to
-   comply with accessibility standards in varying degrees over time
-   relative to an organization’s size and sector. If accessibility
-   standards under the AODA fall short of requirements under the Code in a
-   given situation, the requirements of the Code will prevail.^[103][145]
+   The Accessibility for Ontarians with Disabilities Act^^[143] provides a
+   mechanism for developing, implementing and enforcing accessibility
+   standards with the goal of a fully accessible province by 2025.
+   Standards have already been passed into regulation for customer
+   service, employment, information and communication, transportation and
+   public spaces. Changes have also been made to the accessibility
+   provisions of the Building Code Regulation.^[144] Under the AODA,
+   government public and private sector employers, service providers and
+   landlords are required to comply with accessibility standards in
+   varying degrees over time relative to an organization’s size and
+   sector. If accessibility standards under the AODA fall short of
+   requirements under the Code in a given situation, the requirements of
+   the Code will prevail.^[145]
 
    Along with the expectation to prevent barriers at the design stage
    through inclusive design, organizations should be aware of systemic
@@ -388,10 +387,10 @@ Page content
    of people. Features installed to ensure that services or residences are
    accessible to people with disabilities also have the potential to meet
    people’s needs as they age, and allow people to “age in
-   place.”^[104][146] Offering a range of alternative communication
-   methods when providing services will benefit many people with different
-   needs, including people with speech and language disabilities, and
-   people who identify as deaf, deafened or hard of hearing.^[105][147]
+   place.”^[146] Offering a range of alternative communication methods
+   when providing services will benefit many people with different needs,
+   including people with speech and language disabilities, and people who
+   identify as deaf, deafened or hard of hearing.^[147]
 
 8.3 Appropriate accommodation
 
@@ -413,7 +412,7 @@ Page content
    Accommodation is a process and is a matter of degree, rather than an
    all-or-nothing proposition, and can be seen as a continuum. The highest
    point in the continuum of accommodation must be achieved, short of
-   undue hardship.[106]^^[148] At one end of this continuum is full
+   undue hardship.^^[148] At one end of this continuum is full
    accommodation that most respects the person's dignity and promotes
    confidentiality. Alternative accommodation (which would be less than
    “ideal”) might be next on the continuum when the most appropriate
@@ -429,10 +428,10 @@ Page content
 
    At the same time, human rights case law makes it clear that the purpose
    of the Code is to accommodate a person’s needs, not their
-   preferences.^[107][149] If there is a choice between two accommodations
-   that respond equally to the person’s needs in a dignified way, then the
+   preferences.^[149] If there is a choice between two accommodations that
+   respond equally to the person’s needs in a dignified way, then the
    accommodation provider is entitled to select the one that is less
-   expensive or less disruptive to the organization.^[108][150]
+   expensive or less disruptive to the organization.^[150]
 
 8.3.1 Essential duties and requirements
 
@@ -467,7 +466,7 @@ Page content
      accommodation would fundamentally alter the program or lower its
      professional standards. There must be a substantive factual
      foundation to support a conclusion that a person cannot meet an
-     essential requirement of a program.^[109][151]
+     essential requirement of a program.^[151]
 
      Example: After coming back from a disability-related leave, a man
      returned to modified duties. Even though his doctor cleared him to
@@ -483,22 +482,22 @@ Page content
      opinion” and “stereotypes.” It incorrectly relied on assumptions
      that the employee could not withstand the pressures of his job, and
      that his performance would be unreliable because of his past medical
-     condition.^[110][152]
+     condition.^[152]
 
    It is not enough for the organization to assume that a person cannot
    perform an essential requirement of a job, tenancy,
    service, etc. Rather, there must be an objective determination of that
-   fact.[111]^^[153] To this end, an individualized assessment will be
-   necessary.^[112][154]
+   fact.^^[153] To this end, an individualized assessment will be
+   necessary.^[154]
 
    The duty to accommodate does not require exempting a person from
-   performing the essential duties of the job,^[113][155] requirements of
-   the service, etc. In the context of employment, the duty to accommodate
+   performing the essential duties of the job,^[155] requirements of the
+   service, etc. In the context of employment, the duty to accommodate
    does not require an employer to fundamentally change the working
    conditions of employees, assign the essential duties of an employee
    with a disability to other employees or change the essential duties and
-   requirements of a position.^[114][156] In these cases, a next-best
-   solution, such as alternative work, may need to be found.
+   requirements of a position.^[156] In these cases, a next-best solution,
+   such as alternative work, may need to be found.
 
      Example: A delivery truck driver’s duties included loading skids of
      product onto a truck, and unloading them at his destination. He
@@ -514,7 +513,7 @@ Page content
      disability to other employees or to hire another employee to perform
      them in the employee's place. An employer is also not required to
      change the essential duties and requirements of a position so that
-     an employee can meet them.^[115][157]
+     an employee can meet them.^[157]
 
 8.3.2 Employment-specific accommodation issues
 
@@ -525,24 +524,24 @@ Page content
    be feasible. Human rights case law recognizes that employers have a
    duty to consider temporary and permanent alternative work for people
    who can no longer remain in their position even with
-   accommodation.^[116][158] This duty includes diligently investigating
-   positions and proposing job options^[117][159] that are within the
-   person’s functional limitations.^[118][160]
+   accommodation.^[158] This duty includes diligently investigating
+   positions and proposing job options^[159] that are within the person’s
+   functional limitations.^[160]
 
    Accommodation may include job restructuring, job
-   bundling,^[119][161] reassignment to open positions, or retraining for
+   bundling,^[161] reassignment to open positions, or retraining for
    alternative positions if that would not constitute undue hardship for
    the employer. Employers should canvass available posts that allow the
-   employee to maximize his or her skills and abilities.^[120][162]
+   employee to maximize his or her skills and abilities.^[162]
 
    Temporary alternative work
 
    The term "alternative work" means different work or work that does not
    necessarily involve similar skills, responsibilities and
-   compensation.^[121][163] Temporary alternative work may be an
-   appropriate accommodation either in a return to work context, or in a
-   situation where a disability renders an employee temporarily unable to
-   accomplish the pre-disability job. Temporary alternative work can be an
+   compensation.^[163] Temporary alternative work may be an appropriate
+   accommodation either in a return to work context, or in a situation
+   where a disability renders an employee temporarily unable to accomplish
+   the pre-disability job. Temporary alternative work can be an
    appropriate accommodation to assist a person where the nature of the
    disability and its limitations are temporary or episodic.
 
@@ -552,20 +551,20 @@ Page content
    employer must make the appropriate inquiries to assess whether the
    employee is fully able to carry out the essential functions of the job.
    The returning employee must be given an opportunity to prove his or her
-   ability to perform the pre-disability job.^[122][164] Where the
-   employee can no longer perform the pre-disability job, with or without
+   ability to perform the pre-disability job.^[164] Where the employee can
+   no longer perform the pre-disability job, with or without
    accommodation, the employer should consider permanent alternative
-   work.^[123][165]
+   work.^[165]
 
    The duty to accommodate may include some workplace
-   reorganization.^[124][166] For example, it may require employers to
-   consider placing an employee with a disability into a vacant position
-   without requiring that person to compete for the
-   position.^[125][167] The vacant position must be vacant within a
-   reasonable amount of time, but the employer is not required
-   to “promote” the employee. To the greatest extent possible, the vacant
-   position must be equivalent to the current one. When reassignment takes
-   place, the person must be qualified for the reassigned position.
+   reorganization.^[166] For example, it may require employers to consider
+   placing an employee with a disability into a vacant position without
+   requiring that person to compete for the position.^[167] The vacant
+   position must be vacant within a reasonable amount of time, but the
+   employer is not required to “promote” the employee. To the greatest
+   extent possible, the vacant position must be equivalent to the current
+   one. When reassignment takes place, the person must be qualified for
+   the reassigned position.
 
      Example: An employee with a disability returns from a disability
      leave and is considered for alternative work. There are two other
@@ -577,25 +576,24 @@ Page content
 
    The duty to accommodate does not require the employer to completely
    alter the essence of the contract of employment, that is, the
-   employee’s duty to perform work in exchange for
-   remuneration.^[126][168] The duty to accommodate does not require an
-   employer to provide “make work” or “to create a job that is not
-   productive or that, in the employer’s view, does not need to be
-   done.”^[127][169] Nor is an employer required to employ two employees
-   to do the job of one.^[128][170] In the final analysis, the employee
-   must be able to perform a useful and productive job for the
-   employer.^[129][171]
+   employee’s duty to perform work in exchange for remuneration.^[168] The
+   duty to accommodate does not require an employer to provide “make work”
+   or “to create a job that is not productive or that, in the employer’s
+   view, does not need to be done.”^[169] Nor is an employer required to
+   employ two employees to do the job of one.^[170] In the final analysis,
+   the employee must be able to perform a useful and productive job for
+   the employer.^[171]
 
 8.3.2.2 Return to work
 
    Accommodating a person who has been absent from work may involve any of
    the above forms of accommodation but also raises unique issues. People
    who return to work after an absence related to a Code ground are
-   protected by the Code.^[130][172] They generally have the right to
-   return to their original job (the pre-disability job). Both employers
-   and unions must co-operate in accommodating employees who are returning
-   to work. Accommodation is a fundamental and integral part of the right
-   to equal treatment in the return to work context.^[131][173]
+   protected by the Code.^[172] They generally have the right to return to
+   their original job (the pre-disability job). Both employers and unions
+   must co-operate in accommodating employees who are returning to work.
+   Accommodation is a fundamental and integral part of the right to equal
+   treatment in the return to work context.^[173]
 
      Example: In one case, a woman who had been off for several months
      for a series of surgeries informed her employer that she planned to
@@ -606,14 +604,14 @@ Page content
      period before it would consider whether she could return to work.
      The HRTO affirmed that the woman was entitled to her previous job.
      The employer acted in a discriminatory way when it merely offered to
-     consider rehiring her.^[132][174]
+     consider rehiring her.^[174]
 
    The right of people with disabilities to return to work exists if the
    worker can fulfil the essential duties of the job after accommodation
-   short of undue hardship.^[133][175] If a person cannot fulfil the
-   essential duties of the pre-disability job, despite the employer's
-   effort to accommodate short of undue hardship, the employer still has
-   an obligation to canvass alternative work possibilities, as outlined
+   short of undue hardship.^[175] If a person cannot fulfil the essential
+   duties of the pre-disability job, despite the employer's effort to
+   accommodate short of undue hardship, the employer still has an
+   obligation to canvass alternative work possibilities, as outlined
    above. Ultimately, as stated above, the person with a disability must
    be able to perform a useful and productive job for the employer.
 
@@ -622,7 +620,7 @@ Page content
    This will depend on the ability of the employee to perform the
    essential duties of the job considering the unique circumstances of
    every absence and the nature of the employee’s condition, as well as
-   circumstances in the workplace.^[134][176] Also important is the
+   circumstances in the workplace.^[176] Also important is the
    predictability of the absence, in terms of when it will end, if it may
    recur and the frequency of the absence. The employee’s prognosis and
    length of absence are also important considerations. It is more likely
@@ -630,7 +628,7 @@ Page content
    regardless of the length of absence.
 
    The duty to accommodate does not necessarily guarantee a limitless
-   right to return to work.^[135][177] On the other hand, a return to work
+   right to return to work.^[177] On the other hand, a return to work
    program that relies on arbitrarily selected cut-offs or that requires
    an inflexible date of return may be challenged as a violation of
    the Code.
@@ -647,7 +645,7 @@ Page content
      obligation to keep the employee’s job available does not extend
      indefinitely, and is limited by undue hardship involved in keeping
      the job available, but it generally extends for more than three
-     months.”^[136][178]
+     months.”^[178]
 
    Ultimately, the test of undue hardship is the relevant standard for
    assessing return to work programs.
@@ -661,10 +659,10 @@ Page content
    qualification or factor that results in discrimination is nevertheless
    reasonable and bona fide (legitimate). However, to do this, the
    organization must show that the needs of the person cannot be
-   accommodated without undue hardship.^[137][179]
+   accommodated without undue hardship.^[179]
 
    The Supreme Court of Canada has set out a framework for examining
-   whether the duty to accommodate has been met.^[138][180] If prima
+   whether the duty to accommodate has been met.^[180] If prima
    facie discrimination (or discrimination on its face) is found to exist,
    a respondent must establish on a balance of probabilities that the
    standard, factor, requirement or rule:
@@ -675,18 +673,18 @@ Page content
        the fulfilment of the purpose or goal, and
     3. is reasonably necessary to accomplish its purpose or goal, in the
        sense that it is impossible to accommodate the claimant without
-       undue hardship.^[139][181]
+       undue hardship.^[181]
 
    As a result of this test, the rule or standard itself must be inclusive
    of as many people as possible and must accommodate individual
    differences up to the point of undue hardship. This makes sure that
    each person is assessed according to their own personal
-   abilities.^[140][182] The ultimate issue is whether the organization or
+   abilities.^[182] The ultimate issue is whether the organization or
    individual providing accommodation has shown that they have done so up
    to the point of undue hardship.
 
    The following non-exhaustive factors should be considered during the
-   analysis:^[141][183]
+   analysis:^[183]
      * whether the accommodation provider investigated alternative
        approaches
        that do not have a discriminatory effect
@@ -712,7 +710,7 @@ Page content
      * buildings, facilities and services
      * policies and processes
      * procurement and third-party contracts
-     * performance standards, conditions and requirements[142]^^[184]
+     * performance standards, conditions and requirements^^[184]
      * decision-making practices
      * work, housing or service culture
      * methods of communication.
@@ -721,8 +719,8 @@ Page content
    include:
 
    Employment
-     * allowing a flexible work schedule^[143][185]
-     * modifying job duties^[144][186]
+     * allowing a flexible work schedule^[185]
+     * modifying job duties^[186]
      * modifying policies
      * making changes to the building (for example, installing ramps, hand
        rails, automatic door openers, wider doorways, etc.)
@@ -733,8 +731,8 @@ Page content
      * providing alternative ways of communicating with the employee
      * additional training
      * allowing short-term and long-term disability leave
-     * job bundling and unbundling^[145][187]
-     * alternative work.^[146][188]
+     * job bundling and unbundling^[187]
+     * alternative work.^[188]
 
    Services
      * providing multiple ways of contacting a service including by phone,
@@ -744,19 +742,19 @@ Page content
      * making attendance requirements flexible, where possible, if
        non-attendance can be shown to be linked to a disability
      * modifying rules around non-compliance with deadlines, if
-       non-compliance can be shown to be linked to a disability^[147][189]
-     * modifying “no pets” policies to allow guide dogs^[148][190] and
-       other service animals[149]^^[191]
+       non-compliance can be shown to be linked to a disability^[189]
+     * modifying “no pets” policies to allow guide dogs^[190] and other
+       service animals^^[191]
      * considering someone’s disability as a mitigating factor when
        addressing behaviour that would otherwise warrant imposing
-       sanctions.^[150][192]
+       sanctions.^[192]
 
    Housing
      * helping someone fill out application forms (e.g. for social or
        supportive housing)
      * adjusting tenant selection criteria (such as using a guarantor when
        other information, such as credit history or rental history, is not
-       available^[151][193])
+       available^[193])
      * modifying deadlines (such as deadlines to report income changes in
        social and supportive housing)
      * modifying ways that information is communicated to tenants
@@ -768,8 +766,8 @@ Page content
        agreed to by the tenant
      * considering someone’s disability as a mitigating factor when
        addressing behaviour that would otherwise warrant imposing
-       sanctions^[152][194]
-     * allowing transfers between units.^[153][195]
+       sanctions^[194]
+     * allowing transfers between units.^[195]
 
    Most accommodations are not expensive to provide, and if instituted
    widely, will benefit more than the person requesting the accommodation.
@@ -790,7 +788,7 @@ Page content
    accommodation. However, care must be taken to protect the person’s
    privacy, to not reveal any more information than is necessary, to make
    sure that they are not “singled out,” and that their dignity is
-   respected.^[154][196]
+   respected.^[196]
 
    An accommodation provider should take steps to resolve any tension or
    conflict that may occur as a result of resentment on the part of others
@@ -802,9 +800,9 @@ Page content
    Keeping in mind that everyone experiences disability differently,
    accommodation providers are also required to educate themselves about
    the nature and impact of disabilities as part of the procedural duty to
-   accommodate,^[155][197] and to dispel any misperceptions or stereotypes
-   that employees, other tenants or service staff or users may have about
-   people with disabilities^[156][198] that could lead to inequitable
+   accommodate,^[197] and to dispel any misperceptions or stereotypes that
+   employees, other tenants or service staff or users may have about
+   people with disabilities^[198] that could lead to inequitable
    treatment. Resolving these issues must be done in a way that most
    respects the person’s dignity and privacy. One key approach to doing
    this is to implement anti-harassment, accommodation and sensitivity
@@ -820,55 +818,55 @@ Page content
      * make accommodation needs known to the best of their ability,
        preferably
        in writing, so that the person responsible for accommodation can
-       make the requested accommodation^[157][199]
+       make the requested accommodation^[199]
      * answer questions or provide information about relevant restrictions
        or limitations, including information from health care
-       professionals^[158][200]
+       professionals^[200]
      * take part in discussions about possible accommodation solutions
      * co-operate with any experts whose assistance is required to manage
        the accommodation process or when information is needed that is
        unavailable to
        the person with a disability
      * meet agreed-upon performance standards and requirements, such as
-       job standards, once accommodation is provided[159]^^[201]
+       job standards, once accommodation is provided^^[201]
      * work with the accommodation provider on an ongoing basis to manage
        the accommodation process.
 
    The accommodation provider is required to:
      * be alert to the possibility that a person may need an accommodation
-       even if they have not made a specific or formal request^[160][202]
+       even if they have not made a specific or formal request^[202]
      * accept the person’s request for accommodation in good faith, unless
        there are legitimate reasons for acting otherwise
      * get expert opinion or advice where needed (but not as a routine
        matter)
      * take an active role in ensuring that alternative approaches and
-       possible accommodation solutions are investigated,^[161][203] and
+       possible accommodation solutions are investigated,^[203] and
        canvass various forms of possible accommodation and alternative
-       solutions^[162][204]
+       solutions^[204]
      * keep a record of the accommodation request and action taken
      * communicate regularly and effectively with the person, providing
        updates on the status of the accommodation and planned next
-       steps^[163][205]
+       steps^[205]
      * maintain confidentiality
      * limit requests for information to those reasonably related to the
        nature of the limitation or restriction, to be able to respond to
        the accommodation request
      * consult with the person to determine the most appropriate
        accommodation
-     * implement accommodations in a timely way,^[164][206] to the point
-       of undue hardship
+     * implement accommodations in a timely way,^[206] to the point of
+       undue hardship
      * bear the cost of any required medical information or documentation
        (for example, the accommodation provider should pay for doctors’
        notes, assessments, letters setting out accommodation
-       needs, etc.)^[165][207]
+       needs, etc.)^[207]
      * bear the cost of required accommodation.
 
    Although the person seeking accommodation has a duty to assist in
    securing appropriate accommodation that will meet their needs, they are
-   not responsible for originating a solution^[166][208] or leading the
+   not responsible for originating a solution^[208] or leading the
    accommodation process. They are also not required to discuss their
    disability-related needs with anyone other than the people directly
-   involved in the accommodation process.^[167][209] It is ultimately the
+   involved in the accommodation process.^[209] It is ultimately the
    accommodation provider’s responsibility to implement solutions, with
    the co-operation of the person seeking accommodation. After
    accommodation is provided, the person receiving the accommodation is
@@ -877,18 +875,18 @@ Page content
 
    Contracting with a disability management company does not absolve an
    employer of responsibilities or liability if the accommodation process
-   is not managed properly.^[168][210]
+   is not managed properly.^[210]
 
    In employment, unions and professional associations are required to
    take an active role as partners in the accommodation process, share
    joint responsibility with the employer to facilitate accommodation, and
    support accommodation measures regardless of collective agreements,
-   unless to do so would create undue hardship.^[169][211]
+   unless to do so would create undue hardship.^[211]
 
    If the accommodation is required to allow the person to be able to take
    part in the organization without impediment due to disability, the
    organization must arrange and cover the cost of the accommodation
-   needed,^[170][212] unless this would cause undue hardship.
+   needed,^[212] unless this would cause undue hardship.
 
    Where a person requires assistance for their disability beyond what is
    required to access housing, employment or services equally, such as an
@@ -913,8 +911,7 @@ Page content
    for accommodation are not, as a rule, expected to accommodate
    disabilities they are unaware of. However, in some circumstances, the
    nature of certain disabilities may leave people unable to identify that
-   they have a disability, or that they have accommodation
-   needs.^[171][213]
+   they have a disability, or that they have accommodation needs.^[213]
 
      Example: A forklift operator is prescribed medication to treat
      seizures. Shortly afterward he begins to experience memory lapses,
@@ -931,7 +928,7 @@ Page content
    Accommodation providers must attempt to help a person who is clearly
    unwell or perceived to have a disability by inquiring further to see if
    the person has needs related to a disability and offering assistance
-   and accommodation.^[172][214] Even if an employer has not been formally
+   and accommodation.^[214] Even if an employer has not been formally
    advised of a disability, the perception of such a disability will
    engage the protection of the Code.
 
@@ -945,14 +942,14 @@ Page content
      accommodation where it is aware of facts that indicate that the
      employee may be having difficulties because of disability; there is
      a duty to take the initiative to inquire in these
-     circumstances.”^[173][215]
+     circumstances.”^[215]
 
    Where an organization is aware, or reasonably ought to be aware, that
    there may be a relationship between a disability and someone’s job
    performance, or their abilities to fulfil their duties as a tenant or
    service user, the organization has a “duty to inquire” into that
    possible relationship before making a decision that would affect the
-   person adversely.^[174][216] This includes providing a meaningful
+   person adversely.^[216] This includes providing a meaningful
    opportunity to the employee, tenant or service user to identify a
    disability and request accommodation. A severe change in
    a person’s behaviour could signal that the situation warrants further
@@ -968,9 +965,9 @@ Page content
    or “unacceptable behaviour,” an organization must first consider
    whether the actions of the person are caused by a disability,
    especially where the organization is aware or perceives that the person
-   has a disability.^[175][217] The person’s disability must be considered
-   in determining what, if any, sanctions are appropriate, unless this
-   causes undue hardship.
+   has a disability.^[217] The person’s disability must be considered in
+   determining what, if any, sanctions are appropriate, unless this causes
+   undue hardship.
 
      Example: A boy in Grade 2 regularly interrupts his classmates and
      disrupts the teacher’s lessons. When repeated reminders do not
@@ -982,7 +979,7 @@ Page content
      help him succeed at school.
 
    Where the behaviour is not related to a disability, sanctions or
-   discipline will generally apply, as usual.^[176][218]
+   discipline will generally apply, as usual.^[218]
 
    Accommodation providers should always inform employees, service users
    and tenants that a disability-related assessment (such as a medical
@@ -996,23 +993,23 @@ Page content
    concerned.
 
    Once disability-related needs are known, the legal onus shifts to those
-   with the duty to accommodate.^[177][219] For example, support or
-   referral through employee assistance programs (EAPs) could be the
-   solution for an underlying disability.
+   with the duty to accommodate.^[219] For example, support or referral
+   through employee assistance programs (EAPs) could be the solution for
+   an underlying disability.
 
 8.7 Medical information to be provided
 
    The provision of medical information by people with disabilities – the
    type, the scope and to whom – has implications for the privacy of
-   employees, tenants and service users.^[178][220] At the same time,
+   employees, tenants and service users.^[220] At the same time,
    organizations must have enough information to allow them to meet their
    duty to accommodate.
 
    As stated above, the person seeking accommodation is generally required
    to advise the accommodation provider that they have a disability, and
    the accommodation provider is required to take requests for
-   accommodation in good faith.^[179][221] A person with a disability does
-   not have to meet an onerous standard for initially communicating that a
+   accommodation in good faith.^[221] A person with a disability does not
+   have to meet an onerous standard for initially communicating that a
    disability exists to trigger the organization’s duty to accommodate.
    Organizations should limit requests for information to those reasonably
    related to the nature of the limitation or restriction, to assess needs
@@ -1023,8 +1020,8 @@ Page content
      * that the person has a disability
      * the limitations or needs associated with the disability
      * whether the person can perform the essential duties or requirements
-       of the job^[180][222], of being a tenant, or of being a service
-       user, with or without accommodation
+       of the job^[222], of being a tenant, or of being a service user,
+       with or without accommodation
      * the type of accommodation(s) that may be needed to allow the person
        to fulfill the essential duties or requirements of the job, of
        being a tenant, or of being a service user, etc.
@@ -1049,7 +1046,7 @@ Page content
      to provide. The Ontario Divisional Court stated that the co-op had a
      duty to respect the rights of its occupants under the Ontario Human
      Rights Code and to accommodate the needs of an occupant with a
-     disability, to the point of undue hardship.^[181][223]
+     disability, to the point of undue hardship.^[223]
 
    Where there is a reasonable basis to question the legitimacy of a
    person’s request for accommodation or the adequacy of the information
@@ -1066,18 +1063,18 @@ Page content
    legitimately needs more information about the person’s disability to
    make the accommodation (as opposed to just the needs related to the
    disability), it could ask for the nature of the person’s illness,
-   condition or disability^[182][224] (for example, is it a mental health
+   condition or disability^[224] (for example, is it a mental health
    disability, a physical disability, a learning disability?), as opposed
    to a medical diagnosis.
 
    Organizations are not expected to diagnose illness or “second-guess”
    the health status of a person with a disability. An accommodation
    provider is not entitled to substitute its own opinion for that of
-   medical documentation provided by a doctor.^[183][225] Similarly, an
+   medical documentation provided by a doctor.^[225] Similarly, an
    organization must not ask for more confidential medical information
    than necessary because it doubts the person’s disclosure of their
    disability based on its own impressionistic view of what a specific
-   disability should “look like.”^[184][226]
+   disability should “look like.”^[226]
 
      Example: An employee tells his manager that he has Crohn’s Disease
      and requests time off work to recover from an upcoming surgery
@@ -1093,14 +1090,14 @@ Page content
 
    Generally, the accommodation provider does not have the right to know a
    person’s confidential medical information, such as the cause of the
-   disability, diagnosis, symptoms or treatment,^[185][227] unless these
+   disability, diagnosis, symptoms or treatment,^[227] unless these
    clearly relate to the accommodation being sought, or the person’s needs
    are complex, challenging or unclear and more information is
-   needed.^[186][228] In rare situations where a person’s accommodation
-   needs are complex, challenging or unclear, the person may be asked to
+   needed.^[228] In rare situations where a person’s accommodation needs
+   are complex, challenging or unclear, the person may be asked to
    co-operate by providing more information, up to and including a
-   diagnosis.^[187][229] In such situations, the accommodation provider
-   must be able to clearly justify why the information is needed.
+   diagnosis.^[229] In such situations, the accommodation provider must be
+   able to clearly justify why the information is needed.
 
    However, wherever possible, an accommodation provider must make genuine
    efforts to provide needed accommodations without requiring a person to
@@ -1119,11 +1116,10 @@ Page content
    independent medical examination (IME). However, there must be an
    objective basis for concluding that the initial medical evidence
    provided is inaccurate or inadequate. The IME should not be used to
-   “second-guess” a person’s request for
-   accommodation.^[188][230] Requests for medical examinations must be
-   warranted, take into account a person’s particular disability-related
-   needs, and respect individual privacy to the greatest extent
-   possible.^[189][231]
+   “second-guess” a person’s request for accommodation.^[230] Requests for
+   medical examinations must be warranted, take into account a person’s
+   particular disability-related needs, and respect individual privacy to
+   the greatest extent possible.^[231]
 
      Example: A woman is employed as a railroad engineer, which is a
      “safety sensitive” position. After being hospitalized for a serious
@@ -1132,7 +1128,7 @@ Page content
      and her supervisor notices that she cannot focus well, her reaction
      time is slow, and she makes repeated mistakes. In this case, the
      employer may be justified in asking the employee to attend an
-     independent medical examination.^[190][232]
+     independent medical examination.^[232]
 
    No one can be made to attend an independent medical examination, but
    failure to respond to reasonable requests may delay the accommodation
@@ -1143,7 +1139,7 @@ Page content
    experiences “stress,” “pain” or “feels unwell” – things that many
    people commonly experience – may not be enough to establish a
    disability within the meaning and protection of human rights
-   legislation.[191]^^[233] If choosing to disclose such information in
+   legislation.^^[233] If choosing to disclose such information in
    writing, individuals and doctors should make it clear that these
    symptoms relate to a disability.
 
@@ -1165,14 +1161,14 @@ Page content
    accommodation, the accommodation provider cannot use its own failure to
    ask for additional information to deny the accommodation or to
    otherwise subject a person to negative treatment (for example,
-   termination of employment, denial of service, etc.).^[192][234]
+   termination of employment, denial of service, etc.).^[234]
 
    If the person does not agree to provide additional medical information,
    and the accommodation provider can show that this information is
    needed, it may be the case that the person seeking accommodation could
    be found to not have taken part in the accommodation process and the
    accommodation provider would likely be relieved of further
-   responsibility.^[193][235]
+   responsibility.^[235]
 
    In some cases, there may be conflicting information provided by two
    medical experts. For example, a person’s own doctor or specialist may
@@ -1180,8 +1176,7 @@ Page content
    examiner’s report. Deciding which report to follow will depend on the
    facts of the particular situation and certain factors, such as which
    expert has more relevant experience, the degree of interaction with the
-   person, and the methods used for the assessment(s), among
-   others.^[194][236]
+   person, and the methods used for the assessment(s), among others.^[236]
 
 8.8 Confidentiality
 
@@ -1213,20 +1208,20 @@ Page content
    how they apply to public and private housing providers, employers and
    service providers can be found at the Office of the Information and
    Privacy Commissioner of Ontario and the Office of the Privacy
-   Commissioner of Canada.^[195][237]
+   Commissioner of Canada.^[237]
      __________________________________________________________________
 
-   ^[196][120] Hydro-Québec v. Syndicat des employé-e-s de techniques
+   ^[120] Hydro-Québec v. Syndicat des employé-e-s de techniques
    professionnelles et de bureau d'Hydro-Québec, section locale
-   2000 (SCFP-FTQ), [197]2008 SCC 43 (CanLII) [Hydro-Québec] at paras. 14
-   and 16.
+   2000 (SCFP-FTQ), 2008 SCC 43 (CanLII) [Hydro-Québec] at paras. 14 and
+   16.
 
-   ^[198][121] CRPD, supra note 6 at Article 13(1), Article 24(2)(c), and
+   ^[121] CRPD, supra note 6 at Article 13(1), Article 24(2)(c), and
    Article 27(1)(i), respectively. “Reasonable accommodation” is covered
    under Article 5 generally.
 
-   ^[199][122] See Meiorin, supra note 66 at paras. 65-66 and British
-   Columbia (Superintendent of Motor Vehicles)
+   ^[122] See Meiorin, supra note 66 at paras. 65-66 and British Columbia
+   (Superintendent of Motor Vehicles)
    v. British Columbia (Council of Human Rights), 1999 CanLII 646, [1999]
    3 S.C.R. 868, at paras. 22 and 42-45 [Grismer]. In Gourley v. Hamilton
    Health Sciences 2010 HRTO 2168 (CanLII) [Gourley], the adjudicator
@@ -1241,10 +1236,10 @@ Page content
    Eglinton Ltd. (c.o.b. Aaron’s Sales and Lease to Ownership), 2014 HRTO
    1794.
 
-   ^[200][123] ADGA, supra note 6 at para. 107.
+   ^[123] ADGA, supra note 6 at para. 107.
 
-   ^[201][124] In Lane, supra note 6, the HRTO held at para. 150 that a
-   failure to meet the procedural dimensions
+   ^[124] In Lane, supra note 6, the HRTO held at para. 150 that a failure
+   to meet the procedural dimensions
    of the duty to accommodate is a form of discrimination in itself
    because it “denies the affected person
    the benefit of what the law requires: a recognition of the obligation
@@ -1253,98 +1248,96 @@ Page content
    decision was confirmed on appeal: ADGA, supra note 6. See
    also Lee, supra note 122.
 
-   ^[202][125] Gaisiner v. Method Integration Inc., 2014 HRTO 1718
-   (CanLII) [Gaisiner] at para. 149.
+   ^[125] Gaisiner v. Method Integration Inc., 2014 HRTO 1718 (CanLII)
+   [Gaisiner] at para. 149.
 
-   ^[203][126] Redmond, supra note 50.
+   ^[126] Redmond, supra note 50.
 
-   ^[204][127] From the Preamble (h) to the CRPD, supra note 6.
+   ^[127] From the Preamble (h) to the CRPD, supra note 6.
 
-   ^[205][128] In Eaton v. Brant County Board of Education, [1997] 1
-   S.C.R. 241 [Eaton], the Supreme Court
+   ^[128] In Eaton v. Brant County Board of Education, [1997] 1 S.C.R. 241
+   [Eaton], the Supreme Court
    of Canada recognized the unique nature of disability and emphasized the
    need for individualized accommodation because the ground of disability
    “means vastly different things depending upon the individual and the
    context” (at para. 69).
 
-   ^[206][129] McGill University Health Centre (Montreal General Hospital)
-   v. Syndicat des employés de l'Hôpital général de Montréal, [207]2007
-   SCC 4 (CanLII), [2007] 1 SCR 161, 2007 [McGill]. Along the same
-   lines, the HRTO found that an employment policy that mandates a set
-   return to work plan for people with disabilities may be discriminatory
-   if the particular circumstances of a person making an accommodation
-   request are not considered: Duliunas, supra note 44.
+   ^[129] McGill University Health Centre (Montreal General Hospital) v.
+   Syndicat des employés de l'Hôpital général de Montréal, 2007 SCC 4
+   (CanLII), [2007] 1 SCR 161, 2007 [McGill]. Along the same lines, the
+   HRTO found that an employment policy that mandates a set return to work
+   plan for people with disabilities may be discriminatory if the
+   particular circumstances of a person making an accommodation request
+   are not considered: Duliunas, supra note 44.
 
-   ^[208][130] In Eaton, supra note 128, the Supreme Court of Canada
-   stated that “integration should be recognized as the norm of general
+   ^[130] In Eaton, supra note 128, the Supreme Court of Canada stated
+   that “integration should be recognized as the norm of general
    application because of the benefits it generally provides” (at para.
    69). However, the Court found that in Emily Eaton’s circumstances,
    segregated accommodation was in her best interests. The Court was of
    the view that this was one of those unusual cases where segregation was
    a more appropriate accommodation.
 
-   ^[209][131] The CRPD, supra note 6 states at Article 2, “‛Universal
-   design’ means the design of products, environments, programmes and
-   services to be usable by all people, to the greatest extent possible,
-   without the need for adaptation or specialized design. ‘Universal
-   design’ shall not exclude assistive devices for particular groups of
-   persons with disabilities where this is needed.”
+   ^[131] The CRPD, supra note 6 states at Article 2, “‛Universal design’
+   means the design of products, environments, programmes and services to
+   be usable by all people, to the greatest extent possible, without the
+   need for adaptation or specialized design. ‘Universal design’ shall not
+   exclude assistive devices for particular groups of persons with
+   disabilities where this is needed.”
 
-   ^[210][132] Eldridge, supra note 1 para. 78.
+   ^[132] Eldridge, supra note 1 para. 78.
 
-   ^[211][133] LCO “Framework,” supra note 35 at 79.
+   ^[133] LCO “Framework,” supra note 35 at 79.
 
-   ^[212][134] Eaton, supra note 128 at para. 67.
+   ^[134] Eaton, supra note 128 at para. 67.
 
-   ^[213][135] Meiorin, supra note 66 at para. 68.
+   ^[135] Meiorin, supra note 66 at para. 68.
 
-   ^[214][136] Ibid.
+   ^[136] Ibid.
 
-   ^[215][137] Letter from former Chief Commissioner Barbara Hall to
-   Navanethem Pillay, High Commissioner for Human Rights, regarding the
-   United Nations’ study on participation of persons with disabilities in
+   ^[137] Letter from former Chief Commissioner Barbara Hall to Navanethem
+   Pillay, High Commissioner for Human Rights, regarding the United
+   Nations’ study on participation of persons with disabilities in
    political and public life (October 2011).
-   Online: [216]www.ohrc.on.ca/en/re-ohchr-thematic-study-participation-pe
-   rsons-disabilities-political-and-public-life
+   Online: www.ohrc.on.ca/en/re-ohchr-thematic-study-participation-persons
+   -disabilities-political-and-public-life
 
-   ^[217][138] Under section 13.1 (1) of Ontario’s Election Act, the
-   returning officer shall ensure that each polling place is accessible to
-   electors with disabilities. Election Act, R.S.O. 1990, c. E.6,
-   online: [218]www.ontario.ca/laws/statute/90e06. In Hughes v. Elections
+   ^[138] Under section 13.1 (1) of Ontario’s Election Act, the returning
+   officer shall ensure that each polling place is accessible to electors
+   with disabilities. Election Act, R.S.O. 1990, c. E.6,
+   online: www.ontario.ca/laws/statute/90e06. In Hughes v. Elections
    Canada, 2010 CHRT 4 (CanLII), the Canadian Human Rights Tribunal found
    in favour of a voter with a disability who filed a complaint after
    experiencing physical barriers at his polling station.
 
-   ^[219][139] Elections Ontario, accessible voting,
-   online: [220]www.elections.on.ca/en/voting-in-ontario/how--when-and-whe
-   re-to-vote/when-and-where-to-vote/accessible-voting.html.
+   ^[139] Elections Ontario, accessible voting,
+   online: www.elections.on.ca/en/voting-in-ontario/how--when-and-where-to
+   -vote/when-and-where-to-vote/accessible-voting.html.
 
-   ^[221][140] Count Us In: Removing Barriers to Political Participation –
+   ^[140] Count Us In: Removing Barriers to Political Participation –
    Accessible All Candidates Meetings Quick Reference Guide. Ontario
    Government (2007)
-   online: [222]www.mcss.gov.on.ca/documents/en/mcss/publications/accessib
-   ility/Quickreferenceguidetoaccessibleallcandidatesmeetin.pdf. See also,
+   online: www.mcss.gov.on.ca/documents/en/mcss/publications/accessibility
+   /Quickreferenceguidetoaccessibleallcandidatesmeetin.pdf. See also,
    letter from former Chief Commissioner Barbara Hall to the Executive of
    all political parties registered in Ontario regarding elections
    accessibility (March 2011)
-   online: [223]www.ohrc.on.ca/en/elections-accessibility-letter-executive
-   -all-political-parties-registered-ontario.
+   online: www.ohrc.on.ca/en/elections-accessibility-letter-executive-all-
+   political-parties-registered-ontario.
 
-   ^[224][141] In VIA Rail, supra note 6, the Supreme Court of Canada
-   stated at para. 186: “…while human rights principles include an
-   acknowledgment that not every barrier can be eliminated, they also
-   include a duty to prevent new ones, or at least, not knowingly to
-   perpetuate old ones where preventable.” Organizations, including
-   government, should design their programs, services and facilities
-   inclusively with the needs of people with disabilities in mind.
-   In Jodhan, supra note 69, a case decided under the Canadian Charter of
-   Rights and Freedoms, the Federal Court of Appeal found that
-   inaccessible federal government websites violated the equality rights
-   of a woman with a vision disability.
+   ^[141] In VIA Rail, supra note 6, the Supreme Court of Canada stated at
+   para. 186: “…while human rights principles include an acknowledgment
+   that not every barrier can be eliminated, they also include a duty to
+   prevent new ones, or at least, not knowingly to perpetuate old ones
+   where preventable.” Organizations, including government, should design
+   their programs, services and facilities inclusively with the needs of
+   people with disabilities in mind. In Jodhan, supra note 69, a case
+   decided under the Canadian Charter of Rights and Freedoms, the Federal
+   Court of Appeal found that inaccessible federal government websites
+   violated the equality rights of a woman with a vision disability.
 
    ^[142] See
-   [225]http://universaldesign.ie/What-is-Universal-Design/The-7-Principle
-   s/
+   http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/
 
    ^[143] AODA, supra note 6.
 
@@ -1410,7 +1403,7 @@ Page content
    Toronto, 2012 HRTO 1025 (CanLII) [Brown]; Briffa v. Costco Wholesale
    Canada Ltd. 2012 HRTO 1970 (CanLII) [Briffa]; Yeats v. Commissionaires
    Great Lakes, 2010 HRTO 906 (CanLII) [Yeats]; Perron v. Revera Long Term
-   Care Inc., [226]2014 HRTO 766 (CanLII) [Perron].
+   Care Inc., 2014 HRTO 766 (CanLII) [Perron].
 
    ^[156] Yeats, ibid.; Briffa, ibid.; Perron, ibid.
 
@@ -1515,12 +1508,12 @@ Page content
    Ontario’s Workplace Safety and Insurance Board that exist concurrently
    with human rights protections: see
 
-   [227]www.wsib.on.ca/WSIBPortal/faces/WSIBManualPage?cGUID=19-02-02&rDef
-   =WSIB_RD_OPM&fGUID=835502100635000524&_afrLoop=1033712479352182&_afrWin
-   dowMode=0&_afrWindowId=gnnbsv3wk_14#%40%3FcGUID%3D19-02-02%26_afrWindow
-   Id%3Dgnnbsv3wk_14%26_afrLoop%3D1033712479352182%26rDef%3DWSIB_RD_OPM%26
-   _afrWindowMode%3D0%26fGUID%3D835502100635000524%26_adf.ctrl-state%3Dgnn
-   bsv3wk_38
+   www.wsib.on.ca/WSIBPortal/faces/WSIBManualPage?cGUID=19-02-02&rDef=WSIB
+   _RD_OPM&fGUID=835502100635000524&_afrLoop=1033712479352182&_afrWindowMo
+   de=0&_afrWindowId=gnnbsv3wk_14#%40%3FcGUID%3D19-02-02%26_afrWindowId%3D
+   gnnbsv3wk_14%26_afrLoop%3D1033712479352182%26rDef%3DWSIB_RD_OPM%26_afrW
+   indowMode%3D0%26fGUID%3D835502100635000524%26_adf.ctrl-state%3Dgnnbsv3w
+   k_38
 
    ^[173] See also section 29 of Regulation 191/11, Integrated
    Accessibility Standards, under the AODA, supra note 6 which requires
@@ -1617,7 +1610,7 @@ Page content
    Disability, 2012: A Profile of the Labour Market Experiences of Adults
    with Disabilities among Canadians aged 15 years and older, 2012,
    Statistics Canada, 2015, at 12 and 17, available online
-   at: [228]www.statcan.gc.ca/pub/89-654-x/89-654-x2015005-eng.htm.
+   at: www.statcan.gc.ca/pub/89-654-x/89-654-x2015005-eng.htm.
 
    ^[186] Hodkin, supra note 159.
 
@@ -1637,10 +1630,10 @@ Page content
    administrative tribunals, the “Doctrine of Judicial Immunity” may apply
    to protect adjudicators who are alleged to have not provided
    accommodation in the exercise of their decision-making and dispute
-   resolution functions: see [229]Thomson v. Ontario Secondary School
-   Teachers’ Federation, 2011 HRTO 116 (CanLII); Hazel v. Ainsworth
-   Engineered, 2009 HRTO 2180 (CanLII); McWilliams v. Criminal Injuries
-   Compensation Board, 2010 HRTO 937 (CanLII).
+   resolution functions: see Thomson v. Ontario Secondary School Teachers’
+   Federation, 2011 HRTO 116 (CanLII); Hazel v. Ainsworth Engineered, 2009
+   HRTO 2180 (CanLII); McWilliams v. Criminal Injuries Compensation Board,
+   2010 HRTO 937 (CanLII).
 
    ^[190] See Smolak, supra note 12; Hill v. Bani-Ahmad, 2014 HRTO 937
    (CanLII); Bourdeau v. Kingston Bazar, 2012 HRTO 393 (CanLII).
@@ -1780,8 +1773,8 @@ Page content
    97-98; MacLeod, supra note 158.
 
    ^[215] Sears¸ supra note 118 at para. 114. See also Wall v. The Lippé
-   Group, [230]2008 HRTO 50 (CanLII) [Wall]; Davis v. 1041433 Ontario Ltd.
-   (No. 2), [231]2005 HRTO 37 (CanLII), at paras. 67-68.
+   Group, 2008 HRTO 50 (CanLII) [Wall]; Davis v. 1041433 Ontario Ltd. (No.
+   2), 2005 HRTO 37 (CanLII), at paras. 67-68.
 
    ^[216] See, for example, Lane, supra note 6; Krieger, supra note
    12; Mellon, supra note 214; Willems-Wilson v. Allbright Drycleaners
@@ -1821,8 +1814,8 @@ Page content
    ^[222] For more information on human rights issues in the job
    recruitment process, see the OHRC’s Policy
    on employment-related medical information, available online
-   at: [232]www.ohrc.on.ca/sites/default/files/attachments/Policy_on_emplo
-   yment-related_medical_information.pdf.
+   at: www.ohrc.on.ca/sites/default/files/attachments/Policy_on_employment
+   -related_medical_information.pdf.
 
    ^[223] The Court applied the Code and the OHRC’s 2001 Disability
    Policy and held that it would have been reasonable and appropriate for
@@ -1952,22 +1945,21 @@ Page content
 
    ^[236] See section 4.9.g) in the OHRC’s publication Human Rights at
    Work for a more detailed description of these factors, available online
-   at: [233]www.ohrc.on.ca/en/human-rights-work-2008-third-edition?page=hu
-   man-Contents.html.
+   at: www.ohrc.on.ca/en/human-rights-work-2008-third-edition?page=human-C
+   ontents.html.
 
-   ^[237] See: [234]www.priv.gc.ca/index_e.asp and [235]www.ipc.on.ca/engl
-   ish/Home-Page/. Different privacy laws apply to different organizations
-   – for example, private housing providers may be covered by the Personal
+   ^[237] See: www.priv.gc.ca/index_e.asp and www.ipc.on.ca/english/Home-P
+   age/. Different privacy laws apply to different organizations – for
+   example, private housing providers may be covered by the Personal
    Information Protection and Electronic Documents Act (PIPEDA),
    S.C. 2000, c. 5, and are only permitted to disclose personal health
    information under certain circumstances (see Section 7(3)).
 
 Book Prev / Next Navigation
 
-   [236]
-   Previous [237]
+   Previous
    Next
-   [238]Tweet
+   Tweet
 
 OHRC Footer Icons
 
@@ -1975,266 +1967,14 @@ OHRC Footer Icons
 
 OHRC Footer Menu
 
-     * [239]About the Commission
-     * [240]Business Plans
-     * [241]Annual Reports
-     * [242]News Centre
-     * [243]Contact us
-     * [244]Expense Disclosure
-     * [245]Accessibility
-     * [246]Feedback
-     * [247]Privacy Statement
-     * [248]© King’s Printer for Ontario
-     * [249]Open Data
-
-References
-
-   1. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
-   2. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability
-   3. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-   4. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-content-wrapper
-   5. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#block-book-navigation
-   6. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-content-wrapper
-   7. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#zone-menu-wrapper
-   8. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#section-footer
-   9. https://www.googletagmanager.com/ns.html?id=GTM-WT4KDF3
-  10. https://www3.ohrc.on.ca/en
-  11. https://www3.ohrc.on.ca/en
-  12. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
-  13. https://www3.ohrc.on.ca/fr/politique-sur-le-capacitisme-et-la-discrimination-fondée-sur-le-handicap/8-obligation-d’accommodement
-  14. https://www.facebook.com/the.ohrc
-  15. http://twitter.com/OntHumanRights
-  16. https://www.instagram.com/onthumanrights/
-  17. https://www3.ohrc.on.ca/en/human-rights-system
-  18. https://www3.ohrc.on.ca/en/ontario-human-rights-code
-  19. https://www3.ohrc.on.ca/en/human-rights-system
-  20. https://www3.ohrc.on.ca/en/about-commission
-  21. https://hrlsc.on.ca/en/welcome
-  22. http://www.hrto.ca/hrto/
-  23. https://www3.ohrc.on.ca/en/faqs
-  24. https://www3.ohrc.on.ca/en/ontario-human-rights-code
-  25. https://www3.ohrc.on.ca/en/code_grounds/age
-  26. https://www3.ohrc.on.ca/en/code_grounds/creed
-  27. https://www3.ohrc.on.ca/en/code_grounds/disability
-  28. https://www3.ohrc.on.ca/en/code_grounds/family_marital_status
-  29. https://www3.ohrc.on.ca/en/code_grounds/gender_identity
-  30. https://www3.ohrc.on.ca/en/code_grounds/race
-  31. https://www3.ohrc.on.ca/en/code_grounds/receipt_public_assistance
-  32. https://www3.ohrc.on.ca/en/code_grounds/record_of_offences
-  33. https://www3.ohrc.on.ca/en/code_grounds/sex
-  34. https://www3.ohrc.on.ca/en/code_grounds/sexual_orientation
-  35. https://www3.ohrc.on.ca/en/ontario-human-rights-code
-  36. https://www3.ohrc.on.ca/en/social_areas/contracts
-  37. https://www3.ohrc.on.ca/en/social_areas/employment
-  38. https://www3.ohrc.on.ca/en/social_areas/goods_services_facilities
-  39. https://www3.ohrc.on.ca/en/social_areas/housing
-  40. https://www3.ohrc.on.ca/en/social_areas/membership_vocational_associations_trade_unions
-  41. https://www3.ohrc.on.ca/en/contact/public-education-request-form
-  42. https://www3.ohrc.on.ca/en/learning/events
-  43. https://www3.ohrc.on.ca/en/learning/elearning
-  44. https://www3.ohrc.on.ca/en/learning/webinars
-  45. https://www3.ohrc.on.ca/en/teaching-human-rights-ontario-guide-ontario-schools
-  46. https://www3.ohrc.on.ca/en/contact/public-education-request-form
-  47. https://www3.ohrc.on.ca/en/about-commission
-  48. http://www.ohrc.on.ca/en/ohrc-at-60
-  49. https://www3.ohrc.on.ca/en/our_work/backgrounders_research
-  50. https://www3.ohrc.on.ca/en/our_work/brochures_factsheets
-  51. https://www3.ohrc.on.ca/en/our_work/COVID-19
-  52. https://www3.ohrc.on.ca/en/our_work/inquiries
-  53. https://www3.ohrc.on.ca/en/our_work/legal
-  54. https://www3.ohrc.on.ca/en/our_work/letters
-  55. https://www3.ohrc.on.ca/en/our_work/papers_reports
-  56. https://www3.ohrc.on.ca/en/our_work/policies_guidelines
-  57. https://www3.ohrc.on.ca/en/our_work/submissions
-  58. https://www3.ohrc.on.ca/en
-  59. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability
-  60. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability
-  61. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/1-introduction
-  62. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/2-what-disability
-  63. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/3-legal-framework
-  64. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/4-intersecting-grounds
-  65. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/5-establishing-discrimination
-  66. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/6-forms-discrimination
-  67. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
-  68. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
-  69. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-  70. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/10-other-limits-duty-accommodate
-  71. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/11-preventing-and-responding-discrimination
-  72. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/appendix-purpose-policy
-  73. https://www3.ohrc.on.ca/en/book/export/html/18936
-  74. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#tags
-  75. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
-  76. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
-  77. https://www3.ohrc.on.ca/en/tag/organizational-responsibility/duty-accommodate
-  78. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn120
-  79. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn121
-  80. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn122
-  81. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn123
-  82. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn124
-  83. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn125
-  84. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn126
-  85. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn127
-  86. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn128
-  87. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn129
-  88. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn130
-  89. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn131
-  90. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn132
-  91. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn133
-  92. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn134
-  93. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn135
-  94. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn136
-  95. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn137
-  96. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn138
-  97. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn139
-  98. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn140
-  99. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn141
- 100. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn142
- 101. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn143
- 102. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn144
- 103. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn145
- 104. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn146
- 105. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn147
- 106. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn148
- 107. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn149
- 108. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn150
- 109. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn151
- 110. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn152
- 111. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn153
- 112. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn154
- 113. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn155
- 114. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn156
- 115. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn157
- 116. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn158
- 117. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn159
- 118. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn160
- 119. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn161
- 120. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn162
- 121. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn163
- 122. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn164
- 123. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn165
- 124. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn166
- 125. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn167
- 126. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn168
- 127. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn169
- 128. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn170
- 129. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn171
- 130. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn172
- 131. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn173
- 132. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn174
- 133. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn175
- 134. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn176
- 135. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn177
- 136. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn178
- 137. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn179
- 138. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn180
- 139. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn181
- 140. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn182
- 141. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn183
- 142. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn184
- 143. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn185
- 144. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn186
- 145. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn187
- 146. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn188
- 147. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn189
- 148. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn190
- 149. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn191
- 150. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn192
- 151. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn193
- 152. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn194
- 153. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn195
- 154. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn196
- 155. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn197
- 156. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn198
- 157. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn199
- 158. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn200
- 159. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn201
- 160. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn202
- 161. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn203
- 162. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn204
- 163. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn205
- 164. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn206
- 165. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn207
- 166. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn208
- 167. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn209
- 168. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn210
- 169. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn211
- 170. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn212
- 171. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn213
- 172. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn214
- 173. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn215
- 174. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn216
- 175. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn217
- 176. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn218
- 177. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn219
- 178. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn220
- 179. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn221
- 180. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn222
- 181. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn223
- 182. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn224
- 183. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn225
- 184. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn226
- 185. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn227
- 186. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn228
- 187. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn229
- 188. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn230
- 189. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn231
- 190. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn232
- 191. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn233
- 192. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn234
- 193. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn235
- 194. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn236
- 195. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_edn237
- 196. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref120
- 197. https://www.canlii.org/en/ca/scc/doc/2008/2008scc43/2008scc43.html
- 198. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref121
- 199. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref122
- 200. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref123
- 201. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref124
- 202. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref125
- 203. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref126
- 204. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref127
- 205. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref128
- 206. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref129
- 207. https://www.canlii.org/en/ca/scc/doc/2007/2007scc4/2007scc4.html
- 208. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref130
- 209. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref131
- 210. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref132
- 211. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref133
- 212. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref134
- 213. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref135
- 214. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref136
- 215. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref137
- 216. http://www.ohrc.on.ca/en/re-ohchr-thematic-study-participation-persons-disabilities-political-and-public-life
- 217. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref138
- 218. http://www.ontario.ca/laws/statute/90e06
- 219. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref139
- 220. http://www.elections.on.ca/en/voting-in-ontario/how--when-and-where-to-vote/when-and-where-to-vote/accessible-voting.html
- 221. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref140
- 222. http://www.mcss.gov.on.ca/documents/en/mcss/publications/accessibility/Quickreferenceguidetoaccessibleallcandidatesmeetin.pdf
- 223. http://www.ohrc.on.ca/en/elections-accessibility-letter-executive-all-political-parties-registered-ontario
- 224. https://www.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/8-duty-accommodate#_ednref141
- 225. http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/
- 226. https://www.canlii.org/en/on/onhrt/doc/2014/2014hrto766/2014hrto766.html
- 227. http://www.wsib.on.ca/WSIBPortal/faces/WSIBManualPage?cGUID=19-02-02&rDef=WSIB_RD_OPM&fGUID=835502100635000524&_afrLoop=1033712479352182&_afrWindowMode=0&_afrWindowId=gnnbsv3wk_14#@?cGUID=19-02-02&_afrWindowId=gnnbsv3wk_14&_afrLoop=1033712479352182&rDef=WSIB_RD_OPM&_afrWindowMode=0&fGUID=835502100635000524&_adf.ctrl-state=gnnbsv3wk_38
- 228. http://www.statcan.gc.ca/pub/89-654-x/89-654-x2015005-eng.htm
- 229. http://www.canlii.org/eliisa/highlight.do?text=chadha+immunity&language=en&searchTitle=Ontario+-+Human+Rights+Tribunal+of+Ontario&path=/en/on/onhrt/doc/2011/2011hrto116/2011hrto116.html
- 230. http://www.canlii.org/en/on/onhrt/doc/2008/2008hrto50/2008hrto50.html
- 231. https://www.canlii.org/en/on/onhrt/doc/2005/2005hrto37/2005hrto37.html
- 232. http://www.ohrc.on.ca/sites/default/files/attachments/Policy_on_employment-related_medical_information.pdf
- 233. http://www.ohrc.on.ca/en/human-rights-work-2008-third-edition?page=human-Contents.html
- 234. http://www.priv.gc.ca/index_e.asp
- 235. http://www.ipc.on.ca/english/Home-Page/
- 236. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/7-reprisal
- 237. https://www3.ohrc.on.ca/en/policy-ableism-and-discrimination-based-disability/9-undue-hardship
- 238. https://www3.ohrc.on.ca/policy-ableism-and-discrimination-based-disability/8-duty-accommodate
- 239. https://www3.ohrc.on.ca/en/about-commission
- 240. https://www3.ohrc.on.ca/en/our_work/business_plans
- 241. https://www3.ohrc.on.ca/en/annual_reports
- 242. https://www3.ohrc.on.ca/en/news_centre
- 243. https://www3.ohrc.on.ca/en/about-commission/contact-us
- 244. https://www3.ohrc.on.ca/en/expense_disclosure
- 245. http://www.ohrc.on.ca/en/about-commission/ohrc-multi-year-disability-accessibility-plan
- 246. https://www3.ohrc.on.ca/en/contact/ohrc-feedback
- 247. http://www.ontario.ca/en/general/004228.html
- 248. https://www.ontario.ca/page/copyright-information
- 249. https://www3.ohrc.on.ca/en/open-data
+     * About the Commission
+     * Business Plans
+     * Annual Reports
+     * News Centre
+     * Contact us
+     * Expense Disclosure
+     * Accessibility
+     * Feedback
+     * Privacy Statement
+     * © King’s Printer for Ontario
+     * Open Data

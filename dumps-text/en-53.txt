@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,15 +68,15 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Stamp duty and other tax on property
+    1. Home
+    2. Stamp duty and other tax on property
 
    Guidance
 
@@ -87,24 +87,24 @@ Stamp Duty Land Tax: temporary reduced rates
    July 2021 to 30 September 2021 inclusive.
 
    From:
-          [38]HM Revenue & Customs
+          HM Revenue & Customs
 
    Published
           8 July 2020
 
    Last updated
-          8 June 2021 — [39]See all updates
+          8 June 2021 — See all updates
 
    (BUTTON) Get emails about this page
 
 Contents
 
-    1. [40]Overview
-    2. [41]Residential Rates on purchases from 8 July 2020 to 30 June 2021
-    3. [42]Residential Rates on purchases from 1 July 2021 to 30 September
+    1. Overview
+    2. Residential Rates on purchases from 8 July 2020 to 30 June 2021
+    3. Residential Rates on purchases from 1 July 2021 to 30 September
        2021
-    4. [43]Higher rates for additional properties
-    5. [44]New leasehold sales and transfers
+    4. Higher rates for additional properties
+    5. New leasehold sales and transfers
 
    (BUTTON) Print this page
 
@@ -120,7 +120,7 @@ Overview
    will return to the standard amount of £125,000 on 1 October 2021.
 
    The rate of SDLT which applies to your purchase depends on the date
-   that you [45]complete your property purchase and not the date that you
+   that you complete your property purchase and not the date that you
    exchanged contracts.
 
 Residential Rates on purchases from 8 July 2020 to 30 June 2021
@@ -140,7 +140,7 @@ Residential Rates on purchases from 8 July 2020 to 30 June 2021
    From 8 July 2020 to 30 June 2021 the special rules for first time
    buyers are replaced by the reduced rates set out above.
 
-   Use the [46]SDLT calculator to work out how much tax you’ll pay.
+   Use the SDLT calculator to work out how much tax you’ll pay.
 
 Residential Rates on purchases from 1 July 2021 to 30 September 2021
 
@@ -159,7 +159,7 @@ Residential Rates on purchases from 1 July 2021 to 30 September 2021
    apply, including first time buyers purchasing property through a shared
    ownership scheme.
 
-   Use the [47]SDLT calculator to work out how much tax you’ll pay.
+   Use the SDLT calculator to work out how much tax you’ll pay.
 
 Higher rates for additional properties
 
@@ -188,7 +188,7 @@ Higher Rates from 1 July 2021 to 30 September 2021
    From 1 October 2021 the higher rates will then apply on top of the
    standard rates of SDLT.
 
-   Use the SDLT [48]calculator to work out how much tax you’ll pay.
+   Use the SDLT calculator to work out how much tax you’ll pay.
 
 New leasehold sales and transfers
 
@@ -220,7 +220,7 @@ From 1 July 2021 to 30 September 2021
    On the 1 October 2021 the temporary rates of SDLT will revert back to
    the standard rates that were in place prior to 8 July 2020.
    Published 8 July 2020
-   Last updated 8 June 2021 [49]+ show all updates
+   Last updated 8 June 2021 + show all updates
     1. 8 June 2021
        Guidance about when the rate of Stamp Duty Land Tax which applies
        to your purchase has been added.
@@ -232,22 +232,22 @@ From 1 July 2021 to 30 September 2021
 
    (BUTTON) Get emails about this page
    (BUTTON) Print this page
-   [50]Contents
+   Contents
 
 Related content
 
-     * [51]Stamp Duty: rates on land transfers before December 2003
-     * [52]Stamp Duty Land Tax: Scottish transactions
-     * [53]Stamp Duty Land Tax: shared ownership property
-     * [54]Apply to be a UK Real Estate Investment Trust
+     * Stamp Duty: rates on land transfers before December 2003
+     * Stamp Duty Land Tax: Scottish transactions
+     * Stamp Duty Land Tax: shared ownership property
+     * Apply to be a UK Real Estate Investment Trust
 
 Explore the topic
 
-     * [55]Stamp duty and other tax on property
+     * Stamp duty and other tax on property
 
 Is this page useful?
 
-     * [56]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -280,139 +280,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [57]Benefits
-     * [58]Births, death, marriages and care
-     * [59]Business and self-employed
-     * [60]Childcare and parenting
-     * [61]Citizenship and living in the UK
-     * [62]Crime, justice and the law
-     * [63]Disabled people
-     * [64]Driving and transport
-     * [65]Education and learning
-     * [66]Employing people
-     * [67]Environment and countryside
-     * [68]Housing and local services
-     * [69]Money and tax
-     * [70]Passports, travel and living abroad
-     * [71]Visas and immigration
-     * [72]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [73]Departments
-     * [74]News
-     * [75]Guidance and regulation
-     * [76]Research and statistics
-     * [77]Policy papers and consultations
-     * [78]Transparency
-     * [79]How government works
-     * [80]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [81]Help
-     * [82]Privacy
-     * [83]Cookies
-     * [84]Accessibility statement
-     * [85]Contact
-     * [86]Terms and conditions
-     * [87]Rhestr o Wasanaethau Cymraeg
-     * [88]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [89]Open Government Licence v3.0,
-   except where otherwise stated
-   [90]© Crown copyright
-
-References
-
-   1. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/topic/business-tax/stamp-taxes
-  38. https://www.gov.uk/government/organisations/hm-revenue-customs
-  39. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#full-publication-update-history
-  40. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#overview
-  41. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#residential-rates-on-purchases-from-8-july-2020-to-30-june-2021
-  42. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#residential-rates-on-purchases-from-1-july-2021-to-30-september-2021
-  43. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#higher-rates-for-additional-properties
-  44. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#new-leasehold-sales-and-transfers
-  45. https://www.gov.uk/buy-sell-your-home/transferring-ownership-conveyancing
-  46. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  47. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  48. https://www.tax.service.gov.uk/calculate-stamp-duty-land-tax/#/intro
-  49. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#full-history
-  50. https://www.gov.uk/guidance/stamp-duty-land-tax-temporary-reduced-rates#contents
-  51. https://www.gov.uk/guidance/stamp-duty-rates-on-land-transfers-before-december-2003
-  52. https://www.gov.uk/guidance/sdlt-scottish-transactions
-  53. https://www.gov.uk/guidance/sdlt-shared-ownership-property
-  54. https://www.gov.uk/guidance/apply-to-be-a-uk-real-estate-investment-trust
-  55. https://www.gov.uk/topic/business-tax/stamp-taxes
-  56. https://www.gov.uk/contact/govuk
-  57. https://www.gov.uk/browse/benefits
-  58. https://www.gov.uk/browse/births-deaths-marriages
-  59. https://www.gov.uk/browse/business
-  60. https://www.gov.uk/browse/childcare-parenting
-  61. https://www.gov.uk/browse/citizenship
-  62. https://www.gov.uk/browse/justice
-  63. https://www.gov.uk/browse/disabilities
-  64. https://www.gov.uk/browse/driving
-  65. https://www.gov.uk/browse/education
-  66. https://www.gov.uk/browse/employing-people
-  67. https://www.gov.uk/browse/environment-countryside
-  68. https://www.gov.uk/browse/housing-local-services
-  69. https://www.gov.uk/browse/tax
-  70. https://www.gov.uk/browse/abroad
-  71. https://www.gov.uk/browse/visas-immigration
-  72. https://www.gov.uk/browse/working
-  73. https://www.gov.uk/government/organisations
-  74. https://www.gov.uk/search/news-and-communications
-  75. https://www.gov.uk/search/guidance-and-regulation
-  76. https://www.gov.uk/search/research-and-statistics
-  77. https://www.gov.uk/search/policy-papers-and-consultations
-  78. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  79. https://www.gov.uk/government/how-government-works
-  80. https://www.gov.uk/government/get-involved
-  81. https://www.gov.uk/help
-  82. https://www.gov.uk/help/privacy-notice
-  83. https://www.gov.uk/help/cookies
-  84. https://www.gov.uk/help/accessibility-statement
-  85. https://www.gov.uk/contact
-  86. https://www.gov.uk/help/terms-conditions
-  87. https://www.gov.uk/cymraeg
-  88. https://www.gov.uk/government/organisations/government-digital-service
-  89. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  90. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

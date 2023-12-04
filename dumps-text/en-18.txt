@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,16 +68,16 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Crime, justice and law
-    3. [38]Counter-terrorism
+    1. Home
+    2. Crime, justice and law
+    3. Counter-terrorism
 
    Statutory guidance
 
@@ -86,31 +86,31 @@ Prevent duty guidance: England and Wales (2023)
    Prevent duty guidance for specified authorities in England and Wales.
 
    From:
-          [39]Home Office
+          Home Office
 
    Published
           12 March 2015
 
    Last updated
-          18 October 2023 — [40]See all updates
+          18 October 2023 — See all updates
 
    (BUTTON) Get emails about this page
 
 Documents
 
-[41]Prevent duty guidance: for England and Wales (accessible)
+Prevent duty guidance: for England and Wales (accessible)
 
    HTML
 
-[42]Prevent duty guidance: for England and Wales
+Prevent duty guidance: for England and Wales
 
    PDF, 614 KB, 67 pages
 
-[43]Glossary of terms
+Glossary of terms
 
    HTML
 
-[44]Prevent duty guidance: England and Wales (2023) (Welsh)
+Prevent duty guidance: England and Wales (2023) (Welsh)
 
    PDF, 506 KB, 68 pages
 
@@ -118,8 +118,8 @@ Documents
    Request an accessible format.
    If you use assistive technology (such as a screen reader) and need a
    version of this document in a more accessible format, please email
-   [45]alternativeformats@homeoffice.gov.uk. Please tell us what format
-   you need. It will help us if you say what assistive technology you use.
+   alternativeformats@homeoffice.gov.uk. Please tell us what format you
+   need. It will help us if you say what assistive technology you use.
 
 Details
 
@@ -133,11 +133,11 @@ Details
        and rehabilitate
 
    This is statutory guidance for England and Wales, issued on 7 September
-   2023 under [46]Section 29 of the Counter-Terrorism and Security Act
-   2015. Subject to Parliamentary approval, it comes into force on 31
-   December 2023.
+   2023 under Section 29 of the Counter-Terrorism and Security Act 2015.
+   Subject to Parliamentary approval, it comes into force on 31 December
+   2023.
 
-   There is separate [47]guidance for Scotland.
+   There is separate guidance for Scotland.
 
    This statutory guidance is intended for use by:
      * senior leadership teams in any of the specified authorities listed
@@ -153,7 +153,7 @@ Details
    risk of people becoming terrorists or supporting terrorism.
 
    The list of specified authorities subject to the duty at section 26
-   CTSA 2015 can be found at Part 1 of [48]Schedule 6 of the CTSA 2015.
+   CTSA 2015 can be found at Part 1 of Schedule 6 of the CTSA 2015.
    Further details are in the sector specific sections of this guidance.
 
    This guidance replaces the:
@@ -164,16 +164,16 @@ Details
        and Wales 2015 (updated in April 2021)
 
    Specified authorities in England and Wales must continue to have regard
-   to the [49]2015 guidance until the new guidance comes into force.
+   to the 2015 guidance until the new guidance comes into force.
 
-   A [50]glossary of terms used in the Prevent duty guidance.
+   A glossary of terms used in the Prevent duty guidance.
 
    We are aware that some of these publications may have accessibility
    issues. We are reviewing it so that we can fix these.
 
-   Read more about our [51]accessible documents policy.
+   Read more about our accessible documents policy.
    Published 12 March 2015
-   Last updated 18 October 2023 [52]+ show all updates
+   Last updated 18 October 2023 + show all updates
     1. 18 October 2023
        Welsh version added.
     2. 14 September 2023
@@ -197,26 +197,26 @@ Details
 
 Related content
 
-     * [53]Promoting fundamental British values through SMSC
-     * [54]Channel and Prevent Multi-Agency Panel (PMAP) guidance
-     * [55]Counter-terrorism strategy (CONTEST)
-     * [56]Counter-Terrorism and Security Act
+     * Promoting fundamental British values through SMSC
+     * Channel and Prevent Multi-Agency Panel (PMAP) guidance
+     * Counter-terrorism strategy (CONTEST)
+     * Counter-Terrorism and Security Act
 
 Collection
 
-     * [57]Prevent duty guidance
-     * [58]The Prevent Duty in higher education (HE): training and
-       guidance for practitioners
+     * Prevent duty guidance
+     * The Prevent Duty in higher education (HE): training and guidance
+       for practitioners
 
 Explore the topic
 
-     * [59]Defence and armed forces
-     * [60]Counter-terrorism
-     * [61]National security
+     * Defence and armed forces
+     * Counter-terrorism
+     * National security
 
 Is this page useful?
 
-     * [62]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -249,152 +249,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [63]Benefits
-     * [64]Births, death, marriages and care
-     * [65]Business and self-employed
-     * [66]Childcare and parenting
-     * [67]Citizenship and living in the UK
-     * [68]Crime, justice and the law
-     * [69]Disabled people
-     * [70]Driving and transport
-     * [71]Education and learning
-     * [72]Employing people
-     * [73]Environment and countryside
-     * [74]Housing and local services
-     * [75]Money and tax
-     * [76]Passports, travel and living abroad
-     * [77]Visas and immigration
-     * [78]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [79]Departments
-     * [80]News
-     * [81]Guidance and regulation
-     * [82]Research and statistics
-     * [83]Policy papers and consultations
-     * [84]Transparency
-     * [85]How government works
-     * [86]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [87]Help
-     * [88]Privacy
-     * [89]Cookies
-     * [90]Accessibility statement
-     * [91]Contact
-     * [92]Terms and conditions
-     * [93]Rhestr o Wasanaethau Cymraeg
-     * [94]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [95]Open Government Licence v3.0,
-   except where otherwise stated
-   [96]© Crown copyright
-
-References
-
-   Visible links:
-   1. https://www.gov.uk/government/publications/prevent-duty-guidance#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/crime-justice-and-law
-  38. https://www.gov.uk/crime-justice-and-law/counter-terrorism
-  39. https://www.gov.uk/government/organisations/home-office
-  40. https://www.gov.uk/government/publications/prevent-duty-guidance#full-publication-update-history
-  41. https://www.gov.uk/government/publications/prevent-duty-guidance/prevent-duty-guidance-for-england-and-wales-accessible
-  42. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_Duty_Guidance_v5c.pdf
-  43. https://www.gov.uk/government/publications/prevent-duty-guidance/glossary-of-terms
-  44. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_Duty_Guidance_v5c_Final_for_translation.pdf
-  45. mailto:alternativeformats@homeoffice.gov.uk
-  46. https://www.legislation.gov.uk/ukpga/2015/6/section/29
-  47. https://www.gov.uk/government/publications/prevent-duty-guidance-england-scotland-and-wales-2015
-  48. https://www.legislation.gov.uk/ukpga/2015/6/schedule/6
-  49. https://www.gov.uk/government/publications/prevent-duty-guidance-england-scotland-and-wales-2015
-  50. https://www.gov.uk/government/publications/prevent-duty-guidance/glossary-of-terms
-  51. https://www.gov.uk/government/organisations/home-office/about/accessible-documents-policy
-  52. https://www.gov.uk/government/publications/prevent-duty-guidance#full-history
-  53. https://www.gov.uk/government/publications/promoting-fundamental-british-values-through-smsc
-  54. https://www.gov.uk/government/publications/channel-and-prevent-multi-agency-panel-pmap-guidance
-  55. https://www.gov.uk/government/publications/counter-terrorism-strategy-contest
-  56. https://www.gov.uk/government/collections/counter-terrorism-and-security-bill
-  57. https://www.gov.uk/government/collections/prevent-duty-guidance
-  58. https://www.gov.uk/government/collections/the-prevent-duty-in-higher-education-he-training-and-guidance-for-practitioners
-  59. https://www.gov.uk/defence-and-armed-forces
-  60. https://www.gov.uk/crime-justice-and-law/counter-terrorism
-  61. https://www.gov.uk/government/national-security
-  62. https://www.gov.uk/contact/govuk
-  63. https://www.gov.uk/browse/benefits
-  64. https://www.gov.uk/browse/births-deaths-marriages
-  65. https://www.gov.uk/browse/business
-  66. https://www.gov.uk/browse/childcare-parenting
-  67. https://www.gov.uk/browse/citizenship
-  68. https://www.gov.uk/browse/justice
-  69. https://www.gov.uk/browse/disabilities
-  70. https://www.gov.uk/browse/driving
-  71. https://www.gov.uk/browse/education
-  72. https://www.gov.uk/browse/employing-people
-  73. https://www.gov.uk/browse/environment-countryside
-  74. https://www.gov.uk/browse/housing-local-services
-  75. https://www.gov.uk/browse/tax
-  76. https://www.gov.uk/browse/abroad
-  77. https://www.gov.uk/browse/visas-immigration
-  78. https://www.gov.uk/browse/working
-  79. https://www.gov.uk/government/organisations
-  80. https://www.gov.uk/search/news-and-communications
-  81. https://www.gov.uk/search/guidance-and-regulation
-  82. https://www.gov.uk/search/research-and-statistics
-  83. https://www.gov.uk/search/policy-papers-and-consultations
-  84. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  85. https://www.gov.uk/government/how-government-works
-  86. https://www.gov.uk/government/get-involved
-  87. https://www.gov.uk/help
-  88. https://www.gov.uk/help/privacy-notice
-  89. https://www.gov.uk/help/cookies
-  90. https://www.gov.uk/help/accessibility-statement
-  91. https://www.gov.uk/contact
-  92. https://www.gov.uk/help/terms-conditions
-  93. https://www.gov.uk/cymraeg
-  94. https://www.gov.uk/government/organisations/government-digital-service
-  95. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  96. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
-
-   Hidden links:
-  98. https://www.gov.uk/government/publications/prevent-duty-guidance/prevent-duty-guidance-for-england-and-wales-accessible
-  99. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_Duty_Guidance_v5c.pdf
- 100. https://www.gov.uk/government/publications/prevent-duty-guidance/glossary-of-terms
- 101. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_Duty_Guidance_v5c_Final_for_translation.pdf
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

@@ -1,8 +1,8 @@
 
-    1. [40]Overview
+    1. Overview
     2. Tax and duty
-    3. [41]Documents
-    4. [42]Gifts
+    3. Documents
+    4. Gifts
 
 Tax and duty
 
@@ -15,34 +15,49 @@ Tax and duty
      * postage, packaging and insurance
      * any duty you owe
 
-   VAT is charged at the [44]VAT rate that applies to your goods.
+   VAT is charged at the VAT rate that applies to your goods.
+--
+   goods are delivered or when you collect them.
+
+Customs Duty
+
+   You’ll be charged Customs Duty on all goods sent from outside the UK
+   (or the UK and the EU if you’re in Northern Ireland) if they’re either:
+     * excise goods
+     * worth more than £135
+
+   If you’re charged Customs Duty, you’ll need to pay it on both:
+     * the price paid for the goods
+     * postage, packaging and insurance
+
+   Type and value of goods Customs Duty
+   Non-excise goods worth £135 or less No charge
+   Gifts and goods above £135 The rate depends on the type of goods and
+   where they came from - call the helpline
+
+   You pay Customs Duty on excise goods of any value.
+
+Excise Duty
+
+   If you’re sent alcohol or tobacco from outside the UK, you’ll be
+   charged Excise Duty at current rates.
+
+   If the goods are sent from the EU to Northern Ireland, check that the
+   Excise Duty was included in the price. If it’s not, your goods may be
+   seized.
+
 --
 
    If you receive large amounts of alcohol or tobacco for your business,
-   use the [48]Trade Tariff to check duty rates.
+   use the Trade Tariff to check duty rates.
 
    Your goods can also be seized if they’re:
      * spirits over 35 centilitres without a UK duty stamp
      * cigarettes or hand-rolling tobacco without UK health warnings or
        fiscal marks
 --
-References
+If you’re charged too much or return your goods
 
-   1. https://www.gov.uk/goods-sent-from-abroad/tax-and-duty#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  37. https://www.gov.uk/browse/business
-  38. https://www.gov.uk/browse/business/imports
-  39. https://www.gov.uk/goods-sent-from-abroad/tax-and-duty#guide-contents
-  40. https://www.gov.uk/goods-sent-from-abroad
-  41. https://www.gov.uk/goods-sent-from-abroad/documents
---
-  44. https://www.gov.uk/vat-rates
-  45. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries
-  46. https://www.gov.uk/alcohol-and-tobacco-excise-duty
-  47. https://www.gov.uk/customs-seizures
-  48. https://www.gov.uk/trade-tariff
-  49. https://www.gov.uk/government/publications/vat-customs-dutyimport-vat-relating-to-imports-by-post-bor286
-  50. https://www.gov.uk/government/publications/import-and-export-application-for-repaymentremission-c285
-  51. https://www.gov.uk/goods-sent-from-abroad
+   Ask for a refund of VAT or Customs Duty if you:
+     * return your goods
+     * think you’ve been charged too much

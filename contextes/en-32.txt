@@ -1,3 +1,19 @@
+     * Education and training
+     * GI Bill
+     * Montgomery GI Bill Active Duty
+
+   (BUTTON)
+--
+     * Post-9/11 GI Bill
+          + Yellow Ribbon Program
+     * Montgomery GI Bill Active Duty
+          + $600 Buy-Up program
+     * Montgomery GI Bill Selected Reserve
+--
+   (BUTTON) In this section
+
+Montgomery GI Bill Active Duty (MGIB-AD)
+
    The Montgomery GI Bill Active Duty (MGIB-AD) can help you pay for
    education and training programs. If you’ve served at least 2 years on
    active duty, find out if you qualify for the MGIB-AD program.
@@ -44,31 +60,15 @@ Category II
        October 9, 1996, and July 9, 1997
 --
 
-   1. https://www.googletagmanager.com/ns.html?id=GTM-WFJWBD
-   2. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/#content
-   3. https://www.va.gov/
-   4. https://www.va.gov/
-   5. https://www.va.gov/education
-   6. https://www.va.gov/education/about-gi-bill-benefits
-   7. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty
-   8. https://www.va.gov/education/about-gi-bill-benefits
-   9. https://www.va.gov/education/about-gi-bill-benefits/post-9-11
-  10. https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program
-  11. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty
-  12. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up
-  13. https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve
-  14. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits
+   If you choose to use the Post-9/11 GI Bill (Chapter 33) instead of the
+   Montgomery GI Bill Active Duty (MGIB-AD or Chapter 30), you can’t
+   switch at some later date to use MGIB-AD. If you decide to use the
+   Post-9/11 GI Bill, we’ll refund you part or all of the payments you
 --
-  28. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships
-  29. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up
-  30. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/
-  31. https://www.va.gov/education/benefit-rates/montgomery-active-duty-rates
-  32. tel:18884424551
-  33. tel:711
---
-  49. https://benefits.va.gov/GIBILL/docs/gibguideseries/FurtherYourCareer.pdf
-  50. https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp
-  51. https://www.va.gov/education/benefit-rates/montgomery-active-duty-rates
-  52. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up
-  53. https://www.va.gov/education/benefit-rates/montgomery-600-buy-up-rates
-  54. https://www.va.gov/education/gi-bill-comparison-tool/
+Other information you may need
+
+     * Montgomery GI Bill Active Duty (Chapter 30) rates
+       Check the current payment rates for the Montgomery GI Bill Active
+       Duty (MGIB-AD) program.
+     * $600 Montgomery GI Bill Buy-Up program
+       Learn about how you can get more money each month through your GI

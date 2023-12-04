@@ -1,98 +1,98 @@
-   [1]Skip to navigation [2]Skip to content
+   Skip to navigation Skip to content
 
-   [3]NSW Government logo
+   NSW Government logo
    (BUTTON) menu Open Menu
    Search site for: ____________________ (BUTTON) search Search
 
    (BUTTON) close Close search
    (BUTTON) search Show Search
-   [4]my-snsw-icon MyServiceNSW
+   my-snsw-icon MyServiceNSW
    (BUTTON) snsw-login-icon Logged in
-     * [5]MyServiceNSW
-     * [6]Manage account
-     * [7]Logout of MyServiceNSW
+     * MyServiceNSW
+     * Manage account
+     * Logout of MyServiceNSW
 
-   [8]NSW Government logo
+   NSW Government logo
    (BUTTON) close Close Menu
-     * [9]Living in NSW keyboard_arrow_right
-       [10]NSW Government logo
+     * Living in NSW keyboard_arrow_right
+       NSW Government logo
        (BUTTON) close Close Menu
        (BUTTON) keyboard_arrow_left Living in NSWBack to previous menu
-       [11]Living in NSWeast
-          + [12]Community services
-          + [13]Driving, boating and transport
-          + [14]Education and training
-          + [15]Emergency
-          + [16]Employment
-          + [17]Environment, land and water
-          + [18]Family and relationships
-          + [19]Grants and funding
-          + [20]Health
-          + [21]Housing and construction
-          + [22]Legal and justice
-          + [23]Money and taxes
-          + [24]Regional NSW
-          + [25]Visas and migration
+       Living in NSWeast
+          + Community services
+          + Driving, boating and transport
+          + Education and training
+          + Emergency
+          + Employment
+          + Environment, land and water
+          + Family and relationships
+          + Grants and funding
+          + Health
+          + Housing and construction
+          + Legal and justice
+          + Money and taxes
+          + Regional NSW
+          + Visas and migration
        Popular right now
-          + [26]NSW school holidays east
-          + [27]NSW public holidays east
-          + [28]NSW Government east
-          + [29]NSW Digital ID east
-       [30]Living in NSW
-     * [31]Working and business keyboard_arrow_right
-       [32]NSW Government logo
+          + NSW school holidays east
+          + NSW public holidays east
+          + NSW Government east
+          + NSW Digital ID east
+       Living in NSW
+     * Working and business keyboard_arrow_right
+       NSW Government logo
        (BUTTON) close Close Menu
        (BUTTON) keyboard_arrow_left Working and businessBack to previous
        menu
-       [33]Working and businesseast
-          + [34]Business and economy
-          + [35]Education and training
-          + [36]Employment
-          + [37]Grants and funding
-          + [38]Money and taxes
-          + [39]Visas and migration
+       Working and businesseast
+          + Business and economy
+          + Education and training
+          + Employment
+          + Grants and funding
+          + Money and taxes
+          + Visas and migration
        Popular right now
-          + [40]Floods financial support east
-          + [41]Department of Customer Service careers east
-          + [42]Working interstate east
-       [43]Working and business
-     * [44]What's happening keyboard_arrow_right
-       [45]NSW Government logo
+          + Floods financial support east
+          + Department of Customer Service careers east
+          + Working interstate east
+       Working and business
+     * What's happening keyboard_arrow_right
+       NSW Government logo
        (BUTTON) close Close Menu
        (BUTTON) keyboard_arrow_left What's happeningBack to previous menu
-       [46]What's happeningeast
-          + [47]About NSW
-          + [48]Arts and culture
-          + [49]Events in NSW
-          + [50]Visiting and exploring NSW
-          + [51]NSW public holidays
-          + [52]NSW school holidays
-       [53]What's happening
-     * [54]Have your say
-     * [55]COVID-19 keyboard_arrow_right
-       [56]NSW Government logo
+       What's happeningeast
+          + About NSW
+          + Arts and culture
+          + Events in NSW
+          + Visiting and exploring NSW
+          + NSW public holidays
+          + NSW school holidays
+       What's happening
+     * Have your say
+     * COVID-19 keyboard_arrow_right
+       NSW Government logo
        (BUTTON) close Close Menu
        (BUTTON) keyboard_arrow_left COVID-19Back to previous menu
-       [57]COVID-19east
-          + [58]Protecting yourself
-          + [59]Testing and what to do if you're positive
-          + [60]Vaccination and boosters
-          + [61]NSW COVID-19 statistics
-          + [62]Business
-          + [63]Travel
-          + [64]In-language and translated resources
-          + [65]Easy Read pages
+       COVID-19east
+          + Protecting yourself
+          + Testing and what to do if you're positive
+          + Vaccination and boosters
+          + NSW COVID-19 statistics
+          + Business
+          + Travel
+          + In-language and translated resources
+          + Easy Read pages
        Popular right now
-          + [66]People at higher risk east
-          + [67]Testing positive to COVID-19 east
-          + [68]Advice for people exposed to COVID-19 east
-       [69]COVID-19
+          + People at higher risk east
+          + Testing positive to COVID-19 east
+          + Advice for people exposed to COVID-19 east
+       COVID-19
 
-    1. [70]Home
-    2. [71]Driving, boating and transport
-    3. [72]Vehicle registration
-    4. [73]Fees concessions and forms
-    5. [74]Stamp duty when buying a vehicle
+    1. Home
+    2. Driving, boating and transport
+    3. Vehicle registration
+    4. Fees concessions and forms
+    5. Stamp duty when buying a vehicle
 
 Stamp duty when buying a vehicle
 
@@ -109,7 +109,7 @@ What is stamp duty?
 
    To calculate stamp duty, you need the vehicle's market value or how
    much you paid for it (whichever is higher).
-   [75]Calculate stamp duty
+   Calculate stamp duty
      __________________________________________________________________
 
 Exemptions
@@ -117,206 +117,77 @@ Exemptions
    You don't pay stamp duty if you are:
      * registering or transferring registration on a caravan or camper
        trailer
-     * an [76]eligible DVA pensioner
+     * an eligible DVA pensioner
      * registering a new heavy trailer with a Gross Vehicle Mass of more
        than 4.5 tonnes, or transferring it from another jurisdiction.
 
-   See [77]Revenue NSW for more exemptions.
+   See Revenue NSW for more exemptions.
 
 Related information
 
-     * [78]Transferring or cancelling vehicle registrationeast
-     * [79]Order personalised, reserve or replace number plateseast
+     * Transferring or cancelling vehicle registrationeast
+     * Order personalised, reserve or replace number plateseast
 
-   [80]Fees concessions and forms
-     * [81]Vehicle registration fees
-     * [82]Heavy vehicle registration costs
-     * [83]Stamp duty when buying a vehicle
-     * [84]Vehicle registration forms
-     * [85]Lower taxed vehicles
-     * [86]Vehicle Safety check and inspection fees
-     * [87]Primary producers registration concessions
-          + [88]Frequently asked questions
-     * [89]Fee refunds or waivers after a natural disaster
+   Fees concessions and forms
+     * Vehicle registration fees
+     * Heavy vehicle registration costs
+     * Stamp duty when buying a vehicle
+     * Vehicle registration forms
+     * Lower taxed vehicles
+     * Vehicle Safety check and inspection fees
+     * Primary producers registration concessions
+          + Frequently asked questions
+     * Fee refunds or waivers after a natural disaster
 
-   [90]Top of page north
+   Top of page north
    This page is managed by
-   [91]Transport for NSW
+   Transport for NSW
    Your rating will help us improve the website.
 
-[92]Popular
+Popular
 
-     * [93]NSW public holidays
-     * [94]Service NSW locations
-     * [95]Life events
-     * [96]State services
-     * [97]State flag
+     * NSW public holidays
+     * Service NSW locations
+     * Life events
+     * State services
+     * State flag
 
-[98]About this website
+About this website
 
-     * [99]Access to information
-     * [100]Accessibility statement
-     * [101]Copyright
-     * [102]Disclaimer
-     * [103]Privacy statement
-     * [104]NSW Government directory
+     * Access to information
+     * Accessibility statement
+     * Copyright
+     * Disclaimer
+     * Privacy statement
+     * NSW Government directory
 
-[105]Departments
+Departments
 
-     * [106]Cabinet Office
-     * [107]Customer Service
-     * [108]Communities and Justice
-     * [109]Education
-     * [110]Enterprise, Investment and Trade
-     * [111]Health
-     * [112]Planning and Environment
-     * [113]Premier's Department
-     * [114]Regional NSW
-     * [115]Transport
-     * [116]Treasury
+     * Cabinet Office
+     * Customer Service
+     * Communities and Justice
+     * Education
+     * Enterprise, Investment and Trade
+     * Health
+     * Planning and Environment
+     * Premier's Department
+     * Regional NSW
+     * Transport
+     * Treasury
 
-[117]NSW Government
+NSW Government
 
-     * [118]The Premier
-     * [119]NSW Ministers
-     * [120]Find your local Member of Parliament
-     * [121]Boards and Committees
-     * [122]Find a job in NSW Government
-     * [123]About NSW
-     * [124]NSW Government communications
-     * [125]Unsolicited proposals
-     * [126]Projects and initiatives
+     * The Premier
+     * NSW Ministers
+     * Find your local Member of Parliament
+     * Boards and Committees
+     * Find a job in NSW Government
+     * About NSW
+     * NSW Government communications
+     * Unsolicited proposals
+     * Projects and initiatives
 
    We pay respect to the Traditional Custodians and First Peoples of NSW,
    and acknowledge their continued connection to their country and
    culture.
    Copyright © 2023
-
-References
-
-   1. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#dcs-main-nav
-   2. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#main-content
-   3. https://www.nsw.gov.au/
-   4. https://account.service.nsw.gov.au/
-   5. https://account.service.nsw.gov.au/
-   6. https://account.service.nsw.gov.au/manage
-   7. https://services.dcu.nsw.gov.au/myaccount/logout?destination=https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-   8. https://www.nsw.gov.au/
-   9. https://www.nsw.gov.au/living-in-nsw
-  10. https://www.nsw.gov.au/
-  11. https://www.nsw.gov.au/living-in-nsw
-  12. https://www.nsw.gov.au/community-services
-  13. https://www.nsw.gov.au/driving-boating-and-transport
-  14. https://www.nsw.gov.au/education-and-training
-  15. https://www.nsw.gov.au/emergency
-  16. https://www.nsw.gov.au/employment
-  17. https://www.nsw.gov.au/environment-land-and-water
-  18. https://www.nsw.gov.au/family-and-relationships
-  19. https://www.nsw.gov.au/grants-and-funding
-  20. https://www.nsw.gov.au/health
-  21. https://www.nsw.gov.au/housing-and-construction
-  22. https://www.nsw.gov.au/legal-and-justice
-  23. https://www.nsw.gov.au/money-and-taxes
-  24. https://www.nsw.gov.au/regional-nsw
-  25. https://www.nsw.gov.au/visas-and-migration
-  26. https://www.nsw.gov.au/about-nsw/school-holidays
-  27. https://www.nsw.gov.au/about-nsw/public-holidays
-  28. https://www.nsw.gov.au/nsw-government
-  29. https://www.nsw.gov.au/nsw-government/projects-and-initiatives/nsw-digital-id
-  30. https://www.nsw.gov.au/living-in-nsw
-  31. https://www.nsw.gov.au/working-and-business
-  32. https://www.nsw.gov.au/
-  33. https://www.nsw.gov.au/working-and-business
-  34. https://www.nsw.gov.au/business-and-economy
-  35. https://www.nsw.gov.au/education-and-training
-  36. https://www.nsw.gov.au/employment
-  37. https://www.nsw.gov.au/grants-and-funding
-  38. https://www.nsw.gov.au/money-and-taxes
-  39. https://www.nsw.gov.au/visas-and-migration
-  40. https://www.nsw.gov.au/emergency/floods/recover/financial-support/businesses
-  41. https://www.nsw.gov.au/departments-and-agencies/customer-service/careers
-  42. https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition
-  43. https://www.nsw.gov.au/working-and-business
-  44. https://www.nsw.gov.au/whats-happening
-  45. https://www.nsw.gov.au/
-  46. https://www.nsw.gov.au/whats-happening
-  47. https://www.nsw.gov.au/about-nsw
-  48. https://www.nsw.gov.au/arts-and-culture
-  49. https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events
-  50. https://www.nsw.gov.au/visiting-and-exploring-nsw
-  51. https://www.nsw.gov.au/about-nsw/public-holidays
-  52. https://www.nsw.gov.au/about-nsw/school-holidays
-  53. https://www.nsw.gov.au/whats-happening
-  54. https://www.nsw.gov.au/have-your-say
-  55. https://www.nsw.gov.au/covid-19
-  56. https://www.nsw.gov.au/
-  57. https://www.nsw.gov.au/covid-19
-  58. https://www.nsw.gov.au/covid-19/protecting-yourself
-  59. https://www.nsw.gov.au/covid-19/testing-managing
-  60. https://www.nsw.gov.au/covid-19/vaccination
-  61. https://www.nsw.gov.au/covid-19/data-and-statistics
-  62. https://www.nsw.gov.au/business-and-economy/business
-  63. https://www.nsw.gov.au/visiting-and-exploring-nsw/travel
-  64. https://www.nsw.gov.au/covid-19/translated-resources
-  65. https://www.nsw.gov.au/covid-19/easy-read
-  66. https://www.nsw.gov.au/covid-19/protecting-yourself/higher-risk-groups
-  67. https://www.nsw.gov.au/covid-19/testing-managing/advice-for-confirmed
-  68. https://www.nsw.gov.au/covid-19/testing-managing/people-exposed-to-covid
-  69. https://www.nsw.gov.au/covid-19
-  70. https://www.nsw.gov.au/
-  71. https://www.nsw.gov.au/driving-boating-and-transport
-  72. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration
-  73. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms
-  74. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-  75. https://www.apps08.osr.nsw.gov.au/erevenue/calculators/motorsimple.php
-  76. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals
-  77. https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty
-  78. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration
-  79. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/vehicle-number-plates/order-personalised-reserve-or-replace-number-plates
-  80. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms
-  81. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees
-  82. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs
-  83. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-  84. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/registration-forms
-  85. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/lower-taxed-vehicles
-  86. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees
-  87. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/primary-producers-registration-concessions
-  88. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/primary-producers-registration-concessions/faqs
-  89. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/fee-refunds-or-waivers-after-a-natural-disaster
-  90. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#top
-  91. https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw
-  92. https://www.nsw.gov.au/
-  93. https://www.nsw.gov.au/about-nsw/public-holidays
-  94. https://www.service.nsw.gov.au/service-centre
-  95. https://www.nsw.gov.au/life-events
-  96. https://www.nsw.gov.au/about-nsw/state-services
-  97. https://www.nsw.gov.au/about-nsw/nsw-protocol/state-flag
-  98. https://www.nsw.gov.au/nsw-government/about-this-website
-  99. https://www.nsw.gov.au/nsw-government/access-nsw-government-information
- 100. https://www.nsw.gov.au/accessibility-statement
- 101. https://www.nsw.gov.au/nsw-government/copyright
- 102. https://www.nsw.gov.au/nsw-government/disclaimer
- 103. https://www.nsw.gov.au/nsw-government/privacy-statement
- 104. https://www.service.nsw.gov.au/nswgovdirectory
- 105. https://www.nsw.gov.au/departments-and-agencies
- 106. https://www.nsw.gov.au/the-cabinet-office
- 107. https://www.nsw.gov.au/departments-and-agencies/customer-service
- 108. https://www.dcj.nsw.gov.au/
- 109. https://www.nsw.gov.au/departments-and-agencies/department-of-education
- 110. https://www.nsw.gov.au/departments-and-agencies/enterprise-investment-trade
- 111. https://www.health.nsw.gov.au/
- 112. https://www.dpie.nsw.gov.au/
- 113. https://www.nsw.gov.au/premiers-department
- 114. https://www.nsw.gov.au/departments-and-agencies/department-of-regional-nsw
- 115. https://www.transport.nsw.gov.au/
- 116. https://www.treasury.nsw.gov.au/
- 117. https://www.nsw.gov.au/nsw-government
- 118. https://www.nsw.gov.au/nsw-government/premier-of-nsw
- 119. https://www.nsw.gov.au/nsw-government/ministers
- 120. https://www.parliament.nsw.gov.au/members/pages/all-members.aspx
- 121. https://boards.dpc.nsw.gov.au/
- 122. https://iworkfor.nsw.gov.au/
- 123. https://www.nsw.gov.au/about-nsw
- 124. https://www.nsw.gov.au/nsw-government/communications
- 125. https://www.nsw.gov.au/nsw-government/unsolicited-proposals
- 126. https://www.nsw.gov.au/nsw-government/projects-and-initiatives

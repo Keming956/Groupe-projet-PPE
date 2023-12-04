@@ -1,16 +1,16 @@
-   #[1]alternate [2]alternate [3]alternate
+   #alternate alternate alternate
 
-     * [4]Business
-     * [5]Finance
-     * [6]Banking
-     * [7]Education
-     * [8]General
-     * [9]Law
-     * [10]Science
-     * [11]IT
-     * [12]English
+     * Business
+     * Finance
+     * Banking
+     * Education
+     * General
+     * Law
+     * Science
+     * IT
+     * English
 
-   [13]Key Differences
+   Key Differences
 
    Know the Differences & Comparisons
 
@@ -18,13 +18,13 @@
 
 Difference Between Duties and Responsibilities
 
-   Last updated on November 23, 2019 by [14]Surbhi S
+   Last updated on November 23, 2019 by Surbhi S
 
-   [15]duty vs responsibility Duty and Responsibility are wider terms,
-   which are used in a number of contexts, say in the field of law,
-   management, education, ethics and so forth. These are commonly used
-   with one another, but they are two different terms, wherein the duty is
-   imposed on someone, to perform something which is morally, legally or
+   duty vs responsibility Duty and Responsibility are wider terms, which
+   are used in a number of contexts, say in the field of law, management,
+   education, ethics and so forth. These are commonly used with one
+   another, but they are two different terms, wherein the duty is imposed
+   on someone, to perform something which is morally, legally or
    professionally considered right. It is something which we are required
    to do as per law, conventions, rules and norms.
    [INS: :INS]
@@ -38,10 +38,10 @@ Difference Between Duties and Responsibilities
 
 Content: Duty Vs Responsibility
 
-    1. [16]Comparison Chart
-    2. [17]Definition
-    3. [18]Key Differences
-    4. [19]Conclusion
+    1. Comparison Chart
+    2. Definition
+    3. Key Differences
+    4. Conclusion
 
 Comparison Chart
 
@@ -144,37 +144,37 @@ Conclusion
 
 Related Differences
 
-     * [20]Difference Between Revenue, Profit and Income
-     * [21]Difference Between Principal and Principle
-     * [22]Difference Between General Lien and Particular Lien
-     * [23]Difference Between Formal and Informal Organization
-     * [24]Difference Between Ordinary Annuity and Annuity Due
+     * Difference Between Advertising and Personal Selling
+     * Difference Between Knowledge and Wisdom
+     * Difference Between DMAIC and DMADV
+     * Difference Between Job Description and Job Specification
+     * Difference Between Hedging and Speculation
 
 You Might Also Like:
 
-   [25]responsibility vs accountability Difference Between Responsibility
-   and Accountability [26]authority vs responsibility Difference Between
-   Authority and Responsibility [27]Difference Between Delegation and
-   Decentralization [28]Supervisor and Manager Difference Between
-   Supervisor and Manager [29]employee vs independent contractor
-   Difference Between Employee and Independent Contractor [30]Difference
-   Between Job Description and Job Specification
+   responsibility vs accountability Difference Between Responsibility and
+   Accountability authority vs responsibility Difference Between Authority
+   and Responsibility Difference Between Delegation and Decentralization
+   Supervisor and Manager Difference Between Supervisor and Manager
+   employee vs independent contractor Difference Between Employee and
+   Independent Contractor Difference Between Job Description and Job
+   Specification
 
 Comments
 
     1.
    Momoh I Kamara says
-       [31]March 3, 2022 at 11:52 am
+       March 3, 2022 at 11:52 am
        I enjoy this article a lot.
        Always leave something useful to my account.
-       [32]Reply
+       Reply
     2.
    Ashford Bisham Basant says
-       [33]September 20, 2022 at 7:04 pm
+       September 20, 2022 at 7:04 pm
        Very nice
-       [34]Reply
+       Reply
 
-Leave a Reply [35]Cancel reply
+Leave a Reply Cancel reply
 
    Your email address will not be published. Required fields are marked *
 
@@ -208,100 +208,35 @@ Leave a Reply [35]Cancel reply
 
 Top 5 Differences
 
-     * [36]Difference Between PERT and CPM
-     * [37]Difference Between Micro and Macro Economics
-     * [38]Difference Between Developed Countries and Developing Countries
-     * [39]Difference Between Management and Administration
-     * [40]Difference Between Qualitative and Quantitative Research
+     * Difference Between PERT and CPM
+     * Difference Between Micro and Macro Economics
+     * Difference Between Developed Countries and Developing Countries
+     * Difference Between Management and Administration
+     * Difference Between Qualitative and Quantitative Research
 
 Related Differences
 
-     * [41]Difference Between Revenue, Profit and Income
-     * [42]Difference Between Principal and Principle
-     * [43]Difference Between General Lien and Particular Lien
-     * [44]Difference Between Formal and Informal Organization
-     * [45]Difference Between Ordinary Annuity and Annuity Due
+     * Difference Between Advertising and Personal Selling
+     * Difference Between Knowledge and Wisdom
+     * Difference Between DMAIC and DMADV
+     * Difference Between Job Description and Job Specification
+     * Difference Between Hedging and Speculation
 
                                  [INS: :INS]
 
 New Additions
 
-     * [46]Difference Between Revising and Editing
-     * [47]Difference Between Who’s and Whose
-     * [48]Difference Between Invoke and Evoke
-     * [49]Difference Between Accident and Incident
-     * [50]Difference Between Do and Make
-     * [51]Difference Between Continual and Continuous
-     * [52]Difference Between Travel and Tourism
-     * [53]Difference Between Affiliate Marketing and Digital Marketing
-     * [54]Difference Between Quite and Quiet
-     * [55]Difference Between Private Goods and Public Goods
+     * Difference Between Vowels and Consonants
+     * Difference Between Revising and Editing
+     * Difference Between Who’s and Whose
+     * Difference Between Invoke and Evoke
+     * Difference Between Accident and Incident
+     * Difference Between Do and Make
+     * Difference Between Continual and Continuous
+     * Difference Between Travel and Tourism
+     * Difference Between Affiliate Marketing and Digital Marketing
+     * Difference Between Quite and Quiet
 
-   [56]fb-follow [57]youtube follow
+   fb-follow youtube follow
 
-   Copyright © 2023 · [58]Key Differences · [59]Contact Us · [60]About Us
-   · [61]Privacy
-
-References
-
-   1. https://keydifferences.com/wp-json/wp/v2/posts/20501
-   2. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html
-   3. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html&format=xml
-   4. https://keydifferences.com/category/business
-   5. https://keydifferences.com/category/finance
-   6. https://keydifferences.com/category/banking
-   7. https://keydifferences.com/category/education
-   8. https://keydifferences.com/category/general
-   9. https://keydifferences.com/category/law
-  10. https://keydifferences.com/category/science
-  11. https://keydifferences.com/category/it
-  12. https://keydifferences.com/category/english
-  13. https://keydifferences.com/
-  14. https://keydifferences.com/author/surbhi
-  15. https://keydifferences.com/wp-content/uploads/2019/11/duty-vs-responsibility.jpg
-  16. https://keydifferences.com/difference-between-duties-and-responsibilities.html#ComparisonChart
-  17. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Definition
-  18. https://keydifferences.com/difference-between-duties-and-responsibilities.html#KeyDifferences
-  19. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Conclusion
-  20. https://keydifferences.com/difference-between-revenue-profit-and-income.html
-  21. https://keydifferences.com/difference-between-principal-and-principle.html
-  22. https://keydifferences.com/difference-between-general-and-particular-lien.html
-  23. https://keydifferences.com/difference-between-formal-and-informal-organization.html
-  24. https://keydifferences.com/difference-between-ordinary-annuity-and-annuity-due.html
-  25. https://keydifferences.com/difference-between-responsibility-and-accountability.html
-  26. https://keydifferences.com/difference-between-authority-and-responsibility.html
-  27. https://keydifferences.com/difference-between-delegation-and-decentralization.html
-  28. https://keydifferences.com/difference-between-supervisor-and-manager.html
-  29. https://keydifferences.com/difference-between-employee-and-independent-contractor.html
-  30. https://keydifferences.com/difference-between-job-description-and-job-specification.html
-  31. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  32. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  33. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  34. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  35. https://keydifferences.com/difference-between-duties-and-responsibilities.html#respond
-  36. https://keydifferences.com/difference-between-pert-and-cpm.html
-  37. https://keydifferences.com/difference-between-microeconomics-and-macroeconomics.html
-  38. https://keydifferences.com/difference-between-developed-countries-and-developing-countries.html
-  39. https://keydifferences.com/difference-between-management-and-administration.html
-  40. https://keydifferences.com/difference-between-qualitative-and-quantitative-research.html
-  41. https://keydifferences.com/difference-between-revenue-profit-and-income.html
-  42. https://keydifferences.com/difference-between-principal-and-principle.html
-  43. https://keydifferences.com/difference-between-general-and-particular-lien.html
-  44. https://keydifferences.com/difference-between-formal-and-informal-organization.html
-  45. https://keydifferences.com/difference-between-ordinary-annuity-and-annuity-due.html
-  46. https://keydifferences.com/difference-between-revising-and-editing.html
-  47. https://keydifferences.com/difference-between-whos-and-whose.html
-  48. https://keydifferences.com/difference-between-invoke-and-evoke.html
-  49. https://keydifferences.com/difference-between-accident-and-incident.html
-  50. https://keydifferences.com/difference-between-do-and-make.html
-  51. https://keydifferences.com/difference-between-continual-and-continuous.html
-  52. https://keydifferences.com/difference-between-travel-and-tourism.html
-  53. https://keydifferences.com/difference-between-affiliate-marketing-and-digital-marketing.html
-  54. https://keydifferences.com/difference-between-quite-and-quiet.html
-  55. https://keydifferences.com/difference-between-private-goods-and-public-goods.html
-  56. https://www.facebook.com/KeyDifferences/
-  57. https://www.youtube.com/c/KeyDifferences
-  58. https://keydifferences.com/
-  59. https://keydifferences.com/contact-us/
-  60. https://keydifferences.com/about-us/
-  61. https://keydifferences.com/privacy-policy/
+   Copyright © 2023 · Key Differences · Contact Us · About Us · Privacy

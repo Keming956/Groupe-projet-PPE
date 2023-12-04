@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,27 +68,27 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Business and self-employed
-    3. [38]Business tax
+    1. Home
+    2. Business and self-employed
+    3. Business tax
 
 Tax when you buy shares
 
-   [39]Skip to contents of guide
+   Skip to contents of guide
 
 Contents
 
     1. Overview
-    2. [40]Buying shares electronically
-    3. [41]Buying shares using a stock transfer form
-    4. [42]Special share arrangements
+    2. Buying shares electronically
+    3. Buying shares using a stock transfer form
+    4. Special share arrangements
 
 Overview
 
@@ -96,12 +96,12 @@ Overview
    transaction.
 
    If you buy:
-     * shares [43]electronically, you’ll pay Stamp Duty Reserve Tax (SDRT)
-     * shares [44]using a stock transfer form, you’ll pay Stamp Duty if
-       the transaction is over £1,000
+     * shares electronically, you’ll pay Stamp Duty Reserve Tax (SDRT)
+     * shares using a stock transfer form, you’ll pay Stamp Duty if the
+       transaction is over £1,000
 
    You’ll have to pay tax at 1.5% if you transfer shares into some
-   [45]‘depositary receipt schemes’ or ‘clearance services’.
+   ‘depositary receipt schemes’ or ‘clearance services’.
 
    You pay tax on the price you pay for the shares, even if their actual
    market value is much higher.
@@ -127,42 +127,42 @@ When you do not pay tax
      * buy units in a unit trust from the fund manager
 
    You do not normally have to pay Stamp Duty or SDRT if you buy foreign
-   shares outside the UK. But you may have to pay [46]other taxes.
+   shares outside the UK. But you may have to pay other taxes.
 
 When you sell the shares
 
-   You may need to pay [47]Capital Gains Tax when you sell your shares.
+   You may need to pay Capital Gains Tax when you sell your shares.
 
 Help and advice
 
-   [48]Contact Stamp Duty share enquiries for general information about
-   Stamp Duty on shares.
+   Contact Stamp Duty share enquiries for general information about Stamp
+   Duty on shares.
 
-   [49]Contact Stamp Duty Reserve Tax enquiries if you have questions
-   about Stamp Duty on electronic paperless share transactions.
+   Contact Stamp Duty Reserve Tax enquiries if you have questions about
+   Stamp Duty on electronic paperless share transactions.
 
-   You can also [50]get professional help (for example, from a tax
-   adviser) with your tax.
-   [51]Next : Buying shares electronically
-   [52]View a printable version of the whole guide
+   You can also get professional help (for example, from a tax adviser)
+   with your tax.
+   Next : Buying shares electronically
+   View a printable version of the whole guide
 
 Related content
 
-     * [53]Income Tax: introduction
-     * [54]Tax on dividends
-     * [55]Get help with tax
-     * [56]Tax when you sell shares
+     * Income Tax: introduction
+     * Tax on dividends
+     * Get help with tax
+     * Tax when you sell shares
 
 Explore the topic
 
-     * [57]Business tax
-     * [58]Income Tax
-     * [59]Stamp duty on shares
-     * [60]Tax on savings and investments
+     * Business tax
+     * Income Tax
+     * Stamp duty on shares
+     * Tax on savings and investments
 
 Is this page useful?
 
-     * [61]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -195,144 +195,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [62]Benefits
-     * [63]Births, death, marriages and care
-     * [64]Business and self-employed
-     * [65]Childcare and parenting
-     * [66]Citizenship and living in the UK
-     * [67]Crime, justice and the law
-     * [68]Disabled people
-     * [69]Driving and transport
-     * [70]Education and learning
-     * [71]Employing people
-     * [72]Environment and countryside
-     * [73]Housing and local services
-     * [74]Money and tax
-     * [75]Passports, travel and living abroad
-     * [76]Visas and immigration
-     * [77]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [78]Departments
-     * [79]News
-     * [80]Guidance and regulation
-     * [81]Research and statistics
-     * [82]Policy papers and consultations
-     * [83]Transparency
-     * [84]How government works
-     * [85]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [86]Help
-     * [87]Privacy
-     * [88]Cookies
-     * [89]Accessibility statement
-     * [90]Contact
-     * [91]Terms and conditions
-     * [92]Rhestr o Wasanaethau Cymraeg
-     * [93]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [94]Open Government Licence v3.0,
-   except where otherwise stated
-   [95]© Crown copyright
-
-References
-
-   1. https://www.gov.uk/tax-buy-shares#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/browse/business
-  38. https://www.gov.uk/browse/business/business-tax
-  39. https://www.gov.uk/tax-buy-shares#guide-contents
-  40. https://www.gov.uk/tax-buy-shares/buy-shares-electronically
-  41. https://www.gov.uk/tax-buy-shares/use-a-stock-transfer-form
-  42. https://www.gov.uk/tax-buy-shares/special-share-arrangements
-  43. https://www.gov.uk/tax-buy-shares/buy-shares-electronically
-  44. https://www.gov.uk/tax-buy-shares/use-a-stock-transfer-form
-  45. https://www.gov.uk/tax-buy-shares/special-share-arrangements
-  46. https://www.gov.uk/tax-foreign-income
-  47. https://www.gov.uk/tax-sell-shares
-  48. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/stamp-duty-enquiries-shares-and-land
-  49. https://www.gov.uk/government/organisations/hm-revenue-customs/contact/stamp-duty-reserve-tax
-  50. https://www.gov.uk/tax-help
-  51. https://www.gov.uk/tax-buy-shares/buy-shares-electronically
-  52. https://www.gov.uk/tax-buy-shares/print
-  53. https://www.gov.uk/income-tax
-  54. https://www.gov.uk/tax-on-dividends
-  55. https://www.gov.uk/tax-help
-  56. https://www.gov.uk/tax-sell-shares
-  57. https://www.gov.uk/browse/business/business-tax
-  58. https://www.gov.uk/browse/tax/income-tax
-  59. https://www.gov.uk/topic/business-tax/stamp-duty-on-shares
-  60. https://www.gov.uk/topic/personal-tax/savings-investment-tax
-  61. https://www.gov.uk/contact/govuk
-  62. https://www.gov.uk/browse/benefits
-  63. https://www.gov.uk/browse/births-deaths-marriages
-  64. https://www.gov.uk/browse/business
-  65. https://www.gov.uk/browse/childcare-parenting
-  66. https://www.gov.uk/browse/citizenship
-  67. https://www.gov.uk/browse/justice
-  68. https://www.gov.uk/browse/disabilities
-  69. https://www.gov.uk/browse/driving
-  70. https://www.gov.uk/browse/education
-  71. https://www.gov.uk/browse/employing-people
-  72. https://www.gov.uk/browse/environment-countryside
-  73. https://www.gov.uk/browse/housing-local-services
-  74. https://www.gov.uk/browse/tax
-  75. https://www.gov.uk/browse/abroad
-  76. https://www.gov.uk/browse/visas-immigration
-  77. https://www.gov.uk/browse/working
-  78. https://www.gov.uk/government/organisations
-  79. https://www.gov.uk/search/news-and-communications
-  80. https://www.gov.uk/search/guidance-and-regulation
-  81. https://www.gov.uk/search/research-and-statistics
-  82. https://www.gov.uk/search/policy-papers-and-consultations
-  83. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  84. https://www.gov.uk/government/how-government-works
-  85. https://www.gov.uk/government/get-involved
-  86. https://www.gov.uk/help
-  87. https://www.gov.uk/help/privacy-notice
-  88. https://www.gov.uk/help/cookies
-  89. https://www.gov.uk/help/accessibility-statement
-  90. https://www.gov.uk/contact
-  91. https://www.gov.uk/help/terms-conditions
-  92. https://www.gov.uk/cymraeg
-  93. https://www.gov.uk/government/organisations/government-digital-service
-  94. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  95. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

@@ -4,7 +4,7 @@
    the subsidies
    [redbulle.gif] emergency measures to limit imports temporarily,
 --
-   normally break the GATT principles of [21]binding a tariff and [22]not
+   normally break the GATT principles of binding a tariff and not
    discriminating between trading partners typically anti-dumping action
    means charging extra import duty on the particular product from the
    particular exporting country in order to bring its price closer to the
@@ -59,8 +59,8 @@
    The reaction to dumping and subsidies is often a special offsetting
    import tax (countervailing duty in the case of a subsidy). This is
    charged on products from specific countries and therefore it breaks the
-   GATT principles of [35]binding a tariff and treating trading partners
-   equally ([36]MFN). The agreements provide an escape clause, but they
-   both also say that before imposing a duty, the importing country must
+   GATT principles of binding a tariff and treating trading partners
+   equally (MFN). The agreements provide an escape clause, but they both
+   also say that before imposing a duty, the importing country must
    conduct a detailed investigation that shows properly that domestic
    industry is hurt.

@@ -1,70 +1,72 @@
    Javascript est desactivé dans votre navigateur.
 
-     * [1]Content
-     * [2]Menu
-     * [3]Search
-     * [4]Footer
+     * Content
+     * Menu
+     * Search
+     * Footer
+
+   En raison d'activités de maintenance planifiées, le site sera
+   inaccessible cette nuit de 23h à 4h.
 
    République
    Française
 
    (BUTTON) Ouvrir la recherche (BUTTON) Menu
-   [5]
 
    Service-Public.fr
 
    Le site officiel de l’administration française
-     * [6]Se connecter
-     * [7]Donner son avis avec Services Publics +
-     * [8]Accéder au site pour les entreprises
+     * Se connecter
+     * Donner son avis avec Services Publics +
+     * Accéder au site pour les entreprises
 
    (BUTTON) Fermer
    Recherche ____________________ (BUTTON) Rechercher
    (BUTTON) Fermer
-     * [9]Accueil
-     * [10]Actualité
+     * Accueil
+     * Actualité
        de vos droits et démarches
      * (BUTTON) Fiches pratiques
        par événement de vie
-          + [11]Je déménage
-          + [12]Je cherche un emploi
-          + [13]J’attends un enfant
-          + [14]Je veux obtenir un crédit immobilier
-          + [15]J'achète un logement
-          + [16]Je prépare ma retraite
-          + [17]Un proche est décédé
-          + [18]Voir tous les événements de vie
+          + Je déménage
+          + Je cherche un emploi
+          + J’attends un enfant
+          + Je veux obtenir un crédit immobilier
+          + J'achète un logement
+          + Je prépare ma retraite
+          + Un proche est décédé
+          + Voir tous les événements de vie
      * (BUTTON) Fiches pratiques
        par thème
-          + [19]Papiers - Citoyenneté - Élections
-          + [20]Famille - Scolarité
-          + [21]Social - Santé
-          + [22]Travail - Formation
-          + [23]Logement
-          + [24]Transports - Mobilité
-          + [25]Argent - Impôts - Consommation
-          + [26]Voir tous les thèmes
+          + Papiers - Citoyenneté - Élections
+          + Famille - Scolarité
+          + Social - Santé
+          + Travail - Formation
+          + Logement
+          + Transports - Mobilité
+          + Argent - Impôts - Consommation
+          + Voir tous les thèmes
      * (BUTTON) Démarches
        et outils
-          + [27]Démarches en ligne
-          + [28]Simulateurs
-          + [29]Modèles de lettres
-          + [30]Formulaires administratifs (cerfas)
-          + [31]Outils de recherche
-     * [32]Annuaire
+          + Démarches en ligne
+          + Simulateurs
+          + Modèles de lettres
+          + Formulaires administratifs (cerfas)
+          + Outils de recherche
+     * Annuaire
        de l’administration
-     * [33]Contacter
+     * Contacter
        Service-Public.fr
 
-   [34]Accéder au site pour les entreprises
+   Accéder au site pour les entreprises
 
-   [35]J'aide les services publics à s'améliorer : je donne mon avis avec
+   J'aide les services publics à s'améliorer : je donne mon avis avec
    services publics +
 
    (BUTTON) See the Breadcrumb Trail
-    1. [36]Home
-    2. [37]Money - Taxes - Consumption
-    3. [38]Customs
+    1. Home
+    2. Money - Taxes - Consumption
+    3. Customs
     4. Moving from the foreigner to settle in France: what customs duties?
 
    This page has been automatically translated. Please refer to the page
@@ -80,10 +82,10 @@
    (BUTTON)
 
    Share the page
-     * [39]Facebook
-     * [40]Twitter
-     * [41]Linkedin
-     * [42]Email
+     * Facebook
+     * Twitter
+     * Linkedin
+     * Email
      * (BUTTON) Share the link
        Link copied
 
@@ -144,8 +146,8 @@ You transfer your principal residence to France
    Warning
 
    You can't bring everything back, some goods require prior
-   authorizations. This is the case for [43]works of art and cultural
-   goods, arms and ammunition, animals, plants and medicines
+   authorizations. This is the case for works of art and cultural goods,
+   arms and ammunition, animals, plants and medicines
 
 (BUTTON) Conditions for entitlement to the relief from customs duty
 
@@ -166,7 +168,7 @@ You transfer your principal residence to France
 
 Who shall I contact
 
-     * [44]Embassies and consulates of France abroad
+     * Embassies and consulates of France abroad
 
    You can also contact the Customs Personal Information Service by
    telephone:
@@ -183,7 +185,7 @@ Who shall I contact
        Toll-free number, local call price
        Outside metropolis or from the foreigner, dial +33 1 72 40 78 50
        By E-mail
-       Access to [45]contact form
+       Access to contact form
 
 (BUTTON) Procedure to be carried out
 
@@ -202,7 +204,7 @@ Documents to be provided to customs
 
 Who shall I contact
 
-     * [46]Embassies and consulates of France abroad
+     * Embassies and consulates of France abroad
 
    FYI
 
@@ -215,24 +217,24 @@ Form to fill out
    You must present to customs the following form (cerfa n°10070)
    completed and signed.
 
-   [47]Declaration of duty-free entry into France of personal property
-   from third countries to the European Union
+   Declaration of duty-free entry into France of personal property from
+   third countries to the European Union
 
 Who shall I contact
 
-     * [48]Customs offices (French and foreigners)
+     * Customs offices (French and foreigners)
 
    The customs services give you in return :
      * 1 certified copy of the inventory of your assets
      * Clearance certificate n°846 A for the registration of your vehicle
        in a normal series in France
-     * On your request, a [49]free movement card
+     * On your request, a free movement card
 
 (BUTTON) Goods subject to customs duties
 
    You must pay customs duties on the following products:
-     * [50]Alcohol
-     * [51]Tobacco
+     * Alcohol
+     * Tobacco
      * Furnishing a second home in France
      * Commercial vehicles, mixed-use vehicles (personal and professional)
      * Portable housing (mobile home, caravan, tiny-house)
@@ -249,10 +251,10 @@ Transfer by car or plane
 
 You declare your goods in customs
 
-   If you transfer the goods with you (by car or plane), you must
-   [52]present to the customs office.
+   If you transfer the goods with you (by car or plane), you must present
+   to the customs office.
 
-   Customs officers guide you to [53]to make the declaration.
+   Customs officers guide you to to make the declaration.
 
    They tell you the amount of duty to be paid.
 
@@ -275,17 +277,17 @@ Who shall I contact
        Toll-free number, local call price
        Outside metropolis or from the foreigner, dial +33 1 72 40 78 50
        By E-mail
-       Access to [54]contact form
+       Access to contact form
 
    The Economic Action Hub Advisory Cells can also provide information on:
 
 Who shall I contact
 
-     * [55]Companies Advisory Units (Customs - Economic Action Poles)
+     * Companies Advisory Units (Customs - Economic Action Poles)
 
 Transfer by container
 
-   It's the [56]customs officials making the declaration.
+   It's the customs officials making the declaration.
 
    It's an electronic declaration.
 
@@ -296,7 +298,7 @@ Who can help you?
 
 Who shall I contact
 
-     * [57]Companies Advisory Units (Customs - Economic Action Poles)
+     * Companies Advisory Units (Customs - Economic Action Poles)
 
 You get married and settle in France
 
@@ -321,14 +323,13 @@ What goods are we talking about?
    Warning
 
    You can't bring everything back, some goods require prior
-   authorization. [58]This is the case for works of art and cultural
-   goods, weapons and ammunition, certain protected animals or plants,
-   medicines.
+   authorization. This is the case for works of art and cultural goods,
+   weapons and ammunition, certain protected animals or plants, medicines.
 
 (BUTTON) Conditions for entitlement to the relief from customs duty
 
    You are exempt if you complete the following conditions :
-     * You are staying in a country out [59]EU (EU) since 1 year minimum
+     * You are staying in a country out EU (EU) since 1 year minimum
      * You bring your goods to France in the 2 months before the date of
        your marriage and at the latest 4 months after its celebration
      * You commit to do not sell or rent these goods (personal and gifts)
@@ -365,16 +366,16 @@ Form to fill out
    You must present to customs the following form (cerfa n°10070)
    completed and signed.
 
-   [60]Declaration of duty-free entry into France of personal property
-   from third countries to the European Union
+   Declaration of duty-free entry into France of personal property from
+   third countries to the European Union
 
 Who shall I contact
 
-     * [61]Customs offices (French and foreigners)
+     * Customs offices (French and foreigners)
 
    The customs services give you in return :
      * 1 endorsed copy of the inventory,
-     * On your request, a [62]free movement card
+     * On your request, a free movement card
 
 (BUTTON) Goods subject to customs duties
 
@@ -384,8 +385,8 @@ Who shall I contact
    customs clearance.
 
    This applies to the following products:
-     * [63]Alcohol
-     * [64]Tobacco
+     * Alcohol
+     * Tobacco
      * Wedding gifts with a value greater than €1,000
 
 How to declare your property?
@@ -397,10 +398,10 @@ Transfer by car or plane
 
 You declare your goods in customs
 
-   If you transfer the goods with you (by car or plane), you must
-   [65]present to the customs office.
+   If you transfer the goods with you (by car or plane), you must present
+   to the customs office.
 
-   Customs officers guide you to [66]to make the declaration.
+   Customs officers guide you to to make the declaration.
 
    They tell you the amount of duty to be paid.
 
@@ -423,17 +424,17 @@ Who shall I contact
        Toll-free number, local call price
        Outside metropolis or from the foreigner, dial +33 1 72 40 78 50
        By E-mail
-       Access to [67]contact form
+       Access to contact form
 
    The Economic Action Hub Advisory Cells can also provide information on:
 
 Who shall I contact
 
-     * [68]Companies Advisory Units (Customs - Economic Action Poles)
+     * Companies Advisory Units (Customs - Economic Action Poles)
 
 Transfer by container
 
-   It's the [69]customs officials making the declaration.
+   It's the customs officials making the declaration.
 
    It's an electronic declaration.
 
@@ -444,7 +445,7 @@ Who can help you?
 
 Who shall I contact
 
-     * [70]Companies Advisory Units (Customs - Economic Action Poles)
+     * Companies Advisory Units (Customs - Economic Action Poles)
 
 You settle in France to study
 
@@ -493,7 +494,7 @@ Who shall I contact
        Toll-free number, local call price
        Outside metropolis or from the foreigner, dial +33 1 72 40 78 50
        By E-mail
-       Access to [71]contact form
+       Access to contact form
 
 (BUTTON) Procedure to be carried out
 
@@ -512,16 +513,16 @@ Form to fill out
    You must present to customs the following form (cerfa n°10070)
    completed and signed.
 
-   [72]Declaration of duty-free entry into France of personal property
-   from third countries to the European Union
+   Declaration of duty-free entry into France of personal property from
+   third countries to the European Union
 
 Who shall I contact
 
-     * [73]Customs offices (French and foreigners)
+     * Customs offices (French and foreigners)
 
    The customs services give you in return :
      * 1 endorsed copy of the inventory
-     * On your request, a [74]free movement card
+     * On your request, a free movement card
 
 (BUTTON) Goods subject to customs duties
 
@@ -530,10 +531,10 @@ Who shall I contact
    You must to pay duties during your customs clearance.
 
    These goods are:
-     * [75]Alcohol if you exceed certain quantities
-     * [76]Tobacco if you exceed certain quantities
+     * Alcohol if you exceed certain quantities
+     * Tobacco if you exceed certain quantities
 
-   Customs officers [77]explain how to report and pay if you exceed the
+   Customs officers explain how to report and pay if you exceed the
    authorized quantities.
 
 Who can help me?
@@ -550,39 +551,39 @@ Who can help me?
        Toll-free number, local call price
        Outside metropolis or from the foreigner, dial +33 1 72 40 78 50
        By E-mail
-       Access to [78]contact form
-     * [79]Embassies and consulates of France abroad
+       Access to contact form
+     * Embassies and consulates of France abroad
      * For professional goods
-       [80]Companies Advisory Units (Customs - Economic Action Poles)
+       Companies Advisory Units (Customs - Economic Action Poles)
 
 (BUTTON) Statute and miscellaneous references
 
-     * [81]General Tax Code, Annex 4: Articles 50f to 50g C
+     * General Tax Code, Annex 4: Articles 50f to 50g C
 
 (BUTTON) Online services and forms
 
-     * [82]Declaration of duty-free entry into France of personal property
+     * Declaration of duty-free entry into France of personal property
        from third countries to the European Union
        Form
 
 FAQ
 
-     * [83]Inheritance received abroad: which goods are exempt from
-       customs duties?
-     * [84]Customs: how does the traveler's check go?
+     * Inheritance received abroad: which goods are exempt from customs
+       duties?
+     * Customs: how does the traveler's check go?
 
 (BUTTON) Additional topics
 
-     * [85]Customs: What products are prohibited from being brought to
+     * Customs: What products are prohibited from being brought to
        France?Service-Public.fr
-     * [86]Bring tobacco from the foreignerService-Public.fr
-     * [87]Bring alcohol from the foreignerService-Public.fr
-     * [88]Import a vehicle purchased abroadDirectorate General of Customs
-       and Indirect Taxes
-     * [89]Travel outside the EU: free movement card for your
-       goodsMinistry of Finance
-     * [90]On import or export: an obligation, declare its goodsMinistry
-       of Finance
+     * Bring tobacco from the foreignerService-Public.fr
+     * Bring alcohol from the foreignerService-Public.fr
+     * Import a vehicle purchased abroadDirectorate General of Customs and
+       Indirect Taxes
+     * Travel outside the EU: free movement card for your goodsMinistry of
+       Finance
+     * On import or export: an obligation, declare its goodsMinistry of
+       Finance
 
 EU :
 
@@ -591,48 +592,48 @@ EU :
 Recevoir la lettre de Service-Public.fr
 
    Abonnement hebdomadaire gratuit
-   [91]S’abonner
-     * [92]Lire la dernière lettre
-     * [93]Voir toutes les lettres
+   S’abonner
+     * Lire la dernière lettre
+     * Voir toutes les lettres
 
 Suivez-nous
 sur les réseaux sociaux
 
-     * [94]twitter
-     * [95]facebook
-     * [96]linkedin
-     * [97]youtube
+     * twitter
+     * facebook
+     * linkedin
+     * youtube
 
    Fiches pratiques par thèmes
-     * [98]Papiers - Citoyenneté - Élections
-     * [99]Famille - Scolarité
-     * [100]Social - Santé
-     * [101]Travail - Formation
-     * [102]Logement
-     * [103]Transports - Mobilité
-     * [104]Argent - Impôts - Consommation
-     * [105]Justice
-     * [106]Étranger - Europe
-     * [107]Loisirs - Sports - Culture
-     * [108]Associations
+     * Papiers - Citoyenneté - Élections
+     * Famille - Scolarité
+     * Social - Santé
+     * Travail - Formation
+     * Logement
+     * Transports - Mobilité
+     * Argent - Impôts - Consommation
+     * Justice
+     * Étranger - Europe
+     * Loisirs - Sports - Culture
+     * Associations
 
    Démarches et outils
-     * [109]Démarches en ligne
-     * [110]Formulaires administratifs (cerfas)
-     * [111]Simulateurs
-     * [112]Modèles de lettres
-     * [113]Outils de recherche
-     * [114]Allo Service Public
-     * [115]Annuaire de l'administration
+     * Démarches en ligne
+     * Formulaires administratifs (cerfas)
+     * Simulateurs
+     * Modèles de lettres
+     * Outils de recherche
+     * Allo Service Public
+     * Annuaire de l'administration
 
    Nous connaître
-     * [116]Missions et chiffres
-     * [117]Mise à disposition des données
-     * [118]Engagements et qualité
-     * [119]Aide
-     * [120]Vous êtes une administration ?
-     * [121]Vous êtes journaliste ?
-     * [122]Une question à l'équipe Service-Public.fr ?
+     * Missions et chiffres
+     * Mise à disposition des données
+     * Engagements et qualité
+     * Aide
+     * Vous êtes une administration ?
+     * Vous êtes journaliste ?
+     * Une question à l'équipe Service-Public.fr ?
 
    République
    Française
@@ -641,28 +642,28 @@ sur les réseaux sociaux
    permettent de connaître vos obligations, d’exercer vos droits et de
    faire vos démarches du quotidien.
 
-   Il est édité par la [123]Direction de l’information légale et
-   administrative et réalisé en partenariat avec les administrations
-   nationales et locales.
-     * [124]legifrance.gouv.fr
-     * [125]gouvernement.fr
-     * [126]data.gouv.fr
+   Il est édité par la Direction de l’information légale et administrative
+   et réalisé en partenariat avec les administrations nationales et
+   locales.
+     * legifrance.gouv.fr
+     * gouvernement.fr
+     * data.gouv.fr
 
    Nos partenaires
-   [127]Your Europe
-     * [128]Vie publique, au cœur du débat public
-     * [129]Entreprendre.Service-Public.fr
+   Your Europe
+     * Vie publique, au cœur du débat public
+     * Entreprendre.Service-Public.fr
 
-     * [130]Plan du site
-     * [131]Accessibilité : totalement conforme
-     * [132]Accessibilité des services en ligne
-     * [133]Mentions légales
-     * [134]Données personnelles et sécurité
-     * [135]Conditions générales d'utilisation
-     * [136]Gestion des cookies
+     * Plan du site
+     * Accessibilité : totalement conforme
+     * Accessibilité des services en ligne
+     * Mentions légales
+     * Données personnelles et sécurité
+     * Conditions générales d'utilisation
+     * Gestion des cookies
 
-   Sauf mention contraire, tous les contenus de ce site sont sous
-   [137]licence etalab-2.0
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   etalab-2.0
 
    (BUTTON) Fermer
 
@@ -675,149 +676,4 @@ Votre avis nous intéresse !
    Aidez-nous à concevoir un site adapté à vos besoins en répondant à
    notre questionnaire.
      * (BUTTON) Fermer
-     * [138]Je donne mon avis
-
-References
-
-   Visible links:
-   1. https://www.service-public.fr/particuliers/vosdroits/F492?lang=en#main
-   2. https://www.service-public.fr/particuliers/vosdroits/F492?lang=en#header-navigation
-   3. https://www.service-public.fr/particuliers/vosdroits/F492?lang=en#header-search-main
-   4. https://www.service-public.fr/particuliers/vosdroits/F492?lang=en#footer
-   5. https://www.service-public.fr/
-   6. https://www.service-public.fr/compte/se-connecter
-   7. https://www.plus.transformation.gouv.fr/experience/step_1?pk_campaign=DILA-usager
-   8. https://entreprendre.service-public.fr/
-   9. https://www.service-public.fr/particuliers
-  10. https://www.service-public.fr/particuliers/actualites
-  11. https://www.service-public.fr/particuliers/vosdroits/F14128
-  12. https://www.service-public.fr/particuliers/vosdroits/F17556
-  13. https://www.service-public.fr/particuliers/vosdroits/F16225
-  14. https://www.service-public.fr/particuliers/vosdroits/F16123
-  15. https://www.service-public.fr/particuliers/vosdroits/F15913
-  16. https://www.service-public.fr/particuliers/vosdroits/F17904
-  17. https://www.service-public.fr/particuliers/vosdroits/F16507
-  18. https://www.service-public.fr/particuliers/vosdroits/comment-faire-si
-  19. https://www.service-public.fr/particuliers/vosdroits/N19810
-  20. https://www.service-public.fr/particuliers/vosdroits/N19805
-  21. https://www.service-public.fr/particuliers/vosdroits/N19811
-  22. https://www.service-public.fr/particuliers/vosdroits/N19806
-  23. https://www.service-public.fr/particuliers/vosdroits/N19808
-  24. https://www.service-public.fr/particuliers/vosdroits/N19812
-  25. https://www.service-public.fr/particuliers/vosdroits/N19803
-  26. https://www.service-public.fr/particuliers/vosdroits/theme
-  27. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=teleservice
-  28. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=simulateur
-  29. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=modeleLettre
-  30. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=formulaire
-  31. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=outilrecherche
-  32. https://lannuaire.service-public.fr/
-  33. https://www.service-public.fr/P10017
-  34. https://entreprendre.service-public.fr/
-  35. https://www.plus.transformation.gouv.fr/experience/step_1?pk_campaign=DILA-usager
-  36. https://www.service-public.fr/particuliers
-  37. https://www.service-public.fr/particuliers/vosdroits/N19803?lang=en
-  38. https://www.service-public.fr/particuliers/vosdroits/N230?lang=en
-  39. https://www.facebook.com/sharer/sharer.php?u=https://www.service-public.fr/particuliers/vosdroits/F492
-  40. https://twitter.com/intent/tweet?text=Moving from the foreigner to settle in France: what customs duties?&url=https://www.service-public.fr/particuliers/vosdroits/F492
-  41. https://www.linkedin.com/shareArticle?mini=true&url=https://www.service-public.fr/particuliers/vosdroits/F492&title=Moving from the foreigner to settle in France: what customs duties?
-  42. https://www.service-public.fr/particuliers/vosdroits/F492/partager-par-courriel
-  43. https://www.service-public.fr/particuliers/vosdroits/F3161?lang=en
-  44. https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_171940
-  45. https://www.douane.gouv.fr/formulaire-infos-douane-service
-  46. https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_171940
-  47. https://www.service-public.fr/particuliers/vosdroits/R42719
-  48. https://www.douane.gouv.fr/rush/API_Service.asp?sid=
-  49. https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises
-  50. https://www.service-public.fr/particuliers/vosdroits/F812?lang=en
-  51. https://www.service-public.fr/particuliers/vosdroits/F804?lang=en
-  52. https://www.service-public.fr/particuliers/vosdroits/F816?lang=en
-  53. https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise
-  54. https://www.douane.gouv.fr/formulaire-infos-douane-service
-  55. https://www.douane.gouv.fr/les-cellules-conseil-aux-entreprises
-  56. https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise
-  57. https://www.douane.gouv.fr/les-cellules-conseil-aux-entreprises
-  58. https://www.service-public.fr/particuliers/vosdroits/F3161?lang=en
-  59. http://europa.eu/about-eu/countries/index_fr.htm
-  60. https://www.service-public.fr/particuliers/vosdroits/R42719
-  61. https://www.douane.gouv.fr/rush/API_Service.asp?sid=
-  62. https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises
-  63. https://www.service-public.fr/particuliers/vosdroits/F812?lang=en
-  64. https://www.service-public.fr/particuliers/vosdroits/F804?lang=en
-  65. https://www.service-public.fr/particuliers/vosdroits/F816?lang=en
-  66. https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise
-  67. https://www.douane.gouv.fr/formulaire-infos-douane-service
-  68. https://www.douane.gouv.fr/les-cellules-conseil-aux-entreprises
-  69. https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise
-  70. https://www.douane.gouv.fr/les-cellules-conseil-aux-entreprises
-  71. https://www.douane.gouv.fr/formulaire-infos-douane-service
-  72. https://www.service-public.fr/particuliers/vosdroits/R42719
-  73. https://www.douane.gouv.fr/rush/API_Service.asp?sid=
-  74. https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises
-  75. https://www.service-public.fr/particuliers/vosdroits/F812?lang=en
-  76. https://www.service-public.fr/particuliers/vosdroits/F804?lang=en
-  77. https://www.service-public.fr/particuliers/vosdroits/F816?lang=en
-  78. https://www.douane.gouv.fr/formulaire-infos-douane-service
-  79. https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_171940
-  80. https://www.douane.gouv.fr/les-cellules-conseil-aux-entreprises
-  81. https://www.legifrance.gouv.fr/codes/id/LEGISCTA000020786766/
-  82. https://www.service-public.fr/particuliers/vosdroits/R42719?lang=en
-  83. https://www.service-public.fr/particuliers/vosdroits/F819?lang=en
-  84. https://www.service-public.fr/particuliers/vosdroits/F816?lang=en
-  85. https://www.service-public.fr/particuliers/vosdroits/F3161?lang=en
-  86. https://www.service-public.fr/particuliers/vosdroits/F804?lang=en
-  87. https://www.service-public.fr/particuliers/vosdroits/F812?lang=en
-  88. https://www.douane.gouv.fr/fiche/achat-dun-vehicule-letranger-ou-dans-un-dom-com
-  89. https://www.douane.gouv.fr/fiche/carte-de-libre-circulation-passeport-des-marchandises
-  90. https://www.douane.gouv.fr/fiche/limport-ou-lexport-une-obligation-declarer-sa-marchandise
-  91. https://www.service-public.fr/actualites/lettresp/abonnement
-  92. https://www.service-public.fr/actualites/lettresp/archives/
-  93. https://www.service-public.fr/actualites/lettresp/archives
-  94. https://twitter.com/servicepublicfr
-  95. https://www.facebook.com/ServicePublicFr
-  96. https://www.linkedin.com/company/service-public-fr
-  97. https://www.youtube.com/ServicePublicFrance
-  98. https://www.service-public.fr/particuliers/vosdroits/N19810
-  99. https://www.service-public.fr/particuliers/vosdroits/N19805
- 100. https://www.service-public.fr/particuliers/vosdroits/N19811
- 101. https://www.service-public.fr/particuliers/vosdroits/N19806
- 102. https://www.service-public.fr/particuliers/vosdroits/N19808
- 103. https://www.service-public.fr/particuliers/vosdroits/N19812
- 104. https://www.service-public.fr/particuliers/vosdroits/N19803
- 105. https://www.service-public.fr/particuliers/vosdroits/N19807
- 106. https://www.service-public.fr/particuliers/vosdroits/N19804
- 107. https://www.service-public.fr/particuliers/vosdroits/N19809
- 108. https://www.service-public.fr/particuliers/vosdroits/N31931
- 109. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=teleservice
- 110. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=formulaire
- 111. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=simulateur
- 112. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=modeleLettre
- 113. https://www.service-public.fr/particuliers/recherche?rubricFilter=serviceEnLigne&rubricTypeFilter=outilrecherche
- 114. https://www.service-public.fr/particuliers/vosdroits/F33683
- 115. https://lannuaire.service-public.fr/
- 116. https://www.service-public.fr/D10002
- 117. https://www.service-public.fr/P10004
- 118. https://www.service-public.fr/P10002
- 119. https://www.service-public.fr/D10003
- 120. https://www.service-public.fr/D10000
- 121. https://www.service-public.fr/P10026
- 122. https://www.service-public.fr/P10017
- 123. https://www.dila.premier-ministre.gouv.fr/
- 124. https://www.legifrance.gouv.fr/
- 125. https://www.gouvernement.fr/
- 126. https://www.data.gouv.fr/
- 127. https://europa.eu/youreurope/index.htm#en
- 128. https://www.vie-publique.fr/
- 129. https://entreprendre.service-public.fr/
- 130. https://www.service-public.fr/P10003
- 131. https://www.service-public.fr/P10000
- 132. https://www.service-public.fr/P10125
- 133. https://www.service-public.fr/P10025
- 134. https://www.service-public.fr/P10001
- 135. https://www.service-public.fr/P10050
- 136. https://www.service-public.fr/P10001
- 137. https://github.com/etalab/licence-ouverte/blob/master/LO.md
- 138. https://sgmap.sphinxdeclic.com/d/s/wpbm9w
-
-   Hidden links:
- 140. https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12082&lang=en_uk&voice=Alice&readclass=sp-container&url=
+     * Je donne mon avis

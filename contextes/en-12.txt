@@ -6,15 +6,20 @@ UK Trade Tariff: duty suspensions and autonomous tariff quotas
    goods into the UK.
 
 --
+Contents
 
-    1. [45]Duty suspensions and autonomous tariff quotas
-    2. [46]Current duty suspensions
-    3. [47]Apply for a new duty suspension
-    4. [48]How we will assess applications in 2023
-    5. [49]Outcome of the 2021 duty suspension window
-    6. [50]Coronavirus (COVID-19) critical products
-    7. [51]Sunflower-seed oil
+    1. Duty suspensions and autonomous tariff quotas
+    2. Current duty suspensions
+    3. Apply for a new duty suspension
+    4. How we will assess applications in 2023
+    5. Outcome of the 2021 duty suspension window
+    6. Coronavirus (COVID-19) critical products
+    7. Sunflower-seed oil
 --
+   (BUTTON) Print this page
+
+Duty suspensions and autonomous tariff quotas
+
    Duty suspensions are designed to help UK and Crown Dependency
    (Guernsey, the Isle of Man and Jersey) businesses remain competitive in
    the global marketplace. They do this by suspending import duties on
@@ -24,17 +29,26 @@ UK Trade Tariff: duty suspensions and autonomous tariff quotas
    like VAT or trade remedies duty, such as anti-dumping duty.
 
    Duty suspensions allow unlimited quantities to be imported into the UK
+   at a reduced tariff rate. Autonomous tariff quotas (ATQs) allow limited
+   quantities to be imported at a reduced rate.
+
+   Duty suspensions and ATQs are temporary and can be used by any UK
+   business while in force. They are applied on a ‘Most Favoured Nation’
+   (‘MFN’) basis. This means that goods subject to these suspensions or
 --
 
-   Read guidance on [57]declaring goods ‘not at risk’ of moving to the EU
-   if you are importing goods subject to a duty suspension or an ATQ into
+   Read guidance on declaring goods ‘not at risk’ of moving to the EU if
+   you are importing goods subject to a duty suspension or an ATQ into
    Northern Ireland.
 
 Current duty suspensions
 
-   Find the current duty suspensions and quotas using the [58]Trade Tariff
+   Find the current duty suspensions and quotas using the Trade Tariff
    lookup tool.
 
+   Duty suspensions for products which previously existed in the UK under
+   the EU suspensions regime have been carried over into the UK’s
+   independent regime. They have been retained, provided they came into
 --
    continuity for UK businesses.
 
@@ -50,9 +64,15 @@ Apply for a new duty suspension
 --
    The objections window has now closed, but the list is still accessible
    below.
-     * [59]Notice of UK duty suspensions: 2023 application window (ODS,
-       28.0 KB)
+     * Notice of UK duty suspensions: 2023 application window (ODS, 28.0
+       KB)
 
+--
+     * the product you are seeking a suspension on should not be not
+       traded between persons who are related parties (defined in
+       Regulation 8(4) of the Customs Tariff (Suspension of Import Duty
+       Rates) (EU Exit) Regulations 2020) in circumstances which would not
+       enable other United Kingdom businesses to benefit from the
 --
    businesses remain competitive in the global marketplace. They do this
    by suspending, either in whole or in part, UK Global Tariff import
@@ -78,7 +98,7 @@ Outcome of the 2021 duty suspension window
    majority of these products until 31 December 2023. Three suspensions
    were expired for goods where there have been no imports under the
 --
-   Last updated 23 November 2023 [67]+ show all updates
+   Last updated 23 November 2023 + show all updates
     1. 23 November 2023
        Updating the extensions of current duty suspensions to 31 December
        2028.
@@ -151,7 +171,8 @@ Outcome of the 2021 duty suspension window
        Additional duties on Russian and Belarusian imports
    27. 21 December 2021
        Update on ATQ review of fish and raw cane sugar products.
---
+   28. 15 November 2021
+       Additional sentence added at end of section 'Duty suspensions and
        tariff quotas'.
    29. 28 October 2021
        Extension of the suspension of import duties on coronavirus
@@ -186,38 +207,8 @@ Outcome of the 2021 duty suspension window
        suspensions that will be renewed in 2013.
    41. 18 December 2012
 --
-References
 
-   1. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
---
-  42. https://www.gov.uk/government/organisations/hm-treasury
-  43. https://www.gov.uk/government/organisations/hm-revenue-customs
-  44. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#full-publication-update-history
-  45. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#duty-suspensions-and-autonomous-tariff-quotas
-  46. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#current-duty-suspensions
-  47. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#apply-for-a-new-duty-suspension
-  48. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#how-we-will-assess-applications-in-2023
-  49. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#outcome-of-the-2021-duty-suspension-window
-  50. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#coronavirus-covid-19-critical-products
-  51. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#sunflower-seed-oil
-  52. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#current-atqs
-  53. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#atqsfor-fish-products
-  54. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#atqfor-raw-cane-sugar
-  55. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#uk-global-tariff
-  56. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#contact-us
-  57. https://www.gov.uk/guidance/check-if-you-can-declare-goods-you-bring-into-northern-ireland-not-at-risk-of-moving-to-the-eu
-  58. https://www.gov.uk/trade-tariff
-  59. https://assets.publishing.service.gov.uk/media/6528ff382548ca000dddf238/notice-of-UK-duty-suspensions_2023-application-window_published-20-September-2023.ods
-  60. https://www.gov.uk/email/subscriptions/single-page/new?topic_id=uk-trade-tariff-duty-suspensions-and-tariff-quotas
-  61. https://www.legislation.gov.uk/uksi/2020/1435/made
-  62. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1123303/dit-uk-trade-tariff-list-of-suspensions.odt
---
-  65. https://www.gov.uk/guidance/tariffs-on-goods-imported-into-the-uk
-  66. mailto:tariffsuspensions@businessandtrade.gov.uk
-  67. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#full-history
-  68. https://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas#contents
-  69. https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020
-  70. https://www.gov.uk/guidance/find-out-when-to-make-an-exit-summary-declaration
-  71. https://www.gov.uk/guidance/check-if-you-can-declare-goods-you-bring-into-northern-ireland-not-at-risk-of-moving-to-the-eu
+     * Reference Documents for The Customs Tariff (Suspension of Import
+       Duty Rates) (EU Exit) Regulations 2020
+     * Find out when to make an exit summary declaration
+     * Declaring goods you bring into Northern Ireland 'not at risk’ of

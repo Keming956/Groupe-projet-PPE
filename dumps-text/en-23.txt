@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,19 +68,18 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Alcohol duties
-    3. [38]UK Trade Tariff: excise duties, reliefs, drawbacks and
-       allowances
+    1. Home
+    2. Alcohol duties
+    3. UK Trade Tariff: excise duties, reliefs, drawbacks and allowances
 
-     * [39]HM Revenue
+     * HM Revenue
        & Customs
 
    Guidance
@@ -92,20 +91,20 @@ before 31 July 2023
 
 Contents
 
-    1. [40]1. Introduction
-    2. [41]2. Wine and made-wine
-    3. [42]3. Beer
-    4. [43]4. Cider and perry
-    5. [44]5. Spirits
-    6. [45]6. Low alcohol beverages
-    7. [46]7. Imported composite goods containing alcohol
-    8. [47]8. Tobacco products
-    9. [48]9. Hydrocarbon oil
-   10. [49]10. Imported composite goods containing mineral oils
-   11. [50]11. Climate Change Levy
-   12. [51]12. Biofuels
-   13. [52]13. Reliefs from excise duty
-   14. [53]14. Excise drawbacks and allowances
+    1. 1. Introduction
+    2. 2. Wine and made-wine
+    3. 3. Beer
+    4. 4. Cider and perry
+    5. 5. Spirits
+    6. 6. Low alcohol beverages
+    7. 7. Imported composite goods containing alcohol
+    8. 8. Tobacco products
+    9. 9. Hydrocarbon oil
+   10. 10. Imported composite goods containing mineral oils
+   11. 11. Climate Change Levy
+   12. 12. Biofuels
+   13. 13. Reliefs from excise duty
+   14. 14. Excise drawbacks and allowances
 
    (BUTTON) Print this page
 
@@ -116,9 +115,9 @@ Contents
 
    This publication is licensed under the terms of the Open Government
    Licence v3.0 except where otherwise stated. To view this licence, visit
-   [54]nationalarchives.gov.uk/doc/open-government-licence/version/3 or
-   write to the Information Policy Team, The National Archives, Kew,
-   London TW9 4DU, or email: [55]psi@nationalarchives.gov.uk.
+   nationalarchives.gov.uk/doc/open-government-licence/version/3 or write
+   to the Information Policy Team, The National Archives, Kew, London TW9
+   4DU, or email: psi@nationalarchives.gov.uk.
 
    Where we have identified any third party copyright information you will
    need to obtain permission from the copyright holders concerned.
@@ -144,9 +143,9 @@ Contents
      * Climate Change Levy
      * biofuels
 
-   Use this guide with the [56]Trade Tariff: look up commodity codes, duty
-   and VAT rates to help with commodity code numbers (for example, 2204 10
-   11 for certain wines).
+   Use this guide with the Trade Tariff: look up commodity codes, duty and
+   VAT rates to help with commodity code numbers (for example, 2204 10 11
+   for certain wines).
 
    This part also contains some information and reference about excise
    drawback and excise duty reliefs.
@@ -179,10 +178,9 @@ Contents
    addition to the commodity description and code number each excisable
    item has allocated a tax type code number (for example, 451 for
    spirits). These identify the type and rate of excise duty payable. They
-   are included in the tables listed in section [57]Wine and made-wine.
-   [58]UK Trade Tariff: Box 47(a) tax type codes also lists tax codes
-   which are declared on the Single Administrative Document (SAD) import
-   document.
+   are included in the tables listed in section Wine and made-wine. UK
+   Trade Tariff: Box 47(a) tax type codes also lists tax codes which are
+   declared on the Single Administrative Document (SAD) import document.
 
 2. Wine and made-wine
 
@@ -216,8 +214,8 @@ Contents
    Still or sparkling exceeding 22% ABV 429 £28.74 per litre of alcohol in
    the wine
 
-   See section on [59]Low alcohol beverages for strengths not exceeding
-   5.5% ABV.
+   See section on Low alcohol beverages for strengths not exceeding 5.5%
+   ABV.
 
 2.1 Definitions and notes
 
@@ -226,7 +224,7 @@ Contents
    fortified with spirits or flavoured with aromatic extracts.
 
    ‘Made-wine’ means any liquor obtained from the alcoholic fermentation
-   of any substance but [60]does not include wine, beer, spirits or cider.
+   of any substance but does not include wine, beer, spirits or cider.
 
    Wine or made-wine is chargeable at the sparkling rate if either:
      * the pressure in the container measured at 20°C is not less than 3
@@ -320,7 +318,7 @@ Contents
    Low alcohol beverages made from malt exceeding 0.5% ABV but not
    exceeding 1.2% ABV are not liable to excise duty.
 
-   Examples of beer-based beverages are set out in the section on [61]Low
+   Examples of beer-based beverages are set out in the section on Low
    alcohol beverages which also shows the rate of excise duty for these
    products up to 5.5% ABV. Beer and spirits mixtures exceeding 1.2% ABV
    are liable to duty at the spirits rate. Beer mixtures containing
@@ -363,8 +361,7 @@ Contents
    more, or (b) if the container has a mushroom stopper held in place by a
    tie or fastening — regardless of the pressure.
 
-   See section on [62]Wine and made-wine for definition of ‘mushroom
-   stopper.’
+   See section on Wine and made-wine for definition of ‘mushroom stopper.’
 
 5. Spirits
 
@@ -427,8 +424,8 @@ Contents
    dutiable as a ‘made-wine’.
 
    This does not include cider, perry and beer as defined in sections for
-   [63]cider and perry and [64]beer. The following are classified as
-   beer-based beverages:
+   cider and perry and beer. The following are classified as beer-based
+   beverages:
      * shandy made with lemonade, or a mixture of beer and lemonade, lemon
        cordial, lemon flavouring, lemon juice, or lemon squash
      * lager-and-lime, or a mixture of beer and lime cordial, lime
@@ -465,9 +462,9 @@ Contents
    Medical preparations — spirits in mixture, compounds or other
    preparations which are recognised by the Commissioners as being used
    for medical purposes and which are in fact used for those purposes.
-   See [65]Excise Notice 47. Nil
+   See Excise Notice 47. Nil
    Goods unfit for human consumption containing spirits, for example,
-   perfumed goods, paints, dye stuffs, inks. See [66]Excise Notice 64. Nil
+   perfumed goods, paints, dye stuffs, inks. See Excise Notice 64. Nil
 
 8. Tobacco products
 
@@ -490,7 +487,7 @@ Contents
    in the Tobacco Products (Descriptions of Products) Order 2003 SI
    2003/1471. The following is a summary of those definitions.
 
-   ‘Tobacco products’ means any of the [67]products listed which are
+   ‘Tobacco products’ means any of the products listed which are
    manufactured wholly or partly from tobacco or any substance used as a
    substitute for tobacco but does not include herbal smoking products.
 
@@ -632,7 +629,7 @@ Contents
    for use solely as fuel for aircraft.
 
    ‘Light oil furnace fuel’ means light oil delivered to approved furnace
-   operators in accordance with the provisions of [68]Excise Notice 184A,
+   operators in accordance with the provisions of Excise Notice 184A,
    section 5.
 
    ‘Unleaded petrol’ means petrol containing not more than 0.013gm of lead
@@ -646,12 +643,12 @@ Contents
    ‘Sulphur free petrol’ means unleaded petrol the sulphur content of
    which does not exceed 0.001% by weight (or is nil).
 
-   ‘Heavy oil’ means hydrocarbon oil [69]other than light oil.
+   ‘Heavy oil’ means hydrocarbon oil other than light oil.
 
    ‘DERV’ means heavy oil intended for use as fuel for a mechanically
    propelled vehicle which is constructed or adapted for use on roads
-   (with certain exceptions, details of which are given in [70]Excise
-   Notice 75).
+   (with certain exceptions, details of which are given in Excise Notice
+   75).
 
    ‘Ultra low sulphur diesel’ means gas oil:
      * the sulphur content of which does not exceed 0.005% by weight or is
@@ -689,22 +686,22 @@ Contents
 
    Eligibility for rebate, as set out, is restricted as follows.
 
-   Light oil furnace fuel — must be delivered marked and dyed ([71]Excise
+   Light oil furnace fuel — must be delivered marked and dyed (Excise
    Notice 179, paragraph 8.4), or unmarked under individual ‘supplier’ or
    ‘user’ marking waiver.
 
    Unleaded petrol — qualifies for rebate without marking or other
-   restriction provided it [72]meets the definition.
+   restriction provided it meets the definition.
 
    Aviation turbine kerosene — may be delivered unmarked, for example, as
-   aircraft fuel under marking waiver ([73]Excise Notice 179).
+   aircraft fuel under marking waiver (Excise Notice 179).
 
-   Other kerosene — must be marked ([74]Excise Notice 179, paragraph 8.4)
+   Other kerosene — must be marked (Excise Notice 179, paragraph 8.4)
    unless delivered under an individual ‘user or dealer’ marking waiver
    (Excise Notice 179), or imported in containers not exceeding 2.5 litres
    capacity and not for use as road fuel.
 
-   Gas oil — must be marked ([75]Excise Notice 179, paragraph 8.4), unless
+   Gas oil — must be marked (Excise Notice 179, paragraph 8.4), unless
    delivered under an individual ‘user’ or ‘dealer’ marking waiver, or
    imported in containers not exceeding 2.5 litres capacity and not for
    use as road fuel.
@@ -716,7 +713,7 @@ Contents
    Markers must not be present in any oil (whether light or heavy)
    imported for delivery as road fuel or road fuel extender. The
    prohibitions relating to markers and obscuration of markers which must
-   be observed are set out in [76]Excise Notice 179.
+   be observed are set out in Excise Notice 179.
 
    The excise duty on hydrocarbon oil removed to a refinery, instead of
    being charged at the time of importation, is charged on the delivery of
@@ -729,7 +726,7 @@ Contents
    From 15 October 1993 the unit for calculation of duty on hydrocarbon
    oils is the standard litre, that is, litres at 15°C. If not already
    expressed in those terms quantities will need to be converted. Further
-   information can be found in [77]Excise Notice 179 Appendix l.’
+   information can be found in Excise Notice 179 Appendix l.’
 
    It’s illegal for any person to mix any oil on which no rebate of excise
    duty has been allowed with:
@@ -745,7 +742,7 @@ Contents
    solid or semi-solid at a temperature of 15°C, and for the distillation
    characteristics of oil, are those laid down by the Institute of
    Petroleum and the Standardisation of Tar Products Test Committee.
-   Further information can be found in [78]Notice 179, Appendix C.
+   Further information can be found in Notice 179, Appendix C.
 
 10. Imported composite goods containing mineral oils
 
@@ -849,7 +846,7 @@ Scope of relief and statutory provision
 Nature and conditions of relief
 
    Duty paid on alcohol which has been used for these purposes can be
-   claimed back (see [79]Excise Notice 41), section 4.
+   claimed back (see Excise Notice 41), section 4.
 
 13.3 Beer
 
@@ -863,34 +860,34 @@ Nature and conditions of relief
 
    Remission or repayment of duty (see the Beer Regulations 1993).
    Statutory Instrument 1993/1228/ — Part IX covers spoilt beer (see
-   [80]Excise Notice 226).
+   Excise Notice 226).
 
 13.4 Spirits
 
    Scope of relief and statutory provision Nature and conditions of relief
    Contained in an article, imported or delivered from warehouse,
    recognised as being used for medical purposes (Alcoholic Liquor Duties
-   Act 1979, section 7). Free of duty (see [81]Excise Notice 47).
+   Act 1979, section 7). Free of duty (see Excise Notice 47).
    Proved to the satisfaction of the Commissioners of Revenue and Customs
    to have been used for scientific purposes or used solely in the
    manufacture or preparation of articles recognized by them as being used
    for medical purposes. (Alcoholic Liquor Duties Act 1979, section 8).
    Spirits for these purposes can be used for received duty free, from an
-   excise warehouse by trades as properly authorized (see [82]Excise
-   Notice 47).
+   excise warehouse by trades as properly authorized (see Excise Notice
+   47).
    Delivered from excise warehouse for use in the conditions manufacture
    of denatured alcohol. (Alcoholic Liquor Duties Act 1979, section 75).
    Free of spirits duty subject to such as the Commissioners see fit to
-   impose (see [83]Excise Notice 473).
+   impose (see Excise Notice 473).
    Delivered from excise warehouse to authorised persons for use in any
    art or manufacture where the Commissioners of Revenue and Customs are
    satisfied that the use of denatured alcohol is unsuitable or
    detrimental (Alcoholic Liquor Duties Act 1979, section 10). Free of
    duty subject to such conditions as the Commissioners see fit to impose
-   (see [84]Excise Notice 47).
+   (see Excise Notice 47).
    Contained in goods not for human consumption (Alcoholic Liquor Duties
    Act 1979, section 11). Free of duty, subject to certain conditions (see
-   [85]Excise Notice 64).
+   Excise Notice 64).
    Used in warehouse in specified proportions to fortify made-wine or wine
    (Alcoholic Liquor Duties Act 1979, sections 57 and 68). Free of spirits
    duty subject to such conditions as the Commissioners see fit to impose.
@@ -905,7 +902,7 @@ Scope of relief and statutory provision
 Nature and conditions of relief
 
    Free of duty subject to such conditions as the Commissioners see fit to
-   impose (see [86]Excise Notice 476).
+   impose (see Excise Notice 476).
 
 13.6 Hydrocarbon oil
 
@@ -913,24 +910,24 @@ Nature and conditions of relief
    Used on board vessels including hovercraft but not pleasure craft
    engaged on marine voyages (Hydrocarbon Oil Duties Act (Marine Voyager
    Reliefs) Regulations 1996). Light oil — repayment of duty paid.
-   Heavy oil — shipment duty-free or repayment of duty paid (see
-   [87]Excise Notice 263).
+   Heavy oil — shipment duty-free or repayment of duty paid (see Excise
+   Notice 263).
    Consumed in premises approved by the Commissioners of Revenue and
    Customs as a refinery in a process of chemical conversion into
    substances other than hydrocarbon oil. (Hydrocarbon Oil Duties Act
-   1979, section 6). Free of duty (see [88]Excise Notice 179).
+   1979, section 6). Free of duty (see Excise Notice 179).
    Heavy oil used in horticulture. (Hydrocarbon Oil Duties Act 1979,
-   section 17). Repayment of duty (see [89]Excise Notice 183).
+   section 17). Repayment of duty (see Excise Notice 183).
    Delivered to a person approved by the Commissioners for use other than
    as motor fuel (including as extender or additive to motor fuel) or as
    heating fuel. (Hydrocarbon Oil Duties Act 1979, section 9). Delivery or
    importation free of duty or repayment of any excise duty paid (see
-   [90]Excise Notice 184A).
+   Excise Notice 184A).
    Rebated oil used as fuel in power plants producing energy for the
    treatment or production of oil at refineries or producers’ premises.
    (Hydrocarbon Oil Duties Act 1979, sections 19A and 27(1)). Free of
    excise duty if eligible for full relief, repayment of excise duty if
-   eligible for partial relief (see [91]Excise Notice 179, Appendix K).
+   eligible for partial relief (see Excise Notice 179, Appendix K).
 
 14. Excise drawbacks and allowances
 
@@ -950,25 +947,25 @@ Beer
 
    Drawback equal to the excise duty shown to the satisfaction of the
    Commissioners of Revenue and Customs to have been paid (see paragraph
-   on [92]Beer) may be claimed on beer imported or removed from the Isle
-   of Man or produced in the UK on which it is shown that excise duty has
+   on Beer) may be claimed on beer imported or removed from the Isle of
+   Man or produced in the UK on which it is shown that excise duty has
    been paid upon being exported, or shipped as stores.
 
 Conditions and rates — hydrocarbon oil
 
    Drawback equal to the excise duty shown to the satisfaction of the
-   Commissioners to have been paid (see paragraph on [93]Hydrocardon Oil)
-   may be claimed on hydrocarbon oil or any article containing hydrocarbon
-   oil either as an ingredient of manufacture or preparation, or as a
+   Commissioners to have been paid (see paragraph on Hydrocardon Oil) may
+   be claimed on hydrocarbon oil or any article containing hydrocarbon oil
+   either as an ingredient of manufacture or preparation, or as a
    component of such an ingredient upon being exported, or shipped as
    stores, or warehoused for use as stores, or loaded into any aircraft
    for use on a flight to an eventual destination outside the UK (see
-   [94]Excise Notice 172).
-   [95]Back to top
+   Excise Notice 172).
+   Back to top
 
 Is this page useful?
 
-     * [96]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -1001,179 +998,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [97]Benefits
-     * [98]Births, death, marriages and care
-     * [99]Business and self-employed
-     * [100]Childcare and parenting
-     * [101]Citizenship and living in the UK
-     * [102]Crime, justice and the law
-     * [103]Disabled people
-     * [104]Driving and transport
-     * [105]Education and learning
-     * [106]Employing people
-     * [107]Environment and countryside
-     * [108]Housing and local services
-     * [109]Money and tax
-     * [110]Passports, travel and living abroad
-     * [111]Visas and immigration
-     * [112]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [113]Departments
-     * [114]News
-     * [115]Guidance and regulation
-     * [116]Research and statistics
-     * [117]Policy papers and consultations
-     * [118]Transparency
-     * [119]How government works
-     * [120]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [121]Help
-     * [122]Privacy
-     * [123]Cookies
-     * [124]Accessibility statement
-     * [125]Contact
-     * [126]Terms and conditions
-     * [127]Rhestr o Wasanaethau Cymraeg
-     * [128]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [129]Open Government Licence v3.0,
-   except where otherwise stated
-   [130]© Crown copyright
-
-References
-
-   1. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/topic/business-tax/alcohol-duties
-  38. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances
-  39. https://www.gov.uk/government/organisations/hm-revenue-customs
-  40. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#introduction
-  41. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine-and-made-wine
-  42. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  43. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#cider-and-perry
-  44. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#spirits
-  45. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#low-alcohol-beverages
-  46. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-alcohol
-  47. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
-  48. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hydrocarbon-oil
-  49. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-mineral-oils
-  50. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#climate-change-levy
-  51. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#biofuels
-  52. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#reliefs-from-excise-duty
-  53. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#excise-drawbacks-and-allowances
-  54. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
-  55. mailto:psi@nationalarchives.gov.uk
-  56. https://www.gov.uk/trade-tariff
-  57. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
-  58. https://www.gov.uk/government/publications/uk-trade-tariff-box-47a-tax-type-codes
-  59. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  60. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine
-  61. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  62. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
-  63. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#candd
-  64. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  65. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  66. https://www.gov.uk/government/publications/excise-notice-64-spirits-in-imported-goods-remission-of-excise-duty
-  67. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
-  68. https://www.gov.uk/guidance/get-relief-for-mineral-oil-put-to-certain-uses-excise-notice-184a#general-information-about-the-approved-distributor-and-user-scheme
-  69. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#light-oil
-  70. https://www.gov.uk/government/publications/excise-notice-75-fuel-for-road-vehicles
-  71. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  72. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#unleaded-petrol
-  73. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  74. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  75. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  76. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  77. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-I
-  78. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-c
-  79. https://www.gov.uk/government/publications/excise-notice-41-alcoholic-ingredients-relief/excise-notice-41-alcoholic-ingredients-relief#sec4
-  80. https://www.gov.uk/government/publications/excise-notice-226-beer-duty
-  81. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  82. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  83. https://www.gov.uk/government/publications/excise-notice-473-production-distribution-and-use-of-denatured-alcohol
-  84. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
-  85. https://www.gov.uk/government/publications/excise-notice-64-spirits-in-imported-goods-remission-of-excise-duty
-  86. https://www.gov.uk/government/publications/excise-notice-476-tobacco-products-duty
-  87. https://www.gov.uk/government/publications/excise-notice-263-marine-voyages-excise-duty-relief-for-mineral-hydrocarbon-oil
-  88. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  89. https://www.gov.uk/government/publications/excise-notice-183-repayment-of-excise-duty-on-heavy-oil-used-by-growers-of-horticultural-produce
-  90. https://www.gov.uk/government/publications/excise-notice-184a-mineral-oil-put-to-certain-use-excise-duty-relief
-  91. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-k
-  92. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  93. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hoil
-  94. https://www.gov.uk/government/publications/excise-notice-172-excise-duty-drawback-ships-and-aircraft-stores
-  95. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#contents
-  96. https://www.gov.uk/contact/govuk
-  97. https://www.gov.uk/browse/benefits
-  98. https://www.gov.uk/browse/births-deaths-marriages
-  99. https://www.gov.uk/browse/business
- 100. https://www.gov.uk/browse/childcare-parenting
- 101. https://www.gov.uk/browse/citizenship
- 102. https://www.gov.uk/browse/justice
- 103. https://www.gov.uk/browse/disabilities
- 104. https://www.gov.uk/browse/driving
- 105. https://www.gov.uk/browse/education
- 106. https://www.gov.uk/browse/employing-people
- 107. https://www.gov.uk/browse/environment-countryside
- 108. https://www.gov.uk/browse/housing-local-services
- 109. https://www.gov.uk/browse/tax
- 110. https://www.gov.uk/browse/abroad
- 111. https://www.gov.uk/browse/visas-immigration
- 112. https://www.gov.uk/browse/working
- 113. https://www.gov.uk/government/organisations
- 114. https://www.gov.uk/search/news-and-communications
- 115. https://www.gov.uk/search/guidance-and-regulation
- 116. https://www.gov.uk/search/research-and-statistics
- 117. https://www.gov.uk/search/policy-papers-and-consultations
- 118. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
- 119. https://www.gov.uk/government/how-government-works
- 120. https://www.gov.uk/government/get-involved
- 121. https://www.gov.uk/help
- 122. https://www.gov.uk/help/privacy-notice
- 123. https://www.gov.uk/help/cookies
- 124. https://www.gov.uk/help/accessibility-statement
- 125. https://www.gov.uk/contact
- 126. https://www.gov.uk/help/terms-conditions
- 127. https://www.gov.uk/cymraeg
- 128. https://www.gov.uk/government/organisations/government-digital-service
- 129. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
- 130. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

@@ -1,66 +1,66 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-KTFV6V7
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KTFV6V7
 
    (BUTTON)
-   [2]Marines Logo
-     * [3]Request Information
+   Marines Logo
+     * Request Information
 
    (BUTTON)
-     * [4]About The Marine Corps
-          + [5]Who Are the Marines?
-               o [6]Marine Corps Purpose
-               o [7]History of the Marine Corps
-               o [8]Semper Fidelis
-               o [9]Marine Corps Uniforms & Symbols
-          + [10]Roles in the Marines
-               o [11]Military Occupational Specialty
-               o [12]Marine Corps Ranks
-               o [13]Musician Enlistment Option Program
-               o [14]Marine Judge Advocates
-          + [15]Marine Corps Structure
-               o [16]Marine Air-Ground Task Force
-               o [17]Marines Innovation
-               o [18]Weapons, Vehicles, Aircraft and Gear
-               o [19]Special Duties and Other Assignments
-               o [20]Marine Corps Reserve
-     * [21]Life As a Marine
-          + [22]Marine Corps Standards
-               o [23]Marine Corps Values
-               o [24]Marine Mindset
-               o [25]Physical Fitness
-               o [26]Battle Ready
-          + [27]Marine Corps Benefits
-               o [28]Purpose and Belonging
-               o [29]Salary and Compensation
-               o [30]Education Benefits
-               o [31]Health Benefits
-          + [32]Life in the Marine Corps
-               o [33]Preparing for the Operating Forces
-               o [34]Life on Base
-               o [35]Once a Marine Always a Marine
-               o [36]Always Faithful. Always Marine.
-     * [37]Become A Marine
-          + [38]Process to Become a Marine
-               o [39]Recruit Training
-               o [40]Delayed Entry Program
-               o [41]How to Commission as a Marine Officer
-               o [42]Officer Candidates School
-          + [43]Marine Corps Requirements
-               o [44]General Requirements
-               o [45]Physical Requirements
-          + [46]Benefit Explorer
-     * [47]Parents & Families
-          + [48]Why the Marine Corps?
-          + [49]What Families can Expect
-          + [50]FAQs for Parents
-     * [51]Explore The Corps
-          + [52]BATTLES WON STORIES
-          + [53]Shifting Threats
-          + [54]FAQs
+     * About The Marine Corps
+          + Who Are the Marines?
+               o Marine Corps Purpose
+               o History of the Marine Corps
+               o Semper Fidelis
+               o Marine Corps Uniforms & Symbols
+          + Roles in the Marines
+               o Military Occupational Specialty
+               o Marine Corps Ranks
+               o Musician Enlistment Option Program
+               o Marine Judge Advocates
+          + Marine Corps Structure
+               o Marine Air-Ground Task Force
+               o Marines Innovation
+               o Weapons, Vehicles, Aircraft and Gear
+               o Special Duties and Other Assignments
+               o Marine Corps Reserve
+     * Life As a Marine
+          + Marine Corps Standards
+               o Marine Corps Values
+               o Marine Mindset
+               o Physical Fitness
+               o Battle Ready
+          + Marine Corps Benefits
+               o Purpose and Belonging
+               o Salary and Compensation
+               o Education Benefits
+               o Health Benefits
+          + Life in the Marine Corps
+               o Preparing for the Operating Forces
+               o Life on Base
+               o Once a Marine Always a Marine
+               o Always Faithful. Always Marine.
+     * Become A Marine
+          + Process to Become a Marine
+               o Recruit Training
+               o Delayed Entry Program
+               o How to Commission as a Marine Officer
+               o Officer Candidates School
+          + Marine Corps Requirements
+               o General Requirements
+               o Physical Requirements
+          + Benefit Explorer
+     * Parents & Families
+          + Why the Marine Corps?
+          + What Families can Expect
+          + FAQs for Parents
+     * Explore The Corps
+          + BATTLES WON STORIES
+          + Shifting Threats
+          + FAQs
 
    (BUTTON) Clear
    (BUTTON) Search
     1. About The Marine Corps
-    2. [55]Marine Corps Structure
+    2. Marine Corps Structure
     3. Special Duties and Other Assignments
 
 Special Duties & Other Assignments
@@ -73,7 +73,7 @@ SPECIAL DUTIES. EXTRAORDINARY ROLES.
    generation of United States Marines, or even serving the United States
    Special Operations Command as a MARSOC Raider. These duties are earned
    by Marines who have proven their exceptional ability to fight and win
-   in the primary [56]Military Occupational Specialties (MOSs).
+   in the primary Military Occupational Specialties (MOSs).
      __________________________________________________________________
 
 BEYOND THE CALL OF NORMAL DUTY.
@@ -143,139 +143,53 @@ MARINE CORPS SPECIAL OPERATIONS COMMAND
    canine operations.
      __________________________________________________________________
 
-[57]CONTACT A RECRUITER
+CONTACT A RECRUITER
 
    Gain direct access to a Marine Recruiter who has fought alongside
    Marines and is prepared to show you how to become one.
-   [58]CONTACT A RECRUITER
+   CONTACT A RECRUITER
 
-[59]FAQS
+FAQS
 
    One doesn't consider an endeavor of this magnitude without having
    questions. Here are some of the most common.
-   [60]SEE FAQs
+   SEE FAQs
      __________________________________________________________________
 
 RELATED CONTENT
 
-[61]MILITARY OCCUPATIONAL SPECIALTY (MOS)
+MILITARY OCCUPATIONAL SPECIALTY (MOS)
 
    It takes many different roles to win our Nation’s collective fight.
    These are the many ways in which optimally trained Marines take part in
    a common moral cause.
-   [62]LEARN MORE
+   LEARN MORE
 
-[63]MARINE AIR-GROUND TASK FORCE
+MARINE AIR-GROUND TASK FORCE
 
    This is the organizational structure that ensures remain ready to fight
    and win for our Nation all over the globe.
-   [64]LEARN MORE
+   LEARN MORE
 
-[65]MARINE CORPS RESERVE
+MARINE CORPS RESERVE
 
    Reserve Marines are ready to supplement Marine active-duty forces when
    called upon, providing our Nation with a balanced, prepared force to
    win its battles.
-   [66]LEARN MORE
-     * [67]Request Information
-     * [68]Locations
+   LEARN MORE
+     * Request Information
+     * Locations
 
-     * [69]COVID-19 Response
-     * [70]COMMUNITY GUIDELINES
+     * COVID-19 Response
+     * COMMUNITY GUIDELINES
 
-     * [71]MARINES.MIL
-     * [72]Privacy Policy
-     * [73]Cookie Settings
-     * [74]Terms of Use
-     * [75]Sitemap
+     * MARINES.MIL
+     * Privacy Policy
+     * Cookie Settings
+     * Terms of Use
+     * Sitemap
 
    © 2021 U.S. Marine Corps
    Marines Logo
 
    © 2021 U.S. Marine Corps
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-KTFV6V7
-   2. https://www.marines.com/
-   3. https://www.marines.com/request-information.html
-   4. https://www.marines.com/about-the-marine-corps.html
-   5. https://www.marines.com/about-the-marine-corps/who-are-the-marines.html
-   6. https://www.marines.com/about-the-marine-corps/who-are-the-marines/purpose.html
-   7. https://www.marines.com/about-the-marine-corps/who-are-the-marines/history.html
-   8. https://www.marines.com/about-the-marine-corps/who-are-the-marines/semper-fidelis.html
-   9. https://www.marines.com/about-the-marine-corps/who-are-the-marines/uniforms-symbols.html
-  10. https://www.marines.com/about-the-marine-corps/roles.html
-  11. https://www.marines.com/about-the-marine-corps/roles/military-occupational-specialty.html
-  12. https://www.marines.com/about-the-marine-corps/roles/ranks.html
-  13. https://www.marines.com/about-the-marine-corps/roles/musician-enlistment-option-program.html
-  14. https://www.marines.com/about-the-marine-corps/roles/judge-advocate-division.html
-  15. https://www.marines.com/about-the-marine-corps/marine-corps-structure.html
-  16. https://www.marines.com/about-the-marine-corps/marine-corps-structure/air-ground-task-force.html
-  17. https://www.marines.com/about-the-marine-corps/marine-corps-structure/innovation.html
-  18. https://www.marines.com/about-the-marine-corps/marine-corps-structure/weapons-vehicles-aircraft-gear.html
-  19. https://www.marines.com/about-the-marine-corps/marine-corps-structure/special-duties-other-assignments.html
-  20. https://www.marines.com/about-the-marine-corps/marine-corps-structure/marine-corps-reserve.html
-  21. https://www.marines.com/life-as-a-marine.html
-  22. https://www.marines.com/life-as-a-marine/standards.html
-  23. https://www.marines.com/life-as-a-marine/standards/values.html
-  24. https://www.marines.com/life-as-a-marine/standards/marine-mindset.html
-  25. https://www.marines.com/life-as-a-marine/standards/physical-fitness.html
-  26. https://www.marines.com/life-as-a-marine/standards/battle-ready.html
-  27. https://www.marines.com/life-as-a-marine/benefits.html
-  28. https://www.marines.com/life-as-a-marine/benefits/purpose-and-belonging.html
-  29. https://www.marines.com/life-as-a-marine/benefits/salary-compensation.html
-  30. https://www.marines.com/life-as-a-marine/benefits/education.html
-  31. https://www.marines.com/life-as-a-marine/benefits/health.html
-  32. https://www.marines.com/life-as-a-marine/life-in-the-marine-corps.html
-  33. https://www.marines.com/life-as-a-marine/life-in-the-marine-corps/preparing-for-operating-forces.html
-  34. https://www.marines.com/life-as-a-marine/life-in-the-marine-corps/life-on-base.html
-  35. https://www.marines.com/life-as-a-marine/life-in-the-marine-corps/once-a-marine-always-a-marine.html
-  36. https://www.marines.com/life-as-a-marine/life-in-the-marine-corps/always-faithful-always-marine.html
-  37. https://www.marines.com/become-a-marine.html
-  38. https://www.marines.com/become-a-marine/process-to-join.html
-  39. https://www.marines.com/become-a-marine/process-to-join/recruit-training.html
-  40. https://www.marines.com/become-a-marine/process-to-join/delayed-entry-program.html
-  41. https://www.marines.com/become-a-marine/process-to-join/become-an-officer.html
-  42. https://www.marines.com/become-a-marine/process-to-join/officer-candidates-school.html
-  43. https://www.marines.com/become-a-marine/requirements.html
-  44. https://www.marines.com/become-a-marine/requirements/general.html
-  45. https://www.marines.com/become-a-marine/requirements/physical-fitness.html
-  46. https://www.marines.com/become-a-marine/benefit-explorer.html
-  47. https://www.marines.com/parents-families.html
-  48. https://www.marines.com/parents-families/why-the-marine-corps.html
-  49. https://www.marines.com/parents-families/what-to-expect.html
-  50. https://www.marines.com/parents-families/faq-for-parents.html
-  51. https://www.marines.com/explore-the-corps.html
-  52. https://www.marines.com/explore-the-corps/battles-won.html
-  53. https://www.marines.com/explore-the-corps/shifting-threats.html
-  54. https://www.marines.com/explore-the-corps/frequently-asked-questions.html
-  55. https://www.marines.com/about-the-marine-corps/marine-corps-structure.html
-  56. https://www.marines.com/about-the-marine-corps/roles/military-occupational-specialty.html
-  57. https://www.marines.com/request-information.html
-  58. https://www.marines.com/request-information.html
-  59. https://www.marines.com/explore-the-corps/frequently-asked-questions.html
-  60. https://www.marines.com/explore-the-corps/frequently-asked-questions.html
-  61. https://www.marines.com/about-the-marine-corps/roles/military-occupational-specialty.html
-  62. https://www.marines.com/about-the-marine-corps/roles/military-occupational-specialty.html
-  63. https://www.marines.com/about-the-marine-corps/marine-corps-structure/air-ground-task-force.html
-  64. https://www.marines.com/about-the-marine-corps/marine-corps-structure/air-ground-task-force.html
-  65. https://www.marines.com/about-the-marine-corps/marine-corps-structure/marine-corps-reserve.html
-  66. https://www.marines.com/about-the-marine-corps/marine-corps-structure/marine-corps-reserve.html
-  67. https://www.marines.com/request-information.html
-  68. https://www.marines.com/locations.html
-  69. https://www.marines.com/covid-19.html
-  70. https://www.marines.com/community-guidelines.html
-  71. https://www.marines.com/marines-mil.html
-  72. https://www.marines.com/privacy-policy.html
-  73. javascript:void(0);
-  74. https://www.marines.com/terms-of-use.html
-  75. https://www.marines.com/sitemap.html
-
-   Hidden links:
-  77. https://twitter.com/USMarineCorps
-  78. https://www.youtube.com/user/ourmarines
-  79. https://www.snapchat.com/add/USMCRecruiting
-  80. https://www.facebook.com/marinecorps
-  81. https://www.instagram.com/usmarinecorps/

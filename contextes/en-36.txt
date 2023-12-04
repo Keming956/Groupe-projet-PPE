@@ -1,26 +1,26 @@
-          + [40]Value added tax (VAT)
-          + [41]VAT and Administrative Cooperation
-          + [42]Excise duties
-          + [43]Tax Co-operation and control
-          + [44]Economic analysis of taxation
+          + Value added tax (VAT)
+          + VAT and Administrative Cooperation
+          + Excise duties
+          + Tax Co-operation and control
+          + Economic analysis of taxation
 --
-          + [54]AEO (Authorised Economic Operator)
-          + [55]Prohibitions and Restrictions
-          + [56]Calculation of customs duties
-          + [57]Customs controls
-          + [58]Customs Laboratories
+          + AEO (Authorised Economic Operator)
+          + Prohibitions and Restrictions
+          + Calculation of customs duties
+          + Customs controls
+          + Customs Laboratories
 --
     2. (BUTTON) …
-    3. [78]Customs
-    4. [79]Calculation of customs duties
-    5. [80]Customs Tariff
+    3. Customs
+    4. Calculation of customs duties
+    5. Customs Tariff
     6. EU Customs Tariff (TARIC)
 --
 
      * Tariff measures
           + "Third country duty”, customs duty applicable to all imports
             originating in a non-EU country/territory, as defined in the
-            [84]Combined Nomenclature
+            Combined Nomenclature
 --
      * Agricultural measures
           + Agricultural components
@@ -33,66 +33,3 @@
           + Antidumping duties and countervailing duties
           + Safeguard measures
      * Prohibitions and restrictions to import and export
---
-References
-
-   1. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_de
-   2. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-   3. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fr
-   4. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en#main-content
-   5. https://commission.europa.eu/index_en
-   6. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-   7. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_bg
-   8. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_es
-   9. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_cs
-  10. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_da
-  11. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_de
-  12. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_et
-  13. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_el
-  14. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-  15. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fr
-  16. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_ga
-  17. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_hr
-  18. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_it
-  19. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_lv
-  20. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_lt
-  21. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_hu
-  22. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_mt
-  23. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_nl
-  24. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_pl
-  25. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_pt
-  26. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_ro
-  27. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sk
-  28. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sl
-  29. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fi
-  30. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sv
-  31. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-  32. https://commission.europa.eu/business-economy-euro_en
-  33. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-  34. https://taxation-customs.ec.europa.eu/index_en
-  35. https://taxation-customs.ec.europa.eu/taxation-1_en
---
-  40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
-  41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
-  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
-  43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
-  44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
---
-  54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
-  55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
-  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
-  57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
-  58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
---
-  77. https://taxation-customs.ec.europa.eu/index_en
-  78. https://taxation-customs.ec.europa.eu/customs-4_en
-  79. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
-  80. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff_en
-  81. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp
-  82. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en
-  83. http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2658:en:NOT
-  84. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/combined-nomenclature_en
-  85. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/suspensions-autonomous-tariff-suspensions_en
-  86. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/quota-tariff-quotas-and-ceilings_en
-  87. http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012R1106:EN:NOT
-  88. https://circabc.europa.eu/w/browse/0e5f18c2-4b2f-42e9-aed4-dfe50ae1263b

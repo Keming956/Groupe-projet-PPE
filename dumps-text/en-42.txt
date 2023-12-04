@@ -1,171 +1,171 @@
 
 
-   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
 
    (BUTTON)
-     * [2]Investing
-          + [3]Stocks
-          + [4]Bonds
-          + [5]ETFs
-          + [6]Options and Derivatives
-          + [7]Commodities
-          + [8]Trading
-          + [9]FinTech and Automated Investing
-          + [10]Brokers
-          + [11]Fundamental Analysis
-          + [12]Technical Analysis
-          + [13]Markets
-          + [14]View All
-     * [15]Simulator
-          + [16]Login / Portfolio
-          + [17]Trade
-          + [18]Research
-          + [19]My Games
-          + [20]Leaderboard
-     * [21]Banking
-          + [22]Savings Accounts
-          + [23]Certificates of Deposit (CDs)
-          + [24]Money Market Accounts
-          + [25]Checking Accounts
-          + [26]View All
-     * [27]Personal Finance
-          + [28]Budgeting and Saving
-          + [29]Personal Loans
-          + [30]Insurance
-          + [31]Mortgages
-          + [32]Credit and Debt
-          + [33]Student Loans
-          + [34]Taxes
-          + [35]Credit Cards
-          + [36]Financial Literacy
-          + [37]Retirement
-          + [38]View All
-     * [39]News
-          + [40]Markets
-          + [41]Companies
-          + [42]Earnings
-          + [43]CD Rates
-          + [44]Mortgage Rates
-          + [45]Economy
-          + [46]Government
-          + [47]Crypto
-          + [48]ETFs
-          + [49]Personal Finance
-          + [50]View All
-     * [51]Reviews
-          + [52]Best Online Brokers
-          + [53]Best Savings Rates
-          + [54]Best CD Rates
-          + [55]Best Life Insurance
-          + [56]Best Personal Loans
-          + [57]Best Mortgage Rates
-          + [58]Best Money Market Accounts
-          + [59]Best Auto Loan Rates
-          + [60]Best Credit Repair Companies
-          + [61]Best Credit Cards
-          + [62]View All
-     * [63]Academy
-          + [64]Investing for Beginners
-          + [65]Trading for Beginners
-          + [66]Become a Day Trader
-          + [67]Technical Analysis
-          + [68]All Investing Courses
-          + [69]All Trading Courses
-          + [70]View All
+     * Investing
+          + Stocks
+          + Bonds
+          + ETFs
+          + Options and Derivatives
+          + Commodities
+          + Trading
+          + FinTech and Automated Investing
+          + Brokers
+          + Fundamental Analysis
+          + Technical Analysis
+          + Markets
+          + View All
+     * Simulator
+          + Login / Portfolio
+          + Trade
+          + Research
+          + My Games
+          + Leaderboard
+     * Banking
+          + Savings Accounts
+          + Certificates of Deposit (CDs)
+          + Money Market Accounts
+          + Checking Accounts
+          + View All
+     * Personal Finance
+          + Budgeting and Saving
+          + Personal Loans
+          + Insurance
+          + Mortgages
+          + Credit and Debt
+          + Student Loans
+          + Taxes
+          + Credit Cards
+          + Financial Literacy
+          + Retirement
+          + View All
+     * News
+          + Markets
+          + Companies
+          + Earnings
+          + CD Rates
+          + Mortgage Rates
+          + Economy
+          + Government
+          + Crypto
+          + ETFs
+          + Personal Finance
+          + View All
+     * Reviews
+          + Best Online Brokers
+          + Best Savings Rates
+          + Best CD Rates
+          + Best Life Insurance
+          + Best Personal Loans
+          + Best Mortgage Rates
+          + Best Money Market Accounts
+          + Best Auto Loan Rates
+          + Best Credit Repair Companies
+          + Best Credit Cards
+          + View All
+     * Academy
+          + Investing for Beginners
+          + Trading for Beginners
+          + Become a Day Trader
+          + Technical Analysis
+          + All Investing Courses
+          + All Trading Courses
+          + View All
 
-   [71]Trade
+   Live
      * (BUTTON)
        Search ____________________ (BUTTON) Search (BUTTON)
        Please fill out this field. (BUTTON)
 
    Search ____________________ (BUTTON) Search
    Please fill out this field. (BUTTON)
-     * [72]Investing
+     * Investing
        (BUTTON) Investing
-          + [73]Stocks
-          + [74]Bonds
-          + [75]ETFs
-          + [76]Options and Derivatives
-          + [77]Commodities
-          + [78]Trading
-          + [79]FinTech and Automated Investing
-          + [80]Brokers
-          + [81]Fundamental Analysis
-          + [82]Technical Analysis
-          + [83]Markets
-          + [84]View All
-     * [85]Simulator
+          + Stocks
+          + Bonds
+          + ETFs
+          + Options and Derivatives
+          + Commodities
+          + Trading
+          + FinTech and Automated Investing
+          + Brokers
+          + Fundamental Analysis
+          + Technical Analysis
+          + Markets
+          + View All
+     * Simulator
        (BUTTON) Simulator
-          + [86]Login / Portfolio
-          + [87]Trade
-          + [88]Research
-          + [89]My Games
-          + [90]Leaderboard
-     * [91]Banking
+          + Login / Portfolio
+          + Trade
+          + Research
+          + My Games
+          + Leaderboard
+     * Banking
        (BUTTON) Banking
-          + [92]Savings Accounts
-          + [93]Certificates of Deposit (CDs)
-          + [94]Money Market Accounts
-          + [95]Checking Accounts
-          + [96]View All
-     * [97]Personal Finance
+          + Savings Accounts
+          + Certificates of Deposit (CDs)
+          + Money Market Accounts
+          + Checking Accounts
+          + View All
+     * Personal Finance
        (BUTTON) Personal Finance
-          + [98]Budgeting and Saving
-          + [99]Personal Loans
-          + [100]Insurance
-          + [101]Mortgages
-          + [102]Credit and Debt
-          + [103]Student Loans
-          + [104]Taxes
-          + [105]Credit Cards
-          + [106]Financial Literacy
-          + [107]Retirement
-          + [108]View All
-     * [109]News
+          + Budgeting and Saving
+          + Personal Loans
+          + Insurance
+          + Mortgages
+          + Credit and Debt
+          + Student Loans
+          + Taxes
+          + Credit Cards
+          + Financial Literacy
+          + Retirement
+          + View All
+     * News
        (BUTTON) News
-          + [110]Markets
-          + [111]Companies
-          + [112]Earnings
-          + [113]CD Rates
-          + [114]Mortgage Rates
-          + [115]Economy
-          + [116]Government
-          + [117]Crypto
-          + [118]ETFs
-          + [119]Personal Finance
-          + [120]View All
-     * [121]Reviews
+          + Markets
+          + Companies
+          + Earnings
+          + CD Rates
+          + Mortgage Rates
+          + Economy
+          + Government
+          + Crypto
+          + ETFs
+          + Personal Finance
+          + View All
+     * Reviews
        (BUTTON) Reviews
-          + [122]Best Online Brokers
-          + [123]Best Savings Rates
-          + [124]Best CD Rates
-          + [125]Best Life Insurance
-          + [126]Best Personal Loans
-          + [127]Best Mortgage Rates
-          + [128]Best Money Market Accounts
-          + [129]Best Auto Loan Rates
-          + [130]Best Credit Repair Companies
-          + [131]Best Credit Cards
-          + [132]View All
-     * [133]Academy
+          + Best Online Brokers
+          + Best Savings Rates
+          + Best CD Rates
+          + Best Life Insurance
+          + Best Personal Loans
+          + Best Mortgage Rates
+          + Best Money Market Accounts
+          + Best Auto Loan Rates
+          + Best Credit Repair Companies
+          + Best Credit Cards
+          + View All
+     * Academy
        (BUTTON) Academy
-          + [134]Investing for Beginners
-          + [135]Trading for Beginners
-          + [136]Become a Day Trader
-          + [137]Technical Analysis
-          + [138]All Investing Courses
-          + [139]All Trading Courses
-          + [140]View All
-     * [141]Economy
+          + Investing for Beginners
+          + Trading for Beginners
+          + Become a Day Trader
+          + Technical Analysis
+          + All Investing Courses
+          + All Trading Courses
+          + View All
+     * Economy
        (BUTTON) Economy
-          + [142]Government and Policy
-          + [143]Monetary Policy
-          + [144]Fiscal Policy
-          + [145]Economics
-          + [146]View All
-     * [147]Financial Terms
-     * [148]Newsletter
-     * [149]About Us
+          + Government and Policy
+          + Monetary Policy
+          + Fiscal Policy
+          + Economics
+          + View All
+     * Financial Terms
+     * Newsletter
+     * About Us
 
    Follow Us
      *
@@ -175,17 +175,17 @@
      *
      *
 
-   IFRAME: [150]about:blank
+   IFRAME: about:blank
 
-     * [151]Fiscal Policy
-     * [152]Tax Laws
+     * Fiscal Policy
+     * Tax Laws
 
 Duty Tax on Imports and Exports: Meaning and Examples
 
    By
-   [153]Will Kenton
+   Will Kenton
    [ld+json]
-   [154]Full Bio
+   Full Bio
      *
 
    Will Kenton is an expert on the economy and investing laws and
@@ -193,21 +193,21 @@ Duty Tax on Imports and Exports: Meaning and Examples
    and Kapitall Wire and holds a MA in Economics from The New School for
    Social Research and Doctor of Philosophy in English literature from
    NYU.
-   Learn about our [155]editorial policies
+   Learn about our editorial policies
    Updated July 31, 2022
-   Reviewed by [156]Caitlin Clarke
+   Reviewed by Caitlin Clarke
 
    Trending Videos
 
 What Is a Duty?
 
    The term "duty" refers to a form of taxation levied on certain goods,
-   services, or other transactions. People and [157]corporations may be
-   required to pay levies on [158]imports and exports by governments in
-   the form of customs duties and other taxes. This is done in order to
+   services, or other transactions. People and corporations may be
+   required to pay levies on imports and exports by governments in the
+   form of customs duties and other taxes. This is done in order to
    collect revenue and to satisfy other economic reasons. Duties are
-   enforceable by law and may be imposed on [159]commodities or financial
-   [160]transactions instead of individuals.
+   enforceable by law and may be imposed on commodities or financial
+   transactions instead of individuals.
 
    The term also refers to the responsibilities held by an individual,
    especially someone in a position of power.
@@ -227,9 +227,9 @@ Understanding a Duty
 
    Governments impose taxes on individuals and companies that make or
    receive shipments internationally. These levies must be paid before
-   [161]delivery can be made. These levies are called customs or
-   [162]import duties. These are [163]tariffs or taxes imposed on goods
-   transported across international borders.
+   delivery can be made. These levies are called customs or import duties.
+   These are tariffs or taxes imposed on goods transported across
+   international borders.
 
    Customs duty rates are a percentage determined by the total value of
    the goods paid for in another country. The quality, size, or weight of
@@ -237,21 +237,20 @@ Understanding a Duty
    of the United States is used domestically as a reference for applicable
    tariffs on merchandise imported to the country.
 
-   The intent of this form of duty is to provide a form of [164]commerce
-   protection for each country's jobs, [165]economy, environment, and
-   other interests by controlling the influx and outflow of merchandise.
-   Duties may be imposed on restrictive and prohibited goods that are
-   shipped in and out of a country. The imposition and collection of
-   duties also help contribute to a nation's revenue pool.
+   The intent of this form of duty is to provide a form of commerce
+   protection for each country's jobs, economy, environment, and other
+   interests by controlling the influx and outflow of merchandise. Duties
+   may be imposed on restrictive and prohibited goods that are shipped in
+   and out of a country. The imposition and collection of duties also help
+   contribute to a nation's revenue pool.
 
 Duties When Traveling
 
    This form of duty can be revoked in certain situations such as an
-   airport's [166]duty-free shop. When customers patronize a duty-free
-   shop, commodities that are usually taxed such as cigarettes and alcohol
-   will not have a duty levied on them. Foreign visitors will then be able
-   to purchase the goods at a lower [167]price compared to domestic
-   citizens.
+   airport's duty-free shop. When customers patronize a duty-free shop,
+   commodities that are usually taxed such as cigarettes and alcohol will
+   not have a duty levied on them. Foreign visitors will then be able to
+   purchase the goods at a lower price compared to domestic citizens.
 
    There are limits and guidelines for shopping duty-free. The products
    purchased are intended to be taken out of the country where they were
@@ -278,19 +277,19 @@ Special Considerations
    responsibilities of their position.
 
    In a corporate context, this is a fiduciary responsibility that a
-   company's [168]chief executive officer (CEO) has to the company's
-   [169]shareholders. This means that any course of action the CEO takes
-   should be in the best interests of the company's shareholders. For
-   example, a CEO's duty can include weighing whether or not a merger deal
-   with a rival would provide adequate [170]shareholder value.
+   company's chief executive officer (CEO) has to the company's
+   shareholders. This means that any course of action the CEO takes should
+   be in the best interests of the company's shareholders. For example, a
+   CEO's duty can include weighing whether or not a merger deal with a
+   rival would provide adequate shareholder value.
 
-   This responsibility is also similar to a [171]fiduciary duty. A
-   fiduciary duty is when an individual places their trust and reliance on
-   another in regards to a monetary situation. For example, a financial
-   adviser would have a fiduciary duty to their clients and must act in
-   the best interest of their clients. The same would hold true for an
-   executor of an estate. The fiduciary has a duty to take responsibility
-   and make decisions that will benefit the client above anyone else.
+   This responsibility is also similar to a fiduciary duty. A fiduciary
+   duty is when an individual places their trust and reliance on another
+   in regards to a monetary situation. For example, a financial adviser
+   would have a fiduciary duty to their clients and must act in the best
+   interest of their clients. The same would hold true for an executor of
+   an estate. The fiduciary has a duty to take responsibility and make
+   decisions that will benefit the client above anyone else.
 
    Article Sources
    Investopedia requires writers to use primary sources to support their
@@ -298,54 +297,48 @@ Special Considerations
    and interviews with industry experts. We also reference original
    research from other reputable publishers where appropriate. You can
    learn more about the standards we follow in producing accurate,
-   unbiased content in our [172]editorial policy.
+   unbiased content in our editorial policy.
     1. U.S. Customs and Border Protection. "Customs Duty Information."
        Accessed Feb. 26, 2021.
 
    Related Terms
-   [173]Quota
+   Quota
    A quota or protectionism is a government-imposed trade restriction
    limiting the number or value of goods a nation imports or exports
    during a specific time.
-   [174]more
-   [175]What Is a Tariff and Why Are They Important?
+   more
+   What Is a Tariff and Why Are They Important?
    A tariff is a tax imposed by one country on the goods and services
    imported from another country.
-   [176]more
-   [177]Fiduciary Definition: Examples and Why They Are Important
+   more
+   Fiduciary Definition: Examples and Why They Are Important
    A fiduciary is a person or organization that acts on behalf of a person
    or persons and is legally bound to act solely in their best interests.
-   [178]more
-   [179]Certificate of Origin (CO): Definition, Types, and How to Get One
+   more
+   Certificate of Origin (CO): Definition, Types, and How to Get One
    A certificate of origin is a document declaring in which country a
    commodity or good was manufactured.
-   [180]more
-   [181]What Is Market Access in International Trade?
+   more
+   What Is Market Access in International Trade?
    Market access refers to the ability of a company or country to sell
    goods and services across borders.
-   [182]more
-   [183]Consumption Tax: Definition, Types, vs. Income Tax
+   more
+   Consumption Tax: Definition, Types, vs. Income Tax
    A consumption tax is a tax on the purchase of a good or service. It can
    also be a system taxing based on consumption rather than on added value
    to the economy (income tax).
-   [184]more
+   more
    Related Articles
-   [185]
    Quota Quota
    Quota
-   [186]
    [quota.asp-Final-858c89e1689c4841b547ee7e2d4ea95d.jpg]
    3 Ways Tax Haven Governments Make Money
-   [187]
    Tariff Tariff
    What Is a Tariff and Why Are They Important?
-   [188]
    Fiduciary Fiduciary
    Fiduciary Definition: Examples and Why They Are Important
-   [189]
    Certificate of Origin (CO) Certificate of Origin (CO)
    Certificate of Origin (CO): Definition, Types, and How to Get One
-   [190]
    [Certificate-of-origin_final-375c7da3cb3d4ef48e22afc352093d49.png]
    How the IRS Works: Functions and Audits
    Partner Links
@@ -356,48 +349,48 @@ Special Considerations
      *
      *
 
-   [191]TRUSTe
-     * [192]About Us
-     * [193]Terms of Service
-     * [194]Dictionary
-     * [195]Editorial Policy
-     * [196]Advertise
-     * [197]News
-     * [198]Privacy Policy
-     * [199]Contact Us
-     * [200]Careers
-     * [201]EU Privacy
+   TRUSTe
+     * About Us
+     * Terms of Service
+     * Dictionary
+     * Editorial Policy
+     * Advertise
+     * News
+     * Privacy Policy
+     * Contact Us
+     * Careers
+     * EU Privacy
 
-     * [202]#
-     * [203]A
-     * [204]B
-     * [205]C
-     * [206]D
-     * [207]E
-     * [208]F
-     * [209]G
-     * [210]H
-     * [211]I
-     * [212]J
-     * [213]K
-     * [214]L
-     * [215]M
-     * [216]N
-     * [217]O
-     * [218]P
-     * [219]Q
-     * [220]R
-     * [221]S
-     * [222]T
-     * [223]U
-     * [224]V
-     * [225]W
-     * [226]X
-     * [227]Y
-     * [228]Z
+     * #
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
 
-   Investopedia is part of the [229]Dotdash Meredith publishing family.
-   Please review our updated [230]Terms of Service.
+   Investopedia is part of the Dotdash Meredith publishing family.
+   Please review our updated Terms of Service.
 
    When you visit the site, Dotdash Meredith and its partners may store or
    retrieve information on your browser, mostly in the form of cookies.
@@ -410,253 +403,3 @@ Special Considerations
    found in the footer of the site.
    (BUTTON) Cookies Settings (BUTTON) Reject All (BUTTON) Accept All
    (BUTTON)
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
-   2. https://www.investopedia.com/investing-4427685
-   3. https://www.investopedia.com/stocks-4427785
-   4. https://www.investopedia.com/bonds-4689778
-   5. https://www.investopedia.com/etfs-4427784
-   6. https://www.investopedia.com/options-and-derivatives-trading-4689663
-   7. https://www.investopedia.com/commodities-4427780
-   8. https://www.investopedia.com/trading-4427765
-   9. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
-  10. https://www.investopedia.com/brokers-4689772
-  11. https://www.investopedia.com/fundamental-analysis-4689757
-  12. https://www.investopedia.com/technical-analysis-4689657
-  13. https://www.investopedia.com/markets/
-  14. https://www.investopedia.com/investing-4427685
-  15. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
-  16. https://www.investopedia.com/simulator/portfolio
-  17. https://www.investopedia.com/simulator/trade/stocks
-  18. https://www.investopedia.com/simulator/research
-  19. https://www.investopedia.com/simulator/games/my-games
-  20. https://www.investopedia.com/simulator/games
-  21. https://www.investopedia.com/banking-4427754
-  22. https://www.investopedia.com/savings-accounts-4689728
-  23. https://www.investopedia.com/certificate-of-deposits-4689733
-  24. https://www.investopedia.com/money-market-account-4689730
-  25. https://www.investopedia.com/checking-accounts-4689732
-  26. https://www.investopedia.com/banking-4427754
-  27. https://www.investopedia.com/personal-finance-4427760
-  28. https://www.investopedia.com/budgeting-and-savings-4427755
-  29. https://www.investopedia.com/personal-loans-4689729
-  30. https://www.investopedia.com/insurance-4427716
-  31. https://www.investopedia.com/mortgage-4689703
-  32. https://www.investopedia.com/credit-and-debt-4689724
-  33. https://www.investopedia.com/student-loans-4689727
-  34. https://www.investopedia.com/taxes-4427724
-  35. https://www.investopedia.com/credit-card-4689721
-  36. https://www.investopedia.com/financial-literacy-resource-center-7151950
-  37. https://www.investopedia.com/retirement-planning-4689695
-  38. https://www.investopedia.com/personal-finance-4427760
-  39. https://www.investopedia.com/news-4427706
-  40. https://www.investopedia.com/markets-news-4427704
-  41. https://www.investopedia.com/company-news-4427705
-  42. https://www.investopedia.com/earnings-reports-5218419
-  43. https://www.investopedia.com/certificates-deposit-news-7111770
-  44. https://www.investopedia.com/mortgage-rates-5184598
-  45. https://www.investopedia.com/economic-news-5218422
-  46. https://www.investopedia.com/political-news-4689737
-  47. https://www.investopedia.com/cryptocurrency-news-5114163
-  48. https://www.investopedia.com/etf-news-5218416
-  49. https://www.investopedia.com/personal-finance-news-5114159
-  50. https://www.investopedia.com/news-4427706
-  51. https://www.investopedia.com/financial-product-reviews-7110783
-  52. https://www.investopedia.com/best-online-brokers-4587872
-  53. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
-  54. https://www.investopedia.com/best-cd-rates-4770214
-  55. https://www.investopedia.com/best-life-insurance-companies-4845858
-  56. https://www.investopedia.com/best-personal-loans-4773300
-  57. https://www.investopedia.com/mortgage-rates-5094943
-  58. https://www.investopedia.com/best-money-market-accounts-5096917
-  59. https://www.investopedia.com/best-auto-loan-rates-4846394
-  60. https://www.investopedia.com/best-credit-repair-companies-4843898
-  61. https://www.investopedia.com/best-credit-cards-4801582
-  62. https://www.investopedia.com/financial-product-reviews-7110783
-  63. https://academy.investopedia.com/
-  64. https://academy.investopedia.com/products/investing-for-beginners
-  65. https://academy.investopedia.com/products/trading-for-beginners
-  66. https://academy.investopedia.com/products/become-a-day-trader
-  67. https://academy.investopedia.com/products/technical-analysis
-  68. https://academy.investopedia.com/collections/investing-courses-catalog
-  69. https://academy.investopedia.com/collections/trading-courses-collection
-  70. https://academy.investopedia.com/
-  71. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
-  72. https://www.investopedia.com/investing-4427685
-  73. https://www.investopedia.com/stocks-4427785
-  74. https://www.investopedia.com/bonds-4689778
-  75. https://www.investopedia.com/etfs-4427784
-  76. https://www.investopedia.com/options-and-derivatives-trading-4689663
-  77. https://www.investopedia.com/commodities-4427780
-  78. https://www.investopedia.com/trading-4427765
-  79. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
-  80. https://www.investopedia.com/brokers-4689772
-  81. https://www.investopedia.com/fundamental-analysis-4689757
-  82. https://www.investopedia.com/technical-analysis-4689657
-  83. https://www.investopedia.com/markets/
-  84. https://www.investopedia.com/investing-4427685
-  85. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
-  86. https://www.investopedia.com/simulator/portfolio
-  87. https://www.investopedia.com/simulator/trade/stocks
-  88. https://www.investopedia.com/simulator/research
-  89. https://www.investopedia.com/simulator/games/my-games
-  90. https://www.investopedia.com/simulator/games
-  91. https://www.investopedia.com/banking-4427754
-  92. https://www.investopedia.com/savings-accounts-4689728
-  93. https://www.investopedia.com/certificate-of-deposits-4689733
-  94. https://www.investopedia.com/money-market-account-4689730
-  95. https://www.investopedia.com/checking-accounts-4689732
-  96. https://www.investopedia.com/banking-4427754
-  97. https://www.investopedia.com/personal-finance-4427760
-  98. https://www.investopedia.com/budgeting-and-savings-4427755
-  99. https://www.investopedia.com/personal-loans-4689729
- 100. https://www.investopedia.com/insurance-4427716
- 101. https://www.investopedia.com/mortgage-4689703
- 102. https://www.investopedia.com/credit-and-debt-4689724
- 103. https://www.investopedia.com/student-loans-4689727
- 104. https://www.investopedia.com/taxes-4427724
- 105. https://www.investopedia.com/credit-card-4689721
- 106. https://www.investopedia.com/financial-literacy-resource-center-7151950
- 107. https://www.investopedia.com/retirement-planning-4689695
- 108. https://www.investopedia.com/personal-finance-4427760
- 109. https://www.investopedia.com/news-4427706
- 110. https://www.investopedia.com/markets-news-4427704
- 111. https://www.investopedia.com/company-news-4427705
- 112. https://www.investopedia.com/earnings-reports-5218419
- 113. https://www.investopedia.com/certificates-deposit-news-7111770
- 114. https://www.investopedia.com/mortgage-rates-5184598
- 115. https://www.investopedia.com/economic-news-5218422
- 116. https://www.investopedia.com/political-news-4689737
- 117. https://www.investopedia.com/cryptocurrency-news-5114163
- 118. https://www.investopedia.com/etf-news-5218416
- 119. https://www.investopedia.com/personal-finance-news-5114159
- 120. https://www.investopedia.com/news-4427706
- 121. https://www.investopedia.com/financial-product-reviews-7110783
- 122. https://www.investopedia.com/best-online-brokers-4587872
- 123. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
- 124. https://www.investopedia.com/best-cd-rates-4770214
- 125. https://www.investopedia.com/best-life-insurance-companies-4845858
- 126. https://www.investopedia.com/best-personal-loans-4773300
- 127. https://www.investopedia.com/mortgage-rates-5094943
- 128. https://www.investopedia.com/best-money-market-accounts-5096917
- 129. https://www.investopedia.com/best-auto-loan-rates-4846394
- 130. https://www.investopedia.com/best-credit-repair-companies-4843898
- 131. https://www.investopedia.com/best-credit-cards-4801582
- 132. https://www.investopedia.com/financial-product-reviews-7110783
- 133. https://academy.investopedia.com/
- 134. https://academy.investopedia.com/products/investing-for-beginners
- 135. https://academy.investopedia.com/products/trading-for-beginners
- 136. https://academy.investopedia.com/products/become-a-day-trader
- 137. https://academy.investopedia.com/products/technical-analysis
- 138. https://academy.investopedia.com/collections/investing-courses-catalog
- 139. https://academy.investopedia.com/collections/trading-courses-collection
- 140. https://academy.investopedia.com/
- 141. https://www.investopedia.com/economy-4689801
- 142. https://www.investopedia.com/government-and-policy-4689793
- 143. https://www.investopedia.com/monetary-policy-4689792
- 144. https://www.investopedia.com/fiscal-policy-4689796
- 145. https://www.investopedia.com/economics-4689800
- 146. https://www.investopedia.com/economy-4689801
- 147. https://www.investopedia.com/financial-term-dictionary-4769738
- 148. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
- 149. https://www.investopedia.com/about-us-5093223
- 150. about:blank
- 151. https://www.investopedia.com/fiscal-policy-4689796
- 152. https://www.investopedia.com/tax-laws-4689794
- 153. https://www.investopedia.com/contributors/53661/
- 154. https://www.investopedia.com/contributors/53661/
- 155. https://www.investopedia.com/legal-4768893#editorial-policy
- 156. https://www.investopedia.com/caitlin-clarke-5221387
- 157. https://www.investopedia.com/terms/c/corporation.asp
- 158. https://www.investopedia.com/articles/investing/100813/interesting-facts-about-imports-and-exports.asp
- 159. https://www.investopedia.com/terms/c/commodity.asp
- 160. https://www.investopedia.com/terms/t/transaction.asp
- 161. https://www.investopedia.com/terms/d/delivery.asp
- 162. https://www.investopedia.com/terms/i/import-duty.asp
- 163. https://www.investopedia.com/ask/answers/042315/how-do-tariffs-protect-domestic-industries.asp
- 164. https://www.investopedia.com/terms/c/commerce.asp
- 165. https://www.investopedia.com/terms/e/economy.asp
- 166. https://www.investopedia.com/terms/d/duty-free.asp
- 167. https://www.investopedia.com/ask/answers/101314/what-difference-between-cost-and-price.asp
- 168. https://www.investopedia.com/terms/c/ceo.asp
- 169. https://www.investopedia.com/terms/s/shareholder.asp
- 170. https://www.investopedia.com/terms/s/shareholder-value.asp
- 171. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp
- 172. https://www.investopedia.com/legal-4768893#EditorialPolicy
- 173. https://www.investopedia.com/terms/q/quota.asp
- 174. https://www.investopedia.com/terms/q/quota.asp
- 175. https://www.investopedia.com/terms/t/tariff.asp
- 176. https://www.investopedia.com/terms/t/tariff.asp
- 177. https://www.investopedia.com/terms/f/fiduciary.asp
- 178. https://www.investopedia.com/terms/f/fiduciary.asp
- 179. https://www.investopedia.com/terms/c/certificate-of-origin.asp
- 180. https://www.investopedia.com/terms/c/certificate-of-origin.asp
- 181. https://www.investopedia.com/terms/m/market-access.asp
- 182. https://www.investopedia.com/terms/m/market-access.asp
- 183. https://www.investopedia.com/terms/c/consumption-tax.asp
- 184. https://www.investopedia.com/terms/c/consumption-tax.asp
- 185. https://www.investopedia.com/terms/q/quota.asp
- 186. https://www.investopedia.com/articles/markets/042516/3-ways-tax-haven-governments-make-money.asp
- 187. https://www.investopedia.com/terms/t/tariff.asp
- 188. https://www.investopedia.com/terms/f/fiduciary.asp
- 189. https://www.investopedia.com/terms/c/certificate-of-origin.asp
- 190. https://www.investopedia.com/articles/personal-finance/082514/how-irs-became-so-essential-and-so-loathed.asp
- 191. https://privacy.truste.com/privacy-seal/validation?rid=f8e1238d-6371-460f-8ea0-1b8cad9e9c4b
- 192. https://www.investopedia.com/about-us-5093223
- 193. https://www.dotdashmeredith.com/brands-termsofservice
- 194. https://www.investopedia.com/financial-term-dictionary-4769738
- 195. https://www.investopedia.com/legal-4768893#editorial-policy
- 196. https://www.dotdashmeredith.com/
- 197. https://www.investopedia.com/news-4427706
- 198. https://www.dotdashmeredith.com/brands-privacy
- 199. https://invcontent.zendesk.com/hc/en-us/requests/new
- 200. https://www.dotdashmeredith.com/careers
- 201. https://www.investopedia.com/terms/d/duty.asp
- 202. https://www.investopedia.com/terms-beginning-with-num-4769350
- 203. https://www.investopedia.com/terms-beginning-with-a-4769351
- 204. https://www.investopedia.com/terms-beginning-with-b-4769352
- 205. https://www.investopedia.com/terms-beginning-with-c-4769353
- 206. https://www.investopedia.com/terms-beginning-with-d-4769354
- 207. https://www.investopedia.com/terms-beginning-with-e-4769355
- 208. https://www.investopedia.com/terms-beginning-with-f-4769356
- 209. https://www.investopedia.com/terms-beginning-with-g-4769357
- 210. https://www.investopedia.com/terms-beginning-with-h-4769358
- 211. https://www.investopedia.com/terms-beginning-with-i-4769359
- 212. https://www.investopedia.com/terms-beginning-with-j-4769360
- 213. https://www.investopedia.com/terms-beginning-with-k-4769361
- 214. https://www.investopedia.com/terms-beginning-with-l-4769362
- 215. https://www.investopedia.com/terms-beginning-with-m-4769363
- 216. https://www.investopedia.com/terms-beginning-with-n-4769364
- 217. https://www.investopedia.com/terms-beginning-with-o-4769365
- 218. https://www.investopedia.com/terms-beginning-with-p-4769366
- 219. https://www.investopedia.com/terms-beginning-with-q-4769367
- 220. https://www.investopedia.com/terms-beginning-with-r-4769368
- 221. https://www.investopedia.com/terms-beginning-with-s-4769369
- 222. https://www.investopedia.com/terms-beginning-with-t-4769370
- 223. https://www.investopedia.com/terms-beginning-with-u-4769371
- 224. https://www.investopedia.com/terms-beginning-with-v-4769372
- 225. https://www.investopedia.com/terms-beginning-with-w-4769373
- 226. https://www.investopedia.com/terms-beginning-with-x-4769374
- 227. https://www.investopedia.com/terms-beginning-with-y-4769375
- 228. https://www.investopedia.com/terms-beginning-with-z-4769376
- 229. https://www.dotdashmeredith.com/
- 230. https://www.dotdashmeredith.com/brands-termsofservice
-
-   Hidden links:
- 232. https://www.investopedia.com/
- 233. https://www.facebook.com/Investopedia/
- 234. https://www.instagram.com/investopedia/?hl=en
- 235. https://www.linkedin.com/company/investopedia-ulc
- 236. https://www.tiktok.com/@investopedia
- 237. https://twitter.com/investopedia
- 238. https://www.youtube.com/c/investopedia
- 239. https://www.linkedin.com/in/will-kenton-7a099b5/
- 240. https://www.investopedia.com/
- 241. https://www.facebook.com/Investopedia/
- 242. https://www.instagram.com/investopedia/?hl=en
- 243. https://www.linkedin.com/company/investopedia-ulc
- 244. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
- 245. https://twitter.com/investopedia

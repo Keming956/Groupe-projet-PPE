@@ -1,14 +1,14 @@
-          + [40]Value added tax (VAT)
-          + [41]VAT and Administrative Cooperation
-          + [42]Excise duties
-          + [43]Tax Co-operation and control
-          + [44]Economic analysis of taxation
+          + Value added tax (VAT)
+          + VAT and Administrative Cooperation
+          + Excise duties
+          + Tax Co-operation and control
+          + Economic analysis of taxation
 --
-          + [54]AEO (Authorised Economic Operator)
-          + [55]Prohibitions and Restrictions
-          + [56]Calculation of customs duties
-          + [57]Customs controls
-          + [58]Customs Laboratories
+          + AEO (Authorised Economic Operator)
+          + Prohibitions and Restrictions
+          + Calculation of customs duties
+          + Customs controls
+          + Customs Laboratories
 --
    checkout. However, consumers should be aware that ordering goods online
    that are located outside the EU at the time of sale, will result in a
@@ -37,7 +37,7 @@
    the shipment is free to be used or consumed.
 
 --
-   of June 2022 is available [80]here.
+   of June 2022 is available here.
 
    Goods for which you do not have to pay customs duties (e.g. with total
    value lower than €150) are also subject to customs clearance.
@@ -55,7 +55,7 @@ Excise duties
    courier. This invoice must be paid before the goods are handed over to
    you.
 
-   See [81]how excise duties are  calculated in the EU Member States.
+   See how excise duties are  calculated in the EU Member States.
 
 Warning
 --
@@ -93,7 +93,7 @@ Customs duty in detail
    special duty-free limits on the quantity provided.
 
    In some cases, additional duties may be charged, depending on the
-   country of manufacture of the goods. The [86]TARIC database covers all
+   country of manufacture of the goods. The TARIC database covers all
    measures relating to tariff, commercial and agricultural legislation.
 --
    might even be seized by customs and, when appropriate, destroyed.
@@ -104,24 +104,12 @@ Excise duty in detail
    products, such as alcohol and tobacco, and are payable on these goods
    on entry into the EU. EU legislation sets out only minimum levels of
    excise duty above which individual Member States are free to set their
-   own rates. You can check the [87]excise duty rates applied on the goods
-   concerned through the [88]Taxes in Europe database. Besides the list of
+   own rates. You can check the excise duty rates applied on the goods
+   concerned through the Taxes in Europe database. Besides the list of
    excise products at EU level, Member States have national lists of
 --
    Member State to another. The goods will be held by the Customs
    Authority at entry into your country, pending the payment of excise
    duty.
 
-     You should check with your national tax administration ([89]national
---
-  40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
-  41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
-  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
-  43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
-  44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
---
-  54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
-  55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
-  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
-  57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
-  58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
+     You should check with your national tax administration (national

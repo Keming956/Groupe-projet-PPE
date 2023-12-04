@@ -1,10 +1,14 @@
-   Last updated on November 23, 2019 by [14]Surbhi S
+   [INS: :INS]
 
-   [15]duty vs responsibility Duty and Responsibility are wider terms,
-   which are used in a number of contexts, say in the field of law,
-   management, education, ethics and so forth. These are commonly used
-   with one another, but they are two different terms, wherein the duty is
-   imposed on someone, to perform something which is morally, legally or
+Difference Between Duties and Responsibilities
+
+   Last updated on November 23, 2019 by Surbhi S
+
+   duty vs responsibility Duty and Responsibility are wider terms, which
+   are used in a number of contexts, say in the field of law, management,
+   education, ethics and so forth. These are commonly used with one
+   another, but they are two different terms, wherein the duty is imposed
+   on someone, to perform something which is morally, legally or
    professionally considered right. It is something which we are required
 --
    accountable for or blamed for its performance and completion or
@@ -12,13 +16,31 @@
    difference between duties and responsibilities, have a look.
 
 Content: Duty Vs Responsibility
+
+    1. Comparison Chart
 --
+Comparison Chart
+
+   Basis for Comparison Duty Responsibility
+   Meaning Duty implies an obligation or moral commitment which an
+   individual is expected to perform. Responsibility refers to the
+   liability which is assumed or accepted by a person, as a part of his
+--
+   [INS: :INS]
+
+Definition of Duty
+
+   Duty can be defined as a moral, legal, or professional obligation which
+   a person is bound to do, otherwise, he/she has to face certain
+   punishment or penalty. It determines what a person should have done in
    the normal course of action in general or in specific circumstances.
 
    The law governing the country has specified certain duties which must
    be followed by every citizen. It exhibits an invisible force which
    binds a person to do something which is considered right in the eyes of
---
+   law, whose non-performance may result in fine or punishment.
+
+   Duty is the obligatory task, conduct, work or service, that emerge out
    of an individual’s position, occupation or role.
 
    In management, the word ‘duty’ is used to define the tasks or functions
@@ -28,12 +50,33 @@ Content: Duty Vs Responsibility
    government on the goods purchased from or sold to foreign countries.
    The non-payment of such taxes may result in a penalty to the exporter
 --
+   accordingly.
+
+Key Differences Between Duty and Responsibility
 
    The points given below are substantial so far as the difference between
    duty and responsibility is concerned:
     1. Duty refers to the legal or moral obligation, or commitment towards
        certain work, which you are expected to perform, in general, or
+       special circumstances. On the contrary, responsibility refers to
 --
+       voluntarily accepted or promised, by an individual, inherent to
+       his/her job or role.
+    2. Duties show a hidden binding force that impels a person to do a
+       certain act, which is regarded as the right thing to do in a
+       particular situation. As against, responsibility brings authority,
+       i.e. the power to take necessary decisions and actions and give
+       proper directions for the successful completion.
+    3. Duties exhibits respect, sincerity, of the person towards the work
+       (task), elders and superiors and obedience. Conversely,
+       Responsibility gives birth to accountability, i.e. acceptance of
+       certain responsibility by a person makes him/her accountable for
+       its performance.
+    4. Duty requires the sacrifice of self-interest by the person to whom
+       it is ascribed. In contrast, responsibility demands trustworthiness
+       and loyalty, i.e. the person to whom the responsibility of a
+       certain task is given must be trustworthy and loyal to perform the
+       tasks as required.
     5. Duties are imputed on a person, either naturally or out of the
        role/position he occupies. On the other hand, responsibility is
        nothing but demanded duties, which are shouldered on a person who
@@ -48,30 +91,3 @@ Conclusion
    discharge of duties and responsibilities successfully.
    [INS: :INS]
 
---
-
-   1. https://keydifferences.com/wp-json/wp/v2/posts/20501
-   2. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html
-   3. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html&format=xml
-   4. https://keydifferences.com/category/business
-   5. https://keydifferences.com/category/finance
---
-  13. https://keydifferences.com/
-  14. https://keydifferences.com/author/surbhi
-  15. https://keydifferences.com/wp-content/uploads/2019/11/duty-vs-responsibility.jpg
-  16. https://keydifferences.com/difference-between-duties-and-responsibilities.html#ComparisonChart
-  17. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Definition
-  18. https://keydifferences.com/difference-between-duties-and-responsibilities.html#KeyDifferences
-  19. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Conclusion
-  20. https://keydifferences.com/difference-between-revenue-profit-and-income.html
-  21. https://keydifferences.com/difference-between-principal-and-principle.html
---
-  29. https://keydifferences.com/difference-between-employee-and-independent-contractor.html
-  30. https://keydifferences.com/difference-between-job-description-and-job-specification.html
-  31. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  32. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  33. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  34. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  35. https://keydifferences.com/difference-between-duties-and-responsibilities.html#respond
-  36. https://keydifferences.com/difference-between-pert-and-cpm.html
-  37. https://keydifferences.com/difference-between-microeconomics-and-macroeconomics.html

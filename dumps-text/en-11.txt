@@ -1,74 +1,73 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5S47S9Z
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5S47S9Z
 
-     * [2]Skip to main content
-     * [3]Accessibility help
+     * Skip to main content
+     * Accessibility help
 
 Information
 
-   We use [4]cookies to collect anonymous data to help us improve your
-   site browsing experience.
+   We use cookies to collect anonymous data to help us improve your site
+   browsing experience.
 
    Click 'Accept all cookies' to agree to all cookies that collect
    anonymous data. To only allow the cookies that make the site work,
    click 'Use essential cookies only.' Visit 'Set cookie preferences' to
    control specific cookies.
-   (BUTTON) Accept all cookies (BUTTON) Use essential cookies only [5]Set
+   (BUTTON) Accept all cookies (BUTTON) Use essential cookies only Set
    cookie preferences
 
-   Your cookie preferences have been saved. You can [6]change your cookie
+   Your cookie preferences have been saved. You can change your cookie
    settings at any time.
-   [7]Scottish Government
+   Scottish Government
    Menu
    [ ]
-     * [8]About
-     * [9]Topics
-     * [10]News
-     * [11]Publications
-     * [12]Statistics and research
-     * [13]Consultations
-     * [14]Blogs
+     * About
+     * Topics
+     * News
+     * Publications
+     * Statistics and research
+     * Consultations
+     * Blogs
 
    Search
    ____________________ (BUTTON) Search
 
-     * [15]About
-     * [16]Topics
-     * [17]News
-     * [18]Publications
-     * [19]Statistics and research
-     * [20]Consultations
-     * [21]Blogs
+     * About
+     * Topics
+     * News
+     * Publications
+     * Statistics and research
+     * Consultations
+     * Blogs
 
-    1. [22]Home
-    2. [23]Policies
-    3. [24]Public sector procurement
+    1. Home
+    2. Policies
+    3. Public sector procurement
 
    Policy
 
 Public sector procurement
 
    Directorate
-          [25]Scottish Procurement and Property Directorate
+          Scottish Procurement and Property Directorate
 
    Part of
-          [26]Business, industry and innovation, [27]Public sector
+          Business, industry and innovation, Public sector
 
    [ ] Choose section
-     * [28]Overview
-     * [29]Latest
+     * Overview
+     * Latest
      * Policy actions:
-          + [30]Procurement transparency and annual reports
-          + [31]Public sector procurement support
-          + [32]Suppliers: procurement guidance
-          + [33]Collaborative contracts
-          + [34]Construction procurement
+          + Procurement transparency and annual reports
+          + Public sector procurement support
+          + Suppliers: procurement guidance
+          + Collaborative contracts
+          + Construction procurement
           + Sustainable procurement duty
-          + [35]SME and third sector organisations access to public
-            contracts
-          + [36]Fair work and procurement
-          + [37]Community benefits in procurement
-          + [38]Procurement equality duties
-          + [39]Procurement and climate change
+          + SME and third sector organisations access to public contracts
+          + Fair work and procurement
+          + Community benefits in procurement
+          + Procurement equality duties
+          + Procurement and climate change
 
    Policy actions  6 of 11
 
@@ -79,28 +78,28 @@ Sustainable procurement duty
    objectives.
 
    Scotland’s strong track record  of delivering sustainable procurement
-   outcomes for the past 20 years, is demonstrated in our [40]Independent
+   outcomes for the past 20 years, is demonstrated in our Independent
    Review.
 
-   The [41]sustainable procurement duty, outlined in Procurement Reform
+   The sustainable procurement duty, outlined in Procurement Reform
    (Scotland) Act 2014, aligns with our purpose to create a more
    successful country, with opportunities for all of Scotland to flourish,
    through increasing sustainable economic growth.
 
-   It is underpinned by the [42]National Performance Framework and
-   Scotland's Economic Strategy.
+   It is underpinned by the National Performance Framework and Scotland's
+   Economic Strategy.
 
-   The [43]sustainable procurement duty requires that before a contracting
+   The sustainable procurement duty requires that before a contracting
    authority buys anything, it must think about how it can improve the
    social, environmental and economic wellbeing of the area in which it
-   operates, with a particular focus on [44]reducing inequality.
+   operates, with a particular focus on reducing inequality.
 
    It also requires a contracting authority to consider how its
-   procurement processes can [45]facilitate the involvement of SMEs, third
+   procurement processes can facilitate the involvement of SMEs, third
    sector bodies and supported businesses, and how public procurement can
    be used to promote innovation.
 
-   The Sustainable Procurement Duty is referred to in the [46]Public
+   The Sustainable Procurement Duty is referred to in the Public
    Procurement Strategy for Scotland, and sustainable procurement is
    central to multiple of the strategic objectives. Prominent examples
    include:
@@ -122,7 +121,7 @@ Sustainable procurement support and guidance
 
    Guidance has been published to help public bodies comply with the
    sustainable procurement duty and support sustainable procurement,
-   including [47]statutory guidance on the sustainable procurement duty
+   including statutory guidance on the sustainable procurement duty
    (chapter 3).
 
 Sustainable procurement tools
@@ -167,18 +166,18 @@ Flexible framework assessment tool
    of performance and the actions required to embed good procurement
    practice to realise intended sustainable outcomes.
 
-   Access the [48]sustainable procurement duty tools.
+   Access the sustainable procurement duty tools.
 
-   A series of [49]sustainable procurement supporting guides are also
+   A series of sustainable procurement supporting guides are also
    available to help public sector organisations embed sustainability into
    their procurement processes.
 
 Archive
 
-   You can view [50]sustainable procurement content prior to 2018 on the
+   You can view sustainable procurement content prior to 2018 on the
    gov.scot archive.
-   [51]Construction procurement
-   [52]SME and third sector organisations access to public contracts
+   Construction procurement
+   SME and third sector organisations access to public contracts
 
 There is a problem
 
@@ -227,98 +226,28 @@ There is a problem
    personal information because we cannot reply to you directly.
    (BUTTON) Send feedback
 
-   [53]Back to top
+   Back to top
 
 Follow The Scottish Government
 
-     * [54]Facebook
-     * [55]Twitter
-     * [56]Flickr
-     * [57]YouTube
-     * [58]Instagram
+     * Facebook
+     * Twitter
+     * Flickr
+     * YouTube
+     * Instagram
 
-     * [59]Accessibility
-     * [60]Archive
-     * [61]Contact
-     * [62]Cookies
-     * [63]Crown Copyright
-     * [64]Jobs and vacancies
-     * [65]Privacy
+     * Accessibility
+     * Archive
+     * Contact
+     * Cookies
+     * Crown Copyright
+     * Jobs and vacancies
+     * Privacy
 
-   [66]Open Government License
+   Open Government License
 
-   All content is available under the [67]Open Government Licence v3.0,
-   except for graphic assets and where otherwise stated
+   All content is available under the Open Government Licence v3.0, except
+   for graphic assets and where otherwise stated
 
    © Crown Copyright
    gov.scot
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-5S47S9Z
-   2. https://www.gov.scot/policies/public-sector-procurement/sustainable-procurement-duty/#main-content
-   3. https://www.gov.scot/accessibility/
-   4. https://www.gov.scot/cookies/
-   5. https://www.gov.scot/cookies/
-   6. https://www.gov.scot/cookies/
-   7. https://www.gov.scot/
-   8. https://www.gov.scot/about/
-   9. https://www.gov.scot/topics/
-  10. https://www.gov.scot/news/
-  11. https://www.gov.scot/publications/
-  12. https://www.gov.scot/statistics-and-research/
-  13. https://consult.scotland.gov.uk/
-  14. https://blogs.gov.scot/
-  15. https://www.gov.scot/about/
-  16. https://www.gov.scot/topics/
-  17. https://www.gov.scot/news/
-  18. https://www.gov.scot/publications/
-  19. https://www.gov.scot/statistics-and-research/
-  20. https://consult.scotland.gov.uk/
-  21. https://blogs.gov.scot/
-  22. https://www.gov.scot/
-  23. https://www.gov.scot/policies/
-  24. https://www.gov.scot/policies/public-sector-procurement/
-  25. https://www.gov.scot/about/how-government-is-run/directorates/scottish-procurement-and-property-directorate/
-  26. https://www.gov.scot/business-industry-and-innovation/
-  27. https://www.gov.scot/public-sector/
-  28. https://www.gov.scot/policies/public-sector-procurement/
-  29. https://www.gov.scot/policies/public-sector-procurement/latest/
-  30. https://www.gov.scot/policies/public-sector-procurement/procurement-transparency/
-  31. https://www.gov.scot/policies/public-sector-procurement/support-for-public-sector/
-  32. https://www.gov.scot/policies/public-sector-procurement/guidance-suppliers/
-  33. https://www.gov.scot/policies/public-sector-procurement/collaborative-contracts-and-frameworks/
-  34. https://www.gov.scot/policies/public-sector-procurement/construction-procurement/
-  35. https://www.gov.scot/policies/public-sector-procurement/sme-access-to-public-contracts/
-  36. https://www.gov.scot/policies/public-sector-procurement/fair-work-in-procurement/
-  37. https://www.gov.scot/policies/public-sector-procurement/community-benefits-in-procurement/
-  38. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duties/
-  39. https://www.gov.scot/policies/public-sector-procurement/procurement-and-climate-change/
-  40. https://www.gov.scot/publications/independent-review-scotlands-journey-achieving-sustainable-procurement-outcomes-2002-2022/
-  41. http://www.legislation.gov.uk/asp/2014/12/section/9
-  42. http://nationalperformance.gov.scot/
-  43. http://www.legislation.gov.uk/asp/2014/12/section/9
-  44. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duties/
-  45. https://www.gov.scot/policies/public-sector-procurement/sme-access-to-public-contracts/
-  46. https://www.gov.scot/publications/public-procurement-strategy-scotland-2023-2028/
-  47. https://www.gov.scot/publications/procurement-reform-scotland-act-2014-statutory-guidance/pages/3/
-  48. https://sustainableprocurementtools.scot/
-  49. https://sustainableprocurementtools.scot/index.cfm/guidance/
-  50. https://www.webarchive.org.uk/wayback/archive/20180529193258/http://www.gov.scot/Topics/Government/Procurement/policy
-  51. https://www.gov.scot/policies/public-sector-procurement/construction-procurement/
-  52. https://www.gov.scot/policies/public-sector-procurement/sme-access-to-public-contracts/
-  53. https://www.gov.scot/policies/public-sector-procurement/sustainable-procurement-duty/#page-top
-  54. https://www.facebook.com/TheScottishGovernment/timeline/
-  55. https://twitter.com/scotgov
-  56. https://www.flickr.com/photos/26320652@N02
-  57. https://www.youtube.com/user/scottishgovernment
-  58. https://www.instagram.com/scotgov/
-  59. https://www.gov.scot/accessibility/
-  60. https://www.gov.scot/archive/
-  61. https://www.gov.scot/about/contact-information/
-  62. https://www.gov.scot/cookies/
-  63. https://www.gov.scot/crown-copyright/
-  64. https://www.gov.scot/about/contact-information/jobs-vacancies
-  65. https://www.gov.scot/privacy/
-  66. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  67. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

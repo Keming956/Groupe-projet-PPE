@@ -1,50 +1,49 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-NBFK6PV
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NBFK6PV
 
    Warning Javascript is turned off For the best experience please use a
-   JavaScript enabled browser. [2]Skip to main content
+   JavaScript enabled browser. Skip to main content
 
-   [3]Office for Students (BUTTON) Mobile Search (BUTTON) Toggle
-   navigation
-     * [4]Contact us
-     * [5]About
-     * [6]Deadlines
+   Office for Students (BUTTON) Mobile Search (BUTTON) Toggle navigation
+     * Contact us
+     * About
+     * Deadlines
 
    Search site ____________________ (BUTTON) Search
 
-     * [7]Home
-     * [8]Advice and guidance
-          + [9]Regulation
-          + [10]Quality and standards
-          + [11]The TEF
-          + [12]Promoting equal opportunities
-          + [13]The Register
-          + [14]Skills and employment
-          + [15]Student wellbeing and protection
-          + [16]Funding for providers
-          + [17]Student information and data
-          + [18]Partnerships and collaboration
-     * [19]For students
-          + [20]Student outcomes and employability
-          + [21]Student rights and welfare
-          + [22]OfS and students
-          + [23]Teaching quality and TEF
-          + [24]Planning to study
-          + [25]Equal opportunities
-          + [26]Student finance
-     * [27]News, blog and events
-          + [28]Press and media
-          + [29]Blog
-          + [30]Events
-     * [31]Publications
-          + [32]Consultations
-     * [33]Data and analysis
-          + [34]Official statistics
-          + [35]Insight briefs
-     * [36]Get involved
+     * Home
+     * Advice and guidance
+          + Regulation
+          + Quality and standards
+          + The TEF
+          + Promoting equal opportunities
+          + The Register
+          + Skills and employment
+          + Student wellbeing and protection
+          + Funding for providers
+          + Student information and data
+          + Partnerships and collaboration
+     * For students
+          + Student outcomes and employability
+          + Student rights and welfare
+          + OfS and students
+          + Teaching quality and TEF
+          + Planning to study
+          + Equal opportunities
+          + Student finance
+     * News, blog and events
+          + Press and media
+          + Blog
+          + Events
+     * Publications
+          + Consultations
+     * Data and analysis
+          + Official statistics
+          + Insight briefs
+     * Get involved
 
-    1. [37]Home
-    2. [38]Advice and guidance
-    3. [39]Student wellbeing and protection
+    1. Home
+    2. Advice and guidance
+    3. Student wellbeing and protection
     4. Counter-terrorism - the Prevent duty
 
 Counter-terrorism - the Prevent duty
@@ -52,11 +51,11 @@ Counter-terrorism - the Prevent duty
 Sections in this guide
 
     1. Overview
-    2. [40]How we monitor
-    3. [41]Guidance for providers
-    4. [42]Who to contact for help
-    5. [43]Prevent case studies
-    6. [44]Other resources
+    2. How we monitor
+    3. Guidance for providers
+    4. Who to contact for help
+    5. Prevent case studies
+    6. Other resources
 
    The Office for Students (OfS) monitors what higher education providers
    do to prevent people being drawn into terrorism.
@@ -66,10 +65,10 @@ What is the Prevent duty?
    The Prevent duty aims to safeguard people from becoming terrorists or
    supporting terrorism.
 
-   The government created [45]two sets of statutory guidance to support
-   the strategy, one of which is specifically for higher education bodies.
+   The government created two sets of statutory guidance to support the
+   strategy, one of which is specifically for higher education bodies.
 
-   [46]The government has set out our monitoring role under the Counter
+   The government has set out our monitoring role under the Counter
    Terrorism and Security Act 2015.
 
 What do providers have to do?
@@ -109,24 +108,24 @@ Further education colleges
    Ofsted, rather than the OfS, is responsible for monitoring the
    implementation of the Prevent duty by further education or sixth-form
    colleges.
-   [47]Next
+   Next
    How we monitor
 
 Related links
 
-     * [48]The government's Prevent duty guidance
-     * [49]The Prevent duty in higher education: training and guidance for
+     * The government's Prevent duty guidance
+     * The Prevent duty in higher education: training and guidance for
        practitioners
 
 Share this page:
 
-     * [50]Share on Twitter
-     * [51]Share on Pinterest
-     * [52]Share on Facebook
-     * [53]Share on LinkedIn
-     * [54]Print this page
+     * Share on Twitter
+     * Share on Pinterest
+     * Share on Facebook
+     * Share on LinkedIn
+     * Print this page
 
-   [55]Help us improve your experience
+   Help us improve your experience
 
    Describe your experience of using this website
 
@@ -147,108 +146,33 @@ Thank you for your feedback
 
 Useful links
 
-     * [56]Careers
+     * Careers
 
 Contact us
 
-     * [57]General enquiries
-     * [58]How to find us
-     * [59]Complaints
+     * General enquiries
+     * How to find us
+     * Complaints
 
 
-     * [60][email protected]
+     * [email protected]
      __________________________________________________________________
 
 Connect with us
 
-   [61]Sign up to our email alerts
-     * [62]Facebook
-     * [63]Twitter
-     * [64]LinkedIn
-     * [65]YouTube
-     * [66]Instagram
+   Sign up to our email alerts
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * YouTube
+     * Instagram
      __________________________________________________________________
 
-     * [67]Privacy
-     * [68]Sitemap
-     * [69]Copyright
-     * [70]Cookies
-     * [71]Procurement
-     * [72]Accessibility statement
+     * Privacy
+     * Sitemap
+     * Copyright
+     * Cookies
+     * Procurement
+     * Accessibility statement
 
    © 2023 Copyright. All rights reserved.
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-NBFK6PV
-   2. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/#main-content
-   3. https://www.officeforstudents.org.uk/
-   4. https://www.officeforstudents.org.uk/contact/
-   5. https://www.officeforstudents.org.uk/about/
-   6. https://www.officeforstudents.org.uk/deadlines/
-   7. https://www.officeforstudents.org.uk/
-   8. https://www.officeforstudents.org.uk/advice-and-guidance/
-   9. https://www.officeforstudents.org.uk/advice-and-guidance/regulation/
-  10. https://www.officeforstudents.org.uk/advice-and-guidance/quality-and-standards/
-  11. https://www.officeforstudents.org.uk/advice-and-guidance/the-tef/
-  12. https://www.officeforstudents.org.uk/advice-and-guidance/promoting-equal-opportunities/
-  13. https://www.officeforstudents.org.uk/advice-and-guidance/the-register/
-  14. https://www.officeforstudents.org.uk/advice-and-guidance/skills-and-employment/
-  15. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/
-  16. https://www.officeforstudents.org.uk/advice-and-guidance/funding-for-providers/
-  17. https://www.officeforstudents.org.uk/advice-and-guidance/student-information-and-data/
-  18. https://www.officeforstudents.org.uk/advice-and-guidance/partnerships-and-collaboration/
-  19. https://www.officeforstudents.org.uk/for-students/
-  20. https://www.officeforstudents.org.uk/for-students/student-outcomes-and-employability/
-  21. https://www.officeforstudents.org.uk/for-students/student-rights-and-welfare/
-  22. https://www.officeforstudents.org.uk/for-students/ofs-and-students/
-  23. https://www.officeforstudents.org.uk/for-students/teaching-quality-and-tef/
-  24. https://www.officeforstudents.org.uk/for-students/planning-to-study/
-  25. https://www.officeforstudents.org.uk/for-students/equal-opportunities/
-  26. https://www.officeforstudents.org.uk/for-students/student-finance/
-  27. https://www.officeforstudents.org.uk/news-blog-and-events/
-  28. https://www.officeforstudents.org.uk/news-blog-and-events/press-and-media/
-  29. https://www.officeforstudents.org.uk/news-blog-and-events/blog/
-  30. https://www.officeforstudents.org.uk/news-blog-and-events/events/
-  31. https://www.officeforstudents.org.uk/publications/
-  32. https://www.officeforstudents.org.uk/publications/consultations/
-  33. https://www.officeforstudents.org.uk/data-and-analysis/
-  34. https://www.officeforstudents.org.uk/data-and-analysis/official-statistics/
-  35. https://www.officeforstudents.org.uk/data-and-analysis/insight-briefs/
-  36. https://www.officeforstudents.org.uk/get-involved/
-  37. https://www.officeforstudents.org.uk/
-  38. https://www.officeforstudents.org.uk/advice-and-guidance/
-  39. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/
-  40. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/how-we-monitor/
-  41. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/guidance-for-providers/
-  42. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/who-to-contact-for-help/
-  43. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/prevent-case-studies/
-  44. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/other-resources/
-  45. https://www.gov.uk/government/publications/prevent-duty-guidance
-  46. https://www.officeforstudents.org.uk/media/1301/prevent-ofs-delegation-letter.pdf
-  47. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/how-we-monitor/
-  48. https://www.gov.uk/government/publications/prevent-duty-guidance
-  49. https://www.gov.uk/government/collections/the-prevent-duty-in-higher-education-he-training-and-guidance-for-practitioners
-  50. http://twitter.com/share?text=&url=https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/
-  51. http://pinterest.com/pin/create/button/?url=https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/&description=
-  52. http://www.facebook.com/sharer.php?u=https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/&p=
-  53. https://www.linkedin.com/shareArticle?mini=true&url=https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/&title=&source=https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/
-  54. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/
-  55. https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/counter-terrorism-the-prevent-duty/
-  56. https://www.officeforstudents.org.uk/careers/
-  57. https://www.officeforstudents.org.uk/contact/contact-details/
-  58. https://www.officeforstudents.org.uk/contact/how-to-find-us/
-  59. https://www.officeforstudents.org.uk/for-students/ofs-and-students/complaints/
-  60. https://www.officeforstudents.org.uk/cdn-cgi/l/email-protection#422b2c242d022d24242b2127242d3031363726272c36316c2d30256c3729
-  61. https://www.officeforstudents.org.uk/sign-up-for-email-alerts
-  62. https://www.facebook.com/officeforstudents
-  63. https://www.twitter.com/officestudents
-  64. https://www.linkedin.com/company/office-for-students/
-  65. https://www.youtube.com/officeforstudents
-  66. https://instagram.com/officeforstudents?igshid=zdngbt12ymvi
-  67. https://www.officeforstudents.org.uk/ofs-privacy/
-  68. https://www.officeforstudents.org.uk/site-map/
-  69. https://www.officeforstudents.org.uk/copyright/
-  70. https://www.officeforstudents.org.uk/cookies/
-  71. https://www.officeforstudents.org.uk/procurement/
-  72. https://www.officeforstudents.org.uk/accessibility-statement-for-the-office-for-students-website/

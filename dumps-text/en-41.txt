@@ -1,6 +1,6 @@
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   [3]Skip to main content
+   Skip to main content
 
 Cookies on Prevent duty training
 
@@ -9,17 +9,17 @@ Cookies on Prevent duty training
    We`d like to set analytics cookies so we can remember your settings,
    understand how people use the service and make improvements.
    (Accept analytics cookies) Accept analytics cookies
-   (Reject analytics cookies) Reject analytics cookies [4]View cookies
+   (Reject analytics cookies) Reject analytics cookies View cookies
 
-   [5]GOV.UK
-   [6]Prevent duty training
+   GOV.UK
+   Prevent duty training
 
-   beta This is a new service – [7]Tell us what you think. Your feedback
-   will help us improve our service.
+   beta This is a new service – Tell us what you think. Your feedback will
+   help us improve our service.
 
 Breadcrumb
 
-    1. [8]GOV.UK
+    1. GOV.UK
     2. Prevent duty training
 
 Prevent duty training: Learn how to support people susceptible to
@@ -63,62 +63,36 @@ Prevent duty courses
 Help and further information
 
    If you experience any issues with the service or our site, refer to
-   our [9]help section. A link can be found at the footer of every page.
+   our help section. A link can be found at the footer of every page.
 
-   This service is also available [10]in Welsh (Cymraeg)
+   This service is also available in Welsh (Cymraeg)
    I have a concern about a family member, friend or member of the
    community
 
    If you do not work for a sector that falls under the Prevent duty, but
    you have a concern about an individual that you would like to share,
-   please contact your [11]local council or call the national police
-   Prevent advice line on 0800 011 3764.
+   please contact your local council or call the national police Prevent
+   advice line on 0800 011 3764.
 
    If you're deaf, hard of hearing or have a speech impairment, a police
    non-emergency number is available as a text phone service on 18001 101.
 
-   [12]Start now [13]Continue an existing course
+   Start now Continue an existing course
      __________________________________________________________________
 
-   [14]Report material that promotes terrorism or extremism online if you
-   come across it.
+   Report material that promotes terrorism or extremism online if you come
+   across it.
 
 Support links
 
-     * [15]Help
-     * [16]Privacy policy
-     * [17]Cookies
-     * [18]Accessibility Statement
-     * [19]Service performance
-     * [20]Terms and conditions
-     * [21]Cymraeg
+     * Help
+     * Privacy policy
+     * Cookies
+     * Accessibility Statement
+     * Service performance
+     * Terms and conditions
+     * Cymraeg
 
-   All content is available under the [22]Open Government Licence v3.0,
-   except where otherwise stated
-   [23]© Crown copyright
-
-References
-
-   1. http://www.support-people-vulnerable-to-radicalisation.service.gov.uk/
-   2. http://www.support-people-vulnerable-to-radicalisation.service.gov.uk/cy
-   3. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/#main-content-anchor
-   4. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/cookies
-   5. https://www.gov.uk/
-   6. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/
-   7. https://www.gov.uk/done/prevent-duty-training
-   8. https://www.gov.uk/
-   9. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/get-help-using-prevent-duty-training-service
-  10. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/cy
-  11. https://www.gov.uk/find-local-council
-  12. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/portal
-  13. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/resume-course
-  14. https://www.gov.uk/report-terrorism
-  15. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/get-help-using-prevent-duty-training-service
-  16. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/privacy-notice
-  17. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/cookies
-  18. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/accessibility-statement
-  19. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/service-performance
-  20. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/terms-and-conditions
-  21. https://www.support-people-vulnerable-to-radicalisation.service.gov.uk/cy
-  22. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  23. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

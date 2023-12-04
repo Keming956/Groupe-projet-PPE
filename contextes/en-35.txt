@@ -1,5 +1,5 @@
-     * [82]Standards
-     * [83]Guidance and Supporting Information
+     * Standards
+     * Guidance and Supporting Information
      * The professional duty of candour
 
 Guidance on the professional duty of candour
@@ -9,18 +9,18 @@ Guidance on the professional duty of candour
 Contents
 
      * Overview
-     * [84]Read the professional duty of candour
+     * Read the professional duty of candour
 
    All healthcare professionals have a duty of candour – this is a
    professional responsibility to be honest when things go wrong.
 
-   This [85]guidance on the professional duty of candour ([86]Cymraeg) was
+   This guidance on the professional duty of candour (Cymraeg) was
    produced in collaboration with the General Medical Council and has been
    refreshed in March 2022.
 
    This guidance complements the joint statement on the professional duty
    of candour by professional healthcare regulators (October 2014) and
-   section 14 of [87]the Code.
+   section 14 of the Code.
 
    It focuses not only on the duty to be open and honest with patients but
    also on the need to be open and honest within organisations in
@@ -32,52 +32,13 @@ Contents
 
 --
 
-   [89]View webinar slides
-   [90]Next Read the professional duty of candour
+   View webinar slides
+   Next Read the professional duty of candour
 
 Related pages
 --
-     * [93]Learning from Gosport
-     * [94]Professionalism
-     * [95]The professional duty of candour
-     * [96]Social media guidance
-     * [97]Raising concerns: Guidance for nurses, midwives and nursing
---
-   2. https://www.nmc.org.uk/news/news-and-updates/news-feed/?feedFormat=atom
-   3. https://www.googletagmanager.com/ns.html?id=GTM-PHGTNMV
-   4. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/#main
-   5. https://www.nmc.org.uk/
-   6. https://www.nmc.org.uk/about-us/our-role/ein-rol/
---
-  11. https://www.nmc.org.uk/registration/search-the-register/
-  12. https://www.nmc.org.uk/registration/employer-confirmations/
-  13. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/#footer
-  14. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/#search-criteria
-  15. https://www.nmc.org.uk/registration/search-the-register/
-  16. https://www.nmc.org.uk/registration/employer-confirmations/
---
-  77. https://online.nmc-uk.org/Account/Login?ReturnUrl=/
-  78. https://www.nmc.org.uk/contact-us/
-  79. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/#search-criteria
-  80. https://www.nmc.org.uk/standards/guidance/
-  81. https://www.nmc.org.uk/
-  82. https://www.nmc.org.uk/standards/
-  83. https://www.nmc.org.uk/standards/guidance/
-  84. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/read-the-professional-duty-of-candour/
-  85. https://www.nmc.org.uk/globalassets/sitedocuments/nmc-publications/openness-and-honesty-professional-duty-of-candour.pdf
-  86. https://www.nmc.org.uk/globalassets/sitedocuments/nmc-publications/openness-honesty-professional-duty-of-candour-welsh.pdf
-  87. https://www.nmc.org.uk/standards/code/
-  88. https://attendee.gotowebinar.com/recording/3064503156475303170
-  89. https://www.nmc.org.uk/globalassets/images/standards/nmc--gmc-duty-of-candour-webinar.pdf
-  90. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/read-the-professional-duty-of-candour/
-  91. https://www.nmc.org.uk/standards/guidance/
-  92. https://www.nmc.org.uk/standards/guidance/preceptorship/
-  93. https://www.nmc.org.uk/standards/guidance/learning-from-gosport/
-  94. https://www.nmc.org.uk/standards/guidance/professionalism/
-  95. https://www.nmc.org.uk/standards/guidance/the-professional-duty-of-candour/
-  96. https://www.nmc.org.uk/standards/guidance/social-media-guidance/
-  97. https://www.nmc.org.uk/standards/guidance/raising-concerns-guidance-for-nurses-and-midwives/
-  98. javascript:window.print();
-  99. https://www.nmc.org.uk/tools/email-a-friend/?page=/standards/guidance/the-professional-duty-of-candour/&ssl=True
- 100. https://www.nmc.org.uk/about-us/
- 101. https://www.nmc.org.uk/standards/
+     * Learning from Gosport
+     * Professionalism
+     * The professional duty of candour
+     * Social media guidance
+     * Raising concerns: Guidance for nurses, midwives and nursing

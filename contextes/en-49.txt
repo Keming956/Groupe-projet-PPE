@@ -1,8 +1,26 @@
+
+   Information and guidance on the Equality Act 2010, including age
+   discrimination and public sector Equality Duty.
+
+   From:
+--
+    3. Equality Act provisions: commencement dates
+    4. Age discrimination
+    5. Public sector Equality Duty
+    6. Equalities Act 2010: legislation
+    7. Guidance on the Equality Act
+--
      * applying the detriment model to victimisation protection (aligning
        with the approach in employment law)
      * harmonising the thresholds for the duty to make reasonable
        adjustments for disabled people
      * extending protection against harassment of employees by third
+--
+   Equality Act provisions which came into force in April 2011:
+     * positive action - recruitment and promotion
+     * public sector Equality Duty (see section below)
+
+   Ministers are considering how to implement the remaining provisions in
 --
    Equality Act Provisions that the government has decided not to take
    forward:
@@ -10,7 +28,21 @@
      * combined discrimination - dual characteristics
 
 --
-   when it is carrying out a public function.
+   justified, if challenged.
+
+Public sector Equality Duty
+
+   The public sector Equality Duty came into force across Great Britain on
+   5 April 2011. It means that public bodies have to consider all
+   individuals when carrying out their day-to-day work – in shaping
+--
+       their activities
+
+Who the Equality Duty applies to
+
+   The Equality Duty applies across Great Britain to the public bodies
+   listed in Schedule 19 (as amended), and to any other organisation when
+   it is carrying out a public function.
 
 Specific duties
 
@@ -20,15 +52,26 @@ Specific duties
    The specific duties require public bodies to publish relevant,
    proportionate information showing compliance with the Equality Duty,
    and to set equality objectives.
+
 --
+
    The Government Equalities Office has published 2 quick-start guides to
    help public bodies understand the Equality Duty and the specific
    duties:
-     * [61]Quick start guide: public sector Equality Duty
-     * [62]Quick start guide: Specific duties
+     * Quick start guide: public sector Equality Duty
+     * Quick start guide: Specific duties
 
-   The [63]Equality and Human Rights Commission is the statutory body
---
+   The Equality and Human Rights Commission is the statutory body
+   established to help eliminate discrimination and reduce inequality. The
+   Commission has published new non-statutory guidance on:
+     * The essential guide to the public sector Equality Duty
+     * Meeting the Equality Duty in policy and decision-making
+     * Engagement and the Equality Duty
+     * Equality objectives and the Equality Duty
+     * Equality information and the Equality Duty
+     * Technical guidance on the public sector Equality Duty - England
+
+Devolution
 
    Section 153 of the act enables the Welsh and Scottish ministers to
    impose specific duties on certain Welsh and Scottish public bodies
@@ -36,32 +79,14 @@ Specific duties
    bodies, specific duties have been finalised by the Welsh Assembly
    government and came into force on 6 April 2011.
 
---
+   The Equality Act 2010 (Statutory Duties) (Wales) Regulations 2011
 
    For Scottish public bodies, the Scottish government launched a
    consultation on revised draft Regulations for specific duties on 9
    September 2011. The consultation closed on 25 November 2011.
 
---
-  45. https://www.gov.uk/guidance/equality-act-2010-guidance#equality-act-provisions-commencement-dates
-  46. https://www.gov.uk/guidance/equality-act-2010-guidance#age-discrimination
-  47. https://www.gov.uk/guidance/equality-act-2010-guidance#public-sector-equality-duty
-  48. https://www.gov.uk/guidance/equality-act-2010-guidance#equalities-act-2010-legislation
-  49. https://www.gov.uk/guidance/equality-act-2010-guidance#guidance-on-the-equality-act
---
-  59. http://www.legislation.gov.uk/ukpga/2010/15/section/149
-  60. https://www.gov.uk/government/publications/equality-act-2010-schedule-19-consolidated-april-2011
-  61. https://www.gov.uk/government/publications/public-sector-quick-start-guide-to-the-public-sector-equality-duty
-  62. https://www.gov.uk/government/publications/public-sector-quick-start-guide-to-the-specific-duties
-  63. http://www.equalityhumanrights.com/
-  64. https://www.equalityhumanrights.com/en/publication-download/essential-guide-public-sector-equality-duty
-  65. https://www.equalityhumanrights.com/en/publication-download/meeting-equality-duty-policy-and-decision-making-england-and-non-devolved
-  66. https://www.equalityhumanrights.com/en/publication-download/engagement-and-equality-duty
-  67. https://www.equalityhumanrights.com/en/publication-download/objectives-and-equality-duty-guide-public-authorities
-  68. https://www.equalityhumanrights.com/en/publication-download/equality-information-and-equality-duty-guide-public-authorities
-  69. https://www.equalityhumanrights.com/en/publication-download/technical-guidance-public-sector-equality-duty-england
-  70. http://www.legislation.gov.uk/wsi/2011/1064/pdfs/wsi_20111064_mi.pdf
-  71. http://www.scotland.gov.uk/Topics/People/Equality/PublicEqualityDuties
-  72. http://www.equalityhumanrights.com/advice-and-guidance/public-sector-equality-duty/
-  73. http://www.legislation.gov.uk/ukpga/2010/15/contents
-  74. http://www.legislation.gov.uk/ukpga/2010/15/notes/contents
+   More information from the Scottish Government
+
+   Guidance on the Equality Duty specific to Wales and Scotland is
+   available from the Equality and Human Rights Commission.
+

@@ -1,26 +1,26 @@
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-MM4Z3Q
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MM4Z3Q
 
-   [2]Skip to main content
-   [3]University of Birmingham
-     * [4]Education excellence
-     * [5]Alumni
-     * [6]Jobs
-     * [7]Events
-     * [8]Visit
+   Skip to main content
+   University of Birmingham
+     * Education excellence
+     * Alumni
+     * Jobs
+     * Events
+     * Visit
 
-   Switch between the UK and Dubai websites.[9]UK[10]Dubai
-     * [11]Study
-     * [12]Research
-     * [13]International
-     * [14]Business
-     * [15]News
-     * [16]About us
+   Switch between the UK and Dubai websites.UKDubai
+     * Study
+     * Research
+     * International
+     * Business
+     * News
+     * About us
 
    (BUTTON) Search
-    1. [17]News
-    2. [18]Autumn Statement 2023: No Green Stamp Duty Rebate
+    1. News
+    2. Autumn Statement 2023: No Green Stamp Duty Rebate
 
 Autumn Statement 2023: No Green Stamp Duty Rebate
 
@@ -62,7 +62,6 @@ Autumn Statement 2023: No Green Stamp Duty Rebate
 
 Featured staff
 
-   [19]
    Dr Jing Du
 
 Dr Jing Du
@@ -71,22 +70,21 @@ Dr Jing Du
 
 (BUTTON) Notes for editors
 
-     * For media inquiries please contact [20]Ellie Hail, Communications
+     * For media inquiries please contact Ellie Hail, Communications
        Officer, University of Birmingham on +44 (0)7966 311 409.
        Out-of-hours, please call +44 (0) 121 414 2772.
-     * The [21]University of Birmingham is ranked amongst the world’s top
-       100 institutions. Its work brings people from across the world to
+     * The University of Birmingham is ranked amongst the world’s top 100
+       institutions. Its work brings people from across the world to
        Birmingham, including researchers, teachers and more than 8,000
        international students from over 150 countries.
 
 Topics
 
-   [22]Business & economy
+   Business & economy
    Expert Comment
 
 Featured staff
 
-   [23]
    Dr Jing Du
 
 Dr Jing Du
@@ -95,11 +93,11 @@ Dr Jing Du
 
 Read next
 
-   [24]Autumn Statement 2023: Help for first-time buyers
+   Autumn Statement 2023: Help for first-time buyers
 
 Autumn Statement 2023: Help for first-time buyers
 
-   Dr Anandadepp Mandal shares expert reaction on help for first-time
+   Dr Anandadeep Mandal shares expert reaction on help for first-time
    buyers in the 2023 Autumn Statement.
 
    23 November 2023
@@ -113,75 +111,29 @@ Autumn Statement 2023: Help for first-time buyers
 
 (BUTTON) Services and facilities
 
-   [25]University of Birmingham logo
+   University of Birmingham logo
 
    Edgbaston Birmingham B15 2TT United Kingdom
 
    Tel: +44 (0)121 414 3344
-     * [26]Instagram
-     * [27]Facebook
-     * [28]Twitter
-     * [29]YouTube
-     * [30]Weibo
-     * [31]WeChat
+     * Instagram
+     * Facebook
+     * Twitter
+     * YouTube
+     * Weibo
+     * WeChat
 
-     * [32]Privacy
-     * [33]Legal
-     * [34]Accessibility
-     * [35]Intranet
-     * [36]Canvas Learning Environment
-     * [37]Publication Scheme
-     * [38]Information for Applicants
-     * [39]Freedom of information
-     * [40]Charitable information
-     * [41]Cookies policy and settings
-     * [42]Website feedback
-     * [43]Contact us
+     * Privacy
+     * Legal
+     * Accessibility
+     * Intranet
+     * Canvas Learning Environment
+     * Publication Scheme
+     * Information for Applicants
+     * Freedom of information
+     * Charitable information
+     * Cookies policy and settings
+     * Website feedback
+     * Contact us
 
    © University of Birmingham 2023
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-MM4Z3Q
-   2. https://www.birmingham.ac.uk/news/2023/autumn-statement-2023-no-green-stamp-duty-rebate
-   3. https://www.birmingham.ac.uk/index.aspx
-   4. http://www.birmingham.ac.uk/university/hefi/index.aspx
-   5. https://www.birmingham.ac.uk/alumni/index.aspx
-   6. https://www.birmingham.ac.uk/jobs
-   7. https://www.birmingham.ac.uk/events/index.aspx
-   8. https://www.birmingham.ac.uk/visit/index.aspx
-   9. https://www.birmingham.ac.uk/index.aspx
-  10. https://www.birmingham.ac.uk/dubai/index.aspx
-  11. https://www.birmingham.ac.uk/study
-  12. https://www.birmingham.ac.uk/research/index.aspx
-  13. https://www.birmingham.ac.uk/International/index.aspx
-  14. https://www.birmingham.ac.uk/partners/index.aspx
-  15. https://www.birmingham.ac.uk/news/
-  16. https://www.birmingham.ac.uk/university/index.aspx
-  17. https://www.birmingham.ac.uk/news
-  18. https://www.birmingham.ac.uk/news/2023/autumn-statement-2023-no-green-stamp-duty-rebate
-  19. https://www.birmingham.ac.uk/staff/profiles/business/du-jing.aspx
-  20. mailto:e.hail@bham.ac.uk
-  21. https://www.birmingham.ac.uk/university/index.aspx
-  22. https://www.birmingham.ac.uk/news/business-economy
-  23. https://www.birmingham.ac.uk/staff/profiles/business/du-jing.aspx
-  24. https://www.birmingham.ac.uk/news/2023/autumn-statement-2023-help-for-first-time-buyers
-  25. https://www.birmingham.ac.uk/index.aspx
-  26. https://instagram.com/unibirmingham/
-  27. https://www.facebook.com/unibirmingham
-  28. https://twitter.com/unibirmingham
-  29. https://www.youtube.com/user/unibirmingham
-  30. https://www.weibo.com/unibirmingham
-  31. https://www.birmingham.ac.uk/contact/we-chat.aspx
-  32. https://www.birmingham.ac.uk/privacy
-  33. https://www.birmingham.ac.uk/legal/index.aspx
-  34. https://www.birmingham.ac.uk/accessibility/index.aspx
-  35. https://intranet.birmingham.ac.uk/index.aspx
-  36. https://canvas.bham.ac.uk/
-  37. https://www.birmingham.ac.uk/university/governance/publication-scheme/index.aspx
-  38. https://www.birmingham.ac.uk/undergraduate/courses/applicant-information.aspx
-  39. https://www.birmingham.ac.uk/university/governance/policies-regs/information/index.aspx
-  40. https://www.birmingham.ac.uk/university/governance/publication-scheme/charitable.aspx
-  41. https://www.birmingham.ac.uk/privacy/cookies-settings
-  42. https://www.birmingham.ac.uk/contact/feedback/index.aspx
-  43. https://www.birmingham.ac.uk/contact/index.aspx

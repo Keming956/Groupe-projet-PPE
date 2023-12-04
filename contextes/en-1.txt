@@ -1,26 +1,50 @@
-               o [59]Homelessness (16/17 year olds)
-               o [60]Locating a child
-               o [61]Local Authorities’ duties in relation to Looked After
+               o Homelessness (16/17 year olds)
+               o Locating a child
+               o Local Authorities’ duties in relation to Looked After
                  Children
-               o [62]Parental responsibility
+               o Parental responsibility
 --
-               o [81]Homelessness (16/17 year olds)
-               o [82]Legal position relating to unborn children
-               o [83]Local Authorities’ duties in relation to Looked After
+               o Testamentary Guardianship
+               o Wardship
+          + Duties of Children’s Services
+               o Advocacy
+               o Care orders
+--
+               o Homelessness (16/17 year olds)
+               o Legal position relating to unborn children
+               o Local Authorities’ duties in relation to Looked After
                  Children
-               o [84]Locating a child
+               o Locating a child
 --
-                         @ [232]Kinship care
-                         @ [233]Homelessness (16/17 year olds)
-                         @ [234]Local Authorities’ duties in relation to
-                           Looked After Children
+          + Participation of young people in education, employment or
+            training
+          + Radicalisation in schools and The Prevent Duty
+          + School admissions
+          + School Admissions FAQ
+--
+                         @ Kinship care
+                         @ Homelessness (16/17 year olds)
+                         @ Local Authorities’ duties in relation to Looked
+                           After Children
                     #
 --
-                         @ [253]Homelessness (16/17 year olds)
-                         @ [254]Legal position relating to unborn children
-                         @ [255]Local Authorities’ duties in relation to
-                           Looked After Children
-                         @ [256]Locating a child
+                         @ Wardship
+                         @ Signposting List
+               o Duties of Children’s Services
+                    #
+                         @ Advocacy
+--
+                         @ Homelessness (16/17 year olds)
+                         @ Legal position relating to unborn children
+                         @ Local Authorities’ duties in relation to Looked
+                           After Children
+                         @ Locating a child
+--
+               o Participation of young people in education, employment or
+                 training
+               o Radicalisation in schools and The Prevent Duty
+               o School admissions
+          +
 --
 young people (16-18 years old) in education, employment or training. This
 includes the various options available to young people to ensure
@@ -28,7 +52,7 @@ participation and the duties of the Local Authority to encourage
 participation.
 
 --
-   ([362]Section 2 Education and Skills Act 2008)
+   (Section 2 Education and Skills Act 2008)
 
 What are the duties of the Local Authority?
 
@@ -52,58 +76,16 @@ In so far as meeting these duties, Local Authorities are expected to:
 
 What are the duties of education providers?
 
-   [366]The Education and Skills Act 2008 placed two Raising Participation
-   Age related duties on education providers with regard to 16 and 17 year
+   The Education and Skills Act 2008 placed two Raising Participation Age
+   related duties on education providers with regard to 16 and 17 year
    olds:
-     * [367]Section 11 places a duty on education providers to promote
-       good attendance to enable young people to meet their duty to
+     * Section 11 places a duty on education providers to promote good
+       attendance to enable young people to meet their duty to
        participate.
-     * [368]Section 13 places a duty on education providers to inform
-       their local authority when a young person is no longer
-       participating, for example, if they have dropped out.
+     * Section 13 places a duty on education providers to inform their
+       local authority when a young person is no longer participating, for
+       example, if they have dropped out.
 
-   [369]Under Section 29  Education Act 2011, schools are under a duty to
+   Under Section 29  Education Act 2011, schools are under a duty to
    secure independent careers guidance for pupils in Years 8-13 on the
    full range of education and training options, including
---
-  59. https://childlawadvice.org.uk/information-pages/homelessness/
-  60. https://childlawadvice.org.uk/information-pages/locating-a-child/
-  61. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
-  62. https://childlawadvice.org.uk/information-pages/parental-responsibility/
-  63. https://childlawadvice.org.uk/information-pages/private-fostering/
---
-  67. https://childlawadvice.org.uk/information-pages/testamentary-guardianship/
-  68. https://childlawadvice.org.uk/information-pages/wardship/
-  69. https://childlawadvice.org.uk/family/duties-of-childrens-services/
-  70. https://childlawadvice.org.uk/information-pages/advocacy/
-  71. https://childlawadvice.org.uk/information-pages/care-orders/
---
-  81. https://childlawadvice.org.uk/information-pages/homelessness/
-  82. https://childlawadvice.org.uk/information-pages/legal-position-relating-to-unborn-children/
-  83. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
-  84. https://childlawadvice.org.uk/information-pages/locating-a-child/
-  85. https://childlawadvice.org.uk/information-pages/police-powers-of-protection-emergency-protection-orders/
---
- 126. https://childlawadvice.org.uk/information-pages/national-curriculum-at-secondary-school/
- 127. https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/
- 128. https://childlawadvice.org.uk/information-pages/radicalisation-in-schools-and-the-prevent-duty/
- 129. https://childlawadvice.org.uk/information-pages/school-admissions/
- 130. https://childlawadvice.org.uk/information-pages/school-admissions-faqs/
---
- 232. https://childlawadvice.org.uk/information-pages/family-and-friends-care/
- 233. https://childlawadvice.org.uk/information-pages/homelessness/
- 234. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
- 235. https://childlawadvice.org.uk/information-pages/parental-responsibility/
- 236. https://childlawadvice.org.uk/information-pages/private-fostering/
---
- 253. https://childlawadvice.org.uk/information-pages/homelessness/
- 254. https://childlawadvice.org.uk/information-pages/legal-position-relating-to-unborn-children/
- 255. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
- 256. https://childlawadvice.org.uk/information-pages/locating-a-child/
- 257. https://childlawadvice.org.uk/information-pages/police-powers-of-protection-emergency-protection-orders/
---
- 299. https://childlawadvice.org.uk/information-pages/national-curriculum-at-secondary-school/
- 300. https://childlawadvice.org.uk/information-pages/participation-of-young-people-in-education-employment-or-training/
- 301. https://childlawadvice.org.uk/information-pages/radicalisation-in-schools-and-the-prevent-duty/
- 302. https://childlawadvice.org.uk/information-pages/school-admissions/
- 303. https://childlawadvice.org.uk/information-pages/school-admissions-faqs/

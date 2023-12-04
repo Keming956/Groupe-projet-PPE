@@ -1,44 +1,43 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-T46PRBZ
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T46PRBZ
 
-   [2][joindhwhatsapp.png] JOIN US
-   (BUTTON) [3]E-PAPER
+   [joindhwhatsapp.png] JOIN US
+   (BUTTON) E-PAPER
    (BUTTON)
    (BUTTON)
-   [4]Home
-   [5]India
-   [6]Opinion
-   [7]Karnataka
-   [8]World
-   [9]Business
-   [10]Sports
-   [11]Entertainment
-   [12]Video
-   [13]Features
-   [14]News Shots
-   [15]Explainers
-   [16]Bengaluru
-   [17]Science
-   [18]Trending
-   [19]Brandspot
-   [20]Photos
-   [21]DH Specials
-   [22]Home
-   [23]News Shots
-   [24]Trending
+   Home
+   Elections 2023
+   India
+   Karnataka
+   Opinion
+   World
+   Business
+   Sports
+   Entertainment
+   Video
+   News Shots
+   Explainers
+   Bengaluru
+   Science
+   Trending
+   Brandspot
+   Photos
+   DH Specials
+   Home
+   News Shots
+   Trending
    Menu
    ×
    ADVERTISEMENT
    ADVERTISEMENT
    ADVERTISEMENT
-   [25]Home[26]india
+   Homeindia
 
 PM security breach: SP Gurbinder Singh suspended for dereliction of duty
 
    The officer, Gurbinder Singh, was at the time of the incident posted as
    the Superintendent of Police (Operations) and was on duty in Ferozepur.
-   [27]PTI
+   PTI
    Last Updated 25 November 2023, 12:07 IST
-   [28]
 
    Follow Us
    (BUTTON)
@@ -80,196 +79,69 @@ PM security breach: SP Gurbinder Singh suspended for dereliction of duty
    investigate.
    ADVERTISEMENT
    (Published 25 November 2023, 12:07 IST)
-   [29]India News[30]Narendra Modi[31]Punjab
+   India NewsNarendra ModiPunjab
 
 Follow us on
 
    ADVERTISEMENT
    ADVERTISEMENT
-   [32]
    India
-   [33]
    South
-   [34]
    North
-   [35]
    West
-   [36]
    East & North East
-   [37]
    Opinion
-   [38]
    Editorial
-   [39]
    Speak Out
-   [40]
    Cartoon
-   [41]
    Karnataka
-   [42]
    Bengaluru
-   [43]
    Sports
-   [44]
    Cricket
-   [45]
    Football
-   [46]
    Tennis
-   [47]
    F1 Racing
-   [48]
    Entertainment
-   [49]
    Movie Reviews
-   [50]
    Photos
-   [51]
    Specials
-   [52]
    DH on Sunday
-   [53]
    DH on Saturday
-   [54]Explainers
-     * [55]Explained | What are the details of the Israel-Hamas hostage
-       deal?
-     * [56]Explained | Understanding player trades in the IPL
-     * [57]Uttarkashi tunnel rescue: What went wrong with the auger
-       machine, what's next for rescuers?
-     * [58]Who is SFJ leader Gurpatwant Pannun, target of foiled murder
-       plot in US?
+   Explainers
+     * Explained | How climate change is making the world sick
+     * Explained | COP28 climate summit just approved a ‘loss and damage’
+       fund. What does this mean?
+     * Explained | What is PM Modi's Green Credits initiative?
+     * Explained | How will countries measure climate action at COP28?
 
-   [59]What's Brewing
-     * [60]Fund to compensate developing nations, fossil fuels, climate
-       finance key issues at COP28
-     * [61]Pak court adjourns until Wed hearing of Nawaz Sharif's appeals
-       against his conviction in two graft cases
-     * [62]SKM's 3-day protest: Farmer leaders to give memorandum to
-       Punjab Governor on Nov 28
-     * [63]ED summons to collectors: HC to pronounce order on Tuesday
+   What's Brewing
+     * Odisha deploys rescue teams as cyclone approaches Andhra coast
+     * Heavy rain alerts issued as 'Michaung' intensifies into a severe
+       cyclonic storm
+     * Congress MLAs in Telangana resolve to authorise AICC chief
+       Mallikarjun Kharge to appoint CLP leader
+     * Ethics panel report on Mahua Moitra listed for today but not tabled
+       in LS yet
 
-   [64]Latest News
-     * [65]Revadi vs Rights
-     * [66]My maiden middle
-     * [67]Don’t give up on gold bonds yet
-     * [68]Delhi must be firm with Maldives’ new leader
+   Latest News
+     * The meaning of love
+     * Highest-ever monthly freight revenue for Bengaluru rail division
+     * One more nurse arrested over illegal abortion racket case in
+       Bengaluru
+     * Manipal Hospitals launches adult vaccination programme in Bengaluru
 
-   [69]The Printers Mysore Ltd
-   [70]Prajavani
-   [71]Sudha
-   [72]Mayura
-   [73]Exam Mastermind
-   [74]Epaper
-   [75]Classifieds
-   [76]Contact
+   The Printers Mysore Ltd
+   Prajavani
+   Sudha
+   Mayura
+   Exam Mastermind
+   Epaper
+   Classifieds
+   Contact
      __________________________________________________________________
 
-   [77]About
-   [78]Privacy Policy
-   [79]Terms
-   [80]Disclaimer
-   [81]Grievance Redressal
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-T46PRBZ
-   2. https://www.whatsapp.com/channel/0029Va4ifN6AYlULZASc7V3S
-   3. https://epaper.deccanherald.com/
-   4. https://www.deccanherald.com/
-   5. https://www.deccanherald.com/top-india-news
-   6. https://www.deccanherald.com/top-opinion-news
-   7. https://www.deccanherald.com/top-karnataka-news
-   8. https://www.deccanherald.com/world
-   9. https://www.deccanherald.com/top-business-news
-  10. https://www.deccanherald.com/top-sports-news
-  11. https://www.deccanherald.com/top-news-entertainment-today
-  12. https://www.deccanherald.com/top-videos-today
-  13. https://www.deccanherald.com/features
-  14. https://www.deccanherald.com/news-shots
-  15. https://www.deccanherald.com/explainers
-  16. https://www.deccanherald.com/top-bengaluru-news
-  17. https://www.deccanherald.com/top-science-news
-  18. https://www.deccanherald.com/trending
-  19. https://www.deccanherald.com/brandspot
-  20. https://www.deccanherald.com/top-news-photos
-  21. https://www.deccanherald.com/dh-specials
-  22. https://www.deccanherald.com/
-  23. https://www.deccanherald.com/news-shots
-  24. https://www.deccanherald.com/top-news-trending
-  25. https://www.deccanherald.com/
-  26. https://www.deccanherald.com/india
-  27. https://www.deccanherald.com/author/pti
-  28. https://news.google.com/publications/CAAiEI68v2DwwAsSi23iz1Ps7aAqFAgKIhCOvL9g8MALEott4s9T7O2g?ceid=IN:en&oc=3&hl=en-IN&gl=IN
-  29. https://www.deccanherald.com/tags/india-news
-  30. https://www.deccanherald.com/tags/narendra-modi
-  31. https://www.deccanherald.com/tags/punjab
-  32. https://www.deccanherald.com/india
-  33. https://www.deccanherald.com/india-south
-  34. https://www.deccanherald.com/india-north
-  35. https://www.deccanherald.com/india-west
-  36. https://www.deccanherald.com/india-east-north-east
-  37. https://www.deccanherald.com/opinion
-  38. https://www.deccanherald.com/opinion/editorial
-  39. https://www.deccanherald.com/opinion/speak-out
-  40. https://www.deccanherald-web.quintype.io/opinion-cartoon
-  41. https://www.deccanherald.com/india/karnataka
-  42. https://www.deccanherald.com/india/karnataka/bengaluru
-  43. https://www.deccanherald.com/top-sports-news
-  44. https://www.deccanherald.com/sports/cricket
-  45. https://www.deccanherald.com/sports/football
-  46. https://www.deccanherald.com/sports/tennis
-  47. https://www.deccanherald.com/sports/f1-racing
-  48. https://www.deccanherald.com/entertainment
-  49. https://www.deccanherald.com/entertainment-movie-reviews
-  50. https://www.deccanherald.com/entertainment-photos
-  51. https://www.deccanherald.com/dh-specials
-  52. https://www.deccanherald.com/dh-on-sunday
-  53. https://www.deccanherald.com/dh-on-saturday
-  54. https://www.deccanherald.com/explainers
-  55. https://www.deccanherald.com/world/explained-what-are-the-details-of-the-israel-hamas-hostage-deal-2786792
-  56. https://www.deccanherald.com/sports/cricket/explained-understanding-player-trades-in-the-ipl-2786269
-  57. https://www.deccanherald.com/india/uttarakhand/uttarkashi-tunnel-rescue-what-went-wrong-with-the-auger-machine-whats-next-for-rescuers-2785666
-  58. https://www.deccanherald.com/world/who-is-sfj-leader-gurpatwant-pannun-target-of-foiled-murder-plot-in-us-2783010
-  59. https://www.deccanherald.com/most-brewing
-  60. https://www.deccanherald.com/environment/fund-to-compensate-developing-nations-fossil-fuels-climate-finance-key-issues-at-cop28-2786884
-  61. https://www.deccanherald.com/world/pak-court-adjourns-until-wed-hearing-of-nawaz-sharifs-appeals-against-his-conviction-in-two-graft-cases-2786657
-  62. https://www.deccanherald.com/india/punjab/skms-3-day-protest-farmer-leaders-to-give-memorandum-to-punjab-governor-on-nov-28-2786482
-  63. https://www.deccanherald.com/india/ed-summons-to-collectors-hc-to-pronounce-order-on-tuesday-2786357
-  64. https://www.deccanherald.com/latest-news
-  65. https://www.deccanherald.com/opinion/revadi-vs-rights-2787073
-  66. https://www.deccanherald.com/opinion/my-maiden-middle-2787077
-  67. https://www.deccanherald.com/opinion/don-t-give-up-on-gold-bonds-yet-2787080
-  68. https://www.deccanherald.com/opinion/editorial/delhi-must-be-firm-with-maldives-new-leader-2787076
-  69. http://www.printersmysore.com/
-  70. http://www.prajavani.net/
-  71. http://www.sudhaezine.com/
-  72. http://www.mayuraezine.com/
-  73. https://www.exammastermind.com/
-  74. https://epaper.deccanherald.com/
-  75. https://dhclassifieds.com/deccanonline/
-  76. https://printersmysore.com/contact
-  77. http://printersmysore.com/
-  78. https://www.deccanherald.com/privacy-policy
-  79. https://www.deccanherald.com/terms
-  80. https://www.deccanherald.com/disclaimer
-  81. https://www.deccanherald.com/grievance-redressal
-
-   Hidden links:
-  83. https://www.deccanherald.com/
-  84. https://www.whatsapp.com/channel/0029Va4ifN6AYlULZASc7V3S
-  85. https://www.facebook.com/deccanherald/
-  86. https://twitter.com/deccanherald
-  87. https://www.youtube.com/channel/UCHDXXHPrz-1GVbK_qk82hBQ
-  88. https://t.me/DeccanHeraldNews
-  89. https://www.instagram.com/deccanherald/
-  90. https://play.google.com/store/apps/details?id=com.tpml.dh
-  91. https://apps.apple.com/us/app/deccan-herald-news/id1511179557
-  92. https://www.deccanherald.com/
-  93. https://www.deccanherald.com/
-  94. https://play.google.com/store/apps/details?id=com.tpml.dh
-  95. https://apps.apple.com/us/app/deccan-herald-news/id1511179557
-  96. https://www.facebook.com/deccanherald
-  97. https://twitter.com/DeccanHerald
-  98. https://www.youtube.com/deccanherald
-  99. https://t.me/DeccanHeraldNews
+   About
+   Privacy Policy
+   Terms
+   Disclaimer
+   Grievance Redressal

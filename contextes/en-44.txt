@@ -1,50 +1,257 @@
- 331. https://web.archive.org/web/20090714112305/http://xbox360.ign.com/articles/100/1003351p1.html
- 332. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-6
- 333. https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
- 334. https://en.wikipedia.org/wiki/IGN
- 335. https://web.archive.org/web/20221227140710/https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
- 336. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-Development_Q&A_-_GameSpot_7-0
- 337. http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
- 338. https://web.archive.org/web/20160303101157/http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
- 339. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-8
- 340. https://www.newspapers.com/clip/92938870/north-bay-nugget/
+   [ ] Toggle the table of contents
+
+Call of Duty (video game)
+
+   [ ] 40 languages
 --
- 344. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-0
- 345. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-1
- 346. http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
- 347. https://web.archive.org/web/20160303154122/http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
- 348. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-0
- 349. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-1
- 350. https://www.metacritic.com/game/pc/call-of-duty
- 351. https://en.wikipedia.org/wiki/Metacritic
- 352. https://en.wikipedia.org/wiki/Fandom,_Inc.
+
+   2003 video game
+   Call of Duty
+   [220px-Call_of_Duty_%282003%29_cover.jpg]
+   Developer(s) Infinity Ward
+   Aspyr (COD Classic)
 --
- 359. http://www.gamepro.com/computer/pc/games/reviews/31578.shtml
- 360. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-GameSpot_13-0
- 361. http://www.gamespot.com/pc/action/callofduty/review.html
- 362. https://en.wikipedia.org/wiki/GameSpot
- 363. https://web.archive.org/web/20110820143439/http://www.gamespot.com/pc/action/callofduty/review.html
- 364. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNreview_14-0
- 365. https://web.archive.org/web/20120119212720/http://pc.ign.com/articles/456/456776p1.html
+   Writer(s) Michael Schiffer
+   Composer(s) Michael Giacchino
+   Series Call of Duty
+   Engine id Tech 3^[2]
+   Platform(s)
 --
- 389. http://au.pc.ign.com/articles/456/456776p1.html
- 390. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-22
- 391. https://web.archive.org/web/20091214082725/http://www.metacritic.com/games/platforms/ngage/callofduty
- 392. https://www.metacritic.com/games/platforms/ngage/callofduty
- 393. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-npd2003_23-0
- 394. https://web.archive.org/web/20041205111002/http://www.theesa.com/EFBrochure.pdf
+     * NA: November 23, 2004
+
+   Call of Duty Classic
+   PlayStation 3, Xbox 360
+     * WW: December 2, 2009
 --
- 420. https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php
- 421. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-ign-history_30-0
- 422. http://microsites.ign.com/call-of-duty-a-short-history/
- 423. https://en.wikipedia.org/wiki/IGN
- 424. https://en.wikipedia.org/wiki/Ziff_Davis
- 425. https://web.archive.org/web/20160303172825/http://microsites.ign.com/call-of-duty-a-short-history/
- 426. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-0
- 427. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-1
+   Mode(s) Single-player, multiplayer
+
+   Call of Duty is a 2003 first-person shooter game developed by Infinity
+   Ward and published by Activision. It is the first installment in the
+   Call of Duty franchise,^[3] released on October 29, 2003, for Microsoft
+   Windows. The game simulates infantry and combined arms warfare of World
+   War II using a modified version of the id Tech 3 engine. Much of its
+   theme and gameplay is similar to the Medal of Honor series; however,
+   Call of Duty showcases multiple viewpoints staged in the American,
+   British, and Soviet theaters of World War II.
+
 --
- 432. http://uk.xboxlive.ign.com/articles/105/1051550p1.html
- 433. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=13
- 434. http://www.callofduty.com/
- 435. https://www.imdb.com/title/tt0382590/
- 436. https://en.wikipedia.org/wiki/IMDb_(identifier)
+   reviewers.
+
+   In September 2004, an expansion pack called Call of Duty: United
+   Offensive, which was produced by Activision and developed by Gray
+   Matter Studios and Pi Studios, was released. At the same time the
+   N-Gage Version got an Arena Pack with 3 new Levels.^[4] An enhanced
+   port of Call of Duty for the PlayStation 3 and Xbox 360, titled Call of
+   Duty: Classic, developed by Aspyr, was released worldwide in November
+   2009 with the release of Call of Duty: Modern Warfare 2, being
+   available via redemption codes included with the "Hardened" and
+   "Prestige" editions of the game.^[5]
+--
+Gameplay[edit]
+
+   [210px-CallDuty1PC.jpg] In-game screenshot of Call of Duty on PC
+
+   As a first-person shooter, Call of Duty places the player in control of
+   an infantry soldier who makes use of various authentic World War II
+   firearms in combat. Each mission features a series of objectives that
+--
+   all objectives to advance to the next mission. The player can save and
+   load at any time, rather than the checkpoint system utilized in later
+   Call of Duty games.
+
+   The player has two primary weapon slots, a handgun slot, and can carry
+   up to ten grenades. Weapons may be exchanged with those found on the
+   battlefield dropped by dead soldiers. Unlike later Call of Duty games,
+   the first allows the player to toggle between different firing modes
+   (single shot or automatic fire). Call of Duty was one of the early
+   first-person shooters to feature iron sights in game play; by pressing
+   the corresponding key the player aims down the gun's actual sights for
+--
+   player is injured.
+
+   Call of Duty also featured "shellshock" (not to be confused with the
+   psychological condition of the same name): when there is an explosion
+   near the player, he momentarily experiences simulated tinnitus,
+--
+   [220px-E3_2003_%28343111642%29.jpg] Promotion at E3 2003
+
+   Call of Duty was developed by Infinity Ward, a new studio formed in
+   2002 originally consisting of 21 employees, many of whom were project
+   lead developers of the successful Medal of Honor: Allied Assault
+--
+   to please modders. Zied Rieke, a lead designer, clarified that gameplay
+   and modes were written in script making it "extremely easy for players
+   to make their own modifications to Call of Duty multiplayer".^[9]
+
+Reception[edit]
+--
+  Critical reception[edit]
+
+   Call of Duty received "critical acclaim", according to review
+   aggregator Metacritic.^[10] It won several "Game of the Year" awards
+   for 2003 from several reviewers.
+
+   During the 7th Annual Interactive Achievement Awards (now known as the
+   D.I.C.E. Awards), Call of Duty was honored "Game of the Year" of 2003
+   by the Academy of Interactive Arts & Sciences; it also won awards for
+   "Computer Game of the Year" and "Computer First Person Action Game of
+--
+   GameSpot named it the best computer game of October 2003.^[17]
+
+   Computer Games Magazine named Call of Duty the sixth-best computer game
+   of 2003, and the editors wrote, "This game ups the ante in the WWII
+   shooter arena, and makes everything that has come before it seem as
+   outdated as France's army."^[18] The editors of Computer Gaming World
+   presented Call of Duty with their 2003 "Shooter of the Year" award.
+   They remarked, "Call of Duty won this category without a shot
+   fired—there simply was no debate."^[19] It was also nominated for "Best
+   Game" at the 2004 Game Developers Choice Awards. While it did not
+--
+  Sales[edit]
+
+   The NPD Group named Call of Duty the eighth-best-selling computer game
+   of 2003.^[23] It maintained this position on NPD's computer game sales
+   rankings for the following year.^[24] In the United States alone, Call
+   of Duty sold 790,000 copies and earned $29.6 million (~$41.5 million in
+   2022) by August 2006. At the time, this led Edge to declare it the
+   country's 13th-best-selling computer game released since January
+   2000.^[25]
+
+   In the United Kingdom, Call of Duty sold 95,000 copies by the end of
+   2003, which made it 88th-biggest seller across all platforms that
+   year.^[26] Discussing this performance, Kristan Reed of
+   GamesIndustry.biz wrote that "Activision will be pleased that it
+   managed to interrupt the Sims party" with the game's release.^[27] Call
+   of Duty ultimately received a "Silver" sales award from the
+   Entertainment and Leisure Software Publishers Association (ELSPA),^[28]
+   indicating sales of at least 100,000 copies in the United Kingdom.^[29]
+
+   Call of Duty ultimately sold 4.5 million copies worldwide by 2013.^[30]
+
+Franchise[edit]
+
+   Main article: Call of Duty
+
+   Call of Duty spawned numerous spin-offs and sequels, part of the Call
+   of Duty series. Its expansion pack - Call of Duty: United Offensive was
+   developed by Gray Matter Studios and released September 14, 2004. Call
+   of Duty 2 was also developed by Infinity Ward and was released in
+   October 2005. Some Call of Duty spinoffs were developed for consoles,
+   such as Call of Duty: Finest Hour by Spark Unlimited and Call of Duty
+   2: Big Red One by Gray Matter Studios (merged into Treyarch). The
+   franchise eventually had over fifteen more sequels and spin offs.
+--
+Ports[edit]
+
+   Call of Duty Classic is a downloadable version of Call of Duty for Xbox
+   360 and PlayStation 3, featuring HD resolutions.^[31] Tokens to
+   download the game ahead of its release were sold along with special
+   "Hardened" and "Prestige" editions of Call of Duty: Modern Warfare
+   2,^[31] and the game was publicly released on December 2, 2009.
+
+--
+References[edit]
+
+    1. ^ "Aspyr announces CSI game, ships Call of Duty". Macworld.
+       Archived from the original on May 13, 2023. Retrieved May 13, 2023.
+    2. ^ ^a ^b Stead, Chris (July 15, 2009). "The 10 Best Game Engines of
+       This Generation". IGN. Archived from the original on August 31,
+       2012. Retrieved March 3, 2016.
+    3. ^ "GameSpot - Call of Duty". Archived from the original on October
+       1, 2009. Retrieved September 23, 2007.
+    4. ^ "Nokia N-Gage | New Unlockable Content For N-Gage Games With
+--
+       2009. Archived from the original on July 14, 2009. Retrieved July
+       13, 2009.
+    6. ^ Keza MacDonald (November 1, 2013). "Call of Duty's Original
+       Codename Was "Medal of Honor Killer"". IGN. Archived from the
+       original on December 27, 2022. Retrieved December 27, 2022.
+    7. ^ "Call of Duty Q&A". GameSpot. May 1, 2003. Archived from the
+       original on March 3, 2016. Retrieved March 3, 2016.
+    8. ^ Davidson, Neil (November 9, 2005). "Game's success sparks
+--
+       original on January 19, 2022. Retrieved January 19, 2022 – via
+       Newspapers.com.
+    9. ^ ^a ^b Blevins, Tal (May 14, 2003). "E3 2003: Call of Duty". IGN.
+       Archived from the original on March 3, 2016. Retrieved March 3,
+       2016.
+   10. ^ ^a ^b "Call of Duty". Metacritic. Fandom, Inc. Retrieved February
+       15, 2021.
+   11. ^ "EDGE magazine review score archive". Archived from the original
+       on September 11, 2017. Retrieved December 1, 2017.
+   12. ^ "Review: Call of Duty for PC on GamePro.com". GamePro. Archived
+       from the original on July 24, 2008. Retrieved May 15, 2008.
+   13. ^ "Call of Duty for PC Review - PC Call of Duty Review". GameSpot.
+       Archived from the original on August 20, 2011. Retrieved May 15,
+       2008.
+   14. ^ "IGN: Call of Duty Review". IGN. Archived from the original on
+       January 19, 2012. Retrieved May 19, 2008.
+   15. ^ "X-Play review Call of Duty PC - PC Call of Duty review". X-Play.
+       Archived from the original on April 9, 2017. Retrieved March 13,
+       2009.
+--
+       Awards. Archived from the original on August 7, 2007. Retrieved
+       September 23, 2007.
+   21. ^ "Call of Duty Review". Dan Adams. IGN. Archived from the original
+       on March 24, 2007. Retrieved September 23, 2007.
+   22. ^ "Call of Duty (Ngage) reviews at Metacritic.com".
+       www.metacritic.com. Archived from the original on December 14,
+       2009. Retrieved January 11, 2022.
+--
+       Reach Diamond Status In UK". Gamasutra. Archived from the original
+       on September 18, 2017.
+   30. ^ "Call of Duty: A Short History". IGN. Ziff Davis. November 2013.
+       Archived from the original on March 3, 2016. Retrieved February 23,
+       2014.
+   31. ^ ^a ^b Reilly, Jim (July 30, 2009). "Call of Duty Classic Coming
+       To PSN, XBLA 'Eventually'". IGN. IGN Entertainment, Inc. Archived
+       from the original on August 3, 2009. Retrieved October 17, 2009.
+   32. ^ "Call of Duty Classic Review – Xbox 360 Review at IGN". Archived
+       from the original on December 7, 2009. Retrieved December 9, 2009.
+
+--
+
+     * Official website
+     * Call of Duty at IMDb
+
+     * v
+--
+     * e
+
+   Call of Duty
+
+   Activision
+--
+
+   Main series
+     * Call of Duty
+          + United Offensive
+     * 2
+--
+     * Grand Prix 4, Halo: Combat Evolved, Neverwinter Nights, SMS Chess
+       (2002)
+     * Call of Duty (2003)
+     * Half-Life 2 (2004)
+     * Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+--
+     * Halo: Combat Evolved (2001)
+     * Battlefield 1942 (2002)
+     * Call of Duty (2003)
+     * Half-Life 2 (2004)
+     * God of War (2005)
+     * Gears of War (2006)
+     * Call of Duty 4: Modern Warfare (2007)
+     * LittleBigPlanet (2008)
+     * Uncharted 2: Among Thieves (2009)
+--
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&o
+   ldid=1183788715"
+
+--
+     * 2003 video games
+     * Activision games
+     * Call of Duty
+     * MacOS games
+     * Multiplayer online games

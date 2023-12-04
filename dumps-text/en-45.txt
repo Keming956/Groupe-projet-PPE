@@ -1,4 +1,4 @@
-   [1]Skip to main content
+   Skip to main content
 
 Cookies on GOV.UK
 
@@ -10,54 +10,54 @@ Cookies on GOV.UK
    We also use cookies set by other sites to help us deliver content from
    their services.
 
-   You have accepted additional cookies. You can [2]change your cookie
+   You have accepted additional cookies. You can change your cookie
    settings at any time.
 
-   You have rejected additional cookies. You can [3]change your cookie
+   You have rejected additional cookies. You can change your cookie
    settings at any time.
    (BUTTON) Accept additional cookies (BUTTON) Reject additional cookies
-   [4]View cookies
+   View cookies
    (BUTTON) Hide this message
 
-   [5]GOV.UK
+   GOV.UK
 
 Navigation menu
 
-   [6]Menu (BUTTON) Menu
-   (BUTTON) Search GOV.UK × [7]Search GOV.UK
+   Menu (BUTTON) Menu
+   (BUTTON) Search GOV.UK × Search GOV.UK
 
 Services and information
 
-     * [8]Benefits
-     * [9]Births, death, marriages and care
-     * [10]Business and self-employed
-     * [11]Childcare and parenting
-     * [12]Citizenship and living in the UK
-     * [13]Crime, justice and the law
-     * [14]Disabled people
-     * [15]Driving and transport
-     * [16]Education and learning
-     * [17]Employing people
-     * [18]Environment and countryside
-     * [19]Housing and local services
-     * [20]Money and tax
-     * [21]Passports, travel and living abroad
-     * [22]Visas and immigration
-     * [23]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [24]Departments
+     * Departments
        Departments, agencies and public bodies
-     * [25]News
+     * News
        News stories, speeches, letters and notices
-     * [26]Guidance and regulation
+     * Guidance and regulation
        Detailed guidance, regulations and rules
-     * [27]Research and statistics
+     * Research and statistics
        Reports, analysis and official statistics
-     * [28]Policy papers and consultations
+     * Policy papers and consultations
        Consultations and strategy
-     * [29]Transparency
+     * Transparency
        Data, Freedom of Information releases and corporate reports
 
 Search
@@ -68,15 +68,15 @@ Search
 
 Popular on GOV.UK
 
-     * [30]Get support with the cost of living
-     * [31]Find out about the Energy Bills Support Scheme
-     * [32]Find a job
-     * [33]Universal Credit account: sign in
-     * [34]Check your National Insurance record
-     * [35]Check MOT history of a vehicle
+     * Get support with the cost of living
+     * Find out about the Energy Bills Support Scheme
+     * Find a job
+     * Universal Credit account: sign in
+     * Check your National Insurance record
+     * Check MOT history of a vehicle
 
-    1. [36]Home
-    2. [37]Crime, justice and law
+    1. Home
+    2. Crime, justice and law
 
    Statutory guidance
 
@@ -87,13 +87,13 @@ Serious Violence Duty
    reduce serious violence.
 
    From:
-          [38]Home Office
+          Home Office
 
    Published
           16 December 2022
 
    Last updated
-          22 June 2023 — [39]See all updates
+          22 June 2023 — See all updates
 
    (BUTTON) Get emails about this page
 
@@ -101,11 +101,11 @@ Applies to England and Wales
 
 Documents
 
-[40]Serious Violence Duty (accessible)
+Serious Violence Duty (accessible)
 
    HTML
 
-[41]Serious Violence Duty
+Serious Violence Duty
 
    PDF, 834 KB, 120 pages
 
@@ -113,14 +113,14 @@ Documents
    Request an accessible format.
    If you use assistive technology (such as a screen reader) and need a
    version of this document in a more accessible format, please email
-   [42]alternativeformats@homeoffice.gov.uk. Please tell us what format
-   you need. It will help us if you say what assistive technology you use.
+   alternativeformats@homeoffice.gov.uk. Please tell us what format you
+   need. It will help us if you say what assistive technology you use.
 
-[43]Serious Violence Duty (Welsh accessible)
+Serious Violence Duty (Welsh accessible)
 
    HTML
 
-[44]Serious Violence Duty (Welsh)
+Serious Violence Duty (Welsh)
 
    PDF, 1.98 MB, 126 pages
 
@@ -128,8 +128,8 @@ Documents
    Request an accessible format.
    If you use assistive technology (such as a screen reader) and need a
    version of this document in a more accessible format, please email
-   [45]alternativeformats@homeoffice.gov.uk. Please tell us what format
-   you need. It will help us if you say what assistive technology you use.
+   alternativeformats@homeoffice.gov.uk. Please tell us what format you
+   need. It will help us if you say what assistive technology you use.
 
 Details
 
@@ -147,7 +147,7 @@ Details
    It will be reviewed a year after its publication, by the end of
    December 2023
    Published 16 December 2022
-   Last updated 22 June 2023 [46]+ show all updates
+   Last updated 22 June 2023 + show all updates
     1. 22 June 2023
        Added accessible versions of the documents.
     2. 11 January 2023
@@ -160,20 +160,19 @@ Details
 
 Related content
 
-     * [47]Operation Soteria Year One Report
-     * [48]Synthetic cannabinoid receptor agonists
-     * [49]Barriers to research with synthetic cannabinoid receptor
-       agonists
-     * [50]Consideration of barriers to research: part 1
-     * [51]Serious Violence Strategy
+     * Operation Soteria Year One Report
+     * Synthetic cannabinoid receptor agonists
+     * Barriers to research with synthetic cannabinoid receptor agonists
+     * Consideration of barriers to research: part 1
+     * Serious Violence Strategy
 
 Explore the topic
 
-     * [52]Crime, justice and law
+     * Crime, justice and law
 
 Is this page useful?
 
-     * [53]Maybe
+     * Maybe
      * (BUTTON) Yes this page is useful
      * (BUTTON) No this page is not useful
 
@@ -206,143 +205,46 @@ Help us improve GOV.UK
 
 Services and information
 
-     * [54]Benefits
-     * [55]Births, death, marriages and care
-     * [56]Business and self-employed
-     * [57]Childcare and parenting
-     * [58]Citizenship and living in the UK
-     * [59]Crime, justice and the law
-     * [60]Disabled people
-     * [61]Driving and transport
-     * [62]Education and learning
-     * [63]Employing people
-     * [64]Environment and countryside
-     * [65]Housing and local services
-     * [66]Money and tax
-     * [67]Passports, travel and living abroad
-     * [68]Visas and immigration
-     * [69]Working, jobs and pensions
+     * Benefits
+     * Births, death, marriages and care
+     * Business and self-employed
+     * Childcare and parenting
+     * Citizenship and living in the UK
+     * Crime, justice and the law
+     * Disabled people
+     * Driving and transport
+     * Education and learning
+     * Employing people
+     * Environment and countryside
+     * Housing and local services
+     * Money and tax
+     * Passports, travel and living abroad
+     * Visas and immigration
+     * Working, jobs and pensions
 
 Government activity
 
-     * [70]Departments
-     * [71]News
-     * [72]Guidance and regulation
-     * [73]Research and statistics
-     * [74]Policy papers and consultations
-     * [75]Transparency
-     * [76]How government works
-     * [77]Get involved
+     * Departments
+     * News
+     * Guidance and regulation
+     * Research and statistics
+     * Policy papers and consultations
+     * Transparency
+     * How government works
+     * Get involved
      __________________________________________________________________
 
 Support links
 
-     * [78]Help
-     * [79]Privacy
-     * [80]Cookies
-     * [81]Accessibility statement
-     * [82]Contact
-     * [83]Terms and conditions
-     * [84]Rhestr o Wasanaethau Cymraeg
-     * [85]Government Digital Service
+     * Help
+     * Privacy
+     * Cookies
+     * Accessibility statement
+     * Contact
+     * Terms and conditions
+     * Rhestr o Wasanaethau Cymraeg
+     * Government Digital Service
 
-   All content is available under the [86]Open Government Licence v3.0,
-   except where otherwise stated
-   [87]© Crown copyright
-
-References
-
-   Visible links:
-   1. https://www.gov.uk/government/publications/serious-violence-duty#content
-   2. https://www.gov.uk/help/cookies
-   3. https://www.gov.uk/help/cookies
-   4. https://www.gov.uk/help/cookies
-   5. https://www.gov.uk/
-   6. https://www.gov.uk/browse
-   7. https://www.gov.uk/search
-   8. https://www.gov.uk/browse/benefits
-   9. https://www.gov.uk/browse/births-deaths-marriages
-  10. https://www.gov.uk/browse/business
-  11. https://www.gov.uk/browse/childcare-parenting
-  12. https://www.gov.uk/browse/citizenship
-  13. https://www.gov.uk/browse/justice
-  14. https://www.gov.uk/browse/disabilities
-  15. https://www.gov.uk/browse/driving
-  16. https://www.gov.uk/browse/education
-  17. https://www.gov.uk/browse/employing-people
-  18. https://www.gov.uk/browse/environment-countryside
-  19. https://www.gov.uk/browse/housing-local-services
-  20. https://www.gov.uk/browse/tax
-  21. https://www.gov.uk/browse/abroad
-  22. https://www.gov.uk/browse/visas-immigration
-  23. https://www.gov.uk/browse/working
-  24. https://www.gov.uk/government/organisations
-  25. https://www.gov.uk/search/news-and-communications
-  26. https://www.gov.uk/search/guidance-and-regulation
-  27. https://www.gov.uk/search/research-and-statistics
-  28. https://www.gov.uk/search/policy-papers-and-consultations
-  29. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  30. https://www.gov.uk/cost-of-living
-  31. https://www.gov.uk/guidance/getting-the-energy-bills-support-scheme-discount
-  32. https://www.gov.uk/find-a-job
-  33. https://www.gov.uk/sign-in-universal-credit
-  34. https://www.gov.uk/check-national-insurance-record
-  35. https://www.gov.uk/check-mot-history
-  36. https://www.gov.uk/
-  37. https://www.gov.uk/crime-justice-and-law
-  38. https://www.gov.uk/government/organisations/home-office
-  39. https://www.gov.uk/government/publications/serious-violence-duty#full-publication-update-history
-  40. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-accessible
-  41. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022.pdf
-  42. mailto:alternativeformats@homeoffice.gov.uk
-  43. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-welsh-accessible
-  44. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
-  45. mailto:alternativeformats@homeoffice.gov.uk
-  46. https://www.gov.uk/government/publications/serious-violence-duty#full-history
-  47. https://www.gov.uk/government/publications/operation-soteria-year-one-report
-  48. https://www.gov.uk/government/publications/synthetic-cannabinoid-receptor-agonists
-  49. https://www.gov.uk/government/publications/barriers-to-research-with-synthetic-cannabinoid-receptor-agonists
-  50. https://www.gov.uk/government/publications/consideration-of-barriers-to-research-part-1
-  51. https://www.gov.uk/government/publications/serious-violence-strategy
-  52. https://www.gov.uk/crime-justice-and-law
-  53. https://www.gov.uk/contact/govuk
-  54. https://www.gov.uk/browse/benefits
-  55. https://www.gov.uk/browse/births-deaths-marriages
-  56. https://www.gov.uk/browse/business
-  57. https://www.gov.uk/browse/childcare-parenting
-  58. https://www.gov.uk/browse/citizenship
-  59. https://www.gov.uk/browse/justice
-  60. https://www.gov.uk/browse/disabilities
-  61. https://www.gov.uk/browse/driving
-  62. https://www.gov.uk/browse/education
-  63. https://www.gov.uk/browse/employing-people
-  64. https://www.gov.uk/browse/environment-countryside
-  65. https://www.gov.uk/browse/housing-local-services
-  66. https://www.gov.uk/browse/tax
-  67. https://www.gov.uk/browse/abroad
-  68. https://www.gov.uk/browse/visas-immigration
-  69. https://www.gov.uk/browse/working
-  70. https://www.gov.uk/government/organisations
-  71. https://www.gov.uk/search/news-and-communications
-  72. https://www.gov.uk/search/guidance-and-regulation
-  73. https://www.gov.uk/search/research-and-statistics
-  74. https://www.gov.uk/search/policy-papers-and-consultations
-  75. https://www.gov.uk/search/transparency-and-freedom-of-information-releases
-  76. https://www.gov.uk/government/how-government-works
-  77. https://www.gov.uk/government/get-involved
-  78. https://www.gov.uk/help
-  79. https://www.gov.uk/help/privacy-notice
-  80. https://www.gov.uk/help/cookies
-  81. https://www.gov.uk/help/accessibility-statement
-  82. https://www.gov.uk/contact
-  83. https://www.gov.uk/help/terms-conditions
-  84. https://www.gov.uk/cymraeg
-  85. https://www.gov.uk/government/organisations/government-digital-service
-  86. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-  87. https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/
-
-   Hidden links:
-  89. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-accessible
-  90. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022.pdf
-  91. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-welsh-accessible
-  92. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
+   All content is available under the Open Government Licence v3.0, except
+   where otherwise stated
+   © Crown copyright

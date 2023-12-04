@@ -1,6 +1,6 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-WFJWBD
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WFJWBD
 
-   [2]Skip to Content
+   Skip to Content
 
    U.S. flag
 
@@ -18,39 +18,39 @@
    that any information you provide is encrypted and sent securely.
    (BUTTON)
    Talk to the Veterans Crisis Line now
-   [3]VA logo and Seal, U.S. Department of Veterans Affairs
+   VA logo and Seal, U.S. Department of Veterans Affairs
 
-     * [4]Home
-     * [5]Education and training
-     * [6]GI Bill
-     * [7]Montgomery GI Bill Active Duty
+     * Home
+     * Education and training
+     * GI Bill
+     * Montgomery GI Bill Active Duty
 
    (BUTTON)
 
 Education and training
 
-   [8]GI Bill
-     * [9]Post-9/11 GI Bill
-          + [10]Yellow Ribbon Program
-     * [11]Montgomery GI Bill Active Duty
-          + [12]$600 Buy-Up program
-     * [13]Montgomery GI Bill Selected Reserve
-     * [14]How to use your benefits
-          + [15]Undergraduate and graduate degrees
-          + [16]Foreign programs
-          + [17]Independent and distance learning
-          + [18]High-tech programs
-          + [19]Correspondence training
-          + [20]Tutorial assistance
-          + [21]Test fees
-          + [22]Non-college degree programs
-          + [23]VET TEC program
-          + [24]Flight training
-          + [25]Entrepreneurship training
-          + [26]Work study
-          + [27]Co-op training
-          + [28]On-the-job training
-          + [29]Tuition Assistance Top-Up
+   GI Bill
+     * Post-9/11 GI Bill
+          + Yellow Ribbon Program
+     * Montgomery GI Bill Active Duty
+          + $600 Buy-Up program
+     * Montgomery GI Bill Selected Reserve
+     * How to use your benefits
+          + Undergraduate and graduate degrees
+          + Foreign programs
+          + Independent and distance learning
+          + High-tech programs
+          + Correspondence training
+          + Tutorial assistance
+          + Test fees
+          + Non-college degree programs
+          + VET TEC program
+          + Flight training
+          + Entrepreneurship training
+          + Work study
+          + Co-op training
+          + On-the-job training
+          + Tuition Assistance Top-Up
 
    (BUTTON) In this section
 
@@ -139,12 +139,12 @@ How does VA determine how much money I’ll receive?
      * Your category (I, II, III, or IV), and
      * Whether you qualify for a college fund or kicker, and
      * How much you’ve paid into the $600 Buy-Up program
-       [30]Learn more about the $600 Buy-Up program
+       Learn more about the $600 Buy-Up program
 
    Note: You usually have 10 years to use your MGIB-AD benefits. This may
    change depending on your situation.
 
-   [31]Check the current payment rates for MGIB-AD
+   Check the current payment rates for MGIB-AD
      __________________________________________________________________
 
 How do I get these benefits?
@@ -153,12 +153,11 @@ How do I get these benefits?
     1. Make sure we’ve approved your program
        Before you enroll, contact the school or use the GI Bill Comparison
        Tool to find out if we’ve approved your program for VA education
-       benefits. If you have questions, call us at
-       [32]888-442-4551 ([33]TTY: 711). We’re here Monday through Friday,
-       8:00 a.m. to 7:00 p.m. ET. Or submit a question online through Ask
-       VA.
-       [34]Use the GI Bill Comparison Tool
-       [35]Contact us online through Ask VA
+       benefits. If you have questions, call us at 888-442-4551 (TTY:
+       711). We’re here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+       Or submit a question online through Ask VA.
+       Use the GI Bill Comparison Tool
+       Contact us online through Ask VA
        Note: If you want to enroll in a program that we haven’t approved,
        you’ll need to ask the school to request approval. We can’t take
        any action until an official from your school (not you) requests
@@ -167,10 +166,10 @@ How do I get these benefits?
     2. Apply for benefits
        You can submit your Application for VA Benefits (VA Form 22-1990)
        online.
-       [36]Apply online now
+       Apply online now
        You can also apply by mail, in person, or with the help of a
        trained professional.
-       [37]Learn more about other ways to apply
+       Learn more about other ways to apply
     3. Ask your school or training program to certify your enrollment
        The certifying official may be someone in your school’s financial
        aid, Veterans Affairs, registrar, admissions, or counseling office.
@@ -180,15 +179,15 @@ How do I get these benefits?
        Note: You’ll then need to verify your enrollment at the end of each
        month to keep receiving payments. You can verify your enrollment
        online through our Web Automated Verification system (called
-       “WAVE”) or by phone by calling [38]877-823-2378 ([39]TTY: 711).
-       [40]Verify your enrollment online
-       [41]Get more information about WAVE
+       “WAVE”) or by phone by calling 877-823-2378 (TTY: 711).
+       Verify your enrollment online
+       Get more information about WAVE
 
 How can I use my MGIB-AD education benefits?
 
    You can use your GI Bill benefits in many ways to advance your
    education and training.
-   [42]Find out how to use your GI Bill benefits
+   Find out how to use your GI Bill benefits
 
    In some cases, we may help you pay for:
      * Remedial courses (classes some students must take to build up their
@@ -203,7 +202,7 @@ What if I qualify for other VA education benefits too?
 
    You can use only 1 education benefit for a period of service. You’ll
    have to choose which education benefit you’d like to use.
-   [43]Compare VA education benefits
+   Compare VA education benefits
    Once you choose an education benefit, you can’t change your mind and
    use a different education benefit.
 
@@ -213,15 +212,15 @@ What if I qualify for other VA education benefits too?
    Post-9/11 GI Bill, we’ll refund you part or all of the payments you
    made into MGIB-AD.
 
-   [44]Learn more about Montgomery GI Bill refunds
+   Learn more about Montgomery GI Bill refunds
 
    If you have only 1 period of service that begins on or after August 1,
    2011, and you start receiving payments for MGIB-AD, you may lose your
    eligibility for the Post-9/11 GI Bill.
 
    You can also get help deciding which education benefits to use by
-   calling us at [45]888-442-4551 ([46]TTY: 711). We’re here Monday
-   through Friday, 8:00 a.m. to 7:00 p.m. ET.
+   calling us at 888-442-4551 (TTY: 711). We’re here Monday through
+   Friday, 8:00 a.m. to 7:00 p.m. ET.
 
 How many total months of VA education benefits can I get?
 
@@ -232,86 +231,29 @@ How many total months of VA education benefits can I get?
 How can I get more information?
 
    You can get more information about the GI Bill from these guides:
-     * [47]Choose your education pathway (PDF)
-     * [48]Understand your benefits (PDF)
-     * [49]Further your career (PDF)
+     * Choose your education pathway (PDF)
+     * Understand your benefits (PDF)
+     * Further your career (PDF)
 
    GI Bill® is a registered trademark of the United States Department of
    Veterans Affairs (VA). The absence of the registration symbol ® does
    not constitute a waiver of VA’s trademark rights in that phrase.
 
-   [50]Read our Terms of Use
+   Read our Terms of Use
 
 Other information you may need
 
-     * [51]Montgomery GI Bill Active Duty (Chapter 30) rates
+     * Montgomery GI Bill Active Duty (Chapter 30) rates
        Check the current payment rates for the Montgomery GI Bill Active
        Duty (MGIB-AD) program.
-     * [52]$600 Montgomery GI Bill Buy-Up program
+     * $600 Montgomery GI Bill Buy-Up program
        Learn about how you can get more money each month through your GI
        Bill monthly payments if you take part in the $600 Buy-Up program.
-     * [53]$600 Montgomery GI Bill Buy-Up program rates
+     * $600 Montgomery GI Bill Buy-Up program rates
        Check the current payment rates for the $600 Buy-Up program.
-     * [54]GI Bill Comparison Tool
+     * GI Bill Comparison Tool
        Find and compare schools that are approved for VA education
        benefits.
 
    Last updated: July 18, 2023
    (BUTTON) Feedback
-
-References
-
-   1. https://www.googletagmanager.com/ns.html?id=GTM-WFJWBD
-   2. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/#content
-   3. https://www.va.gov/
-   4. https://www.va.gov/
-   5. https://www.va.gov/education
-   6. https://www.va.gov/education/about-gi-bill-benefits
-   7. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty
-   8. https://www.va.gov/education/about-gi-bill-benefits
-   9. https://www.va.gov/education/about-gi-bill-benefits/post-9-11
-  10. https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program
-  11. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty
-  12. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up
-  13. https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve
-  14. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits
-  15. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs
-  16. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/study-at-foreign-schools
-  17. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning
-  18. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments
-  19. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training
-  20. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance
-  21. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees
-  22. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs
-  23. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program
-  24. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/flight-training
-  25. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training
-  26. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study
-  27. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training
-  28. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships
-  29. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up
-  30. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/
-  31. https://www.va.gov/education/benefit-rates/montgomery-active-duty-rates
-  32. tel:18884424551
-  33. tel:711
-  34. https://www.va.gov/education/gi-bill-comparison-tool/
-  35. https://www.va.gov/contact-us
-  36. https://www.va.gov/education/apply-for-education-benefits/application/1990/
-  37. https://www.va.gov/education/how-to-apply/
-  38. tel:18778232378
-  39. tel:711
-  40. https://www.gibill.va.gov/wave/index.do
-  41. https://www.va.gov/resources/gi-bill-wave-faqs
-  42. https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
-  43. https://www.va.gov/resources/compare-va-education-benefits
-  44. https://www.va.gov/resources/montgomery-gi-bill-refunds
-  45. tel:18884424551
-  46. tel:711
-  47. https://benefits.va.gov/gibill/docs/gibguideseries/chooseyoureducationpathway.pdf
-  48. https://benefits.va.gov/gibill/docs/gibguideseries/chooseyoureducationbenefits.pdf
-  49. https://benefits.va.gov/GIBILL/docs/gibguideseries/FurtherYourCareer.pdf
-  50. https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp
-  51. https://www.va.gov/education/benefit-rates/montgomery-active-duty-rates
-  52. https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/buy-up
-  53. https://www.va.gov/education/benefit-rates/montgomery-600-buy-up-rates
-  54. https://www.va.gov/education/gi-bill-comparison-tool/

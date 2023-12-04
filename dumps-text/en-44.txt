@@ -1,259 +1,257 @@
-   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
-   feed
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
 
-   [5]Jump to content
+   Jump to content
 
    [ ] Main menu
    Main menu
    (BUTTON) move to sidebar (BUTTON) hide
    Navigation
-     * [6]Main page
-     * [7]Contents
-     * [8]Current events
-     * [9]Random article
-     * [10]About Wikipedia
-     * [11]Contact us
-     * [12]Donate
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+     * Donate
 
    Contribute
-     * [13]Help
-     * [14]Learn to edit
-     * [15]Community portal
-     * [16]Recent changes
-     * [17]Upload file
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
 
    Languages
    Language links are at the top of the page across from the title.
-   [18]Wikipedia The Free Encyclopedia
-   [19]Search
+   Wikipedia The Free Encyclopedia
+   Search
    ____________________
    (BUTTON) Search
 
-     * [20]Create account
-     * [21]Log in
+     * Create account
+     * Log in
 
    [ ] Personal tools
-     * [22]Create account
-     * [23]Log in
+     * Create account
+     * Log in
 
-   Pages for logged out editors [24]learn more
-     * [25]Contributions
-     * [26]Talk
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
 
 Contents
 
    (BUTTON) move to sidebar (BUTTON) hide
-     * [27](Top)
-     * [28]1Gameplay
-     * [29]2Campaign
+     * (Top)
+     * 1Gameplay
+     * 2Campaign
        (BUTTON) Toggle Campaign subsection
-          + [30]2.1American campaign
-          + [31]2.2British campaign
-          + [32]2.3Soviet campaign
-     * [33]3Development
-     * [34]4Reception
+          + 2.1American campaign
+          + 2.2British campaign
+          + 2.3Soviet campaign
+     * 3Development
+     * 4Reception
        (BUTTON) Toggle Reception subsection
-          + [35]4.1Critical reception
-          + [36]4.2Sales
-     * [37]5Franchise
-     * [38]6Ports
-     * [39]7References
-     * [40]8External links
+          + 4.1Critical reception
+          + 4.2Sales
+     * 5Franchise
+     * 6Ports
+     * 7References
+     * 8External links
 
    [ ] Toggle the table of contents
 
 Call of Duty (video game)
 
    [ ] 40 languages
-     * [41]العربية
-     * [42]Català
-     * [43]Čeština
-     * [44]Dansk
-     * [45]Deutsch
-     * [46]Eesti
-     * [47]Ελληνικά
-     * [48]Español
-     * [49]فارسی
-     * [50]Français
-     * [51]Frysk
-     * [52]한국어
-     * [53]Հայերեն
-     * [54]Bahasa Indonesia
-     * [55]Italiano
-     * [56]עברית
-     * [57]ქართული
-     * [58]Ladin
-     * [59]Lietuvių
-     * [60]Magyar
-     * [61]Македонски
-     * [62]مصرى
-     * [63]Nederlands
-     * [64]日本語
-     * [65]Norsk bokmål
-     * [66]Polski
-     * [67]Português
-     * [68]Română
-     * [69]Русский
-     * [70]Slovenščina
-     * [71]Српски / srpski
-     * [72]Srpskohrvatski / српскохрватски
-     * [73]Suomi
-     * [74]Svenska
-     * [75]ไทย
-     * [76]Türkçe
-     * [77]Українська
-     * [78]Tiếng Việt
-     * [79]吴语
-     * [80]中文
+     * العربية
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * فارسی
+     * Français
+     * Frysk
+     * 한국어
+     * Հայերեն
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * ქართული
+     * Ladin
+     * Lietuvių
+     * Magyar
+     * Македонски
+     * مصرى
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Slovenščina
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Suomi
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 中文
 
-   [81]Edit links
+   Edit links
 
-     * [82]Article
-     * [83]Talk
+     * Article
+     * Talk
 
    [ ] English
 
-     * [84]Read
-     * [85]Edit
-     * [86]View history
+     * Read
+     * Edit
+     * View history
 
    [ ] Tools
    Tools
    (BUTTON) move to sidebar (BUTTON) hide
    Actions
-     * [87]Read
-     * [88]Edit
-     * [89]View history
+     * Read
+     * Edit
+     * View history
 
    General
-     * [90]What links here
-     * [91]Related changes
-     * [92]Upload file
-     * [93]Special pages
-     * [94]Permanent link
-     * [95]Page information
-     * [96]Cite this page
-     * [97]Get shortened URL
-     * [98]Wikidata item
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Wikidata item
 
    Print/export
-     * [99]Download as PDF
-     * [100]Printable version
+     * Download as PDF
+     * Printable version
 
    In other projects
-     * [101]Wikimedia Commons
+     * Wikimedia Commons
 
    From Wikipedia, the free encyclopedia
    2003 video game
 
    2003 video game
    Call of Duty
-   [102][220px-Call_of_Duty_%282003%29_cover.jpg]
-   [103]Developer(s) [104]Infinity Ward
-   [105]Aspyr (COD Classic)
-   [106]Publisher(s)
-     * WW: [107]Activision
-     * [108]NA: Aspyr ([109]Mac OS X)
+   [220px-Call_of_Duty_%282003%29_cover.jpg]
+   Developer(s) Infinity Ward
+   Aspyr (COD Classic)
+   Publisher(s)
+     * WW: Activision
+     * NA: Aspyr (Mac OS X)
 
-   [110]Director(s) Ken Turner
-   [111]Producer(s) Vince Zampella
-   [112]Designer(s) Zied Rieke
-   [113]Programmer(s) Jason West
-   [114]Artist(s) Justin Thomas
-   [115]Writer(s) Michael Schiffer
-   [116]Composer(s) [117]Michael Giacchino
-   Series [118]Call of Duty
-   [119]Engine [120]id Tech 3^[121][2]
-   [122]Platform(s)
-     * [123]Microsoft Windows
-     * [124]Mac OS X
-     * [125]N-Gage
-     * [126]PlayStation 3
-     * [127]Xbox 360
+   Director(s) Ken Turner
+   Producer(s) Vince Zampella
+   Designer(s) Zied Rieke
+   Programmer(s) Jason West
+   Artist(s) Justin Thomas
+   Writer(s) Michael Schiffer
+   Composer(s) Michael Giacchino
+   Series Call of Duty
+   Engine id Tech 3^[2]
+   Platform(s)
+     * Microsoft Windows
+     * Mac OS X
+     * N-Gage
+     * PlayStation 3
+     * Xbox 360
 
    Release
    October 29, 2003
      * Microsoft Windows
 
-     * [128]NA: October 29, 2003
-     * [129]EU: November 7, 2003
+     * NA: October 29, 2003
+     * EU: November 7, 2003
 
    Mac OS X
-     * [130]NA: May 10, 2004^[131][1]
+     * NA: May 10, 2004^[1]
 
    N-Gage
-     * [132]EU: November 10, 2004
-     * [133]NA: November 23, 2004
+     * EU: November 10, 2004
+     * NA: November 23, 2004
 
    Call of Duty Classic
    PlayStation 3, Xbox 360
      * WW: December 2, 2009
 
-   [134]Genre(s) [135]First-person shooter
-   Mode(s) [136]Single-player, [137]multiplayer
+   Genre(s) First-person shooter
+   Mode(s) Single-player, multiplayer
 
-   Call of Duty is a 2003 [138]first-person shooter game developed by
-   [139]Infinity Ward and published by [140]Activision. It is the first
-   installment in the [141]Call of Duty franchise,^[142][3] released on
-   October 29, 2003, for [143]Microsoft Windows. The game simulates
-   [144]infantry and [145]combined arms warfare of [146]World War II using
-   a modified version of the [147]id Tech 3 engine. Much of its theme and
-   gameplay is similar to the [148]Medal of Honor series; however, Call of
-   Duty showcases multiple viewpoints staged in the [149]American,
-   [150]British, and [151]Soviet theaters of World War II.
+   Call of Duty is a 2003 first-person shooter game developed by Infinity
+   Ward and published by Activision. It is the first installment in the
+   Call of Duty franchise,^[3] released on October 29, 2003, for Microsoft
+   Windows. The game simulates infantry and combined arms warfare of World
+   War II using a modified version of the id Tech 3 engine. Much of its
+   theme and gameplay is similar to the Medal of Honor series; however,
+   Call of Duty showcases multiple viewpoints staged in the American,
+   British, and Soviet theaters of World War II.
 
    The game introduced a new take on AI-controlled allies who support the
    player during missions and react to situational changes during
    gameplay. This led to a greater emphasis on squad-based play as opposed
    to the "lone wolf" approach often portrayed in earlier first-person
    shooter games. Much of Infinity Ward's development team consisted of
-   members who helped develop [152]Medal of Honor: Allied Assault. The
-   game received critical acclaim and won several Game of the Year awards
-   from reviewers.
+   members who helped develop Medal of Honor: Allied Assault. The game
+   received critical acclaim and won several Game of the Year awards from
+   reviewers.
 
-   In September 2004, an expansion pack called [153]Call of Duty: United
-   Offensive, which was produced by Activision and developed by [154]Gray
-   Matter Studios and [155]Pi Studios, was released. At the same time the
-   N-Gage Version got an Arena Pack with 3 new Levels.^[156][4] An
-   enhanced port of Call of Duty for the [157]PlayStation 3 and [158]Xbox
-   360, titled Call of Duty: Classic, developed by [159]Aspyr, was
-   released worldwide in November 2009 with the release of [160]Call of
-   Duty: Modern Warfare 2, being available via redemption codes included
-   with the "Hardened" and "Prestige" editions of the game.^[161][5]
+   In September 2004, an expansion pack called Call of Duty: United
+   Offensive, which was produced by Activision and developed by Gray
+   Matter Studios and Pi Studios, was released. At the same time the
+   N-Gage Version got an Arena Pack with 3 new Levels.^[4] An enhanced
+   port of Call of Duty for the PlayStation 3 and Xbox 360, titled Call of
+   Duty: Classic, developed by Aspyr, was released worldwide in November
+   2009 with the release of Call of Duty: Modern Warfare 2, being
+   available via redemption codes included with the "Hardened" and
+   "Prestige" editions of the game.^[5]
 
-Gameplay[[162]edit]
+Gameplay[edit]
 
-   [163][210px-CallDuty1PC.jpg] In-game screenshot of Call of Duty on PC
+   [210px-CallDuty1PC.jpg] In-game screenshot of Call of Duty on PC
 
-   As a [164]first-person shooter, Call of Duty places the player in
-   control of an infantry soldier who makes use of various authentic World
-   War II firearms in combat. Each mission features a series of objectives
-   that are marked on the [165]heads-up display's compass; the player must
-   complete all objectives to advance to the next mission. The player can
-   save and load at any time, rather than the checkpoint system utilized
-   in later Call of Duty games.
+   As a first-person shooter, Call of Duty places the player in control of
+   an infantry soldier who makes use of various authentic World War II
+   firearms in combat. Each mission features a series of objectives that
+   are marked on the heads-up display's compass; the player must complete
+   all objectives to advance to the next mission. The player can save and
+   load at any time, rather than the checkpoint system utilized in later
+   Call of Duty games.
 
    The player has two primary weapon slots, a handgun slot, and can carry
    up to ten grenades. Weapons may be exchanged with those found on the
    battlefield dropped by dead soldiers. Unlike later Call of Duty games,
    the first allows the player to toggle between different firing modes
    (single shot or automatic fire). Call of Duty was one of the early
-   first-person shooters to feature [166]iron sights in game play; by
-   pressing the corresponding key the player aims down the gun's actual
-   sights for increased accuracy. In addition to weapons carried by the
-   player, mounted [167]machine guns and other fixed weapon emplacements
-   are controllable by the player.
+   first-person shooters to feature iron sights in game play; by pressing
+   the corresponding key the player aims down the gun's actual sights for
+   increased accuracy. In addition to weapons carried by the player,
+   mounted machine guns and other fixed weapon emplacements are
+   controllable by the player.
 
-   The game uses a standard [168]health points system, with a limited
-   amount of health reflected by a health bar. [169]Medkits scattered
-   throughout the levels or dropped by some foes are used to restore
-   health when the player is injured.
+   The game uses a standard health points system, with a limited amount of
+   health reflected by a health bar. Medkits scattered throughout the
+   levels or dropped by some foes are used to restore health when the
+   player is injured.
 
    Call of Duty also featured "shellshock" (not to be confused with the
-   psychological condition of the [170]same name): when there is an
-   explosion near the player, he momentarily experiences simulated
-   [171]tinnitus, appropriate sound "muffling" effects, blurred vision,
-   and also results in the player slowing down, unable to sprint.
+   psychological condition of the same name): when there is an explosion
+   near the player, he momentarily experiences simulated tinnitus,
+   appropriate sound "muffling" effects, blurred vision, and also results
+   in the player slowing down, unable to sprint.
 
    As the focus of the game is on simulation of the actual battlefield,
    the gameplay differed from many single-player shooters of the time. The
@@ -261,1266 +259,593 @@ Gameplay[[162]edit]
    allied soldiers will assist the player in defeating enemy soldiers and
    advancing; however, the player is given charge of completing certain
    objectives. The game places heavy emphasis on usage of cover,
-   [172]suppressive fire, and grenades. AI-controlled soldiers will take
-   cover behind walls, barricades, and other obstacles when available.
+   suppressive fire, and grenades. AI-controlled soldiers will take cover
+   behind walls, barricades, and other obstacles when available.
 
-Campaign[[173]edit]
+Campaign[edit]
 
-  American campaign[[174]edit]
+  American campaign[edit]
 
-   The American campaign begins in August 1942 with [175]Private Martin, a
-   newly enlisted member of the [176]506th Parachute Infantry Regiment,
-   completing basic training at [177]Camp Toccoa. In June 1944, Martin
-   [178]establishes a landing zone for soldiers participating in
-   [179]Operation Overlord. The paratroopers are scattered, leaving Martin
-   in a mixed unit formed from various [180]companies led by his [181]CO
-   Cpt. Foley, who seize a nearby town from Germans. Martin and his unit
-   are sent to force the remaining Germans from [182]Sainte-Mère-Église
-   and disable several [183]Flakpanzers ([184]anti-aircraft tanks) as
-   [185]D-Day begins. Martin's unit destroys German artillery positions
-   attacking the landing force at [186]Utah Beach. Afterwards, Martin
-   learns that his unit has been assigned to participate in an attack on a
-   [187]Bavarian manor to rescue two British officers, [188]Captain Price
-   and [189]Major Ingram. He learns from Price that Ingram had already
-   been moved to a more secure POW camp for interrogation; Martin and
-   Price infiltrate the camp and rescue Ingram. Martin's unit later takes
-   part in the [190]Battle of the Bulge, successfully securing top-secret
-   documents and stopping an attempt by the Germans to call in tanks.
+   The American campaign begins in August 1942 with Private Martin, a
+   newly enlisted member of the 506th Parachute Infantry Regiment,
+   completing basic training at Camp Toccoa. In June 1944, Martin
+   establishes a landing zone for soldiers participating in Operation
+   Overlord. The paratroopers are scattered, leaving Martin in a mixed
+   unit formed from various companies led by his CO Cpt. Foley, who seize
+   a nearby town from Germans. Martin and his unit are sent to force the
+   remaining Germans from Sainte-Mère-Église and disable several
+   Flakpanzers (anti-aircraft tanks) as D-Day begins. Martin's unit
+   destroys German artillery positions attacking the landing force at Utah
+   Beach. Afterwards, Martin learns that his unit has been assigned to
+   participate in an attack on a Bavarian manor to rescue two British
+   officers, Captain Price and Major Ingram. He learns from Price that
+   Ingram had already been moved to a more secure POW camp for
+   interrogation; Martin and Price infiltrate the camp and rescue Ingram.
+   Martin's unit later takes part in the Battle of the Bulge, successfully
+   securing top-secret documents and stopping an attempt by the Germans to
+   call in tanks.
 
-  British campaign[[191]edit]
+  British campaign[edit]
 
    The British campaign starts with Sergeant Jack Evans and a unit from
-   [192]2nd Ox and Bucks of the [193]6th Airborne Division taking part in
-   [194]Operation Tonga. The unit is dropped in [195]Horsa gliders near
-   [196]Pegasus Bridge, [197]Bénouville. Led by Captain Price, Evans and
-   his troops clear the bridge of German soldiers. The unit holds out
-   against an attempt by a German battalion to retake the bridge with the
-   help of the [198]7th Parachute Battalion.
+   2nd Ox and Bucks of the 6th Airborne Division taking part in Operation
+   Tonga. The unit is dropped in Horsa gliders near Pegasus Bridge,
+   Bénouville. Led by Captain Price, Evans and his troops clear the bridge
+   of German soldiers. The unit holds out against an attempt by a German
+   battalion to retake the bridge with the help of the 7th Parachute
+   Battalion.
 
-   By September, Evans has been transferred to the [199]SAS. He takes part
-   in a mission to sabotage the [200]Eder Dam, restored after being
-   destroyed by the [201]No. 617 Squadron RAF during [202]Operation
-   Chastise, destroying the [203]anti-aircraft guns protecting it.
-   Following extraction, Evans helps to cut off pursuing German troops.
-   Reaching a German airport to escape, Evans uses an anti-air gun to
-   cover Price and Waters from German [204]Stuka dive-bombers as they
-   procure and flee in a [205]Fw.200. Evans and Price then pose as German
-   naval officers and sailors to infiltrate the battleship [206]Tirpitz,
-   disable its defenses, and steals information for the [207]RAF to attack
-   the ship. Price sacrifices himself to buy time for Evans, who escapes
-   with Waters by boat. Later, Evans, Waters and their squad arrive near
-   [208]Burgsteinfurt, Germany, to assist the impending Allied assault on
-   the city. Discovering plans to launch [209]V-2 rockets at the Allied
-   forces, the unit destroys them before joining the rest of the army.
+   By September, Evans has been transferred to the SAS. He takes part in a
+   mission to sabotage the Eder Dam, restored after being destroyed by the
+   No. 617 Squadron RAF during Operation Chastise, destroying the
+   anti-aircraft guns protecting it. Following extraction, Evans helps to
+   cut off pursuing German troops. Reaching a German airport to escape,
+   Evans uses an anti-air gun to cover Price and Waters from German Stuka
+   dive-bombers as they procure and flee in a Fw.200. Evans and Price then
+   pose as German naval officers and sailors to infiltrate the battleship
+   Tirpitz, disable its defenses, and steals information for the RAF to
+   attack the ship. Price sacrifices himself to buy time for Evans, who
+   escapes with Waters by boat. Later, Evans, Waters and their squad
+   arrive near Burgsteinfurt, Germany, to assist the impending Allied
+   assault on the city. Discovering plans to launch V-2 rockets at the
+   Allied forces, the unit destroys them before joining the rest of the
+   army.
 
-  Soviet campaign[[210]edit]
+  Soviet campaign[edit]
 
-   The Soviet campaign begins during the [211]Battle of Stalingrad in
-   September 1942. [212]Corporal Alexei Ivanovich Voronin and his fellow
-   recruits are sent across the [213]Volga River, many of whom are killed
-   when the [214]Luftwaffe launch an attack. Once across, they call in an
-   artillery strike that forces the Germans back. At Red Square with
-   [215]Soviet officers killing soldiers who retreat, Voronin kills
-   several German officer and soldiers, disrupting the German offense long
-   enough for Soviet artillery to destroy their tanks. Voronin links up
-   with surviving allies in a train station and guides them to Major Zubov
-   of the [216]13th Guards Rifle Division; Voronin is promoted to
-   [217]Junior Sergeant. In November, Voronin rendezvous with a unit led
-   by [218]Sergeant [219]Pavlov, tasked with [220]retaking an apartment
-   building in German hands. The unit assaults and clears the building,
-   and defends it from a German counterattack.
+   The Soviet campaign begins during the Battle of Stalingrad in September
+   1942. Corporal Alexei Ivanovich Voronin and his fellow recruits are
+   sent across the Volga River, many of whom are killed when the Luftwaffe
+   launch an attack. Once across, they call in an artillery strike that
+   forces the Germans back. At Red Square with Soviet officers killing
+   soldiers who retreat, Voronin kills several German officer and
+   soldiers, disrupting the German offense long enough for Soviet
+   artillery to destroy their tanks. Voronin links up with surviving
+   allies in a train station and guides them to Major Zubov of the 13th
+   Guards Rifle Division; Voronin is promoted to Junior Sergeant. In
+   November, Voronin rendezvous with a unit led by Sergeant Pavlov, tasked
+   with retaking an apartment building in German hands. The unit assaults
+   and clears the building, and defends it from a German counterattack.
 
-   In January 1945, Voronin, now a full Sergeant, serves with the
-   [221]150th Rifle Division of the [222]3rd Shock Army. The unit secures
-   a makeshift German tank repair facility in Warsaw during the
-   [223]Vistula–Oder Offensive, and regroup with the [224]4th Guards Tank
-   Army. Due to shortages in experienced soldiers, Voronin commands a
-   [225]T-34-85 tank for the [226]2nd Guards Tank Army, and helps the
-   Soviets capture a town near the [227]Oder River. In April, Sergeant
-   Voronin is returned to his old unit, the 150th Rifle Division. He and a
-   small group of soldiers storm the [228]Reichstag building and raise the
-   [229]Victory Banner atop the roof, ending the European war.
+   In January 1945, Voronin, now a full Sergeant, serves with the 150th
+   Rifle Division of the 3rd Shock Army. The unit secures a makeshift
+   German tank repair facility in Warsaw during the Vistula–Oder
+   Offensive, and regroup with the 4th Guards Tank Army. Due to shortages
+   in experienced soldiers, Voronin commands a T-34-85 tank for the 2nd
+   Guards Tank Army, and helps the Soviets capture a town near the Oder
+   River. In April, Sergeant Voronin is returned to his old unit, the
+   150th Rifle Division. He and a small group of soldiers storm the
+   Reichstag building and raise the Victory Banner atop the roof, ending
+   the European war.
 
-Development[[230]edit]
+Development[edit]
 
-   [231][220px-E3_2003_%28343111642%29.jpg] Promotion at [232]E3 2003
+   [220px-E3_2003_%28343111642%29.jpg] Promotion at E3 2003
 
-   Call of Duty was developed by [233]Infinity Ward, a new studio formed
-   in 2002 originally consisting of 21 employees, many of whom were
-   project lead developers of the successful [234]Medal of Honor: Allied
-   Assault released the same year. Led by Chief Creative Officer Vince
-   Zampella, development began in April 2002, and the team grew to 27
-   members by May 2003. At its beginning, the project was nicknamed "Medal
-   of Honor Killer".^[235][6] Using an enhanced version of the [236]id
-   Tech 3 game engine developed for [237]Quake III Arena and an in-house
-   skeletal animation system called "Ares", Infinity Ward set out to
-   develop a new World War II-era video game that, unlike many of its
-   predecessors, placed more emphasis on squad-based play with intelligent
-   assistance from teammates during large-scale battles. The team also
-   extensively researched weapons, artillery, and vehicles from [238]World
-   War II to enhance the authenticity of animation and sounds used
-   throughout the game.^[239][7] The game's budget was $4.5
-   million.^[240][8]
+   Call of Duty was developed by Infinity Ward, a new studio formed in
+   2002 originally consisting of 21 employees, many of whom were project
+   lead developers of the successful Medal of Honor: Allied Assault
+   released the same year. Led by Chief Creative Officer Vince Zampella,
+   development began in April 2002, and the team grew to 27 members by May
+   2003. At its beginning, the project was nicknamed "Medal of Honor
+   Killer".^[6] Using an enhanced version of the id Tech 3 game engine
+   developed for Quake III Arena and an in-house skeletal animation system
+   called "Ares", Infinity Ward set out to develop a new World War II-era
+   video game that, unlike many of its predecessors, placed more emphasis
+   on squad-based play with intelligent assistance from teammates during
+   large-scale battles. The team also extensively researched weapons,
+   artillery, and vehicles from World War II to enhance the authenticity
+   of animation and sounds used throughout the game.^[7] The game's budget
+   was $4.5 million.^[8]
 
-   Another area the development team focused on was their [241]artificial
+   Another area the development team focused on was their artificial
    intelligence (AI) pathfinding component dubbed "Conduit". The ability
    to suppress the enemy with cover fire and clear obstacles, such as
    fences and windows, was tightly integrated into the squad-based aspect
    of the single-player campaigns. The AI in the game was designed to
    flank the opponent, bank grenades, and move from one cover point to
-   another.^[242][2] Lead animation director Michael Boon explained that
+   another.^[2] Lead animation director Michael Boon explained that
    actions which would have normally been scripted in past games were
    moved to a dynamic AI environment, in order to help create a different
-   experience each time levels are replayed.^[243][9] While the campaigns
-   were the primary focus, development of the multiplayer modes were
-   tailored to please [244]modders. Zied Rieke, a lead designer, clarified
-   that gameplay and modes were written in script making it "extremely
-   easy for players to make their own modifications to Call of Duty
-   multiplayer".^[245][9]
+   experience each time levels are replayed.^[9] While the campaigns were
+   the primary focus, development of the multiplayer modes were tailored
+   to please modders. Zied Rieke, a lead designer, clarified that gameplay
+   and modes were written in script making it "extremely easy for players
+   to make their own modifications to Call of Duty multiplayer".^[9]
 
-Reception[[246]edit]
+Reception[edit]
 
    Reception
 
    CAPTION: Aggregate score
 
-     Aggregator         Score
-   [247]Metacritic 91/100^[248][10]
+   Aggregator    Score
+   Metacritic 91/100^[10]
 
    CAPTION: Review scores
 
-    Publication       Score
-   [249]Edge     7/10^[250][11]
-   [251]GamePro  ^[252][12]
-   [253]GameSpot 9.0/10^[254][13]
-   [255]IGN      9.3/10^[256][14]
-   [257]X-Play   ^[258][15]
+   Publication    Score
+   Edge        7/10^[11]
+   GamePro     ^[12]
+   GameSpot    9.0/10^[13]
+   IGN         9.3/10^[14]
+   X-Play      ^[15]
 
-  Critical reception[[259]edit]
+  Critical reception[edit]
 
-   Call of Duty received "critical acclaim", according to [260]review
-   aggregator [261]Metacritic.^[262][10] It won several "[263]Game of the
-   Year" awards for 2003 from several reviewers.
+   Call of Duty received "critical acclaim", according to review
+   aggregator Metacritic.^[10] It won several "Game of the Year" awards
+   for 2003 from several reviewers.
 
-   During the [264]7th Annual Interactive Achievement Awards (now known as
-   the [265]D.I.C.E. Awards), Call of Duty was honored "[266]Game of the
-   Year" of 2003 by the [267]Academy of Interactive Arts & Sciences; it
-   also won awards for "Computer Game of the Year" and "[268]Computer
-   First Person Action Game of the Year", along with nominations for
-   "Outstanding Innovation in Computer Gaming", "[269]Outstanding
-   Achievement in Original Music Composition", and "[270]Outstanding
-   Achievement in Sound Design".^[271][16]
+   During the 7th Annual Interactive Achievement Awards (now known as the
+   D.I.C.E. Awards), Call of Duty was honored "Game of the Year" of 2003
+   by the Academy of Interactive Arts & Sciences; it also won awards for
+   "Computer Game of the Year" and "Computer First Person Action Game of
+   the Year", along with nominations for "Outstanding Innovation in
+   Computer Gaming", "Outstanding Achievement in Original Music
+   Composition", and "Outstanding Achievement in Sound Design".^[16]
 
-   [272]GameSpot named it the best computer game of October
-   2003.^[273][17]
+   GameSpot named it the best computer game of October 2003.^[17]
 
-   [274]Computer Games Magazine named Call of Duty the sixth-best computer
-   game of 2003, and the editors wrote, "This game ups the ante in the
-   WWII shooter arena, and makes everything that has come before it seem
-   as outdated as France's army."^[275][18] The editors of [276]Computer
-   Gaming World presented Call of Duty with their 2003 "Shooter of the
-   Year" award. They remarked, "Call of Duty won this category without a
-   shot fired—there simply was no debate."^[277][19] It was also nominated
-   for "Best Game" at the 2004 [278]Game Developers Choice Awards. While
-   it did not receive that award, it did win Infinity Ward the "Rookie
-   Studio of the Year". Chuck Russom was also presented with the
-   "Excellence in Audio" award for his work on the game.^[279][20]
+   Computer Games Magazine named Call of Duty the sixth-best computer game
+   of 2003, and the editors wrote, "This game ups the ante in the WWII
+   shooter arena, and makes everything that has come before it seem as
+   outdated as France's army."^[18] The editors of Computer Gaming World
+   presented Call of Duty with their 2003 "Shooter of the Year" award.
+   They remarked, "Call of Duty won this category without a shot
+   fired—there simply was no debate."^[19] It was also nominated for "Best
+   Game" at the 2004 Game Developers Choice Awards. While it did not
+   receive that award, it did win Infinity Ward the "Rookie Studio of the
+   Year". Chuck Russom was also presented with the "Excellence in Audio"
+   award for his work on the game.^[20]
 
-   [280]IGN rated the game 9.3/10, with reviewer Dan Adams saying "You
-   have to love a game that glues you to your seat and keeps you
-   interested... A thrilling piece of software that action fans should
-   grab a hold of and love fiercely." His only negative critique was on
-   the short length of the game, which many reviewers pointed
-   out.^[281][21]
+   IGN rated the game 9.3/10, with reviewer Dan Adams saying "You have to
+   love a game that glues you to your seat and keeps you interested... A
+   thrilling piece of software that action fans should grab a hold of and
+   love fiercely." His only negative critique was on the short length of
+   the game, which many reviewers pointed out.^[21]
 
    The N-Gage version got "mixed or average reviews" on the site
-   Metacritic.^[282][22]
+   Metacritic.^[22]
 
-  Sales[[283]edit]
+  Sales[edit]
 
-   [284]The NPD Group named Call of Duty the eighth-best-selling computer
-   game of 2003.^[285][23] It maintained this position on NPD's computer
-   game sales rankings for the following year.^[286][24] In the United
-   States alone, Call of Duty sold 790,000 copies and earned $29.6 million
-   (~$38.8 million in 2021) by August 2006. At the time, this led
-   [287]Edge to declare it the country's 13th-best-selling computer game
-   released since January 2000.^[288][25]
+   The NPD Group named Call of Duty the eighth-best-selling computer game
+   of 2003.^[23] It maintained this position on NPD's computer game sales
+   rankings for the following year.^[24] In the United States alone, Call
+   of Duty sold 790,000 copies and earned $29.6 million (~$41.5 million in
+   2022) by August 2006. At the time, this led Edge to declare it the
+   country's 13th-best-selling computer game released since January
+   2000.^[25]
 
    In the United Kingdom, Call of Duty sold 95,000 copies by the end of
    2003, which made it 88th-biggest seller across all platforms that
-   year.^[289][26] Discussing this performance, Kristan Reed of
-   [290]GamesIndustry.biz wrote that "Activision will be pleased that it
-   managed to interrupt the [291]Sims party" with the game's
-   release.^[292][27] Call of Duty ultimately received a "Silver" sales
-   award from the [293]Entertainment and Leisure Software Publishers
-   Association (ELSPA),^[294][28] indicating sales of at least 100,000
-   copies in the United Kingdom.^[295][29]
+   year.^[26] Discussing this performance, Kristan Reed of
+   GamesIndustry.biz wrote that "Activision will be pleased that it
+   managed to interrupt the Sims party" with the game's release.^[27] Call
+   of Duty ultimately received a "Silver" sales award from the
+   Entertainment and Leisure Software Publishers Association (ELSPA),^[28]
+   indicating sales of at least 100,000 copies in the United Kingdom.^[29]
 
-   Call of Duty ultimately sold 4.5 million copies worldwide by
-   2013.^[296][30]
+   Call of Duty ultimately sold 4.5 million copies worldwide by 2013.^[30]
 
-Franchise[[297]edit]
+Franchise[edit]
 
-   Main article: [298]Call of Duty
+   Main article: Call of Duty
 
-   Call of Duty spawned numerous spin-offs and sequels, part of the
-   [299]Call of Duty series. Its expansion pack - [300]Call of Duty:
-   United Offensive was developed by [301]Gray Matter Studios and released
-   September 14, 2004. [302]Call of Duty 2 was also developed by Infinity
-   Ward and was released in October 2005. Some Call of Duty spinoffs were
-   developed for consoles, such as [303]Call of Duty: Finest Hour by
-   [304]Spark Unlimited and [305]Call of Duty 2: Big Red One by Gray
-   Matter Studios (merged into [306]Treyarch). The franchise eventually
-   had over fifteen more sequels and spin offs.
+   Call of Duty spawned numerous spin-offs and sequels, part of the Call
+   of Duty series. Its expansion pack - Call of Duty: United Offensive was
+   developed by Gray Matter Studios and released September 14, 2004. Call
+   of Duty 2 was also developed by Infinity Ward and was released in
+   October 2005. Some Call of Duty spinoffs were developed for consoles,
+   such as Call of Duty: Finest Hour by Spark Unlimited and Call of Duty
+   2: Big Red One by Gray Matter Studios (merged into Treyarch). The
+   franchise eventually had over fifteen more sequels and spin offs.
 
-Ports[[307]edit]
+Ports[edit]
 
-   Call of Duty Classic is a downloadable version of Call of Duty for
-   [308]Xbox 360 and [309]PlayStation 3, featuring HD
-   resolutions.^[310][31] Tokens to download the game ahead of its release
-   were sold along with special "Hardened" and "Prestige" editions of
-   [311]Call of Duty: Modern Warfare 2,^[312][31] and the game was
-   publicly released on December 2, 2009.
+   Call of Duty Classic is a downloadable version of Call of Duty for Xbox
+   360 and PlayStation 3, featuring HD resolutions.^[31] Tokens to
+   download the game ahead of its release were sold along with special
+   "Hardened" and "Prestige" editions of Call of Duty: Modern Warfare
+   2,^[31] and the game was publicly released on December 2, 2009.
 
-   [313]IGN rated this version 7.5, citing it as not well adapted to the
+   IGN rated this version 7.5, citing it as not well adapted to the
    consoles, as well as criticizing the multiplayer for only supporting up
-   to eight players.^[314][32]
+   to eight players.^[32]
 
-References[[315]edit]
+References[edit]
 
-    1. [316]^ [317]"Aspyr announces CSI game, ships Call of Duty".
-       Macworld. [318]Archived from the original on May 13, 2023.
-       Retrieved May 13, 2023.
-    2. ^ [319]^a [320]^b Stead, Chris (July 15, 2009). [321]"The 10 Best
-       Game Engines of This Generation". IGN. [322]Archived from the
-       original on August 31, 2012. Retrieved March 3, 2016.
-    3. [323]^ [324]"GameSpot - Call of Duty". Archived from [325]the
-       original on October 1, 2009. Retrieved September 23, 2007.
-    4. [326]^ [327]"Nokia N-Gage | New Unlockable Content For N-Gage Games
-       With N-Gage Arena Packs". December 18, 2005. Archived from [328]the
-       original on December 18, 2005. Retrieved May 8, 2021.
-    5. [329]^ [330]"Modern Warfare 2's 'Prestige Edition' Is Insane". IGN.
-       July 13, 2009. [331]Archived from the original on July 14, 2009.
-       Retrieved July 13, 2009.
-    6. [332]^ Keza MacDonald (November 1, 2013). [333]"Call of Duty's
-       Original Codename Was "Medal of Honor Killer"". [334]IGN.
-       [335]Archived from the original on December 27, 2022. Retrieved
-       December 27, 2022.
-    7. [336]^ [337]"Call of Duty Q&A". GameSpot. May 1, 2003.
-       [338]Archived from the original on March 3, 2016. Retrieved March
-       3, 2016.
-    8. [339]^ Davidson, Neil (November 9, 2005). [340]"Game's success
-       sparks company's growth". [341]North Bay Nugget. p. 25.
-       [342]Archived from the original on January 19, 2022. Retrieved
-       January 19, 2022 – via [343]Newspapers.com.
-    9. ^ [344]^a [345]^b Blevins, Tal (May 14, 2003). [346]"E3 2003: Call
-       of Duty". IGN. [347]Archived from the original on March 3, 2016.
-       Retrieved March 3, 2016.
-   10. ^ [348]^a [349]^b [350]"Call of Duty". [351]Metacritic.
-       [352]Fandom, Inc. Retrieved February 15, 2021.
-   11. [353]^ [354]"EDGE magazine review score archive". [355]Archived
-       from the original on September 11, 2017. Retrieved December 1,
-       2017.
-   12. [356]^ [357]"Review: Call of Duty for PC on GamePro.com".
-       [358]GamePro. Archived from [359]the original on July 24, 2008.
-       Retrieved May 15, 2008.
-   13. [360]^ [361]"Call of Duty for PC Review - PC Call of Duty Review".
-       [362]GameSpot. [363]Archived from the original on August 20, 2011.
-       Retrieved May 15, 2008.
-   14. [364]^ [365]"IGN: Call of Duty Review". IGN. Archived from [366]the
-       original on January 19, 2012. Retrieved May 19, 2008.
-   15. [367]^ [368]"X-Play review Call of Duty PC - PC Call of Duty
-       review". [369]X-Play. Archived from [370]the original on April 9,
-       2017. Retrieved March 13, 2009.
-   16. [371]^ [372]"7th Annual Interactive Achievement Awards".
-       [373]Academy of Interactive Arts & Sciences. [374]Archived from the
-       original on August 11, 2014. Retrieved August 26, 2014.
-   17. [375]^ Staff (October 31, 2003). [376]"GameSpot's Month in Review
-       for October 2003". [377]GameSpot. Archived from [378]the original
-       on December 7, 2003.
-   18. [379]^ Staff (March 2004). "Best of 2003; The 13th Annual Awards".
-       [380]Computer Games Magazine (160): 58–62.
-   19. [381]^ Editors of CGW (March 2004). "Computer Gaming World's 2003
-       Games of the Year". [382]Computer Gaming World. No. 236. pp. 57–60,
-       62–69.
-   20. [383]^ [384]"4th Annual Game Developer Choice Awards". [385]Game
-       Developers Choice Awards. Archived from [386]the original on August
-       7, 2007. Retrieved September 23, 2007.
-   21. [387]^ [388]"Call of Duty Review". Dan Adams. IGN. Archived from
-       [389]the original on March 24, 2007. Retrieved September 23, 2007.
-   22. [390]^ [391]"Call of Duty (Ngage) reviews at Metacritic.com".
-       www.metacritic.com. Archived from [392]the original on December 14,
+    1. ^ "Aspyr announces CSI game, ships Call of Duty". Macworld.
+       Archived from the original on May 13, 2023. Retrieved May 13, 2023.
+    2. ^ ^a ^b Stead, Chris (July 15, 2009). "The 10 Best Game Engines of
+       This Generation". IGN. Archived from the original on August 31,
+       2012. Retrieved March 3, 2016.
+    3. ^ "GameSpot - Call of Duty". Archived from the original on October
+       1, 2009. Retrieved September 23, 2007.
+    4. ^ "Nokia N-Gage | New Unlockable Content For N-Gage Games With
+       N-Gage Arena Packs". December 18, 2005. Archived from the original
+       on December 18, 2005. Retrieved May 8, 2021.
+    5. ^ "Modern Warfare 2's 'Prestige Edition' Is Insane". IGN. July 13,
+       2009. Archived from the original on July 14, 2009. Retrieved July
+       13, 2009.
+    6. ^ Keza MacDonald (November 1, 2013). "Call of Duty's Original
+       Codename Was "Medal of Honor Killer"". IGN. Archived from the
+       original on December 27, 2022. Retrieved December 27, 2022.
+    7. ^ "Call of Duty Q&A". GameSpot. May 1, 2003. Archived from the
+       original on March 3, 2016. Retrieved March 3, 2016.
+    8. ^ Davidson, Neil (November 9, 2005). "Game's success sparks
+       company's growth". North Bay Nugget. p. 25. Archived from the
+       original on January 19, 2022. Retrieved January 19, 2022 – via
+       Newspapers.com.
+    9. ^ ^a ^b Blevins, Tal (May 14, 2003). "E3 2003: Call of Duty". IGN.
+       Archived from the original on March 3, 2016. Retrieved March 3,
+       2016.
+   10. ^ ^a ^b "Call of Duty". Metacritic. Fandom, Inc. Retrieved February
+       15, 2021.
+   11. ^ "EDGE magazine review score archive". Archived from the original
+       on September 11, 2017. Retrieved December 1, 2017.
+   12. ^ "Review: Call of Duty for PC on GamePro.com". GamePro. Archived
+       from the original on July 24, 2008. Retrieved May 15, 2008.
+   13. ^ "Call of Duty for PC Review - PC Call of Duty Review". GameSpot.
+       Archived from the original on August 20, 2011. Retrieved May 15,
+       2008.
+   14. ^ "IGN: Call of Duty Review". IGN. Archived from the original on
+       January 19, 2012. Retrieved May 19, 2008.
+   15. ^ "X-Play review Call of Duty PC - PC Call of Duty review". X-Play.
+       Archived from the original on April 9, 2017. Retrieved March 13,
+       2009.
+   16. ^ "7th Annual Interactive Achievement Awards". Academy of
+       Interactive Arts & Sciences. Archived from the original on August
+       11, 2014. Retrieved August 26, 2014.
+   17. ^ Staff (October 31, 2003). "GameSpot's Month in Review for October
+       2003". GameSpot. Archived from the original on December 7, 2003.
+   18. ^ Staff (March 2004). "Best of 2003; The 13th Annual Awards".
+       Computer Games Magazine (160): 58–62.
+   19. ^ Editors of CGW (March 2004). "Computer Gaming World's 2003 Games
+       of the Year". Computer Gaming World. No. 236. pp. 57–60, 62–69.
+   20. ^ "4th Annual Game Developer Choice Awards". Game Developers Choice
+       Awards. Archived from the original on August 7, 2007. Retrieved
+       September 23, 2007.
+   21. ^ "Call of Duty Review". Dan Adams. IGN. Archived from the original
+       on March 24, 2007. Retrieved September 23, 2007.
+   22. ^ "Call of Duty (Ngage) reviews at Metacritic.com".
+       www.metacritic.com. Archived from the original on December 14,
        2009. Retrieved January 11, 2022.
-   23. [393]^ [394]Essential Facts about the Computer and Video Game
-       Industry: 2004 Sales, Demographics and Usage Data (PDF) (Report).
-       [395]Entertainment Software Association. May 12, 2004. p. 5.
-       Archived from [396]the original (PDF) on December 5, 2004.
-       Retrieved November 17, 2018.
-   24. [397]^ [398]Essential Facts about the Computer and Video Game
-       Industry; 2005 Sales, Demographics and Usage Data (PDF) (Report).
-       [399]Entertainment Software Association. May 18, 2005. p. 5.
-       Archived from [400]the original (PDF) on November 4, 2005.
-   25. [401]^ Edge Staff (August 25, 2006). [402]"The Top 100 PC Games of
-       the 21st Century". [403]Edge. Archived from [404]the original on
-       October 17, 2012.
-   26. [405]^ Reed, Kristan (March 11, 2004). [406]"UK Charts 2003: Smash
-       Hits". [407]GamesIndustry.biz. Archived from [408]the original on
-       April 7, 2004. Retrieved June 20, 2019.
-   27. [409]^ Reed, Kristan (March 1, 2004). [410]"UK Charts: 2003 Annual
-       Report Round Up". [411]Eurogamer. [412]Archived from the original
-       on January 21, 2019.
-   28. [413]^ [414]"ELSPA Sales Awards: Silver". [415]Entertainment and
-       Leisure Software Publishers Association. Archived from [416]the
-       original on February 21, 2009.
-   29. [417]^ Caoili, Eric (November 26, 2008). [418]"ELSPA: Wii Fit,
-       Mario Kart Reach Diamond Status In UK". [419]Gamasutra. Archived
-       from [420]the original on September 18, 2017.
-   30. [421]^ [422]"Call of Duty: A Short History". [423]IGN. [424]Ziff
-       Davis. November 2013. [425]Archived from the original on March 3,
-       2016. Retrieved February 23, 2014.
-   31. ^ [426]^a [427]^b Reilly, Jim (July 30, 2009). [428]"Call of Duty
-       Classic Coming To PSN, XBLA 'Eventually'". IGN. IGN Entertainment,
-       Inc. Archived from [429]the original on August 3, 2009. Retrieved
-       October 17, 2009.
-   32. [430]^ [431]"Call of Duty Classic Review – Xbox 360 Review at IGN".
-       Archived from [432]the original on December 7, 2009. Retrieved
-       December 9, 2009.
+   23. ^ Essential Facts about the Computer and Video Game Industry: 2004
+       Sales, Demographics and Usage Data (PDF) (Report). Entertainment
+       Software Association. May 12, 2004. p. 5. Archived from the
+       original (PDF) on December 5, 2004. Retrieved November 17, 2018.
+   24. ^ Essential Facts about the Computer and Video Game Industry; 2005
+       Sales, Demographics and Usage Data (PDF) (Report). Entertainment
+       Software Association. May 18, 2005. p. 5. Archived from the
+       original (PDF) on November 4, 2005.
+   25. ^ Edge Staff (August 25, 2006). "The Top 100 PC Games of the 21st
+       Century". Edge. Archived from the original on October 17, 2012.
+   26. ^ Reed, Kristan (March 11, 2004). "UK Charts 2003: Smash Hits".
+       GamesIndustry.biz. Archived from the original on April 7, 2004.
+       Retrieved June 20, 2019.
+   27. ^ Reed, Kristan (March 1, 2004). "UK Charts: 2003 Annual Report
+       Round Up". Eurogamer. Archived from the original on January 21,
+       2019.
+   28. ^ "ELSPA Sales Awards: Silver". Entertainment and Leisure Software
+       Publishers Association. Archived from the original on February 21,
+       2009.
+   29. ^ Caoili, Eric (November 26, 2008). "ELSPA: Wii Fit, Mario Kart
+       Reach Diamond Status In UK". Gamasutra. Archived from the original
+       on September 18, 2017.
+   30. ^ "Call of Duty: A Short History". IGN. Ziff Davis. November 2013.
+       Archived from the original on March 3, 2016. Retrieved February 23,
+       2014.
+   31. ^ ^a ^b Reilly, Jim (July 30, 2009). "Call of Duty Classic Coming
+       To PSN, XBLA 'Eventually'". IGN. IGN Entertainment, Inc. Archived
+       from the original on August 3, 2009. Retrieved October 17, 2009.
+   32. ^ "Call of Duty Classic Review – Xbox 360 Review at IGN". Archived
+       from the original on December 7, 2009. Retrieved December 9, 2009.
 
-External links[[433]edit]
+External links[edit]
 
-     * [434]Official website
-     * [435]Call of Duty at [436]IMDb
+     * Official website
+     * Call of Duty at IMDb
 
-     * [437]v
-     * [438]t
-     * [439]e
+     * v
+     * t
+     * e
 
-   [440]Call of Duty
+   Call of Duty
 
-   [441]Activision
+   Activision
 
-   [442]World War II series
+   World War II series
 
    Main series
      * Call of Duty
-          + [443]United Offensive
-     * [444]2
-     * [445]3
-     * [446]WWII
-     * [447]Vanguard
+          + United Offensive
+     * 2
+     * 3
+     * WWII
+     * Vanguard
 
    Spin-offs
-     * [448]Finest Hour
-     * [449]2: Big Red One
-     * [450]Roads to Victory
+     * Finest Hour
+     * 2: Big Red One
+     * Roads to Victory
 
    Modern Warfare
 
    Original series
-     * [451]4: Modern Warfare
-          + [452]Remastered
-     * [453]Modern Warfare 2
-     * [454]Modern Warfare 3
+     * 4: Modern Warfare
+          + Remastered
+     * Modern Warfare 2
+     * Modern Warfare 3
 
    Reboot series
-     * [455]Modern Warfare (2019)
-     * [456]Modern Warfare II (2022)
-     * [457]Modern Warfare III (2023)
+     * Modern Warfare (2019)
+     * Modern Warfare II (2022)
+     * Modern Warfare III (2023)
 
    Spin-offs
-     * [458]4: Modern Warfare (Nintendo DS)
-     * [459]Modern Warfare – Mobilized
-     * [460]Modern Warfare 3 – Defiance
+     * 4: Modern Warfare (Nintendo DS)
+     * Modern Warfare – Mobilized
+     * Modern Warfare 3 – Defiance
 
    Black Ops
 
    Main series
-     * [461]World at War
-     * [462]Black Ops
-     * [463]Black Ops II
-     * [464]Black Ops III
-     * [465]Black Ops 4
-     * [466]Black Ops Cold War
+     * World at War
+     * Black Ops
+     * Black Ops II
+     * Black Ops III
+     * Black Ops 4
+     * Black Ops Cold War
 
      Zombies
-     * [467]World at War – Zombies
-     * [468]Black Ops – Zombies
+     * World at War – Zombies
+     * Black Ops – Zombies
 
    Spin-offs
-     * [469]World at War (Nintendo DS)
-     * [470]World at War – Final Fronts
-     * [471]Black Ops – Declassified
-     * [472]Strike Team
+     * World at War (Nintendo DS)
+     * World at War – Final Fronts
+     * Black Ops – Declassified
+     * Strike Team
 
    Warzone
 
-     * [473]Warzone
-     * [474]Warzone 2.0
+     * Warzone
+     * Warzone 2.0
 
    Other games
 
-     * [475]Online
-     * [476]Ghosts
-     * [477]Advanced Warfare
-     * [478]Heroes
-     * [479]Infinite Warfare
-     * [480]Mobile
+     * Online
+     * Ghosts
+     * Advanced Warfare
+     * Heroes
+     * Infinite Warfare
+     * Mobile
 
    Individual levels
 
-     * "[481]All Ghillied Up"
-     * "[482]No Russian"
-     * "[483]Nuketown"
+     * "All Ghillied Up"
+     * "No Russian"
+     * "Nuketown"
 
    Other media
 
-     * [484]Modern Warfare 2: Ghost
-     * [485]Find Makarov: Operation Kingfish
-     * "[486]Nightmare"
-     * "[487]Shepherd of Fire"
-     * "[488]Survival"
-     * [489]Black Reign
-          + "[490]Not Ready to Die"
-          + "[491]Carry On"
-          + "[492]Mad Hatter"
+     * Modern Warfare 2: Ghost
+     * Find Makarov: Operation Kingfish
+     * "Nightmare"
+     * "Shepherd of Fire"
+     * "Survival"
+     * Black Reign
+          + "Not Ready to Die"
+          + "Carry On"
+          + "Mad Hatter"
 
    Technology
 
-     * [493]id Tech 3
-     * [494]IW engine
+     * id Tech 3
+     * IW engine
 
    Esports
 
-     * [495]Championship
-     * [496]World League
-     * [497]League
+     * Championship
+     * World League
+     * League
 
    Main developers
 
-     * [498]Infinity Ward
-     * [499]Treyarch
-     * [500]Sledgehammer Games
-     * [501]Raven Software
+     * Infinity Ward
+     * Treyarch
+     * Sledgehammer Games
+     * Raven Software
 
    Related
 
-     * [502]Battle.net
-     * [503]Elite
-     * [504]Experience 2011
-     * [505]Experience 2016
-     * [506]Endowment
-     * "[507]Press F to pay respects"
-     * [508]2017 Wichita swatting
+     * Battle.net
+     * Elite
+     * Experience 2011
+     * Experience 2016
+     * Endowment
+     * "Press F to pay respects"
+     * 2017 Wichita swatting
 
-     * [509]Category
+     * Category
 
-     * [510]v
-     * [511]t
-     * [512]e
+     * v
+     * t
+     * e
 
-   [513]BAFTA Interactive Entertainment Awards and [514]BAFTA Games Award
-   for [515]Best Game
+   BAFTA Interactive Entertainment Awards and BAFTA Games Award for Best
+   Game
 
    1990s
 
-     * [516]GoldenEye 007 (1998)
-     * [517]The Legend of Zelda: Ocarina of Time (1999)
+     * GoldenEye 007 (1998)
+     * The Legend of Zelda: Ocarina of Time (1999)
 
    2000s
 
-     * [518]Deus Ex, [519]MediEvil II, [520]Pokémon Yellow, [521]Sydney
-       2000 (2000)
-     * [522]Gran Turismo 3: A-Spec, [523]ISS Pro Evolution 2, [524]Max
-       Payne, [525]Phantasy Star Online, [526]Tony Hawk's Pro Skater 2
-       (2001)
-     * [527]Grand Prix 4, [528]Halo: Combat Evolved, [529]Neverwinter
-       Nights, SMS Chess (2002)
+     * Deus Ex, MediEvil II, Pokémon Yellow, Sydney 2000 (2000)
+     * Gran Turismo 3: A-Spec, ISS Pro Evolution 2, Max Payne, Phantasy
+       Star Online, Tony Hawk's Pro Skater 2 (2001)
+     * Grand Prix 4, Halo: Combat Evolved, Neverwinter Nights, SMS Chess
+       (2002)
      * Call of Duty (2003)
-     * [530]Half-Life 2 (2004)
-     * [531]Tom Clancy's Ghost Recon Advanced Warfighter (2006)
-     * [532]BioShock (2007)
-     * [533]Super Mario Galaxy (2008)
-     * [534]Batman: Arkham Asylum (2009)
+     * Half-Life 2 (2004)
+     * Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+     * BioShock (2007)
+     * Super Mario Galaxy (2008)
+     * Batman: Arkham Asylum (2009)
 
    2010s
 
-     * [535]Mass Effect 2 (2010)
-     * [536]Portal 2 (2011)
-     * [537]Dishonored (2012)
-     * [538]The Last of Us (2013)
-     * [539]Destiny (2014)
-     * [540]Fallout 4 (2015)
-     * [541]Uncharted 4: A Thief's End (2016)
-     * [542]What Remains of Edith Finch (2017)
-     * [543]God of War (2018)
-     * [544]Outer Wilds (2019)
+     * Mass Effect 2 (2010)
+     * Portal 2 (2011)
+     * Dishonored (2012)
+     * The Last of Us (2013)
+     * Destiny (2014)
+     * Fallout 4 (2015)
+     * Uncharted 4: A Thief's End (2016)
+     * What Remains of Edith Finch (2017)
+     * God of War (2018)
+     * Outer Wilds (2019)
 
    2020s
 
-     * [545]Hades (2020)
-     * [546]Returnal (2021)
-     * [547]Vampire Survivors (2022)
+     * Hades (2020)
+     * Returnal (2021)
+     * Vampire Survivors (2022)
 
-     * [548]v
-     * [549]t
-     * [550]e
+     * v
+     * t
+     * e
 
-   [551]D.I.C.E. Awards' Game of the Year
+   D.I.C.E. Awards' Game of the Year
 
-     * [552]GoldenEye 007 (1997/1998)
-     * [553]The Legend of Zelda: Ocarina of Time (1998/1999)
-     * [554]The Sims (1999/2000)
-     * [555]Diablo II (2000)
-     * [556]Halo: Combat Evolved (2001)
-     * [557]Battlefield 1942 (2002)
+     * GoldenEye 007 (1997/1998)
+     * The Legend of Zelda: Ocarina of Time (1998/1999)
+     * The Sims (1999/2000)
+     * Diablo II (2000)
+     * Halo: Combat Evolved (2001)
+     * Battlefield 1942 (2002)
      * Call of Duty (2003)
-     * [558]Half-Life 2 (2004)
-     * [559]God of War (2005)
-     * [560]Gears of War (2006)
-     * [561]Call of Duty 4: Modern Warfare (2007)
-     * [562]LittleBigPlanet (2008)
-     * [563]Uncharted 2: Among Thieves (2009)
-     * [564]Mass Effect 2 (2010)
-     * [565]The Elder Scrolls V: Skyrim (2011)
-     * [566]Journey (2012)
-     * [567]The Last of Us (2013)
-     * [568]Dragon Age: Inquisition (2014)
-     * [569]Fallout 4 (2015)
-     * [570]Overwatch (2016)
-     * [571]The Legend of Zelda: Breath of the Wild (2017)
-     * [572]God of War (2018)
-     * [573]Untitled Goose Game (2019)
-     * [574]Hades (2020)
-     * [575]It Takes Two (2021)
-     * [576]Elden Ring (2022)
+     * Half-Life 2 (2004)
+     * God of War (2005)
+     * Gears of War (2006)
+     * Call of Duty 4: Modern Warfare (2007)
+     * LittleBigPlanet (2008)
+     * Uncharted 2: Among Thieves (2009)
+     * Mass Effect 2 (2010)
+     * The Elder Scrolls V: Skyrim (2011)
+     * Journey (2012)
+     * The Last of Us (2013)
+     * Dragon Age: Inquisition (2014)
+     * Fallout 4 (2015)
+     * Overwatch (2016)
+     * The Legend of Zelda: Breath of the Wild (2017)
+     * God of War (2018)
+     * Untitled Goose Game (2019)
+     * Hades (2020)
+     * It Takes Two (2021)
+     * Elden Ring (2022)
 
-   [577]Authority control databases [578]Edit this at Wikidata
+   Authority control databases Edit this at Wikidata
    National
-     * [579]France
-     * [580]BnF data
+     * France
+     * BnF data
 
     Other
-     * [581]MusicBrainz release group
+     * MusicBrainz release group
 
    Retrieved from
-   "[582]https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_ga
-   me)&oldid=1183788715"
+   "https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&o
+   ldid=1183788715"
 
-   [583]Categories:
-     * [584]2003 video games
-     * [585]Activision games
-     * [586]Call of Duty
-     * [587]MacOS games
-     * [588]Multiplayer online games
-     * [589]N-Gage games
-     * [590]PlayStation Network games
-     * [591]Video games about the Special Air Service
-     * [592]Video games scored by Michael Giacchino
-     * [593]Video games set in Georgia (U.S. state)
-     * [594]Video games set in Austria
-     * [595]Video games set in Belgium
-     * [596]Video games set in Berlin
-     * [597]Video games set in France
-     * [598]Video games set in Germany
-     * [599]Video games set in Norway
-     * [600]Video games set in Poland
-     * [601]Video games set in the Soviet Union
-     * [602]Video games set in Russia
-     * [603]Video games with expansion packs
-     * [604]Windows games
-     * [605]Xbox 360 Live Arcade games
-     * [606]Id Tech games
-     * [607]War video games set in the British Empire
-     * [608]War video games set in the United States
-     * [609]British Academy Games Award for Best Game winners
-     * [610]Infinity Ward games
-     * [611]Aspyr games
-     * [612]Multiplayer and single-player video games
-     * [613]Video games developed in the United States
-     * [614]Works about the Battle of Stalingrad
-     * [615]Operation Overlord video games
+   Categories:
+     * 2003 video games
+     * Activision games
+     * Call of Duty
+     * MacOS games
+     * Multiplayer online games
+     * N-Gage games
+     * PlayStation Network games
+     * Video games about the Special Air Service
+     * Video games scored by Michael Giacchino
+     * Video games set in Georgia (U.S. state)
+     * Video games set in Austria
+     * Video games set in Belgium
+     * Video games set in Berlin
+     * Video games set in France
+     * Video games set in Germany
+     * Video games set in Norway
+     * Video games set in Poland
+     * Video games set in the Soviet Union
+     * Video games set in Russia
+     * Video games with expansion packs
+     * Windows games
+     * Xbox 360 Live Arcade games
+     * Id Tech games
+     * War video games set in the British Empire
+     * War video games set in the United States
+     * British Academy Games Award for Best Game winners
+     * Infinity Ward games
+     * Aspyr games
+     * Multiplayer and single-player video games
+     * Video games developed in the United States
+     * Works about the Battle of Stalingrad
+     * Operation Overlord video games
 
    Hidden categories:
-     * [616]Articles with short description
-     * [617]Short description matches Wikidata
-     * [618]Use mdy dates from June 2020
-     * [619]Articles using Infobox video game using locally defined
-       parameters
-     * [620]Articles using Wikidata infoboxes with locally defined images
-     * [621]Articles using Video game reviews template in single platform
-       mode
-     * [622]Official website different in Wikidata and Wikipedia
-     * [623]IMDb ID same as Wikidata
-     * [624]Articles with BNF identifiers
-     * [625]Articles with BNFdata identifiers
-     * [626]Articles with MusicBrainz release group identifiers
+     * Articles with short description
+     * Short description matches Wikidata
+     * Use mdy dates from June 2020
+     * Articles using Infobox video game using locally defined parameters
+     * Articles using Wikidata infoboxes with locally defined images
+     * Articles using Video game reviews template in single platform mode
+     * Official website different in Wikidata and Wikipedia
+     * IMDb ID same as Wikidata
+     * Articles with BNF identifiers
+     * Articles with BNFdata identifiers
+     * Articles with MusicBrainz release group identifiers
 
      * This page was last edited on 6 November 2023, at 14:29 (UTC).
-     * Text is available under the [627]Creative Commons
-       Attribution-ShareAlike License 4.0; additional terms may apply. By
-       using this site, you agree to the [628]Terms of Use and
-       [629]Privacy Policy. Wikipedia® is a registered trademark of the
-       [630]Wikimedia Foundation, Inc., a non-profit organization.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License 4.0; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
 
-     * [631]Privacy policy
-     * [632]About Wikipedia
-     * [633]Disclaimers
-     * [634]Contact Wikipedia
-     * [635]Code of Conduct
-     * [636]Developers
-     * [637]Statistics
-     * [638]Cookie statement
-     * [639]Mobile view
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
 
-     * [640]Wikimedia Foundation
-     * [641]Powered by MediaWiki
+     * Wikimedia Foundation
+     * Powered by MediaWiki
 
      * (BUTTON) Toggle limited content width
-
-References
-
-   Visible links:
-   1. https://en.m.wikipedia.org/wiki/Call_of_Duty_(video_game)
-   2. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit
-   3. https://en.wikipedia.org/w/opensearch_desc.php
-   4. https://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
-   5. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#bodyContent
-   6. https://en.wikipedia.org/wiki/Main_Page
-   7. https://en.wikipedia.org/wiki/Wikipedia:Contents
-   8. https://en.wikipedia.org/wiki/Portal:Current_events
-   9. https://en.wikipedia.org/wiki/Special:Random
-  10. https://en.wikipedia.org/wiki/Wikipedia:About
-  11. https://en.wikipedia.org/wiki/Wikipedia:Contact_us
-  12. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
-  13. https://en.wikipedia.org/wiki/Help:Contents
-  14. https://en.wikipedia.org/wiki/Help:Introduction
-  15. https://en.wikipedia.org/wiki/Wikipedia:Community_portal
-  16. https://en.wikipedia.org/wiki/Special:RecentChanges
-  17. https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard
-  18. https://en.wikipedia.org/wiki/Main_Page
-  19. https://en.wikipedia.org/wiki/Special:Search
-  20. https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Call+of+Duty+(video+game)
-  21. https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Call+of+Duty+(video+game)
-  22. https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Call+of+Duty+(video+game)
-  23. https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Call+of+Duty+(video+game)
-  24. https://en.wikipedia.org/wiki/Help:Introduction
-  25. https://en.wikipedia.org/wiki/Special:MyContributions
-  26. https://en.wikipedia.org/wiki/Special:MyTalk
-  27. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)
-  28. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Gameplay
-  29. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Campaign
-  30. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#American_campaign
-  31. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#British_campaign
-  32. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Soviet_campaign
-  33. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Development
-  34. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Reception
-  35. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Critical_reception
-  36. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Sales
-  37. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Franchise
-  38. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#Ports
-  39. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#References
-  40. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#External_links
-  41. https://ar.wikipedia.org/wiki/كول_أوف_ديوتي
-  42. https://ca.wikipedia.org/wiki/Call_of_Duty_(videojoc)
-  43. https://cs.wikipedia.org/wiki/Call_of_Duty_(videohra)
-  44. https://da.wikipedia.org/wiki/Call_of_Duty
-  45. https://de.wikipedia.org/wiki/Call_of_Duty_(Computerspiel)
-  46. https://et.wikipedia.org/wiki/Call_of_Duty
-  47. https://el.wikipedia.org/wiki/Call_of_Duty_(βιντεοπαιχνίδι)
-  48. https://es.wikipedia.org/wiki/Call_of_Duty_(videojuego)
-  49. https://fa.wikipedia.org/wiki/ندای_وظیفه_(بازی_ویدئویی)
-  50. https://fr.wikipedia.org/wiki/Call_of_Duty_(jeu_vidéo)
-  51. https://fy.wikipedia.org/wiki/Call_Of_Duty
-  52. https://ko.wikipedia.org/wiki/콜_오브_듀티_(비디오_게임)
-  53. https://hy.wikipedia.org/wiki/Call_of_Duty
-  54. https://id.wikipedia.org/wiki/Call_of_Duty_(permainan_video)
-  55. https://it.wikipedia.org/wiki/Call_of_Duty_(videogioco)
-  56. https://he.wikipedia.org/wiki/Call_of_Duty_(משחק)
-  57. https://ka.wikipedia.org/wiki/Call_of_Duty_(ვიდეო_თამაში)
-  58. https://lld.wikipedia.org/wiki/Call_of_Duty
-  59. https://lt.wikipedia.org/wiki/Call_of_Duty
-  60. https://hu.wikipedia.org/wiki/Call_of_Duty_(videójáték)
-  61. https://mk.wikipedia.org/wiki/Call_of_Duty_(видеоигра)
-  62. https://arz.wikipedia.org/wiki/كال_اوف_دوتى
-  63. https://nl.wikipedia.org/wiki/Call_of_Duty_(computerspel)
-  64. https://ja.wikipedia.org/wiki/コール_オブ_デューティ
-  65. https://no.wikipedia.org/wiki/Call_of_Duty_(videospill)
-  66. https://pl.wikipedia.org/wiki/Call_of_Duty
-  67. https://pt.wikipedia.org/wiki/Call_of_Duty_(jogo_eletrônico)
-  68. https://ro.wikipedia.org/wiki/Call_of_Duty_(joc_video)
-  69. https://ru.wikipedia.org/wiki/Call_of_Duty
-  70. https://sl.wikipedia.org/wiki/Call_of_Duty_(videoigra)
-  71. https://sr.wikipedia.org/wiki/Call_of_Duty_(видео-игра)
-  72. https://sh.wikipedia.org/wiki/Call_of_Duty_(video_igra)
-  73. https://fi.wikipedia.org/wiki/Call_of_Duty_(videopeli)
-  74. https://sv.wikipedia.org/wiki/Call_of_Duty
-  75. https://th.wikipedia.org/wiki/คอลล์ออฟดิวตี_(วิดีโอเกม)
-  76. https://tr.wikipedia.org/wiki/Call_of_Duty_(video_oyunu)
-  77. https://uk.wikipedia.org/wiki/Call_of_Duty
-  78. https://vi.wikipedia.org/wiki/Call_of_Duty_(trò_chơi_điện_tử)
-  79. https://wuu.wikipedia.org/wiki/使命召唤（游戏）
-  80. https://zh.wikipedia.org/wiki/使命召唤_(游戏)
-  81. https://www.wikidata.org/wiki/Special:EntityPage/Q211096#sitelinks-wikipedia
-  82. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)
-  83. https://en.wikipedia.org/wiki/Talk:Call_of_Duty_(video_game)
-  84. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)
-  85. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit
-  86. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=history
-  87. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)
-  88. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit
-  89. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=history
-  90. https://en.wikipedia.org/wiki/Special:WhatLinksHere/Call_of_Duty_(video_game)
-  91. https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Call_of_Duty_(video_game)
-  92. https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
-  93. https://en.wikipedia.org/wiki/Special:SpecialPages
-  94. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&oldid=1183788715
-  95. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=info
-  96. https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Call_of_Duty_(video_game)&id=1183788715&wpFormIdentifier=titleform
-  97. https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)
-  98. https://www.wikidata.org/wiki/Special:EntityPage/Q211096
-  99. https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Call_of_Duty_(video_game)&action=show-download-screen
- 100. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&printable=yes
- 101. https://commons.wikimedia.org/wiki/Category:Call_of_Duty
- 102. https://en.wikipedia.org/wiki/File:Call_of_Duty_(2003)_cover.jpg
- 103. https://en.wikipedia.org/wiki/Video_game_developer
- 104. https://en.wikipedia.org/wiki/Infinity_Ward
- 105. https://en.wikipedia.org/wiki/Aspyr
- 106. https://en.wikipedia.org/wiki/Video_game_publisher
- 107. https://en.wikipedia.org/wiki/Activision
- 108. https://en.wikipedia.org/wiki/North_America
- 109. https://en.wikipedia.org/wiki/Mac_OS_X
- 110. https://en.wikipedia.org/wiki/Video_game_creative_director
- 111. https://en.wikipedia.org/wiki/Video_game_producer
- 112. https://en.wikipedia.org/wiki/Video_game_designer
- 113. https://en.wikipedia.org/wiki/Video_game_programmer
- 114. https://en.wikipedia.org/wiki/Video_game_artist
- 115. https://en.wikipedia.org/wiki/Video_game_writer
- 116. https://en.wikipedia.org/wiki/Video_game_composer
- 117. https://en.wikipedia.org/wiki/Michael_Giacchino
- 118. https://en.wikipedia.org/wiki/Call_of_Duty
- 119. https://en.wikipedia.org/wiki/Game_engine
- 120. https://en.wikipedia.org/wiki/Id_Tech_3
- 121. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-Game_Engine_-_IGN-2
- 122. https://en.wikipedia.org/wiki/Computing_platform
- 123. https://en.wikipedia.org/wiki/Microsoft_Windows
- 124. https://en.wikipedia.org/wiki/Mac_OS_X
- 125. https://en.wikipedia.org/wiki/N-Gage_(device)
- 126. https://en.wikipedia.org/wiki/PlayStation_3
- 127. https://en.wikipedia.org/wiki/Xbox_360
- 128. https://en.wikipedia.org/wiki/North_America
- 129. https://en.wikipedia.org/wiki/Europe
- 130. https://en.wikipedia.org/wiki/North_America
- 131. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-1
- 132. https://en.wikipedia.org/wiki/Europe
- 133. https://en.wikipedia.org/wiki/North_America
- 134. https://en.wikipedia.org/wiki/Video_game_genre
- 135. https://en.wikipedia.org/wiki/First-person_shooter
- 136. https://en.wikipedia.org/wiki/Single-player
- 137. https://en.wikipedia.org/wiki/Multiplayer
- 138. https://en.wikipedia.org/wiki/First-person_shooter_game
- 139. https://en.wikipedia.org/wiki/Infinity_Ward
- 140. https://en.wikipedia.org/wiki/Activision
- 141. https://en.wikipedia.org/wiki/Call_of_Duty
- 142. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-CoD1-3
- 143. https://en.wikipedia.org/wiki/Microsoft_Windows
- 144. https://en.wikipedia.org/wiki/Infantry
- 145. https://en.wikipedia.org/wiki/Combined_arms
- 146. https://en.wikipedia.org/wiki/World_War_II
- 147. https://en.wikipedia.org/wiki/Id_Tech_3
- 148. https://en.wikipedia.org/wiki/Medal_of_Honor_(video_game_series)
- 149. https://en.wikipedia.org/wiki/United_States
- 150. https://en.wikipedia.org/wiki/United_Kingdom
- 151. https://en.wikipedia.org/wiki/Soviet_Union
- 152. https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault
- 153. https://en.wikipedia.org/wiki/Call_of_Duty:_United_Offensive
- 154. https://en.wikipedia.org/wiki/Gray_Matter_Studios
- 155. https://en.wikipedia.org/wiki/Pi_Studios
- 156. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-4
- 157. https://en.wikipedia.org/wiki/PlayStation_3
- 158. https://en.wikipedia.org/wiki/Xbox_360
- 159. https://en.wikipedia.org/wiki/Aspyr
- 160. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2
- 161. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-MW2_editions-5
- 162. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=1
- 163. https://en.wikipedia.org/wiki/File:CallDuty1PC.jpg
- 164. https://en.wikipedia.org/wiki/First-person_shooter
- 165. https://en.wikipedia.org/wiki/Heads-up_display
- 166. https://en.wikipedia.org/wiki/Iron_sights
- 167. https://en.wikipedia.org/wiki/Machine_gun
- 168. https://en.wikipedia.org/wiki/Health_points
- 169. https://en.wikipedia.org/wiki/Medkit
- 170. https://en.wikipedia.org/wiki/Combat_stress_reaction
- 171. https://en.wikipedia.org/wiki/Tinnitus
- 172. https://en.wikipedia.org/wiki/Suppressive_fire
- 173. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=2
- 174. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=3
- 175. https://en.wikipedia.org/wiki/Private_(rank)
- 176. https://en.wikipedia.org/wiki/506th_Parachute_Infantry_Regiment
- 177. https://en.wikipedia.org/wiki/Camp_Toccoa
- 178. https://en.wikipedia.org/wiki/Pathfinder_(military)
- 179. https://en.wikipedia.org/wiki/Operation_Overlord
- 180. https://en.wikipedia.org/wiki/Company_(military_unit)
- 181. https://en.wikipedia.org/wiki/Commanding_officer
- 182. https://en.wikipedia.org/wiki/Sainte-Mère-Église
- 183. https://en.wikipedia.org/wiki/Flakpanzer
- 184. https://en.wikipedia.org/wiki/Self-propelled_anti-aircraft_weapon
- 185. https://en.wikipedia.org/wiki/D-Day
- 186. https://en.wikipedia.org/wiki/Utah_Beach
- 187. https://en.wikipedia.org/wiki/Bavaria
- 188. https://en.wikipedia.org/wiki/Captain_(British_Army_and_Royal_Marines)
- 189. https://en.wikipedia.org/wiki/Major_(United_Kingdom)
- 190. https://en.wikipedia.org/wiki/Battle_of_the_Bulge
- 191. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=4
- 192. https://en.wikipedia.org/wiki/Oxfordshire_and_Buckinghamshire_Light_Infantry
- 193. https://en.wikipedia.org/wiki/6th_Airborne_Division_(United_Kingdom)
- 194. https://en.wikipedia.org/wiki/Operation_Tonga
- 195. https://en.wikipedia.org/wiki/Airspeed_Horsa
- 196. https://en.wikipedia.org/wiki/Pegasus_Bridge
- 197. https://en.wikipedia.org/wiki/Bénouville,_Calvados
- 198. https://en.wikipedia.org/wiki/7th_Parachute_Battalion
- 199. https://en.wikipedia.org/wiki/Special_Air_Service
- 200. https://en.wikipedia.org/wiki/Eder_Dam
- 201. https://en.wikipedia.org/wiki/No._617_Squadron_RAF
- 202. https://en.wikipedia.org/wiki/Operation_Chastise
- 203. https://en.wikipedia.org/wiki/Anti-aircraft_warfare
- 204. https://en.wikipedia.org/wiki/Stuka
- 205. https://en.wikipedia.org/wiki/Focke-Wulf_Fw_200_Condor
- 206. https://en.wikipedia.org/wiki/German_battleship_Tirpitz
- 207. https://en.wikipedia.org/wiki/RAF
- 208. https://en.wikipedia.org/wiki/Burgsteinfurt
- 209. https://en.wikipedia.org/wiki/V-2_rocket
- 210. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=5
- 211. https://en.wikipedia.org/wiki/Battle_of_Stalingrad
- 212. https://en.wikipedia.org/wiki/Corporal
- 213. https://en.wikipedia.org/wiki/Volga_River
- 214. https://en.wikipedia.org/wiki/Luftwaffe
- 215. https://en.wikipedia.org/wiki/Order_No._227
- 216. https://en.wikipedia.org/wiki/13th_Guards_Rifle_Division
- 217. https://en.wikipedia.org/wiki/Junior_Sergeant
- 218. https://en.wikipedia.org/wiki/Sergeant
- 219. https://en.wikipedia.org/wiki/Yakov_Pavlov
- 220. https://en.wikipedia.org/wiki/Pavlov's_House
- 221. https://en.wikipedia.org/wiki/150th_Rifle_Division_(Soviet_Union)
- 222. https://en.wikipedia.org/wiki/3rd_Shock_Army_(Soviet_Union)
- 223. https://en.wikipedia.org/wiki/Vistula–Oder_Offensive
- 224. https://en.wikipedia.org/wiki/20th_Guards_Army
- 225. https://en.wikipedia.org/wiki/T-34
- 226. https://en.wikipedia.org/wiki/2nd_Guards_Tank_Army_(Soviet_Union)
- 227. https://en.wikipedia.org/wiki/Oder_River
- 228. https://en.wikipedia.org/wiki/Reichstag_building
- 229. https://en.wikipedia.org/wiki/Victory_Banner
- 230. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=6
- 231. https://en.wikipedia.org/wiki/File:E3_2003_(343111642).jpg
- 232. https://en.wikipedia.org/wiki/E3_2003
- 233. https://en.wikipedia.org/wiki/Infinity_Ward
- 234. https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault
- 235. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-6
- 236. https://en.wikipedia.org/wiki/Id_Tech_3
- 237. https://en.wikipedia.org/wiki/Quake_III_Arena
- 238. https://en.wikipedia.org/wiki/World_War_II
- 239. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-Development_Q&A_-_GameSpot-7
- 240. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-8
- 241. https://en.wikipedia.org/wiki/Artificial_intelligence
- 242. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-Game_Engine_-_IGN-2
- 243. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-E3_2003_-_IGN-9
- 244. https://en.wikipedia.org/wiki/Modding
- 245. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-E3_2003_-_IGN-9
- 246. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=7
- 247. https://en.wikipedia.org/wiki/Metacritic
- 248. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-MC-10
- 249. https://en.wikipedia.org/wiki/Edge_(magazine)
- 250. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-11
- 251. https://en.wikipedia.org/wiki/GamePro
- 252. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-GamePro-12
- 253. https://en.wikipedia.org/wiki/GameSpot
- 254. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-GameSpot-13
- 255. https://en.wikipedia.org/wiki/IGN
- 256. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-IGNreview-14
- 257. https://en.wikipedia.org/wiki/X-Play
- 258. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-15
- 259. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=8
- 260. https://en.wikipedia.org/wiki/Review_aggregator
- 261. https://en.wikipedia.org/wiki/Metacritic
- 262. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-MC-10
- 263. https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards
- 264. https://en.wikipedia.org/wiki/7th_Annual_Interactive_Achievement_Awards
- 265. https://en.wikipedia.org/wiki/D.I.C.E._Awards
- 266. https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Game_of_the_Year
- 267. https://en.wikipedia.org/wiki/Academy_of_Interactive_Arts_&_Sciences
- 268. https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Action_Game_of_the_Year
- 269. https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Outstanding_Achievement_in_Original_Music_Composition
- 270. https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Outstanding_Achievement_in_Audio_Design
- 271. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-2004Academy-16
- 272. https://en.wikipedia.org/wiki/GameSpot
- 273. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-gotm-17
- 274. https://en.wikipedia.org/wiki/Computer_Games_Magazine
- 275. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-cgm13th-18
- 276. https://en.wikipedia.org/wiki/Computer_Gaming_World
- 277. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-cgwpremier2003-19
- 278. https://en.wikipedia.org/wiki/Game_Developers_Choice_Awards
- 279. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-GDCA2004-20
- 280. https://en.wikipedia.org/wiki/IGN
- 281. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-21
- 282. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-22
- 283. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=9
- 284. https://en.wikipedia.org/wiki/The_NPD_Group
- 285. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-npd2003-23
- 286. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-npd2004-24
- 287. https://en.wikipedia.org/wiki/Edge_(magazine)
- 288. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-edgesales-25
- 289. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-smashhits-26
- 290. https://en.wikipedia.org/wiki/GamesIndustry.biz
- 291. https://en.wikipedia.org/wiki/The_Sims
- 292. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-2003roundup-27
- 293. https://en.wikipedia.org/wiki/Entertainment_and_Leisure_Software_Publishers_Association
- 294. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-silverelspa-28
- 295. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-gamasutrasales-29
- 296. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-ign-history-30
- 297. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=10
- 298. https://en.wikipedia.org/wiki/Call_of_Duty
- 299. https://en.wikipedia.org/wiki/Call_of_Duty
- 300. https://en.wikipedia.org/wiki/Call_of_Duty:_United_Offensive
- 301. https://en.wikipedia.org/wiki/Gray_Matter_Studios
- 302. https://en.wikipedia.org/wiki/Call_of_Duty_2
- 303. https://en.wikipedia.org/wiki/Call_of_Duty:_Finest_Hour
- 304. https://en.wikipedia.org/wiki/Spark_Unlimited
- 305. https://en.wikipedia.org/wiki/Call_of_Duty_2:_Big_Red_One
- 306. https://en.wikipedia.org/wiki/Treyarch
- 307. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=11
- 308. https://en.wikipedia.org/wiki/Xbox_360
- 309. https://en.wikipedia.org/wiki/PlayStation_3
- 310. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-IGNthing-31
- 311. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2
- 312. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-IGNthing-31
- 313. https://en.wikipedia.org/wiki/IGN
- 314. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_note-32
- 315. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=12
- 316. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-1
- 317. https://www.macworld.com/article/171003/csi.html
- 318. https://web.archive.org/web/20230513132023/https://www.macworld.com/article/171003/csi.html
- 319. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-Game_Engine_-_IGN_2-0
- 320. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-Game_Engine_-_IGN_2-1
- 321. http://www.ign.com/articles/2009/07/15/the-10-best-game-engines-of-this-generation?page=2
- 322. https://web.archive.org/web/20120831100718/http://www.ign.com/articles/2009/07/15/the-10-best-game-engines-of-this-generation?page=2
- 323. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-CoD1_3-0
- 324. https://web.archive.org/web/20091001145956/http://au.gamespot.com/features/6081710/index.html?tag=gameguide;title;1
- 325. http://au.gamespot.com/features/6081710/index.html?tag=gameguide;title;1
- 326. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-4
- 327. https://web.archive.org/web/20051218100443/http://www.n-gage.com/en-R1/press/Press+releases/press_news_02112004b.htm
- 328. http://www.n-gage.com/en-R1/press/Press+releases/press_news_02112004b.htm
- 329. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MW2_editions_5-0
- 330. http://xbox360.ign.com/articles/100/1003351p1.html
- 331. https://web.archive.org/web/20090714112305/http://xbox360.ign.com/articles/100/1003351p1.html
- 332. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-6
- 333. https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
- 334. https://en.wikipedia.org/wiki/IGN
- 335. https://web.archive.org/web/20221227140710/https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
- 336. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-Development_Q&A_-_GameSpot_7-0
- 337. http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
- 338. https://web.archive.org/web/20160303101157/http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
- 339. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-8
- 340. https://www.newspapers.com/clip/92938870/north-bay-nugget/
- 341. https://en.wikipedia.org/wiki/North_Bay_Nugget
- 342. https://web.archive.org/web/20220119034136/https://www.newspapers.com/clip/92938870/north-bay-nugget/
- 343. https://en.wikipedia.org/wiki/Newspapers.com
- 344. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-0
- 345. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-1
- 346. http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
- 347. https://web.archive.org/web/20160303154122/http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
- 348. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-0
- 349. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-1
- 350. https://www.metacritic.com/game/pc/call-of-duty
- 351. https://en.wikipedia.org/wiki/Metacritic
- 352. https://en.wikipedia.org/wiki/Fandom,_Inc.
- 353. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-11
- 354. https://fusiontables.google.com/DataSource?docid=1D1odIVhdCE8zlBp5Ha1bNsLNAU83UF1WBiYYl5A
- 355. https://web.archive.org/web/20170911065347/https://fusiontables.google.com/DataSource?docid=1D1odIVhdCE8zlBp5Ha1bNsLNAU83UF1WBiYYl5A
- 356. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-GamePro_12-0
- 357. https://web.archive.org/web/20080724231530/http://gamepro.com/computer/pc/games/reviews/31578.shtml
- 358. https://en.wikipedia.org/wiki/GamePro
- 359. http://www.gamepro.com/computer/pc/games/reviews/31578.shtml
- 360. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-GameSpot_13-0
- 361. http://www.gamespot.com/pc/action/callofduty/review.html
- 362. https://en.wikipedia.org/wiki/GameSpot
- 363. https://web.archive.org/web/20110820143439/http://www.gamespot.com/pc/action/callofduty/review.html
- 364. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNreview_14-0
- 365. https://web.archive.org/web/20120119212720/http://pc.ign.com/articles/456/456776p1.html
- 366. http://pc.ign.com/articles/456/456776p1.html
- 367. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-15
- 368. https://web.archive.org/web/20170409130947/http://g4tv.com/xplay/reviews/222/Call-of-Duty.html
- 369. https://en.wikipedia.org/wiki/X-Play
- 370. http://g4tv.com/xplay/reviews/222/Call-of-Duty.html
- 371. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-2004Academy_16-0
- 372. http://www.interactive.org/games/video_game_details.asp?idAward=2004&idGame=251
- 373. https://en.wikipedia.org/wiki/Academy_of_Interactive_Arts_&_Sciences
- 374. https://web.archive.org/web/20140811194412/http://www.interactive.org/games/video_game_details.asp?idAward=2004&idGame=251
- 375. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-gotm_17-0
- 376. https://web.archive.org/web/20031207143858/http://www.gamespot.com/features/6077951/index.html
- 377. https://en.wikipedia.org/wiki/GameSpot
- 378. http://www.gamespot.com/features/6077951/index.html
- 379. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-cgm13th_18-0
- 380. https://en.wikipedia.org/wiki/Computer_Games_Magazine
- 381. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-cgwpremier2003_19-0
- 382. https://en.wikipedia.org/wiki/Computer_Gaming_World
- 383. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-GDCA2004_20-0
- 384. https://web.archive.org/web/20070807165145/http://www.gamechoiceawards.com/archive/gdca_4th.htm
- 385. https://en.wikipedia.org/wiki/Game_Developers_Choice_Awards
- 386. http://www.gamechoiceawards.com/archive/gdca_4th.htm
- 387. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-21
- 388. https://web.archive.org/web/20070324184702/http://au.pc.ign.com/articles/456/456776p1.html
- 389. http://au.pc.ign.com/articles/456/456776p1.html
- 390. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-22
- 391. https://web.archive.org/web/20091214082725/http://www.metacritic.com/games/platforms/ngage/callofduty
- 392. https://www.metacritic.com/games/platforms/ngage/callofduty
- 393. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-npd2003_23-0
- 394. https://web.archive.org/web/20041205111002/http://www.theesa.com/EFBrochure.pdf
- 395. https://en.wikipedia.org/wiki/Entertainment_Software_Association
- 396. http://www.theesa.com/EFBrochure.pdf
- 397. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-npd2004_24-0
- 398. https://web.archive.org/web/20051104094022/http://www.theesa.com/files/2005EssentialFacts.pdf
- 399. https://en.wikipedia.org/wiki/Entertainment_Software_Association
- 400. http://www.theesa.com/files/2005EssentialFacts.pdf
- 401. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-edgesales_25-0
- 402. https://web.archive.org/web/20121017165955/http://www.edge-online.com/features/top-100-pc-games-21st-century/
- 403. https://en.wikipedia.org/wiki/Edge_(magazine)
- 404. http://www.edge-online.com/features/top-100-pc-games-21st-century/
- 405. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-smashhits_26-0
- 406. https://web.archive.org/web/20040407090740/http://www.gamesindustry.biz/content_page.php?section_name=ret&aid=3101
- 407. https://en.wikipedia.org/wiki/GamesIndustry.biz
- 408. http://www.gamesindustry.biz/content_page.php?section_name=ret&aid=3101
- 409. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-2003roundup_27-0
- 410. https://www.eurogamer.net/articles/ukcharts_annual2003_part1
- 411. https://en.wikipedia.org/wiki/Eurogamer
- 412. https://web.archive.org/web/20190121234530/https://www.eurogamer.net/articles/ukcharts_annual2003_part1
- 413. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-silverelspa_28-0
- 414. https://web.archive.org/web/20090221154943/http://www.elspa.com/?i=3942
- 415. https://en.wikipedia.org/wiki/Entertainment_and_Leisure_Software_Publishers_Association
- 416. http://www.elspa.com/?i=3942
- 417. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-gamasutrasales_29-0
- 418. https://web.archive.org/web/20170918063107/https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php
- 419. https://en.wikipedia.org/wiki/Gamasutra
- 420. https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php
- 421. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-ign-history_30-0
- 422. http://microsites.ign.com/call-of-duty-a-short-history/
- 423. https://en.wikipedia.org/wiki/IGN
- 424. https://en.wikipedia.org/wiki/Ziff_Davis
- 425. https://web.archive.org/web/20160303172825/http://microsites.ign.com/call-of-duty-a-short-history/
- 426. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-0
- 427. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-1
- 428. https://web.archive.org/web/20090803164348/http://uk.xboxlive.ign.com/articles/100/1009339p1.html
- 429. http://uk.xboxlive.ign.com/articles/100/1009339p1.html
- 430. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-32
- 431. https://web.archive.org/web/20091207142044/http://uk.xboxlive.ign.com/articles/105/1051550p1.html
- 432. http://uk.xboxlive.ign.com/articles/105/1051550p1.html
- 433. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&action=edit&section=13
- 434. http://www.callofduty.com/
- 435. https://www.imdb.com/title/tt0382590/
- 436. https://en.wikipedia.org/wiki/IMDb_(identifier)
- 437. https://en.wikipedia.org/wiki/Template:Call_of_Duty_series
- 438. https://en.wikipedia.org/wiki/Template_talk:Call_of_Duty_series
- 439. https://en.wikipedia.org/wiki/Special:EditPage/Template:Call_of_Duty_series
- 440. https://en.wikipedia.org/wiki/Call_of_Duty
- 441. https://en.wikipedia.org/wiki/Activision
- 442. https://en.wikipedia.org/wiki/World_War_II
- 443. https://en.wikipedia.org/wiki/Call_of_Duty:_United_Offensive
- 444. https://en.wikipedia.org/wiki/Call_of_Duty_2
- 445. https://en.wikipedia.org/wiki/Call_of_Duty_3
- 446. https://en.wikipedia.org/wiki/Call_of_Duty:_WWII
- 447. https://en.wikipedia.org/wiki/Call_of_Duty:_Vanguard
- 448. https://en.wikipedia.org/wiki/Call_of_Duty:_Finest_Hour
- 449. https://en.wikipedia.org/wiki/Call_of_Duty_2:_Big_Red_One
- 450. https://en.wikipedia.org/wiki/Call_of_Duty:_Roads_to_Victory
- 451. https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare
- 452. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_Remastered
- 453. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2
- 454. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3
- 455. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)
- 456. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)
- 457. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_III_(2023_video_game)
- 458. https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare_(Nintendo_DS)
- 459. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare:_Mobilized
- 460. https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3_–_Defiance
- 461. https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War
- 462. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops
- 463. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II
- 464. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_III
- 465. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_4
- 466. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_Cold_War
- 467. https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War_–_Zombies
- 468. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_–_Zombies
- 469. https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War_(Nintendo_DS)
- 470. https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War_–_Final_Fronts
- 471. https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops:_Declassified
- 472. https://en.wikipedia.org/wiki/Call_of_Duty:_Strike_Team
- 473. https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone
- 474. https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_2.0
- 475. https://en.wikipedia.org/wiki/Call_of_Duty_Online
- 476. https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts
- 477. https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare
- 478. https://en.wikipedia.org/wiki/Call_of_Duty:_Heroes
- 479. https://en.wikipedia.org/wiki/Call_of_Duty:_Infinite_Warfare
- 480. https://en.wikipedia.org/wiki/Call_of_Duty:_Mobile
- 481. https://en.wikipedia.org/wiki/All_Ghillied_Up
- 482. https://en.wikipedia.org/wiki/No_Russian
- 483. https://en.wikipedia.org/wiki/Nuketown_(Call_of_Duty)
- 484. https://en.wikipedia.org/wiki/Modern_Warfare_2:_Ghost
- 485. https://en.wikipedia.org/wiki/Find_Makarov:_Operation_Kingfish
- 486. https://en.wikipedia.org/wiki/Nightmare_(Avenged_Sevenfold_song)
- 487. https://en.wikipedia.org/wiki/Shepherd_of_Fire
- 488. https://en.wikipedia.org/wiki/Survival_(Eminem_song)
- 489. https://en.wikipedia.org/wiki/Black_Reign_(EP)
- 490. https://en.wikipedia.org/wiki/Not_Ready_to_Die
- 491. https://en.wikipedia.org/wiki/Carry_On_(Avenged_Sevenfold_song)
- 492. https://en.wikipedia.org/wiki/Mad_Hatter_(Avenged_Sevenfold_song)
- 493. https://en.wikipedia.org/wiki/Id_Tech_3
- 494. https://en.wikipedia.org/wiki/IW_engine
- 495. https://en.wikipedia.org/wiki/Call_of_Duty_Championship
- 496. https://en.wikipedia.org/wiki/Call_of_Duty_World_League
- 497. https://en.wikipedia.org/wiki/Call_of_Duty_League
- 498. https://en.wikipedia.org/wiki/Infinity_Ward
- 499. https://en.wikipedia.org/wiki/Treyarch
- 500. https://en.wikipedia.org/wiki/Sledgehammer_Games
- 501. https://en.wikipedia.org/wiki/Raven_Software
- 502. https://en.wikipedia.org/wiki/Battle.net
- 503. https://en.wikipedia.org/wiki/Call_of_Duty:_Elite
- 504. https://en.wikipedia.org/wiki/Call_of_Duty:_Experience_2011
- 505. https://en.wikipedia.org/wiki/Call_of_Duty:_Experience_2016
- 506. https://en.wikipedia.org/wiki/Call_of_Duty_Endowment
- 507. https://en.wikipedia.org/wiki/Press_F_to_pay_respects
- 508. https://en.wikipedia.org/wiki/2017_Wichita_swatting
- 509. https://en.wikipedia.org/wiki/Category:Call_of_Duty
- 510. https://en.wikipedia.org/wiki/Template:BAFTA_Games_BG
- 511. https://en.wikipedia.org/wiki/Template_talk:BAFTA_Games_BG
- 512. https://en.wikipedia.org/wiki/Special:EditPage/Template:BAFTA_Games_BG
- 513. https://en.wikipedia.org/wiki/BAFTA_Interactive_Entertainment_Awards
- 514. https://en.wikipedia.org/wiki/British_Academy_Games_Awards
- 515. https://en.wikipedia.org/wiki/British_Academy_Games_Award_for_Best_Game
- 516. https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)
- 517. https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
- 518. https://en.wikipedia.org/wiki/Deus_Ex_(video_game)
- 519. https://en.wikipedia.org/wiki/MediEvil_II
- 520. https://en.wikipedia.org/wiki/Pokémon:_Yellow_Version:_Special_Pikachu_Edition
- 521. https://en.wikipedia.org/wiki/Sydney_2000_(video_game)
- 522. https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
- 523. https://en.wikipedia.org/wiki/ISS_Pro_Evolution_2
- 524. https://en.wikipedia.org/wiki/Max_Payne_(video_game)
- 525. https://en.wikipedia.org/wiki/Phantasy_Star_Online
- 526. https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2
- 527. https://en.wikipedia.org/wiki/Grand_Prix_4
- 528. https://en.wikipedia.org/wiki/Halo:_Combat_Evolved
- 529. https://en.wikipedia.org/wiki/Neverwinter_Nights_(2002_video_game)
- 530. https://en.wikipedia.org/wiki/Half-Life_2
- 531. https://en.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon_Advanced_Warfighter
- 532. https://en.wikipedia.org/wiki/BioShock
- 533. https://en.wikipedia.org/wiki/Super_Mario_Galaxy
- 534. https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum
- 535. https://en.wikipedia.org/wiki/Mass_Effect_2
- 536. https://en.wikipedia.org/wiki/Portal_2
- 537. https://en.wikipedia.org/wiki/Dishonored
- 538. https://en.wikipedia.org/wiki/The_Last_of_Us
- 539. https://en.wikipedia.org/wiki/Destiny_(video_game)
- 540. https://en.wikipedia.org/wiki/Fallout_4
- 541. https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief's_End
- 542. https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch
- 543. https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)
- 544. https://en.wikipedia.org/wiki/Outer_Wilds
- 545. https://en.wikipedia.org/wiki/Hades_(video_game)
- 546. https://en.wikipedia.org/wiki/Returnal_(video_game)
- 547. https://en.wikipedia.org/wiki/Vampire_Survivors
- 548. https://en.wikipedia.org/wiki/Template:DICE_GOTY
- 549. https://en.wikipedia.org/wiki/Template_talk:DICE_GOTY
- 550. https://en.wikipedia.org/wiki/Special:EditPage/Template:DICE_GOTY
- 551. https://en.wikipedia.org/wiki/D.I.C.E._Award_for_Game_of_the_Year
- 552. https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)
- 553. https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
- 554. https://en.wikipedia.org/wiki/The_Sims_(video_game)
- 555. https://en.wikipedia.org/wiki/Diablo_II
- 556. https://en.wikipedia.org/wiki/Halo:_Combat_Evolved
- 557. https://en.wikipedia.org/wiki/Battlefield_1942
- 558. https://en.wikipedia.org/wiki/Half-Life_2
- 559. https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)
- 560. https://en.wikipedia.org/wiki/Gears_of_War_(video_game)
- 561. https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare
- 562. https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)
- 563. https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves
- 564. https://en.wikipedia.org/wiki/Mass_Effect_2
- 565. https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim
- 566. https://en.wikipedia.org/wiki/Journey_(2012_video_game)
- 567. https://en.wikipedia.org/wiki/The_Last_of_Us
- 568. https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition
- 569. https://en.wikipedia.org/wiki/Fallout_4
- 570. https://en.wikipedia.org/wiki/Overwatch
- 571. https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild
- 572. https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)
- 573. https://en.wikipedia.org/wiki/Untitled_Goose_Game
- 574. https://en.wikipedia.org/wiki/Hades_(video_game)
- 575. https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)
- 576. https://en.wikipedia.org/wiki/Elden_Ring
- 577. https://en.wikipedia.org/wiki/Help:Authority_control
- 578. https://www.wikidata.org/wiki/Q211096#identifiers
- 579. https://catalogue.bnf.fr/ark:/12148/cb16615027g
- 580. https://data.bnf.fr/ark:/12148/cb16615027g
- 581. https://musicbrainz.org/release-group/5918d705-f02b-3783-bd33-30af9ef1f118
- 582. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&oldid=1183788715
- 583. https://en.wikipedia.org/wiki/Help:Category
- 584. https://en.wikipedia.org/wiki/Category:2003_video_games
- 585. https://en.wikipedia.org/wiki/Category:Activision_games
- 586. https://en.wikipedia.org/wiki/Category:Call_of_Duty
- 587. https://en.wikipedia.org/wiki/Category:MacOS_games
- 588. https://en.wikipedia.org/wiki/Category:Multiplayer_online_games
- 589. https://en.wikipedia.org/wiki/Category:N-Gage_games
- 590. https://en.wikipedia.org/wiki/Category:PlayStation_Network_games
- 591. https://en.wikipedia.org/wiki/Category:Video_games_about_the_Special_Air_Service
- 592. https://en.wikipedia.org/wiki/Category:Video_games_scored_by_Michael_Giacchino
- 593. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Georgia_(U.S._state)
- 594. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Austria
- 595. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Belgium
- 596. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Berlin
- 597. https://en.wikipedia.org/wiki/Category:Video_games_set_in_France
- 598. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Germany
- 599. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Norway
- 600. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Poland
- 601. https://en.wikipedia.org/wiki/Category:Video_games_set_in_the_Soviet_Union
- 602. https://en.wikipedia.org/wiki/Category:Video_games_set_in_Russia
- 603. https://en.wikipedia.org/wiki/Category:Video_games_with_expansion_packs
- 604. https://en.wikipedia.org/wiki/Category:Windows_games
- 605. https://en.wikipedia.org/wiki/Category:Xbox_360_Live_Arcade_games
- 606. https://en.wikipedia.org/wiki/Category:Id_Tech_games
- 607. https://en.wikipedia.org/wiki/Category:War_video_games_set_in_the_British_Empire
- 608. https://en.wikipedia.org/wiki/Category:War_video_games_set_in_the_United_States
- 609. https://en.wikipedia.org/wiki/Category:British_Academy_Games_Award_for_Best_Game_winners
- 610. https://en.wikipedia.org/wiki/Category:Infinity_Ward_games
- 611. https://en.wikipedia.org/wiki/Category:Aspyr_games
- 612. https://en.wikipedia.org/wiki/Category:Multiplayer_and_single-player_video_games
- 613. https://en.wikipedia.org/wiki/Category:Video_games_developed_in_the_United_States
- 614. https://en.wikipedia.org/wiki/Category:Works_about_the_Battle_of_Stalingrad
- 615. https://en.wikipedia.org/wiki/Category:Operation_Overlord_video_games
- 616. https://en.wikipedia.org/wiki/Category:Articles_with_short_description
- 617. https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata
- 618. https://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_June_2020
- 619. https://en.wikipedia.org/wiki/Category:Articles_using_Infobox_video_game_using_locally_defined_parameters
- 620. https://en.wikipedia.org/wiki/Category:Articles_using_Wikidata_infoboxes_with_locally_defined_images
- 621. https://en.wikipedia.org/wiki/Category:Articles_using_Video_game_reviews_template_in_single_platform_mode
- 622. https://en.wikipedia.org/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia
- 623. https://en.wikipedia.org/wiki/Category:IMDb_ID_same_as_Wikidata
- 624. https://en.wikipedia.org/wiki/Category:Articles_with_BNF_identifiers
- 625. https://en.wikipedia.org/wiki/Category:Articles_with_BNFdata_identifiers
- 626. https://en.wikipedia.org/wiki/Category:Articles_with_MusicBrainz_release_group_identifiers
- 627. https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
- 628. https://foundation.wikimedia.org/wiki/Terms_of_Use
- 629. https://foundation.wikimedia.org/wiki/Privacy_policy
- 630. https://www.wikimediafoundation.org/
- 631. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
- 632. https://en.wikipedia.org/wiki/Wikipedia:About
- 633. https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
- 634. https://en.wikipedia.org/wiki/Wikipedia:Contact_us
- 635. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
- 636. https://developer.wikimedia.org/
- 637. https://stats.wikimedia.org/#/en.wikipedia.org
- 638. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
- 639. https://en.m.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&mobileaction=toggle_view_mobile
- 640. https://wikimediafoundation.org/
- 641. https://www.mediawiki.org/
-
-   Hidden links:
- 643. https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License

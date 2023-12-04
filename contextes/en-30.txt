@@ -1,6 +1,6 @@
-    3. [72]Vehicle registration
-    4. [73]Fees concessions and forms
-    5. [74]Stamp duty when buying a vehicle
+    3. Vehicle registration
+    4. Fees concessions and forms
+    5. Stamp duty when buying a vehicle
 
 Stamp duty when buying a vehicle
 
@@ -17,7 +17,7 @@ What is stamp duty?
 
    To calculate stamp duty, you need the vehicle's market value or how
    much you paid for it (whichever is higher).
-   [75]Calculate stamp duty
+   Calculate stamp duty
      __________________________________________________________________
 
 Exemptions
@@ -26,41 +26,8 @@ Exemptions
      * registering or transferring registration on a caravan or camper
        trailer
 --
-     * [81]Vehicle registration fees
-     * [82]Heavy vehicle registration costs
-     * [83]Stamp duty when buying a vehicle
-     * [84]Vehicle registration forms
-     * [85]Lower taxed vehicles
---
-References
-
-   1. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#dcs-main-nav
-   2. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#main-content
-   3. https://www.nsw.gov.au/
-   4. https://account.service.nsw.gov.au/
-   5. https://account.service.nsw.gov.au/
-   6. https://account.service.nsw.gov.au/manage
-   7. https://services.dcu.nsw.gov.au/myaccount/logout?destination=https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-   8. https://www.nsw.gov.au/
-   9. https://www.nsw.gov.au/living-in-nsw
---
-  72. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration
-  73. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms
-  74. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-  75. https://www.apps08.osr.nsw.gov.au/erevenue/calculators/motorsimple.php
-  76. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals
-  77. https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty
-  78. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration
-  79. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/vehicle-number-plates/order-personalised-reserve-or-replace-number-plates
---
-  81. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees
-  82. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs
-  83. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
-  84. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/registration-forms
-  85. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/lower-taxed-vehicles
---
-  88. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/primary-producers-registration-concessions/faqs
-  89. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/fee-refunds-or-waivers-after-a-natural-disaster
-  90. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#top
-  91. https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw
-  92. https://www.nsw.gov.au/
+     * Vehicle registration fees
+     * Heavy vehicle registration costs
+     * Stamp duty when buying a vehicle
+     * Vehicle registration forms
+     * Lower taxed vehicles

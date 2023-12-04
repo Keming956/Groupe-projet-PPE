@@ -1,19 +1,18 @@
 WORLD TRADE ORGANIZATION
 
-   [1]Home  |  [2]About WTO  |  [3]News & events  |  [4]Trade topics  |
-   [5]WTO membership  |  [6]Documents & resources  |  [7]External
-   relations
+   Home  |  About WTO  |  News & events  |  Trade topics  |  WTO
+   membership  |  Documents & resources  |  External relations
 
-   [8]Contact us  |  [9]Site map  |  [10]A-Z  |  [11]Search
+   Contact us  |  Site map  |  A-Z  |  Search
 
-                               [img24high.gif] [12]español  [13]français
-    1. [14]home
-    2. [15]the wto
-    3. [16]what is the wto?
-    4. [17]understanding the wto
+                                       [img24high.gif] español  français
+    1. home
+    2. the wto
+    3. what is the wto?
+    4. understanding the wto
     5. anti-dumping, etc
 
-   [18]Information about the organization
+   Information about the organization
 
    UNDERSTANDING THE WTO: THE AGREEMENTS
 
@@ -35,8 +34,8 @@ Anti-dumping, subsidies, safeguards: contingencies, etc
 
 
                                              More introductory information
-                                                    > [19]The WTO in Brief
-   [20]back to top
+                                                        > The WTO in Brief
+   back to top
 
 Anti-dumping actions
 
@@ -62,7 +61,7 @@ Anti-dumping actions
    GATT (Article 6) allows countries to take action against dumping. The
    Anti-Dumping Agreement clarifies and expands Article 6, and the two
    operate together. They allow countries to act in a way that would
-   normally break the GATT principles of [21]binding a tariff and [22]not
+   normally break the GATT principles of binding a tariff and not
    discriminating between trading partners typically anti-dumping action
    means charging extra import duty on the particular product from the
    particular exporting country in order to bring its price closer to the
@@ -114,28 +113,28 @@ Anti-dumping actions
    encouraged to consult each other. They can also use the WTOs dispute
    settlement procedure.
 
-                                                > [23]more on anti-dumping
+                                                    > more on anti-dumping
 
-   > See also [24]Doha Agenda negotiations
+   > See also Doha Agenda negotiations
 
 
 Share
      __________________________________________________________________
 
 
-   [25]show previous page   [26] show next page
+   show previous page    show next page
 
 
    What is this agreement called?
-   [27]Agreement on the implementation of Article VI [i.e 6]of the General
+   Agreement on the implementation of Article VI [i.e 6]of the General
    Agreement on Tariffs and Trade 1994
-   [28]back to top
+   back to top
 
 Subsidies and countervailing measures
 
    This agreement does two things: it disciplines the use of subsidies,
    and it regulates the actions countries can take to counter the effects
-   of subsidies. It says a country can use the WTOs [29]dispute settlement
+   of subsidies. It says a country can use the WTOs dispute settlement
    procedure to seek the withdrawal of the subsidy or the removal of its
    adverse effects. Or the country can launch its own investigation and
    ultimately charge extra duty (known as countervailing duty) on
@@ -207,12 +206,12 @@ Subsidies and countervailing measures
    countervailing duty investigations. For transition economies,
    prohibited subsidies had to be phased out by 2002.
 
-                       > [30]more on subsidies and countervailing measures
+                           > more on subsidies and countervailing measures
 
-   > See also [31]Doha Agenda negotiations
+   > See also Doha Agenda negotiations
 
 
-   [32]back to top
+   back to top
 
 Safeguards: emergency protection from imports
 
@@ -299,10 +298,10 @@ Safeguards: emergency protection from imports
    Governments have to report each phase of a safeguard investigation and
    related decision-making, and the committee reviews these reports.
 
-                                                  > [33]more on safeguards
+                                                      > more on safeguards
 
    What is this agreement called?
-   [34]Agreement on Subsidies and Countervailing Measures
+   Agreement on Subsidies and Countervailing Measures
 
    AD-CVD?
 
@@ -319,9 +318,9 @@ Safeguards: emergency protection from imports
    The reaction to dumping and subsidies is often a special offsetting
    import tax (countervailing duty in the case of a subsidy). This is
    charged on products from specific countries and therefore it breaks the
-   GATT principles of [35]binding a tariff and treating trading partners
-   equally ([36]MFN). The agreements provide an escape clause, but they
-   both also say that before imposing a duty, the importing country must
+   GATT principles of binding a tariff and treating trading partners
+   equally (MFN). The agreements provide an escape clause, but they both
+   also say that before imposing a duty, the importing country must
    conduct a detailed investigation that shows properly that domestic
    industry is hurt.
 
@@ -341,48 +340,6 @@ Safeguards: emergency protection from imports
    the subsidies and the reactions.
 
    What is this agreement called?
-   [37]Agreement on Safeguards
+   Agreement on Safeguards
 
-   [38]show previous page   [39] show next page
-
-References
-
-   1. http://www.wto.org/index.htm
-   2. http://www.wto.org/english/thewto_e/thewto_e.htm
-   3. http://www.wto.org/english/news_e/news_e.htm
-   4. http://www.wto.org/english/tratop_e/tratop_e.htm
-   5. http://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm
-   6. http://www.wto.org/english/res_e/res_e.htm
-   7. http://www.wto.org/english/forums_e/forums_e.htm
-   8. http://www.wto.org/english/info_e/cont_e.htm
-   9. http://www.wto.org/english/info_e/site2_e.htm
-  10. http://www.wto.org/english/info_e/site_e.htm
-  11. http://search.wto.org/search?site=English_website&proxystylesheet=english_frontend&output=xml_no_dtd&client=english_frontend&proxycustom=<ADVANCED/>&numgm=5
-  12. https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm8_s.htm
-  13. https://www.wto.org/french/thewto_f/whatis_f/tif_f/agrm8_f.htm
-  14. https://www.wto.org/index.htm
-  15. https://www.wto.org/english/thewto_e/thewto_e.htm
-  16. https://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm
-  17. https://www.wto.org/english/thewto_e/whatis_e/tif_e/tif_e.htm
-  18. https://www.wto.org/english/thewto_e/thewto_e.htm
-  19. https://www.wto.org/english/thewto_e/whatis_e/inbrief_e/inbr00_e.htm
-  20. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm8_e.htm#top
-  21. https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm#bind
-  22. https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm#mfn
-  23. https://www.wto.org/english/tratop_e/adp_e/adp_e.htm
-  24. https://www.wto.org/english/tratop_e/dda_e/negotiations_summary_e.htm
-  25. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm7_e.htm
-  26. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm9_e.htm
-  27. https://www.wto.org/english/docs_e/legal_e/legal_e.htm#antidump
-  28. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm8_e.htm#top
-  29. https://www.wto.org/english/thewto_e/whatis_e/tif_e/disp1_e.htm
-  30. https://www.wto.org/english/tratop_e/scm_e/scm_e.htm
-  31. https://www.wto.org/english/tratop_e/dda_e/negotiations_summary_e.htm
-  32. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm8_e.htm#top
-  33. https://www.wto.org/english/tratop_e/safeg_e/safeg_e.htm
-  34. https://www.wto.org/english/docs_e/legal_e/legal_e.htm#subsidies
-  35. https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm#bind
-  36. https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm#mfn
-  37. https://www.wto.org/english/docs_e/legal_e/legal_e.htm#safeguards
-  38. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm7_e.htm
-  39. https://www.wto.org/english/thewto_e/whatis_e/tif_e/agrm9_e.htm
+   show previous page    show next page
