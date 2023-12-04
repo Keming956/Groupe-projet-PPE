@@ -1,62 +1,62 @@
 <lang="ch">
 <page="ch-1">
 <text>
-   #[1]alternate [2]编辑本页 [3]Wikipedia (zh) [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]Wikipedia的Atom feed
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
 
-   [15]跳到内容
+   跳到内容
 
    [ ] 主菜单
    主菜单
    (BUTTON) 移至侧栏 (BUTTON) 隐藏
    导航
-     * [16]首页
-     * [17]分类索引
-     * [18]特色内容
-     * [19]新闻动态
-     * [20]最近更改
-     * [21]随机条目
-     * [22]资助维基百科
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+     * 资助维基百科
 
    帮助
-     * [23]帮助
-     * [24]维基社群
-     * [25]方针与指引
-     * [26]互助客栈
-     * [27]知识问答
-     * [28]字词转换
-     * [29]IRC即时聊天
-     * [30]联络我们
-     * [31]关于维基百科
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
 
    语言
    语言链接位于页面顶部，标题的另一侧。
-   [32]维基百科 自由的百科全书
-   [33]搜索
+   维基百科 自由的百科全书
+   搜索
    ____________________
    (BUTTON) 搜索
 
-     * [34]创建账号
-     * [35]登录
+     * 创建账号
+     * 登录
 
    [ ] 个人工具
-     * [36]创建账号
-     * [37]登录
+     * 创建账号
+     * 登录
 </text>
 </page> §
 <page="ch-10">
 <text>
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
 
    [ ] 繁简
-   [2]新加坡版
-   [3]国际版 [4]中国版
-   [5]新明日报
-   [6]早报俱乐部
-   [7]电子报
+   新加坡版
+   国际版 中国版
+   新明日报
+   早报俱乐部
+   电子报
    [profile-not-login.svg] 登录/免费注册
 
    亲爱的读者，
@@ -75,31 +75,31 @@
 </page> §
 <page="ch-11">
 <text>
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   [3]跳至主要内容/导航
+   跳至主要内容/导航
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
 
-   [5]欢迎来到联合国，您的世界！
+   欢迎来到联合国，您的世界！
 
 Language
 
-     * [6]العربية
-     * [7]中文
-     * [8]English
-     * [9]Français
-     * [10]Русский
-     * [11]Español
-     * [12]Português
-     * [13]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [14]Hindi हिंदी
-          + [15]Urdu اردو
-          + [16]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
-   [17]United Nations
-   [18]联合国新闻
+   United Nations
+   联合国新闻
    全球视野, 常人故事
    (BUTTON) zh (BUTTON) 搜索 (BUTTON)
 
@@ -109,68 +109,68 @@ Language
 </page> §
 <page="ch-12">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]Punch Powertrain » Feed
-   [10]Punch Powertrain » 评论Feed [11]alternate [12]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate Punch Powertrain » Feed Punch Powertrain » 评论Feed alternate
+   alternate
 
-   IFRAME: [13]https://www.googletagmanager.com/ns.html?id=GTM-THR5DVGR
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THR5DVGR
 
    [tr?id=798726205047143&amp;ev=PageView&amp;noscript=1]
 
-   IFRAME: [14]https://www.googletagmanager.com/ns.html?id=GTM-WXG2Z3L
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WXG2Z3L
 
-   [15]Skip to content
+   Skip to content
 
-     * [16]CN-S
-          + [17]EN
-          + [18]NL
-          + [19]FR
-          + [20]DE
-          + [21]意大利语
-          + [22]CN
+     * CN-S
+          + EN
+          + NL
+          + FR
+          + DE
+          + 意大利语
+          + CN
 
-   [23]我们的故事
+   我们的故事
 
-     * [24]我们的宗旨和价值观
-     * [25]我们的领导团队
-     * [26]我们的企业社会责任
-     * [27]新闻与事件
-     * [28]研发
-     * [29]测试
-     * [30]卓越运营
-     * [31]我们的合作精神
+     * 我们的宗旨和价值观
+     * 我们的领导团队
+     * 我们的企业社会责任
+     * 新闻与事件
+     * 研发
+     * 测试
+     * 卓越运营
+     * 我们的合作精神
 
-   [32]我们的产品
+   我们的产品
 
-     * [33]电动汽车解决方案
-          + [34]集成电驱
-          + [35]减速机
-          + [36]电机
-          + [37]逆变器
-     * [38]混动变速箱
-          + [39]混合动力 DCT – DT2
-          + [40]混合动力 DCT – DT2
-          + [41]混合动力CVT – VT6
-     * [42]传统变速器
-          + [43]双离合变速箱 – DT1
-          + [44]无级变速器 – VT3
-          + [45]无级变速器 – VT5
+     * 电动汽车解决方案
+          + 集成电驱
+          + 减速机
+          + 电机
+          + 逆变器
+     * 混动变速箱
+          + 混合动力 DCT – DT2
+          + 混合动力 DCT – DT2
+          + 混合动力CVT – VT6
+     * 传统变速器
+          + 双离合变速箱 – DT1
+          + 无级变速器 – VT3
+          + 无级变速器 – VT5
 
-   [46]加入我们
+   加入我们
 
-     * [47]Careers
-     * [48]合作伙伴
-     * [49]供应商
+     * Careers
+     * 合作伙伴
+     * 供应商
 
-     * [50]Careers
-     * [51]合作伙伴
-     * [52]供应商
+     * Careers
+     * 合作伙伴
+     * 供应商
 
-   [53]联系我们
-   [54]+32 11 67 91 11
-   [55]info@punchpowertrain.com
-   [56]sales@punchpowertrain.com
-   [57]Facebook-f [58]Twitter [59]Linkedin [60]Youtube
+   联系我们
+   +32 11 67 91 11
+   info@punchpowertrain.com
+   sales@punchpowertrain.com
+   Facebook-f Twitter Linkedin Youtube
 
                                企业社会责任是公司战略的关键组成部分
 
@@ -178,7 +178,7 @@ Language
 
    企业社会责任是公司战略的关键组成部分
 
-   [61]Home >gt; [62]News >gt; [63]Corporate >gt; 企业社会责任是公司战略的关键组成部分
+   Home >gt; News >gt; Corporate >gt; 企业社会责任是公司战略的关键组成部分
 
 作为转型过程的一部分，邦奇动力管理团队启动了企业社会责任（CSR）战略。通过将企业社会责任融入公司传统并使其成为公司运营的重要组成部分，公司致力于在其运营
 所在的社区产生积极的影响。
@@ -232,7 +232,7 @@ Language
 </page> §
 <page="ch-13">
 <text>
-   [1]专题首页 [2]亚运大咖说 [3]亚运零距离 [4]亚运观察 [5]直击亚运 [6]智汇亚运 [7]中国风采 [8]亚洲诸强
+   专题首页 亚运大咖说 亚运零距离 亚运观察 直击亚运 智汇亚运 中国风采 亚洲诸强
 
 约大牌｜有两种承担责任的办法，我都能接受——专访中国篮协主席姚明
 
@@ -240,8 +240,8 @@ Language
    来源：新华网
 
    IFRAME:
-   [9]https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc29
-   5a9d816818dc691&amp;vid=5bba2f03037f6e2f33666e2e1935cd4a&amp;playType=0
+   https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9
+   d816818dc691&amp;vid=5bba2f03037f6e2f33666e2e1935cd4a&amp;playType=0
 
    　　新华社杭州10月7日电　题：有两种承担责任的办法，我都能接受——专访中国篮协主席姚明
 
@@ -271,40 +271,40 @@ Language
 <text>
    [share_logo.jpg]
 
-   [1][logo.png]
-     * [2]时政
-     * [3]封面
-     * [4]热点
-     * [5]政务
-     * [6]深瞳
-     * [7]视频
+   [logo.png]
+     * 时政
+     * 封面
+     * 热点
+     * 政务
+     * 深瞳
+     * 视频
 </text>
 </page> §
 <page="ch-15">
 <text>
-   #[1]互联网数据资讯网-199IT » Feed [2]互联网数据资讯网-199IT » 评论Feed
-   [3]世贸组织：2023年全球价值链发展报告（366页） [4]alternate [5]alternate
+   #互联网数据资讯网-199IT » Feed 互联网数据资讯网-199IT » 评论Feed
+   世贸组织：2023年全球价值链发展报告（366页） alternate alternate
 
-     * [6]简洁版
-     * [7]交流群
-     * [8]搜索
-     * [9]大数据导航
-     * [10]企业数据
-     * [11]投稿与合作
-     * [12]项目需求
-     * [13]会议
+     * 简洁版
+     * 交流群
+     * 搜索
+     * 大数据导航
+     * 企业数据
+     * 投稿与合作
+     * 项目需求
+     * 会议
 
-[14]互联网数据资讯网-199IT
+互联网数据资讯网-199IT
 
    [INS: :INS]
 
 菜单Menu
 
-     * [15]首页
-     * [16]报告
-     * [17]新兴产业
-          + [18]5G产业
-          + [19]人工智能
+     * 首页
+     * 报告
+     * 新兴产业
+          + 5G产业
+          + 人工智能
 </text>
 </page> §
 <page="ch-16">
@@ -316,7 +316,7 @@ Language
    [INS: :INS]
    [INS: :INS]
 
-   [1]新华网 >gt; >gt; 正文
+   新华网 >gt; >gt; 正文
    2023 06/ 20 18:29:48
    来源：新华网
 
@@ -351,20 +351,20 @@ Language
 </page> §
 <page="ch-17">
 <text>
-   #[1]alternate
+   #alternate
 
-     * [2]首页
-     * [3]时政·要闻
-     * [4]经济·民生
-     * [5]科教·文卫
-     * [6]社会·法治
-     * [7]市州聚焦
+     * 首页
+     * 时政·要闻
+     * 经济·民生
+     * 科教·文卫
+     * 社会·法治
+     * 市州聚焦
 
    ____________________ Submit
 
    当前位置:
 
-   [8]湖南频道>gt;[9]科教.文卫>gt;正文
+   湖南频道>gt;科教.文卫>gt;正文
 
                           岳麓书会|唐浩明：作为湖南人，我们有责任多懂一点湖湘文化
 
@@ -411,17 +411,17 @@ Language
    编辑：戴桢
 
    精彩推荐
-     * [10]| 湖南出招深化整治“文山会海”
-     * [11]| 这幅远征的画卷 邀请所有湖南人一起入画
-     * [12]| 每一份成就背后，都有一种精神力量
-     * [13]| 用裸眼3D打开中国式现代化湖南场景
-     * [14]| 出版湘军：从书香千年到书香天下
+     * | 湖南出招深化整治“文山会海”
+     * | 这幅远征的画卷 邀请所有湖南人一起入画
+     * | 每一份成就背后，都有一种精神力量
+     * | 用裸眼3D打开中国式现代化湖南场景
+     * | 出版湘军：从书香千年到书香天下
 
-   [15]红视频
-   [16]视频 | 惊艳50秒！湖南版《只此青绿》
+   红视频
+   视频 | 惊艳50秒！湖南版《只此青绿》
 
    视频 | 惊艳50秒！湖南版《只此青绿》
-   [17]科普动起来 | 突然间雷暴来袭！强对流天气避险指南↓关键时刻用得上！
+   科普动起来 | 突然间雷暴来袭！强对流天气避险指南↓关键时刻用得上！
 
    科普动起来 | 突然间雷暴来袭！强对流天气避险指南↓关键时刻用得上！
 </text>
@@ -435,7 +435,7 @@ Language
    [INS: :INS]
    [INS: :INS]
 
-   [1]新华网 >gt; >gt; 正文
+   新华网 >gt; >gt; 正文
    2023 09/ 23 12:54:15
    来源：新华社
 
@@ -454,9 +454,9 @@ Language
    2023-09-23 12:54:15 来源： 新华社
 
    IFRAME:
-   [2]https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc29
-   5a9d816818dc691&amp;src=https://vodpub6.v.news.cn/yhfb-original/20230923/Xx
-   jfceC007026_20230923_CBVFN0A001_trans.mp4&amp;playType=0
+   https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9
+   d816818dc691&amp;src=https://vodpub6.v.news.cn/yhfb-original/20230923/Xxjfc
+   eC007026_20230923_CBVFN0A001_trans.mp4&amp;playType=0
 
    　　万里黄河是中华民族的母亲河，其源头与长江、澜沧江发源地共19.07万平方公里的区域组成了三江源国家公园。黄河流经的青海省果洛藏族自治州玛多
    县，境内有黄河源头“姊妹湖”扎陵湖和鄂陵湖，它们是黄河上游水源涵养地、补给地，也是国家重要的湿地生态功能区，生态地位至关重要。
@@ -478,7 +478,7 @@ Language
    　　记者：韩方方
 
    　　新华社音视频部制作
-   [3]【纠错】
+   【纠错】
 
    [space.gif]
    【责任编辑:薛涛 】
@@ -489,7 +489,7 @@ Language
 
    [INS: :INS]
    [INS: :INS]
-   [4]深度观察
+   深度观察
 </text>
 </page> §
 <page="ch-19">
@@ -502,7 +502,7 @@ Language
    [INS: :INS]
    [INS: :INS]
 
-   [1]新华网 >gt; >gt; 正文
+   新华网 >gt; >gt; 正文
    2023 09/26 09:17:26
    来源：新华网
 
@@ -551,27 +551,27 @@ Language
 </page> §
 <page="ch-2">
 <text>
-   #[1]MBA智库百科 (中文) [2]copyright
+   #MBA智库百科 (中文) copyright
 
    全球专业中文经管百科，由121,994位网友共同编写而成，共计436,897个条目
 
 查看
 
-     * [3]条目
-     * [4]讨论
-     * [5]编辑
-     * [6]收藏
-     * [7]简体中文
-     * [8]繁体中文
+     * 条目
+     * 讨论
+     * 编辑
+     * 收藏
+     * 简体中文
+     * 繁体中文
 
 工具箱▼
 
-     * [9]链入页面
-     * [10]链出更改
-     * [11]上传文件
-     * [12]特殊页面
-     * [13]可打印版
-     * [14]永久链接
+     * 链入页面
+     * 链出更改
+     * 上传文件
+     * 特殊页面
+     * 可打印版
+     * 永久链接
 
 责任
 
@@ -579,20 +579,20 @@ Language
 
    扫一扫，手机看条目
 
-出自 MBA智库百科([15]https://wiki.mbalib.com/)
+出自 MBA智库百科(https://wiki.mbalib.com/)
 
    责任(Burden / Duty / Liability / Obligation / Responsibility)
 
 目录
 
-     * [16]1 什么是责任
-     * [17]2 责任的内涵
-     * [18]3 责任的社会意义
-     * [19]4 什么是责任心
-     * [20]5 责任与角色
-     * [21]6 责任与义务
+     * 1 什么是责任
+     * 2 责任的内涵
+     * 3 责任的社会意义
+     * 4 什么是责任心
+     * 5 责任与角色
+     * 6 责任与义务
 
-   [[22]编辑]
+   [编辑]
 
 什么是责任
 
@@ -602,30 +602,29 @@ Language
    儿女孝敬父母，老师教书育人，学生尊师好学，医生救死扶伤，军人保家卫国。人在社会中生存，就必然要对自己、对家庭、对集体、对祖国承担并履行一定的责
    任。
 
-   　　2、责任有不同的范畴。如家庭责任、[23]职业责任、社会责任、[24]领导责任等等。责任只有轻重之分，而无有无之别。责任是神圣的，不以人的
-   意志为转移的。不履行道德责任，会受到道德的谴责和良心的拷问；不履行法定责任，会受到法律的追究和制度的惩处。
+   　　2、责任有不同的范畴。如家庭责任、职业责任、社会责任、领导责任等等。责任只有轻重之分，而无有无之别。责任是神圣的，不以人的意志为转移的。不
+   履行道德责任，会受到道德的谴责和良心的拷问；不履行法定责任，会受到法律的追究和制度的惩处。
 
    　　3、责任和权利是对立的统一。没有无责任的权利，也没有无权利的责任。一个人的权利，往往是他的责任；一个人的责任，往往是他的权利。享受一定的权
    利，必须尽到相应的责任；尽到一定的责任，才能享有相应的权利。
-   [[25]编辑]
+   [编辑]
 
 责任的内涵
 
-   　　责任是分内应做的事情。也就是承担应当承担的任务，完成应当完成的[26]使命，做好应当做好的工作。责任感是衡量一个人精神素质的重要[27]指
-   标。责任和自由是对应的概念，责任事实上虽然不是时间上以自由为前提，而自由只能存在于责任之中。责任是唯独存在于上帝和邻舍的约束中的人的自由。负责
-   任的人在自身的自由中行动。除了他的[28]行为和他本人以外，再没有别的能够支持他，减轻他的负担，这个事实就是自由的证据。负责任的行动发生在义务
-   中，这义务给予他自由，给予他完全的自由。同时，负责任的行动完全发生在相对性的区域内，发生在无数视角里，每一种特定的现象都在其中出现。社会在发展
-   ，责任内涵也在不断发展，改革开放和现代化建设的伟大实践，赋予责任日益丰富的时代内容。负责任的大国，负责任的政府，负责任的公民——中国以更加鲜明
-   地形象呈现在世界面前。
+   　　责任是分内应做的事情。也就是承担应当承担的任务，完成应当完成的使命，做好应当做好的工作。责任感是衡量一个人精神素质的重要指标。责任和自由是
+   对应的概念，责任事实上虽然不是时间上以自由为前提，而自由只能存在于责任之中。责任是唯独存在于上帝和邻舍的约束中的人的自由。负责任的人在自身的自
+   由中行动。除了他的行为和他本人以外，再没有别的能够支持他，减轻他的负担，这个事实就是自由的证据。负责任的行动发生在义务中，这义务给予他自由，给
+   予他完全的自由。同时，负责任的行动完全发生在相对性的区域内，发生在无数视角里，每一种特定的现象都在其中出现。社会在发展，责任内涵也在不断发展，
+   改革开放和现代化建设的伟大实践，赋予责任日益丰富的时代内容。负责任的大国，负责任的政府，负责任的公民——中国以更加鲜明地形象呈现在世界面前。
 
-   　　责任能力简单地说就是指一个人对其违法行为承担责任的[29]能力。不同的法律部门对责任能力的定义也是不同的。民事责任能力指民事主体据以独立承
-   担民事责任的法律地位或法律资格。刑事责任能力是指行为人能够正确认识自己的行为性质、意义、作用和后果，并能依据这种认识而自觉地选择和[30]控制
-   自己的行为，从而对自己所实施的刑法所禁止的危害社会行为承担刑事责任的能力。
+   　　责任能力简单地说就是指一个人对其违法行为承担责任的能力。不同的法律部门对责任能力的定义也是不同的。民事责任能力指民事主体据以独立承担民事责
+   任的法律地位或法律资格。刑事责任能力是指行为人能够正确认识自己的行为性质、意义、作用和后果，并能依据这种认识而自觉地选择和控制自己的行为，从而
+   对自己所实施的刑法所禁止的危害社会行为承担刑事责任的能力。
 
    　　责任的两个基本要求
 
-   　　1）[31]价值观要求。乙方主体必须按照甲方主体的价值观来处理有关价值事物，而不能按照乙方主体自己的价值观要求来处理有关价值事物，即乙方主
-   体必须代表甲方主体的利益要求来进行[32]决策和行为，而不能代表乙方主体自身的利益要求进行决策和行为。否则，将受到相应原价值处罚。
+   　　1）价值观要求。乙方主体必须按照甲方主体的价值观来处理有关价值事物，而不能按照乙方主体自己的价值观要求来处理有关价值事物，即乙方主体必须代
+   表甲方主体的利益要求来进行决策和行为，而不能代表乙方主体自身的利益要求进行决策和行为。否则，将受到相应原价值处罚。
 
    　　2）最大价值率要求。乙方主体必须按照“最大价值率法则”来处理有关价值事物，即乙方必须尽自己的最大努力、发挥自己的最大聪明才智，来履行责任。
 
@@ -634,31 +633,30 @@ Language
    　　1）一是指份内应该做好的事，如履行职责、尽到责任、完成任务等。
 
    　　2）二是指如果没有做好自己工作，而应承担的不利后果或强制性义务，如担负责任、承担后果等。
-   [[33]编辑]
+   [编辑]
 
 责任的社会意义
 
    　　责任是一种职责和任务。它伴随着人类社会的出现而出现，有社会就有责任，身处社会的个体成员必须遵守的规则和条文，带有强制性。责任有个人的责任和
    集体的责任。个人的责任指一个完全具备行为能力的人（成年人）所必需去履行的职责。集体的责任指一个集体必须去承担的一种职责。责任的追究一般以法律有
    明文规定的为准。例如：个人的责任，国家的责任，单位的责任等。
-   [[34]编辑]
+   [编辑]
 
 什么是责任心
 
-   　　1、[35]责任心首先是对自己的负责。即一个人要懂得尊重自己的感情，尊重自己的[36]理想，珍惜自己的宝贵年华和生命的活力，从自己的理想出
-   发来安排现实生活。责任感的形成是一个人成熟的标志，无论你做什么事，都是为自己。如果一个人什么也没有做好，没有得到大家对你的认可，那么，他就是对
-   你自己不负责任。最终，影响最大的还是你自己，绝对不会是别人。
+   　　1、责任心首先是对自己的负责。即一个人要懂得尊重自己的感情，尊重自己的理想，珍惜自己的宝贵年华和生命的活力，从自己的理想出发来安排现实生活
+   。责任感的形成是一个人成熟的标志，无论你做什么事，都是为自己。如果一个人什么也没有做好，没有得到大家对你的认可，那么，他就是对你自己不负责任。
+   最终，影响最大的还是你自己，绝对不会是别人。
 
-   　　2、责任心是对自己所在的集体负责。一个人的责任心如何，决定着他在工作中的[37]态度，决定着其工作的好坏和成败。如果一个人没有责任心，即使
-   他有再大的能耐，也不一定能做出好的成绩来。有了责任心，才会认真地思考，勤奋地工作，细致踏实，实事求是；才会按时、按质、按量完成任务，圆满解决问
-   题；才能主动处理好分内与分外的相关工作，从事业出发，以工作为重，有人监督与无人监督都能主动承担责任而不推卸责任；就我们医院来说，不论你是一名默
-   默无闻的一般[38]员工，还是大权在握的[39]领导者，都应有责任心，凡事尽心尽力而为，以主人翁的身份和态度积极投身到医院建设中去，在医院发展
-   中寻找自己的永恒。
+   　　2、责任心是对自己所在的集体负责。一个人的责任心如何，决定着他在工作中的态度，决定着其工作的好坏和成败。如果一个人没有责任心，即使他有再大
+   的能耐，也不一定能做出好的成绩来。有了责任心，才会认真地思考，勤奋地工作，细致踏实，实事求是；才会按时、按质、按量完成任务，圆满解决问题；才能
+   主动处理好分内与分外的相关工作，从事业出发，以工作为重，有人监督与无人监督都能主动承担责任而不推卸责任；就我们医院来说，不论你是一名默默无闻的
+   一般员工，还是大权在握的领导者，都应有责任心，凡事尽心尽力而为，以主人翁的身份和态度积极投身到医院建设中去，在医院发展中寻找自己的永恒。
 
    　　3、责任心是成就事业的可靠途径。责任心出勇气、出智慧、出力量。有了责任心，再危险的工作也能减少风险；没有责任心，再安全的岗位也会出现险情。
    责任心强，再大的困难也可以克服；责任心差，很小的问题也可能酿成大祸。县医院需要一批敢于负责人的干部群众，需要大家一起来克服眼前的困难，需要大家
    共同来创造县医院的辉煌。
-   [[40]编辑]
+   [编辑]
 
 责任与角色
 </text>
@@ -666,13 +664,13 @@ Language
 <page="ch-20">
 <text>
    年 月 日
-   [1][2019_index_002.png]
+   [2019_index_002.png]
    [2019_index_001.png]
-   [2][ghb2022-yjj.png]
-   [3][20200808index_01.png] [20200808index_02.png] [4][2019_index_35.png]
-   [5][2019_index_36.png] [20190226_sj_erweima.png] [6][2019_index_37.png]
+   [ghb2022-yjj.png]
+   [20200808index_01.png] [20200808index_02.png] [2019_index_35.png]
+   [2019_index_36.png] [20190226_sj_erweima.png] [2019_index_37.png]
    [20201104001img.png] [2019_index_38.png] [20190226_weibo_erweima.png]
-   [7][2019_index_39.png] [8][20201127.png] [9][ghb2022-yjj.png]
+   [2019_index_39.png] [20201127.png] [ghb2022-yjj.png]
 
    智能推荐
 
@@ -680,49 +678,47 @@ Language
 
 政策推送
 
-     * [10]深圳市应急管理局关于印发深圳市生产安全事故应急预案评审和备案工作的通知
-     * [11]深圳地方标准《台风暴雨室内应急避难场所运行管理指南》
-     * [12]深圳市地方标准《综合减灾社区创建指南》
-     * [13]深圳市第七届人民代表大会常务委员会公告（第五十八号）深圳经济特区安全生产监督管理条例
-     * [14]广东省人民政府办公厅关于印发广东省突发火灾事故应急预案的通知
-     * [15]广东省应急管理厅关于印发《广东省应急管理厅企业安全生产标准化建设定级管理办法》的通知
-     * [16]国务院安委会制定部署安全生产十五条措施
-     * [17]深圳市应急管理局 深圳市水务局 深圳市气象局关于印发深圳市主要气象灾害风险提示（2022年版）的通知
-     * [18]市应急管理局关于印发《深圳市危险化学品禁限控目录（2022年版）》的通知
-     * [19]深圳市应急管理体系和能力建设“十四五”规划
+     * 深圳市应急管理局关于印发深圳市生产安全事故应急预案评审和备案工作的通知
+     * 深圳地方标准《台风暴雨室内应急避难场所运行管理指南》
+     * 深圳市地方标准《综合减灾社区创建指南》
+     * 深圳市第七届人民代表大会常务委员会公告（第五十八号）深圳经济特区安全生产监督管理条例
+     * 广东省人民政府办公厅关于印发广东省突发火灾事故应急预案的通知
+     * 广东省应急管理厅关于印发《广东省应急管理厅企业安全生产标准化建设定级管理办法》的通知
+     * 国务院安委会制定部署安全生产十五条措施
+     * 深圳市应急管理局 深圳市水务局 深圳市气象局关于印发深圳市主要气象灾害风险提示（2022年版）的通知
+     * 市应急管理局关于印发《深圳市危险化学品禁限控目录（2022年版）》的通知
+     * 深圳市应急管理体系和能力建设“十四五”规划
 
-   [20]个人中心
+   个人中心
    简体 繁体｜
    网站支持IPv6
 
    ____________________
 
-   热门推荐：[21]生产经营单位 [22]特种作业 [23]主体责任规定 [24]危险化学品
+   热门推荐：生产经营单位 特种作业 主体责任规定 危险化学品
    [2019_index_003_3.jpg] [2019_index_003.jpg] [2019_index_003_2.jpg]
 
-     * [25][2019_index_027.png] [2019_index_027_3.png] 首页
-     * [26][2019_index_028.png] [2019_index_028_2.png]
-       [2019_index_028_3.png] 政务公开
-       [27]信息公开规定 [28]信息公开指南 [29]信息公开目录 [30]信息公开年报 [31]规范性文件查询
-       [32]网站年度工作报表 [33]依申请公开 [34]政策法规及政策解读 [35]政声传递
-     * [36][2019_index_029.png] [2019_index_029_2.png]
-       [2019_index_029_3.png] 政务服务
-       [37]权责清单 [38]办事指南 [39]办事进度查询 [40]安全生产培训考核发证专题 [41]重点事项服务专题
-     * [42][2019_index_030.png] [2019_index_030_2.png]
-       [2019_index_030_3.png] 应急管理
-       [43]综合监管 [44]应急管理 [45]震情速递
-     * [46][2019_index_031.png] [2019_index_031_2.png]
-       [2019_index_031_3.png] 宣教科普
-       [47]业务知识库 [48]宣传海报 [49]视频展播 [50]文化刊物
-     * [51][2019_index_032.png] [2019_index_032_2.png]
-       [2019_index_032_3.png] 互动交流
-       [52]我要咨询 [53]我要投诉 [54]咨询投诉选登 [55]在线访谈 [56]民意征集
+     * [2019_index_027.png] [2019_index_027_3.png] 首页
+     * [2019_index_028.png] [2019_index_028_2.png] [2019_index_028_3.png]
+       政务公开
+       信息公开规定 信息公开指南 信息公开目录 信息公开年报 规范性文件查询 网站年度工作报表 依申请公开 政策法规及政策解读 政声传递
+     * [2019_index_029.png] [2019_index_029_2.png] [2019_index_029_3.png]
+       政务服务
+       权责清单 办事指南 办事进度查询 安全生产培训考核发证专题 重点事项服务专题
+     * [2019_index_030.png] [2019_index_030_2.png] [2019_index_030_3.png]
+       应急管理
+       综合监管 应急管理 震情速递
+     * [2019_index_031.png] [2019_index_031_2.png] [2019_index_031_3.png]
+       宣教科普
+       业务知识库 宣传海报 视频展播 文化刊物
+     * [2019_index_032.png] [2019_index_032_2.png] [2019_index_032_3.png]
+       互动交流
+       我要咨询 我要投诉 咨询投诉选登 在线访谈 民意征集
 
    [showPic20211018.jpg]
 
    [20190418img031.png] 当前位置 :
-   [57]首页 >gt; [58]政务公开 >gt; [59]信息公开目录 >gt; [60]其他 >gt; [61]行政执法公示 >gt; [62]事先公开 >gt; [63]依
-   据信息
+   首页 >gt; 政务公开 >gt; 信息公开目录 >gt; 其他 >gt; 行政执法公示 >gt; 事先公开 >gt; 依据信息
    深圳市生产经营单位安全生产主体责任规定
    来源 : 深圳市应急管理局   信息提供日期 :2021-04-13
    分享到：
@@ -747,11 +743,11 @@ Language
 </page> §
 <page="ch-21">
 <text>
-    #[1]Page d'accueil [2]Page d'accueil [3]Page d'accueil [4]Recherche
+    #Page d'accueil Page d'accueil Page d'accueil Recherche
 
-     * [5]Aller directement à la navigation
-     * [6]Aller directement au contenu
-     * [7]Aller directement à la recherche
+     * Aller directement à la navigation
+     * Aller directement au contenu
+     * Aller directement à la recherche
 
    (BUTTON) MENU
      *
@@ -764,148 +760,146 @@ Language
 
    (BUTTON) voir plus
    (BUTTON) ZH
-     * [8]FR
-     * [9]EN
-     * [10]DE
-     * [11]ES
-     * [12]AR
-     * [13]ZH
+     * FR
+     * EN
+     * DE
+     * ES
+     * AR
+     * ZH
 
-   [14]Ministère de la culture
+   Ministère de la culture
      * (BUTTON) 新闻
           + (BUTTON) fermer le menu
-            [15]新闻 (BUTTON) Retour
-               o [16]新闻
-               o [17]À la Une
+            新闻 (BUTTON) Retour
+               o 新闻
+               o À la Une
                o (BUTTON) Dossiers
                  Dossiers
-                    # [18]203.文化部的预算
-                    # [19]Ma bibliothèque : le monde à portée de main
-                    # [20]文化奥林匹克，文化与体育之间的对话
-                    # [21]支持文化乌克兰:文化部动员
-                    # [22]264 projets pour des Mondes nouveaux
-                    # [23]文化和创意产业加速战略
-                    # [24]France Relance : Redynamiser notre modèle
-                      culturel
+                    # 203.文化部的预算
+                    # Ma bibliothèque : le monde à portée de main
+                    # 文化奥林匹克，文化与体育之间的对话
+                    # 支持文化乌克兰:文化部动员
+                    # 264 projets pour des Mondes nouveaux
+                    # 文化和创意产业加速战略
+                    # France Relance : Redynamiser notre modèle culturel
 </text>
 </page> §
 <page="ch-22">
 <text>
-   [1]北京市司法局
-   [2]首都之窗
+   北京市司法局
+   首都之窗
 
-   [3]用户中心 [4]智能问答
+   用户中心 智能问答
 
-   [5]简体 [6]移动版 [7]无障碍
+   简体 移动版 无障碍
 </text>
 </page> §
 <page="ch-23">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
 
-   [17]跳至主要内容
+   跳至主要内容
 
-   [18]单击此处以返回 Amazon Web Services 主页
+   单击此处以返回 Amazon Web Services 主页
 
-   [19]联系我们 [20]支持  [21]中文（简体）  [22]我的账户
-   [23]登录
-   [24]创建 AWS 账户
+   联系我们 支持  中文（简体）  我的账户
+   登录
+   创建 AWS 账户
 
-     * [25]产品
-     * [26]解决方案
-     * [27]定价
-     * [28]文档
-     * [29]了解
-     * [30]合作伙伴网络
-     * [31]AWS Marketplace
-     * [32]客户支持
-     * [33]活动
-     * [34]探索更多信息
+     * 产品
+     * 解决方案
+     * 定价
+     * 文档
+     * 了解
+     * 合作伙伴网络
+     * AWS Marketplace
+     * 客户支持
+     * 活动
+     * 探索更多信息
 
    ____________________
    关闭
-     * [35]عربي
-     * [36]Bahasa Indonesia
-     * [37]Deutsch
-     * [38]English
-     * [39]Español
-     * [40]Français
-     * [41]Italiano
-     * [42]Português
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
 
-     * [43]Tiếng Việt
-     * [44]Türkçe
-     * [45]Ρусский
-     * [46]ไทย
-     * [47]日本語
-     * [48]한국어
-     * [49]中文 (简体)
-     * [50]中文 (繁體)
-
-   关闭
-     * [51]我的配置文件
-     * [52]注销 AWS Builder ID
-     * [53]AWS 管理控制台
-     * [54]账户设置
-     * [55]账单与成本管理
-     * [56]安全证书
-     * [57]AWS Personal Health Dashboard
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
 
    关闭
-     * [58]支持中心
-     * [59]专家帮助
-     * [60]知识中心
-     * [61]AWS Support 概述
-     * [62]AWS re:Post
+     * 我的配置文件
+     * 注销 AWS Builder ID
+     * AWS 管理控制台
+     * 账户设置
+     * 账单与成本管理
+     * 安全证书
+     * AWS Personal Health Dashboard
 
-   [63]单击此处以返回 Amazon Web Services 主页
-   [64]免费试用
-   [65]联系我们
+   关闭
+     * 支持中心
+     * 专家帮助
+     * 知识中心
+     * AWS Support 概述
+     * AWS re:Post
+
+   单击此处以返回 Amazon Web Services 主页
+   免费试用
+   联系我们
    ____________________
 
-     * [66]产品
-     * [67]解决方案
-     * [68]定价
-     * [69]AWS 简介
-     * [70]入门
-     * [71]文档
-     * [72]培训和认证
-     * [73]开发人员中心
-     * [74]客户成功案例
-     * [75]合作伙伴网络
-     * [76]AWS Marketplace
-     * [77]支持
-     * [78]AWS re:Post
-     * [79]登录控制台
-     * [80]下载移动应用
+     * 产品
+     * 解决方案
+     * 定价
+     * AWS 简介
+     * 入门
+     * 文档
+     * 培训和认证
+     * 开发人员中心
+     * 客户成功案例
+     * 合作伙伴网络
+     * AWS Marketplace
+     * 支持
+     * AWS re:Post
+     * 登录控制台
+     * 下载移动应用
 
-   [81]AWS Cloud 安全性
-   [82]安全服务 [83]使用案例  [84]合规性  [85]数据保护  [86]博客 [87]合作伙伴  [88]资源
+   AWS Cloud 安全性
+   安全服务 使用案例  合规性  数据保护  博客 合作伙伴  资源
 
-   关闭 [89]加密计算 [90]开源安全 [91]后量子密码术 [92]可证明的安全性 [93]防勒索软件防护 [94]零信任
+   关闭 加密计算 开源安全 后量子密码术 可证明的安全性 防勒索软件防护 零信任
 
-   关闭 [95]Cloud Audit Academy [96]合规性概述 [97]合规性资源 [98]责任共担模式
+   关闭 Cloud Audit Academy 合规性概述 合规性资源 责任共担模式
 
-   关闭 [99]数据保护 [100]数据隐私中心 [101]数字主权
+   关闭 数据保护 数据隐私中心 数字主权
 
-   关闭 [102]AWS Marketplace [103]MSSP [104]MSSP 能力 [105]合作伙伴资源 [106]安全性能力
+   关闭 AWS Marketplace MSSP MSSP 能力 合作伙伴资源 安全性能力
 </text>
 </page> §
 <page="ch-24">
 <text>
-   #[1]alternate
+   #alternate
 
-   [2]UPM CHINA
+   UPM CHINA
 
 通过负责任的纤维^™
 做出承诺
 
    UPM的“负责任的纤维^™”标志确保了产品是经第三方验证的，符合业内最严苛的环境和社会责任标准。
 
-   你可以阅读下文找到UPM负责任的纤维™的具体标准。也可以访问[3]负责任的纤维英文网站，获取有关UPM的责任原则和最新产品范围的更多信息。
+   你可以阅读下文找到UPM负责任的纤维™的具体标准。也可以访问负责任的纤维英文网站，获取有关UPM的责任原则和最新产品范围的更多信息。
 
 
 带有“负责任的纤维™”商标的纸制品标准
@@ -919,49 +913,49 @@ Language
    带有负责任的纤维™商标的纸制品需要满足以下条件：
 
    负责任的采购
-     * [4]拥有供应商和第三方行为准则以及[5]实用指南
+     * 拥有供应商和第三方行为准则以及实用指南
      * 具备供应商审核体系
      * 符合更详细的原材料具体要求
 
    可持续的森林管理和土地利用
-     * [6]经认证的纤维 (FSC® (FSC N003385) or PEFC (PEFC/02-44-41)森林认证)
-     * 制定了[7]森林行动计划，以促进可持续林业的发展
-     * 制定了保护动植物的[8]生物多样性计划
+     * 经认证的纤维 (FSC® (FSC N003385) or PEFC (PEFC/02-44-41)森林认证)
+     * 制定了森林行动计划，以促进可持续林业的发展
+     * 制定了保护动植物的生物多样性计划
 
    低排放的生产过程
      * 生产符合最佳可行技术（根据欧盟针对纸张的最佳可行技术参考文献）
-     * [9]在适用区域，携带欧盟生态标签或当地生态标签
-     * [10]雄心勃勃的2030年减排目标
+     * 在适用区域，携带欧盟生态标签或当地生态标签
+     * 雄心勃勃的2030年减排目标
 
    透明的表现
-     * 经第三方验证，公开提供的产品环境声明和碳足迹信息 ([11]UPM证书查找器)
+     * 经第三方验证，公开提供的产品环境声明和碳足迹信息 (UPM证书查找器)
 
    不使用有害物质
-     * 经第三方验证，公开提供的[12]产品安全报告
-     * 我们遵守全球和国家的化学品和产品法规，并为了人类健康、环境和安全，尽最大努力避免使用有害化学品。 ([13]化学品和填料)
+     * 经第三方验证，公开提供的产品安全报告
+     * 我们遵守全球和国家的化学品和产品法规，并为了人类健康、环境和安全，尽最大努力避免使用有害化学品。 (化学品和填料)
 
    经认证的环境管理体系
-     * [14]ISO 14001 环境管理体系
-     * [15]EMAS 欧盟生态管理与审核体系，报告经核实的环境和社会责任信息
+     * ISO 14001 环境管理体系
+     * EMAS 欧盟生态管理与审核体系，报告经核实的环境和社会责任信息
 
    安全、鼓舞人心的工作环境
-     * 设立[16]安全规则和目标[17]，旨在持续改善安全状况，和防止致命或严重事故的发生。
-     * 针对员工和供应商的 [18]UPM安全培训
+     * 设立安全规则和目标，旨在持续改善安全状况，和防止致命或严重事故的发生。
+     * 针对员工和供应商的 UPM安全培训
      * 实施员工健康和福利计划
 
    社会责任
-     * 公司和员工对负责任的商业行为原则的承诺，如在 [19]《UPM行为准则》中所定义的。
-     * 向公众公开的[20]对人权的承诺
-     * 通过社会公益活动，建立和维系与当地社区的良好关系，例如 [21]Biofore分享与关爱项目
-     * 根据国际认可的规范评估社会责任，例如：[22]Sedex成员道德贸易审核（SMETA)
-     * 雄心勃勃的[23]2030年社会责任目标，着重于多样化和包容性以及公平奖励。
-     * [24]上榜彭博社性别平等指数名单，是最致力于性别报告透明度和推进妇女平等的公司之一。
-     * 因在环境、劳工和人权、道德和可持续采购四个方面的可持续发展表现，而[25]被EcoVadis授予白金级别认证。
+     * 公司和员工对负责任的商业行为原则的承诺，如在 《UPM行为准则》中所定义的。
+     * 向公众公开的对人权的承诺
+     * 通过社会公益活动，建立和维系与当地社区的良好关系，例如 Biofore分享与关爱项目
+     * 根据国际认可的规范评估社会责任，例如：Sedex成员道德贸易审核（SMETA)
+     * 雄心勃勃的2030年社会责任目标，着重于多样化和包容性以及公平奖励。
+     * 上榜彭博社性别平等指数名单，是最致力于性别报告透明度和推进妇女平等的公司之一。
+     * 因在环境、劳工和人权、道德和可持续采购四个方面的可持续发展表现，而被EcoVadis授予白金级别认证。
 
    广受认可的可持续发展领袖
-     * 被列入[26]道琼斯可持续发展指数 (DJSI)
+     * 被列入道琼斯可持续发展指数 (DJSI)
      * 联合国全球契约组织成员
-     * [27]受到CDP认可
+     * 受到CDP认可
 
 
 能给予更多承诺的产品
@@ -973,7 +967,7 @@ Language
    我们在本网站上使用 Cookie，以保证提供优质的用户体验，并提供个性化内容和投放相关广告。 部分 Cookie
    是为您提供值得信赖的服务所必需的要素，因此您无法拒绝。选择最适合您的选项。
 
-   有关详细信息，请参阅我们的[28]隐私政策.
+   有关详细信息，请参阅我们的隐私政策.
 
    您的选择
 
@@ -987,190 +981,136 @@ Language
 
    您可以随时通过单击各个页面页脚中的 Cookie 设置来撤回您的许可。
 
-     [29]关于我们
+     关于我们
 
-     [30]新闻
+     新闻
 
-     [31]企业责任
+     企业责任
 
-     [32]职业发展
+     职业发展
 
-     [33]联系我们
+     联系我们
      * Copyright © 2023 UPM.  版权所有
-     * [34]法律声明
-     * [35]隐私权政策
-     * [36][沪ICP备19004597号]
+     * 法律声明
+     * 隐私权政策
+     * [沪ICP备19004597号]
 
      *
      * (BUTTON) wechat qr
-
-References
-
-   Visible links:
-   1. https://www.upmchina.com/responsiblefibre/
-   2. https://www.upmchina.com/
-   3. https://www.responsiblefibre.upm.com/criteria/
-   4. https://www.upm.com/about-us/for-suppliers/requirements/upm-supplier-and-third-party-code/
-   5. https://www.upm.com/siteassets/documents/for-suppliers/upm_supplier_and_third_party_code_practical_en.pdf
-   6. https://www.upm.com/responsibility/fundamentals/certificate-finder/
-   7. https://www.upm.com/responsibility/forests/forestaction/
-   8. https://www.upm.com/responsibility/forests/biodiversity-in-forests/
-   9. https://www.upm.com/responsibility/fundamentals/certificate-finder/
-  10. https://www.upm.com/responsibility/fundamentals/Our-responsibility-targets/
-  11. https://www.upm.com/responsibility/fundamentals/certificate-finder/
-  12. https://www.upm.com/responsibility/fundamentals/certificate-finder/
-  13. https://www.upm.com/about-us/for-suppliers/requirements/general-and-category-specific-requirements/chemicalscontentupm/
-  14. https://www.upm.com/responsibility/fundamentals/certificate-finder/
-  15. https://www.upm.com/responsibility/fundamentals/reporting-and-data/emas-reports/
-  16. https://www.upm.com/siteassets/documents/safety/gp-safetyruleenglish.pdf
-  17. https://www.upm.com/siteassets/documents/safety/gp-safetyruleenglish.pdf
-  18. https://www.upm.com/about-us/for-suppliers/safety-induction/
-  19. https://www.upm.com/investors/governance/governance-guidelines/code-of-conduct/
-  20. https://www.upm.com/responsibility/fundamentals/our-commitment/
-  21. https://www.upm.com/responsibility/people-and-society/biofore-share-and-care/
-  22. https://www.sedex.com/solutions/smeta-audit/
-  23. https://www.upm.com/responsibility/fundamentals/Our-responsibility-targets/
-  24. https://www.upm.com/responsibility/fundamentals/recognitions/
-  25. https://www.upm.com/responsibility/fundamentals/recognitions/
-  26. https://www.upm.com/responsibility/fundamentals/recognitions/
-  27. https://www.upm.com/responsibility/fundamentals/recognitions/
-  28. https://privacy.upm.com/cn/
-  29. https://www.upmchina.com/about-us/
-  30. https://www.upmchina.com/newsroom/
-  31. https://www.upmchina.com/responsibility/
-  32. https://www.upmchina.com/careers/
-  33. https://www.upmchina.com/contact-china/
-  34. https://www.upmchina.com/legal-notice/
-  35. https://privacy.upm.com/cn/
-  36. https://beian.miit.gov.cn/
-
-   Hidden links:
-  38. https://www.linkedin.com/company/upm-kymmene/
 </text>
 </page> §
 <page="ch-25">
 <text>
-   #[1]United Nations Environment - Finance Initiative » Feed [2]United
-   Nations Environment - Finance Initiative » Comments Feed [3]alternate
-   [4]alternate
+   #United Nations Environment - Finance Initiative » Feed United Nations
+   Environment - Finance Initiative » Comments Feed alternate alternate
 
-   [5]UN Environment Programme (BUTTON)
-     * [6]About Us
-          + [7]Overview
-               o [8]History
-               o [9]30 years of UNEP FI
-          + [10]Governance
-               o [11]Leadership Council
-               o [12]Global Steering Committee
-               o [13]Banking Board
-               o [14]PSI Board
-          + [15]Secretariat
-          + [16]Work with us
-          + [17]Contact Us
+   UN Environment Programme (BUTTON)
+     * About Us
+          + Overview
+               o History
+               o 30 years of UNEP FI
+          + Governance
+               o Leadership Council
+               o Global Steering Committee
+               o Banking Board
+               o PSI Board
+          + Secretariat
+          + Work with us
+          + Contact Us
 
 Highlights
-       [18]
 
 30 years of UNEP FI
        2022 marks 50 years of environmental action through UNEP, 30 years
        of
-       [19]
 
 Remembering Richard Hansen: our humble, high-flyer
        We lost a dear UNEP FI colleague recently, Richard Hansen, our web
 
 Highlights
-       [20]
 
 Remembering Richard Hansen: our humble, high-flyer
        We lost a dear UNEP FI colleague recently, Richard Hansen, our web
-     * [21]Our Members
-          + [22]Our Members
-          + [23]Supporting Institutions
-          + [24]Benefits of Membership
-          + [25]Members Area
-     * [26]Finance Industry
-          + [27]Banking
-               o [28]Principles for Responsible Banking
-               o [29]Principles for Responsible Banking Academy
-               o [30]Net-Zero Banking Alliance
-               o [31]TCFD Pilot Projects
-               o [32]More…
-          + [33]Insurance
-               o [34]Principles for Sustainable Insurance
-               o [35]Net-Zero Insurance Alliance
-          + [36]Investment
-               o [37]Investment Leadership Programme
-               o [38]Net-Zero Asset Owner Alliance
-               o [39]A Legal Framework for Impact
-          + [40]Policy and Regulation
-               o [41]Regional Inititatives
+     * Our Members
+          + Our Members
+          + Supporting Institutions
+          + Benefits of Membership
+          + Members Area
+     * Finance Industry
+          + Banking
+               o Principles for Responsible Banking
+               o Principles for Responsible Banking Academy
+               o Net-Zero Banking Alliance
+               o TCFD Pilot Projects
+               o More…
+          + Insurance
+               o Principles for Sustainable Insurance
+               o Net-Zero Insurance Alliance
+          + Investment
+               o Investment Leadership Programme
+               o Net-Zero Asset Owner Alliance
+               o A Legal Framework for Impact
+          + Policy and Regulation
+               o Regional Inititatives
 
 Highlights
-       [42]
 
 Principles for Responsible Banking to strengthen climate ambition to meet
 increased expectations
        As the global framework and gold standard for sustainable banking,
        the
-       [43]
 
 UNEP FI reappointed as observer in EU Platform on Sustainable Finance
        UNEP FI has been reappointed as an observer in the new mandate of
        the EU
 
 Highlights
-       [44]
 
 Principles for Sustainable Insurance
        About Launched at the 2012 UN Conference on Sustainable
        Development,
-       [45]
 
 Projects and Initiatives
        The insurance industry’s core business is to understand, manage and
 
 Highlights
-       [46]
 
 Turning point: How policymakers can shift the trillions needed for the
 net-zero transition
        Net-zero can only be achieved through systemic change. It is time
        to move
-     * [47]Key Themes
-          + [48]Climate Change
-               o [49]Net-Zero Asset Owner Alliance
-               o [50]Net-Zero Banking Alliance
-               o [51]Net-Zero Insurance Alliance
-               o [52]Net-Zero Export Credit Agencies Alliance
-               o [53]Climate Risk and TCFD Programme
-               o [54]More…
-          + [55]Nature
-               o [56]TNFD Pilots
-               o [57]Ocean Finance
-               o [58]Food, Forests &amp; Land
-               o [59]More…
-          + [60]Pollution &amp; Circular Economy
-               o [61]Resources
-               o [62]Get involved
-               o [63]More…
-          + [64]SDGs &amp; Impact
-               o [65]Impact Protocol
-               o [66]Tools for Holistic Impact Analysis
-               o [67]Impact Management Platform
-               o [68]More…
-          + [69]Social &amp; Human Rights
-               o [70]Human Rights
-               o [71]Just Transition
-               o [72]Financial Health and Inclusion
-               o [73]Gender
+     * Key Themes
+          + Climate Change
+               o Net-Zero Asset Owner Alliance
+               o Net-Zero Banking Alliance
+               o Net-Zero Insurance Alliance
+               o Net-Zero Export Credit Agencies Alliance
+               o Climate Risk and TCFD Programme
+               o More…
+          + Nature
+               o TNFD Pilots
+               o Ocean Finance
+               o Food, Forests &amp; Land
+               o More…
+          + Pollution &amp; Circular Economy
+               o Resources
+               o Get involved
+               o More…
+          + SDGs &amp; Impact
+               o Impact Protocol
+               o Tools for Holistic Impact Analysis
+               o Impact Management Platform
+               o More…
+          + Social &amp; Human Rights
+               o Human Rights
+               o Just Transition
+               o Financial Health and Inclusion
+               o Gender
 
 Highlights
-       [74]
 
 UNEP FI @ COP28
        The 28th Conference of the Parties to the United Nations Framework
-       [75]
 
 Export credit agencies supporting billions in global trade form net-zero
 alliance
@@ -1178,19 +1118,16 @@ alliance
        credit
 
 Highlights
-       [76]
 
 Getting Started
        The Challenge The natural world - our forests, soils, land and
        ocean and
-       [77]
 
 Sustainable Blue Finance
        Welcome to the Sustainable Blue Economy Finance Initiative, a
        UN-convened
 
 Highlights
-       [78]
 
 Leading financial institutions input into next round of negotiations to
 redirect finance to end plastic pollution
@@ -1198,34 +1135,33 @@ redirect finance to end plastic pollution
        binding
 
 Highlights
-       [79]
 
 Impact Protocol
        Impact management explained, step by step! The Impact Protocol
        provides a
-     * [80]Regions
-          + [81]Africa &amp; Middle East
-               o [82]Regional Roundtable Africa and Middle East 2023
-               o [83]Knowledge Platform
-          + [84]Asia Pacific
-               o [85]Regional Roundtable Asia Pacific 2023
-          + [86]Europe
-               o [87]EU Taxonomy
-               o [88]UNEP FI Regional Roundtable Europe 2023
-          + [89]Latin America &amp; Caribbean
-          + [90]North America
-               o [91]Regional Roundtable North America 2023
-     * [92]Resources
-          + [93]Events &amp; Webinars
-               o [94]Regional Roundtables 2023
-               o [95]Podcasts
-               o [96]Webinars
-          + [97]News
-          + [98]Guidance &amp; Research
-          + [99]Tools
-          + [100]Training
-               o [101]Principles for Responsible Banking Academy
-               o [102]More…
+     * Regions
+          + Africa &amp; Middle East
+               o Regional Roundtable Africa and Middle East 2023
+               o Knowledge Platform
+          + Asia Pacific
+               o Regional Roundtable Asia Pacific 2023
+          + Europe
+               o EU Taxonomy
+               o UNEP FI Regional Roundtable Europe 2023
+          + Latin America &amp; Caribbean
+          + North America
+               o Regional Roundtable North America 2023
+     * Resources
+          + Events &amp; Webinars
+               o Regional Roundtables 2023
+               o Podcasts
+               o Webinars
+          + News
+          + Guidance &amp; Research
+          + Tools
+          + Training
+               o Principles for Responsible Banking Academy
+               o More…
 
    (BUTTON)
 
@@ -1233,34 +1169,31 @@ Impact Protocol
 
    POPULAR CONTENT
 
-   [103][Header-Clouds-2.jpg]
+   [Header-Clouds-2.jpg]
 
-   17 May 2022[104]Events, [105]Roundtables
-   [106]
+   17 May 2022Events, Roundtables
 
 UNEP FI Global Roundtable 2022
 
-   [107][Climate-Risk-Landscape-2023-cover-scaled.jpg]
+   [Climate-Risk-Landscape-2023-cover-scaled.jpg]
 
-   07 March 2023[108]Climate Change, [109]Publications, [110]TCFD
-   [111]
+   07 March 2023Climate Change, Publications, TCFD
 
 The 2023 Climate Risk Landscape
 
-   [112][Portfolio-Impact-Analysis-Tools-for-Banks-Cover-Thumb.jpg]
+   [Portfolio-Impact-Analysis-Tools-for-Banks-Cover-Thumb.jpg]
 
-   28 November 2022[113]Publications, [114]SDGs and Impact
-   [115]
+   28 November 2022Publications, SDGs and Impact
 
 Portfolio Impact Analysis Tools for Banks (Version 3)
 
-   [116]Home / [117]Regions / [118]Asia Pacific / [119]China / 负责任银行原则PRB
+   Home / Regions / Asia Pacific / China / 负责任银行原则PRB
 
 负责任银行原则PRB
 
    《负责任银行原则》为可持续银行体系提供了一致的框架，鼓励银行在最重要、最具实质性的领域设定目标，在战略、投资组合和交易层面以及所有业务领域融入
-   可持续发展元素，确保签署银行的战略和实践符合联合国可持续发展目标（SDGs）和《巴黎气候协定》。目前已有[120]两百余家银行签署了该原则。《
-   原则》一共有六条：
+   可持续发展元素，确保签署银行的战略和实践符合联合国可持续发展目标（SDGs）和《巴黎气候协定》。目前已有两百余家银行签署了该原则。《原则》一共
+   有六条：
     1. 一致性
        承诺确保业务战略与联合国可持续发展目标（SDGs）、《巴黎气候协定》以及国家和地区相关框架所述的个人需求和社会目标保持一致，并为之作出
        贡献。
@@ -1276,394 +1209,205 @@ Portfolio Impact Analysis Tools for Banks (Version 3)
     6. 透明与责任
        承诺将定期评估签署的每一家银行和所有签署行对这些原则的履行情况，公开披露银行的正面和负面影响及其对社会目标的贡献，并对相关影响负责。
 
-   签署银行承诺采取[121]三个关键步骤，不断改善其对社会的影响和贡献。
+   签署银行承诺采取三个关键步骤，不断改善其对社会的影响和贡献。
     1. 分析银行目前对社会、环境和经济的重大影响
     2. 在分析的基础上，针对影响最重大的领域设定目标并落实
     3. 公开披露进展情况
 
    实施指南
      * 影响分析
-          + 影响分析指南（中文版    [122]英文版）
-          + 影响分析工具（中文版    [123]英文版）
+          + 影响分析指南（中文版    英文版）
+          + 影响分析工具（中文版    英文版）
      * 目标设定
-          + 目标设定指南 – 气候变化（中文版    [124]英文版）
-          + 目标设定指南 – 资源高效利用与循环经济（中文版    [125]英文版）
-          + 目标设定指南 – 生物多样性（中文版    [126]英文版）
-          + 目标设定指南 – 普惠金融与金融健康（中文版    [127]英文版）
-          + 目标设定指南 – 性别平等（中文版    [128]英文版）
+          + 目标设定指南 – 气候变化（中文版    英文版）
+          + 目标设定指南 – 资源高效利用与循环经济（中文版    英文版）
+          + 目标设定指南 – 生物多样性（中文版    英文版）
+          + 目标设定指南 – 普惠金融与金融健康（中文版    英文版）
+          + 目标设定指南 – 性别平等（中文版    英文版）
      * 信息披露
-          + 信息披露指南（[129]中文版    [130]英文版）
-          + 报告和自评估模板（[131]中文版    [132]英文版）
-          + 报告审验指南（中文版    [133]英文版）
+          + 信息披露指南（中文版    英文版）
+          + 报告和自评估模板（中文版    英文版）
+          + 报告审验指南（中文版    英文版）
 
-     * [134]Africa &amp; Middle East
-     * [135]Asia Pacific
-          + [136]China
-               o [137]负责任银行原则PRB
-               o [138]可持续保险原则PSI
-          + [139]Japan
-          + [140]Korea Group
-          + [141]Policy info: Taxonomy in Asia
-     * [142]Europe
-     * [143]Latin America &amp; Caribbean
-     * [144]North America
+     * Africa &amp; Middle East
+     * Asia Pacific
+          + China
+               o 负责任银行原则PRB
+               o 可持续保险原则PSI
+          + Japan
+          + Korea Group
+          + Policy info: Taxonomy in Asia
+     * Europe
+     * Latin America &amp; Caribbean
+     * North America
 
    UNEP Finance Initiative
-     * [145]About Us
-     * [146]Structure
-     * [147]Leadership Council
-     * [148]Global Steering Committee
+     * About Us
+     * Structure
+     * Leadership Council
+     * Global Steering Committee
 
    Members
-     * [149]Our Members
-     * [150]Supporting Institutions
-     * [151]Join Us
-     * [152]Members Area
+     * Our Members
+     * Supporting Institutions
+     * Join Us
+     * Members Area
 
    Industries &amp; Themes
-     * [153]Banking
-     * [154]Insurance
-     * [155]Investment
-     * [156]Policy and regulation
-     * [157]Climate Change
-     * [158]Nature
-     * [159]Social &amp; Human Rights
-     * [160]Pollution &amp; Circular Economy
-     * [161]Regions
+     * Banking
+     * Insurance
+     * Investment
+     * Policy and regulation
+     * Climate Change
+     * Nature
+     * Social &amp; Human Rights
+     * Pollution &amp; Circular Economy
+     * Regions
 
    Resources
-     * [162]Regional Roundtables 2023
-     * [163]Initiatives
-     * [164]Publications
-     * [165]News
-     * [166]Event and Webinars
-     * [167]Training
-     * [168]Tools
+     * Regional Roundtables 2023
+     * Initiatives
+     * Publications
+     * News
+     * Event and Webinars
+     * Training
+     * Tools
 
    United Nations
-     * [169]UNEP
-     * [170]UNEP Economy Division
-     * [171]UNEP-WCMC
-     * [172]UNEP Economics and Trade
-     * [173]UN Global Compact
-     * [174]UNEP Inquiry
+     * UNEP
+     * UNEP Economy Division
+     * UNEP-WCMC
+     * UNEP Economics and Trade
+     * UN Global Compact
+     * UNEP Inquiry
 
    Partners
-     * [175]Climate Action
-     * [176]Global Canopy
-     * [177]Principles for Responsible Investment
+     * Climate Action
+     * Global Canopy
+     * Principles for Responsible Investment
 
-   [178]UN Enviroment Programme
+   UN Enviroment Programme
      *
      *
      *
      *
 
    United Nations Environment Programme - Finance Initiative
-
-References
-
-   Visible links:
-   1. https://www.unepfi.org/feed/
-   2. https://www.unepfi.org/comments/feed/
-   3. https://www.unepfi.org/wp-json/oembed/1.0/embed?url=https://www.unepfi.org/regions/asia-pacific/china/prb-china/
-   4. https://www.unepfi.org/wp-json/oembed/1.0/embed?url=https://www.unepfi.org/regions/asia-pacific/china/prb-china/&amp;format=xml
-   5. https://www.unepfi.org/
-   6. https://www.unepfi.org/about/
-   7. https://www.unepfi.org/about/
-   8. https://www.unepfi.org/about/about-us/history/
-   9. https://www.unepfi.org/about/30-years-of-unep-fi/
-  10. https://www.unepfi.org/about/structure/
-  11. https://www.unepfi.org/about/structure/leadership-council/
-  12. https://www.unepfi.org/about/structure/global-steering-committee/
-  13. https://www.unepfi.org/banking/governance/banking-board/
-  14. https://www.unepfi.org/insurance/insurance/psi-board/
-  15. https://www.unepfi.org/about/structure/secretariat/
-  16. https://www.unepfi.org/about/employment/
-  17. https://www.unepfi.org/about/contact/
-  18. https://www.unepfi.org/about/30-years-of-unep-fi/
-  19. https://www.unepfi.org/news/remembering-richard-hansen-our-humble-high-flyer/
-  20. https://www.unepfi.org/news/remembering-richard-hansen-our-humble-high-flyer/
-  21. https://www.unepfi.org/members/
-  22. https://www.unepfi.org/members/
-  23. https://www.unepfi.org/supporting-institutions/
-  24. https://www.unepfi.org/membership/
-  25. https://www.unepfi.org/extranet/
-  26. https://www.unepfi.org/regions/asia-pacific/china/prb-china/
-  27. https://www.unepfi.org/banking/bankingprinciples/
-  28. https://www.unepfi.org/banking/bankingprinciples/
-  29. https://www.unepfi.org/banking/bankingprinciples/prb-academy/
-  30. https://www.unepfi.org/net-zero-banking/#new_tab
-  31. https://www.unepfi.org/climate-change/tcfd/tcfd-for-banks/#new_tab
-  32. https://www.unepfi.org/banking/bankingprinciples/
-  33. https://www.unepfi.org/insurance/insurance/
-  34. https://www.unepfi.org/insurance/insurance/
-  35. https://www.unepfi.org/net-zero-insurance/
-  36. https://www.unepfi.org/investment/investment/
-  37. https://www.unepfi.org/investment/investment/
-  38. https://www.unepfi.org/net-zero-alliance/
-  39. https://www.unepfi.org/legal-framework-for-impact/
-  40. https://www.unepfi.org/policy-and-regulation/
-  41. https://www.unepfi.org/policy-and-regulation/regional-inititatives/
-  42. https://www.unepfi.org/industries/banking/principles-for-responsible-banking-to-strengthen-climate-ambition-to-meet-increased-expectations/
-  43. https://www.unepfi.org/industries/banking/unep-fi-reappointed-as-observer-in-eu-platform-on-sustainable-finance/
-  44. https://www.unepfi.org/insurance/insurance/
-  45. https://www.unepfi.org/insurance/insurance/projects/
-  46. https://www.unepfi.org/themes/climate-change/turning-point-how-policymakers-can-shift-the-trillions-needed-for-the-net-zero-transition/
-  47. https://www.unepfi.org/regions/asia-pacific/china/prb-china/
-  48. https://www.unepfi.org/climate-change/climate-change/
-  49. https://www.unepfi.org/net-zero-alliance/
-  50. https://www.unepfi.org/net-zero-banking/
-  51. https://www.unepfi.org/net-zero-insurance/
-  52. https://www.unepfi.org/climate-change/net-zero-export-credit-agencies/
-  53. https://www.unepfi.org/climate-change/tcfd/
-  54. https://www.unepfi.org/climate-change/climate-change/
-  55. https://www.unepfi.org/nature/nature/
-  56. https://www.unepfi.org/nature/tnfd/
-  57. https://www.unepfi.org/blue-finance/#new_tab
-  58. https://www.unepfi.org/nature/food-systems/
-  59. https://www.unepfi.org/nature/nature/
-  60. https://www.unepfi.org/pollution-and-circular-economy/pollution-and-circular-economy/
-  61. https://www.unepfi.org/pollution-and-circular-economy/resources/
-  62. https://www.unepfi.org/pollution-and-circular-economy/get-involved/
-  63. https://www.unepfi.org/pollution-and-circular-economy/pollution-and-circular-economy/
-  64. https://www.unepfi.org/impact/positive-impact/
-  65. https://www.unepfi.org/impact/impact-protocol/
-  66. https://www.unepfi.org/impact/unep-fi-impact-analysis-tools/
-  67. https://www.unepfi.org/impact/impact-management-platform/
-  68. https://www.unepfi.org/impact/positive-impact/
-  69. https://www.unepfi.org/social-issues/social-issues/
-  70. https://www.unepfi.org/social-issues/social-issues/
-  71. https://www.unepfi.org/social-issues/just-transition/
-  72. https://www.unepfi.org/social-issues/financial-health-and-inclusion/
-  73. https://www.unepfi.org/social-issues/gender/
-  74. https://www.unepfi.org/themes/climate-change/unep-fi-at-cop-28/
-  75. https://www.unepfi.org/themes/climate-change/export-credit-agencies-supporting-billions-in-global-trade-form-net-zero-alliance/
-  76. https://www.unepfi.org/nature/getting-started/
-  77. https://www.unepfi.org/blue-finance/
-  78. https://www.unepfi.org/news/leading-financial-institutions-input-into-next-round-of-negotiations-to-redirect-finance-to-end-plastic-pollution/
-  79. https://www.unepfi.org/industries/banking/impact-protocol/
-  80. https://www.unepfi.org/regions/
-  81. https://www.unepfi.org/regions/africa-middle-east/
-  82. https://www.unepfi.org/regions/africa-middle-east/unep-fi-regional-roundtable-africa-and-middle-east-2023/
-  83. https://www.unepfi.org/knowledge-platform/
-  84. https://www.unepfi.org/regions/asia-pacific/
-  85. https://www.unepfi.org/regions/asia-pacific/unep-fi-regional-roundtable-asia-pacific-2023/
-  86. https://www.unepfi.org/regions/europe/
-  87. https://www.unepfi.org/banking/initiatives/eu-taxonomy/
-  88. https://www.unepfi.org/events/unep-fi-regional-roundtable-europe-2023/
-  89. https://www.unepfi.org/regions/latin-america-caribbean/
-  90. https://www.unepfi.org/regions/north-america/
-  91. https://www.unepfi.org/rrt23-na-recordings/
-  92. https://www.unepfi.org/regions/asia-pacific/china/prb-china/
-  93. https://www.unepfi.org/category/events/
-  94. https://www.unepfi.org/events/regional-roundtables-on-sustainable-finance-2023/
-  95. https://www.unepfi.org/category/events/?ca[0]=343&amp;concluded=1
-  96. https://www.unepfi.org/category/events/?ca[0]=204
-  97. https://www.unepfi.org/category/news/
-  98. https://www.unepfi.org/category/publications/
-  99. https://www.unepfi.org/tools/
- 100. https://www.unepfi.org/training/training/
- 101. https://www.unepfi.org/industries/banking/new-principles-for-responsible-banking-academy-announced/
- 102. https://www.unepfi.org/training/training/
- 103. https://www.unepfi.org/events/global-roundtable-2022/
- 104. https://www.unepfi.org/category/events/
- 105. https://www.unepfi.org/category/events/unepfi-roundtable/
- 106. https://www.unepfi.org/events/global-roundtable-2022/
- 107. https://www.unepfi.org/themes/climate-change/2023-climate-risk-landscape/
- 108. https://www.unepfi.org/category/themes/climate-change/
- 109. https://www.unepfi.org/category/publications/
- 110. https://www.unepfi.org/category/themes/climate-change/tcfd/
- 111. https://www.unepfi.org/themes/climate-change/2023-climate-risk-landscape/
- 112. https://www.unepfi.org/publications/the-portfolio-impact-analysis-tools-for-banks-version-3/
- 113. https://www.unepfi.org/category/publications/
- 114. https://www.unepfi.org/category/themes/impact/
- 115. https://www.unepfi.org/publications/the-portfolio-impact-analysis-tools-for-banks-version-3/
- 116. https://www.unepfi.org/
- 117. https://www.unepfi.org/regions/
- 118. https://www.unepfi.org/regions/asia-pacific/
- 119. https://www.unepfi.org/regions/asia-pacific/china/
- 120. https://www.unepfi.org/banking/bankingprinciples/sigs/
- 121. https://www.unepfi.org/wordpress/wp-content/uploads/2021/05/2-Key-Steps-PRB-Being-a-Signatory-Chinese.pdf
- 122. https://www.unepfi.org/publications/guidance-on-impact-analysis/
- 123. https://www.unepfi.org/positive-impact/unep-fi-impact-analysis-tools/portfolio-impact-tool/
- 124. https://www.unepfi.org/banking/bankingprinciples/resources-for-implementation/climate-target-setting/
- 125. https://www.unepfi.org/wordpress/wp-content/uploads/2021/12/PRB-Guidance-Resource-Efficiency.pdf
- 126. https://www.unepfi.org/publications/guidance-on-biodiversity-target-setting/
- 127. https://www.unepfi.org/banking/bankingprinciples/resources-for-implementation/guidance-on-financial-inclusion/
- 128. https://www.unepfi.org/banking/bankingprinciples/resources-for-implementation/guidance-on-gender-equality/
- 129. https://www.unepfi.org/wordpress/wp-content/uploads/2021/05/PRB-Reporting-Guidance-Document-V1-Chinese.pdf
- 130. https://www.unepfi.org/banking/bankingprinciples/resources-for-implementation/guidance-on-reporting/
- 131. https://www.unepfi.org/wordpress/wp-content/uploads/2021/05/3-PRB-Reporting-and-Self-Assessment-Template-Chinese.pdf
- 132. https://www.unepfi.org/prb-reporting-and-self-assessment-template/
- 133. https://www.unepfi.org/banking/bankingprinciples/resources-for-implementation/guidance-for-assurance-providers/
- 134. https://www.unepfi.org/regions/africa-middle-east/
- 135. https://www.unepfi.org/regions/asia-pacific/
- 136. https://www.unepfi.org/regions/asia-pacific/china/
- 137. https://www.unepfi.org/regions/asia-pacific/china/prb-china/
- 138. https://www.unepfi.org/regions/asia-pacific/china/psi-china/
- 139. https://www.unepfi.org/regions/asia-pacific/japan/
- 140. https://www.unepfi.org/regions/asia-pacific/korea-group/
- 141. https://www.unepfi.org/regions/asia-pacific/taxonomy-asia/
- 142. https://www.unepfi.org/regions/europe/
- 143. https://www.unepfi.org/regions/latin-america-caribbean/
- 144. https://www.unepfi.org/regions/north-america/
- 145. https://www.unepfi.org/about/
- 146. https://www.unepfi.org/about/structure/
- 147. https://www.unepfi.org/about/structure/leadership-council/
- 148. https://www.unepfi.org/about/structure/global-steering-committee/
- 149. https://www.unepfi.org/members
- 150. https://www.unepfi.org/supporting-institutions
- 151. https://www.unepfi.org/membership
- 152. https://www.unepfi.org/extranet
- 153. https://www.unepfi.org/banking
- 154. https://www.unepfi.org/insurance
- 155. https://www.unepfi.org/investment
- 156. https://www.unepfi.org/policy-and-regulation/
- 157. https://www.unepfi.org/climate-change
- 158. https://www.unepfi.org/nature
- 159. https://www.unepfi.org/social-issues
- 160. https://www.unepfi.org/pollution-and-circular-economy/pollution-and-circular-economy/
- 161. https://www.unepfi.org/regions
- 162. https://www.unepfi.org/events/regional-roundtables-on-sustainable-finance-2023/
- 163. https://www.unepfi.org/initiatives
- 164. https://www.unepfi.org/publications
- 165. https://www.unepfi.org/news
- 166. https://www.unepfi.org/category/events/
- 167. https://www.unepfi.org/training
- 168. https://www.unepfi.org/tools
- 169. https://www.unep.org/
- 170. https://www.unep.org/dtie/Home/tabid/6459/Default.aspx
- 171. https://www.unep-wcmc.org/
- 172. https://www.unep.org/dtie/Branches/EconomyandTrade/tabid/29690/Default.aspx
- 173. https://www.unglobalcompact.org/
- 174. https://web.unep.org/inquiry/
- 175. https://climateaction.org/
- 176. https://globalcanopy.org/
- 177. http://www.unpri.org/
- 178. https://www.unepfi.org/
-
-   Hidden links:
- 180. https://www.youtube.com/channel/UCwR4zo4_G4am3br7EzyU0zg
- 181. https://www.facebook.com/UNEPFinanceInitiative/
- 182. http://twitter.com/UNEP_FI
- 183. https://www.linkedin.com/company/united-nations-environment-programme-finance-initiative/
- 184. https://www.unepfi.org/regions/asia-pacific/china/prb-china/#to-top
 </text>
 </page> §
 <page="ch-26">
 <text>
-   #[1]alternate
+   #alternate
 
    Sorry, you need to enable JavaScript to visit this website.
 
-   [2]Skip to main content
+   Skip to main content
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-TN8255
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TN8255
 
-   [4]Close Menu Button
+   Close Menu Button
 
 请选择地点
 
    您正在浏览
    雀巢官方网站
      * Global
-          + [5]www.nestle.com
+          + www.nestle.com
           + Africa &amp; Middle East
-               o [6]Central-West Africa
-               o [7]East &amp; Southern Africa
-               o [8]Iran
-               o [9]Israel (Osem)
-               o [10]Middle East &amp; North Africa AR
-               o [11]Middle East &amp; North Africa EN
-               o [12]Türkiye
+               o Central-West Africa
+               o East &amp; Southern Africa
+               o Iran
+               o Israel (Osem)
+               o Middle East &amp; North Africa AR
+               o Middle East &amp; North Africa EN
+               o Türkiye
           + Americas
-               o [13]Argentina
-               o [14]Bolivia
-               o [15]Brazil
-               o [16]Canada EN
-               o [17]Canada FR
-               o [18]Caribbean
-               o [19]Central America
-               o [20]Chile
-               o [21]Colombia
-               o [22]Dominican Republic
-               o [23]Ecuador
-               o [24]Mexico
-               o [25]Paraguay
-               o [26]Peru
-               o [27]United States
-               o [28]Uruguay
-               o [29]Venezuela
+               o Argentina
+               o Bolivia
+               o Brazil
+               o Canada EN
+               o Canada FR
+               o Caribbean
+               o Central America
+               o Chile
+               o Colombia
+               o Dominican Republic
+               o Ecuador
+               o Mexico
+               o Paraguay
+               o Peru
+               o United States
+               o Uruguay
+               o Venezuela
           + Asia &amp; Oceania
-               o [30]Australia
-               o [31]Bangladesh
-               o [32]Hong Kong SAR, Greater China EN
-               o [33]Hong Kong SAR, Greater China ZH
-               o [34]India
-               o [35]Indonesia
-               o [36]Japan
-               o [37]Korea
-               o [38]Mainland China, Greater China
-               o [39]Malaysia
-               o [40]New Zealand
-               o [41]Pakistan
-               o [42]Philippines
-               o [43]Singapore
-               o [44]Sri Lanka
-               o [45]Taiwan, Greater China
-               o [46]Thailand EN
-               o [47]Thailand TH
-               o [48]Vietnam
+               o Australia
+               o Bangladesh
+               o Hong Kong SAR, Greater China EN
+               o Hong Kong SAR, Greater China ZH
+               o India
+               o Indonesia
+               o Japan
+               o Korea
+               o Mainland China, Greater China
+               o Malaysia
+               o New Zealand
+               o Pakistan
+               o Philippines
+               o Singapore
+               o Sri Lanka
+               o Taiwan, Greater China
+               o Thailand EN
+               o Thailand TH
+               o Vietnam
           + Europe
-               o [49]Austria
-               o [50]Belgium FR
-               o [51]Belgium NL
-               o [52]Bosnia &amp; Herzegovina
-               o [53]Bulgaria
-               o [54]Croatia
-               o [55]Czech Republic
-               o [56]Denmark
-               o [57]Estonia
-               o [58]Finland
-               o [59]France
-               o [60]Germany
-               o [61]Greece
-               o [62]Hungary
-               o [63]Ireland
-               o [64]Italy
-               o [65]Latvia
-               o [66]Lithuania
-               o [67]Macedonia
-               o [68]Malta
-               o [69]Moldova RO
-               o [70]Moldova RU
-               o [71]Netherlands
-               o [72]Norway
-               o [73]Poland
-               o [74]Portugal
-               o [75]Romania
-               o [76]Russia
-               o [77]Serbia
-               o [78]Slovakia
-               o [79]Slovenia
-               o [80]Spain ES
-               o [81]Spain CA
-               o [82]Sweden
-               o [83]Switzerland DE
-               o [84]Switzerland FR
-               o [85]Türkiye
-               o [86]UK
-               o [87]Ukraine
+               o Austria
+               o Belgium FR
+               o Belgium NL
+               o Bosnia &amp; Herzegovina
+               o Bulgaria
+               o Croatia
+               o Czech Republic
+               o Denmark
+               o Estonia
+               o Finland
+               o France
+               o Germany
+               o Greece
+               o Hungary
+               o Ireland
+               o Italy
+               o Latvia
+               o Lithuania
+               o Macedonia
+               o Malta
+               o Moldova RO
+               o Moldova RU
+               o Netherlands
+               o Norway
+               o Poland
+               o Portugal
+               o Romania
+               o Russia
+               o Serbia
+               o Slovakia
+               o Slovenia
+               o Spain ES
+               o Spain CA
+               o Sweden
+               o Switzerland DE
+               o Switzerland FR
+               o Türkiye
+               o UK
+               o Ukraine
 
    深色模式 (BU[ ]N) i [_]
 
-   [88]您目前正在雀巢中国 Global links dropdown
+   您目前正在雀巢中国 Global links dropdown
 
-     * [89]联系我们
+     * 联系我们
 
-   深色模式：通过切换到深色模式，为实现更可持续的体验做出贡献。[90]了解更多。
-   [91]Home
+   深色模式：通过切换到深色模式，为实现更可持续的体验做出贡献。了解更多。
+   Home
 
    Sort by
 
@@ -1677,272 +1421,271 @@ References
 
 Main navigation
 
-     * [92]Home
-       [93]Close Menu Button [94]返回
-       [95]前往 Home
-     * [96]关于雀巢
-       [97]Close Menu Button [98]返回
+     * Home
+       Close Menu Button 返回
+       前往 Home
+     * 关于雀巢
+       Close Menu Button 返回
        关于雀巢
        我们是雀巢，打造“优质食品，美好生活”的公司。我们充分发掘食品的力量，提升每个个体的生活品质，无论当下还是未来。
-       [99]前往 关于雀巢
-          + [100]公司简介
-            [101]返回
-            [102]前往 公司简介
-          + [103]雀巢的“价值创造”战略
-            [104]返回
-            [105]前往 雀巢的“价值创造”战略
-          + [106]我们如何开展业务
-            [107]返回
-            [108]前往 我们如何开展业务
-               o [109]我们的目标和价值观
-                 [110]返回
-                 [111]前往 我们的目标和价值观
-               o [112]集团业务原则
-                 [113]返回
-                 [114]前往 集团业务原则
-               o [115]大声说出来
-                 [116]返回
-                 [117]前往 大声说出来
-          + [118]创新、科学与技术
-            [119]返回
-            [120]前往 创新、科学与技术
-               o [121]加快产品上市速度
-                 [122]返回
-                 [123]前往 加快产品上市速度
-               o [124]领先的可持续发展技术
-                 [125]返回
-                 [126]前往 领先的可持续发展技术
-               o [127]食品安全和质量
-                 [128]返回
-                 [129]前往 食品安全和质量
-          + [130]我们的历史
-            [131]返回
-            [132]前往 我们的历史
-               o [133]探索雀巢发展历程
-                 [134]返回
-                 [135]前往 探索雀巢发展历程
-               o [136]雀巢创始人亨利·雀巢 (Henri Nestlé)
-                 [137]返回
-                 [138]前往 雀巢创始人亨利·雀巢 (Henri Nestlé)
-          + [139]生命最初1000天的营养
-            [140]返回
-            [141]前往 生命最初1000天的营养
-               o [142]推广婴儿营养：求之有道
-                 [143]返回
-                 [144]前往 推广婴儿营养：求之有道
-     * [145]我们的故事
-       [146]Close Menu Button [147]返回
-       [148]前往 我们的故事
-     * [149]可持续发展
-       [150]Close Menu Button [151]返回
+       前往 关于雀巢
+          + 公司简介
+            返回
+            前往 公司简介
+          + 雀巢的“价值创造”战略
+            返回
+            前往 雀巢的“价值创造”战略
+          + 我们如何开展业务
+            返回
+            前往 我们如何开展业务
+               o 我们的目标和价值观
+                 返回
+                 前往 我们的目标和价值观
+               o 集团业务原则
+                 返回
+                 前往 集团业务原则
+               o 大声说出来
+                 返回
+                 前往 大声说出来
+          + 创新、科学与技术
+            返回
+            前往 创新、科学与技术
+               o 加快产品上市速度
+                 返回
+                 前往 加快产品上市速度
+               o 领先的可持续发展技术
+                 返回
+                 前往 领先的可持续发展技术
+               o 食品安全和质量
+                 返回
+                 前往 食品安全和质量
+          + 我们的历史
+            返回
+            前往 我们的历史
+               o 探索雀巢发展历程
+                 返回
+                 前往 探索雀巢发展历程
+               o 雀巢创始人亨利·雀巢 (Henri Nestlé)
+                 返回
+                 前往 雀巢创始人亨利·雀巢 (Henri Nestlé)
+          + 生命最初1000天的营养
+            返回
+            前往 生命最初1000天的营养
+               o 推广婴儿营养：求之有道
+                 返回
+                 前往 推广婴儿营养：求之有道
+     * 我们的故事
+       Close Menu Button 返回
+       前往 我们的故事
+     * 可持续发展
+       Close Menu Button 返回
        可持续发展
        我们相信食品蕴含着强大的力量，可以提升人们的生活品质。我们秉承这一理念，承诺持续利用我们的全球影响力、我们的资源和专业知识，为人类和整
        个地球创造更健康的未来。
-       [152]前往 可持续发展
-          + [153]我们的可持续之道
-            [154]返回
-            [155]前往 我们的可持续之道
-               o [156]再生一代
-                 [157]返回
-                 [158]前往 再生一代
-          + [159]气候行动
-            [160]返回
-            [161]前往 气候行动
-               o [162]通往净零碳排放之路
-                 [163]返回
-                 [164]前往 通往净零碳排放之路
-               o [165]在经营活动中落实气候行动
-                 [166]返回
-                 [167]前往 在经营活动中落实气候行动
-               o [168]我们各个品牌的气候行动
-                 [169]返回
-                 [170]前往 我们各个品牌的气候行动
-               o [171]齐心协力，共同倡导气候行动
-                 [172]返回
-                 [173]前往 齐心协力，共同倡导气候行动
-               o [174]再生农业
-                 [175]返回
-                 [176]前往 再生农业
-          + [177]减少浪费
-            [178]返回
-            [179]前往 减少浪费
-               o [180]雀巢无废包装策略
-                 [181]返回
-                 [182]前往 雀巢无废包装策略
-               o [183]防止塑料污染的关键行动
-                 [184]返回
-                 [185]前往 防止塑料污染的关键行动
-               o [186]减少食物浪费和损失
-                 [187]返回
-                 [188]前往 减少食物浪费和损失
-          + [189]保护大自然
-            [190]返回
-            [191]前往 保护大自然
-               o [192]保护和巩固生物多样性
-                 [193]返回
-                 [194]前往 保护和巩固生物多样性
-               o [195]可再生农业
-                 [196]返回
-                 [197]前往 可再生农业
-               o [198]实现森林正效
-                 [199]返回
-                 [200]前往 实现森林正效
-               o [201]我们对待自然、生物多样性和环境的态度
-                 [202]返回
-                 [203]前往 我们对待自然、生物多样性和环境的态度
-          + [204]促进营养和健康
-            [205]返回
-            [206]前往 促进营养和健康
-               o [207]推动所有年龄段人们的均衡饮食
-                 [208]返回
-                 [209]前往 推动所有年龄段人们的均衡饮食
-               o [210]可获得的营养
-                 [211]返回
-                 [212]前往 可获得的营养
-               o [213]更美味、更健康的食物
-                 [214]返回
-                 [215]前往 更美味、更健康的食物
-               o [216]更健康的生活
-                 [217]返回
-                 [218]前往 更健康的生活
-               o [219]食品质量和安全
-                 [220]返回
-                 [221]前往 食品质量和安全
-          + [222]水资源管理
-            [223]返回
-            [224]前往 水资源管理
-               o [225]统筹兼顾的水管理方法
-                 [226]返回
-                 [227]前往 统筹兼顾的水管理方法
-               o [228]日常业务活动中的可持续水资源管理
-                 [229]返回
-                 [230]前往 日常业务活动中的可持续水资源管理
-               o [231]雀巢农业活动中的可持续水资源管理
-                 [232]返回
-                 [233]前往 雀巢农业活动中的可持续水资源管理
-               o [234]“雀巢水资源承诺”助力塑造积极的水影响
-                 [235]返回
-                 [236]前往 “雀巢水资源承诺”助力塑造积极的水影响
-          + [237]人权
-            [238]返回
-            [239]前往 人权
-          + [240]以可持续方式采购原材料
-            [241]返回
-            [242]前往 以可持续方式采购原材料
-               o [243]振兴农业社区和生态系统
-                 [244]返回
-                 [245]前往 振兴农业社区和生态系统
-               o [246]可持续咖啡
-                 [247]返回
-                 [248]前往 可持续咖啡
-               o [249]奶业供应链
-                 [250]返回
-                 [251]前往 奶业供应链
-               o [252]大豆的采购
-                 [253]返回
-                 [254]前往 大豆的采购
-               o [255]谷物粮食的采购
-                 [256]返回
-                 [257]前往 谷物粮食的采购
-          + [258]关心人才，关怀社会
-            [259]返回
-            [260]前往 关心人才，关怀社会
-               o [261]帮助员工做好迎接未来的准备
-                 [262]返回
-                 [263]前往 帮助员工做好迎接未来的准备
-               o [264]全球青年计划 - 雀巢需要年轻一代
-                 [265]返回
-                 [266]前往 全球青年计划 - 雀巢需要年轻一代
-               o [267]为女性赋能
-                 [268]返回
-                 [269]前往 为女性赋能
-               o [270]工作场所的健康、安全和幸福生活
-                 [271]返回
-                 [272]前往 工作场所的健康、安全和幸福生活
-          + [273]合乎伦理道德且负责任的商业实践
-            [274]返回
-            [275]前往 合乎伦理道德且负责任的商业实践
-          + [276]工作成果和报告
-            [277]返回
-            [278]前往 工作成果和报告
+       前往 可持续发展
+          + 我们的可持续之道
+            返回
+            前往 我们的可持续之道
+               o 再生一代
+                 返回
+                 前往 再生一代
+          + 气候行动
+            返回
+            前往 气候行动
+               o 通往净零碳排放之路
+                 返回
+                 前往 通往净零碳排放之路
+               o 在经营活动中落实气候行动
+                 返回
+                 前往 在经营活动中落实气候行动
+               o 我们各个品牌的气候行动
+                 返回
+                 前往 我们各个品牌的气候行动
+               o 齐心协力，共同倡导气候行动
+                 返回
+                 前往 齐心协力，共同倡导气候行动
+               o 再生农业
+                 返回
+                 前往 再生农业
+          + 减少浪费
+            返回
+            前往 减少浪费
+               o 雀巢无废包装策略
+                 返回
+                 前往 雀巢无废包装策略
+               o 防止塑料污染的关键行动
+                 返回
+                 前往 防止塑料污染的关键行动
+               o 减少食物浪费和损失
+                 返回
+                 前往 减少食物浪费和损失
+          + 保护大自然
+            返回
+            前往 保护大自然
+               o 保护和巩固生物多样性
+                 返回
+                 前往 保护和巩固生物多样性
+               o 可再生农业
+                 返回
+                 前往 可再生农业
+               o 实现森林正效
+                 返回
+                 前往 实现森林正效
+               o 我们对待自然、生物多样性和环境的态度
+                 返回
+                 前往 我们对待自然、生物多样性和环境的态度
+          + 促进营养和健康
+            返回
+            前往 促进营养和健康
+               o 推动所有年龄段人们的均衡饮食
+                 返回
+                 前往 推动所有年龄段人们的均衡饮食
+               o 可获得的营养
+                 返回
+                 前往 可获得的营养
+               o 更美味、更健康的食物
+                 返回
+                 前往 更美味、更健康的食物
+               o 更健康的生活
+                 返回
+                 前往 更健康的生活
+               o 食品质量和安全
+                 返回
+                 前往 食品质量和安全
+          + 水资源管理
+            返回
+            前往 水资源管理
+               o 统筹兼顾的水管理方法
+                 返回
+                 前往 统筹兼顾的水管理方法
+               o 日常业务活动中的可持续水资源管理
+                 返回
+                 前往 日常业务活动中的可持续水资源管理
+               o 雀巢农业活动中的可持续水资源管理
+                 返回
+                 前往 雀巢农业活动中的可持续水资源管理
+               o “雀巢水资源承诺”助力塑造积极的水影响
+                 返回
+                 前往 “雀巢水资源承诺”助力塑造积极的水影响
+          + 人权
+            返回
+            前往 人权
+          + 以可持续方式采购原材料
+            返回
+            前往 以可持续方式采购原材料
+               o 振兴农业社区和生态系统
+                 返回
+                 前往 振兴农业社区和生态系统
+               o 可持续咖啡
+                 返回
+                 前往 可持续咖啡
+               o 奶业供应链
+                 返回
+                 前往 奶业供应链
+               o 大豆的采购
+                 返回
+                 前往 大豆的采购
+               o 谷物粮食的采购
+                 返回
+                 前往 谷物粮食的采购
+          + 关心人才，关怀社会
+            返回
+            前往 关心人才，关怀社会
+               o 帮助员工做好迎接未来的准备
+                 返回
+                 前往 帮助员工做好迎接未来的准备
+               o 全球青年计划 - 雀巢需要年轻一代
+                 返回
+                 前往 全球青年计划 - 雀巢需要年轻一代
+               o 为女性赋能
+                 返回
+                 前往 为女性赋能
+               o 工作场所的健康、安全和幸福生活
+                 返回
+                 前往 工作场所的健康、安全和幸福生活
+          + 合乎伦理道德且负责任的商业实践
+            返回
+            前往 合乎伦理道德且负责任的商业实践
+          + 工作成果和报告
+            返回
+            前往 工作成果和报告
 
 Header persistent submenu
           + 联系我们
             contactus
-     * [279]品牌与产品
-       [280]Close Menu Button [281]返回
+     * 品牌与产品
+       Close Menu Button 返回
        Learn about Nestlé’s brands and what we’re doing to make our
        products tastier and healthier.
-       [282]前往 品牌与产品
+       前往 品牌与产品
 
 Header persistent submenu
           + 联系我们
             contactus
-     * [283]科研创新
-       [284]Close Menu Button [285]返回
-       [286]前往 科研创新
+     * 科研创新
+       Close Menu Button 返回
+       前往 科研创新
 
 Secondary menu
 
-     * [287]职业
-       [288]Close Menu Button [289]返回
+     * 职业
+       Close Menu Button 返回
        careers_HP_banner
        不管您是工作多年还是刚刚毕业，都可以在雀巢找到属于您的工作机会。来我们这发现属于您的工作机会吧。
-       [290]前往 职业
-          + [291]Log in
-            [292]返回
-            [293]前往 Log in
-          + [294]找工作
-            [295]返回
-            [296]前往 找工作
-          + [297]按照职业领域
-            [298]返回
-            [299]前往 按照职业领域
-               o [300]行政部门
-                 [301]返回
-               o [302]传播部门
-                 [303]返回
-               o [304]工程部门
-                 [305]返回
-               o [306]财务部门
-                 [307]返回
-               o [308]人力资源部门
-                 [309]返回
-               o [310]信息技术部门
-                 [311]返回
-               o [312]法务部门
-                 [313]返回
-               o [314]实习与学徒
-                 [315]返回
-               o [316]市场部门
-                 [317]返回
-               o [318]研发部门
-                 [319]返回
-               o [320]工艺与生产
-                 [321]返回
-               o [322]销售部门
-                 [323]返回
-               o [324]供应链和采购部
-                 [325]返回
-          + [326]在校生和毕业生
-            [327]返回
-            [328]前往 在校生和毕业生
-          + [329]多元化与包容性
-            [330]返回
-            [331]前往 多元化与包容性
+       前往 职业
+          + Log in
+            返回
+            前往 Log in
+          + 找工作
+            返回
+            前往 找工作
+          + 按照职业领域
+            返回
+            前往 按照职业领域
+               o 行政部门
+                 返回
+               o 传播部门
+                 返回
+               o 工程部门
+                 返回
+               o 财务部门
+                 返回
+               o 人力资源部门
+                 返回
+               o 信息技术部门
+                 返回
+               o 法务部门
+                 返回
+               o 实习与学徒
+                 返回
+               o 市场部门
+                 返回
+               o 研发部门
+                 返回
+               o 工艺与生产
+                 返回
+               o 销售部门
+                 返回
+               o 供应链和采购部
+                 返回
+          + 在校生和毕业生
+            返回
+            前往 在校生和毕业生
+          + 多元化与包容性
+            返回
+            前往 多元化与包容性
 </text>
 </page> §
 <page="ch-27">
 <text>
-   #[1]Google Cloud [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate
+   #Google Cloud alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
 
    (BUTTON)
-   [13]Google Cloud
+   Google Cloud
      *
 
-   [14]概览
+   概览
    (BUTTON) close
      * 加快数字化转型的速度
      * 在数字化转型之旅中，无论您的企业是处于早期阶段还是已初见成效，Google Cloud 都可以帮助解决最棘手的难题。
@@ -1951,34 +1694,34 @@ Secondary menu
 <page="ch-28">
 <text>
    湛江市人民政府
-   | [1]湛江市政府门户网站 | [2]繁体版 | [3]移动版 | 无障碍阅读 | 长者助手
+   | 湛江市政府门户网站 | 繁体版 | 移动版 | 无障碍阅读 | 长者助手
    湛江市应急管理局
    ____________________ (BUTTON) 搜索
-     * [4]首页
-     * [5]机构概况
-          + [6]机构概况
-          + [7]领导信息
-     * [8]政务公开
-          + [9]工作动态
-          + [10]部门文件
-          + [11]政策解读
-          + [12]通知公告
-          + [13]培训考核
-          + [14]信息公开年报
-          + [15]财政预决算
-          + [16]防灾减灾
-          + [17]综合监管
-          + [18]专题专栏
-          + [19]重点领域信息公开
-          + [20]行政执法
-          + [21]政府信息公开
-          + [22]信息公开指南
-          + [23]依申请公开
-          + [24]地震信息专栏
-     * [25]政务服务
-     * [26]互动交流
+     * 首页
+     * 机构概况
+          + 机构概况
+          + 领导信息
+     * 政务公开
+          + 工作动态
+          + 部门文件
+          + 政策解读
+          + 通知公告
+          + 培训考核
+          + 信息公开年报
+          + 财政预决算
+          + 防灾减灾
+          + 综合监管
+          + 专题专栏
+          + 重点领域信息公开
+          + 行政执法
+          + 政府信息公开
+          + 信息公开指南
+          + 依申请公开
+          + 地震信息专栏
+     * 政务服务
+     * 互动交流
 
-   当前位置   [27]首页 >gt; [28]部门导航 >gt; [29]湛江市应急管理局 >gt; [30]政务公开 >gt; [31]专题专栏
+   当前位置   首页 >gt; 部门导航 >gt; 湛江市应急管理局 >gt; 政务公开 >gt; 专题专栏
 
 安全人的责任：就是把你们的责任和你说清楚
 
@@ -2090,468 +1833,231 @@ Secondary menu
 
    【打印本页】 【关闭窗口】
 
-   [32]中国政府网
+   中国政府网
    国务院部门网站
-     * [33]外交部
-     * [34]国防部
-     * [35]国家发展和改革委员会
-     * [36]教育部
-     * [37]科学技术部
-     * [38]工业和信息化部
-     * [39]国家民族事务委员会
-     * [40]公安部
-     * [41]民政部
-     * [42]司法部
-     * [43]财政部
-     * [44]人力资源和社会保障部
-     * [45]自然资源部
-     * [46]生态环境部
-     * [47]住房和城乡建设部
-     * [48]交通运输部
-     * [49]水利部
-     * [50]农业农村部
-     * [51]商务部
-     * [52]文化和旅游部
-     * [53]国家卫生健康委员会
-     * [54]退役军人事务部
-     * [55]应急管理部
-     * [56]中国人民银行
-     * [57]国家审计署
-     * [58]国家航天局
-     * [59]国家原子能机构
-     * [60]国家核安全局
-     * [61]国务院国有资产监督管理委员会
-     * [62]中国海关总署
-     * [63]国家税务总局
-     * [64]国家市场监督管理总局
-     * [65]国家广播电视总局
-     * [66]国家体育总局
-     * [67]国家统计局
-     * [68]国家国际发展合作署
-     * [69]国家医疗保障局
-     * [70]国务院参事室
-     * [71]国家机关事务管理局
-     * [72]国家认证认可监督管理委员会
-     * [73]国家标准管理委员会
-     * [74]国家版权局
-     * [75]国务院港澳事务办公室
-     * [76]国务院研究室
-     * [77]国务院侨务办公室
-     * [78]国务院台湾事务办公室
-     * [79]国家互联网信息办公室
-     * [80]国务院新闻办公室
-     * [81]新华通讯社
-     * [82]中国科学院
-     * [83]中国社会科学院
-     * [84]中国工程院
-     * [85]国务院发展研究中心
-     * [86]中国气象局
-     * [87]中国银行保险监督管理委员会
-     * [88]中国证券监督管理委员会
-     * [89]国家信访局
-     * [90]国家粮食和物资储备局
-     * [91]国家能源局
-     * [92]国家国防科技工业局
-     * [93]国家烟草专卖局
-     * [94]国家林业和草原局
-     * [95]国家铁路局
-     * [96]中国民用航空局
-     * [97]国家邮政局
-     * [98]国家文物局
-     * [99]国家中医药管理局
-     * [100]国家外汇管理局
-     * [101]国家药品监督管理局
-     * [102]国家知识产权局
-     * [103]国家公园管理局
-     * [104]国家公务员局
-     * [105]国家档案局
-     * [106]国家保密局
-     * [107]国家密码管理局
+     * 外交部
+     * 国防部
+     * 国家发展和改革委员会
+     * 教育部
+     * 科学技术部
+     * 工业和信息化部
+     * 国家民族事务委员会
+     * 公安部
+     * 民政部
+     * 司法部
+     * 财政部
+     * 人力资源和社会保障部
+     * 自然资源部
+     * 生态环境部
+     * 住房和城乡建设部
+     * 交通运输部
+     * 水利部
+     * 农业农村部
+     * 商务部
+     * 文化和旅游部
+     * 国家卫生健康委员会
+     * 退役军人事务部
+     * 应急管理部
+     * 中国人民银行
+     * 国家审计署
+     * 国家航天局
+     * 国家原子能机构
+     * 国家核安全局
+     * 国务院国有资产监督管理委员会
+     * 中国海关总署
+     * 国家税务总局
+     * 国家市场监督管理总局
+     * 国家广播电视总局
+     * 国家体育总局
+     * 国家统计局
+     * 国家国际发展合作署
+     * 国家医疗保障局
+     * 国务院参事室
+     * 国家机关事务管理局
+     * 国家认证认可监督管理委员会
+     * 国家标准管理委员会
+     * 国家版权局
+     * 国务院港澳事务办公室
+     * 国务院研究室
+     * 国务院侨务办公室
+     * 国务院台湾事务办公室
+     * 国家互联网信息办公室
+     * 国务院新闻办公室
+     * 新华通讯社
+     * 中国科学院
+     * 中国社会科学院
+     * 中国工程院
+     * 国务院发展研究中心
+     * 中国气象局
+     * 中国银行保险监督管理委员会
+     * 中国证券监督管理委员会
+     * 国家信访局
+     * 国家粮食和物资储备局
+     * 国家能源局
+     * 国家国防科技工业局
+     * 国家烟草专卖局
+     * 国家林业和草原局
+     * 国家铁路局
+     * 中国民用航空局
+     * 国家邮政局
+     * 国家文物局
+     * 国家中医药管理局
+     * 国家外汇管理局
+     * 国家药品监督管理局
+     * 国家知识产权局
+     * 国家公园管理局
+     * 国家公务员局
+     * 国家档案局
+     * 国家保密局
+     * 国家密码管理局
 
    各省区市网站
-     * [108]北京
-     * [109]天津
-     * [110]河北
-     * [111]山西
-     * [112]内蒙古
-     * [113]辽宁
-     * [114]吉林
-     * [115]黑龙江
-     * [116]上海
-     * [117]江苏
-     * [118]浙江
-     * [119]安徽
-     * [120]福建
-     * [121]江西
-     * [122]山东
-     * [123]河南
-     * [124]湖北
-     * [125]湖南
-     * [126]广东
-     * [127]广西
-     * [128]海南
-     * [129]重庆
-     * [130]四川
-     * [131]贵州
-     * [132]云南
-     * [133]西藏
-     * [134]陕西
-     * [135]甘肃
-     * [136]宁夏
-     * [137]青海
-     * [138]新疆
-     * [139]香港
-     * [140]澳门
+     * 北京
+     * 天津
+     * 河北
+     * 山西
+     * 内蒙古
+     * 辽宁
+     * 吉林
+     * 黑龙江
+     * 上海
+     * 江苏
+     * 浙江
+     * 安徽
+     * 福建
+     * 江西
+     * 山东
+     * 河南
+     * 湖北
+     * 湖南
+     * 广东
+     * 广西
+     * 海南
+     * 重庆
+     * 四川
+     * 贵州
+     * 云南
+     * 西藏
+     * 陕西
+     * 甘肃
+     * 宁夏
+     * 青海
+     * 新疆
+     * 香港
+     * 澳门
      * 台湾
-     * [141]新疆生产建设兵团
+     * 新疆生产建设兵团
 
    地级以上市网站
-     * [142]广州市
-     * [143]深圳市
-     * [144]珠海市
-     * [145]汕头市
-     * [146]佛山市
-     * [147]韶关市
-     * [148]河源市
-     * [149]梅州市
-     * [150]惠州市
-     * [151]汕尾市
-     * [152]东莞市
-     * [153]中山市
-     * [154]江门市
-     * [155]阳江市
-     * [156]湛江市
-     * [157]茂名市
-     * [158]肇庆市
-     * [159]清远市
-     * [160]潮州市
-     * [161]揭阳市
-     * [162]云浮市
+     * 广州市
+     * 深圳市
+     * 珠海市
+     * 汕头市
+     * 佛山市
+     * 韶关市
+     * 河源市
+     * 梅州市
+     * 惠州市
+     * 汕尾市
+     * 东莞市
+     * 中山市
+     * 江门市
+     * 阳江市
+     * 湛江市
+     * 茂名市
+     * 肇庆市
+     * 清远市
+     * 潮州市
+     * 揭阳市
+     * 云浮市
 
    市部门网站
-     * [163]湛江市人民政府办公室
-     * [164]湛江市发展和改革局
-     * [165]湛江市人民政府行政服务中心
-     * [166]湛江市教育局
-     * [167]湛江市科学技术局
-     * [168]湛江市工业和信息化局
-     * [169]湛江市公安局
-     * [170]湛江市民政局
-     * [171]湛江市司法局
-     * [172]湛江市财政局
-     * [173]湛江市人力资源和社会保障局
-     * [174]湛江市自然资源局
-     * [175]湛江市生态环境局
-     * [176]湛江市住房和城乡建设局
-     * [177]湛江市交通运输局
-     * [178]湛江市水务局
-     * [179]湛江市农业农村局
-     * [180]湛江市商务局
-     * [181]湛江市文化广电旅游体育局
-     * [182]湛江市卫生健康局
-     * [183]湛江市退役军人事务局
-     * [184]湛江市应急管理局
-     * [185]湛江市审计局
-     * [186]湛江市人民政府国有资产监督管理委员会
-     * [187]湛江市市场监督管理局
-     * [188]湛江市统计局
-     * [189]湛江市医疗保障局
-     * [190]湛江市金融工作局
-     * [191]湛江市城市管理和综合执法局
-     * [192]湛江市信访局
-     * [193]湛江市政务服务数据管理局
-     * [194]湛江市粮食和物资储备局
-     * [195]湛江市投资促进局
-     * [196]湛江市人民政府研究室
-     * [197]湛江市城市更新局
-     * [198]湛江市供销合作社联合社
-     * [199]湛江市湖光岩风景区管理局
-     * [200]湛江市人民政府地方志办公室
-     * [201]湛江市住房公积金管理中心
-     * [202]湛江市外事局
-     * [203]湛江市公路事务中心
-     * [204]湛江市雷州青年运河管理局
+     * 湛江市人民政府办公室
+     * 湛江市发展和改革局
+     * 湛江市人民政府行政服务中心
+     * 湛江市教育局
+     * 湛江市科学技术局
+     * 湛江市工业和信息化局
+     * 湛江市公安局
+     * 湛江市民政局
+     * 湛江市司法局
+     * 湛江市财政局
+     * 湛江市人力资源和社会保障局
+     * 湛江市自然资源局
+     * 湛江市生态环境局
+     * 湛江市住房和城乡建设局
+     * 湛江市交通运输局
+     * 湛江市水务局
+     * 湛江市农业农村局
+     * 湛江市商务局
+     * 湛江市文化广电旅游体育局
+     * 湛江市卫生健康局
+     * 湛江市退役军人事务局
+     * 湛江市应急管理局
+     * 湛江市审计局
+     * 湛江市人民政府国有资产监督管理委员会
+     * 湛江市市场监督管理局
+     * 湛江市统计局
+     * 湛江市医疗保障局
+     * 湛江市金融工作局
+     * 湛江市城市管理和综合执法局
+     * 湛江市信访局
+     * 湛江市政务服务数据管理局
+     * 湛江市粮食和物资储备局
+     * 湛江市投资促进局
+     * 湛江市人民政府研究室
+     * 湛江市城市更新局
+     * 湛江市供销合作社联合社
+     * 湛江市湖光岩风景区管理局
+     * 湛江市人民政府地方志办公室
+     * 湛江市住房公积金管理中心
+     * 湛江市外事局
+     * 湛江市公路事务中心
+     * 湛江市雷州青年运河管理局
 
    县市区政府
-     * [205]赤坎区人民政府
-     * [206]霞山区人民政府
-     * [207]麻章区人民政府
-     * [208]坡头区人民政府
-     * [209]雷州市人民政府
-     * [210]廉江市人民政府
-     * [211]吴川市人民政府
-     * [212]遂溪县人民政府
-     * [213]徐闻县人民政府
-     * [214]湛江经济技术开发区管委会
-     * [215]湛江奋勇高新技术产业开发区管委会
+     * 赤坎区人民政府
+     * 霞山区人民政府
+     * 麻章区人民政府
+     * 坡头区人民政府
+     * 雷州市人民政府
+     * 廉江市人民政府
+     * 吴川市人民政府
+     * 遂溪县人民政府
+     * 徐闻县人民政府
+     * 湛江经济技术开发区管委会
+     * 湛江奋勇高新技术产业开发区管委会
 
    推荐网站
-     * [216]廉洁湛江
-     * [217]湛江文明网
+     * 廉洁湛江
+     * 湛江文明网
 
    政务办公
-     * [218]湛江OA协同办公平台
-     * [219]湛江云公文交换系统
-     * [220]代表在线系统
-     * [221]委员在线系统
-     * [222]建议提案承办单位在线系统
-     * [223]会务通-移动政务系统
+     * 湛江OA协同办公平台
+     * 湛江云公文交换系统
+     * 代表在线系统
+     * 委员在线系统
+     * 建议提案承办单位在线系统
+     * 会务通-移动政务系统
 
    [zjwx.png]
 
-   [224]首页| [225]网站地图| [226]隐私保护| [227]网站声明| [228]联系我们| [229]关于我们
+   首页| 网站地图| 隐私保护| 网站声明| 联系我们| 关于我们
 
    总访问量：-
 
-   [230]粤ICP备12059860号　 [231]粤公网安备 44080202000041号 粤公网安备 44080202000041号
+   粤ICP备12059860号　 粤公网安备 44080202000041号 粤公网安备 44080202000041号
    网站标识码：4408000026主办单位：湛江市人民政府办公室
-   [232]党政机关
+   党政机关
 
    您访问的链接即将离开“湛江市人民政府门户网站”，是否继续？
    继续访问
    放弃
-
-References
-
-   1. https://www.zhanjiang.gov.cn/
-   2. javascript:translatePage();
-   3. https://www.zhanjiang.gov.cn/zjyj/mindex.html
-   4. https://www.zhanjiang.gov.cn/zjyj/index.html
-   5. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/jggk/index.html
-   6. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/jggk/jggk/index.html
-   7. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/jggk/ldxx/index.html
-   8. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/index.html
-   9. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/gzdt/index.html
-  10. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/bmwj/index.html
-  11. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/zcjd/index.html
-  12. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/tzgg/index.html
-  13. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/pxkh/index.html
-  14. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/xxgknb/
-  15. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/czyjs/index.html
-  16. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/fzjz/index.html
-  17. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/zhjg/index.html
-  18. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/aqscsnzzxdfazl/index.html
-  19. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/zdlyxxgk/index.html
-  20. https://www.gdzwfw.gov.cn/portal/v2/branch-hall?orgCode=707802955
-  21. https://www.zhanjiang.gov.cn/zjyj/gkmlpt/index
-  22. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/xxgkzn/
-  23. http://ysqgk.gd.gov.cn/759051/choice
-  24. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/dzxxzl/index.html
-  25. https://www.gdzwfw.gov.cn/portal/v2/branch-hall?orgCode=707802955
-  26. https://www.zhanjiang.gov.cn/hdjlpt
-  27. https://www.zhanjiang.gov.cn/
-  28. https://www.zhanjiang.gov.cn/zjsfw/bmdh
-  29. https://www.zhanjiang.gov.cn/zjyj
-  30. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk
-  31. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/aqscsnzzxdfazl
-  32. https://www.gov.cn/
-  33. https://www.fmprc.gov.cn/web/
-  34. http://www.mod.gov.cn/
-  35. https://www.ndrc.gov.cn/
-  36. http://www.moe.gov.cn/
-  37. http://www.most.gov.cn/
-  38. http://www.miit.gov.cn/
-  39. http://www.neac.gov.cn/
-  40. https://www.mps.gov.cn/
-  41. http://www.mca.gov.cn/
-  42. http://www.moj.gov.cn/
-  43. http://www.mof.gov.cn/index.htm
-  44. http://www.mohrss.gov.cn/
-  45. http://www.mnr.gov.cn/
-  46. http://www.mee.gov.cn/
-  47. http://www.mohurd.gov.cn/
-  48. http://www.mot.gov.cn/
-  49. http://www.mwr.gov.cn/
-  50. http://www.moa.gov.cn/
-  51. http://www.mofcom.gov.cn/
-  52. https://www.mct.gov.cn/
-  53. http://www.nhc.gov.cn/
-  54. http://www.mva.gov.cn/
-  55. https://www.mem.gov.cn/index.shtml
-  56. http://www.pbc.gov.cn/
-  57. http://www.audit.gov.cn/
-  58. http://www.cnsa.gov.cn/
-  59. http://www.caea.gov.cn/
-  60. http://nnsa.mee.gov.cn/
-  61. http://www.sasac.gov.cn/
-  62. http://www.customs.gov.cn/
-  63. http://www.chinatax.gov.cn/
-  64. http://www.samr.gov.cn/
-  65. http://www.nrta.gov.cn/
-  66. http://www.sport.gov.cn/
-  67. http://www.stats.gov.cn/
-  68. http://www.cidca.gov.cn/
-  69. http://www.nhsa.gov.cn/
-  70. http://www.counsellor.gov.cn/
-  71. http://www.ggj.gov.cn/
-  72. http://www.cnca.gov.cn/
-  73. http://www.sac.gov.cn/
-  74. http://www.ncac.gov.cn/
-  75. https://www.hmo.gov.cn/
-  76. http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm
-  77. http://www.gqb.gov.cn/
-  78. http://www.gwytb.gov.cn/
-  79. http://www.cac.gov.cn/
-  80. http://www.scio.gov.cn/index.htm
-  81. http://203.192.6.89/xhs/
-  82. http://www.cas.cn/
-  83. http://www.cass.cn/
-  84. http://www.cae.cn/
-  85. https://www.drc.gov.cn/default.aspx
-  86. http://www.cma.gov.cn/
-  87. http://www.cbirc.gov.cn/cn/view/pages/index/index.html
-  88. http://www.csrc.gov.cn/pub/newsite/
-  89. http://www.gjxfj.gov.cn/gjxfj/index.htm
-  90. http://www.lswz.gov.cn/
-  91. http://www.nea.gov.cn/
-  92. http://www.sastind.gov.cn/
-  93. http://www.tobacco.gov.cn/html/
-  94. http://www.forestry.gov.cn/
-  95. http://www.nra.gov.cn/
-  96. http://www.caac.gov.cn/index.html
-  97. http://www.spb.gov.cn/
-  98. http://www.ncha.gov.cn/
-  99. http://www.natcm.gov.cn/
- 100. http://www.safe.gov.cn/
- 101. https://www.nmpa.gov.cn/
- 102. http://www.cnipa.gov.cn/
- 103. http://www.forestry.gov.cn/
- 104. http://www.scs.gov.cn/
- 105. http://www.saac.gov.cn/
- 106. http://www.gjbmj.gov.cn/
- 107. http://www.oscca.gov.cn/
- 108. http://www.beijing.gov.cn/
- 109. http://www.tj.gov.cn/
- 110. http://www.hebei.gov.cn/
- 111. http://www.shanxi.gov.cn/
- 112. http://www.nmg.gov.cn/
- 113. http://www.ln.gov.cn/
- 114. http://www.jl.gov.cn/
- 115. http://www.hlj.gov.cn/
- 116. http://www.shanghai.gov.cn/
- 117. http://www.jiangsu.gov.cn/
- 118. http://www.zj.gov.cn/
- 119. http://www.ah.gov.cn/
- 120. http://www.fujian.gov.cn/
- 121. http://www.jiangxi.gov.cn/
- 122. http://www.shandong.gov.cn/
- 123. http://www.henan.gov.cn/
- 124. http://www.hubei.gov.cn/
- 125. http://www.hunan.gov.cn/
- 126. http://www.gd.gov.cn/
- 127. http://www.gxzf.gov.cn/
- 128. http://www.hainan.gov.cn/
- 129. http://www.cq.gov.cn/
- 130. http://www.sc.gov.cn/
- 131. http://www.guizhou.gov.cn/
- 132. http://www.yn.gov.cn/
- 133. http://www.xizang.gov.cn/
- 134. http://www.shaanxi.gov.cn/
- 135. http://www.gansu.gov.cn/
- 136. http://www.nx.gov.cn/
- 137. http://www.qinghai.gov.cn/
- 138. http://www.xinjiang.gov.cn/xinjiang/index.shtml
- 139. https://www.gov.hk/sc/residents/
- 140. https://www.gov.mo/zh-hant/
- 141. http://www.xjbt.gov.cn/?COLLCC=3249464628&amp;
- 142. http://www.gz.gov.cn/
- 143. http://www.sz.gov.cn/
- 144. http://www.zhuhai.gov.cn/
- 145. https://www.shantou.gov.cn/
- 146. http://www.foshan.gov.cn/
- 147. https://www.sg.gov.cn/
- 148. http://www.heyuan.gov.cn/
- 149. https://www.meizhou.gov.cn/
- 150. http://www.huizhou.gov.cn/
- 151. http://www.shanwei.gov.cn/
- 152. http://www.dongguan.gov.cn/
- 153. http://www.zs.gov.cn/
- 154. http://www.jiangmen.gov.cn/
- 155. http://www.yangjiang.gov.cn/
- 156. https://www.zhanjiang.gov.cn/
- 157. http://www.maoming.gov.cn/
- 158. http://www.zhaoqing.gov.cn/
- 159. http://www.gdqy.gov.cn/
- 160. http://www.chaozhou.gov.cn/
- 161. http://www.jieyang.gov.cn/
- 162. http://www.yunfu.gov.cn/yfsrmzf/index.html
- 163. https://www.zhanjiang.gov.cn/zfjg/content/post_1706144.html
- 164. https://www.zhanjiang.gov.cn/zjfgj/index.html
- 165. https://www.zhanjiang.gov.cn/xzfwzx/
- 166. https://www.zhanjiang.gov.cn/zhjedu/index.html
- 167. https://www.zhanjiang.gov.cn/zjkjj/index.html
- 168. https://www.zhanjiang.gov.cn/zjgxj/index.html
- 169. http://gaj.zhanjiang.gov.cn/
- 170. https://www.zhanjiang.gov.cn/zjsmzj/index.html
- 171. https://www.zhanjiang.gov.cn/sfj/index.html
- 172. http://zjsczj.zhanjiang.gov.cn/
- 173. https://www.zhanjiang.gov.cn/rsj/index.html
- 174. https://www.zhanjiang.gov.cn/nr/index.html
- 175. https://www.zhanjiang.gov.cn/sthjj/index.html
- 176. https://www.zhanjiang.gov.cn/zjj/index.html
- 177. https://www.zhanjiang.gov.cn/jtysj/index.html
- 178. https://www.zhanjiang.gov.cn/swj/index.html
- 179. http://nyncj.zhanjiang.gov.cn/
- 180. https://www.zhanjiang.gov.cn/zjswj/index.html
- 181. https://www.zhanjiang.gov.cn/whgdlytyj/index.html
- 182. https://www.zhanjiang.gov.cn/zjwjj/index.html
- 183. https://www.zhanjiang.gov.cn/tyj/index.html
- 184. https://www.zhanjiang.gov.cn/zjyj/index.html
- 185. https://www.zhanjiang.gov.cn/sjj/gkmlpt/index
- 186. https://www.zhanjiang.gov.cn/gzw/index.html
- 187. http://zjamr.zhanjiang.gov.cn/
- 188. https://www.zhanjiang.gov.cn/tjj/index.html
- 189. https://www.zhanjiang.gov.cn/zjsylbzj/gkmlpt/index
- 190. https://www.zhanjiang.gov.cn/jrj/gkmlpt/index
- 191. http://cghzf.zhanjiang.gov.cn/
- 192. https://www.zhanjiang.gov.cn/zjxfj/index.html
- 193. https://www.zhanjiang.gov.cn/zsj/gkmlpt/index
- 194. https://www.zhanjiang.gov.cn/ls/
- 195. https://www.zhanjiang.gov.cn/tcj/index.html
- 196. https://www.zhanjiang.gov.cn/zjyjs/gkmlpt/index
- 197. https://www.zhanjiang.gov.cn/csgxj/index.html
- 198. https://www.zhanjiang.gov.cn/gxs/index.html
- 199. https://www.zhanjiang.gov.cn/hgy/index.html
- 200. https://www.zhanjiang.gov.cn/dfz/index.html
- 201. https://www.zhanjiang.gov.cn/zfgjj/index.html
- 202. https://www.zhanjiang.gov.cn/wsj/
- 203. https://www.zhanjiang.gov.cn/glj/
- 204. https://www.zhanjiang.gov.cn/yhzc/
- 205. http://www.chikan.gov.cn/
- 206. http://www.zjxs.gov.cn/
- 207. http://www.zjmazhang.gov.cn/
- 208. http://www.ptq.gov.cn/
- 209. http://www.leizhou.gov.cn/
- 210. http://www.lianjiang.gov.cn/
- 211. https://www.gdwc.gov.cn/
- 212. http://www.suixi.gov.cn/
- 213. http://www.xuwen.gov.cn/
- 214. http://www.zetdz.gov.cn/
- 215. http://www.fenyong.gov.cn/
- 216. http://www.ljzj.gov.cn/
- 217. http://gdzj.wenming.cn/
- 218. https://cloud.zjportal.net/#/login?redirect=/home
- 219. https://ecloud.zjportal.net/#/login?redirect=/home
- 220. http://183.236.209.16/daibiao/#/login/home
- 221. http://183.236.209.16/weiyuan/#/login/home
- 222. http://183.236.209.16/danwei/#/login/home
- 223. http://hwt.zjportal.net/hwt/main.aspx
- 224. https://www.zhanjiang.gov.cn/zjyj/index.html
- 225. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/wzdt/content/post_1288522.html
- 226. https://www.zhanjiang.gov.cn/zjsfw/ysbh/content/post_1203866.html
- 227. https://www.zhanjiang.gov.cn/zjzfw/wzsm/content/post_1203860.html
- 228. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/lxwm/content/post_1406835.html
- 229. https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/gywm/content/post_1406837.html
- 230. https://beian.miit.gov.cn/
- 231. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44080202000041
- 232. http://bszs.conac.cn/sitename?method=show&amp;id=09EC6319DC4404AFE053012819AC6A4C
 </text>
 </page> §
 <page="ch-29">
 <text>
-   ﻿
-
-   [nav1.png] [1][nav2.png]
+   [nav1.png] [nav2.png]
    ____________________ Submit
 
    分享到：
@@ -2563,96 +2069,94 @@ References
 
 LANGUAGE
 
-     * [2]English
-     * [3]Français
-     * [4]Deutsch
-     * [5]日本語
-     * [6]Русский язык
-     * [7]Español
-     * [8]العربية
-     * [9]Esperanto
-     * [10]한국어
-     * [11]中文繁体
+     * English
+     * Français
+     * Deutsch
+     * 日本語
+     * Русский язык
+     * Español
+     * العربية
+     * Esperanto
+     * 한국어
+     * 中文繁体
 
    ____________________ Submit
 
 新闻
 
-   [12]新闻[13]直播 [14]要闻 [15]国际 [16]军事 [17]社会 [18]政协 [19]政务 [20]图片 [21]视频
+   新闻直播 要闻 国际 军事 社会 政协 政务 图片 视频
 
 财经
 
-   [22]财经 [23]金融 [24]证券 [25]汽车 [26]科技 [27]消费 [28]能源 [29]地产 [30]农业
+   财经 金融 证券 汽车 科技 消费 能源 地产 农业
 
 观点
 
-   [31]观点 [32]理论 [33]智库 [34]中国3分钟 [35]中国访谈 [36]中国网评 [37]中国关键词
+   观点 理论 智库 中国3分钟 中国访谈 中国网评 中国关键词
 
 文化
 
-   [38]文化 [39]文创 [40]艺术 [41]时尚 [42]旅游 [43]悦读 [44]民藏 [45]中医 [46]中网艺云
+   文化 文创 艺术 时尚 旅游 悦读 民藏 中医 中网艺云
 </text>
 </page> §
 <page="ch-3">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate [24]alternate [25]alternate
-   [26]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
 
-   IFRAME: [27]https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
 
-   [28]认证 [29]培训 [30]技术服务 [31]联系我们
+   认证 培训 技术服务 联系我们
    我们的服务
-     * [32]认证
-     * [33]培训
-     * [34]技术服务
+     * 认证
+     * 培训
+     * 技术服务
 
    Ecocert
-     * [35]关于我们
-     * [36]新闻
-     * [37]职业生涯
+     * 关于我们
+     * 新闻
+     * 职业生涯
 
    我们的业务部门
-     * [38]农食产品
-     * [39]化妆品
-     * [40]纺织品
-     * [41]林业
-     * [42]家庭护理产品
+     * 农食产品
+     * 化妆品
+     * 纺织品
+     * 林业
+     * 家庭护理产品
 
    我们的专长
-     * [43]有机农业
-     * [44]公平贸易
-     * [45]可持续农业
-     * [46]食品质量与安全
-     * [47]企业社会责任
-     * [48]生物多样性与气候变化
+     * 有机农业
+     * 公平贸易
+     * 可持续农业
+     * 食品质量与安全
+     * 企业社会责任
+     * 生物多样性与气候变化
 
    ____________________ Submit
 
 全球的
 
-   [49]Global (法语) [50]Global (英语) [51]Global (西班牙语)
+   Global (法语) Global (英语) Global (西班牙语)
 
 非洲
 
-   [52]南非 (英语) [53]突尼斯 (法语)
+   南非 (英语) 突尼斯 (法语)
 
 亚洲
 
-   [54]中国 (中文) [55]印度 (英语) [56]日本 (日语) [57]韩国 (韩语)
+   中国 (中文) 印度 (英语) 日本 (日语) 韩国 (韩语)
 
 美国
 
-   [58]加拿大 (法语) [59]加拿大 (英语) [60]哥伦比亚 (西班牙语) [61]墨西哥 (西班牙语) [62]巴西 (葡萄牙语)
-   [63]智利 (西班牙语) [64]秘鲁 (西班牙语) [65]美国 (英语) [66]阿根廷 (西班牙语)
+   加拿大 (法语) 加拿大 (英语) 哥伦比亚 (西班牙语) 墨西哥 (西班牙语) 巴西 (葡萄牙语) 智利 (西班牙语) 秘鲁 (西班牙语)
+   美国 (英语) 阿根廷 (西班牙语)
 
 欧洲
 
-   [67]土耳其 (土耳其语) [68]塞尔维亚 (塞尔维亚语) [69]德国 (德语) [70]意大利 (意大利语) [71]法国 (法语)
-   [72]瑞士 (德语) [73]罗马尼亚 (罗马尼亚语) [74]葡萄牙 (葡萄牙语)
+   土耳其 (土耳其语) 塞尔维亚 (塞尔维亚语) 德国 (德语) 意大利 (意大利语) 法国 (法语) 瑞士 (德语) 罗马尼亚 (罗马尼亚语)
+   葡萄牙 (葡萄牙语)
 
 企业社会责任
 
@@ -2693,8 +2197,8 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
 
 最需要的认证
 
-   [75]查看完整列表
-   [76]企业社会责任 logo 企业社会责任
+   查看完整列表
+   企业社会责任 logo 企业社会责任
 
 我们的培训方案：分享我们的专业知识
 
@@ -2723,12 +2227,12 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
    网络直播课堂或e-learning线上课程
 
    7小时
-   [77]查看更多培训方案
+   查看更多培训方案
 
 我们的咨询，为您的项目提供专业知识
 
    我们帮助您开发符合您目标和价值观的定制解决方案。 这是我们企业社会责任的参考资料
-   [78]发现更多
+   发现更多
    法国农食中小企业
    对生产线进行IFS认证的技术诊断
    探索ECOCERT附录
@@ -2765,30 +2269,30 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
 
    结果
    推出5种有机化妆品参考资料
-   [79]找到更多的引用
+   找到更多的引用
 
 查找更多Ecocert服务
 
 公平贸易
 
 
-   [80]了解更多
+   了解更多
 
 生物多样性与气候变化
 
 
-   [81]了解更多
+   了解更多
 
    为可持续发展的世界而行动
    跟进社交网络
-     * [82]查看证书
-     * [83]我们在全球的办公室
+     * 查看证书
+     * 我们在全球的办公室
 
-   [84]联系我们
-   [85]加入我们
-   [86](+86) 010-62818363
-   [87]法律声明 - [88]通用条款 - [89]资料保护政策 - [90]Cookies管理政策 - [91]未经授权的引用 -
-   [92]京ICP备09063433号-1 ©2023 GROUPE ECOCERT
+   联系我们
+   加入我们
+   (+86) 010-62818363
+   法律声明 - 通用条款 - 资料保护政策 - Cookies管理政策 - 未经授权的引用 - 京ICP备09063433号-1 ©2023
+   GROUPE ECOCERT
 
    ×
 
@@ -2797,131 +2301,23 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
      * 无效登录
 
    (BUTTON) 取消 (BUTTON) 下一步
-
-References
-
-   Visible links:
-   1. https://www.ecocert.com/es-AR/experiencia/responsabilidad-social-empresarial
-   2. https://www.ecocert.com/pt-BR/expertise/responsabilidade-social-corporativa
-   3. https://www.ecocert.com/en-CA/expertise/corporate-social-responsibility
-   4. https://www.ecocert.com/fr-CA/expertise/responsabilite-societale-des-entreprises
-   5. https://www.ecocert.com/de-CH/expertise/corporate-social-responsibility
-   6. https://www.ecocert.com/es-CL/experiencia/responsabilidad-social-empresarial
-   7. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-   8. https://www.ecocert.com/es-CO/experiencia/responsabilidad-social-empresarial
-   9. https://www.ecocert.com/de-DE/expertise/corporate-social-responsibility
-  10. https://www.ecocert.com/fr-FR/expertise/responsabilite-societale-des-entreprises
-  11. https://www.ecocert.com/en-IN/expertise/corporate-social-responsibility
-  12. https://www.ecocert.com/it-IT/competenza/responsabilita-sociale-d-impresa
-  13. https://www.ecocert.com/ja-JP/認証/corporate-social-responsibility
-  14. https://www.ecocert.com/ko-KR/전문성/기업의-사회적 책임
-  15. https://www.ecocert.com/es-MX/experiencia/responsabilidad-social-empresarial
-  16. https://www.ecocert.com/es-PE/experiencia/responsabilidad-social-empresarial
-  17. https://www.ecocert.com/pt-PT/expertise/responsabilidade-social-corporativa
-  18. https://www.ecocert.com/ro-RO/expertiză/resposanbilitatea-corporativ-socială
-  19. https://www.ecocert.com/sr-RS/stručnjaci/korporativna-društvena-odgovornost
-  20. https://www.ecocert.com/fr-TN/expertise/responsabilite-societale-des-entreprises
-  21. https://www.ecocert.com/tr-TR/uzmanlık/kurumsal-sosyal-sorumluluk
-  22. https://www.ecocert.com/en-US/expertise/corporate-social-responsibility
-  23. https://www.ecocert.com/en/expertise/corporate-social-responsibility
-  24. https://www.ecocert.com/es/experiencia/responsabilidad-social-empresarial
-  25. https://www.ecocert.com/fr/expertise/responsabilite-societale-des-entreprises
-  26. https://www.ecocert.com/en-ZA/expertise/corporate-social-responsibility
-  27. https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
-  28. https://www.ecocert.com/zh-CN/认证
-  29. https://www.ecocert.com/zh-CN/培训
-  30. https://www.ecocert.com/zh-CN/对话框
-  31. https://www.ecocert.com/zh-CN/联系
-  32. https://www.ecocert.com/zh-CN/认证
-  33. https://www.ecocert.com/zh-CN/培训
-  34. https://www.ecocert.com/zh-CN/对话框
-  35. https://www.ecocert.com/zh-CN/关于我们
-  36. https://www.ecocert.com/zh-CN/条款清单
-  37. https://www.ecocert.com/zh-CN/职业
-  38. https://www.ecocert.com/zh-CN/业务部门/农食产品
-  39. https://www.ecocert.com/zh-CN/业务部门/化妆品
-  40. https://www.ecocert.com/zh-CN/业务部门/纺织品
-  41. https://www.ecocert.com/zh-CN/业务部门/林业
-  42. https://www.ecocert.com/zh-CN/业务部门/家庭护理产品
-  43. https://www.ecocert.com/zh-CN/专业知识/有机农业
-  44. https://www.ecocert.com/zh-CN/专业知识/公平贸易
-  45. https://www.ecocert.com/zh-CN/专业知识/可持续农业
-  46. https://www.ecocert.com/zh-CN/专业知识/食品质量与食品安全
-  47. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-  48. https://www.ecocert.com/zh-CN/专业知识/生物多样性和气候变化
-  49. https://www.ecocert.com/fr/expertise/responsabilite-societale-des-entreprises
-  50. https://www.ecocert.com/en/expertise/corporate-social-responsibility
-  51. https://www.ecocert.com/es/experiencia/responsabilidad-social-empresarial
-  52. https://www.ecocert.com/en-ZA/expertise/corporate-social-responsibility
-  53. https://www.ecocert.com/fr-TN/expertise/responsabilite-societale-des-entreprises
-  54. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-  55. https://www.ecocert.com/en-IN/expertise/corporate-social-responsibility
-  56. https://www.ecocert.com/ja-JP/認証/corporate-social-responsibility
-  57. https://www.ecocert.com/ko-KR/전문성/기업의-사회적 책임
-  58. https://www.ecocert.com/fr-CA/expertise/responsabilite-societale-des-entreprises
-  59. https://www.ecocert.com/en-CA/expertise/corporate-social-responsibility
-  60. https://www.ecocert.com/es-CO/experiencia/responsabilidad-social-empresarial
-  61. https://www.ecocert.com/es-MX/experiencia/responsabilidad-social-empresarial
-  62. https://www.ecocert.com/pt-BR/expertise/responsabilidade-social-corporativa
-  63. https://www.ecocert.com/es-CL/experiencia/responsabilidad-social-empresarial
-  64. https://www.ecocert.com/es-PE/experiencia/responsabilidad-social-empresarial
-  65. https://www.ecocert.com/en-US/expertise/corporate-social-responsibility
-  66. https://www.ecocert.com/es-AR/experiencia/responsabilidad-social-empresarial
-  67. https://www.ecocert.com/tr-TR/uzmanlık/kurumsal-sosyal-sorumluluk
-  68. https://www.ecocert.com/sr-RS/stručnjaci/korporativna-društvena-odgovornost
-  69. https://www.ecocert.com/de-DE/expertise/corporate-social-responsibility
-  70. https://www.ecocert.com/it-IT/competenza/responsabilita-sociale-d-impresa
-  71. https://www.ecocert.com/fr-FR/expertise/responsabilite-societale-des-entreprises
-  72. https://www.ecocert.com/de-CH/expertise/corporate-social-responsibility
-  73. https://www.ecocert.com/ro-RO/expertiză/resposanbilitatea-corporativ-socială
-  74. https://www.ecocert.com/pt-PT/expertise/responsabilidade-social-corporativa
-  75. https://www.ecocert.com/zh-CN/认证列表
-  76. https://www.ecocert.com/zh-CN/认证详情/FOR LIFE 标签 (企业社会责任) | Ecocert
-  77. https://www.ecocert.com/zh-CN/培训#listeFormationCard
-  78. https://www.ecocert.com/zh-CN/对话框
-  79. https://www.ecocert.com/zh-CN/参考文献列表
-  80. https://www.ecocert.com/zh-CN/专业知识/公平贸易
-  81. https://www.ecocert.com/zh-CN/专业知识/生物多样性和气候变化
-  82. https://certificat.ecocert.com/?source=ecocertcom&amp;l=en
-  83. https://www.ecocert.com/zh-CN/办公室
-  84. https://www.ecocert.com/zh-CN/联系
-  85. https://www.ecocert.com/zh-CN/职业
-  86. tel:(+86) 010-62818363
-  87. https://www.ecocert.com/zh-CN/flatpage/法律提示
-  88. https://www.ecocert.com/zh-CN/flatpage/通用条款
-  89. https://www.ecocert.com/zh-CN/flatpage/数据保护政策
-  90. https://www.ecocert.com/zh-CN/flatpage/cookies管理策略
-  91. https://www.ecocert.com/zh-CN/flatpage/商标侵权
-  92. https://beian.miit.gov.cn/
-
-   Hidden links:
-  94. https://www.ecocert.com/zh-CN/home
-  95. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  96. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  97. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  98. https://www.facebook.com/GroupeEcocert
-  99. https://www.youtube.com/GroupeEcocert
- 100. https://fr.linkedin.com/company/groupeecocert
- 101. https://www.ecocert.com/zh-CN/%E8%81%94%E7%B3%BB
 </text>
 </page> §
 <page="ch-30">
 <text>
-               ____________________ [20130723_topss.gif]-Submit
-   [1][20130723_topss.gif]
+     ____________________ [20130723_topss.gif]-Submit [20130723_topss.gif]
 
-   [2]English | [3]繁体 | [4]RSS | [5]网站地图 | [6]收藏 | [7]邮箱 | [8]联系我们
+   English | 繁体 | RSS | 网站地图 | 收藏 | 邮箱 | 联系我们
 
                          [20130723_topimgrd_bj.jpg]
 
                             [20130723_menul.jpg]
 
-   [9]首页 [10]新闻 [11]机构 [12]科研 [13]院士 [14]人才 [15]教育 [16]合作交流 [17]科学普及 [18]出
-   版 [19]信息公开 [20]专题 [21]访谈 [22]视频 [23]会议 [24]党建 [25]文化
+          首页 新闻 机构 科研 院士 人才 教育 合作交流 科学普及 出版 信息公开 专题 访谈 视频 会议 党建 文化
 
                             [20130723_menur.jpg]
 
-                      您现在的位置： [26]首页 >gt; [27]新闻 >gt; [28]专家视点
+                            您现在的位置： 首页 >gt; 新闻 >gt; 专家视点
 
                                   [dtl.gif]
 
@@ -2929,7 +2325,7 @@ References
 
                                 在承担责任中实现个人成长
 
-               文章来源： 发布时间：2004-05-20 【字号：[29] 小 [30] 中 [31] 大 】
+                     文章来源： 发布时间：2004-05-20 【字号： 小  中  大 】
 
    缘起：某些人格品质是比较重要的，比如人是否有诚信、是否有责任心等等。一个人负责还是不负责，不仅决定他的人际关系质量，而且也是决定个人成长与否的
    关键因素之一。因为，责任感这一特质可以派生出许多有助于社会和个人发展的重要特质，如：敢担当、自律、守信用、忠实于信念和感情等。
@@ -2970,13 +2366,12 @@ References
 </page> §
 <page="ch-31">
 <text>
-     * [1]东南网首页|
+     * 东南网首页|
      *
-     * [2]设为首页|[3]设为收藏|[4]简繁|[5]RSS
+     * 设为首页|设为收藏|简繁|RSS
 
-   [6]直通屏山|[7]福建|[8]时评|[9]大学城|[10]台海|[11]娱乐|[12]体育|[13]国内|[14]国际|[15]专题|[1
-   6]网事|[17]福州|[18]厦门|[19]莆田|[20]泉州|[21]漳州|[22]龙岩|[23]宁德|[24]南平|[25]三明
-   [cont20131106_03.gif] 您所在的位置：： [26]东南网 >gt; [27]福建频道 >gt; [28]时政 >gt; 正文
+   直通屏山|福建|时评|大学城|台海|娱乐|体育|国内|国际|专题|网事|福州|厦门|莆田|泉州|漳州|龙岩|宁德|南平|三明
+   [cont20131106_03.gif] 您所在的位置：： 东南网 >gt; 福建频道 >gt; 时政 >gt; 正文
 
 全省各地扛起生态环保责任全力配合督察工作
 
@@ -3018,67 +2413,66 @@ References
 
    相关阅读:
 
-   [29][cont20131106_15.gif] [30][cont20131106_21.gif] 打印 | 收藏 | 发给好友 【字号
-   大 中 小】
+   [cont20131106_15.gif] [cont20131106_21.gif] 打印 | 收藏 | 发给好友 【字号 大 中 小】
    今日热词
-     * [31]传承弘扬"四下基层"优良传统
-     * [32]乡村行·看振兴
-     * [33]"解码"小巨人
-     * [34]巴以冲突
-     * [35]高铁“驾”到
-     * [36]山海人家
-     * [37]民营经济高质量发展观察
-     * [38]创新·奋进新赛道
+     * 传承弘扬"四下基层"优良传统
+     * 乡村行·看振兴
+     * "解码"小巨人
+     * 巴以冲突
+     * 高铁“驾”到
+     * 山海人家
+     * 民营经济高质量发展观察
+     * 创新·奋进新赛道
 
-   [39]更多>gt;>gt;福建今日重点
-     * [40]赵龙:坚持立行立改全面整改 坚决守护好绿水青山
-     * [41]为法治福建建设澎湃正能量
-     * [42]福建：人水和谐，河湖长制守护“河湖长治”
-     * [43]“福品卖全球，全球买闽货”的图景如何实现？
-     * [44]党报记者八闽调研行 | 供应链金融，何以共赢
-     * [45]福建：绘就“路线图” 为民解忧愁
-     * [46]福建新增10家国家级工业设计中心
+   更多>gt;>gt;福建今日重点
+     * 赵龙:坚持立行立改全面整改 坚决守护好绿水青山
+     * 为法治福建建设澎湃正能量
+     * 福建：人水和谐，河湖长制守护“河湖长治”
+     * “福品卖全球，全球买闽货”的图景如何实现？
+     * 党报记者八闽调研行 | 供应链金融，何以共赢
+     * 福建：绘就“路线图” 为民解忧愁
+     * 福建新增10家国家级工业设计中心
 
-   [47]更多>gt;>gt;国际国内热点
-     * [48]11月全国各地经济社会发展观察
-     * [49]简化社保经办流程……这些民生新规12月起施行
-     * [50]国防部新闻发言人就近期涉军问题答记者问
-     * [51]外交部:希望欧盟全面客观看待中国发展和内外政策
-     * [52]国际机构密集上调中国经济增长预期
-     * [53]商务部回应对石墨出口管制政策生效实施
-     * [54]第4批国家组织高值医用耗材集采看点
+   更多>gt;>gt;国际国内热点
+     * 11月全国各地经济社会发展观察
+     * 简化社保经办流程……这些民生新规12月起施行
+     * 国防部新闻发言人就近期涉军问题答记者问
+     * 外交部:希望欧盟全面客观看待中国发展和内外政策
+     * 国际机构密集上调中国经济增长预期
+     * 商务部回应对石墨出口管制政策生效实施
+     * 第4批国家组织高值医用耗材集采看点
 
      * 新闻图片
 
-   [55][t2_(1X0X600X337)e1e89cf7-01b3-4c66-badf-c2d8d07ca326.jpg]
+   [t2_(1X0X600X337)e1e89cf7-01b3-4c66-badf-c2d8d07ca326.jpg]
 
-   [56]屏南柿子红彤彤
-   [57][t2_(0X18X597X354)a8349ab6-1d67-4e0b-852e-bbf763d5c0e8.jpg]
+   屏南柿子红彤彤
+   [t2_(0X18X597X354)a8349ab6-1d67-4e0b-852e-bbf763d5c0e8.jpg]
 
-   [58]柑橘飘香迎客来
-   [59][e60ac08e-30c9-4b02-b6fc-1aa5e877e228.png]
+   柑橘飘香迎客来
+   [e60ac08e-30c9-4b02-b6fc-1aa5e877e228.png]
 
-   [60]小渔网编织大市场
-   [61][789e0a0b-c140-43af-ab8d-192fa701c0ca.png]
+   小渔网编织大市场
+   [789e0a0b-c140-43af-ab8d-192fa701c0ca.png]
 
-   [62]天鹅冬韵
-   [63][6ff39518-a54d-4253-84ed-e1322e5f95ee.png]
+   天鹅冬韵
+   [6ff39518-a54d-4253-84ed-e1322e5f95ee.png]
 
-   [64]纽约“怀旧地铁”专列
-   [65][f5d7a6b5-3128-4c41-b36c-661b62d5eb7b.png]
+   纽约“怀旧地铁”专列
+   [f5d7a6b5-3128-4c41-b36c-661b62d5eb7b.png]
 
-   [66]火箭弹再次来袭
-   [67]更多>gt;>gt;娱 乐
-     * [68]海上丝绸之路国际艺术发展研讨会12月9日举行
-     * [69]海峡两岸音乐剧产业基地落户集美
-     * [70]福州姑娘万妮达方言新歌唱家乡
-     * [71]第二届全国优秀音乐剧展演在厦开幕
-     * [72]陆川首次执导电视剧，《非凡医者》今日开播
-     * [73]2023世界旅游小姐全球总决赛下月在泉举行
-     * [74]新版《梧林》亮相央视引发海内外乡贤热议
-     * [75]​“姑姑”李若彤为福清学校捐书送温暖
-     * [76]电影《援疆干部》在厦门杀青
-     * [77]两岸原创音乐创作训练营在榕举行
+   火箭弹再次来袭
+   更多>gt;>gt;娱 乐
+     * 海上丝绸之路国际艺术发展研讨会12月9日举行
+     * 海峡两岸音乐剧产业基地落户集美
+     * 福州姑娘万妮达方言新歌唱家乡
+     * 第二届全国优秀音乐剧展演在厦开幕
+     * 陆川首次执导电视剧，《非凡医者》今日开播
+     * 2023世界旅游小姐全球总决赛下月在泉举行
+     * 新版《梧林》亮相央视引发海内外乡贤热议
+     * ​“姑姑”李若彤为福清学校捐书送温暖
+     * 电影《援疆干部》在厦门杀青
+     * 两岸原创音乐创作训练营在榕举行
 
      * 点击排行
      * 三天
@@ -3086,16 +2480,16 @@ References
      * 一月
 
    [cont20131106_80.gif]
-     * [78]原创
-     * [79]热词
-     * [80]政务
-     * [81]福建
-     * [82]台海
+     * 原创
+     * 热词
+     * 政务
+     * 福建
+     * 台海
 </text>
 </page> §
 <page="ch-32">
 <text>
-   [1]前往内容 [2]前往主菜单 [3]前往搜索
+   前往内容 前往主菜单 前往搜索
 
    其他国家或地区
    (BUTTON) 中国-大中华区
@@ -3103,9 +2497,9 @@ References
    中国-大中华区
    (BUTTON) 其他国家或地区
      * 美洲
-          + [4]乌拉圭
-          + [5]加拿大
-          + [6]哥伦比亚
+          + 乌拉圭
+          + 加拿大
+          + 哥伦比亚
 </text>
 </page> §
 <page="ch-33">
@@ -3153,61 +2547,51 @@ References
    来实践企业社会责任。这就是为什么我们在全世界范围内都将社会责任纳入到日常决策和业务过程中。
    在中国，我们企业社会责任战略的三大支柱为:安全、可持续性和教育。针对支柱中的每一项，我们都确定了最有可能产生影响的领域，打造可持续的解决方法。
 
-   [1]下载
+   下载
 
-   [2]在线预览
+   在线预览
 
 相关报告:
 
-   [3](BUTTON) 2021 通用汽车中国可持续发展报告
+   (BUTTON) 2021 通用汽车中国可持续发展报告
 
-   [4](BUTTON) 2020 通用汽车中国企业社会责任报告
+   (BUTTON) 2020 通用汽车中国企业社会责任报告
 
-   [5](BUTTON) 2019 通用汽车中国企业社会责任报告
-
-References
-
-   1. https://www.gm.com.cn/content/dam/company/cn/page/2022/sr/pdf/2022 GM China SR Report _ CN.pdf
-   2. https://www.gm.com.cn/content/dam/company/cn/page/2022/sr/#/report/zh
-   3. https://www.gm.com.cn/content/dam/company/cn/page/2021/sr/pdf/2021 GM China Sustainability Report-CN.pdf?2022
-   4. https://www.gm.com.cn/content/dam/company/cn/page/2020/csr/pdf/2020 General Motors CSR Report-CN.pdf
-   5. https://www.gm.com.cn/content/dam/company/cn/pdf/csr/2019/GM China 2019 CSR Report-CN.pdf
+   (BUTTON) 2019 通用汽车中国企业社会责任报告
 </text>
 </page> §
 <page="ch-34">
 <text>
-   [tr?id=406710337516717&amp;ev=PageView&amp;noscript=1] #[1]alternate
-   [2]alternate [3]alternate [4]alternate [5]Cabinet GOLDWIN - Avocat
-   Paris » 什么是医生责任？评论Feed [6]alternate [7]alternate
+   [tr?id=406710337516717&amp;ev=PageView&amp;noscript=1] #alternate alternate
+   alternate alternate Cabinet GOLDWIN - Avocat Paris » 什么是医生责任？评论Feed
+   alternate alternate
 
-   IFRAME: [8]https://www.googletagmanager.com/ns.html?id=GTM-MMH6PNL
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MMH6PNL
 
-   [9]goldwin
+   goldwin
 
-   [10]该公司
-   [11]团队 [12]诉讼案例 [13]集体诉讼 [14]律所新闻
-   [15]业务范围
-   [16]公法 [17]刑法 [18]自由职业者法 [19]网络平台法 [20]新科技法 [21]商法 [22]运输法 [23]公司法
-   [24]房地产法 [25]劳动法
-   [26]常见问题
-   [27]联系我们
-   [28]01 45 33 50 73
+   该公司
+   团队 诉讼案例 集体诉讼 律所新闻
+   业务范围
+   公法 刑法 自由职业者法 网络平台法 新科技法 商法 运输法 公司法 房地产法 劳动法
+   常见问题
+   联系我们
+   01 45 33 50 73
    zh
    zh
    fr
    fr
    en
    en
-   [29]goldwin
+   goldwin
 
-   [30]该公司
-   [31]团队 [32]诉讼案例 [33]集体诉讼 [34]律所新闻
-   [35]业务范围
-   [36]公法 [37]刑法 [38]自由职业者法 [39]网络平台法 [40]新科技法 [41]商法 [42]运输法 [43]公司法
-   [44]房地产法 [45]劳动法
-   [46]常见问题
-   [47]联系我们
-   [48]01 45 33 50 73
+   该公司
+   团队 诉讼案例 集体诉讼 律所新闻
+   业务范围
+   公法 刑法 自由职业者法 网络平台法 新科技法 商法 运输法 公司法 房地产法 劳动法
+   常见问题
+   联系我们
+   01 45 33 50 73
    zh
    zh
    fr
@@ -3221,7 +2605,7 @@ References
    我们使用cookies来实现内容和广告的个性化，提供社交媒体功能并分析我们的流量。我们还与我们的社会媒体、广告和分析合作伙伴分享有关您使用我们
    网站的信息，这些合作伙伴可能会将这些信息与您提供给他们的或他们从您使用他们的服务中收集的其他信息结合起来。
    我同意
-   [49]显示所有预期用途
+   显示所有预期用途
    只有必要的cookies
 
    我们提醒您
@@ -3263,52 +2647,51 @@ References
 </page> §
 <page="ch-35">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate
+   #alternate alternate alternate alternate alternate alternate
 
    (BUTTON)
    ____________________
    (BUTTON) (BUTTON)
 
-     * [7]关于我们
-          + [8]关于我们/历史
-          + [9]关于我们/愿景和任务
-          + [10]人文（价值）
-          + [11]领导
-          + [12]关于我们/管理
-          + [13]关于我们/道德和合规
-          + [14]关于我们/社会责任
-          + [15]可持续
-          + [16]联系方式
-     * [17]Future理念
-     * [18]业务部
-          + [19]交通基础设施
-          + [20]地铁和铁路系统
-          + [21]港口和海事工程
-          + [22]环境水和卫生设施
-          + [23]城市与建筑
-          + [24]能源
-          + [25]房地产
-          + [26]建设管理和监理
-          + [27]地质实验室
-          + [28]数字创新
-     * [29]能力
-     * [30]投资发展部
-     * [31]创新技术
-     * [32]媒体洞察
+     * 关于我们
+          + 关于我们/历史
+          + 关于我们/愿景和任务
+          + 人文（价值）
+          + 领导
+          + 关于我们/管理
+          + 关于我们/道德和合规
+          + 关于我们/社会责任
+          + 可持续
+          + 联系方式
+     * Future理念
+     * 业务部
+          + 交通基础设施
+          + 地铁和铁路系统
+          + 港口和海事工程
+          + 环境水和卫生设施
+          + 城市与建筑
+          + 能源
+          + 房地产
+          + 建设管理和监理
+          + 地质实验室
+          + 数字创新
+     * 能力
+     * 投资发展部
+     * 创新技术
+     * 媒体洞察
 
    ____________________
-     * [33]FUTURE MOTION Brasil
-     * [34]Future Proman
-     * [35]Future Asia
+     * FUTURE MOTION Brasil
+     * Future Proman
+     * Future Asia
 
    中文 PT
-     * [36]English EN
-     * [37]Português PT
-     * [38]Español ES
-     * [39]Français FR
+     * English EN
+     * Português PT
+     * Español ES
+     * Français FR
 
-   [40]主页 >gt; [41]关于我们 >gt; [42]关于我们/社会责任
+   主页 >gt; 关于我们 >gt; 关于我们/社会责任
 
 关于我们/社会责任
 
@@ -3338,11 +2721,11 @@ References
 
    Future集团总部
    Alameda Fernão Lopes, nº 16 – 11º Piso 1495-190 Algés, Lisboa, Portugal
-   [43](BUTTON) 联系方式 (BUTTON) 查看地图
+   (BUTTON) 联系方式 (BUTTON) 查看地图
    快速链接
-     * [44]联系方式
-     * [45]关于我们
-     * [46]领导层
+     * 联系方式
+     * 关于我们
+     * 领导层
 </text>
 </page> §
 <page="ch-36">
@@ -3352,95 +2735,95 @@ References
    browser
    x
 
-   [1]Volvo Group
+   Volvo Group
 
    ____________________ (BUTTON)
    (BUTTON)
      * [ ] 搜索
      *
 
-     * [2]我们的品牌
-     * [3]联系我们
+     * 我们的品牌
+     * 联系我们
 
-   [4]Volvo Group
-     * [5]我们的品牌
-     * [6]联系我们
+   Volvo Group
+     * 我们的品牌
+     * 联系我们
 
-     * [7]创新
-          + [8]自动化
-          + [9]合作与合作伙伴
-          + [10]材料技术
-          + [11]互联化
-          + [12]参与沃尔沃集团的创新
-          + [13]电气化
-          + [14]研发里程碑
-     * [15]工作机会
-          + [16]最新招聘信息
-          + [17]各种类型的工作
-          + [18]如何加入我们
-          + [19]学生机会
-          + [20]毕业生项目
-          + [21]为什么要加入沃尔沃
-          + [22]我们的文化
-          + [23]多元化与包容性
-          + [24]职业发展
-               o [25]薪酬与福利
-          + [26]工作与生活的平衡
-          + [27]Saved-Jobs | Volvo Group
-     * [28]新闻与媒体
-          + [29]媒体关系
-          + [30]最新新闻
-          + [31]近期活动
-          + [32]图片和视频
-          + [33]社交媒体
-          + [34]我们的故事
-          + [35]我们的同事
-     * [36]可持续发展
-          + [37]可持续发展目标
-          + [38]沃尔沃环境奖
-          + [39]重要性分析
-          + [40]气候
-               o [41]减少碳排放
-               o [42]环境足迹
-               o [43]科学碳目标
-          + [44]资源
-               o [45]可持续的交通运输系统
-               o [46]关注物质
-               o [47]循环性
-          + [48]人
-               o [49]安全承诺
-               o [50]商业道德和责任
-               o [51]我们的同事
-               o [52]社会参与
-     * [53]关于我们
-          + [54]我们的价值观
-               o [55]商德守则和其他政策
-               o [56]沃尔沃集团举报中心
-          + [57]我们的使命和愿景
-          + [58]我们的战略
-          + [59]组织机构
-               o [60]我们的全球影响
-          + [61]历史和研发里程碑
-          + [62]我们的产品与服务
-               o [63]我们的品牌
-          + [64]合作与奖项
-               o [65]沃尔沃技术奖
-          + [66]交通安全
-               o [67]看见与被看见
-          + [68]公司管理
-          + [69]财务报告
-          + [70]联系我们
+     * 创新
+          + 自动化
+          + 合作与合作伙伴
+          + 材料技术
+          + 互联化
+          + 参与沃尔沃集团的创新
+          + 电气化
+          + 研发里程碑
+     * 工作机会
+          + 最新招聘信息
+          + 各种类型的工作
+          + 如何加入我们
+          + 学生机会
+          + 毕业生项目
+          + 为什么要加入沃尔沃
+          + 我们的文化
+          + 多元化与包容性
+          + 职业发展
+               o 薪酬与福利
+          + 工作与生活的平衡
+          + Saved-Jobs | Volvo Group
+     * 新闻与媒体
+          + 媒体关系
+          + 最新新闻
+          + 近期活动
+          + 图片和视频
+          + 社交媒体
+          + 我们的故事
+          + 我们的同事
+     * 可持续发展
+          + 可持续发展目标
+          + 沃尔沃环境奖
+          + 重要性分析
+          + 气候
+               o 减少碳排放
+               o 环境足迹
+               o 科学碳目标
+          + 资源
+               o 可持续的交通运输系统
+               o 关注物质
+               o 循环性
+          + 人
+               o 安全承诺
+               o 商业道德和责任
+               o 我们的同事
+               o 社会参与
+     * 关于我们
+          + 我们的价值观
+               o 商德守则和其他政策
+               o 沃尔沃集团举报中心
+          + 我们的使命和愿景
+          + 我们的战略
+          + 组织机构
+               o 我们的全球影响
+          + 历史和研发里程碑
+          + 我们的产品与服务
+               o 我们的品牌
+          + 合作与奖项
+               o 沃尔沃技术奖
+          + 交通安全
+               o 看见与被看见
+          + 公司管理
+          + 财务报告
+          + 联系我们
 
-    1. [71]可持续发展
+    1. 可持续发展
 
-     [72]人
+     人
 
      商业道德和责任
 
 商业道德和责任
 
-   遵守道德规范、开展负责任的业务、并做到诚信和遵守法律是成为一家负责任的公司以及与我们的客户、业务合作伙伴和社会建立信任的先决条件。[73]信任
-   是沃尔沃集团最重要的价值观之一；因此，我们的[74]《商德守则》为我们在商业道德和责任方面设定了框架。
+   遵守道德规范、开展负责任的业务、并做到诚信和遵守法律是成为一家负责任的公司以及与我们的客户、业务合作伙伴和社会建立信任的先决条件。信任是沃尔沃
+   集团最重要的价值观之一；因此，我们的《商德守则》为我们在商业道德和责任方面设定了框架。
 
    我们在这方面采用基于风险的方法，我们的相关组织机构专注于尽职调查、树立意识和建立合作。总体目标是让我们的同事和业务合作伙伴在整个价值链中以负责
    任的商业道德和实践开展工作。
@@ -3449,23 +2832,23 @@ References
 
 商业道德与合规
 
-   我们对腐败和贿赂零容忍。[75]我们的《商德守则》中规定，我们将根据我们的产品和服务的优势以公平的方式参与竞争。我们将企业税务合规视为负责任的
-   商业行为。我们不会通过避税港地区的机构或其他方式开展任何激进的税收筹划活动。
+   我们对腐败和贿赂零容忍。我们的《商德守则》中规定，我们将根据我们的产品和服务的优势以公平的方式参与竞争。我们将企业税务合规视为负责任的商业行为
+   。我们不会通过避税港地区的机构或其他方式开展任何激进的税收筹划活动。
    Responsible business across value chains
 
    Human rights
 
 人权
 
-   尊重人权是实现联合国可持续发展目标的关键推动因素。我们致力于尊重人权，并将继续促进和加强我们的人权项目的实施。在这项工作中，我们以[76]《联
-   合国全球契约》和[77]《联合国商业与人权指导原则》(PDF, 1.08MB)等国际框架为指导。
+   尊重人权是实现联合国可持续发展目标的关键推动因素。我们致力于尊重人权，并将继续促进和加强我们的人权项目的实施。在这项工作中，我们以《联合国全球
+   契约》和《联合国商业与人权指导原则》(PDF, 1.08MB)等国际框架为指导。
 
-   [78]了解有关人权工作的更多信息
+   了解有关人权工作的更多信息
 
 负责任的采购
 
-   我们与供应链合作伙伴密切合作，我们相信这是实现[79]更加可持续的供应链的关键。我们的《供应商商德守则》为我们的供应链合作伙伴的商业道德和负责
-   任的商业行为设定了最低要求和期望。
+   我们与供应链合作伙伴密切合作，我们相信这是实现更加可持续的供应链的关键。我们的《供应商商德守则》为我们的供应链合作伙伴的商业道德和负责任的商业
+   行为设定了最低要求和期望。
    Responsible purchasing
 
    Responsible sales
@@ -3475,480 +2858,348 @@ References
    我们的产品销往全球约190个市场，每个市场都面临着不同的机遇和挑战。我们努力与我们的经销商和客户建立密切的关系，以了解我们的产品和解决方案如何
    满足他们的需求。与此同时，对我们而言，开展负责任的业务、识别和降低销售中的可持续性风险也很重要，尤其是在我们产品的使用阶段。
 
-   [80]了解有关负责任的销售的更多信息
+   了解有关负责任的销售的更多信息
 
 了解更多
 
-   [81]可持续发展战略
-   [82]可持续发展战略
-   [83]可持续发展报告
-   [84]可持续发展报告
+   可持续发展战略
+   可持续发展战略
+   可持续发展报告
+   可持续发展报告
 
-   [85]环境资源
-   [86]环境资源
-   [87]沃尔沃集团对联合国可持续发展目标的贡献
-   [88]沃尔沃集团对可持续发展目标的贡献
+   环境资源
+   环境资源
+   沃尔沃集团对联合国可持续发展目标的贡献
+   沃尔沃集团对可持续发展目标的贡献
 
    我在寻找
-     * [89]近期活动
-     * [90]财务报告
-     * [91]图片和视频
-     * [92]新闻与媒体
-     * [93]实习机会
-     * [94]社交媒体
+     * 近期活动
+     * 财务报告
+     * 图片和视频
+     * 新闻与媒体
+     * 实习机会
+     * 社交媒体
 
    社交媒体
-     * [95]微信
-     * [96]微博
-     * [97]优酷视频
-     * [98]LinkedIn
+     * 微信
+     * 微博
+     * 优酷视频
+     * LinkedIn
 
    焦点关注
-     * [99]中期报告
-     * [100]可持续发展
-     * [101]自动化
-     * [102]电气化
-     * [103]互联化
-     * [104]交通安全
+     * 中期报告
+     * 可持续发展
+     * 自动化
+     * 电气化
+     * 互联化
+     * 交通安全
 
    我们的品牌
-     * [105]沃尔沃卡车
-     * [106]沃尔沃建筑设备
-     * [107]沃尔沃客车
-     * [108]沃尔沃遍达
-     * [109]沃尔沃能源
-     * [110]沃尔沃自动驾驶解决方案
-     * [111]沃尔沃金融服务
-     * [112]Rokbak
-     * [113]山东临工
-     * [114]Milence
-     * [115]雷诺卡车
-     * [116]Prevost
-     * [117]Nova客车
-     * [118]迈克
-     * [119]埃契
-     * [120]东风商用车
-     * [121]Arquus
+     * 沃尔沃卡车
+     * 沃尔沃建筑设备
+     * 沃尔沃客车
+     * 沃尔沃遍达
+     * 沃尔沃能源
+     * 沃尔沃自动驾驶解决方案
+     * 沃尔沃金融服务
+     * Rokbak
+     * 山东临工
+     * Milence
+     * 雷诺卡车
+     * Prevost
+     * Nova客车
+     * 迈克
+     * 埃契
+     * 东风商用车
+     * Arquus
 
    版权所有 沃尔沃集团 2023
 
    版权所有 沃尔沃集团
-     * [122]www.volvogroup.com
-     * [123]联系我们
-     * [124]Cookie政策
-     * [125]隐私保护
-
-References
-
-   Visible links:
-   1. https://www.volvogroup.com/cn.html
-   2. https://www.volvogroup.com/cn/about-us/what-we-do/our-brands.html
-   3. https://www.volvogroup.com/cn/contact-us.html
-   4. https://www.volvogroup.com/cn.html
-   5. https://www.volvogroup.com/cn/about-us/what-we-do/our-brands.html
-   6. https://www.volvogroup.com/cn/contact-us.html
-   7. https://www.volvogroup.com/cn/innovation.html
-   8. https://www.volvogroup.com/cn/innovation/automation.html
-   9. https://www.volvogroup.com/cn/innovation/collaboration-and-partnerships.html
-  10. https://www.volvogroup.com/cn/innovation/materials-technology.html
-  11. https://www.volvogroup.com/cn/innovation/connectivity.html
-  12. https://www.volvogroup.com/cn/innovation/how-can-i-contribute.html
-  13. https://www.volvogroup.com/cn/innovation/electromobility.html
-  14. https://www.volvogroup.com/cn/about-us/history-and-r-d-milestones/r-d-milestones.html
-  15. https://www.volvogroup.com/cn/careers.html
-  16. https://www.volvogroup.com/cn/careers/job-openings.html
-  17. https://www.volvogroup.com/cn/careers/different-job-areas.html
-  18. https://www.volvogroup.com/cn/careers/how-to-join.html
-  19. https://www.volvogroup.com/cn/careers/opportunities-for-students.html
-  20. https://www.volvogroup.com/cn/careers/graduate-programs.html
-  21. https://www.volvogroup.com/cn/careers/reasons-to-join-volvo.html
-  22. https://www.volvogroup.com/cn/careers/who-we-are.html
-  23. https://www.volvogroup.com/cn/careers/diversity-and-inclusion.html
-  24. https://www.volvogroup.com/cn/careers/career-development-opportunities.html
-  25. https://www.volvogroup.com/cn/careers/career-development-opportunities/employee-compensation-and-benefits.html
-  26. https://www.volvogroup.com/cn/careers/work-life-balance.html
-  27. https://www.volvogroup.com/cn/careers/saved-jobs.html
-  28. https://www.volvogroup.com/cn/news-and-media.html
-  29. https://www.volvogroup.com/cn/news-and-media/contact-media-relations.html
-  30. https://www.volvogroup.com/cn/news-and-media/press-releases.html
-  31. https://www.volvogroup.com/cn/news-and-media/events.html
-  32. https://www.volvogroup.com/cn/news-and-media/image-and-video-gallery.html
-  33. https://www.volvogroup.com/cn/news-and-media/connect-with-us.html
-  34. https://www.volvogroup.com/cn/news-and-media/stories.html
-  35. https://www.volvogroup.com/cn/news-and-media/portraits.html
-  36. https://www.volvogroup.com/cn/sustainability.html
-  37. https://www.volvogroup.com/cn/sustainability/sustainability-future.html
-  38. https://www.volvogroup.com/cn/sustainability/volvo-environment-prize.html
-  39. https://www.volvogroup.com/cn/sustainability/materiality-analysis.html
-  40. https://www.volvogroup.com/cn/sustainability/climate-goals-strategy.html
-  41. https://www.volvogroup.com/cn/sustainability/climate-goals-strategy/reducing-carbon-emissions.html
-  42. https://www.volvogroup.com/cn/sustainability/climate-goals-strategy/environmental-footprint.html
-  43. https://www.volvogroup.com/cn/sustainability/climate-goals-strategy/science-based-targets.html
-  44. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency.html
-  45. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency/sustainable-transport-system.html
-  46. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency/sustainable-value-chain.html
-  47. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency/circularity.html
-  48. https://www.volvogroup.com/cn/sustainability/social-responsibility.html
-  49. https://www.volvogroup.com/cn/sustainability/social-responsibility/workplace-safety.html
-  50. https://www.volvogroup.com/cn/sustainability/social-responsibility/business-ethics.html
-  51. https://www.volvogroup.com/cn/sustainability/social-responsibility/our-employees.html
-  52. https://www.volvogroup.com/cn/sustainability/social-responsibility/community-engagement.html
-  53. https://www.volvogroup.com/cn/about-us.html
-  54. https://www.volvogroup.com/cn/about-us/our-values.html
-  55. https://www.volvogroup.com/cn/about-us/our-values/code-of-conduct-other-policies.html
-  56. https://www.volvogroup.com/cn/about-us/our-values/the-volvo-group-whistle.html
-  57. https://www.volvogroup.com/cn/about-us/our-mission-and-vision.html
-  58. https://www.volvogroup.com/cn/about-us/strategy.html
-  59. https://www.volvogroup.com/cn/about-us/organization.html
-  60. https://www.volvogroup.com/cn/about-us/organization/our-global-presence.html
-  61. https://www.volvogroup.com/cn/about-us/history-and-r-d-milestones.html
-  62. https://www.volvogroup.com/cn/about-us/what-we-do.html
-  63. https://www.volvogroup.com/cn/about-us/what-we-do/our-brands.html
-  64. https://www.volvogroup.com/cn/about-us/partnership-and-awards.html
-  65. https://www.volvogroup.com/cn/about-us/partnership-and-awards/technology-awards.html
-  66. https://www.volvogroup.com/cn/about-us/traffic-safety.html
-  67. https://www.volvogroup.com/cn/about-us/traffic-safety/see-and-be-seen.html
-  68. https://www.volvogroup.com/cn/about-us/corporate-governance.html
-  69. https://www.volvogroup.com/cn/about-us/reports-and-presentations.html
-  70. https://www.volvogroup.com/cn/contact-us.html
-  71. https://www.volvogroup.com/cn/sustainability.html
-  72. https://www.volvogroup.com/cn/sustainability/social-responsibility.html
-  73. https://www.volvogroup.com/cn/about-us/our-values.html
-  74. https://www.volvogroup.com/cn/about-us/our-values/code-of-conduct-other-policies.html
-  75. https://www.volvogroup.com/cn/about-us/our-values/code-of-conduct-other-policies.html
-  76. https://www.unglobalcompact.org/what-is-gc/participants/69-AB-Volvo-Group
-  77. https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf
-  78. https://www.volvogroup.com/cn/sustainability/social-responsibility/business-ethics/human-rights.html
-  79. https://www.volvogroup.com/en/suppliers/our-supplier-requirements.html
-  80. https://www.volvogroup.com/cn/sustainability/social-responsibility/business-ethics/responsible-sales.html
-  81. https://www.volvogroup.com/cn/sustainability.html
-  82. https://www.volvogroup.com/cn/sustainability.html
-  83. https://www.volvogroup.com/cn/sustainability/materiality-analysis.html
-  84. https://www.volvogroup.com/cn/sustainability/materiality-analysis.html
-  85. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency.html
-  86. https://www.volvogroup.com/cn/sustainability/environmental-resources-efficiency.html
-  87. https://www.volvogroup.com/cn/sustainability/sdgs-sustainable-development-goals.html
-  88. https://www.volvogroup.com/cn/sustainability/sdgs-sustainable-development-goals.html
-  89. https://www.volvogroup.com/cn/news-and-media/events.html
-  90. https://www.volvogroup.com/cn/about-us/reports-and-presentations.html
-  91. https://www.volvogroup.com/cn/news-and-media/image-and-video-gallery.html
-  92. https://www.volvogroup.com/cn/news-and-media.html
-  93. https://www.volvogroup.com/cn/careers/opportunities-for-students.html
-  94. https://www.volvogroup.com/cn/news-and-media/connect-with-us.html
-  95. https://www.volvogroup.com/content/dam/volvo-group/markets/china/zh-cn/news-and-media/connect-with-us/volvo-group-wechat-qr-code.jpg
-  96. https://weibo.com/volvogroupchina
-  97. https://i.youku.com/u/UMzYwMTA4OTQ0
-  98. https://www.linkedin.com/company/volvo-group/
-  99. https://www.volvogroup.com/cn/about-us/reports-and-presentations/interim-reports.html
- 100. https://www.volvogroup.com/cn/sustainability.html
- 101. https://www.volvogroup.com/cn/innovation/automation.html
- 102. https://www.volvogroup.com/cn/innovation/electromobility.html
- 103. https://www.volvogroup.com/cn/innovation/connectivity.html
- 104. https://www.volvogroup.com/cn/about-us/traffic-safety.html
- 105. https://www.volvotrucks.com.cn/zh-cn/home.html
- 106. https://www.volvoce.com/china/zh-cn/
- 107. https://www.volvobuses.com/en-en/home.html
- 108. https://www.volvopenta.com/
- 109. https://www.volvoenergy.com/
- 110. https://www.volvoautonomoussolutions.com/en
- 111. https://www.vfsco.com/en/select-market.html
- 112. https://www.rokbak.com/
- 113. https://www.sdlg.cn/
- 114. https://milence.com/
- 115. https://www.renault-trucks.com/
- 116. https://www.prevostcar.com/
- 117. https://novabus.com/
- 118. https://www.macktrucks.com/
- 119. https://www.eichertrucksandbuses.com/
- 120. https://www.dongfengtrucks.com.cn/Index.aspx
- 121. https://www.arquus-defense.com/
- 122. https://www.volvogroup.com/
- 123. https://www.volvogroup.com/cn/contact-us.html
- 124. https://www.volvogroup.com/en/tools/cookies.html
- 125. https://www.volvogroup.com/cn/privacy.html
-
-   Hidden links:
- 127. javascript:;
+     * www.volvogroup.com
+     * 联系我们
+     * Cookie政策
+     * 隐私保护
 </text>
 </page> §
 <page="ch-37">
 <text>
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT
 
-     * [2]世卫组织网站 [3]全球网站
-     * [4]区域网站
+     * 世卫组织网站 全球网站
+     * 区域网站
        世卫组织网站 世卫组织区域办事处网站
-          + [5]非洲 非洲
-          + [6]美洲 美洲
-          + [7]东南亚 东南亚
-          + [8]欧洲 欧洲
-          + [9]东地中海 东地中海
-          + [10]西太平洋 西太平洋
+          + 非洲 非洲
+          + 美洲 美洲
+          + 东南亚 东南亚
+          + 欧洲 欧洲
+          + 东地中海 东地中海
+          + 西太平洋 西太平洋
 
    ____________________
    When autocomplete results are available use up and down arrows to
    review and enter to select.
    选择选择语言__ [选择语言..]
-   [11]世卫组织网站主页
+   世卫组织网站主页
 
-     * [12]世卫组织网站主页
+     * 世卫组织网站主页
 
-     * [13]健康主题
+     * 健康主题
 
-     * [14]All topics
-     * [15]A
-     * [16]B
-     * [17]C
-     * [18]D
-     * [19]E
-     * [20]F
-     * [21]G
-     * [22]H
-     * [23]I
-     * [24]J
-     * [25]K
-     * [26]L
-     * [27]M
-     * [28]N
-     * [29]O
-     * [30]P
-     * [31]Q
-     * [32]R
-     * [33]S
-     * [34]T
-     * [35]U
-     * [36]V
-     * [37]W
-     * [38]X
-     * [39]Y
-     * [40]Z
+     * All topics
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
 
-     * [41]资源
-          + [42]实况报道
-          + [43]图片事实
-          + [44]多媒体
-          + [45]出版物
-          + [46]问题和答案
+     * 资源
+          + 实况报道
+          + 图片事实
+          + 多媒体
+          + 出版物
+          + 问题和答案
 </text>
 </page> §
 <page="ch-38">
 <text>
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
 
-   [4]Skip to main content
+   Skip to main content
 
    G4S 杰富仕
 
-   [5]our websites icon
+   our websites icon
      * g4sglobalsites
-          + [6]G4S Limited
-          + [7]Allied Universal®
-          + [8]Risk Management
-          + [9]AMAG Technology
+          + G4S Limited
+          + Allied Universal®
+          + Risk Management
+          + AMAG Technology
      * where we operate
           + North America
                o Canada - Allied Universal
-                 [10]EN
+                 EN
                o Mexico - Allied Universal
-                 [11]EN
+                 EN
                o Puerto Rico - Allied Universal
-                 [12]EN
+                 EN
                o USA - Allied Universal
-                 [13]EN
+                 EN
           + Europe
                o Austria
-                 [14]DE
+                 DE
                o Belgium
-                 [15]NL [16]FR
+                 NL FR
                o Czech Republic
-                 [17]CS
+                 CS
                o Denmark
-                 [18]DA
+                 DA
                o Estonia
-                 [19]ET
+                 ET
                o France
-                 [20]FR
+                 FR
                o Greece
-                 [21]EL
+                 EL
                o Guernsey
-                 [22]EN
+                 EN
                o Ireland
-                 [23]EN
+                 EN
                o Isle of Man
-                 [24]EN
+                 EN
                o Israel
-                 [25]EN
+                 EN
                o Jersey
-                 [26]EN
+                 EN
                o Latvia
-                 [27]LV
+                 LV
                o Lithuania
-                 [28]LT
+                 LT
                o Luxembourg
-                 [29]FR
+                 FR
                o Malta
-                 [30]EN
+                 EN
                o Netherlands
-                 [31]NL
+                 NL
                o Serbia
-                 [32]SR [33]EN
+                 SR EN
                o Slovakia
-                 [34]SK
+                 SK
                o Slovenia
-                 [35]SL
+                 SL
                o Turkey
-                 [36]TR
+                 TR
                o Ukraine
-                 [37]UK
+                 UK
                o United Kingdom
-                 [38]EN
+                 EN
           + Africa
                o Angola
-                 [39]EN
+                 EN
                o Botswana
-                 [40]EN
+                 EN
                o Cameroon
-                 [41]EN
+                 EN
                o Democratic Republic of Congo
-                 [42]EN [43]FR
+                 EN FR
                o Gabon
-                 [44]EN
+                 EN
                o Gambia
-                 [45]EN
+                 EN
                o Ghana
-                 [46]EN
+                 EN
                o Guinea
-                 [47]EN [48]FR
+                 EN FR
                o Ivory Coast
-                 [49]EN [50]FR
+                 EN FR
                o Kenya
-                 [51]EN
+                 EN
                o Lesotho
-                 [52]EN
+                 EN
                o Madagascar
-                 [53]EN [54]FR
+                 EN FR
                o Malawi
-                 [55]EN
+                 EN
                o Morocco
-                 [56]FR
+                 FR
                o Mozambique
-                 [57]EN [58]PT
+                 EN PT
                o Namibia
-                 [59]EN
+                 EN
                o Nigeria
-                 [60]EN
+                 EN
                o Sierra Leone
-                 [61]EN
+                 EN
                o South Africa
-                 [62]EN
+                 EN
                o Tanzania
-                 [63]EN
+                 EN
                o Uganda
-                 [64]EN
+                 EN
                o Zambia
-                 [65]EN
+                 EN
           + Latin America
                o Argentina
-                 [66]ES
+                 ES
                o Barbados
-                 [67]EN
+                 EN
                o Brasil
-                 [68]PT
+                 PT
                o Chile
-                 [69]ES
+                 ES
                o Colombia
-                 [70]ES
+                 ES
                o Costa Rica
-                 [71]ES [72]EN
+                 ES EN
                o Ecuador
-                 [73]ES
+                 ES
                o El Salvador
-                 [74]ES [75]EN
+                 ES EN
                o Guatemala
-                 [76]ES
+                 ES
                o Nicaragua
-                 [77]ES [78]EN
+                 ES EN
                o Paraguay
-                 [79]ES
+                 ES
                o Peru
-                 [80]ES
+                 ES
                o Trinidad and Tobago
-                 [81]EN
+                 EN
                o Uruguay
-                 [82]ES
+                 ES
           + Asia Pacific
                o Australia and New Zealand
-                 [83]EN
+                 EN
                o Bangladesh
-                 [84]EN
+                 EN
                o China
-                 [85]ZH [86]EN
+                 ZH EN
                o Guam &amp; CNMI
-                 [87]EN
+                 EN
                o Hong Kong
-                 [88]EN
+                 EN
                o India
-                 [89]EN
+                 EN
                o Indonesia
-                 [90]EN [91]ID
+                 EN ID
                o Japan 日本
-                 [92]JA [93]EN
+                 JA EN
                o Macau
-                 [94]EN
+                 EN
                o Nepal
-                 [95]EN
+                 EN
                o Papua New Guinea
-                 [96]EN
+                 EN
                o Singapore
-                 [97]EN
+                 EN
                o Taiwan
-                 [98]ZH [99]EN
+                 ZH EN
                o Thailand
-                 [100]EN
+                 EN
           + Middle East
                o Bahrain
-                 [101]EN
+                 EN
                o Egypt
-                 [102]EN
+                 EN
                o Jordan
-                 [103]EN
+                 EN
                o Lebanon
-                 [104]EN
+                 EN
                o Oman
-                 [105]EN
+                 EN
                o Qatar
-                 [106]EN
+                 EN
                o Saudi Arabia
-                 [107]AR [108]EN
+                 AR EN
                o United Arab Emirates
-                 [109]EN
+                 EN
                o Yemen
-                 [110]EN
+                 EN
 
      * 中文(简体)
-     * [111]English
+     * English
 
-[112]G4S, An Allied Universal Company logo
+G4S, An Allied Universal Company logo
 
-   [113]menu
+   menu
 
-     * Who we are [114]Who we are
-       [115]Who we are
-          + G4S Global 全球集团 [116]G4S Global 全球集团
-               o [117]G4S History 历史沿革
-          + [118]G4S China 杰富仕集团
-     * [119]What we do 业务范围
-     * [120]Social Responsibility 社会责任
+     * Who we are Who we are
+       Who we are
+          + G4S Global 全球集团 G4S Global 全球集团
+               o G4S History 历史沿革
+          + G4S China 杰富仕集团
+     * What we do 业务范围
+     * Social Responsibility 社会责任
 
    Social Responsibility
 
 企业社会责任 CSR
 
-     * [121]G4S China 杰富仕
+     * G4S China 杰富仕
      * Social Responsibility 社会责任
 
 担负企业社会责任
@@ -3956,7 +3207,7 @@ References
    G4S重视对员工、客户、投资者、及当地小区和股东的道德责任。
    G4S考虑到经济、社会和环境等因素都有可能会冲击到我们的事业，因此在为我们创造最大利润的同时，也致力将负面冲击的影响降到最低。
    尽管G4S的整体表现已符合企业基本的道德政策，但我们仍持续严谨看待集团的贡献以及承诺，因为这才是G4S建立社会责任的根基。
-   [122]了解G4S对于企业社会责任的承诺
+   了解G4S对于企业社会责任的承诺
    G4S CSR
 
 媒体联系中心
@@ -3968,171 +3219,29 @@ References
    您可以登录G4S集团官方网站阅读最新的新闻稿，或是下载年度报告，了解G4S全球最新的发展。
    Contact us
 
-[123]G4S杰富仕
+G4S杰富仕
 
    联系方式
 
 上海 北京 深圳 广州
 
-   [124]业务洽询请发电邮
-     * [125]+86 571-89915158
+   业务洽询请发电邮
+     * +86 571-89915158
 
-     * [126]info@cn.g4s.com
+     * info@cn.g4s.com
 
-     * [127]G4S Privacy Statement
-     * [128]Cookies Policy
-     * [129]Accessibility Statement
+     * G4S Privacy Statement
+     * Cookies Policy
+     * Accessibility Statement
 
-     * [130]Facebook
-     * [131]LinkedIn
-     * [132]Twitter
-     * [133]G4S Global Instagram
-     * [134]G4S Global YouTube
+     * Facebook
+     * LinkedIn
+     * Twitter
+     * G4S Global Instagram
+     * G4S Global YouTube
 
    © G4S Limited 2023. All Rights Reserved.
-   [135]^
-
-References
-
-   Visible links:
-   1. https://www.g4s.com/en-cn/social-responsibility
-   2. https://www.g4s.com/zh-cn/social-responsibility
-   3. https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
-   4. https://www.g4s.com/
-   5. https://www.g4s.com/zh-cn/social-responsibility
-   6. https://www.g4s.com/
-   7. https://www.aus.com/
-   8. https://www.g4sriskmanagement.com/
-   9. https://www.amag.com/
-  10. https://ausecurity.ca/
-  11. https://ausecurity.mx/
-  12. https://www.aus.com/puerto-rico-security-systems-services
-  13. https://www.aus.com/
-  14. https://www.g4s.com/de-at
-  15. https://www.g4s.com/nl-be
-  16. https://www.g4s.com/fr-be
-  17. https://www.g4s.com/cs-cz
-  18. https://www.g4s.dk/
-  19. https://www.g4s.ee/
-  20. https://www.g4s.com/fr-fr
-  21. https://www.g4s.com/el-gr
-  22. https://www.g4s.com/en-gb/who-we-are/guernsey
-  23. https://www.g4s.com/en-ie
-  24. https://www.g4s.com/en-gb/who-we-are/isle-of-man
-  25. https://www.g4s.com/media-centre/news/2017/06/29/sale-of-g4s-secure-solutions-israel-ltd
-  26. https://www.g4s.com/en-gb/who-we-are/jersey
-  27. https://www.g4s.com/lv-lv
-  28. https://www.g4s.com/lt-lt
-  29. https://www.g4s.com/fr-lu
-  30. https://www.g4s.com/en-mt
-  31. https://www.g4s.com/nl-nl
-  32. https://www.g4s.com/sr-rs
-  33. https://www.g4s.com/en-rs
-  34. https://www.g4s.com/sk-sk
-  35. https://www.g4s.com/sl-si
-  36. https://www.g4s.com/tr-tr
-  37. https://www.g4s.com/uk-ua
-  38. https://www.g4s.com/en-gb
-  39. https://www.g4s.com/en-ao
-  40. https://www.g4s.com/en-bw
-  41. https://www.g4s.com/zh-cn/cameroon
-  42. https://www.g4s.com/en-cd
-  43. https://www.g4s.com/fr-cd
-  44. https://www.g4s.com/en-ga
-  45. https://www.g4s.com/en-gm
-  46. https://www.g4s.com/en-gh
-  47. https://www.g4s.com/en-gn
-  48. https://www.g4s.com/fr-gn
-  49. https://www.g4s.com/en-ci
-  50. https://www.g4s.com/fr-ci
-  51. https://www.g4s.com/en-ke
-  52. https://www.g4s.com/en-ls
-  53. https://www.g4s.com/en-mg
-  54. https://www.g4s.com/fr-mg
-  55. https://www.g4s.com/en-mw
-  56. https://www.g4s.com/fr-ma
-  57. https://www.g4s.com/en-mz
-  58. https://www.g4s.com/pt-mz
-  59. https://www.g4s.com/en-na
-  60. https://www.g4s.com/en-ng
-  61. https://www.g4s.com/en-sl
-  62. https://www.g4s.com/en-za
-  63. https://www.g4s.com/en-tz
-  64. https://www.g4s.com/en-ug
-  65. https://www.g4s.com/en-zm
-  66. https://www.g4s.com/es-ar
-  67. https://www.g4s.com/en-bb
-  68. https://www.g4s.com/pt-br
-  69. https://www.g4s.com/es-cl
-  70. https://www.g4s.com/es-co
-  71. https://www.g4s.com/es-cr
-  72. https://www.g4s.com/en-cr
-  73. https://www.g4s.com/es-ec
-  74. https://www.g4s.com/es-sv
-  75. https://www.g4s.com/es-sv
-  76. https://www.g4s.com/es-gt
-  77. https://www.g4s.com/es-ni
-  78. https://www.g4s.com/en-ni
-  79. https://www.g4s.com/es-py
-  80. https://www.g4s.com/es-pe
-  81. https://www.g4s.com/en-tt
-  82. https://www.g4s.com/es-uy
-  83. https://www.g4s.com/en-au
-  84. https://www.g4s.com/en-bd
-  85. https://www.g4s.com/zh-cn
-  86. https://www.g4s.com/en-cn
-  87. https://www.g4s.com/en-gu
-  88. https://www.g4s.com/en-hk
-  89. https://www.g4s.com/en-in
-  90. https://www.g4s.com/en-id
-  91. https://www.g4s.com/id-id
-  92. https://www.g4s.com/ja-jp
-  93. https://www.g4s.com/en-jp
-  94. https://www.g4s.com/en-mo
-  95. https://www.g4s.com/en-np
-  96. https://www.g4s.com/en-pg
-  97. https://www.g4s.com/en-sg
-  98. https://www.g4s.com/zh-tw
-  99. https://www.g4s.com/en-tw
- 100. https://www.g4s.com/en-th
- 101. https://www.g4s.com/en-bh
- 102. https://www.g4s.com/en-eg
- 103. https://www.g4s.com/en-jo
- 104. https://www.g4s.com/en-lb
- 105. https://www.g4s.com/en-om
- 106. https://www.g4s.com/en-qa
- 107. https://www.g4s.com/ar-sa
- 108. https://www.g4s.com/en-sa
- 109. https://www.g4s.com/en-ae
- 110. https://www.g4s.com/en-ye
- 111. https://www.g4s.com/en-cn/social responsibility
- 112. https://www.g4s.com/zh-cn
- 113. https://www.g4s.com/zh-cn/social-responsibility
- 114. https://www.g4s.com/zh-cn/who-we-are
- 115. https://www.g4s.com/zh-cn/who-we-are
- 116. https://www.g4s.com/zh-cn/who-we-are/g4s-global
- 117. https://www.g4s.com/zh-cn/who-we-are/g4s-global/history
- 118. https://www.g4s.com/zh-cn/who-we-are/china
- 119. https://www.g4s.com/zh-cn/what-we-do
- 120. https://www.g4s.com/zh-cn/social-responsibility
- 121. https://www.g4s.com/zh-cn
- 122. https://www.g4s.com/zh-cn/corporate/social-responsibility
- 123. https://www.g4s.com/contact-us
- 124. https://www.g4s.com/zh-cn/social-responsibility
- 125. tel:+86 571-89915158
- 126. mailto:info@cn.g4s.com
- 127. https://www.g4s.com/site-tools/privacy
- 128. https://www.g4s.com/site-tools/cookies-policy
- 129. https://www.g4s.com/site-tools/accessibility
- 130. https://www.facebook.com/G4S
- 131. https://www.linkedin.com/company/g4s
- 132. https://twitter.com/g4s
- 133. https://www.instagram.com/g4slimited/
- 134. https://www.youtube.com/user/G4SUK/featured
- 135. https://www.g4s.com/zh-cn/social-responsibility
-
-   Hidden links:
- 137. https://www.g4s.com/zh-cn/social-responsibility
+   ^
 </text>
 </page> §
 <page="ch-39">
@@ -4140,22 +3249,22 @@ References
    (BUTTON)
    巴斯夫中国
    可持续发展
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON) [1]Global Home
-   [2]巴斯夫中国
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) Global Home
    巴斯夫中国
-          + [3]/content/basf/www/cn/zh
-          + [4]/content/basf/www/cn/zh/who-we-are
-          + [5]/content/basf/www/cn/zh/who-we-are/sustainability
-          + [6]/content/basf/www/cn/zh/who-we-are/sustainability/we-source
-            -responsibly
+   巴斯夫中国
+          + /content/basf/www/cn/zh
+          + /content/basf/www/cn/zh/who-we-are
+          + /content/basf/www/cn/zh/who-we-are/sustainability
+          + /content/basf/www/cn/zh/who-we-are/sustainability/we-source-re
+            sponsibly
 
-     [7]关于巴斯夫
+     关于巴斯夫
 
-     [8]产品与市场
+     产品与市场
 
-     [9]新闻中心
+     新闻中心
 
-     [10]加入我们
+     加入我们
      *
      *
      *
@@ -4170,90 +3279,83 @@ References
 
    (BUTTON)
 
-   [11]Global Home
+   Global Home
      *
      *
      *
      *
 
    (BUTTON) (BUTTON)
-          + [12]/content/basf/www/cn/zh
-          + [13]/content/basf/www/cn/zh/who-we-are
-          + [14]/content/basf/www/cn/zh/who-we-are/sustainability
-          + [15]/content/basf/www/cn/zh/who-we-are/sustainability/we-sourc
-            e-responsibly
+          + /content/basf/www/cn/zh
+          + /content/basf/www/cn/zh/who-we-are
+          + /content/basf/www/cn/zh/who-we-are/sustainability
+          + /content/basf/www/cn/zh/who-we-are/sustainability/we-source-re
+            sponsibly
 
-     [16]关于巴斯夫
+     关于巴斯夫
 
-     [17]产品与市场
+     产品与市场
 
-     [18]新闻中心
+     新闻中心
 </text>
 </page> §
 <page="ch-4">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate [24]alternate [25]alternate
-   [26]alternate [27]alternate [28]alternate [29]alternate [30]alternate
-   [31]alternate [32]alternate [33]alternate [34]alternate [35]alternate
-   [36]alternate [37]alternate [38]alternate [39]alternate [40]alternate
-   [41]alternate [42]alternate [43]alternate [44]alternate [45]alternate
-   [46]alternate [47]alternate [48]alternate [49]alternate [50]alternate
-   [51]alternate [52]alternate [53]alternate [54]alternate [55]alternate
-   [56]alternate [57]alternate [58]alternate [59]alternate [60]alternate
-   [61]alternate [62]alternate [63]alternate [64]alternate [65]alternate
-   [66]alternate [67]alternate [68]alternate [69]alternate [70]alternate
-   [71]alternate [72]alternate [73]alternate [74]alternate [75]alternate
-   [76]alternate [77]alternate [78]alternate [79]alternate [80]alternate
-   [81]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
 
    (BUTTON)
-     * [82]Apple
+     * Apple
      *
-          + [83]商店
-          + [84]Mac
-          + [85]iPad
-          + [86]iPhone
-          + [87]Watch
-          + [88]AirPods
+          + 商店
+          + Mac
+          + iPad
+          + iPhone
+          + Watch
+          + AirPods
 </text>
 </page> §
 <page="ch-40">
 <text>
-   [1]南京面向全球征集南京大屠杀主题海报[2]基层博物馆凸显专业人才缺失尴尬[3]这种“层层压实责任”，实际是层层不负责任！[4]一个跑一个闹
-   两女子骑共享单车逆行拒缴罚款[5]美军泄密士兵曼宁刑满出狱[6]大凉山最后的慢火车：47年线路依旧
-   22年票价未涨[7]华北近日遭遇高温“烤”验 影响范围涉及7个省[8]北京旧城"限高"45米
-   你知道是怎么来的吗？[9]新华社评论员：以创新追求勇攀科研高峰——海归战略科学家黄大年的人生启示之二[10]新疆哈密：传递的话筒 流动的民意
+   南京面向全球征集南京大屠杀主题海报基层博物馆凸显专业人才缺失尴尬这种“层层压实责任”，实际是层层不负责任！一个跑一个闹
+   两女子骑共享单车逆行拒缴罚款美军泄密士兵曼宁刑满出狱大凉山最后的慢火车：47年线路依旧 22年票价未涨华北近日遭遇高温“烤”验
+   影响范围涉及7个省北京旧城"限高"45米
+   你知道是怎么来的吗？新华社评论员：以创新追求勇攀科研高峰——海归战略科学家黄大年的人生启示之二新疆哈密：传递的话筒 流动的民意
      * 客户端
      * 搜索
      * 频道
 
    下一篇
    ____________________
-   [11]时政 [12]地方 [13]法治 [14]高层 [15]人事 [16]理论 [17]国际 [18]军事 [19]访谈 [20]港澳
-   [21]台湾 [22]华人 [23]财经 [24]汽车 [25]房产 [26]教育 [27]科技 [28]能源 [29]论坛 [30]思客
-   [31]网评 [32]图片 [33]视频 [34]彩票 [35]娱乐 [36]时尚 [37]体育 [38]食品 [39]旅游 [40]健康
-   [41]信息化 [42]数据 [43]舆 情 [44]VR/AR [45]微视评 [46]公益 [47]无人机 [48]一带一路
+   时政 地方 法治 高层 人事 理论 国际 军事 访谈 港澳 台湾 华人 财经 汽车 房产 教育 科技 能源 论坛 思客 网评 图片 视频 彩票
+   娱乐 时尚 体育 食品 旅游 健康 信息化 数据 舆 情 VR/AR 微视评 公益 无人机 一带一路
 
-   [49]中国食品辟谣联盟官网正式上线[50]驱走"心灵感冒"远离抑郁焦虑[51]买2送1极品老淡干海参，优惠滋补季
-   [52]新华网 正文
+   中国食品辟谣联盟官网正式上线驱走"心灵感冒"远离抑郁焦虑买2送1极品老淡干海参，优惠滋补季
+   新华网 正文
 
    IFRAME:
-   [53]http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_sz
-   nyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
+   http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_sznyqz
+   &amp;db=xinhuanet&amp;border=0&amp;local=yes
 
    IFRAME:
-   [54]http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_cj
-   nyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
+   http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_cjnyqz
+   &amp;db=xinhuanet&amp;border=0&amp;local=yes
 
    IFRAME:
-   [55]http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_gj
-   nyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
+   http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_gjnyqz
+   &amp;db=xinhuanet&amp;border=0&amp;local=yes
 
-   [56][net_logo.png]
+   [net_logo.png]
    这种“层层压实责任”，实际是层层不负责任！
    2017-05-18 09:44:33 来源： 半月谈网
 
@@ -4337,7 +3439,7 @@ References
    　　要给乡镇干部松绑减负，当务之急是去一去责任状的“库存”，挤一挤这种落后行政手段的“水分”。另外，还要在责任分担、上下联动、科学考核方面，再
    多想想办法，千万别再动不动就以责任状落实责任了。
    +1
-   [57]【纠错】
+   【纠错】
 
    [space.gif]
    责任编辑： 张朝华
@@ -4346,55 +3448,49 @@ References
 
    加载更多
        热帖
-     * [58]醉驾入刑“松动”，会更公平还是更侥幸？
+     * 醉驾入刑“松动”，会更公平还是更侥幸？
        2017-05-18 08:25:03
-     * [59]中国又一“超级工程”震惊老外：占了一条河！
+     * 中国又一“超级工程”震惊老外：占了一条河！
        2017-05-17 14:23:01
-     * [60]夏天到了，这两样东西一起用可能爆燃…
+     * 夏天到了，这两样东西一起用可能爆燃…
        2017-05-17 13:25:39
-     * [61]一季度谁最能挣钱？可能是这五个省份
+     * 一季度谁最能挣钱？可能是这五个省份
        2017-05-17 13:25:39
-     * [62]不文明举止？大学校园内情侣搂抱被查！
+     * 不文明举止？大学校园内情侣搂抱被查！
        2017-05-17 13:25:39
 
    炫图 视频
-     * [63][1120992286_1495070337275_title1n.gif]
+     * [1120992286_1495070337275_title1n.gif]
        小区圈养孔雀 居民评价不一
-     * [64][1120992753_1495071732220_title1n.png]
+     * [1120992753_1495071732220_title1n.png]
        索马里首都发生汽车炸弹袭击
 
-     * [65][1120990932_1495064070063_title1n.jpg]
+     * [1120990932_1495064070063_title1n.jpg]
        白虎宝宝实力卖萌
-     * [66][1120990868_1495063700711_title1n.jpg]
+     * [1120990868_1495063700711_title1n.jpg]
        电蚊拍杀虫剂不能同用
 
    热词
-   [67]国家信访局[68]债券通[69]中菲南海争端[70]高温天气[71]黄大年[72]大学英语四级考试[73]乙肝歧视[74]机器人[75
-   ]民用无人机[76]药品加成
+   国家信访局债券通中菲南海争端高温天气黄大年大学英语四级考试乙肝歧视机器人民用无人机药品加成
 
-   [77]俯瞰迪拜
    俯瞰迪拜
-   [78]戛纳电影节评委亮相
+   俯瞰迪拜
    戛纳电影节评委亮相
-   [79]长龙卧波
+   戛纳电影节评委亮相
    长龙卧波
-   [80]白宫为“泄密”事件灭火
+   长龙卧波
+   白宫为“泄密”事件灭火
    白宫为“泄密”事件灭火
 
-   [81]四川臭氧怎么治理？“国家队”专家前来把脉[82]埃及古墓出土32具人类木乃伊 18具保存完好[83]手足口病发病率高尚无针对性治疗药物
-   预防是关键[84]雄安新区调查摸底房屋人口等情况
-   与征迁安置无关[85]【高考情报局】八十岁的人大等待十八岁的你[86]日本自卫队失联侦察机坠机 机上4人全部死亡[87]从出生到结婚
-   妈妈为女儿制作八本成长档案[88]欧洲警政署：如果遭遇勒索病毒攻击请勿支付赎金[89]爱德华·菲利普任法国新总理
-   擅长写政治悬念小说[90]德国警告马克龙 反对大刀阔斧式欧盟改革
+   四川臭氧怎么治理？“国家队”专家前来把脉埃及古墓出土32具人类木乃伊 18具保存完好手足口病发病率高尚无针对性治疗药物
+   预防是关键雄安新区调查摸底房屋人口等情况 与征迁安置无关【高考情报局】八十岁的人大等待十八岁的你日本自卫队失联侦察机坠机
+   机上4人全部死亡从出生到结婚 妈妈为女儿制作八本成长档案欧洲警政署：如果遭遇勒索病毒攻击请勿支付赎金爱德华·菲利普任法国新总理
+   擅长写政治悬念小说德国警告马克龙 反对大刀阔斧式欧盟改革
 
-   [91]时政 [92]地方 [93]法治 [94]高层 [95]人事 [96]理论 [97]国际 [98]军事 [99]访谈 [100]港澳
-   [101]台湾 [102]华人 [103]财经 [104]汽车 [105]房产 [106]教育 [107]科技 [108]能源 [109]论坛
-   [110]思客 [111]网评 [112]图片 [113]视频 [114]彩票 [115]娱乐 [116]时尚 [117]体育 [118]食品
-   [119]旅游 [120]健康 [121]信息化 [122]数据 [123]舆 情 [124]VR/AR [125]微视评 [126]公益
-   [127]无人机 [128]一带一路
+   时政 地方 法治 高层 人事 理论 国际 军事 访谈 港澳 台湾 华人 财经 汽车 房产 教育 科技 能源 论坛 思客 网评 图片 视频 彩票
+   娱乐 时尚 体育 食品 旅游 健康 信息化 数据 舆 情 VR/AR 微视评 公益 无人机 一带一路
    关注我们
-   [129]新华社简介 [130]公司官网 [131]联系我们 [132]我要链接 [133]版权声明 [134]法律顾问 [135]广告服务
-   [136]技术服务中心
+   新华社简介 公司官网 联系我们 我要链接 版权声明 法律顾问 广告服务 技术服务中心
 
    这种“层层压实责任”，实际是层层不负责任！
 
@@ -4402,184 +3498,29 @@ References
 
    010020020110000000000000011103301296069291
    [1.gif?z=1&amp;_wdxid=010020020110000000000000011103301296069291]
-
-References
-
-   Visible links:
-   1. http://news.xinhuanet.com/politics/2017-05/18/c_1120992640.htm
-   2. http://news.xinhuanet.com/politics/2017-05/18/c_1120992639.htm
-   3. http://news.xinhuanet.com/politics/2017-05/18/c_129606929.htm
-   4. http://news.xinhuanet.com/legal/2017-05/18/c_1120992641.htm
-   5. http://news.xinhuanet.com/world/2017-05/18/c_1120992617.htm
-   6. http://news.xinhuanet.com/politics/2017-05/18/c_1120992600.htm
-   7. http://news.xinhuanet.com/politics/2017-05/18/c_1120992463.htm
-   8. http://news.xinhuanet.com/politics/2017-05/18/c_1120992519.htm
-   9. http://news.xinhuanet.com/politics/2017-05/18/c_1120992466.htm
-  10. http://news.xinhuanet.com/local/2017-05/18/c_1120992370.htm
-  11. http://www.news.cn/politics/
-  12. http://www.news.cn/local/index.htm
-  13. http://www.news.cn/legal/index.htm
-  14. http://www.news.cn/politics/leaders/index.htm
-  15. http://www.news.cn/renshi/index.htm
-  16. http://www.xinhuanet.com/politics/xhll.htm
-  17. http://www.news.cn/world/index.htm
-  18. http://www.news.cn/mil/index.htm
-  19. http://www.news.cn/video/xhft.htm
-  20. http://www.news.cn/gangao/index.htm
-  21. http://www.news.cn/tw/index.htm
-  22. http://www.news.cn/overseas/index.htm
-  23. http://www.news.cn/fortune/
-  24. http://www.news.cn/auto/index.htm
-  25. http://www.news.cn/house/index.htm
-  26. http://education.news.cn/
-  27. http://www.news.cn/tech/index.htm
-  28. http://www.news.cn/energy/index.htm
-  29. http://forum.home.news.cn/index.jsp
-  30. http://sike.news.cn/
-  31. http://www.news.cn/comments/index.htm
-  32. http://www.news.cn/photo/index.htm
-  33. http://www.news.cn/video/index.htm
-  34. http://www.news.cn/caipiao/index.htm
-  35. http://ent.news.cn/
-  36. http://www.news.cn/fashion/index.htm
-  37. http://www.news.cn/sports/
-  38. http://www.news.cn/food/index.htm
-  39. http://travel.news.cn/
-  40. http://www.news.cn/health/
-  41. http://www.news.cn/info/index.htm
-  42. http://www.xinhuanet.com/datanews/index.htm
-  43. http://www.news.cn/yuqing/index.htm
-  44. http://www.news.cn/vr/
-  45. http://www.news.cn/video/xhwsp/index.htm
-  46. http://www.news.cn/gongyi/index.htm
-  47. http://uav.news.cn/
-  48. http://xinhuanet.com/silkroad/index.htm
-  49. http://www.xinhuanet.com/food/sppy/index.htm
-  50. http://www.xinhuanet.com/health/zt/2015yyzheng.htm
-  51. https://detail.tmall.com/item.htm?_u=525138f5eaa6&amp;id=44089666128
-  52. http://www.xinhuanet.com/
-  53. http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_sznyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
-  54. http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_cjnyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
-  55. http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2016xl|xl17_gjnyqz&amp;db=xinhuanet&amp;border=0&amp;local=yes
-  56. http://www.xinhuanet.com/
-  57. javascript:void(0);
-  58. http://forum.home.news.cn/detail/140891892/1.html
-  59. http://forum.home.news.cn/detail/140890356/1.html
-  60. http://forum.home.news.cn/detail/140890238/1.html
-  61. http://forum.home.news.cn/detail/140890232/1.html
-  62. http://forum.home.news.cn/detail/140890222/1.html
-  63. http://news.xinhuanet.com/photo/2017-05/18/c_1120991132.htm
-  64. http://news.xinhuanet.com/photo/2017-05/18/c_1120992669.htm
-  65. http://news.xinhuanet.com/video/2017-05/18/c_129606703.htm
-  66. http://news.xinhuanet.com/video/2017-05/17/c_129606584.htm
-  67. http://baike.baidu.com/item/国家信访局?sefr=xinhuawang
-  68. http://baike.baidu.com/item/债券通?sefr=xinhuawang
-  69. http://baike.baidu.com/item/中菲南海争端?sefr=xinhuawang
-  70. http://baike.baidu.com/item/高温天气?sefr=xinhuawang
-  71. http://baike.baidu.com/item/黄大年/5598931?sefr=xinhuawang
-  72. http://baike.baidu.com/item/大学英语四级考试?sefr=xinhuawang
-  73. http://baike.baidu.com/item/乙肝歧视?sefr=xinhuawang
-  74. http://baike.baidu.com/item/机器人/888?sefr=xinhuawang
-  75. http://baike.baidu.com/item/民用无人机?sefr=xinhuawang
-  76. http://baike.baidu.com/item/药品加成?sefr=xinhuawang
-  77. http://news.xinhuanet.com/photo/2017-05/18/c_1120991287.htm
-  78. http://news.xinhuanet.com/photo/2017-05/17/c_1120990541.htm
-  79. http://news.xinhuanet.com/photo/2017-05/17/c_1120990026.htm
-  80. http://news.xinhuanet.com/photo/2017-05/17/c_1120989892.htm
-  81. http://m.xinhuanet.com/2017-05/16/c_1120980738.htm
-  82. http://news.xinhuanet.com/video/2017-05/16/c_129605865.htm
-  83. http://www.hb.xinhuanet.com/2017-05/16/c_1120982651.htm
-  84. http://news.xinhuanet.com/politics/2017-05/16/c_1120982075.htm
-  85. http://education.news.cn/2017talk/20170511b-no-portrait.htm
-  86. http://news.xinhuanet.com/world/2017-05/16/c_129605731.htm
-  87. http://news.xinhuanet.com/video/2017-05/16/c_129605695.htm
-  88. http://news.xinhuanet.com/world/2017-05/16/c_129605577.htm
-  89. http://news.xinhuanet.com/world/2017-05/16/c_129605544.htm
-  90. http://news.xinhuanet.com/world/2017-05/16/c_129605506.htm
-  91. http://www.news.cn/politics/
-  92. http://www.news.cn/local/index.htm
-  93. http://www.news.cn/legal/index.htm
-  94. http://www.news.cn/politics/leaders/index.htm
-  95. http://www.news.cn/renshi/index.htm
-  96. http://www.xinhuanet.com/politics/xhll.htm
-  97. http://www.news.cn/world/index.htm
-  98. http://www.news.cn/mil/index.htm
-  99. http://www.news.cn/video/xhft.htm
- 100. http://www.news.cn/gangao/index.htm
- 101. http://www.news.cn/tw/index.htm
- 102. http://www.news.cn/overseas/index.htm
- 103. http://www.news.cn/fortune/
- 104. http://www.news.cn/auto/index.htm
- 105. http://www.news.cn/house/index.htm
- 106. http://education.news.cn/
- 107. http://www.news.cn/tech/index.htm
- 108. http://www.news.cn/energy/index.htm
- 109. http://forum.home.news.cn/index.jsp
- 110. http://sike.news.cn/
- 111. http://www.news.cn/comments/index.htm
- 112. http://www.news.cn/photo/index.htm
- 113. http://www.news.cn/video/index.htm
- 114. http://www.news.cn/caipiao/index.htm
- 115. http://ent.news.cn/
- 116. http://www.news.cn/fashion/index.htm
- 117. http://www.news.cn/sports/
- 118. http://www.news.cn/food/index.htm
- 119. http://travel.news.cn/
- 120. http://www.news.cn/health/
- 121. http://www.news.cn/info/index.htm
- 122. http://www.xinhuanet.com/datanews/index.htm
- 123. http://www.news.cn/yuqing/index.htm
- 124. http://www.news.cn/vr/
- 125. http://www.news.cn/video/xhwsp/index.htm
- 126. http://www.news.cn/gongyi/index.htm
- 127. http://uav.news.cn/
- 128. http://xinhuanet.com/silkroad/index.htm
- 129. http://203.192.6.89/xhs/
- 130. http://www.xinhuanet.ltd/
- 131. http://www.xinhuanet.com/company/contact-us.htm
- 132. http://www.news.cn/linktous.htm
- 133. http://www.xinhuanet.com/company/copyright.htm
- 134. http://www.xinhuanet.com/company/legal.htm
- 135. http://www.news.cn/xwhggfw/index.htm
- 136. http://www.news.cn/jsfw/index.html
-
-   Hidden links:
- 138. http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm
- 139. http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm
- 140. javascript:void(0);
- 141. http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm
- 142. javascript:void(0);
- 143. javascript:void(0);
- 144. javascript:void(0);
- 145. http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm#news-com-location
- 146. javascript:void(0);
- 147. http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm
- 148. javascript:void(0);
- 149. http://weibo.com/newsxh
- 150. http://www.news.cn/2015/xhcppub/xhsxw/index.html
 </text>
 </page> §
 <page="ch-41">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]Rexel » Feed
-   [11]Rexel » 评论Feed [12]alternate [13]alternate [14]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate Rexel » Feed Rexel » 评论Feed alternate alternate
+   alternate
 
-   [15]Rexel
+   Rexel
 
-     * [16]
-     * [17]道德举报
-     * [18]
-     * [19]中文 (中国)
-          + [20]Français
-          + [21]English
-          + [22]Deutsch
-          + [23]Italiano
-          + [24]Nederlands
-          + [25]Slovenščina
-          + [26]Suomi
-          + [27]Svenska
-          + [28]中文 (中国)
+     * 
+     * 道德举报
+     * 
+     * 中文 (中国)
+          + Français
+          + English
+          + Deutsch
+          + Italiano
+          + Nederlands
+          + Slovenščina
+          + Suomi
+          + Svenska
+          + 中文 (中国)
 
    选择页面
    ____________________
@@ -4592,7 +3533,7 @@ References
    沟通和举报程序
    蓝格赛：一家有社会责任感的公司
    蓝格赛：负责任的雇主和员工
-   [29]PDF
+   PDF
    作为一名雇主，蓝格赛重视并规定了应该允许每个员工预测难度的行为，并找到应对苛刻情形的正确答案。
 
 尊严、多样性和对个人的尊重
@@ -4654,58 +3595,18 @@ IT 设备
 
 EXPORT :
 
-   [30]WHOLE GUIDE
-   [31]CURRENT CHAPTER
+   WHOLE GUIDE
+   CURRENT CHAPTER
 
-     * [32]实践中的道德指南
-     * [33]反腐败行为准则
-     * [34]竞争法
+     * 实践中的道德指南
+     * 反腐败行为准则
+     * 竞争法
 
-     * [35]网站地图
-     * [36]法律条文
-     * [37]图文版权所有
+     * 网站地图
+     * 法律条文
+     * 图文版权所有
 
     © 2020 Rexel
-
-References
-
-   1. https://ethique.rexel.com/guide-ethique/rexel-un-employeur-et-des-collaborateurs-responsables/
-   2. https://ethique.rexel.com/en/ethics-guide/rexel-responsible-employer-and-employees/
-   3. https://ethique.rexel.com/de/ethikleitfaden/rexel-verantwortungsbewusstsein-von-arbeitgeber-und-arbeitnehmern/
-   4. https://ethique.rexel.com/it/guida-etica/rexel-datore-di-lavoro-e-collaboratori-responsabili/
-   5. https://ethique.rexel.com/nl/ethische-gids/rexel-een-verantwoordelijke-werkgever-met-verantwoordelijke-medewerkers/
-   6. https://ethique.rexel.com/sl/eticni-kodeks/rexel-delodajalec-in-odgovorni-zaposleni/
-   7. https://ethique.rexel.com/fi/eettinen-opas/rexel-vastuullinen-tyonantaja-ja-vastuulliset-tyontekijat/
-   8. https://ethique.rexel.com/sv/etikguiden/rexel-ansvarstagande-arbetsgivare-och-medarbetare/
-   9. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/
-  10. https://ethique.rexel.com/zh/feed/
-  11. https://ethique.rexel.com/zh/comments/feed/
-  12. https://ethique.rexel.com/wp-json/wp/v2/pages/645
-  13. https://ethique.rexel.com/wp-json/oembed/1.0/embed?url=https://ethique.rexel.com/zh/%e5%ae%9e%e8%b7%b5%e4%b8%ad%e7%9a%84%e9%81%93%e5%be%b7%e6%8c%87%e5%8d%97/%e8%93%9d%e6%a0%bc%e8%b5%9b%ef%bc%9a%e8%b4%9f%e8%b4%a3%e4%bb%bb%e7%9a%84%e9%9b%87%e4%b8%bb%e5%92%8c%e5%91%98%e5%b7%a5/
-  14. https://ethique.rexel.com/wp-json/oembed/1.0/embed?url=https://ethique.rexel.com/zh/%e5%ae%9e%e8%b7%b5%e4%b8%ad%e7%9a%84%e9%81%93%e5%be%b7%e6%8c%87%e5%8d%97/%e8%93%9d%e6%a0%bc%e8%b5%9b%ef%bc%9a%e8%b4%9f%e8%b4%a3%e4%bb%bb%e7%9a%84%e9%9b%87%e4%b8%bb%e5%92%8c%e5%91%98%e5%b7%a5/&amp;format=xml
-  15. https://ethique.rexel.com/zh/
-  16. https://ethique.rexel.com/zh/
-  17. https://www.rexel.com/en/ethical-alert/
-  18. https://www.rexel.com/en/ethic-contact/
-  19. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/#pll_switcher
-  20. https://ethique.rexel.com/guide-ethique/rexel-un-employeur-et-des-collaborateurs-responsables/
-  21. https://ethique.rexel.com/en/ethics-guide/rexel-responsible-employer-and-employees/
-  22. https://ethique.rexel.com/de/ethikleitfaden/rexel-verantwortungsbewusstsein-von-arbeitgeber-und-arbeitnehmern/
-  23. https://ethique.rexel.com/it/guida-etica/rexel-datore-di-lavoro-e-collaboratori-responsabili/
-  24. https://ethique.rexel.com/nl/ethische-gids/rexel-een-verantwoordelijke-werkgever-met-verantwoordelijke-medewerkers/
-  25. https://ethique.rexel.com/sl/eticni-kodeks/rexel-delodajalec-in-odgovorni-zaposleni/
-  26. https://ethique.rexel.com/fi/eettinen-opas/rexel-vastuullinen-tyonantaja-ja-vastuulliset-tyontekijat/
-  27. https://ethique.rexel.com/sv/etikguiden/rexel-ansvarstagande-arbetsgivare-och-medarbetare/
-  28. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/
-  29. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/#pdf-select
-  30. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/?pdf=all
-  31. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/?pdf=1
-  32. https://ethique.rexel.com/zh/实践中的道德指南/
-  33. https://ethique.rexel.com/zh/反腐败行为准则/
-  34. https://ethique.rexel.com/zh/竞争法/
-  35. https://ethique.rexel.com/zh/网站地图/
-  36. https://ethique.rexel.com/zh/法律条文/
-  37. https://ethique.rexel.com/zh/图文版权所有/
 </text>
 </page> §
 <page="ch-42">
@@ -4718,81 +3619,80 @@ References
 </page> §
 <page="ch-43">
 <text>
-   #[1]西班牙语 | Spanish [2]日语 (日本) | Japanese (Japan) [3]韩语 (韩国) | Korean
-   (South Korea) [4]法语 | French [5]英语 | English [6]中文 (中国香港特别行政区) |
-   Chinese (Hong Kong SAR China) [7]意大利语 | Italian
+   #日语 (日本) | Japanese (Japan) 西班牙语 | Spanish 韩语 (韩国) | Korean (South
+   Korea) 法语 | French 英语 | English 中文 (中国香港特别行政区) | Chinese (Hong Kong SAR
+   China) 意大利语 | Italian
 
    (BUTTON) (BUTTON) (BUTTON)
 
    (BUTTON)
 
-     * [8]我们的承诺
-     * [9]员工
-     * [10]环境
-     * [11]文化 &amp; 社群
-     * [12]环境/产品与材料
+     * 我们的承诺
+     * 员工
+     * 环境
+     * 文化 &amp; 社群
+     * 环境/产品与材料
 
-     * [13]联系我们
-     * [14]下载区
+     * 联系我们
+     * 下载区
      * (BUTTON) Language:
 
    选择您的语言
-     * [15]英语
-     * [16]意大利语
-     * [17]法语
-     * [18]西班牙语
-     * [19]简体中文
-     * [20]繁体中文
-     * [21]日语
-     * [22]韩语
+     * 英语
+     * 意大利语
+     * 法语
+     * 西班牙语
+     * 简体中文
+     * 繁体中文
+     * 日语
+     * 韩语
 
    (BUTTON) ____________________ (BUTTON)
    (BUTTON)
    (BUTTON)
 
    03.Our footprint commitment_new_800x450
-   [23]我们对环境的承诺
+   我们对环境的承诺
    diversity and inclusion
-   [24]多元化、公平和包容
+   多元化、公平和包容
    product and materials
-   [25]产品与材料
+   产品与材料
    06.Our-Places-800x450
-   [26]我们的场所
+   我们的场所
 </text>
 </page> §
 <page="ch-44">
 <text>
-    #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
+    #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate
 
-   [16]skip navigation
+   skip navigation
 
-   IFRAME: [17]https://www.googletagmanager.com/ns.html?id=GTM-NDHW254
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NDHW254
 
-   [18]CWT Logo
+   CWT Logo
 
-     * [19]差旅管理
+     * 差旅管理
 </text>
 </page> §
 <page="ch-45">
 <text>
-   [1]logo logo [2]前往商城 [3]我的订单 [4]购物车 [DEL: :DEL] [DEL: :DEL] [5]登录 /
-   [6]注册
-     * [7]首页
-     * [8]产品中心
-     * [9]智能场景
-     * [10]服务与下载
+   logo logo 前往商城 我的订单 购物车 [DEL: :DEL] [DEL: :DEL] 登录 / 注册
+     * 首页
+     * 产品中心
+     * 智能场景
+     * 服务与下载
 </text>
 </page> §
 <page="ch-46">
 <text>
    华晨宝马汽车有限公司
-     * [1]首页
-     * [2]公司概况
-     * [3]新闻与活动
-     * [4]职业生涯
-     * [5]企业社会责任
+     * 首页
+     * 公司概况
+     * 新闻与活动
+     * 职业生涯
+     * 企业社会责任
 
    欢迎来到华晨宝马
 
@@ -4802,8 +3702,8 @@ References
    理念，在中国持续为客户、当地社区及中国汽车工业创造价值，驱动共同发展。
    卓越的企业社会责任应充分理解政府与社会紧迫及长期的需求，并为社会作出贡献。宝马在中国作为社会需求的贡献者、本地社区的联结者、创新践行企业责任的
    引领者，发挥核心优势并广泛带动利益相关方参与，创造共享价值。
-   [6]企业社会责任战略 [7]BMW儿童交通安全训练营 [8]BMW中国文化之旅 [9]BMW美丽家园行动 [10]BMW童悦之家
-   [11]BMW可持续发展与企业社会责任论坛 [12]中华慈善总会宝马爱心基金 [13]企业社会责任荣誉奖项 [14]报告下载
+   企业社会责任战略 BMW儿童交通安全训练营 BMW中国文化之旅 BMW美丽家园行动 BMW童悦之家 BMW可持续发展与企业社会责任论坛
+   中华慈善总会宝马爱心基金 企业社会责任荣誉奖项 报告下载
 
 企业社会责任战略
 
@@ -4819,30 +3719,30 @@ BMW儿童交通安全训练营
 
    “BMW儿童交通安全训练营”聚焦儿童道路交通安全问题，将传统“礼文化”融入交通安全教育，开发课程、工具箱及线上平台，鼓励利益相关方参与，赋能经
    销商开展活动。项目至今已有18年历史，影响人群超过1亿。
-   [15]查看更多
+   查看更多
 </text>
 </page> §
 <page="ch-47">
 <text>
-   #[1]alternate [2]alternate [3]alternate
+   #alternate alternate alternate
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
 
-   [5]Majorel
+   Majorel
    (BUTTON)
      * ____________________ (BUTTON)
-     * [6]官网首页 Homepage
-     * [7]公司介绍 Explore Majorel
-          + [8]Majorel员工准则
-          + [9]Majorel 供应商行为准则
-     * [10]企业责任 CORPORATE RESPONSIBILITY
-     * [11]新闻动态 What's new
-     * [12]加入我们 JOIN US
-     * [13]联系我们 Get in touch
+     * 官网首页 Homepage
+     * 公司介绍 Explore Majorel
+          + Majorel员工准则
+          + Majorel 供应商行为准则
+     * 企业责任 CORPORATE RESPONSIBILITY
+     * 新闻动态 What's new
+     * 加入我们 JOIN US
+     * 联系我们 Get in touch
 
-     * [14]Majorel.com
+     * Majorel.com
 
-     * [15]cn
+     * cn
 
      *
      *
@@ -4882,156 +3782,119 @@ BMW儿童交通安全训练营
      *
      *
 
-     * [16]隐私政策和COOKIES政策
-     * [17]法律声明
-     * [18]员工准则
+     * 隐私政策和COOKIES政策
+     * 法律声明
+     * 员工准则
 
-     * Policy badge icon [19]沪公网安备 31010602006359号
-     * [20]沪ICP备17012480号-3
+     * Policy badge icon 沪公网安备 31010602006359号
+     * 沪ICP备17012480号-3
 
      * © 2021 迈睿中国 All Rights Reserved
-
-References
-
-   Visible links:
-   1. https://majorel.cn/wp-json/wp/v2/pages/4404
-   2. https://majorel.cn/wp-json/oembed/1.0/embed?url=https://majorel.cn/%e4%bc%81%e4%b8%9a%e8%b4%a3%e4%bb%bb-corporate-responsibility/
-   3. https://majorel.cn/wp-json/oembed/1.0/embed?url=https://majorel.cn/%e4%bc%81%e4%b8%9a%e8%b4%a3%e4%bb%bb-corporate-responsibility/&amp;format=xml
-   4. https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
-   5. https://majorel.cn/
-   6. https://majorel.cn/
-   7. https://majorel.cn/explore-majorel-china/
-   8. https://majorel.cn/explore-majorel-china/code-of-conduct/
-   9. https://cdn.majorel.com/wp-content/uploads/2022/05/02192143/Majorel-Supplier-Code-of-Conduct-CN.pdf
-  10. https://majorel.cn/企业责任-corporate-responsibility/
-  11. https://majorel.cn/whats-new/
-  12. https://majorel.cn/加入我们-join-us/
-  13. https://majorel.cn/get-in-touch/
-  14. https://www.majorel.com/
-  15. https://majorel.cn/企业责任-corporate-responsibility/
-  16. https://majorel.cn/隐私条款-private-policy/
-  17. https://majorel.cn/法律声明-legal-notice/
-  18. https://cdn.majorel.com/wp-content/uploads/2021/06/15142008/Majorel-Code-of-Conduct-ZN.pdf
-  19. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602006359
-  20. https://beian.miit.gov.cn/
-
-   Hidden links:
-  22. https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzAwNTcyNjMxNQ==&amp;scene=124#wechat_redirect
-  23. https://weibo.com/arvatocrm?is_all=1
-  24. https://v.douyin.com/eNAByEa/
-  25. https://space.bilibili.com/592131117
-  26. https://majorel.cn/%E4%BC%81%E4%B8%9A%E8%B4%A3%E4%BB%BB-corporate-responsibility/
-  27. https://majorel.cn/?s=
-  28. https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzAwNTcyNjMxNQ==&amp;scene=124#wechat_redirect
-  29. https://weibo.com/arvatocrm?is_all=1
-  30. https://v.douyin.com/eNAByEa/
-  31. https://space.bilibili.com/592131117
 </text>
 </page> §
 <page="ch-48">
 <text>
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
 
-   IFRAME: [24]https://www.googletagmanager.com/ns.html?id=GTM-5QWLJR3
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5QWLJR3
 
    You are using Internet Explorer; our website is not optimized for this
    browser which does not respect the web standards. For the best
    experience we recommend that you use a different browser.
    (BUTTON) +
      *
-     * [25]Find a GEODIS agency
+     * Find a GEODIS agency
      * 中国 - 中文
         选择一个国家/地区
                o Global
-                 [26]Français [27]English
+                 Français English
             A
-               o [28]Algeria
-               o [29]Argentina
-               o [30]Australia
+               o Algeria
+               o Argentina
+               o Australia
             B
-               o [31]Bahrain
-               o [32]Bangladesh
+               o Bahrain
+               o Bangladesh
                o Belgium
-                 [33]Français [34]English
+                 Français English
                o Brazil
-                 [35]Portugues [36]English
+                 Portugues English
             C
-               o [37]Cameroon
+               o Cameroon
                o Canada
-                 [38]Français [39]English
-               o [40]Chad
-               o [41]Chile
+                 Français English
+               o Chad
+               o Chile
                o China
-                 [42]汉语 [43]English
-               o [44]Colombia
-               o [45]Czech Republic
+                 汉语 English
+               o Colombia
+               o Czech Republic
             D
-               o [46]Denmark
+               o Denmark
             F
-               o [47]France
+               o France
             G
                o Germany
-                 [48]English [49]Deutsch
-               o [50]Great Britain
-               o [51]Greece
+                 English Deutsch
+               o Great Britain
+               o Greece
             H
-               o [52]Hong Kong
-               o [53]Hungary
+               o Hong Kong
+               o Hungary
             I
-               o [54]India
-               o [55]Indonesia
-               o [56]Ireland
+               o India
+               o Indonesia
+               o Ireland
                o Italy
-                 [57]Italiano [58]English
+                 Italiano English
             J
                o Japan
-                 [59]Japanese [60]English
+                 Japanese English
             K
                o Korea
-                 [61]한국어 [62]English
+                 한국어 English
             M
-               o [63]Malaysia
+               o Malaysia
                o Mexico
-                 [64]English [65]Español
+                 English Español
                o Morocco
-                 [66]Français [67]English
+                 Français English
             N
-               o [68]Netherlands
-               o [69]New Zealand
-               o [70]Norway
+               o Netherlands
+               o New Zealand
+               o Norway
             P
-               o [71]Peru
+               o Peru
                o Poland
-                 [72]English [73]Polski
-               o [74]Portugal
+                 English Polski
+               o Portugal
             Q
-               o [75]Qatar
+               o Qatar
             R
-               o [76]Romania
+               o Romania
             S
-               o [77]Saudi Arabia
-               o [78]Singapore
-               o [79]Slovakia
-               o [80]South Africa
+               o Saudi Arabia
+               o Singapore
+               o Slovakia
+               o South Africa
                o Spain
-                 [81]Español [82]English
-               o [83]Sweden
+                 Español English
+               o Sweden
             T
-               o [84]Taiwan
-               o [85]Thailand
+               o Taiwan
+               o Thailand
                o Tunisia
-                 [86]Français [87]English
+                 Français English
                o Turkey
-                 [88]English [89]Türkçe
+                 English Türkçe
             U
-               o [90]UAE
-               o [91]USA
+               o UAE
+               o USA
             V
-               o [92]Vietnam
+               o Vietnam
             A
             B
             C
@@ -5052,103 +3915,103 @@ References
             U
             V
 
-   [93]Accueil [ ]
+   Accueil [ ]
 
      * 乔达集团
           + 探索乔达
-               o [94]探索乔达
-               o [95]乔达中国
-               o [96]关于我们
-               o [97]企业社会责任
-               o [98]新闻办公室
-               o [99]在乔达工作
+               o 探索乔达
+               o 乔达中国
+               o 关于我们
+               o 企业社会责任
+               o 新闻办公室
+               o 在乔达工作
      * 位置
-          + [100]位置
-          + [101]查阅我们的全球办事处目录，了解离您最近的本地办事处
+          + 位置
+          + 查阅我们的全球办事处目录，了解离您最近的本地办事处
 
 
 
 关注我们
 
-   [102]Twitter
-   [103]Linkedin
-   [104]WeChat
+   Twitter
+   Linkedin
+   WeChat
 
      寻找您的解决方案
 
      * 按纵向市场
-          + [105]按纵向市场
-          + [106]零售
-          + [107]快速消费品
-          + [108]工业
-          + [109]汽车行业与移动出行
-          + [110]医疗保健
-          + [111]高科技
-          + [112]航空与国防
+          + 按纵向市场
+          + 零售
+          + 快速消费品
+          + 工业
+          + 汽车行业与移动出行
+          + 医疗保健
+          + 高科技
+          + 航空与国防
 
      按运输方式
 
-     * [113]按运输方式
+     * 按运输方式
 
-     * [114]快件和包裹递送
-     * [115]陆路运输
-     * [116]空运和海运
-     * [117]工业项目
-     * [118]合同物流
-     * [119]供应链优化
-     * [120]清关与对外贸易
+     * 快件和包裹递送
+     * 陆路运输
+     * 空运和海运
+     * 工业项目
+     * 合同物流
+     * 供应链优化
+     * 清关与对外贸易
 
 
 
   关注我们
 
-   [121]Twitter
-   [122]Linkedin
-   [123]WeChat
+   Twitter
+   Linkedin
+   WeChat
 
-     [124]博客见解
+     博客见解
 
-     [125]求职招聘
+     求职招聘
 
-     [126]联系我们
+     联系我们
 
      (Apply) Rechercher ____________________ (BUTTON) X
 
    1 of 1
-   [127]Beware of Scams Beware of Scams Impersonating GEODIS Officers and
-   False Employment Offers Made Through Unofficial Channels
+   Beware of Scams Beware of Scams Impersonating GEODIS Officers and False
+   Employment Offers Made Through Unofficial Channels
 
-    1. [128]GEODIS China
+    1. GEODIS China
 
      乔达集团
 
-     [129]探索乔达
+     探索乔达
 
-     [130]企业社会责任
+     企业社会责任
 
-     [131]报告与方法
+     报告与方法
 
-[132]探索乔达
+探索乔达
 
-     * [133]乔达中国
-     * [134]关于我们
-     * [135]企业社会责任
+     * 乔达中国
+     * 关于我们
+     * 企业社会责任
 
-     * [136]企业社会责任政策
-     * [137]环境
-     * [138]社会
-     * [139]以负责的方式行动
-     * [140]推动企业社会责任业绩
-     * [141]推动二氧化碳减排
-     * [142]报告与方法
-     * [143]计算您的排放量
+     * 企业社会责任政策
+     * 环境
+     * 社会
+     * 以负责的方式行动
+     * 推动企业社会责任业绩
+     * 推动二氧化碳减排
+     * 报告与方法
+     * 计算您的排放量
 
-     [144]新闻办公室
+     新闻办公室
 
-     [145]在乔达工作
+     在乔达工作
 
    Réunion autour d'un écran de reporting de données et d'évaluation
-   [146]Back to GEODIS
+   Back to GEODIS
 
 有关环境、社会和经济指标的企业社会责任报告
 
@@ -5159,97 +4022,96 @@ References
 
 企业社会责任报告
 
-   [147][COVER%20EN%202022.jpg]
+   [COVER%20EN%202022.jpg]
    2022 年企业社会责任报告
-   [148][csr%20report%202021.PNG]
+   [csr%20report%202021.PNG]
    2021 年企业社会责任报告
-   [149][csr%20report%202020.PNG]
+   [csr%20report%202020.PNG]
    2020 年企业社会责任报告
-   [150][csr%20report%202019.PNG]
+   [csr%20report%202019.PNG]
    2019 年企业社会责任报告
-   [151][GB_GEODIS_RA2018_Couv_JPG.jpg]
+   [GB_GEODIS_RA2018_Couv_JPG.jpg]
    2018 年企业社会责任报告
-   [152][en.PNG]
+   [en.PNG]
    2017 年企业社会责任报告
-   [153]2017 年企业社会责任指标
-   [154][couv_csr_7370346936088816768_2.jpg]
+   2017 年企业社会责任指标
+   [couv_csr_7370346936088816768_2.jpg]
    2016 年企业社会责任报告
-   [155]2017 年企业社会责任指标
-   [156][csr%20report%20overview4812658964216560228_1.png]
+   2017 年企业社会责任指标
+   [csr%20report%20overview4812658964216560228_1.png]
    2015 年企业社会责任报告
-   [157][en%20overview4141988780200206523_2.jpg]
+   [en%20overview4141988780200206523_2.jpg]
    2014 年企业社会责任报告
-   [158][csr-cover-va3192327391487739409_1.jpg]
+   [csr-cover-va3192327391487739409_1.jpg]
    2013 年企业社会责任报告
-   [159][couverture-bilan2012en5470740251766371272_1.gif]
+   [couverture-bilan2012en5470740251766371272_1.gif]
    2012 年企业社会责任报告
-   [160][geodis-sd-report-1896777822227888781_1.gif]
+   [geodis-sd-report-1896777822227888781_1.gif]
    2011 年企业社会责任报告
-   [161][geodis-sd-report-2499372390800646402.png]
-   [162]2010 年企业社会责任报告
-   [163][geodis-sd-report-6362662996288151586.gif]
-   [164]2009 年企业社会责任报告
-   [165][geodis-sd-report-5828973907140781194.gif]
-   [166]2008 年企业社会责任报告
+   [geodis-sd-report-2499372390800646402.png]
+   2010 年企业社会责任报告
+   [geodis-sd-report-6362662996288151586.gif]
+   2009 年企业社会责任报告
+   [geodis-sd-report-5828973907140781194.gif]
+   2008 年企业社会责任报告
 
 
-   [167]2022 方法说明
+   2022 方法说明
 
-   [168]2022 保证报告
+   2022 保证报告
 
    Réunion autour d'un écran de reporting de données et d'évaluation
 
-     * [169]GEOflow GEOflow
+     * GEOflow GEOflow
        GEOflow
-     * [170]报价 报价
+     * 报价 报价
        报价
-     * [171]电子服务 电子服务
+     * 电子服务 电子服务
        电子服务
-     * [172]位置 位置
+     * 位置 位置
        位置
 
-   [173]Contact
+   Contact
 
 博客见解
 
    man customs check
 
-[174]中国知识产权 (IPR)：在海关保护条例下如何避开法律雷区及如何避免侵权
+中国知识产权 (IPR)：在海关保护条例下如何避开法律雷区及如何避免侵权
 
    (BUTTON) Previous
    (BUTTON) Next
 
    Tag
-   # [175]services des douanes
-   # [176]海关
+   # services des douanes
+   # 海关
    Body
    在中国，知识产权侵权是贸易和投资的主要障碍，而懂得如何利用海关保护条例的公司将获得竞争优势。
 </text>
 </page> §
 <page="ch-49">
 <text>
-   #[1]alternate
+   #alternate
 
      *
-     * [2]新闻
-     * [3]体育
-     * [4]汽车
-     * [5]房产
-     * [6]旅游
-     * [7]教育
-     * [8]时尚
-     * [9]科技
-     * [10]财经
-     * [11]娱乐
-     * [12]更多
-       [13]母婴 [14]健康 [15]历史 [16]军事 [17]美食 [18]文化 [19]星座 [20]专题 [21]游戏
-       [22]搞笑 [23]动漫 [24]宠物
+     * 新闻
+     * 体育
+     * 汽车
+     * 房产
+     * 旅游
+     * 教育
+     * 时尚
+     * 科技
+     * 财经
+     * 娱乐
+     * 更多
+       母婴 健康 历史 军事 美食 文化 星座 专题 游戏 搞笑 动漫 宠物
 
-   [25]无障碍 [26]关怀版
+   无障碍 关怀版
 
 责任是什么
 
-   2023-03-14 15:40 来源: [27]小媛儿点
+   2023-03-14 15:40 来源: 小媛儿点
    发布于：河北省
 
    原标题：责任是什么
@@ -5268,7 +4130,7 @@ References
 
    3、责任和权利是对立的统一。没有无责任的权利，也没有无权利的责任。一个人的权利，往往是他的责任；一个人的责任，往往是他的权利。享受一定的权利，
    必须尽到相应的责任；尽到一定的责任，才能享有相应的权利。担当意思是指承担、担负任务责任等。自信的人一般都勇于担当，担当除了做好自己份内的事，同
-   时担当也是敢承担别人不敢承担的事. 包容一切并对其负责，就叫有担当，正谓之曰：“有容乃大，无欲则刚。”[28]返回搜狐，查看更多
+   时担当也是敢承担别人不敢承担的事. 包容一切并对其负责，就叫有担当，正谓之曰：“有容乃大，无欲则刚。”返回搜狐，查看更多
 
    责任编辑：
    平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。
@@ -5277,46 +4139,7 @@ References
    推荐阅读
    小媛儿点
    文章 总阅读
-   [29]免费获取
-
-References
-
-   Visible links:
-   1. https://www.sohu.com/a/m.sohu.com/a/654088058_121643019
-   2. http://news.sohu.com/
-   3. http://sports.sohu.com/
-   4. http://auto.sohu.com/
-   5. http://www.focus.cn/
-   6. http://travel.sohu.com/
-   7. http://learning.sohu.com/
-   8. http://fashion.sohu.com/
-   9. http://it.sohu.com/
-  10. http://business.sohu.com/
-  11. http://yule.sohu.com/
-  12. javascript:void(0)
-  13. http://baobao.sohu.com/
-  14. https://healthnews.sohu.com/
-  15. http://history.sohu.com/
-  16. http://mil.sohu.com/
-  17. http://chihe.sohu.com/
-  18. http://cul.sohu.com/
-  19. http://astro.sohu.com/
-  20. https://www.sohu.com/xchannel/TURBd01EQXhPVGt5
-  21. http://game.sohu.com/
-  22. http://fun.sohu.com/
-  23. http://acg.sohu.com/
-  24. http://pets.sohu.com/
-  25. javascript:void(0)
-  26. javascript:void(0)
-  27. https://www.sohu.com/a/654088058_121643019
-  28. https://www.sohu.com/?strategyid=00001
-  29. https://www.microsoft.com/zh-cn/store/p/搜狐uwp/9nb9229mmbjh
-
-   Hidden links:
-  31. http://www.sohu.com/
-  32. https://mp.sohu.com/profile?xpt=MDQ4ZTRhYzktYmMwZC00ZDZkLWI4YTEtY2Q2MTNlZGU0OGQ0&amp;_f=index_pagemp_1
-  33. javascript:void(0);
-  34. javascript:void(0)
+   免费获取
 </text>
 </page> §
 <page="ch-5">
@@ -5326,7 +4149,7 @@ References
    [zxcode_2023112732d35ecf1b5348b18289726dfa93cf15.jpg]
    [qrcode-app.png]
 
-   [1]新华湖北 >gt; 正文
+   新华湖北 >gt; 正文
    2023 11/27 08:12:26
    来源：新华每日电讯
 
@@ -5384,14 +4207,42 @@ References
 <text>
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
 
    [ ] 繁简
-   [2]新加坡版
-   [3]国际版 [4]中国版
-   [5]新明日报
-   [6]早报俱乐部
-   [7]电子报
+   新加坡版
+   国际版 中国版
+   新明日报
+   早报俱乐部
+   电子报
+   [profile-not-login.svg] 登录/免费注册
+
+   亲爱的读者，
+
+   当您注册并登录后，可享有
+     * [gift-enable.svg]
+       早报会员专享福利
+     * [bookmark-enable.svg]
+       一键收藏(只限应用程序)
+     * [customise-enable.svg]
+       自设内容栏目(只限应用程序)
+     * [newsletter-enable.svg]
+       精选新闻电邮速递
+     * [freearticle-enable.svg]
+</text>
+</page> §
+<page="ch-51">
+<text>
+
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
+
+   [ ] 繁简
+   新加坡版
+   国际版 中国版
+   新明日报
+   早报俱乐部
+   电子报
    [profile-not-login.svg] 登录/免费注册
 
    亲爱的读者，
@@ -5410,36 +4261,36 @@ References
 </page> §
 <page="ch-6">
 <text>
-   [1]商城
+   商城
 </text>
 </page> §
 <page="ch-7">
 <text>
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   [3]跳至主要内容/导航
+   跳至主要内容/导航
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
 
-   [5]欢迎来到联合国，您的世界！
+   欢迎来到联合国，您的世界！
 
 Language
 
-     * [6]العربية
-     * [7]中文
-     * [8]English
-     * [9]Français
-     * [10]Русский
-     * [11]Español
-     * [12]Português
-     * [13]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [14]Hindi हिंदी
-          + [15]Urdu اردو
-          + [16]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
-   [17]United Nations
-   [18]联合国新闻
+   United Nations
+   联合国新闻
    全球视野, 常人故事
    (BUTTON) zh (BUTTON) 搜索 (BUTTON)
 
@@ -5450,32 +4301,32 @@ Language
 <page="ch-8">
 <text>
      *
-     * [1]社论
-     * [2]财经
-     * [3]金融
-     * [4]政治
-     * [5]首都动态
-     * [6]人民福利
-     * [7]法律
-     * [8]教育与文化
-     * [9]宗教
-     * [10]健康知识
-     * [11]东盟动态
-     * [12]华社
-     * [13]社会
-     * [14]特别
-     * [15]娱乐
-     * [16]体育
-     * [17]评论
-     * [18]广告
-     * [19]佳讯
-     * [20]讣告
+     * 社论
+     * 财经
+     * 金融
+     * 政治
+     * 首都动态
+     * 人民福利
+     * 法律
+     * 教育与文化
+     * 宗教
+     * 健康知识
+     * 东盟动态
+     * 华社
+     * 社会
+     * 特别
+     * 娱乐
+     * 体育
+     * 评论
+     * 广告
+     * 佳讯
+     * 讣告
 
    (BUTTON)
    ________________________________________ (BUTTON) [BUTTON Input] (not
    implemented)_____
-   [21]Shangbao Logo
-   [22]google-play [23]app-store
+   Shangbao Logo
+   google-play app-store
    Loading...
 
    00:00:00
@@ -5484,14 +4335,14 @@ Language
 
    雅加达
    熱點新聞
-     * [24]【财经】 佐科威总统声称 国家基础设施是投资议价能力
-     * [25]【财经】 印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [26]【财经】 SRI投资1200万美元 2025年将推出新产品
-     * [27]【财经】 ROTI定下指标 今年底在北干巴鲁新厂开业
-     * [28]【财经】 WSKT在雅加达兴建最高的印度大使馆大楼
+     * 【财经】 欧洲央行管委：现在宣布战胜通胀还为时过早！
+     * 【财经】 韩国央行预计出口复苏势头将持续
+     * 【财经】 阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 【财经】 生育率低迷 韩国经济2050年恐陷入负增长
+     * 【财经】 佐科威总统声称 国家基础设施是投资议价能力
 
    2023年 11月 26日 20:02 PM
-   653
+   683
 
 Bakti BCA企业社会责任活动种植了3万8500棵树苗
 
@@ -5520,164 +4371,87 @@ Bakti BCA企业社会责任活动种植了3万8500棵树苗
 
 最新消息 热文推荐
 
-     * [29]01佐科威总统声称 国家基础设施是投资议价能力
-     * [30]02印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [31]03印尼信息和通讯部推出普选电子书 提升民众对普选的认知和理解
-     * [32]04默拉皮火山爆发 致11名登山者遇难多人失踪
-     * [33]05SRI投资1200万美元 2025年将推出新产品
+     * 01欧洲央行管委：现在宣布战胜通胀还为时过早！
+     * 02韩国央行预计出口复苏势头将持续
+     * 03阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 04生育率低迷 韩国经济2050年恐陷入负增长
+     * 05【传习录】以高质量发展促进上海加快建设现代化国际大都市
 
-     * [34]01美欧与俄或将在中亚长期博弈
-     * [35]02卫生部长在国会出席会议称 登革热病50年来病例未能减少
-     * [36]03印尼和泰国加强金三角禁毒合作
-     * [37]04中国突发神秘肺炎 卫生部要求民众不必过度担忧
-     * [38]05基辛格的战略思想是中美关系的“压舱石”
+     * 01卫生部长在国会出席会议称 登革热病50年来病例未能减少
+     * 02印尼和泰国加强金三角禁毒合作
+     * 03中国突发神秘肺炎 卫生部要求民众不必过度担忧
+     * 04基辛格的战略思想是中美关系的“压舱石”
+     * 05印尼庶民银行将派发2023财年利润70%股息
 
-   [39]finance
-   [40]ePaper
-   [41]Widget Banner #2
+   finance
+   ePaper
+   Widget Banner #2
 
 财经
 
-   [42]
+欧洲央行管委：现在宣布战胜通胀还为时过早！
 
-佐科威总统声称 国家基础设施是投资议价能力
+   2023年 12月 04日 23:29 PM
 
-   2023年 12月 04日 21:27 PM
+   【财联社】据报道，德国央行行长、欧洲央行管理委员会成员内格尔（Joachim Nagel）表示，欧元区通胀在...
+     * 韩国央行预计出口复苏势头将持续
+     * 阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 生育率低迷 韩国经济2050年恐陷入负增长
+     * 佐科威总统声称 国家基础设施是投资议价能力
 
-   【本报讯】佐科威总统声称，基础设施发展是印尼在他九年执政期间的主要发展重点之一，因为它成为全球投资的议价能力...
-     * [43]印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [44]SRI投资1200万美元 2025年将推出新产品
-     * [45]ROTI定下指标 今年底在北干巴鲁新厂开业
-     * [46]WSKT在雅加达兴建最高的印度大使馆大楼
-
-     * [47]查看更多 »
+     * 查看更多 »
 
 金融
-
-   [48]
 
 金融服务管理局指出 2023年11月金融服务业保持稳定
 
    2023年 12月 04日 19:54 PM
 
    【本报讯】金融服务管理局（OJK）指出，在强势资本和充足流动性的支持下，2023年11月全国金融服务业保持稳...
-     * [49]我国央行指出 2023年11月通胀率将维持不变
-     * [50]Segara经济学家称 支付系统电子化改善我国投资环境
-     * [51]BSI 通过残疾人友好分行加强包容性服务
-     * [52]综指上升33至7093.600点 1美元兑15463盾
+     * 我国央行指出 2023年11月通胀率将维持不变
+     * Segara经济学家称 支付系统电子化改善我国投资环境
+     * BSI 通过残疾人友好分行加强包容性服务
+     * 综指上升33至7093.600点 1美元兑15463盾
 
-     * [53]查看更多 »
+     * 查看更多 »
 
    Widget Banner #2
    Widget Banner #2
    Widget Banner #2
-   [54]Shangbao Indonesia
-   友情链接: [55]印尼商报网
-   [56]Facebook [57]Twitter
-   © 2021 Shangbao Indonesia, 版权所有 翻印必究 · [58]关于我们 · [59]董事经理 · [60]联系我们
-   0.775 secs.
-
-References
-
-   Visible links:
-   1. http://www.shangbaoindonesia.com/editorial
-   2. http://www.shangbaoindonesia.com/economy
-   3. http://www.shangbaoindonesia.com/financial
-   4. http://www.shangbaoindonesia.com/political
-   5. http://www.shangbaoindonesia.com/metropolitan
-   6. http://www.shangbaoindonesia.com/kesra
-   7. http://www.shangbaoindonesia.com/hukum
-   8. http://www.shangbaoindonesia.com/pendidikan-kebudayaan
-   9. http://www.shangbaoindonesia.com/agama
-  10. http://www.shangbaoindonesia.com/kesehatan
-  11. http://www.shangbaoindonesia.com/asean
-  12. http://www.shangbaoindonesia.com/chinese-community
-  13. http://www.shangbaoindonesia.com/society
-  14. http://www.shangbaoindonesia.com/special
-  15. http://www.shangbaoindonesia.com/entertainment
-  16. http://www.shangbaoindonesia.com/sports
-  17. http://www.shangbaoindonesia.com/opinion
-  18. http://www.shangbaoindonesia.com/ads
-  19. http://www.shangbaoindonesia.com/celebratory
-  20. http://www.shangbaoindonesia.com/obituary
-  21. http://www.shangbaoindonesia.com/
-  22. https://play.google.com/store/apps/details?id=com.satelkom.shangbao
-  23. https://itunes.apple.com/id/app/商報-business-newspaper/id1339472706?ls=1&amp;mt=8
-  24. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  25. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  26. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  27. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699959
-  28. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699783
-  29. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  30. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  31. http://www.shangbaoindonesia.com/read/2023/12/04/politics-1701699412
-  32. http://www.shangbaoindonesia.com/read/2023/12/04/society-1701699351
-  33. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  34. http://www.shangbaoindonesia.com/read/2023/11/27/opinion-1701100723
-  35. http://www.shangbaoindonesia.com/read/2023/11/28/society-1701182230
-  36. http://www.shangbaoindonesia.com/read/2023/11/28/hukum-1701181987
-  37. http://www.shangbaoindonesia.com/read/2023/11/30/society-1701354849
-  38. http://www.shangbaoindonesia.com/read/2023/12/01/opinion-1701444753
-  39. http://www.shangbaoindonesia.com/finance
-  40. http://www.shangbaoindonesia.com/e-paper
-  41. https://www.bankofchina.co.id/en-id/home.html
-  42. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  43. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  44. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  45. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699959
-  46. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699783
-  47. http://www.shangbaoindonesia.com/economy
-  48. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694482
-  49. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694406
-  50. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694314
-  51. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701691990
-  52. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701691165
-  53. http://www.shangbaoindonesia.com/financial
-  54. http://www.shangbaoindonesia.com/
-  55. http://indonesiashangbao.com/
-  56. https://www.facebook.com/shangbao.id/
-  57. https://twitter.com/shangbaoindo
-  58. http://www.shangbaoindonesia.com/about-us
-  59. http://www.shangbaoindonesia.com/about-us/board-of-management
-  60. http://www.shangbaoindonesia.com/about-us/contact
-
-   Hidden links:
-  62. javascript:void(0);
-  63. http://www.shangbaoindonesia.com/
-  64. javascript:void(0)
-  65. javascript:void(0)
-  66. javascript:void(0)
-  67. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  68. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694482
+   Shangbao Indonesia
+   友情链接: 印尼商报网
+   Facebook Twitter
+   © 2021 Shangbao Indonesia, 版权所有 翻印必究 · 关于我们 · 董事经理 · 联系我们
+   0.435 secs.
 </text>
 </page> §
 <page="ch-9">
 <text>
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   [3]跳至主要内容/导航
+   跳至主要内容/导航
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
 
-   [5]欢迎来到联合国，您的世界！
+   欢迎来到联合国，您的世界！
 
 Language
 
-     * [6]العربية
-     * [7]中文
-     * [8]English
-     * [9]Français
-     * [10]Русский
-     * [11]Español
-     * [12]Português
-     * [13]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [14]Hindi हिंदी
-          + [15]Urdu اردو
-          + [16]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
-   [17]United Nations
-   [18]联合国新闻
+   United Nations
+   联合国新闻
    全球视野, 常人故事
    (BUTTON) zh (BUTTON) 搜索 (BUTTON)
 
