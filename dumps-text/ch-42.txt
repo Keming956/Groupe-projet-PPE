@@ -2,131 +2,131 @@
    (BUTTON)
    (BUTTON)
    ____________________ (BUTTON)
-     * [1]患�
-          + [2]Back
-          + [3]患�
-          + [4]恢复脑部健康
-          + [5]认识脑部疾�
-          + [6]神经学
-          + [7]精神疾�
-     * [8]研究与开发
-          + [9]Back
-          + [10]研究与开发
-          + [11]我们的研发
-               o [12]我们的价值链
-          + [13]我们的产品
-          + [14]我们的管线
-          + [15]医学教育
-               o [16]Progress in Mind资源中心
-               o [17]灵北学院
-          + [18]科研合作
-          + [19]临床试验
-               o [20]临床试验多元化
-     * [21]患者故事
-     * [22]可持续发展
-          + [23]Back
-          + [24]可持续发展
-          + [25]通往脑部健康之路
-          + [26]负责任的商业行为
-     * [27]关于我们
-          + [28]Back
-          + [29]关于我们
-          + [30]我们的承诺
-               o [31]多元与包容
-          + [32]这就是灵北
-               o [33]公司速览
-               o [34]灵北基金会
-               o [35]我们的历史
-          + [36]灵北在中国
+     * 患�
+          + Back
+          + 患�
+          + 恢复脑部健康
+          + 认识脑部疾�
+          + 神经学
+          + 精神疾�
+     * 研究与开发
+          + Back
+          + 研究与开发
+          + 我们的研发
+               o 我们的价值链
+          + 我们的产品
+          + 我们的管线
+          + 医学教育
+               o Progress in Mind资源中心
+               o 灵北学院
+          + 科研合作
+          + 临床试验
+               o 临床试验多元化
+     * 患者故事
+     * 可持续发展
+          + Back
+          + 可持续发展
+          + 通往脑部健康之路
+          + 负责任的商业行为
+     * 关于我们
+          + Back
+          + 关于我们
+          + 我们的承诺
+               o 多元与包容
+          + 这就是灵北
+               o 公司速览
+               o 灵北基金会
+               o 我们的历史
+          + 灵北在中国
 
-     * [37]职业发展
-          + [38]Back
-          + [39]职业发展
-          + [40]工作在灵北
-               o [41]灵北文化与灵北人
-          + [42]你的工作
-               o [43]工作机会
-     * [44]媒体中心
-          + [45]Back
-          + [46]媒体中心
-          + [47]传播政策
-          + [48]新闻中心
-               o [49]公司动态
-               o [50]公司动态
-          + [51]媒体图库
-     * [52]联系我们
+     * 职业发展
+          + Back
+          + 职业发展
+          + 工作在灵北
+               o 灵北文化与灵北人
+          + 你的工作
+               o 工作机会
+     * 媒体中心
+          + Back
+          + 媒体中心
+          + 传播政策
+          + 新闻中心
+               o 公司动态
+               o 公司动态
+          + 媒体图库
+     * 联系我们
 
-     * [53]Other Sites (Global)
-          + [54]Back
-          + [55]Global
-               o [56]Back
-               o [57]Global site
-          + [58]Africa
-               o [59]Back
-               o [60]South Africa
-          + [61]Americas
-               o [62]Back
-               o [63]Argentina
-               o [64]Brazil
-               o [65]Canada
-               o [66]Chile
-               o [67]Colombia
-               o [68]Mexico
-               o [69]Panama
-               o [70]Peru
-               o [71]United States
-          + [72]Asia
-               o [73]Back
-               o [74]China
-               o [75]Israel
-               o [76]Japan
-               o [77]Korea
-               o [78]Singapore
-               o [79]Turkey
-          + [80]Europe
-               o [81]Back
-               o [82]Austria
-               o [83]Belgium
-               o [84]Bulgaria
-               o [85]Czech Republic
-               o [86]Denmark
-               o [87]Estonia
-               o [88]Finland
-               o [89]France
-               o [90]Germany
-               o [91]Greece
-               o [92]Ireland
-               o [93]Italy
-               o [94]Netherlands
-               o [95]Norway
-               o [96]Poland
-               o [97]Portugal
-               o [98]Russia
-               o [99]Slovakia
-               o [100]Slovenia
-               o [101]Spain
-               o [102]Sweden
-               o [103]Switzerland
-               o [104]United Kingdom
-          + [105]Oceania
-               o [106]Back
-               o [107]Australia/New Zealand
-          + [108]Other Sites
-               o [109]Back
-               o [110]Drughunters
-               o [111]Elaiapharm
-               o [112]Lundbeck Group Business Services
-               o [113]Brain Battle
-          + [114]Lundbeck CDM
+     * Other Sites (Global)
+          + Back
+          + Global
+               o Back
+               o Global site
+          + Africa
+               o Back
+               o South Africa
+          + Americas
+               o Back
+               o Argentina
+               o Brazil
+               o Canada
+               o Chile
+               o Colombia
+               o Mexico
+               o Panama
+               o Peru
+               o United States
+          + Asia
+               o Back
+               o China
+               o Israel
+               o Japan
+               o Korea
+               o Singapore
+               o Turkey
+          + Europe
+               o Back
+               o Austria
+               o Belgium
+               o Bulgaria
+               o Czech Republic
+               o Denmark
+               o Estonia
+               o Finland
+               o France
+               o Germany
+               o Greece
+               o Ireland
+               o Italy
+               o Netherlands
+               o Norway
+               o Poland
+               o Portugal
+               o Russia
+               o Slovakia
+               o Slovenia
+               o Spain
+               o Sweden
+               o Switzerland
+               o United Kingdom
+          + Oceania
+               o Back
+               o Australia/New Zealand
+          + Other Sites
+               o Back
+               o Drughunters
+               o Elaiapharm
+               o Lundbeck Group Business Services
+               o Brain Battle
+          + Lundbeck CDM
 
-    1. [115]主页
+    1. 主页
 
-     [116]可持续发展
+     可持续发展
    [sustainability-responsible-business-conduct.jpeg]
    (BUTTON) Share
-     * [117]Linkedin
-     * [118]Facebook
-     * [119]Email
+     * Linkedin
+     * Facebook
+     * Email
 
 负责任的商业行为
 
@@ -135,9 +135,9 @@
    我们以适用的法规要求、行为准则和可持续发展战略的愿景为指引，追求我们的业务目标。我们的责任感基于五个核心理念：患者至上、勇敢无畏、雄心壮志、激
    情和责任。
    (BUTTON) Share
-     * [120]Linkedin
-     * [121]Facebook
-     * [122]Email
+     * Linkedin
+     * Facebook
+     * Email
 
 我们的行为准则
 
@@ -159,7 +159,7 @@
 行为准则
 
    我们的行为准则是我们道德与合规文化的基石
-   [123]下载
+   下载
 
 培训、监管与对话
 
@@ -183,7 +183,7 @@
 可持续发展报告
 
    您可以在我们最新的可持续发展报告中了解更多信息。
-   [124]下载
+   下载
 
 合规推广
 
@@ -197,14 +197,14 @@
 
    灵北不懈努力，帮助患者恢复脑部健康，改善他们的生活质量。我们按照我们的五个核心理念追求这一使命，其中包括责任。这意味着我们所做的每一件事都要尊
    重他人、正直诚实，包括遵守适用法律、法规、准则和行业标准。灵北的税收政策规定了以合规和负责任的方式管理税务事务的原则。
-     * [125]灵北的税务政策
+     * 灵北的税务政策
 
 多元化和包容性政策
 
    我们是一家多元化的公司，有建立包容性的高绩效文化的决心，让所有员工都能不受歧视地丰富自己的专业技能和职业生涯。我们相信这是确保创造力、创新、进
    步、共赢的最佳途径。员工想法、观点和经验的多元化是我们竞争优势的重要和必要组成部分。我们通过了一项公司政策，作为在我们开展业务的50多个国家中
    员工和管理层讨论多元化和包容性的基础。
-     * [126]多元与包容性政策
+     * 多元与包容性政策
 
    [compliance-hotline.png]
 
@@ -213,7 +213,7 @@
    您可以通过合规热线举报法律或其他严重问题， 否则，这些问题就无法妥善解决。
 
 
-   [127]合规热线
+   合规热线
 
 数据隐私政策
 
@@ -226,22 +226,22 @@
 
 
    我们保留数据的期限不会超过必要的时间，并会及时采取措施处理与个人数据相关的任何申请或投诉。
-     * [128]了解更多
+     * 了解更多
 
 更多信息
 
    我们的承诺
 
    我们致力于Progress in Mind — 针对患者的多方面活动。
-   [129]了解更多
+   了解更多
    研究与开发
 
    灵北研发了许多被广泛使用的脑部疾病治疗方案。
-   [130]了解更多
+   了解更多
    恢复脑部健康
 
    在灵北，脑部健康对我们意味着什么。
-   [131]了解更多
+   了解更多
 
 Lundbeck (Beijing) Pharmaceutical Consulting Co, Ltd.
 
@@ -255,17 +255,17 @@ Lundbeck (Beijing) Pharmaceutical Consulting Co, Ltd.
 Contact us
 
 
-     * [132]+86 10 5875 0088
-     * [133]china@lundbeck.com
+     * +86 10 5875 0088
+     * china@lundbeck.com
 
 Links
 
-     * [134]使用条款
-     * [135]医药代表备案
-     * [136]合规热线
-     * [137]联系我们
-     * [138]数据隐私政策
-     * [139]Cookie settings
+     * 使用条款
+     * 医药代表备案
+     * 合规热线
+     * 联系我们
+     * 数据隐私政策
+     * Cookie settings
 
 Connect with us
 
@@ -274,152 +274,3 @@ Connect with us
      *
 
    Copyright© 2023 Lundbeck (Beijing) Pharmaceutical Consulting Co, Ltd.
-
-References
-
-   Visible links:
-   1. https://www.lundbeck.com/cn/cn/patients
-   2. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-   3. https://www.lundbeck.com/cn/cn/patients
-   4. https://www.lundbeck.com/cn/cn/patients/restoring-brain-health
-   5. https://www.lundbeck.com/cn/cn/patients/understanding-brain-diseases
-   6. https://www.lundbeck.com/cn/cn/patients/neurology
-   7. https://www.lundbeck.com/cn/cn/patients/psychiatry
-   8. https://www.lundbeck.com/cn/cn/our-science
-   9. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  10. https://www.lundbeck.com/cn/cn/our-science
-  11. https://www.lundbeck.com/cn/cn/our-science/Research-and-development
-  12. https://www.lundbeck.com/cn/cn/our-science/Research-and-development/Our-value-chain
-  13. https://www.lundbeck.com/cn/cn/our-science/products
-  14. https://www.lundbeck.com/cn/cn/our-science/pipeline
-  15. https://www.lundbeck.com/cn/cn/our-science/Medical-education
-  16. https://www.lundbeck.com/cn/cn/our-science/Medical-education/Progress-in-mind-resource-center
-  17. https://www.lundbeck.com/cn/cn/our-science/Medical-education/Lundbeck-Institute
-  18. https://www.lundbeck.com/cn/cn/our-science/Scientific-partnerships
-  19. https://www.lundbeck.com/cn/cn/our-science/clinical-trails
-  20. https://www.lundbeck.com/cn/cn/our-science/clinical-trails/clinical-trails-diversity
-  21. https://www.lundbeck.com/cn/cn/stories
-  22. https://www.lundbeck.com/cn/cn/sustainability
-  23. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  24. https://www.lundbeck.com/cn/cn/sustainability
-  25. https://www.lundbeck.com/cn/cn/sustainability/Access-to-brain-health
-  26. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  27. https://www.lundbeck.com/cn/cn/about-us
-  28. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  29. https://www.lundbeck.com/cn/cn/about-us
-  30. https://www.lundbeck.com/cn/cn/about-us/Our-commitment
-  31. https://www.lundbeck.com/cn/cn/about-us/Our-commitment/Diversity-and-inclusion
-  32. https://www.lundbeck.com/cn/cn/about-us/This-is-Lundbeck
-  33. https://www.lundbeck.com/cn/cn/about-us/This-is-Lundbeck/At-a-glance
-  34. https://www.lundbeck.com/cn/cn/about-us/This-is-Lundbeck/The-Lundbeck-Foundation
-  35. https://www.lundbeck.com/cn/cn/about-us/This-is-Lundbeck/our-history
-  36. https://www.lundbeck.com/cn/cn/about-us/lundbeck-in-china
-  37. https://www.lundbeck.com/cn/cn/careers
-  38. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  39. https://www.lundbeck.com/cn/cn/careers
-  40. https://www.lundbeck.com/cn/cn/careers/life-at-lundbeck
-  41. https://www.lundbeck.com/cn/cn/careers/life-at-lundbeck/our-culture-and-people
-  42. https://www.lundbeck.com/cn/cn/careers/job-opportunities
-  43. https://www.lundbeck.com/cn/cn/careers/job-opportunities/vacancies
-  44. https://www.lundbeck.com/cn/cn/press
-  45. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  46. https://www.lundbeck.com/cn/cn/press
-  47. https://www.lundbeck.com/cn/cn/press/communication-policy
-  48. https://www.lundbeck.com/cn/cn/press/news-archive
-  49. https://www.lundbeck.com/cn/cn/press/news-archive/20220628MSA
-  50. https://www.lundbeck.com/cn/cn/press/news-archive/20211208hxq
-  51. https://www.lundbeck.com/cn/cn/press/media-library
-  52. https://www.lundbeck.com/cn/cn/contact
-  53. javascript:;
-  54. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  55. javascript:;
-  56. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  57. https://www.lundbeck.com/global
-  58. javascript:;
-  59. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  60. https://www.lundbeck.com/za
-  61. javascript:;
-  62. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  63. https://www.lundbeck.com/ar
-  64. https://www.lundbeck.com/br
-  65. https://www.lundbeck.com/ca
-  66. https://www.lundbeck.com/cl
-  67. https://www.lundbeck.com/co
-  68. https://www.lundbeck.com/mx
-  69. https://www.lundbeck.com/pa
-  70. https://www.lundbeck.com/pe
-  71. https://www.lundbeck.com/us
-  72. javascript:;
-  73. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  74. https://www.lundbeck.com/cn
-  75. https://www.lundbeck.com/il
-  76. https://www.lundbeck.com/jp/jp
-  77. https://www.lundbeck.com/kr
-  78. https://www.lundbeck.com/sg
-  79. https://www.lundbeck.com/tr
-  80. javascript:;
-  81. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
-  82. https://www.lundbeck.com/at
-  83. https://www.lundbeck.com/be
-  84. https://www.lundbeck.com/bg
-  85. https://www.lundbeck.com/cz
-  86. https://www.lundbeck.com/da
-  87. https://www.lundbeck.com/ee
-  88. https://www.lundbeck.com/fi
-  89. https://www.lundbeck.com/fr
-  90. https://www.lundbeck.com/de
-  91. https://www.lundbeck.com/gr
-  92. https://www.lundbeck.com/ie
-  93. https://www.lundbeck.com/it
-  94. https://www.lundbeck.com/nl
-  95. https://www.lundbeck.com/no
-  96. https://www.lundbeck.com/pl
-  97. https://www.lundbeck.com/pt
-  98. https://www.lundbeck.com/ru
-  99. https://www.lundbeck.com/sk
- 100. https://www.lundbeck.com/si
- 101. https://www.lundbeck.com/es
- 102. https://www.lundbeck.com/se
- 103. https://www.lundbeck.com/ch
- 104. https://www.lundbeck.com/uk
- 105. javascript:;
- 106. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 107. https://www.lundbeck.com/au
- 108. javascript:;
- 109. https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 110. https://www.lundbeck.com/drughunters
- 111. https://www.lundbeck.com/elaiapharm
- 112. https://www.lundbeck.com/gbs
- 113. https://www.lundbeck.com/brain-battle
- 114. javascript:;
- 115. https://www.lundbeck.com/cn/cn
- 116. https://www.lundbeck.com/cn/cn/sustainability
- 117. https://www.linkedin.com/shareArticle?url=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct&mini=true
- 118. https://www.facebook.com/sharer.php?u=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 119. mailto:?subject=负责任的商业行为&body=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 120. https://www.linkedin.com/shareArticle?url=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct&mini=true
- 121. https://www.facebook.com/sharer.php?u=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 122. mailto:?subject=负责任的商业行为&body=https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct
- 123. https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/pdf/Lundbeck-Code-of-Conduct.pdf
- 124. https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/pdf/Sustainability_Report_2022.pdf.coredownload.pdf
- 125. https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/pdf/Lundbeck Tax Policy January 2021.pdf
- 126. https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/pdf/Lundbeck-Diversity-and-Inclusion-Policy.pdf
- 127. https://www.lundbeck.com/cn/cn/compliance-hotline
- 128. https://www.lundbeck.com/cn/cn/privacy-policy
- 129. https://www.lundbeck.com/cn/cn/about-us/Our-commitment
- 130. https://www.lundbeck.com/cn/cn/our-science
- 131. https://www.lundbeck.com/cn/cn/patients/restoring-brain-health
- 132. tel:+861058750088
- 133. mailto:china@lundbeck.com
- 134. https://www.lundbeck.com/global/terms-of-use
- 135. https://www.lundbeck.com/cn/cn/medical-representatives-records
- 136. https://www.lundbeck.com/cn/cn/compliance-hotline
- 137. https://www.lundbeck.com/cn/cn/contact
- 138. https://www.lundbeck.com/cn/cn/data-privacy-policy
- 139. javascript:void(0)
-
-   Hidden links:
- 141. https://www.lundbeck.com/cn/cn
- 142. https://cn.linkedin.com/showcase/lundbeck-china
- 143. https://twitter.com/Lundbeck
- 144. https://www.instagram.com/h_lundbeck/?hl=en

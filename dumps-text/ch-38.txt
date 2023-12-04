@@ -1,217 +1,217 @@
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
 
-   [4]Skip to main content
+   Skip to main content
 
    G4S 杰富仕
 
-   [5]our websites icon
+   our websites icon
      * g4sglobalsites
-          + [6]G4S Limited
-          + [7]Allied Universal®
-          + [8]Risk Management
-          + [9]AMAG Technology
+          + G4S Limited
+          + Allied Universal®
+          + Risk Management
+          + AMAG Technology
      * where we operate
           + North America
                o Canada - Allied Universal
-                 [10]EN
+                 EN
                o Mexico - Allied Universal
-                 [11]EN
+                 EN
                o Puerto Rico - Allied Universal
-                 [12]EN
+                 EN
                o USA - Allied Universal
-                 [13]EN
+                 EN
           + Europe
                o Austria
-                 [14]DE
+                 DE
                o Belgium
-                 [15]NL [16]FR
+                 NL FR
                o Czech Republic
-                 [17]CS
+                 CS
                o Denmark
-                 [18]DA
+                 DA
                o Estonia
-                 [19]ET
+                 ET
                o France
-                 [20]FR
+                 FR
                o Greece
-                 [21]EL
+                 EL
                o Guernsey
-                 [22]EN
+                 EN
                o Ireland
-                 [23]EN
+                 EN
                o Isle of Man
-                 [24]EN
+                 EN
                o Israel
-                 [25]EN
+                 EN
                o Jersey
-                 [26]EN
+                 EN
                o Latvia
-                 [27]LV
+                 LV
                o Lithuania
-                 [28]LT
+                 LT
                o Luxembourg
-                 [29]FR
+                 FR
                o Malta
-                 [30]EN
+                 EN
                o Netherlands
-                 [31]NL
+                 NL
                o Serbia
-                 [32]SR [33]EN
+                 SR EN
                o Slovakia
-                 [34]SK
+                 SK
                o Slovenia
-                 [35]SL
+                 SL
                o Turkey
-                 [36]TR
+                 TR
                o Ukraine
-                 [37]UK
+                 UK
                o United Kingdom
-                 [38]EN
+                 EN
           + Africa
                o Angola
-                 [39]EN
+                 EN
                o Botswana
-                 [40]EN
+                 EN
                o Cameroon
-                 [41]EN
+                 EN
                o Democratic Republic of Congo
-                 [42]EN [43]FR
+                 EN FR
                o Gabon
-                 [44]EN
+                 EN
                o Gambia
-                 [45]EN
+                 EN
                o Ghana
-                 [46]EN
+                 EN
                o Guinea
-                 [47]EN [48]FR
+                 EN FR
                o Ivory Coast
-                 [49]EN [50]FR
+                 EN FR
                o Kenya
-                 [51]EN
+                 EN
                o Lesotho
-                 [52]EN
+                 EN
                o Madagascar
-                 [53]EN [54]FR
+                 EN FR
                o Malawi
-                 [55]EN
+                 EN
                o Morocco
-                 [56]FR
+                 FR
                o Mozambique
-                 [57]EN [58]PT
+                 EN PT
                o Namibia
-                 [59]EN
+                 EN
                o Nigeria
-                 [60]EN
+                 EN
                o Sierra Leone
-                 [61]EN
+                 EN
                o South Africa
-                 [62]EN
+                 EN
                o Tanzania
-                 [63]EN
+                 EN
                o Uganda
-                 [64]EN
+                 EN
                o Zambia
-                 [65]EN
+                 EN
           + Latin America
                o Argentina
-                 [66]ES
+                 ES
                o Barbados
-                 [67]EN
+                 EN
                o Brasil
-                 [68]PT
+                 PT
                o Chile
-                 [69]ES
+                 ES
                o Colombia
-                 [70]ES
+                 ES
                o Costa Rica
-                 [71]ES [72]EN
+                 ES EN
                o Ecuador
-                 [73]ES
+                 ES
                o El Salvador
-                 [74]ES [75]EN
+                 ES EN
                o Guatemala
-                 [76]ES
+                 ES
                o Nicaragua
-                 [77]ES [78]EN
+                 ES EN
                o Paraguay
-                 [79]ES
+                 ES
                o Peru
-                 [80]ES
+                 ES
                o Trinidad and Tobago
-                 [81]EN
+                 EN
                o Uruguay
-                 [82]ES
+                 ES
           + Asia Pacific
                o Australia and New Zealand
-                 [83]EN
+                 EN
                o Bangladesh
-                 [84]EN
+                 EN
                o China
-                 [85]ZH [86]EN
+                 ZH EN
                o Guam & CNMI
-                 [87]EN
+                 EN
                o Hong Kong
-                 [88]EN
+                 EN
                o India
-                 [89]EN
+                 EN
                o Indonesia
-                 [90]EN [91]ID
+                 EN ID
                o Japan 日本
-                 [92]JA [93]EN
+                 JA EN
                o Macau
-                 [94]EN
+                 EN
                o Nepal
-                 [95]EN
+                 EN
                o Papua New Guinea
-                 [96]EN
+                 EN
                o Singapore
-                 [97]EN
+                 EN
                o Taiwan
-                 [98]ZH [99]EN
+                 ZH EN
                o Thailand
-                 [100]EN
+                 EN
           + Middle East
                o Bahrain
-                 [101]EN
+                 EN
                o Egypt
-                 [102]EN
+                 EN
                o Jordan
-                 [103]EN
+                 EN
                o Lebanon
-                 [104]EN
+                 EN
                o Oman
-                 [105]EN
+                 EN
                o Qatar
-                 [106]EN
+                 EN
                o Saudi Arabia
-                 [107]AR [108]EN
+                 AR EN
                o United Arab Emirates
-                 [109]EN
+                 EN
                o Yemen
-                 [110]EN
+                 EN
 
      * 中文(简体)
-     * [111]English
+     * English
 
-[112]G4S, An Allied Universal Company logo
+G4S, An Allied Universal Company logo
 
-   [113]menu
+   menu
 
-     * Who we are [114]Who we are
-       [115]Who we are
-          + G4S Global 全球集团 [116]G4S Global 全球集团
-               o [117]G4S History 历史沿革
-          + [118]G4S China 杰富仕集团
-     * [119]What we do 业务范围
-     * [120]Social Responsibility 社会责任
+     * Who we are Who we are
+       Who we are
+          + G4S Global 全球集团 G4S Global 全球集团
+               o G4S History 历史沿革
+          + G4S China 杰富仕集团
+     * What we do 业务范围
+     * Social Responsibility 社会责任
 
    Social Responsibility
 
 企业社会责任 CSR
 
-     * [121]G4S China 杰富仕
+     * G4S China 杰富仕
      * Social Responsibility 社会责任
 
 担负企业社会责任
@@ -219,7 +219,7 @@
    G4S重视对员工、客户、投资者、及当地小区和股东的道德责任。
    G4S考虑到经济、社会和环境等因素都有可能会冲击到我们的事业，因此在为我们创造最大利润的同时，也致力将负面冲击的影响降到最低。
    尽管G4S的整体表现已符合企业基本的道德政策，但我们仍持续严谨看待集团的贡献以及承诺，因为这才是G4S建立社会责任的根基。
-   [122]了解G4S对于企业社会责任的承诺
+   了解G4S对于企业社会责任的承诺
    G4S CSR
 
 媒体联系中心
@@ -231,168 +231,26 @@
    您可以登录G4S集团官方网站阅读最新的新闻稿，或是下载年度报告，了解G4S全球最新的发展。
    Contact us
 
-[123]G4S杰富仕
+G4S杰富仕
 
    联系方式
 
 上海 北京 深圳 广州
 
-   [124]业务洽询请发电邮
-     * [125]+86 571-89915158
+   业务洽询请发电邮
+     * +86 571-89915158
 
-     * [126]info@cn.g4s.com
+     * info@cn.g4s.com
 
-     * [127]G4S Privacy Statement
-     * [128]Cookies Policy
-     * [129]Accessibility Statement
+     * G4S Privacy Statement
+     * Cookies Policy
+     * Accessibility Statement
 
-     * [130]Facebook
-     * [131]LinkedIn
-     * [132]Twitter
-     * [133]G4S Global Instagram
-     * [134]G4S Global YouTube
+     * Facebook
+     * LinkedIn
+     * Twitter
+     * G4S Global Instagram
+     * G4S Global YouTube
 
    © G4S Limited 2023. All Rights Reserved.
-   [135]^
-
-References
-
-   Visible links:
-   1. https://www.g4s.com/en-cn/social-responsibility
-   2. https://www.g4s.com/zh-cn/social-responsibility
-   3. https://www.googletagmanager.com/ns.html?id=GTM-5BVZXLG
-   4. https://www.g4s.com/
-   5. https://www.g4s.com/zh-cn/social-responsibility
-   6. https://www.g4s.com/
-   7. https://www.aus.com/
-   8. https://www.g4sriskmanagement.com/
-   9. https://www.amag.com/
-  10. https://ausecurity.ca/
-  11. https://ausecurity.mx/
-  12. https://www.aus.com/puerto-rico-security-systems-services
-  13. https://www.aus.com/
-  14. https://www.g4s.com/de-at
-  15. https://www.g4s.com/nl-be
-  16. https://www.g4s.com/fr-be
-  17. https://www.g4s.com/cs-cz
-  18. https://www.g4s.dk/
-  19. https://www.g4s.ee/
-  20. https://www.g4s.com/fr-fr
-  21. https://www.g4s.com/el-gr
-  22. https://www.g4s.com/en-gb/who-we-are/guernsey
-  23. https://www.g4s.com/en-ie
-  24. https://www.g4s.com/en-gb/who-we-are/isle-of-man
-  25. https://www.g4s.com/media-centre/news/2017/06/29/sale-of-g4s-secure-solutions-israel-ltd
-  26. https://www.g4s.com/en-gb/who-we-are/jersey
-  27. https://www.g4s.com/lv-lv
-  28. https://www.g4s.com/lt-lt
-  29. https://www.g4s.com/fr-lu
-  30. https://www.g4s.com/en-mt
-  31. https://www.g4s.com/nl-nl
-  32. https://www.g4s.com/sr-rs
-  33. https://www.g4s.com/en-rs
-  34. https://www.g4s.com/sk-sk
-  35. https://www.g4s.com/sl-si
-  36. https://www.g4s.com/tr-tr
-  37. https://www.g4s.com/uk-ua
-  38. https://www.g4s.com/en-gb
-  39. https://www.g4s.com/en-ao
-  40. https://www.g4s.com/en-bw
-  41. https://www.g4s.com/zh-cn/cameroon
-  42. https://www.g4s.com/en-cd
-  43. https://www.g4s.com/fr-cd
-  44. https://www.g4s.com/en-ga
-  45. https://www.g4s.com/en-gm
-  46. https://www.g4s.com/en-gh
-  47. https://www.g4s.com/en-gn
-  48. https://www.g4s.com/fr-gn
-  49. https://www.g4s.com/en-ci
-  50. https://www.g4s.com/fr-ci
-  51. https://www.g4s.com/en-ke
-  52. https://www.g4s.com/en-ls
-  53. https://www.g4s.com/en-mg
-  54. https://www.g4s.com/fr-mg
-  55. https://www.g4s.com/en-mw
-  56. https://www.g4s.com/fr-ma
-  57. https://www.g4s.com/en-mz
-  58. https://www.g4s.com/pt-mz
-  59. https://www.g4s.com/en-na
-  60. https://www.g4s.com/en-ng
-  61. https://www.g4s.com/en-sl
-  62. https://www.g4s.com/en-za
-  63. https://www.g4s.com/en-tz
-  64. https://www.g4s.com/en-ug
-  65. https://www.g4s.com/en-zm
-  66. https://www.g4s.com/es-ar
-  67. https://www.g4s.com/en-bb
-  68. https://www.g4s.com/pt-br
-  69. https://www.g4s.com/es-cl
-  70. https://www.g4s.com/es-co
-  71. https://www.g4s.com/es-cr
-  72. https://www.g4s.com/en-cr
-  73. https://www.g4s.com/es-ec
-  74. https://www.g4s.com/es-sv
-  75. https://www.g4s.com/es-sv
-  76. https://www.g4s.com/es-gt
-  77. https://www.g4s.com/es-ni
-  78. https://www.g4s.com/en-ni
-  79. https://www.g4s.com/es-py
-  80. https://www.g4s.com/es-pe
-  81. https://www.g4s.com/en-tt
-  82. https://www.g4s.com/es-uy
-  83. https://www.g4s.com/en-au
-  84. https://www.g4s.com/en-bd
-  85. https://www.g4s.com/zh-cn
-  86. https://www.g4s.com/en-cn
-  87. https://www.g4s.com/en-gu
-  88. https://www.g4s.com/en-hk
-  89. https://www.g4s.com/en-in
-  90. https://www.g4s.com/en-id
-  91. https://www.g4s.com/id-id
-  92. https://www.g4s.com/ja-jp
-  93. https://www.g4s.com/en-jp
-  94. https://www.g4s.com/en-mo
-  95. https://www.g4s.com/en-np
-  96. https://www.g4s.com/en-pg
-  97. https://www.g4s.com/en-sg
-  98. https://www.g4s.com/zh-tw
-  99. https://www.g4s.com/en-tw
- 100. https://www.g4s.com/en-th
- 101. https://www.g4s.com/en-bh
- 102. https://www.g4s.com/en-eg
- 103. https://www.g4s.com/en-jo
- 104. https://www.g4s.com/en-lb
- 105. https://www.g4s.com/en-om
- 106. https://www.g4s.com/en-qa
- 107. https://www.g4s.com/ar-sa
- 108. https://www.g4s.com/en-sa
- 109. https://www.g4s.com/en-ae
- 110. https://www.g4s.com/en-ye
- 111. https://www.g4s.com/en-cn/social responsibility
- 112. https://www.g4s.com/zh-cn
- 113. https://www.g4s.com/zh-cn/social-responsibility
- 114. https://www.g4s.com/zh-cn/who-we-are
- 115. https://www.g4s.com/zh-cn/who-we-are
- 116. https://www.g4s.com/zh-cn/who-we-are/g4s-global
- 117. https://www.g4s.com/zh-cn/who-we-are/g4s-global/history
- 118. https://www.g4s.com/zh-cn/who-we-are/china
- 119. https://www.g4s.com/zh-cn/what-we-do
- 120. https://www.g4s.com/zh-cn/social-responsibility
- 121. https://www.g4s.com/zh-cn
- 122. https://www.g4s.com/zh-cn/corporate/social-responsibility
- 123. https://www.g4s.com/contact-us
- 124. https://www.g4s.com/zh-cn/social-responsibility
- 125. tel:+86 571-89915158
- 126. mailto:info@cn.g4s.com
- 127. https://www.g4s.com/site-tools/privacy
- 128. https://www.g4s.com/site-tools/cookies-policy
- 129. https://www.g4s.com/site-tools/accessibility
- 130. https://www.facebook.com/G4S
- 131. https://www.linkedin.com/company/g4s
- 132. https://twitter.com/g4s
- 133. https://www.instagram.com/g4slimited/
- 134. https://www.youtube.com/user/G4SUK/featured
- 135. https://www.g4s.com/zh-cn/social-responsibility
-
-   Hidden links:
- 137. https://www.g4s.com/zh-cn/social-responsibility
+   ^

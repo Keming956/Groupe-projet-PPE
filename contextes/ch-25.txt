@@ -1,12 +1,12 @@
 Portfolio Impact Analysis Tools for Banks (Version 3)
 
-   [116]Home / [117]Regions / [118]Asia Pacific / [119]China / 负责任银行原则PRB
+   Home / Regions / Asia Pacific / China / 负责任银行原则PRB
 
 负责任银行原则PRB
 
    《负责任银行原则》为可持续银行体系提供了一致的框架，鼓励银行在最重要、最具实质性的领域设定目标，在战略、投资组合和交易层面以及所有业务领域融入
-   可持续发展元素，确保签署银行的战略和实践符合联合国可持续发展目标（SDGs）和《巴黎气候协定》。目前已有[120]两百余家银行签署了该原则。《
-   原则》一共有六条：
+   可持续发展元素，确保签署银行的战略和实践符合联合国可持续发展目标（SDGs）和《巴黎气候协定》。目前已有两百余家银行签署了该原则。《原则》一共
+   有六条：
 --
        定并公开目标。
     3. 客户与顾客
@@ -18,9 +18,10 @@ Portfolio Impact Analysis Tools for Banks (Version 3)
     6. 透明与责任
        承诺将定期评估签署的每一家银行和所有签署行对这些原则的履行情况，公开披露银行的正面和负面影响及其对社会目标的贡献，并对相关影响负责。
 
+   签署银行承诺采取三个关键步骤，不断改善其对社会的影响和贡献。
 --
-     * [135]Asia Pacific
-          + [136]China
-               o [137]负责任银行原则PRB
-               o [138]可持续保险原则PSI
-          + [139]Japan
+     * Asia Pacific
+          + China
+               o 负责任银行原则PRB
+               o 可持续保险原则PSI
+          + Japan

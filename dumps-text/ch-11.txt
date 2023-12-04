@@ -1,117 +1,117 @@
-   #[1]alternate [2]alternate
+   #alternate alternate
 
-   [3]跳至主要内容/导航
+   跳至主要内容/导航
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
 
-   [5]欢迎来到联合国，您的世界！
+   欢迎来到联合国，您的世界！
 
 Language
 
-     * [6]العربية
-     * [7]中文
-     * [8]English
-     * [9]Français
-     * [10]Русский
-     * [11]Español
-     * [12]Português
-     * [13]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [14]Hindi हिंदी
-          + [15]Urdu اردو
-          + [16]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
-   [17]United Nations
-   [18]联合国新闻
+   United Nations
+   联合国新闻
    全球视野, 常人故事
    (BUTTON) zh (BUTTON) 搜索 (BUTTON)
 
    ____________________________________________________________
    (搜索) 搜索
-   [19]高级搜�
+   高级搜�
 
 语言
 
-     * [20]العربية
-     * [21]中文
-     * [22]English
-     * [23]Français
-     * [24]Русский
-     * [25]Español
-     * [26]Português
-     * [27]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [28]Hindi हिंदी
-          + [29]Urdu اردو
-          + [30]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
    (BUTTON)
-   [31]联合国新闻
+   联合国新闻
    全球视野, 常人故事
 
-[32]菜单
+菜单
 
-     * [33]主页
-          + [34]亚洲及太平洋
-          + [35]非洲
-          + [36]美洲
-          + [37]中东
-          + [38]欧洲
-     * [39]全球议题
-          + [40]和平与安全
-          + [41]经济发展
-          + [42]人道主义援助
-          + [43]气候变化与环境
-          + [44]人权
-          + [45]联合国事务
-          + [46]妇女
-          + [47]法律与预防犯罪
-          + [48]健康及卫生
-          + [49]文化与教育
-          + [50]可持续发展目标
-          + [51]移民与难民
-     * [52]深度报道
-          + [53]人物专访
-          + [54]图片故事
-          + [55]专题报道
-     * [56]秘书长
-          + [57]秘书长发言人
-          + [58]所有发言
-          + [59]精选发言稿
-          + [60]媒体座谈会
-          + [61]公务旅行
-     * [62]新闻媒体
-          + [63]联合国图片
-          + [64]网络电视
-          + [65]会议报道
-          + [66]媒体办证和联络
-          + [67]音像图书馆
+     * 主页
+          + 亚洲及太平洋
+          + 非洲
+          + 美洲
+          + 中东
+          + 欧洲
+     * 全球议题
+          + 和平与安全
+          + 经济发展
+          + 人道主义援助
+          + 气候变化与环境
+          + 人权
+          + 联合国事务
+          + 妇女
+          + 法律与预防犯罪
+          + 健康及卫生
+          + 文化与教育
+          + 可持续发展目标
+          + 移民与难民
+     * 深度报道
+          + 人物专访
+          + 图片故事
+          + 专题报道
+     * 秘书长
+          + 秘书长发言人
+          + 所有发言
+          + 精选发言稿
+          + 媒体座谈会
+          + 公务旅行
+     * 新闻媒体
+          + 联合国图片
+          + 网络电视
+          + 会议报道
+          + 媒体办证和联络
+          + 音像图书馆
 
-[68]语言
+语言
 
-     * [69]العربية
-     * [70]中文
-     * [71]English
-     * [72]Français
-     * [73]Русский
-     * [74]Español
-     * [75]Português
-     * [76]Kiswahili
+     * العربية
+     * 中文
+     * English
+     * Français
+     * Русский
+     * Español
+     * Português
+     * Kiswahili
      * (BUTTON) 其它
-          + [77]Hindi हिंदी
-          + [78]Urdu اردو
-          + [79]Global
+          + Hindi हिंदी
+          + Urdu اردو
+          + Global
 
-[80]搜索
+搜索
 
    ____________________________________________________________
    (搜索) 搜索
-   [81]高级搜�
+   高级搜�
 
 Audio and Subscription
 
-     * [82]音频站
-     * [83]订�
+     * 音频站
+     * 订�
 
    秘书长古特雷斯带领联合国上诉法庭法官高晓力宣誓。
 
@@ -120,11 +120,11 @@ Audio and Subscription
    联合国图片/Eskinder Debebe
    秘书长古特雷斯带领联合国上诉法庭法官高晓力宣誓。
 
-   [84]Weibo [85]Twitter [86]打印 [87]电子邮件
+   Weibo Twitter 打印 电子邮件
 
 【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力
 
-   2023年3月17日 [88]妇女
+   2023年3月17日 妇女
 
    去年年底，来自中国的高级法官高晓力成功当选联合国上诉法庭法官，成为这个法庭首位来自中国的法官。今年3月，高晓力到纽约总部审理案件之时，正值世界
    各地庆祝3月10日第二个女法官国际日之际。联合国上诉法庭是一个怎样的机构？高晓力作为一位女法官在法律职业道路上有着怎样的思考？带着这些问题，《
@@ -283,65 +283,65 @@ Audio and Subscription
 
 
    以上是联合国上诉法庭法官高晓力接受《联合国新闻》黄莉玲的采访。
-   直接通过您的邮箱接收每日更新 [89]点击此处订阅相关主题
-   下载适用于您的[90]iOS或[91]Android设备的联合国新闻应用程序
-     * [92]女性赋权
+   直接通过您的邮箱接收每日更新 点击此处订阅相关主题
+   下载适用于您的iOS或Android设备的联合国新闻应用程序
+     * 女性赋权
 
 收听音频
 
 相关新闻
 
-   [93]联合国妇女署在北京王府学校开展的“创建健康校园关系同伴领导力”倡议
+   联合国妇女署在北京王府学校开展的“创建健康校园关系同伴领导力”倡议
 
-[94]【专题报道】剖析中国《反家暴法》的立法与实践——专访公益律师吕孝权
+【专题报道】剖析中国《反家暴法》的立法与实践——专访公益律师吕孝权
 
-   [95]联合国秘书长青年人问题特使贾亚特玛在冈比亚发表讲话。
+   联合国秘书长青年人问题特使贾亚特玛在冈比亚发表讲话。
 
-[96]联合国秘书长青年特使：年轻人的性和生殖健康对可持续发展目标至关重要
+联合国秘书长青年特使：年轻人的性和生殖健康对可持续发展目标至关重要
 
-   [97]2016年国际妇女节主题：力争到２０３０年实现“男女共擎一片天”。图片：妇女署/Ryan Brown
+   2016年国际妇女节主题：力争到２０３０年实现“男女共擎一片天”。图片：妇女署/Ryan Brown
 
-[98]庆祝妇女节：全球63家证券交易所鸣响性别平等之钟
+庆祝妇女节：全球63家证券交易所鸣响性别平等之钟
 
 媒体资讯 (BUTTON)
 
-     * [99]广播业者须知
-     * [100]联合国系统新闻链接
-     * [101]媒体通知
-     * [102]联合国期刊
-     * [103]会议记录
-     * [104]视听图书馆
+     * 广播业者须知
+     * 联合国系统新闻链接
+     * 媒体通知
+     * 联合国期刊
+     * 会议记录
+     * 视听图书馆
 
 联合国秘书长 (BUTTON)
 
-     * [105]公务旅行
-     * [106]媒体招待会
-     * [107]所有发言
-     * [108]联合国秘书长推特
+     * 公务旅行
+     * 媒体招待会
+     * 所有发言
+     * 联合国秘书长推特
 
 发言人办公室 (BUTTON)
 
-     * [109]最新声明
-     * [110]简报要闻
-     * [111]简报记录
-     * [112]给记者的说明
+     * 最新声明
+     * 简报要闻
+     * 简报记录
+     * 给记者的说明
 
 联系我们 (BUTTON)
 
-     * [113]联合国新闻应用程序
-     * [114]微博
-     * [115]RSS
-     * [116]新闻导航
-     * [117]联系信息
+     * 联合国新闻应用程序
+     * 微博
+     * RSS
+     * 新闻导航
+     * 联系信息
 
 Footer menu
 
-     * [118]网址索引
-     * [119]版权
-     * [120]常见问题解答
-     * [121]欺诈警告
-     * [122]隐私通知
-     * [123]使用条款
+     * 网址索引
+     * 版权
+     * 常见问题解答
+     * 欺诈警告
+     * 隐私通知
+     * 使用条款
      __________________________________________________________________
 
 Social Media Links
@@ -353,144 +353,6 @@ Social Media Links
 
 Footer buttons
 
-     * [124]捐款
+     * 捐款
 
-   [125]Weibo [126]Twitter [127]打印 [128]电子邮件
-
-References
-
-   Visible links:
-   1. android-app://https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
-   2. https://news.un.org/zh/story/2023/03/1116242
-   3. https://news.un.org/zh/story/2023/03/1116242#main-content
-   4. https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
-   5. https://www.un.org/zh
-   6. https://news.un.org/ar/
-   7. https://news.un.org/zh/
-   8. https://news.un.org/en/
-   9. https://news.un.org/fr/
-  10. https://news.un.org/ru/
-  11. https://news.un.org/es/
-  12. https://news.un.org/pt/
-  13. https://news.un.org/sw/
-  14. https://news.un.org/hi/
-  15. https://news.un.org/ur/
-  16. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  17. https://www.un.org/zh
-  18. https://news.un.org/zh/
-  19. https://news.un.org/zh/advanced-search
-  20. https://news.un.org/ar/
-  21. https://news.un.org/zh/
-  22. https://news.un.org/en/
-  23. https://news.un.org/fr/
-  24. https://news.un.org/ru/
-  25. https://news.un.org/es/
-  26. https://news.un.org/pt/
-  27. https://news.un.org/sw/
-  28. https://news.un.org/hi/
-  29. https://news.un.org/ur/
-  30. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  31. https://news.un.org/zh/
-  32. https://news.un.org/zh/story/2023/03/1116242#CollapsingNavbar
-  33. https://news.un.org/zh/
-  34. https://news.un.org/zh/news/region/asia-pacific
-  35. https://news.un.org/zh/news/region/africa
-  36. https://news.un.org/zh/news/region/americas
-  37. https://news.un.org/zh/news/region/middle-east
-  38. https://news.un.org/zh/news/region/europe
-  39. https://news.un.org/zh/story/2023/03/1116242
-  40. https://news.un.org/zh/news/topic/peace-and-security
-  41. https://news.un.org/zh/news/topic/economic-development
-  42. https://news.un.org/zh/news/topic/humanitarian-aid
-  43. https://news.un.org/zh/news/topic/climate-change
-  44. https://news.un.org/zh/news/topic/human-rights
-  45. https://news.un.org/zh/news/topic/un-affairs
-  46. https://news.un.org/zh/news/topic/women
-  47. https://news.un.org/zh/news/topic/law-and-crime-prevention
-  48. https://news.un.org/zh/news/topic/health
-  49. https://news.un.org/zh/news/topic/culture-and-education
-  50. https://news.un.org/zh/news/topic/sdgs
-  51. https://news.un.org/zh/news/topic/migrants-and-refugees
-  52. https://news.un.org/zh/story/2023/03/1116242
-  53. https://news.un.org/zh/interviews
-  54. https://news.un.org/zh/gallery
-  55. https://news.un.org/zh/features
-  56. https://www.un.org/sg/zh
-  57. https://www.un.org/sg/en/spokesperson
-  58. https://www.un.org/sg/en/latest/sg/statement
-  59. https://www.un.org/sg/en/archive/sg/speeches
-  60. https://www.un.org/sg/en/content/sg/press-encounters
-  61. https://www.un.org/sg/en/content/travels
-  62. https://news.un.org/zh/story/2023/03/1116242
-  63. https://dam.media.un.org/
-  64. https://webtv.un.org/zh
-  65. https://press.un.org/en
-  66. https://www.un.org/zh/media/accreditation/
-  67. http://www.unmultimedia.org/avlibrary/
-  68. https://news.un.org/zh/story/2023/03/1116242#block-un-base-theme-language-primary-content
-  69. https://news.un.org/ar/
-  70. https://news.un.org/zh/
-  71. https://news.un.org/en/
-  72. https://news.un.org/fr/
-  73. https://news.un.org/ru/
-  74. https://news.un.org/es/
-  75. https://news.un.org/pt/
-  76. https://news.un.org/sw/
-  77. https://news.un.org/hi/
-  78. https://news.un.org/ur/
-  79. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  80. https://news.un.org/zh/story/2023/03/1116242#block-un-news-search-block-primary-content
-  81. https://news.un.org/zh/advanced-search
-  82. https://news.un.org/zh/audio-hub
-  83. https://news.un.org/zh/content/un-newsletter-subscribe
-  84. https://service.weibo.com/share/share.php?url=https://news.un.org/zh/story/2023/03/1116242&title=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力
-  85. https://twitter.com/intent/tweet?text=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力&url=https://news.un.org/zh/story/2023/03/1116242
-  86. https://news.un.org/zh/story/2023/03/1116242
-  87. mailto:?subject=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力&body=https://news.un.org/zh/story/2023/03/1116242
-  88. https://news.un.org/zh/news/topic/women
-  89. https://news.un.org/zh/content/un-newsletter-subscribe?utm_source=UN News&utm_medium=email&utm_campaign=un_news_newsletter
-  90. https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8
-  91. https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
-  92. https://news.un.org/zh/tags/nuxingfuquan
-  93. https://news.un.org/zh/story/2020/12/1072862
-  94. https://news.un.org/zh/story/2020/12/1072862
-  95. https://news.un.org/zh/story/2018/02/1002461
-  96. https://news.un.org/zh/story/2018/02/1002461
-  97. https://news.un.org/zh/story/2018/03/1003792
-  98. https://news.un.org/zh/story/2018/03/1003792
-  99. https://news.un.org/zh/content/information-broadcasters
- 100. https://news.un.org/zh/content/un-system-links
- 101. https://www.un.org/en/media/accreditation/alert.shtml
- 102. https://journal.un.org/zh/
- 103. https://www.un.org/press/en/content/meetings-coverage/
- 104. https://www.unmultimedia.org/avlibrary/
- 105. https://www.un.org/sg/en/content/travels
- 106. https://www.un.org/sg/en/content/sg/press-encounters
- 107. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
- 108. https://twitter.com/antonioguterres?lang=en
- 109. https://www.un.org/sg/en/spokesperson
- 110. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
- 111. https://www.un.org/press/en/content/noon-briefings
- 112. https://www.un.org/sg/en/content/sg/notes-correspondents
- 113. https://news.un.org/zh/content/un-news-app
- 114. https://weibo.com/275800001
- 115. https://news.un.org/zh/rss-feeds
- 116. https://news.un.org/zh/content/navigate-news
- 117. https://news.un.org/zh/contact
- 118. https://www.un.org/zh/site-index
- 119. https://www.un.org/zh/about-us/copyright
- 120. https://www.un.org/zh/about-us/frequently-asked-questions
- 121. https://www.un.org/zh/about-us/fraud-alert
- 122. https://www.un.org/zh/about-us/privacy-notice
- 123. https://www.un.org/zh/about-us/terms-of-use
- 124. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
- 125. https://service.weibo.com/share/share.php?url=https://news.un.org/zh/story/2023/03/1116242&title=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力
- 126. https://twitter.com/intent/tweet?text=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力&url=https://news.un.org/zh/story/2023/03/1116242
- 127. https://news.un.org/zh/story/2023/03/1116242
- 128. mailto:?subject=【音频专题】以司法智慧和廉洁担当社会责任——访联合国上诉法庭首位中国籍法官高晓力&body=https://news.un.org/zh/story/2023/03/1116242
-
-   Hidden links:
- 130. https://www.weibo.com/275800001?refer_flag=1001030101_&is_hot=1
- 131. https://soundcloud.com/unradiochinese
- 132. https://podcasts.apple.com/us/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB/id306300959?mt=2&app=podcast
- 133. https://www.un.org/zh/get-involved/social-media
+   Weibo Twitter 打印 电子邮件

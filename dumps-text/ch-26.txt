@@ -1,114 +1,114 @@
-   #[1]alternate
+   #alternate
 
    Sorry, you need to enable JavaScript to visit this website.
 
-   [2]Skip to main content
+   Skip to main content
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-TN8255
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TN8255
 
-   [4]Close Menu Button
+   Close Menu Button
 
 请选择地点
 
    您正在浏览
    雀巢官方网站
      * Global
-          + [5]www.nestle.com
+          + www.nestle.com
           + Africa & Middle East
-               o [6]Central-West Africa
-               o [7]East & Southern Africa
-               o [8]Iran
-               o [9]Israel (Osem)
-               o [10]Middle East & North Africa AR
-               o [11]Middle East & North Africa EN
-               o [12]Türkiye
+               o Central-West Africa
+               o East & Southern Africa
+               o Iran
+               o Israel (Osem)
+               o Middle East & North Africa AR
+               o Middle East & North Africa EN
+               o Türkiye
           + Americas
-               o [13]Argentina
-               o [14]Bolivia
-               o [15]Brazil
-               o [16]Canada EN
-               o [17]Canada FR
-               o [18]Caribbean
-               o [19]Central America
-               o [20]Chile
-               o [21]Colombia
-               o [22]Dominican Republic
-               o [23]Ecuador
-               o [24]Mexico
-               o [25]Paraguay
-               o [26]Peru
-               o [27]United States
-               o [28]Uruguay
-               o [29]Venezuela
+               o Argentina
+               o Bolivia
+               o Brazil
+               o Canada EN
+               o Canada FR
+               o Caribbean
+               o Central America
+               o Chile
+               o Colombia
+               o Dominican Republic
+               o Ecuador
+               o Mexico
+               o Paraguay
+               o Peru
+               o United States
+               o Uruguay
+               o Venezuela
           + Asia & Oceania
-               o [30]Australia
-               o [31]Bangladesh
-               o [32]Hong Kong SAR, Greater China EN
-               o [33]Hong Kong SAR, Greater China ZH
-               o [34]India
-               o [35]Indonesia
-               o [36]Japan
-               o [37]Korea
-               o [38]Mainland China, Greater China
-               o [39]Malaysia
-               o [40]New Zealand
-               o [41]Pakistan
-               o [42]Philippines
-               o [43]Singapore
-               o [44]Sri Lanka
-               o [45]Taiwan, Greater China
-               o [46]Thailand EN
-               o [47]Thailand TH
-               o [48]Vietnam
+               o Australia
+               o Bangladesh
+               o Hong Kong SAR, Greater China EN
+               o Hong Kong SAR, Greater China ZH
+               o India
+               o Indonesia
+               o Japan
+               o Korea
+               o Mainland China, Greater China
+               o Malaysia
+               o New Zealand
+               o Pakistan
+               o Philippines
+               o Singapore
+               o Sri Lanka
+               o Taiwan, Greater China
+               o Thailand EN
+               o Thailand TH
+               o Vietnam
           + Europe
-               o [49]Austria
-               o [50]Belgium FR
-               o [51]Belgium NL
-               o [52]Bosnia & Herzegovina
-               o [53]Bulgaria
-               o [54]Croatia
-               o [55]Czech Republic
-               o [56]Denmark
-               o [57]Estonia
-               o [58]Finland
-               o [59]France
-               o [60]Germany
-               o [61]Greece
-               o [62]Hungary
-               o [63]Ireland
-               o [64]Italy
-               o [65]Latvia
-               o [66]Lithuania
-               o [67]Macedonia
-               o [68]Malta
-               o [69]Moldova RO
-               o [70]Moldova RU
-               o [71]Netherlands
-               o [72]Norway
-               o [73]Poland
-               o [74]Portugal
-               o [75]Romania
-               o [76]Russia
-               o [77]Serbia
-               o [78]Slovakia
-               o [79]Slovenia
-               o [80]Spain ES
-               o [81]Spain CA
-               o [82]Sweden
-               o [83]Switzerland DE
-               o [84]Switzerland FR
-               o [85]Türkiye
-               o [86]UK
-               o [87]Ukraine
+               o Austria
+               o Belgium FR
+               o Belgium NL
+               o Bosnia & Herzegovina
+               o Bulgaria
+               o Croatia
+               o Czech Republic
+               o Denmark
+               o Estonia
+               o Finland
+               o France
+               o Germany
+               o Greece
+               o Hungary
+               o Ireland
+               o Italy
+               o Latvia
+               o Lithuania
+               o Macedonia
+               o Malta
+               o Moldova RO
+               o Moldova RU
+               o Netherlands
+               o Norway
+               o Poland
+               o Portugal
+               o Romania
+               o Russia
+               o Serbia
+               o Slovakia
+               o Slovenia
+               o Spain ES
+               o Spain CA
+               o Sweden
+               o Switzerland DE
+               o Switzerland FR
+               o Türkiye
+               o UK
+               o Ukraine
 
    深色模式 (BU[ ]N) i [_]
 
-   [88]您目前正在雀巢中国 Global links dropdown
+   您目前正在雀巢中国 Global links dropdown
 
-     * [89]联系我们
+     * 联系我们
 
-   深色模式：通过切换到深色模式，为实现更可持续的体验做出贡献。[90]了解更多。
-   [91]Home
+   深色模式：通过切换到深色模式，为实现更可持续的体验做出贡献。了解更多。
+   Home
 
    Sort by
 
@@ -122,289 +122,289 @@
 
 Main navigation
 
-     * [92]Home
-       [93]Close Menu Button [94]返回
-       [95]前往 Home
-     * [96]关于雀巢
-       [97]Close Menu Button [98]返回
+     * Home
+       Close Menu Button 返回
+       前往 Home
+     * 关于雀巢
+       Close Menu Button 返回
        关于雀巢
        我们是雀巢，打造“优质食品，美好生活”的公司。我们充分发掘食品的力量，提升每个个体的生活品质，无论当下还是未来。
-       [99]前往 关于雀巢
-          + [100]公司简介
-            [101]返回
-            [102]前往 公司简介
-          + [103]雀巢的“价值创造”战略
-            [104]返回
-            [105]前往 雀巢的“价值创造”战略
-          + [106]我们如何开展业务
-            [107]返回
-            [108]前往 我们如何开展业务
-               o [109]我们的目标和价值观
-                 [110]返回
-                 [111]前往 我们的目标和价值观
-               o [112]集团业务原则
-                 [113]返回
-                 [114]前往 集团业务原则
-               o [115]大声说出来
-                 [116]返回
-                 [117]前往 大声说出来
-          + [118]创新、科学与技术
-            [119]返回
-            [120]前往 创新、科学与技术
-               o [121]加快产品上市速度
-                 [122]返回
-                 [123]前往 加快产品上市速度
-               o [124]领先的可持续发展技术
-                 [125]返回
-                 [126]前往 领先的可持续发展技术
-               o [127]食品安全和质量
-                 [128]返回
-                 [129]前往 食品安全和质量
-          + [130]我们的历史
-            [131]返回
-            [132]前往 我们的历史
-               o [133]探索雀巢发展历程
-                 [134]返回
-                 [135]前往 探索雀巢发展历程
-               o [136]雀巢创始人亨利·雀巢 (Henri Nestlé)
-                 [137]返回
-                 [138]前往 雀巢创始人亨利·雀巢 (Henri Nestlé)
-          + [139]生命最初1000天的营养
-            [140]返回
-            [141]前往 生命最初1000天的营养
-               o [142]推广婴儿营养：求之有道
-                 [143]返回
-                 [144]前往 推广婴儿营养：求之有道
-     * [145]我们的故事
-       [146]Close Menu Button [147]返回
-       [148]前往 我们的故事
-     * [149]可持续发展
-       [150]Close Menu Button [151]返回
+       前往 关于雀巢
+          + 公司简介
+            返回
+            前往 公司简介
+          + 雀巢的“价值创造”战略
+            返回
+            前往 雀巢的“价值创造”战略
+          + 我们如何开展业务
+            返回
+            前往 我们如何开展业务
+               o 我们的目标和价值观
+                 返回
+                 前往 我们的目标和价值观
+               o 集团业务原则
+                 返回
+                 前往 集团业务原则
+               o 大声说出来
+                 返回
+                 前往 大声说出来
+          + 创新、科学与技术
+            返回
+            前往 创新、科学与技术
+               o 加快产品上市速度
+                 返回
+                 前往 加快产品上市速度
+               o 领先的可持续发展技术
+                 返回
+                 前往 领先的可持续发展技术
+               o 食品安全和质量
+                 返回
+                 前往 食品安全和质量
+          + 我们的历史
+            返回
+            前往 我们的历史
+               o 探索雀巢发展历程
+                 返回
+                 前往 探索雀巢发展历程
+               o 雀巢创始人亨利·雀巢 (Henri Nestlé)
+                 返回
+                 前往 雀巢创始人亨利·雀巢 (Henri Nestlé)
+          + 生命最初1000天的营养
+            返回
+            前往 生命最初1000天的营养
+               o 推广婴儿营养：求之有道
+                 返回
+                 前往 推广婴儿营养：求之有道
+     * 我们的故事
+       Close Menu Button 返回
+       前往 我们的故事
+     * 可持续发展
+       Close Menu Button 返回
        可持续发展
        我们相信食品蕴含着强大的力量，可以提升人们的生活品质。我们秉承这一理念，承诺持续利用我们的全球影响力、我们的资源和专业知识，为人类和整
        个地球创造更健康的未来。
-       [152]前往 可持续发展
-          + [153]我们的可持续之道
-            [154]返回
-            [155]前往 我们的可持续之道
-               o [156]再生一代
-                 [157]返回
-                 [158]前往 再生一代
-          + [159]气候行动
-            [160]返回
-            [161]前往 气候行动
-               o [162]通往净零碳排放之路
-                 [163]返回
-                 [164]前往 通往净零碳排放之路
-               o [165]在经营活动中落实气候行动
-                 [166]返回
-                 [167]前往 在经营活动中落实气候行动
-               o [168]我们各个品牌的气候行动
-                 [169]返回
-                 [170]前往 我们各个品牌的气候行动
-               o [171]齐心协力，共同倡导气候行动
-                 [172]返回
-                 [173]前往 齐心协力，共同倡导气候行动
-               o [174]再生农业
-                 [175]返回
-                 [176]前往 再生农业
-          + [177]减少浪费
-            [178]返回
-            [179]前往 减少浪费
-               o [180]雀巢无废包装策略
-                 [181]返回
-                 [182]前往 雀巢无废包装策略
-               o [183]防止塑料污染的关键行动
-                 [184]返回
-                 [185]前往 防止塑料污染的关键行动
-               o [186]减少食物浪费和损失
-                 [187]返回
-                 [188]前往 减少食物浪费和损失
-          + [189]保护大自然
-            [190]返回
-            [191]前往 保护大自然
-               o [192]保护和巩固生物多样性
-                 [193]返回
-                 [194]前往 保护和巩固生物多样性
-               o [195]可再生农业
-                 [196]返回
-                 [197]前往 可再生农业
-               o [198]实现森林正效
-                 [199]返回
-                 [200]前往 实现森林正效
-               o [201]我们对待自然、生物多样性和环境的态度
-                 [202]返回
-                 [203]前往 我们对待自然、生物多样性和环境的态度
-          + [204]促进营养和健康
-            [205]返回
-            [206]前往 促进营养和健康
-               o [207]推动所有年龄段人们的均衡饮食
-                 [208]返回
-                 [209]前往 推动所有年龄段人们的均衡饮食
-               o [210]可获得的营养
-                 [211]返回
-                 [212]前往 可获得的营养
-               o [213]更美味、更健康的食物
-                 [214]返回
-                 [215]前往 更美味、更健康的食物
-               o [216]更健康的生活
-                 [217]返回
-                 [218]前往 更健康的生活
-               o [219]食品质量和安全
-                 [220]返回
-                 [221]前往 食品质量和安全
-          + [222]水资源管理
-            [223]返回
-            [224]前往 水资源管理
-               o [225]统筹兼顾的水管理方法
-                 [226]返回
-                 [227]前往 统筹兼顾的水管理方法
-               o [228]日常业务活动中的可持续水资源管理
-                 [229]返回
-                 [230]前往 日常业务活动中的可持续水资源管理
-               o [231]雀巢农业活动中的可持续水资源管理
-                 [232]返回
-                 [233]前往 雀巢农业活动中的可持续水资源管理
-               o [234]“雀巢水资源承诺”助力塑造积极的水影响
-                 [235]返回
-                 [236]前往 “雀巢水资源承诺”助力塑造积极的水影响
-          + [237]人权
-            [238]返回
-            [239]前往 人权
-          + [240]以可持续方式采购原材料
-            [241]返回
-            [242]前往 以可持续方式采购原材料
-               o [243]振兴农业社区和生态系统
-                 [244]返回
-                 [245]前往 振兴农业社区和生态系统
-               o [246]可持续咖啡
-                 [247]返回
-                 [248]前往 可持续咖啡
-               o [249]奶业供应链
-                 [250]返回
-                 [251]前往 奶业供应链
-               o [252]大豆的采购
-                 [253]返回
-                 [254]前往 大豆的采购
-               o [255]谷物粮食的采购
-                 [256]返回
-                 [257]前往 谷物粮食的采购
-          + [258]关心人才，关怀社会
-            [259]返回
-            [260]前往 关心人才，关怀社会
-               o [261]帮助员工做好迎接未来的准备
-                 [262]返回
-                 [263]前往 帮助员工做好迎接未来的准备
-               o [264]全球青年计划 - 雀巢需要年轻一代
-                 [265]返回
-                 [266]前往 全球青年计划 - 雀巢需要年轻一代
-               o [267]为女性赋能
-                 [268]返回
-                 [269]前往 为女性赋能
-               o [270]工作场所的健康、安全和幸福生活
-                 [271]返回
-                 [272]前往 工作场所的健康、安全和幸福生活
-          + [273]合乎伦理道德且负责任的商业实践
-            [274]返回
-            [275]前往 合乎伦理道德且负责任的商业实践
-          + [276]工作成果和报告
-            [277]返回
-            [278]前往 工作成果和报告
+       前往 可持续发展
+          + 我们的可持续之道
+            返回
+            前往 我们的可持续之道
+               o 再生一代
+                 返回
+                 前往 再生一代
+          + 气候行动
+            返回
+            前往 气候行动
+               o 通往净零碳排放之路
+                 返回
+                 前往 通往净零碳排放之路
+               o 在经营活动中落实气候行动
+                 返回
+                 前往 在经营活动中落实气候行动
+               o 我们各个品牌的气候行动
+                 返回
+                 前往 我们各个品牌的气候行动
+               o 齐心协力，共同倡导气候行动
+                 返回
+                 前往 齐心协力，共同倡导气候行动
+               o 再生农业
+                 返回
+                 前往 再生农业
+          + 减少浪费
+            返回
+            前往 减少浪费
+               o 雀巢无废包装策略
+                 返回
+                 前往 雀巢无废包装策略
+               o 防止塑料污染的关键行动
+                 返回
+                 前往 防止塑料污染的关键行动
+               o 减少食物浪费和损失
+                 返回
+                 前往 减少食物浪费和损失
+          + 保护大自然
+            返回
+            前往 保护大自然
+               o 保护和巩固生物多样性
+                 返回
+                 前往 保护和巩固生物多样性
+               o 可再生农业
+                 返回
+                 前往 可再生农业
+               o 实现森林正效
+                 返回
+                 前往 实现森林正效
+               o 我们对待自然、生物多样性和环境的态度
+                 返回
+                 前往 我们对待自然、生物多样性和环境的态度
+          + 促进营养和健康
+            返回
+            前往 促进营养和健康
+               o 推动所有年龄段人们的均衡饮食
+                 返回
+                 前往 推动所有年龄段人们的均衡饮食
+               o 可获得的营养
+                 返回
+                 前往 可获得的营养
+               o 更美味、更健康的食物
+                 返回
+                 前往 更美味、更健康的食物
+               o 更健康的生活
+                 返回
+                 前往 更健康的生活
+               o 食品质量和安全
+                 返回
+                 前往 食品质量和安全
+          + 水资源管理
+            返回
+            前往 水资源管理
+               o 统筹兼顾的水管理方法
+                 返回
+                 前往 统筹兼顾的水管理方法
+               o 日常业务活动中的可持续水资源管理
+                 返回
+                 前往 日常业务活动中的可持续水资源管理
+               o 雀巢农业活动中的可持续水资源管理
+                 返回
+                 前往 雀巢农业活动中的可持续水资源管理
+               o “雀巢水资源承诺”助力塑造积极的水影响
+                 返回
+                 前往 “雀巢水资源承诺”助力塑造积极的水影响
+          + 人权
+            返回
+            前往 人权
+          + 以可持续方式采购原材料
+            返回
+            前往 以可持续方式采购原材料
+               o 振兴农业社区和生态系统
+                 返回
+                 前往 振兴农业社区和生态系统
+               o 可持续咖啡
+                 返回
+                 前往 可持续咖啡
+               o 奶业供应链
+                 返回
+                 前往 奶业供应链
+               o 大豆的采购
+                 返回
+                 前往 大豆的采购
+               o 谷物粮食的采购
+                 返回
+                 前往 谷物粮食的采购
+          + 关心人才，关怀社会
+            返回
+            前往 关心人才，关怀社会
+               o 帮助员工做好迎接未来的准备
+                 返回
+                 前往 帮助员工做好迎接未来的准备
+               o 全球青年计划 - 雀巢需要年轻一代
+                 返回
+                 前往 全球青年计划 - 雀巢需要年轻一代
+               o 为女性赋能
+                 返回
+                 前往 为女性赋能
+               o 工作场所的健康、安全和幸福生活
+                 返回
+                 前往 工作场所的健康、安全和幸福生活
+          + 合乎伦理道德且负责任的商业实践
+            返回
+            前往 合乎伦理道德且负责任的商业实践
+          + 工作成果和报告
+            返回
+            前往 工作成果和报告
 
 Header persistent submenu
           + 联系我们
             contactus
-     * [279]品牌与产品
-       [280]Close Menu Button [281]返回
+     * 品牌与产品
+       Close Menu Button 返回
        Learn about Nestlé’s brands and what we’re doing to make our
        products tastier and healthier.
-       [282]前往 品牌与产品
+       前往 品牌与产品
 
 Header persistent submenu
           + 联系我们
             contactus
-     * [283]科研创新
-       [284]Close Menu Button [285]返回
-       [286]前往 科研创新
+     * 科研创新
+       Close Menu Button 返回
+       前往 科研创新
 
 Secondary menu
 
-     * [287]职业
-       [288]Close Menu Button [289]返回
+     * 职业
+       Close Menu Button 返回
        careers_HP_banner
        不管您是工作多年还是刚刚毕业，都可以在雀巢找到属于您的工作机会。来我们这发现属于您的工作机会吧。
-       [290]前往 职业
-          + [291]Log in
-            [292]返回
-            [293]前往 Log in
-          + [294]找工作
-            [295]返回
-            [296]前往 找工作
-          + [297]按照职业领域
-            [298]返回
-            [299]前往 按照职业领域
-               o [300]行政部门
-                 [301]返回
-               o [302]传播部门
-                 [303]返回
-               o [304]工程部门
-                 [305]返回
-               o [306]财务部门
-                 [307]返回
-               o [308]人力资源部门
-                 [309]返回
-               o [310]信息技术部门
-                 [311]返回
-               o [312]法务部门
-                 [313]返回
-               o [314]实习与学徒
-                 [315]返回
-               o [316]市场部门
-                 [317]返回
-               o [318]研发部门
-                 [319]返回
-               o [320]工艺与生产
-                 [321]返回
-               o [322]销售部门
-                 [323]返回
-               o [324]供应链和采购部
-                 [325]返回
-          + [326]在校生和毕业生
-            [327]返回
-            [328]前往 在校生和毕业生
-          + [329]多元化与包容性
-            [330]返回
-            [331]前往 多元化与包容性
-          + [332]开始你的雀巢之�
-            [333]返回
-            [334]前往 开始你的雀巢之�
-          + [335]常见问题解答
-            [336]返回
-            [337]前往 常见问题解答
+       前往 职业
+          + Log in
+            返回
+            前往 Log in
+          + 找工作
+            返回
+            前往 找工作
+          + 按照职业领域
+            返回
+            前往 按照职业领域
+               o 行政部门
+                 返回
+               o 传播部门
+                 返回
+               o 工程部门
+                 返回
+               o 财务部门
+                 返回
+               o 人力资源部门
+                 返回
+               o 信息技术部门
+                 返回
+               o 法务部门
+                 返回
+               o 实习与学徒
+                 返回
+               o 市场部门
+                 返回
+               o 研发部门
+                 返回
+               o 工艺与生产
+                 返回
+               o 销售部门
+                 返回
+               o 供应链和采购部
+                 返回
+          + 在校生和毕业生
+            返回
+            前往 在校生和毕业生
+          + 多元化与包容性
+            返回
+            前往 多元化与包容性
+          + 开始你的雀巢之�
+            返回
+            前往 开始你的雀巢之�
+          + 常见问题解答
+            返回
+            前往 常见问题解答
 
 Header persistent submenu
           + 联系我们
             contactus
-     * [338]加入雀巢
-       [339]Close Menu Button [340]返回
-       [341]前往 加入雀巢
-     * [342]新闻中心
-       [343]Close Menu Button [344]返回
+     * 加入雀巢
+       Close Menu Button 返回
+       前往 加入雀巢
+     * 新闻中心
+       Close Menu Button 返回
        新闻中心
        欢迎浏览更多雀巢相关资讯、新闻稿件、声明，及其它多媒体内容。
-       [345]前往 新闻中心
-          + [346]集团新闻
-            [347]返回
-            [348]前往 集团新闻
-          + [349]媒体看雀巢
-            [350]返回
-            [351]前往 媒体看雀巢
-          + [352]新闻特写
-            [353]返回
-            [354]前往 新闻特写
-          + [355]媒体联系
-            [356]返回
-            [357]前往 媒体联系
+       前往 新闻中心
+          + 集团新闻
+            返回
+            前往 集团新闻
+          + 媒体看雀巢
+            返回
+            前往 媒体看雀巢
+          + 新闻特写
+            返回
+            前往 新闻特写
+          + 媒体联系
+            返回
+            前往 媒体联系
 
 Header persistent submenu
           + 联系我们
@@ -424,8 +424,8 @@ Header persistent submenu
      * 联系我们
        contactus
 
-    1. [358]Home
-    2. [359]关于雀巢
+    1. Home
+    2. 关于雀巢
     3. 负责任采购
 
 负责任采购
@@ -441,15 +441,15 @@ Header persistent submenu
    在当今社会，负责任采购所扮演的角色越发重要。考虑到贸易活动对环境和劳动者生活所带来的影响，消费者对我们是否能践行商业道德持续增长的期望，同时也
    为了确保供应链从源头至生产的透明化，我们希望供应商与雀巢按照同样的原则与价值观进行工作。
 
-   在《雀巢集团业务原则》中，雀巢承诺促进供应链中的负责任实践与做法。[360]Nestlé Responsible Sourcing
-   Standard [361]（雀巢负责采购标准）有助于落实这一承诺。
+   在《雀巢集团业务原则》中，雀巢承诺促进供应链中的负责任实践与做法。Nestlé Responsible Sourcing
+   Standard （雀巢负责采购标准）有助于落实这一承诺。
 
-   [362]《雀巢负责采购标准》为我们的供应商及其员工、代理商和分包商制定了不容妥协的最低准则，雀巢要求以上人员在经营业务时始终遵守并坚持[36
-   3]《雀巢负责采购标准》。
+   《雀巢负责采购标准》为我们的供应商及其员工、代理商和分包商制定了不容妥协的最低准则，雀巢要求以上人员在经营业务时始终遵守并坚持《雀巢负责采购标
+   准》。
 
-   [364]《雀巢负责采购标准》是所有采购订单与供应合同的必要组成部分，并被纳入其他所有商业协议。为确保能够满足雀巢负责任采购标准，供应商会被要
-   求参与负责任采购审计。该审计主要覆盖以下四个方面：用工标准，安全与健康，环境保护和商业诚信。对于审计中发现问题点的供应商，我们会协助其进行整改
-   行动。而对于抵制改进的供应商，我们会坚决将其从供应链中剔除。
+   《雀巢负责采购标准》是所有采购订单与供应合同的必要组成部分，并被纳入其他所有商业协议。为确保能够满足雀巢负责任采购标准，供应商会被要求参与负责
+   任采购审计。该审计主要覆盖以下四个方面：用工标准，安全与健康，环境保护和商业诚信。对于审计中发现问题点的供应商，我们会协助其进行整改行动。而对
+   于抵制改进的供应商，我们会坚决将其从供应链中剔除。
 
    我们深信负责任采购带来的绝不仅是雀巢和供应商持续增长的竞争优势，同时也会对提高社会整体生活质素，缔造更健康的未来做出不可忽略的贡献。
 
@@ -457,25 +457,25 @@ Header persistent submenu
      *
      *
 
-   [365]To The Top
+   To The Top
 
 Mini Footer
 
-[366]雀巢新闻
+雀巢新闻
 
-   [367]订阅雀巢全球新闻
-   [368]注册
+   订阅雀巢全球新闻
+   注册
 
-[369]合规问题
+合规问题
 
-   [370]请告知我们您的顾虑
-   [371]联系我们
+   请告知我们您的顾虑
+   联系我们
    map
 
-[372]如果您对雀巢的产品或服务有相关问题
+如果您对雀巢的产品或服务有相关问题
 
-   [373]我们将解答您的疑问
-   [374]联系我们
+   我们将解答您的疑问
+   联系我们
 
 雀巢
 
@@ -487,508 +487,71 @@ Mini Footer
 
 关于雀巢
 
-     * [375]雀巢历史
-     * [376]业务原则
-     * [377]雀巢在中国
-     * [378]质量与安全
-     * [379]负责任采购
-     * [380]问雀巢
+     * 雀巢历史
+     * 业务原则
+     * 雀巢在中国
+     * 质量与安全
+     * 负责任采购
+     * 问雀巢
 
 关于雀巢
 
-     * [381]雀巢历史
-     * [382]业务原则
-     * [383]雀巢在中国
-     * [384]质量与安全
-     * [385]负责任采购
-     * [386]问雀巢
+     * 雀巢历史
+     * 业务原则
+     * 雀巢在中国
+     * 质量与安全
+     * 负责任采购
+     * 问雀巢
 
 品牌与产品
 
-     * [387]雀巢
-     * [388]豪吉
-     * [389]太太乐
-     * [390]徐福记
-     * [391]惠氏营养品
-     * [392]Nespresso 浓遇咖啡
+     * 雀巢
+     * 豪吉
+     * 太太乐
+     * 徐福记
+     * 惠氏营养品
+     * Nespresso 浓遇咖啡
 
 新闻中心
 
-     * [393]集团新闻
-     * [394]新闻特写
-     * [395]雀巢声明
-     * [396]媒体看雀巢
-     * [397]媒体联系
+     * 集团新闻
+     * 新闻特写
+     * 雀巢声明
+     * 媒体看雀巢
+     * 媒体联系
 
 科研创新
 
-     * [398]我们的愿景
-     * [399]研发网络
-     * [400]食品科学和技术
-     * [401]食品质量和安全
-     * [402]环境可持续性
-     * [403]植物科学
+     * 我们的愿景
+     * 研发网络
+     * 食品科学和技术
+     * 食品质量和安全
+     * 环境可持续性
+     * 植物科学
 
 SHARE INFORMATION
 
-   [404]Share Price
+   Share Price
 
 关注我们
 
-     * [405]雀巢
+     * 雀巢
 
-     * [406]雀巢
+     * 雀巢
 
-     * [407]雀巢
+     * 雀巢
 
 Report Concern form modal block
 
-   [408]Report Concern
+   Report Concern
 
 Sub Footer Menu
 
-     * [409]© 2023 Nestlé 雀巢集团
-     * [410]网站地图
-     * [411]选择地点
-     * [412]各地销售办事处
-     * [413]碳效率
-     * [414]网站条款
-     * [415]雀巢个人信息处理规则
-     * [416]京ICP备09030901号-12
-
-References
-
-   Visible links:
-   1. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-   2. https://www.nestle.com.cn/about_nestle/responsible-sourcing#main-content
-   3. https://www.googletagmanager.com/ns.html?id=GTM-TN8255
-   4. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-   5. https://www.nestle.com/
-   6. http://www.nestle-cwa.com/
-   7. http://www.nestle-esar.com/
-   8. http://www.nestle.ir/
-   9. https://www.osem-nestle.co.il/
-  10. https://www.nestle-mena.com/ar
-  11. https://www.nestle-mena.com/en
-  12. http://www.nestle.com.tr/
-  13. http://www.nestle.com.ar/
-  14. http://www.nestle.com.bo/
-  15. https://www.nestle.com.br/
-  16. https://www.corporate.nestle.ca/en
-  17. https://www.corporate.nestle.ca/fr
-  18. https://nestle-caribbean.com/
-  19. http://www.nestle-centroamerica.com/
-  20. http://www.nestle.cl/
-  21. https://www.nestle.com.co/
-  22. https://www.nestle.do/
-  23. http://www.nestle.com.ec/
-  24. http://www.nestle.com.mx/
-  25. http://www.nestle.com.py/
-  26. http://www.nestle.com.pe/
-  27. http://www.nestleusa.com/
-  28. http://www.nestle.com.uy/
-  29. http://www.nestle.com.ve/
-  30. http://www.nestle.com.au/
-  31. http://www.nestle.com.bd/
-  32. https://www.nestle.com.hk/en
-  33. https://www.nestle.com.hk/zh
-  34. http://www.nestle.in/
-  35. http://www.nestle.co.id/
-  36. http://www.nestle.co.jp/
-  37. http://www.nestle.co.kr/
-  38. https://www.nestle.com.cn/
-  39. http://www.nestle.com.my/
-  40. http://www.nestle.co.nz/
-  41. http://www.nestle.pk/
-  42. http://www.nestle.com.ph/
-  43. http://www.nestle.com.sg/
-  44. http://www.nestle.lk/
-  45. http://www.nestle.com.tw/
-  46. http://www.nestle.co.th/en
-  47. https://www.nestle.co.th/th
-  48. http://www.nestle.com.vn/
-  49. http://www.nestle.at/
-  50. http://www.nestle.be/fr
-  51. http://www.nestle.be/nl
-  52. http://www.nestle.ba/
-  53. http://www.nestle.bg/
-  54. http://www.nestle.hr/
-  55. https://www.nestle.cz/cs
-  56. http://www.nestle.dk/
-  57. http://www.nestle.ee/
-  58. http://www.nestle.fi/
-  59. http://www.nestle.fr/
-  60. http://www.nestle.de/
-  61. http://www.nestle.gr/
-  62. http://www.nestle.hu/
-  63. http://www.nestle.ie/
-  64. http://www.nestle.it/
-  65. https://www.nestle.lt/lv
-  66. https://www.nestle.lt/lt
-  67. http://www.nestle.mk/
-  68. http://www.nestle.com.mt/
-  69. https://www.nestle.md/ro
-  70. https://www.nestle.md/ru
-  71. http://www.nestle.nl/
-  72. http://www.nestle.no/
-  73. https://www.nestle.pl/
-  74. https://empresa.nestle.pt/
-  75. http://www.nestle.ro/
-  76. http://www.nestle.ru/
-  77. http://www.nestle.rs/
-  78. https://www.nestle.cz/sk
-  79. http://www.nestle.si/
-  80. https://www.empresa.nestle.es/es
-  81. https://www.empresa.nestle.es/ca
-  82. http://www.nestle.se/
-  83. https://www.nestle.ch/de
-  84. https://www.nestle.ch/fr
-  85. http://www.nestle.com.tr/
-  86. http://www.nestle.co.uk/
-  87. http://www.nestle.ua/
-  88. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  89. https://www.nestle.com.cn/info
-  90. https://www.nestle.com.cn/info/website-carbon-footprint
-  91. https://www.nestle.com.cn/
-  92. https://www.nestle.com.cn/
-  93. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  94. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  95. https://www.nestle.com.cn/
-  96. https://www.nestle.com.cn/about-us
-  97. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  98. https://www.nestle.com.cn/about_nestle/responsible-sourcing
-  99. https://www.nestle.com.cn/about-us
- 100. https://www.nestle.com.cn/about-us/at-a-glance
- 101. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 102. https://www.nestle.com.cn/about-us/at-a-glance
- 103. https://www.nestle.com.cn/about-us/strategy
- 104. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 105. https://www.nestle.com.cn/about-us/strategy
- 106. https://www.nestle.com.cn/about-us/how-we-do-business
- 107. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 108. https://www.nestle.com.cn/about-us/how-we-do-business
- 109. https://www.nestle.com.cn/about-us/how-we-do-business/purpose-values
- 110. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 111. https://www.nestle.com.cn/about-us/how-we-do-business/purpose-values
- 112. https://www.nestle.com.cn/about-us/how-we-do-business/business-principles
- 113. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 114. https://www.nestle.com.cn/about-us/how-we-do-business/business-principles
- 115. https://www.nestle.com.cn/about-us/how-we-do-business/report-compliance-concerns
- 116. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 117. https://www.nestle.com.cn/about-us/how-we-do-business/report-compliance-concerns
- 118. https://www.nestle.com.cn/about-us/research-development
- 119. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 120. https://www.nestle.com.cn/about-us/research-development
- 121. https://www.nestle.com.cn/about-us/research-development/speed-market
- 122. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 123. https://www.nestle.com.cn/about-us/research-development/speed-market
- 124. https://www.nestle.com.cn/about-us/research-development/sustainable-technologies
- 125. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 126. https://www.nestle.com.cn/about-us/research-development/sustainable-technologies
- 127. https://www.nestle.com.cn/about-us/research-development/food-safety-quality
- 128. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 129. https://www.nestle.com.cn/about-us/research-development/food-safety-quality
- 130. https://www.nestle.com.cn/about-us/history
- 131. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 132. https://www.nestle.com.cn/about-us/history
- 133. https://www.nestle.com.cn/about-us/history/nestle-company-history
- 134. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 135. https://www.nestle.com.cn/about-us/history/nestle-company-history
- 136. https://www.nestle.com.cn/about-us/history/company-founder-henri-nestle
- 137. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 138. https://www.nestle.com.cn/about-us/history/company-founder-henri-nestle
- 139. https://www.nestle.com.cn/about-us/breastfeeding-nutrition
- 140. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 141. https://www.nestle.com.cn/about-us/breastfeeding-nutrition
- 142. https://www.nestle.com.cn/about-us/breastfeeding-nutrition/marketing-baby-milk
- 143. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 144. https://www.nestle.com.cn/about-us/breastfeeding-nutrition/marketing-baby-milk
- 145. https://www.nestle.com.cn/stories#/category/featured-stories/1
- 146. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 147. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 148. https://www.nestle.com.cn/stories#/category/featured-stories/1
- 149. https://www.nestle.com.cn/sustainability-at-nestle
- 150. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 151. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 152. https://www.nestle.com.cn/sustainability-at-nestle
- 153. https://www.nestle.com.cn/sustainability-at-nestle/our-approach
- 154. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 155. https://www.nestle.com.cn/sustainability-at-nestle/our-approach
- 156. https://www.nestle.com.cn/sustainability-at-nestle/our-approach/generation-regeneration
- 157. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 158. https://www.nestle.com.cn/sustainability-at-nestle/our-approach/generation-regeneration
- 159. https://www.nestle.com.cn/sustainability-at-nestle/climate-change
- 160. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 161. https://www.nestle.com.cn/sustainability-at-nestle/climate-change
- 162. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/zero-environmental-impact
- 163. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 164. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/zero-environmental-impact
- 165. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/operations
- 166. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 167. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/operations
- 168. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/brands-initiatives
- 169. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 170. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/brands-initiatives
- 171. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/advocacy
- 172. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 173. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/advocacy
- 174. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/regeneration-agriculture
- 175. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 176. https://www.nestle.com.cn/sustainability-at-nestle/climate-change/regeneration-agriculture
- 177. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction
- 178. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 179. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction
- 180. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/packaging-strategy
- 181. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 182. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/packaging-strategy
- 183. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/actions-plastic-pollution
- 184. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 185. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/actions-plastic-pollution
- 186. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/food-loss-waste
- 187. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 188. https://www.nestle.com.cn/sustainability-at-nestle/waste-reduction/food-loss-waste
- 189. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment
- 190. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 191. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment
- 192. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/protecting-biodiversity
- 193. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 194. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/protecting-biodiversity
- 195. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/regeneration-agriculture
- 196. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 197. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/regeneration-agriculture
- 198. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/forest-positive
- 199. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 200. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/forest-positive
- 201. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/approach
- 202. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 203. https://www.nestle.com.cn/sustainability-at-nestle/nature-environment/approach
- 204. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health
- 205. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 206. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health
- 207. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/balanced-diet
- 208. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 209. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/balanced-diet
- 210. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/accessible-nutrition
- 211. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 212. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/accessible-nutrition
- 213. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/tasty-healthy-food
- 214. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 215. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/tasty-healthy-food
- 216. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/healthcare-science
- 217. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 218. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/healthcare-science
- 219. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/quality-safety
- 220. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 221. https://www.nestle.com.cn/sustainability-at-nestle/nutrition-health/quality-safety
- 222. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship
- 223. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 224. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship
- 225. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/resources-management
- 226. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 227. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/resources-management
- 228. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/sustainable-water-efficiency-operations
- 229. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 230. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/sustainable-water-efficiency-operations
- 231. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/sustainable-water-efficiency-agriculture
- 232. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 233. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/sustainable-water-efficiency-agriculture
- 234. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/pledge-positive-water-impact
- 235. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 236. https://www.nestle.com.cn/sustainability-at-nestle/water-stewardship/pledge-positive-water-impact
- 237. https://www.nestle.com.cn/sustainability-at-nestle/human-rights
- 238. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 239. https://www.nestle.com.cn/sustainability-at-nestle/human-rights
- 240. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing
- 241. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 242. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing
- 243. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/farming-communities-ecosystems
- 244. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 245. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/farming-communities-ecosystems
- 246. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/coffee
- 247. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 248. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/coffee
- 249. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/dairy
- 250. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 251. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/dairy
- 252. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/soya
- 253. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 254. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/soya
- 255. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/cereals-grains
- 256. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 257. https://www.nestle.com.cn/sustainability-at-nestle/sustainable-sourcing/cereals-grains
- 258. https://www.nestle.com.cn/sustainability-at-nestle/people-communities
- 259. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 260. https://www.nestle.com.cn/sustainability-at-nestle/people-communities
- 261. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/equipping-workforce-future
- 262. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 263. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/equipping-workforce-future
- 264. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/nestle-needs-youth-initiative
- 265. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 266. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/nestle-needs-youth-initiative
- 267. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/women-empowerment
- 268. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 269. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/women-empowerment
- 270. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/health-safety-wellbeing
- 271. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 272. https://www.nestle.com.cn/sustainability-at-nestle/people-communities/health-safety-wellbeing
- 273. https://www.nestle.com.cn/sustainability-at-nestle/responsible-business
- 274. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 275. https://www.nestle.com.cn/sustainability-at-nestle/responsible-business
- 276. https://www.nestle.com.cn/sustainability-at-nestle/performance-reporting
- 277. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 278. https://www.nestle.com.cn/sustainability-at-nestle/performance-reporting
- 279. https://www.nestle.com.cn/brands
- 280. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 281. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 282. https://www.nestle.com.cn/brands
- 283. https://www.nestle.com.cn/randd
- 284. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 285. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 286. https://www.nestle.com.cn/randd
- 287. https://www.nestle.com.cn/jobs
- 288. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 289. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 290. https://www.nestle.com.cn/jobs
- 291. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&company=nestleHRprdBX&lang=zh_CN&loginFlowRequired=true&site=
- 292. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 293. https://career2.successfactors.eu/career?career_company=nestleHRprdBX&company=nestleHRprdBX&lang=zh_CN&loginFlowRequired=true&site=
- 294. https://www.nestle.com.cn/jobs/search-jobs
- 295. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 296. https://www.nestle.com.cn/jobs/search-jobs
- 297. https://www.nestle.com.cn/jobs/career-area
- 298. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 299. https://www.nestle.com.cn/jobs/career-area
- 300. https://www.nestle.com.cn/jobs/career-area/administrative
- 301. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 302. https://www.nestle.com.cn/jobs/career-area/communications
- 303. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 304. https://www.nestle.com.cn/jobs/career-area/engineering
- 305. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 306. https://www.nestle.com.cn/jobs/career-area/finance
- 307. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 308. https://www.nestle.com.cn/jobs/career-area/human-resources
- 309. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 310. https://www.nestle.com.cn/jobs/career-area/it
- 311. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 312. https://www.nestle.com.cn/jobs/career-area/legal
- 313. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 314. https://www.nestle.com.cn/jobs/career-area/internships
- 315. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 316. https://www.nestle.com.cn/jobs/career-area/marketing
- 317. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 318. https://www.nestle.com.cn/jobs/career-area/research-development
- 319. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 320. https://www.nestle.com.cn/jobs/career-area/technical-production
- 321. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 322. https://www.nestle.com.cn/jobs/career-area/sales
- 323. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 324. https://www.nestle.com.cn/jobs/career-area/supply-chain-procurement
- 325. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 326. https://www.nestle.com.cn/jobs/students-graduates
- 327. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 328. https://www.nestle.com.cn/jobs/students-graduates
- 329. https://www.nestle.com.cn/jobs/diversity-inclusion
- 330. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 331. https://www.nestle.com.cn/jobs/diversity-inclusion
- 332. https://www.nestle.com.cn/jobs/recruitment-journey
- 333. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 334. https://www.nestle.com.cn/jobs/recruitment-journey
- 335. https://www.nestle.com.cn/jobs/faqs
- 336. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 337. https://www.nestle.com.cn/jobs/faqs
- 338. https://www.nestlecareers.cn/
- 339. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 340. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 341. https://www.nestlecareers.cn/
- 342. https://www.nestle.com.cn/media
- 343. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 344. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 345. https://www.nestle.com.cn/media
- 346. https://www.nestle.com.cn/media/pressreleases
- 347. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 348. https://www.nestle.com.cn/media/pressreleases
- 349. https://www.nestle.com.cn/media/nestleinnews
- 350. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 351. https://www.nestle.com.cn/media/nestleinnews
- 352. https://www.nestle.com.cn/media/news-feed
- 353. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 354. https://www.nestle.com.cn/media/news-feed
- 355. https://www.nestle.com.cn/media/media-contacts
- 356. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 357. https://www.nestle.com.cn/media/media-contacts
- 358. https://www.nestle.com.cn/
- 359. https://www.nestle.com.cn/about_nestle
- 360. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2019-08/20190819-nestle-responsible-sourcing-standard-english.pdf
- 361. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2022-06/20220627-Nestle-Responsible-Sourcing-Standard.pdf
- 362. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2022-06/20220627-Nestle-Responsible-Sourcing-Standard.pdf
- 363. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2022-06/20220627-Nestle-Responsible-Sourcing-Standard.pdf
- 364. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2022-06/20220627-Nestle-Responsible-Sourcing-Standard.pdf
- 365. javascript:void(0);
- 366. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
- 367. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
- 368. https://www.nestle.com/info/sign-me-up/exacttarget-signmeup
- 369. https://www.nestle.com.cn/info
- 370. https://www.nestle.com.cn/info
- 371. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/2021-07/20210708-One-Reporting-System-in-Nestle-Greater-China-Region.pdf
- 372. https://www.nestle.com.cn/info
- 373. https://www.nestle.com.cn/info
- 374. https://www.nestle.com.cn/info
- 375. https://www.nestle.com.cn/about-us/history
- 376. https://www.nestle.com.cn/aboutus/principles
- 377. https://www.nestle.com.cn/aboutus/nestle_in_china
- 378. https://www.nestle.com.cn/aboutus/quality-and-safety
- 379. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 380. https://www.nestle.com.cn/aboutus/ask_nestle
- 381. https://www.nestle.com.cn/about-us/history
- 382. https://www.nestle.com.cn/aboutus/principles
- 383. https://www.nestle.com.cn/aboutus/nestle_in_china
- 384. https://www.nestle.com.cn/aboutus/quality-and-safety
- 385. https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 386. https://www.nestle.com.cn/aboutus/ask_nestle
- 387. https://www.nestle.com.cn/brands
- 388. http://www.haoji.com.cn/
- 389. https://www.totole.com.cn/#page1
- 390. http://www.hsufuchifoods.com/
- 391. https://www.wyethbb.com.cn/
- 392. https://www.nespresso.com/cn/zh/home
- 393. https://www.nestle.com.cn/media/pressreleases
- 394. https://www.nestle.com.cn/media/news-feed
- 395. https://www.nestle.com.cn/media/statements
- 396. https://www.nestle.com.cn/media/nestleinnews
- 397. https://www.nestle.com.cn/media/media-contacts
- 398. https://www.nestle.com.cn/randd/ourvision
- 399. https://www.nestle.com.cn/randd/globalnetwork
- 400. https://www.nestle.com.cn/randd/food-science-and-technology
- 401. https://www.nestle.com.cn/randd/quality-safety
- 402. https://www.nestle.com.cn/randd/environmental-sustainability
- 403. https://www.nestle.com.cn/randd/plant-sciences
- 404. https://www.nestle.com/investors/sharesadrsbonds/stockquotes
- 405. https://www.linkedin.com/company/nestle-s-a-/
- 406. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
- 407. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg
- 408. https://www.nestle.com.cn/report-concern
- 409. https://www.nestle.com.cn/info/copyright
- 410. https://www.nestle.com.cn/info/sitemap
- 411. https://www.nestle.com/change-location
- 412. https://www.nestle.com.cn/info/office
- 413. https://www.nestle.com.cn/info/website-carbon-footprint
- 414. https://www.nestle.com.cn/info/tc
- 415. https://www.nestle.com.cn/info/20211029-yourdata
- 416. http://beian.miit.gov.cn/
-
-   Hidden links:
- 418. https://www.nestle.com.cn/about_nestle/responsible-sourcing#main
- 419. https://www.nestle.com.cn/about_nestle/responsible-sourcing#block-da-vinci-code-mainnavigation-2
- 420. https://www.nestle.com.cn/info
- 421. https://www.nestle.com.cn/info
- 422. https://www.nestle.com.cn/info
- 423. https://www.nestle.com.cn/info
- 424. https://www.nestle.com.cn/info
- 425. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing&title=%E8%B4%9F%E8%B4%A3%E4%BB%BB%E9%87%87%E8%B4%AD&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 426. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 427. http://www.linkedin.com/shareArticle?mini=true&url=https://www.nestle.com.cn/about_nestle/responsible-sourcing&title=%E8%B4%9F%E8%B4%A3%E4%BB%BB%E9%87%87%E8%B4%AD&source=https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 428. https://www.nestle.com.cn/info/SendPage?Ctx=https://www.nestle.com.cn/about_nestle/responsible-sourcing
- 429. https://www.nestle.com.cn/about_nestle/responsible-sourcing#main-footer
- 430. https://www.linkedin.com/company/nestle-s-a-/
- 431. https://weibo.com/p/1006067080371694/home?from=page_100606&mod=TAB&is_all=1#place
- 432. https://www.nestle.com.cn/sites/g/files/pydnoa496/files/wechat-qr-code.jpg
+     * © 2023 Nestlé 雀巢集团
+     * 网站地图
+     * 选择地点
+     * 各地销售办事处
+     * 碳效率
+     * 网站条款
+     * 雀巢个人信息处理规则
+     * 京ICP备09030901号-12

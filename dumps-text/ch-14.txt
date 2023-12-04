@@ -1,23 +1,23 @@
    [share_logo.jpg]
 
-   [1][logo.png]
-     * [2]时政
-     * [3]封面
-     * [4]热点
-     * [5]政务
-     * [6]深瞳
-     * [7]视频
-     * [8]国�
-     * [9]地方
-     * [10]园区
-     * [11]专题
-     * [12]English
-     * [13]滚动
+   [logo.png]
+     * 时政
+     * 封面
+     * 热点
+     * 政务
+     * 深瞳
+     * 视频
+     * 国�
+     * 地方
+     * 园区
+     * 专题
+     * English
+     * 滚动
 
    __________________________________________________
    Submit
 
-   所在位置： [14]首页 > [15]滚动 > 正文
+   所在位置： 首页 > 滚动 > 正文
 
 2023年世界互联网大会发布报告及共识——以负责任态度推动生成式人工智能发展
 
@@ -68,224 +68,109 @@
 
    “人工智能太重要了，不能只留给专家们。”弗雷德里克呼吁，从产业界到政府、学术界、非政府组织、民间社会，大家要尽可能多地发出声音。
    责任编辑： 王倩
-   [16]热点
-   [17]<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
-   [18]研究性保护加速破解西北长城夯筑“秘诀”
-   [19]研究性保护加速破解西北长城夯筑“秘诀”
-   [20]<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
-   [21]发达国家应充分兑现气候承诺
-   [22]发达国家应充分兑现气候承诺
-   [23]<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
-   [24]国家卫健委：千方百计挖掘资源开展儿科诊疗服务
-   [25]国家卫生健康委办公厅关于指导基层医疗卫生机构做好冬春季呼吸道...
-   [26]<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
-   [27]智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
-   [28]智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
-   [29]封面新闻
-     * [30][cef244a9028d4b1090d9d94a5a51f4f1.jpg]
-       [31]封面新闻丨杭州进入数贸会时间，数字技术引领未来美好生活
-     * [32][afa88c1946b84e2185e684c9534e41c2.jpg]
-       [33]封面新闻丨心脑血管疾病高发季来袭，如何快速识别和急救？
-     * [34][91313b15635247cf96a41ef4cfa98d37.jpg]
-       [35]封面新闻丨四川眉山公布重大考古发现！数千年历史轴线形成
-     * [36][7ee1146edf0e4059b65ae3d2bfd83fd2.jpg]
-       [37]封面新闻丨糖尿病前期可以“逆转”？专家：要管住嘴迈开腿
+   热点
+   <CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
+   研究性保护加速破解西北长城夯筑“秘诀”
+   研究性保护加速破解西北长城夯筑“秘诀”
+   <CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
+   发达国家应充分兑现气候承诺
+   发达国家应充分兑现气候承诺
+   <CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
+   国家卫健委：千方百计挖掘资源开展儿科诊疗服务
+   国家卫生健康委办公厅关于指导基层医疗卫生机构做好冬春季呼吸道...
+   <CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
+   智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
+   智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
+   封面新闻
+     * [cef244a9028d4b1090d9d94a5a51f4f1.jpg]
+       封面新闻丨杭州进入数贸会时间，数字技术引领未来美好生活
+     * [afa88c1946b84e2185e684c9534e41c2.jpg]
+       封面新闻丨心脑血管疾病高发季来袭，如何快速识别和急救？
+     * [91313b15635247cf96a41ef4cfa98d37.jpg]
+       封面新闻丨四川眉山公布重大考古发现！数千年历史轴线形成
+     * [7ee1146edf0e4059b65ae3d2bfd83fd2.jpg]
+       封面新闻丨糖尿病前期可以“逆转”？专家：要管住嘴迈开腿
 
-   [38]精彩视频
-     * [39][c6f2c912ad5b4e489e9ccb1e23c39b4d.jpg]
-       [40]2023世界5G大会直播 | Tech Talk 2023 5G-A安全论坛
-     * [41][2960e12e61384f6b81b634a3a023433c.jpg]
-       [42]2023世界5G大会直播 | 5G与绿色环保论坛
-     * [43][29faf772fb4849b0a7105981038c6aa1.jpg]
-       [44]2023世界5G大会直播 | Tech Talk 2023创新技术论坛
-     * [45][b26a472a0f6a450b83ed1134a19d1763.png]
-       [46]智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
+   精彩视频
+     * [c6f2c912ad5b4e489e9ccb1e23c39b4d.jpg]
+       2023世界5G大会直播 | Tech Talk 2023 5G-A安全论坛
+     * [2960e12e61384f6b81b634a3a023433c.jpg]
+       2023世界5G大会直播 | 5G与绿色环保论坛
+     * [29faf772fb4849b0a7105981038c6aa1.jpg]
+       2023世界5G大会直播 | Tech Talk 2023创新技术论坛
+     * [b26a472a0f6a450b83ed1134a19d1763.png]
+       智眼看5G丨5G -A：千亿物联 通感一体的“六边形战士”
 
-   [47]专题报道
-   [48]<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
+   专题报道
+   <CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>
 
-   [49]学习贯彻党的二十大精神
-     * [50]创新故事
-     * [51]科普一下
-     * [52]第六届中国国际进口博览会
-     * [53]第三届“一带一路”国际合作高峰论坛
-     * [54]杭州亚运会
+   学习贯彻党的二十大精神
+     * 创新故事
+     * 科普一下
+     * 第六届中国国际进口博览会
+     * 第三届“一带一路”国际合作高峰论坛
+     * 杭州亚运会
 
    [cxzgewm.png]
 
 友情链接
 
-     * [55]中国政府网
-     * [56]国家发展和改革委员会
-     * [57]教育部
-     * [58]科学技术部
-     * [59]工业和信息化部
-     * [60]公安部
-     * [61]民政部
-     * [62]司法部
-     * [63]自然资源部
-     * [64]生态环境部
-     * [65]住房和城乡建设部
-     * [66]交通运输部
-     * [67]水利部
-     * [68]农业农村部
-     * [69]国家卫生健康委员会
-     * [70]国家市场监督管理总局
-     * [71]国家广播电视总局
-     * [72]国家体育总局
-     * [73]国家互联网信息办公室
-     * [74]国务院新闻办公室
-     * [75]中国科学院
-     * [76]中国社会科学院
-     * [77]中国工程院
-     * [78]国家文物局
-     * [79]国家知识产权局
-     * [80]人民网
-     * [81]新华网
-     * [82]中国网
-     * [83]国际在线
-     * [84]中国日报网
-     * [85]央视网
-     * [86]中国青年网
-     * [87]中国经济网
-     * [88]中国台湾网
-     * [89]中国西藏网
-     * [90]央广网
-     * [91]光明网
-     * [92]中国军网
-     * [93]中国新闻网
-     * [94]人民政协网
-     * [95]法治网
+     * 中国政府网
+     * 国家发展和改革委员会
+     * 教育部
+     * 科学技术部
+     * 工业和信息化部
+     * 公安部
+     * 民政部
+     * 司法部
+     * 自然资源部
+     * 生态环境部
+     * 住房和城乡建设部
+     * 交通运输部
+     * 水利部
+     * 农业农村部
+     * 国家卫生健康委员会
+     * 国家市场监督管理总局
+     * 国家广播电视总局
+     * 国家体育总局
+     * 国家互联网信息办公室
+     * 国务院新闻办公室
+     * 中国科学院
+     * 中国社会科学院
+     * 中国工程院
+     * 国家文物局
+     * 国家知识产权局
+     * 人民网
+     * 新华网
+     * 中国网
+     * 国际在线
+     * 中国日报网
+     * 央视网
+     * 中国青年网
+     * 中国经济网
+     * 中国台湾网
+     * 中国西藏网
+     * 央广网
+     * 光明网
+     * 中国军网
+     * 中国新闻网
+     * 人民政协网
+     * 法治网
 
-     * [96]科技日报社概况
-     * [97]科技日报概况
-     * [98]报社领导
-     * [99]关于中国科技网
-     * [100]联系我们
-     * [101]科技日报社公开招聘公告
-     * [102]互联网新闻信息服务许可证
-     * [103]信息网络传播视听节目许可证
-     * [104]举报平台
-     * [105]版权声明
+     * 科技日报社概况
+     * 科技日报概况
+     * 报社领导
+     * 关于中国科技网
+     * 联系我们
+     * 科技日报社公开招聘公告
+     * 互联网新闻信息服务许可证
+     * 信息网络传播视听节目许可证
+     * 举报平台
+     * 版权声明
 
    Copyright © Science and Technology Daily, All Rights Reserved
           中国科技网 版权所有
 
-     * [106]京ICP备06005116号
-     * [107]违法和不良信息举报电话：010-58884065
+     * 京ICP备06005116号
+     * 违法和不良信息举报电话：010-58884065
      * 京公网安备 110402500060
-
-References
-
-   Visible links:
-   1. http://www.stdaily.com/
-   2. http://www.stdaily.com/kjxx/index.shtml
-   3. http://www.stdaily.com/index/fmxw/common_list_2021.shtml
-   4. http://www.stdaily.com/index/kjxw/kjxw.shtml
-   5. http://www.stdaily.com/kjzc/index.shtml
-   6. http://www.stdaily.com/cehua/kjrbst/shentong.shtml
-   7. http://www.stdaily.com/index/sysp/cxzg_list.shtml
-   8. http://www.stdaily.com/guoji/
-   9. http://www.stdaily.com/02/index.shtml
-  10. http://www.stdaily.com/cxyq/index.shtml
-  11. http://www.stdaily.com/index/ztlm/common_list_2021.shtml
-  12. http://www.stdaily.com/English/index.shtml
-  13. http://www.stdaily.com/index/kejixinwen/kejixinwen.shtml
-  14. http://www.stdaily.com/index/index.shtml
-  15. http://www.stdaily.com/index/kejixinwen/kejixinwen.shtml
-  16. http://www.stdaily.com/index/kjxw/kjxw.shtml
-  17. http://www.stdaily.com/index/kejixinwen/202312/1f1d8e2dff9140bcaa16fb2579308856.shtml
-  18. http://www.stdaily.com/index/kejixinwen/202312/1f1d8e2dff9140bcaa16fb2579308856.shtml
-  19. http://www.stdaily.com/index/kejixinwen/202312/1f1d8e2dff9140bcaa16fb2579308856.shtml
-  20. http://www.stdaily.com/index/kejixinwen/202312/28a4441fe5ad49b289bd801edcca4dcd.shtml
-  21. http://www.stdaily.com/index/kejixinwen/202312/28a4441fe5ad49b289bd801edcca4dcd.shtml
-  22. http://www.stdaily.com/index/kejixinwen/202312/28a4441fe5ad49b289bd801edcca4dcd.shtml
-  23. http://www.stdaily.com/index/kejixinwen/202312/0ee7254114504217b3ae3381848682f3.shtml
-  24. http://www.stdaily.com/index/kejixinwen/202312/0ee7254114504217b3ae3381848682f3.shtml
-  25. http://www.stdaily.com/index/kejixinwen/202312/0ee7254114504217b3ae3381848682f3.shtml
-  26. http://www.stdaily.com/index/kejixinwen/202312/a5aeb36bb26b4f40bb108fd2abb5e36a.shtml
-  27. http://www.stdaily.com/index/kejixinwen/202312/a5aeb36bb26b4f40bb108fd2abb5e36a.shtml
-  28. http://www.stdaily.com/index/kejixinwen/202312/a5aeb36bb26b4f40bb108fd2abb5e36a.shtml
-  29. http://www.stdaily.com/index/fmxw/common_list_2021.shtml
-  30. http://www.stdaily.com/index/kejixinwen/202311/7d13e75992e14653a8a1e1c835feaf47.shtml
-  31. http://www.stdaily.com/index/kejixinwen/202311/7d13e75992e14653a8a1e1c835feaf47.shtml
-  32. http://www.stdaily.com/index/kejixinwen/202311/5a0bab32e58d4da58963f6c550f684e2.shtml
-  33. http://www.stdaily.com/index/kejixinwen/202311/5a0bab32e58d4da58963f6c550f684e2.shtml
-  34. http://www.stdaily.com/index/kejixinwen/202311/4cc95b0b46ec490cb332ece6a41d23d0.shtml
-  35. http://www.stdaily.com/index/kejixinwen/202311/4cc95b0b46ec490cb332ece6a41d23d0.shtml
-  36. http://www.stdaily.com/index/kejixinwen/202311/93fc52ebeb5343b19429de5efac03073.shtml
-  37. http://www.stdaily.com/index/kejixinwen/202311/93fc52ebeb5343b19429de5efac03073.shtml
-  38. http://www.stdaily.com/index/sysp/cxzg_list.shtml
-  39. http://www.stdaily.com/index/kejixinwen/202312/e7c6e978e86445f682afd83bb44dbf8a.shtml
-  40. http://www.stdaily.com/index/kejixinwen/202312/e7c6e978e86445f682afd83bb44dbf8a.shtml
-  41. http://www.stdaily.com/index/kejixinwen/202312/327e29987f6f4d9097a9b812a56e4d27.shtml
-  42. http://www.stdaily.com/index/kejixinwen/202312/327e29987f6f4d9097a9b812a56e4d27.shtml
-  43. http://www.stdaily.com/index/kejixinwen/202312/73ad47045dab49be9e81c3a2bbe2a700.shtml
-  44. http://www.stdaily.com/index/kejixinwen/202312/73ad47045dab49be9e81c3a2bbe2a700.shtml
-  45. http://www.stdaily.com/index/kejixinwen/202312/a5aeb36bb26b4f40bb108fd2abb5e36a.shtml
-  46. http://www.stdaily.com/index/kejixinwen/202312/a5aeb36bb26b4f40bb108fd2abb5e36a.shtml
-  47. http://www.stdaily.com/index/ztlm/common_list_2021.shtml
-  48. http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml
-  49. http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml
-  50. http://www.stdaily.com/zhuantij/ztcxgs/ztcxgs.shtml
-  51. http://www.stdaily.com/zhuantij/ztkpyx/ztkpyx.shtml
-  52. http://www.stdaily.com/zhuantij/gjjkblh6/gjjkblh6.shtml
-  53. http://www.stdaily.com/zhuantij/ydyl/brf.shtml
-  54. http://www.stdaily.com/zhuantij/hzyyh/hzyyh.shtml
-  55. https://www.gov.cn/
-  56. http://www.ndrc.gov.cn/
-  57. http://www.moe.gov.cn/
-  58. http://www.most.gov.cn/index.html
-  59. https://www.miit.gov.cn/
-  60. https://www.mps.gov.cn/
-  61. http://www.mca.gov.cn/
-  62. http://www.moj.gov.cn/
-  63. http://www.mnr.gov.cn/
-  64. https://www.mee.gov.cn/
-  65. https://www.mohurd.gov.cn/
-  66. https://www.mot.gov.cn/
-  67. http://www.mwr.gov.cn/
-  68. http://www.moa.gov.cn/
-  69. http://www.nhc.gov.cn/
-  70. https://www.samr.gov.cn/
-  71. http://www.nrta.gov.cn/
-  72. https://www.sport.gov.cn/
-  73. http://www.cac.gov.cn/
-  74. http://www.scio.gov.cn/index.htm
-  75. https://www.cas.cn/
-  76. http://cass.cssn.cn/
-  77. https://www.cae.cn/
-  78. http://www.ncha.gov.cn/
-  79. https://www.cnipa.gov.cn/
-  80. http://www.people.com.cn/
-  81. http://www.news.cn/
-  82. http://www.china.com.cn/
-  83. http://www.cri.cn/
-  84. https://cn.chinadaily.com.cn/
-  85. https://www.cctv.com/
-  86. https://www.youth.cn/index.htm
-  87. http://www.ce.cn/
-  88. http://www.taiwan.cn/
-  89. http://www.tibet.cn/
-  90. http://www.cnr.cn/
-  91. https://www.gmw.cn/
-  92. http://www.81.cn/
-  93. https://www.chinanews.com.cn/
-  94. http://www.rmzxb.com.cn/index.shtml
-  95. http://www.legaldaily.com.cn/
-  96. http://www.stdaily.com/index/yqlj2/2019-07/12/content_777187.shtml
-  97. http://www.stdaily.com/index/yqlj2/202201/b1fa7143d2e04ce88033866956fdcebb.shtml
-  98. http://www.stdaily.com/index/yqlj2/202108/560250.shtml
-  99. http://www.stdaily.com/index/yqlj2/202203/57700e207355471a9341e0dd5b11fa57.shtml
- 100. http://www.stdaily.com/index/yqlj2/2016-09/02/content_143082.shtml
- 101. http://www.stdaily.com/index/zhaopinxx/common_list_2021.shtml
- 102. http://www.stdaily.com/index/yqlj2/202206/cae9791c6ba24b01bc44bf84af642d53.shtml
- 103. http://www.stdaily.com/index/yqlj2/202112/1238037.shtml
- 104. http://www.stdaily.com/index/yqlj2/2021-09/10/content_1218859.shtml
- 105. http://www.stdaily.com/index/yqlj2/2017-01/01/content_595705.shtml
- 106. https://beian.miit.gov.cn/
- 107. http://www.stdaily.com/index/yqlj2/201612/479754.shtml
-
-   Hidden links:
- 109. http://www.stdaily.com/index/kejixinwen/202311/cd786d443f8f4dd4b439b81fc29912f9.shtml
- 110. http://www.stdaily.com/index/kejixinwen/202311/cd786d443f8f4dd4b439b81fc29912f9.shtml

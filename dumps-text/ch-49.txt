@@ -1,25 +1,24 @@
-   #[1]alternate
+   #alternate
 
      *
-     * [2]新闻
-     * [3]体育
-     * [4]汽车
-     * [5]房产
-     * [6]旅游
-     * [7]教育
-     * [8]时尚
-     * [9]科技
-     * [10]财经
-     * [11]娱乐
-     * [12]更多
-       [13]母婴 [14]健康 [15]历史 [16]军事 [17]美食 [18]文化 [19]星座 [20]专题 [21]游戏
-       [22]搞笑 [23]动漫 [24]宠物
+     * 新闻
+     * 体育
+     * 汽车
+     * 房产
+     * 旅游
+     * 教育
+     * 时尚
+     * 科技
+     * 财经
+     * 娱乐
+     * 更多
+       母婴 健康 历史 军事 美食 文化 星座 专题 游戏 搞笑 动漫 宠物
 
-   [25]无障碍 [26]关怀版
+   无障碍 关怀版
 
 责任是什么
 
-   2023-03-14 15:40 来源: [27]小媛儿点
+   2023-03-14 15:40 来源: 小媛儿点
    发布于：河北省
 
    原标题：责任是什么
@@ -38,7 +37,7 @@
 
    3、责任和权利是对立的统一。没有无责任的权利，也没有无权利的责任。一个人的权利，往往是他的责任；一个人的责任，往往是他的权利。享受一定的权利，
    必须尽到相应的责任；尽到一定的责任，才能享有相应的权利。担当意思是指承担、担负任务责任等。自信的人一般都勇于担当，担当除了做好自己份内的事，同
-   时担当也是敢承担别人不敢承担的事. 包容一切并对其负责，就叫有担当，正谓之曰：“有容乃大，无欲则刚。”[28]返回搜狐，查看更多
+   时担当也是敢承担别人不敢承担的事. 包容一切并对其负责，就叫有担当，正谓之曰：“有容乃大，无欲则刚。”返回搜狐，查看更多
 
    责任编辑：
    平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。
@@ -47,43 +46,4 @@
    推荐阅读
    小媛儿点
    文章 总阅读
-   [29]免费获取
-
-References
-
-   Visible links:
-   1. https://www.sohu.com/a/m.sohu.com/a/654088058_121643019
-   2. http://news.sohu.com/
-   3. http://sports.sohu.com/
-   4. http://auto.sohu.com/
-   5. http://www.focus.cn/
-   6. http://travel.sohu.com/
-   7. http://learning.sohu.com/
-   8. http://fashion.sohu.com/
-   9. http://it.sohu.com/
-  10. http://business.sohu.com/
-  11. http://yule.sohu.com/
-  12. javascript:void(0)
-  13. http://baobao.sohu.com/
-  14. https://healthnews.sohu.com/
-  15. http://history.sohu.com/
-  16. http://mil.sohu.com/
-  17. http://chihe.sohu.com/
-  18. http://cul.sohu.com/
-  19. http://astro.sohu.com/
-  20. https://www.sohu.com/xchannel/TURBd01EQXhPVGt5
-  21. http://game.sohu.com/
-  22. http://fun.sohu.com/
-  23. http://acg.sohu.com/
-  24. http://pets.sohu.com/
-  25. javascript:void(0)
-  26. javascript:void(0)
-  27. https://www.sohu.com/a/654088058_121643019
-  28. https://www.sohu.com/?strategyid=00001
-  29. https://www.microsoft.com/zh-cn/store/p/搜狐uwp/9nb9229mmbjh
-
-   Hidden links:
-  31. http://www.sohu.com/
-  32. https://mp.sohu.com/profile?xpt=MDQ4ZTRhYzktYmMwZC00ZDZkLWI4YTEtY2Q2MTNlZGU0OGQ0&_f=index_pagemp_1
-  33. javascript:void(0);
-  34. javascript:void(0)
+   免费获取

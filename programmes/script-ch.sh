@@ -14,27 +14,65 @@ then
 	exit
 fi
 
+CIBLE="负责"
+
 echo "<html>
 	<head>
 		<meta charset=\"UTF-8\">
 	</head>
-	<body>"
+	<body>
+	<table>
+		<tr><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>compte</th><th>dump-html</th><th>dump-txt</th><th>contexte</th><th>condordanciers</th></tr>" > ../tableaux/ch.html
 
-echo "	<table>
-		<tr><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>compte</th><th>dump-html</th><th>dump-txt</th><th>contexte</th></tr>"
-
-lineno=1
+lineno=0
 while read -r URL
 do
+    lineno=$(expr $lineno + 1)
 	lang=$(basename $URLS .txt)
-	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null "$URL")
+	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
 	#URL 2, 21, 37, 50 code 403
-	dump_html=$(curl "$URL" > "../aspirations/${lang}-${lineno}.html")
-	dump_text=$(lynx -dump -assume_charset=utf-8 -display_charset=utf-8 "$URL" > "../dumps-text/${lang}-${lineno}.txt")
-	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "责任" -c)
-	contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -A 2 -B 2 "责任" > "../contextes/${lang}-${lineno}.txt")
-	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
+	dump_html=$(curl $URL > "../aspirations/${lang}-${lineno}.html")
+	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	concordance_table=$(echo -e "<html><table><tr><th>contexte gauche</th><th>CIBLE</th><th>contexte droit</th></tr></table></html>" > "../concordances/${lang}-${lineno}.html")
+
+
+	COUNT=0
+	TEXTFILE="RIEN"
+	if [ $response == "200" ]
+	then
+        lynx -dump -assume_charset=utf-8 -display_charset=utf-8 -nolist ../aspirations/${lang}-${lineno}.html > ../dumps-text/${lang}-${lineno}.txt
+        TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
+        compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "责任" -c) >> ../tableaux/ch.html
+        contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
+        	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
+
+
+        echo "
+        <html>
+            <head>
+              <meta charset=\"utf-8\">
+	        </head>
+		    <body>
+			    <table>
+				    <tr>
+				        <th>contexte gauche</th>
+					    <th>cible</th>
+					    <th>contexte droit</th>
+				    </tr>
+	    " > ../concordances/${lang}-$lineno.html
+
+		ggrep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)(负责)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/">>"../concordances/${lang}-$lineno.html"
+
+		    echo "
+                </table>
+            </body>
+        </html>
+        " >> ../concordances/${lang}-$lineno.html
+
+
+		CONCORD="../concordances/${lang}-${lineno}.html"
+    fi
+
 	echo -e "<tr>
             <td>$lineno</td>
             <td>$URL</td>
@@ -42,12 +80,15 @@ do
             <td>$encoding</td>
             <td>$compte</td>
             <td><a href=../aspirations/${lang}-${lineno}.html>html</a></td>
-            <td><a href=../dumps-text/${lang}-${lineno}.txt>txt</a></td>
+            <td><a href=$TEXTFILE>txt</a></td>
             <td><a href=../contextes/${lang}-${lineno}.txt>contextes</a></td>
-        </tr>"
-	lineno=$(expr $lineno + 1)
+            <td><a href=$CONCORD>tableau</a></td>
+        </tr>" >> ../tableaux/ch.html
+
+
 done < "$URLS"
 
 echo "	     </table>
 	</body>
 </html>"
+>>../tableaux/ch.html

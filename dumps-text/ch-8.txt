@@ -1,30 +1,30 @@
      *
-     * [1]社论
-     * [2]财经
-     * [3]金融
-     * [4]政治
-     * [5]首都动态
-     * [6]人民福利
-     * [7]法律
-     * [8]教育与文化
-     * [9]宗教
-     * [10]健康知识
-     * [11]东盟动态
-     * [12]华社
-     * [13]社会
-     * [14]特别
-     * [15]娱乐
-     * [16]体育
-     * [17]评论
-     * [18]广告
-     * [19]佳讯
-     * [20]讣告
+     * 社论
+     * 财经
+     * 金融
+     * 政治
+     * 首都动态
+     * 人民福利
+     * 法律
+     * 教育与文化
+     * 宗教
+     * 健康知识
+     * 东盟动态
+     * 华社
+     * 社会
+     * 特别
+     * 娱乐
+     * 体育
+     * 评论
+     * 广告
+     * 佳讯
+     * 讣告
 
    (BUTTON)
    ________________________________________ (BUTTON) [BUTTON Input] (not
    implemented)_____
-   [21]Shangbao Logo
-   [22]google-play [23]app-store
+   Shangbao Logo
+   google-play app-store
    Loading...
 
    00:00:00
@@ -33,14 +33,14 @@
 
    雅加达
    熱點新聞
-     * [24]【财经】 佐科威总统声称 国家基础设施是投资议价能力
-     * [25]【财经】 印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [26]【财经】 SRI投资1200万美元 2025年将推出新产品
-     * [27]【财经】 ROTI定下指标 今年底在北干巴鲁新厂开业
-     * [28]【财经】 WSKT在雅加达兴建最高的印度大使馆大楼
+     * 【财经】 欧洲央行管委：现在宣布战胜通胀还为时过早！
+     * 【财经】 韩国央行预计出口复苏势头将持续
+     * 【财经】 阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 【财经】 生育率低迷 韩国经济2050年恐陷入负增长
+     * 【财经】 佐科威总统声称 国家基础设施是投资议价能力
 
    2023年 11月 26日 20:02 PM
-   653
+   683
 
 Bakti BCA企业社会责任活动种植了3万8500棵树苗
 
@@ -69,132 +69,55 @@ Bakti BCA企业社会责任活动种植了3万8500棵树苗
 
 最新消息 热文推荐
 
-     * [29]01佐科威总统声称 国家基础设施是投资议价能力
-     * [30]02印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [31]03印尼信息和通讯部推出普选电子书 提升民众对普选的认知和理解
-     * [32]04默拉皮火山爆发 致11名登山者遇难多人失踪
-     * [33]05SRI投资1200万美元 2025年将推出新产品
+     * 01欧洲央行管委：现在宣布战胜通胀还为时过早！
+     * 02韩国央行预计出口复苏势头将持续
+     * 03阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 04生育率低迷 韩国经济2050年恐陷入负增长
+     * 05【传习录】以高质量发展促进上海加快建设现代化国际大都市
 
-     * [34]01美欧与俄或将在中亚长期博弈
-     * [35]02卫生部长在国会出席会议称 登革热病50年来病例未能减少
-     * [36]03印尼和泰国加强金三角禁毒合作
-     * [37]04中国突发神秘肺炎 卫生部要求民众不必过度担忧
-     * [38]05基辛格的战略思想是中美关系的“压舱石”
+     * 01卫生部长在国会出席会议称 登革热病50年来病例未能减少
+     * 02印尼和泰国加强金三角禁毒合作
+     * 03中国突发神秘肺炎 卫生部要求民众不必过度担忧
+     * 04基辛格的战略思想是中美关系的“压舱石”
+     * 05印尼庶民银行将派发2023财年利润70%股息
 
-   [39]finance
-   [40]ePaper
-   [41]Widget Banner #2
+   finance
+   ePaper
+   Widget Banner #2
 
 财经
 
-   [42]
+欧洲央行管委：现在宣布战胜通胀还为时过早！
 
-佐科威总统声称 国家基础设施是投资议价能力
+   2023年 12月 04日 23:29 PM
 
-   2023年 12月 04日 21:27 PM
+   【财联社】据报道，德国央行行长、欧洲央行管理委员会成员内格尔（Joachim Nagel）表示，欧元区通胀在...
+     * 韩国央行预计出口复苏势头将持续
+     * 阿拉斯加航空同意以19亿美元收购夏威夷控股
+     * 生育率低迷 韩国经济2050年恐陷入负增长
+     * 佐科威总统声称 国家基础设施是投资议价能力
 
-   【本报讯】佐科威总统声称，基础设施发展是印尼在他九年执政期间的主要发展重点之一，因为它成为全球投资的议价能力...
-     * [43]印尼COP28峰会强调 在农牧业领域加强全球合作
-     * [44]SRI投资1200万美元 2025年将推出新产品
-     * [45]ROTI定下指标 今年底在北干巴鲁新厂开业
-     * [46]WSKT在雅加达兴建最高的印度大使馆大楼
-
-     * [47]查看更多 »
+     * 查看更多 »
 
 金融
-
-   [48]
 
 金融服务管理局指出 2023年11月金融服务业保持稳定
 
    2023年 12月 04日 19:54 PM
 
    【本报讯】金融服务管理局（OJK）指出，在强势资本和充足流动性的支持下，2023年11月全国金融服务业保持稳...
-     * [49]我国央行指出 2023年11月通胀率将维持不变
-     * [50]Segara经济学家称 支付系统电子化改善我国投资环境
-     * [51]BSI 通过残疾人友好分行加强包容性服务
-     * [52]综指上升33至7093.600点 1美元兑15463盾
+     * 我国央行指出 2023年11月通胀率将维持不变
+     * Segara经济学家称 支付系统电子化改善我国投资环境
+     * BSI 通过残疾人友好分行加强包容性服务
+     * 综指上升33至7093.600点 1美元兑15463盾
 
-     * [53]查看更多 »
+     * 查看更多 »
 
    Widget Banner #2
    Widget Banner #2
    Widget Banner #2
-   [54]Shangbao Indonesia
-   友情链接: [55]印尼商报网
-   [56]Facebook [57]Twitter
-   © 2021 Shangbao Indonesia, 版权所有 翻印必究 · [58]关于我们 · [59]董事经理 · [60]联系我们
-   0.775 secs.
-
-References
-
-   Visible links:
-   1. http://www.shangbaoindonesia.com/editorial
-   2. http://www.shangbaoindonesia.com/economy
-   3. http://www.shangbaoindonesia.com/financial
-   4. http://www.shangbaoindonesia.com/political
-   5. http://www.shangbaoindonesia.com/metropolitan
-   6. http://www.shangbaoindonesia.com/kesra
-   7. http://www.shangbaoindonesia.com/hukum
-   8. http://www.shangbaoindonesia.com/pendidikan-kebudayaan
-   9. http://www.shangbaoindonesia.com/agama
-  10. http://www.shangbaoindonesia.com/kesehatan
-  11. http://www.shangbaoindonesia.com/asean
-  12. http://www.shangbaoindonesia.com/chinese-community
-  13. http://www.shangbaoindonesia.com/society
-  14. http://www.shangbaoindonesia.com/special
-  15. http://www.shangbaoindonesia.com/entertainment
-  16. http://www.shangbaoindonesia.com/sports
-  17. http://www.shangbaoindonesia.com/opinion
-  18. http://www.shangbaoindonesia.com/ads
-  19. http://www.shangbaoindonesia.com/celebratory
-  20. http://www.shangbaoindonesia.com/obituary
-  21. http://www.shangbaoindonesia.com/
-  22. https://play.google.com/store/apps/details?id=com.satelkom.shangbao
-  23. https://itunes.apple.com/id/app/商報-business-newspaper/id1339472706?ls=1&mt=8
-  24. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  25. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  26. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  27. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699959
-  28. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699783
-  29. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  30. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  31. http://www.shangbaoindonesia.com/read/2023/12/04/politics-1701699412
-  32. http://www.shangbaoindonesia.com/read/2023/12/04/society-1701699351
-  33. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  34. http://www.shangbaoindonesia.com/read/2023/11/27/opinion-1701100723
-  35. http://www.shangbaoindonesia.com/read/2023/11/28/society-1701182230
-  36. http://www.shangbaoindonesia.com/read/2023/11/28/hukum-1701181987
-  37. http://www.shangbaoindonesia.com/read/2023/11/30/society-1701354849
-  38. http://www.shangbaoindonesia.com/read/2023/12/01/opinion-1701444753
-  39. http://www.shangbaoindonesia.com/finance
-  40. http://www.shangbaoindonesia.com/e-paper
-  41. https://www.bankofchina.co.id/en-id/home.html
-  42. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  43. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699465
-  44. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701700012
-  45. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699959
-  46. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699783
-  47. http://www.shangbaoindonesia.com/economy
-  48. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694482
-  49. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694406
-  50. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694314
-  51. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701691990
-  52. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701691165
-  53. http://www.shangbaoindonesia.com/financial
-  54. http://www.shangbaoindonesia.com/
-  55. http://indonesiashangbao.com/
-  56. https://www.facebook.com/shangbao.id/
-  57. https://twitter.com/shangbaoindo
-  58. http://www.shangbaoindonesia.com/about-us
-  59. http://www.shangbaoindonesia.com/about-us/board-of-management
-  60. http://www.shangbaoindonesia.com/about-us/contact
-
-   Hidden links:
-  62. javascript:void(0);
-  63. http://www.shangbaoindonesia.com/
-  64. javascript:void(0)
-  65. javascript:void(0)
-  66. javascript:void(0)
-  67. http://www.shangbaoindonesia.com/read/2023/12/04/economy-1701699532
-  68. http://www.shangbaoindonesia.com/read/2023/12/04/financial-1701694482
+   Shangbao Indonesia
+   友情链接: 印尼商报网
+   Facebook Twitter
+   © 2021 Shangbao Indonesia, 版权所有 翻印必究 · 关于我们 · 董事经理 · 联系我们
+   0.435 secs.

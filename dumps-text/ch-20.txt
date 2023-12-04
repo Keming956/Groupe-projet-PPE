@@ -1,11 +1,11 @@
    年 月 日
-   [1][2019_index_002.png]
+   [2019_index_002.png]
    [2019_index_001.png]
-   [2][ghb2022-yjj.png]
-   [3][20200808index_01.png] [20200808index_02.png] [4][2019_index_35.png]
-   [5][2019_index_36.png] [20190226_sj_erweima.png] [6][2019_index_37.png]
+   [ghb2022-yjj.png]
+   [20200808index_01.png] [20200808index_02.png] [2019_index_35.png]
+   [2019_index_36.png] [20190226_sj_erweima.png] [2019_index_37.png]
    [20201104001img.png] [2019_index_38.png] [20190226_weibo_erweima.png]
-   [7][2019_index_39.png] [8][20201127.png] [9][ghb2022-yjj.png]
+   [2019_index_39.png] [20201127.png] [ghb2022-yjj.png]
 
    智能推荐
 
@@ -13,49 +13,47 @@
 
 政策推送
 
-     * [10]深圳市应急管理局关于印发深圳市生产安全事故应急预案评审和备案工作的通知
-     * [11]深圳地方标准《台风暴雨室内应急避难场所运行管理指南》
-     * [12]深圳市地方标准《综合减灾社区创建指南》
-     * [13]深圳市第七届人民代表大会常务委员会公告（第五十八号）深圳经济特区安全生产监督管理条例
-     * [14]广东省人民政府办公厅关于印发广东省突发火灾事故应急预案的通知
-     * [15]广东省应急管理厅关于印发《广东省应急管理厅企业安全生产标准化建设定级管理办法》的通知
-     * [16]国务院安委会制定部署安全生产十五条措施
-     * [17]深圳市应急管理局 深圳市水务局 深圳市气象局关于印发深圳市主要气象灾害风险提示（2022年版）的通知
-     * [18]市应急管理局关于印发《深圳市危险化学品禁限控目录（2022年版）》的通知
-     * [19]深圳市应急管理体系和能力建设“十四五”规划
+     * 深圳市应急管理局关于印发深圳市生产安全事故应急预案评审和备案工作的通知
+     * 深圳地方标准《台风暴雨室内应急避难场所运行管理指南》
+     * 深圳市地方标准《综合减灾社区创建指南》
+     * 深圳市第七届人民代表大会常务委员会公告（第五十八号）深圳经济特区安全生产监督管理条例
+     * 广东省人民政府办公厅关于印发广东省突发火灾事故应急预案的通知
+     * 广东省应急管理厅关于印发《广东省应急管理厅企业安全生产标准化建设定级管理办法》的通知
+     * 国务院安委会制定部署安全生产十五条措施
+     * 深圳市应急管理局 深圳市水务局 深圳市气象局关于印发深圳市主要气象灾害风险提示（2022年版）的通知
+     * 市应急管理局关于印发《深圳市危险化学品禁限控目录（2022年版）》的通知
+     * 深圳市应急管理体系和能力建设“十四五”规划
 
-   [20]个人中心
+   个人中心
    简体 繁体｜
    网站支持IPv6
 
    ____________________
 
-   热门推荐：[21]生产经营单位 [22]特种作业 [23]主体责任规定 [24]危险化学品
+   热门推荐：生产经营单位 特种作业 主体责任规定 危险化学品
    [2019_index_003_3.jpg] [2019_index_003.jpg] [2019_index_003_2.jpg]
 
-     * [25][2019_index_027.png] [2019_index_027_3.png] 首页
-     * [26][2019_index_028.png] [2019_index_028_2.png]
-       [2019_index_028_3.png] 政务公开
-       [27]信息公开规定 [28]信息公开指南 [29]信息公开目录 [30]信息公开年报 [31]规范性文件查询
-       [32]网站年度工作报表 [33]依申请公开 [34]政策法规及政策解读 [35]政声传递
-     * [36][2019_index_029.png] [2019_index_029_2.png]
-       [2019_index_029_3.png] 政务服务
-       [37]权责清单 [38]办事指南 [39]办事进度查询 [40]安全生产培训考核发证专题 [41]重点事项服务专题
-     * [42][2019_index_030.png] [2019_index_030_2.png]
-       [2019_index_030_3.png] 应急管理
-       [43]综合监管 [44]应急管理 [45]震情速递
-     * [46][2019_index_031.png] [2019_index_031_2.png]
-       [2019_index_031_3.png] 宣教科普
-       [47]业务知识库 [48]宣传海报 [49]视频展播 [50]文化刊物
-     * [51][2019_index_032.png] [2019_index_032_2.png]
-       [2019_index_032_3.png] 互动交流
-       [52]我要咨询 [53]我要投诉 [54]咨询投诉选登 [55]在线访谈 [56]民意征集
+     * [2019_index_027.png] [2019_index_027_3.png] 首页
+     * [2019_index_028.png] [2019_index_028_2.png] [2019_index_028_3.png]
+       政务公开
+       信息公开规定 信息公开指南 信息公开目录 信息公开年报 规范性文件查询 网站年度工作报表 依申请公开 政策法规及政策解读 政声传递
+     * [2019_index_029.png] [2019_index_029_2.png] [2019_index_029_3.png]
+       政务服务
+       权责清单 办事指南 办事进度查询 安全生产培训考核发证专题 重点事项服务专题
+     * [2019_index_030.png] [2019_index_030_2.png] [2019_index_030_3.png]
+       应急管理
+       综合监管 应急管理 震情速递
+     * [2019_index_031.png] [2019_index_031_2.png] [2019_index_031_3.png]
+       宣教科普
+       业务知识库 宣传海报 视频展播 文化刊物
+     * [2019_index_032.png] [2019_index_032_2.png] [2019_index_032_3.png]
+       互动交流
+       我要咨询 我要投诉 咨询投诉选登 在线访谈 民意征集
 
    [showPic20211018.jpg]
 
    [20190418img031.png] 当前位置 :
-   [57]首页 > [58]政务公开 > [59]信息公开目录 > [60]其他 > [61]行政执法公示 > [62]事先公开 > [63]依
-   据信息
+   首页 > 政务公开 > 信息公开目录 > 其他 > 行政执法公示 > 事先公开 > 依据信息
    深圳市生产经营单位安全生产主体责任规定
    来源 : 深圳市应急管理局   信息提供日期 :2021-04-13
    分享到：
@@ -505,7 +503,7 @@
 
    [深圳市网站_____________________..........]
 
-   [64]联系我们 - [65]版权保护 - [66]隐私声明 - [67]网站导航
+   联系我们 - 版权保护 - 隐私声明 - 网站导航
 
    深圳市应急管理局　版权所有
 
@@ -513,11 +511,11 @@
 
    标识码：4403000081
 
-   [68][2019_index_41.png] 粤公网安备 44030402003002号
+   [2019_index_41.png] 粤公网安备 44030402003002号
 
-   [69]粤ICP备19041158号-1
+   粤ICP备19041158号-1
 
-   [70][red.png] [wzaicon.png]
+   [red.png] [wzaicon.png]
 
    网站支持IPv6
 
@@ -532,87 +530,6 @@
 
 友情链接：
 
-   [71]中华人民共和国应急管理部 [72]广东省人民政府 [73]广东省应急管理厅 [74]深圳市人民政府 [75]市安委会成员网站矩阵
-   [76]各区友情链接
+   中华人民共和国应急管理部 广东省人民政府 广东省应急管理厅 深圳市人民政府 市安委会成员网站矩阵 各区友情链接
 
-   [77]站长统计
-
-References
-
-   1. http://www.sz.gov.cn/
-   2. javascript:void(0)
-   3. javascript:;
-   4. http://yjgl.sz.gov.cn/fzgn/isz/index.html
-   5. http://yjgl.sz.gov.cn/fzgn/ydb/index.html
-   6. http://yjgl.sz.gov.cn/fzgn/zwwx/index.html
-   7. http://yjgl.sz.gov.cn/znjqr
-   8. javascript:;
-   9. javascript:;
-  10. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_10294889.html
-  11. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_10112076.html
-  12. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_10091147.html
-  13. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9942232.html
-  14. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9865957.html
-  15. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9814411.html
-  16. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9704859.html
-  17. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9691867.html
-  18. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9681970.html
-  19. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/content/post_9593350.html
-  20. http://service.gd.gov.cn/todos
-  21. http://search.gd.gov.cn/search/local_msg/755028/?keywords=生产经营单位
-  22. http://search.gd.gov.cn/search/local_msg/755028/?keywords=特种作业
-  23. http://search.gd.gov.cn/search/local_msg/755028/?keywords=主体责任规定
-  24. http://search.gd.gov.cn/search/local_msg/755028/?keywords=危险化学品
-  25. http://yjgl.sz.gov.cn/
-  26. http://yjgl.sz.gov.cn/zwgk/index.html
-  27. http://yjgl.sz.gov.cn/zwgk/xxgkgd/index.html
-  28. http://yjgl.sz.gov.cn/zwgk/xxgkzn/index.html
-  29. http://yjgl.sz.gov.cn/gkmlpt/index
-  30. http://yjgl.sz.gov.cn/zwgk/xxgknb/index.html
-  31. http://yjgl.sz.gov.cn/zwgk/gfxwjcx/index.html
-  32. http://yjgl.sz.gov.cn/zwgk/wzndgzbb/index.html
-  33. https://ysqgk.gd.gov.cn/755028/choice
-  34. http://yjgl.sz.gov.cn/zwgk/xxgkml/zcfgjjd/zcfg/
-  35. http://www.gd.gov.cn/xxts/
-  36. http://yjgl.sz.gov.cn/zwfw/index.html
-  37. http://www.gdzwfw.gov.cn/portal/affairs-public-duty-list?region=440300&deptCode=MB2C93133
-  38. http://yjgl.sz.gov.cn/zwfw/bszn/index.html
-  39. http://www.gdzwfw.gov.cn/portal/progress-query
-  40. https://ksfw.yjgl.sz.gov.cn/
-  41. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/ztzl/zdsxfw/
-  42. http://yjgl.sz.gov.cn/yjgl/index.html
-  43. http://yjgl.sz.gov.cn/yjgl
-  44. http://yjgl.sz.gov.cn/yjgl/yjgl/index.html
-  45. https://www.cea.gov.cn/cea/xwzx/zqsd/zqsdlb/index.html
-  46. http://yjgl.sz.gov.cn/xjkp/index.html
-  47. http://yjgl.sz.gov.cn/xjkp/ywzsk/index.html
-  48. http://yjgl.sz.gov.cn/xjkp/xchb/index.html
-  49. http://yjgl.sz.gov.cn/xjkp/spzb/index.html
-  50. http://yjgl.sz.gov.cn/xjkp/whkw/index.html
-  51. http://yjgl.sz.gov.cn/hdjl/index.html
-  52. http://www.sz.gov.cn/hdjlpt/zixun?letter_dep_id=1499
-  53. http://www.sz.gov.cn/hdjlpt/tousu?letter_dep_id=1499
-  54. http://yjgl.sz.gov.cn/hdjl/zxtsxd/index.html
-  55. http://yjgl.sz.gov.cn/hdjl/zxft/ftyg
-  56. http://yjgl.sz.gov.cn/hdjl/myzj/index.html
-  57. http://yjgl.sz.gov.cn/
-  58. http://yjgl.sz.gov.cn/zwgk
-  59. http://yjgl.sz.gov.cn/gkmlpt/index
-  60. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt
-  61. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/xzzfgs
-  62. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/xzzfgs/sxgk
-  63. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/xzzfgs/sxgk/yjxx
-  64. http://yjgl.sz.gov.cn/fzgn/lxfs/index.html
-  65. http://yjgl.sz.gov.cn/fzgn/bqbh/content/post_9980480.html
-  66. http://yjgl.sz.gov.cn/fzgn/yssm/content/post_9980478.html
-  67. http://yjgl.sz.gov.cn/fzgn/wzdh/index.html
-  68. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030402003002
-  69. http://beian.miit.gov.cn/
-  70. http://bszs.conac.cn/sitename?method=show&id=54192B9A93E94A9DE053012819AC729F
-  71. http://www.mem.gov.cn/
-  72. http://www.gd.gov.cn/
-  73. http://yjgl.gd.gov.cn/
-  74. http://www.sz.gov.cn/cn/
-  75. http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/ztzl/sawhcywzjz/
-  76. http://yjgl.sz.gov.cn/fzgn/yqlj/gqyqlj/index.html
-  77. https://www.cnzz.com/stat/website.php?web_id=1277699515
+   站长统计

@@ -1,4 +1,4 @@
-   [1]专题首页 [2]亚运大咖说 [3]亚运零距离 [4]亚运观察 [5]直击亚运 [6]智汇亚运 [7]中国风采 [8]亚洲诸强
+   专题首页 亚运大咖说 亚运零距离 亚运观察 直击亚运 智汇亚运 中国风采 亚洲诸强
 
 约大牌｜有两种承担责任的办法，我都能接受——专访中国篮协主席姚明
 
@@ -6,8 +6,8 @@
    来源：新华网
 
    IFRAME:
-   [9]https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc29
-   5a9d816818dc691&vid=5bba2f03037f6e2f33666e2e1935cd4a&playType=0
+   https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9
+   d816818dc691&vid=5bba2f03037f6e2f33666e2e1935cd4a&playType=0
 
    　　新华社杭州10月7日电　题：有两种承担责任的办法，我都能接受——专访中国篮协主席姚明
 
@@ -183,15 +183,3 @@
 
    010030101030000000000000011100001212284539
    [1.gif?z=1&_wdxid=010030101030000000000000011100001212284539]
-
-References
-
-   1. http://www.news.cn/sports/hangzhou19th/index.htm
-   2. http://www.news.cn/sports/hangzhou19th/yydks.htm
-   3. http://www.news.cn/sports/hangzhou19th/yyljl.htm
-   4. http://www.news.cn/sports/hangzhou19th/yygc.htm
-   5. http://www.news.cn/sports/hangzhou19th/zjyy.htm
-   6. http://www.news.cn/sports/hangzhou19th/zhyy.htm
-   7. http://www.news.cn/sports/hangzhou19th/zgfc.htm
-   8. http://www.news.cn/sports/hangzhou19th/yzzq.htm
-   9. https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&vid=5bba2f03037f6e2f33666e2e1935cd4a&playType=0

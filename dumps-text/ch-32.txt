@@ -1,4 +1,4 @@
-   [1]前往内容 [2]前往主菜单 [3]前往搜索
+   前往内容 前往主菜单 前往搜索
 
    其他国家或地区
    (BUTTON) 中国-大中华区
@@ -6,190 +6,190 @@
    中国-大中华区
    (BUTTON) 其他国家或地区
      * 美洲
-          + [4]乌拉圭
-          + [5]加拿大
-          + [6]哥伦比亚
-          + [7]哥斯达黎�
-          + [8]墨西哥
-          + [9]委内瑞拉
-          + [10]巴拿马
-          + [11]巴西
-          + [12]智利
-          + [13]秘鲁
-          + [14]美国
+          + 乌拉圭
+          + 加拿大
+          + 哥伦比亚
+          + 哥斯达黎�
+          + 墨西哥
+          + 委内瑞拉
+          + 巴拿马
+          + 巴西
+          + 智利
+          + 秘鲁
+          + 美国
      * 亚太地区
-          + [15]中国-大中华区
-          + [16]中国-香港特别行政区
-          + [17]印度
-          + [18]印度尼西亚
-          + [19]新加坡
-          + [20]日本
-          + [21]泰国
-          + [22]澳大利亚
-          + [23]菲律宾
-          + [24]越南
-          + [25]韩国
-          + [26]马来西亚
+          + 中国-大中华区
+          + 中国-香港特别行政区
+          + 印度
+          + 印度尼西亚
+          + 新加坡
+          + 日本
+          + 泰国
+          + 澳大利亚
+          + 菲律宾
+          + 越南
+          + 韩国
+          + 马来西亚
      * 欧洲
-          + [27]Worldwide
-          + [28]丹麦
-          + [29]保加利亚
-          + [30]冰岛
-          + [31]匈牙利
-          + [32]卢森堡
-          + [33]土耳其
-          + [34]奥地利
-          + [35]德国
-          + [36]意大利
-          + [37]挪威
-          + [38]捷克共和国
-          + [39]比利时
-          + [40]法国
-          + [41]波兰
-          + [42]瑞典
-          + [43]瑞士
-          + [44]罗马尼亚
-          + [45]芬兰
-          + [46]英国
-          + [47]荷兰
-          + [48]葡萄牙
-          + [49]西班牙
+          + Worldwide
+          + 丹麦
+          + 保加利亚
+          + 冰岛
+          + 匈牙利
+          + 卢森堡
+          + 土耳其
+          + 奥地利
+          + 德国
+          + 意大利
+          + 挪威
+          + 捷克共和国
+          + 比利时
+          + 法国
+          + 波兰
+          + 瑞典
+          + 瑞士
+          + 罗马尼亚
+          + 芬兰
+          + 英国
+          + 荷兰
+          + 葡萄牙
+          + 西班牙
      * 中东及非洲地区
-          + [50]中东
-          + [51]以色列
-          + [52]南非
-          + [53]卡塔尔
-          + [54]突尼斯
-          + [55]阿尔及利亚
-          + [56]阿拉伯联合酋长国
-          + [57]阿曼
+          + 中东
+          + 以色列
+          + 南非
+          + 卡塔尔
+          + 突尼斯
+          + 阿尔及利亚
+          + 阿拉伯联合酋长国
+          + 阿曼
 
    中国-大中华区
    (BUTTON) 中文
-     * [58]中文
-     * [59]EN
+     * 中文
+     * EN
 
-     * [60]新闻中心
+     * 新闻中心
 
-   [61]Display / Hide menu
+   Display / Hide menu
 
-     * [62]关于我们
+     * 关于我们
           +
                o 我们的故事
-                    # [63]回到上级菜单 回到上级菜单
+                    # 回到上级菜单 回到上级菜单
                     # 我们的故事
-                    # [64]企业宗旨
-                    # [65]企业价值观和道德准则
-                    # [66]发展历程
-                    # [67]缅怀皮埃尔·白龙
+                    # 企业宗旨
+                    # 企业价值观和道德准则
+                    # 发展历程
+                    # 缅怀皮埃尔·白龙
           +
-               o [68]我们在做什么
-                    # [69]回到上级菜单 回到上级菜单
-                    # [70]我们在做什么
-                    # [71]餐饮服务
-                    # [72]设施管理服务
-                    # [73]工作场所和技术服务
-                    # [74]福利与绩效管理服务
-          + [75]奖项
-          + [76]索迪斯简介
-     * [77]行业
+               o 我们在做什么
+                    # 回到上级菜单 回到上级菜单
+                    # 我们在做什么
+                    # 餐饮服务
+                    # 设施管理服务
+                    # 工作场所和技术服务
+                    # 福利与绩效管理服务
+          + 奖项
+          + 索迪斯简介
+     * 行业
           +
-               o [78]工商企业
-                    # [79]回到上级菜单 回到上级菜单
-                    # [80]工商企业
-                    # [81]迎接新常态
-          + [82]医疗卫生
+               o 工商企业
+                    # 回到上级菜单 回到上级菜单
+                    # 工商企业
+                    # 迎接新常态
+          + 医疗卫生
           +
-               o [83]学校
-                    # [84]回到上级菜单 回到上级菜单
-                    # [85]学校
-                    # [86]安全返校
-                    # [87]香港学校菜单
-          + [88]养老
-          + [89]大学
+               o 学校
+                    # 回到上级菜单 回到上级菜单
+                    # 学校
+                    # 安全返校
+                    # 香港学校菜单
+          + 养老
+          + 大学
           +
-               o [90]Sodexo Live!
-                    # [91]回到上级菜单 回到上级菜单
-                    # [92]Sodexo Live!
-                    # [93]Airport Lounges
-                    # [94]Conference Centers
-                    # [95]Convention Centers
-                    # [96]Cultural Destinations
-                    # [97]Global Events
-                    # [98]Stadia and Arenas
-     * [99]服务
-          + [100]餐饮服务
-          + [101]设施管理服务
-          + [102]工作场所和技术服务
-          + [103]福利与绩效管理服务
-     * [104]企业责任
+               o Sodexo Live!
+                    # 回到上级菜单 回到上级菜单
+                    # Sodexo Live!
+                    # Airport Lounges
+                    # Conference Centers
+                    # Convention Centers
+                    # Cultural Destinations
+                    # Global Events
+                    # Stadia and Arenas
+     * 服务
+          + 餐饮服务
+          + 设施管理服务
+          + 工作场所和技术服务
+          + 福利与绩效管理服务
+     * 企业责任
        Food Waste
        食物浪费
           +
-               o [105]索迪斯企业责任
-                    # [106]回到上级菜单 回到上级菜单
-                    # [107]索迪斯企业责任
-                    # [108]奖项与荣誉
-                    # [109]共同致力可持续发展
-                    # [110]负责任地发展
+               o 索迪斯企业责任
+                    # 回到上级菜单 回到上级菜单
+                    # 索迪斯企业责任
+                    # 奖项与荣誉
+                    # 共同致力可持续发展
+                    # 负责任地发展
           +
-               o [111]可持续发展
-                    # [112]回到上级菜单 回到上级菜单
-                    # [113]可持续发展
-                    # [114]我们对气候保护作出的贡献
-                    # [115]负责任的采购
-                    # [116]更加循环更少浪费
-                    # [117]可持续的饮食
+               o 可持续发展
+                    # 回到上级菜单 回到上级菜单
+                    # 可持续发展
+                    # 我们对气候保护作出的贡献
+                    # 负责任的采购
+                    # 更加循环更少浪费
+                    # 可持续的饮食
           +
-               o [118]包容性增长
-                    # [119]回到上级菜单 回到上级菜单
-                    # [120]包容性增长
-                    # [121]多元化、公平与包容
-                    # [122]Stop Hunger
-                    # [123]健康与安全
-          + [124]公司治理和负责任的经营
-     * [125]数字化创新
-          + [126]前沿的解决方案
-          + [127]强大的创新文化
-          + [128]专业的数据团队
+               o 包容性增长
+                    # 回到上级菜单 回到上级菜单
+                    # 包容性增长
+                    # 多元化、公平与包容
+                    # Stop Hunger
+                    # 健康与安全
+          + 公司治理和负责任的经营
+     * 数字化创新
+          + 前沿的解决方案
+          + 强大的创新文化
+          + 专业的数据团队
           +
-               o [129]全球化的初创体系
-                    # [130]回到上级菜单 回到上级菜单
-                    # [131]全球化的初创体系
-                    # [132]索迪斯加速器
-     * [133]洞察与启示
-          + [134]案例
-          + [135]研究报告
-          + [136]洞察
-     * [137]职业发展
-          + [138]你的团队
-          + [139]你的事业
-          + [140]你的发展
-          + [141]加入我们
-     * [142]新闻中心
+               o 全球化的初创体系
+                    # 回到上级菜单 回到上级菜单
+                    # 全球化的初创体系
+                    # 索迪斯加速器
+     * 洞察与启示
+          + 案例
+          + 研究报告
+          + 洞察
+     * 职业发展
+          + 你的团队
+          + 你的事业
+          + 你的发展
+          + 加入我们
+     * 新闻中心
 
    (BUTTON) Open/Close the search
    输入�________________________________
    (BUTTON) 清除你的搜索
    (BUTTON) Start the search
 
-     * [143]首页
-     * [144]企业责任
-     * [145]索迪斯企业责任
+     * 首页
+     * 企业责任
+     * 索迪斯企业责任
      * (BUTTON) 负责任地发展
-          + [146]奖项与荣誉
-          + [147]共同致力可持续发展
-          + [148]负责任地发展
+          + 奖项与荣誉
+          + 共同致力可持续发展
+          + 负责任地发展
 
-   IFRAME: [149]https://www.googletagmanager.com/ns.html?id=GTM-THCV3TJN
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THCV3TJN
 
    索迪斯生活质量服务，索迪斯的企业责任和社会使命
 
 负责任地发展
 
    1966年，我们是世界上最早将企业社会责任置于核心使命的少数公司之一。为什么？因为我们一直希望企业的发展有意义：对我们每天来上班的员工有意义；
-   为我们的客户和供应商寻求基于共同价值观的关系；对于我们的股东来说，他们想要长期的可持续发展；对于我们服务的数百万人来说，他们认为每天都产生[1
-   50]积极影响是我们的企业责任。
+   为我们的客户和供应商寻求基于共同价值观的关系；对于我们的股东来说，他们想要长期的可持续发展；对于我们服务的数百万人来说，他们认为每天都产生积极
+   影响是我们的企业责任。
 
 明天更精彩2025
 
@@ -206,37 +206,37 @@
 
 负责任的商业行为＆道德
 
-     * [151]商业诚信指南
+     * 商业诚信指南
 
 多元化和包容性
 
-     * [152]2018年全球多元化与包容性报告（英文版）
+     * 2018年全球多元化与包容性报告（英文版）
 
 负责任的采购
 
-     * [153]索迪斯供应商行为准则
+     * 索迪斯供应商行为准则
 
 健康饮食
 
-     * [154]2019年全球年度烹饪报告（英文版）
-     * [155]索迪斯营养与健康十大黄金法则（英文版）
+     * 2019年全球年度烹饪报告（英文版）
+     * 索迪斯营养与健康十大黄金法则（英文版）
 
 负责任的资源使用
 
-     * [156]塑料——可持续发展的资源利用（英文版）
-     * [157]索迪斯循环经济论文（英文版）
+     * 塑料——可持续发展的资源利用（英文版）
+     * 索迪斯循环经济论文（英文版）
 
 消除饥饿
 
-     * [158]光盘行动
-     * [159]2018年全球“消除饥饿”活动报告（英文版）
-     * [160]“消除饥饿”网站（英文版）
+     * 光盘行动
+     * 2018年全球“消除饥饿”活动报告（英文版）
+     * “消除饥饿”网站（英文版）
 
-   [161]联系我们 开启分享和其他操作
+   联系我们 开启分享和其他操作
 
 如果您有任何疑问，欢迎垂询。
 
-   [162]联系我们
+   联系我们
 
    关注我们
 
@@ -244,187 +244,10 @@
 
    上海市长宁区福泉北路388号东方国信商务广场A座7楼
 
-     * [163]条件与条款
-     * [164]索迪斯中国数据保护政策中国大陆地区
-     * [165]索迪斯中国招聘隐私政策
-     * [166]Cookie声明
-     * [167]站点导航
+     * 条件与条款
+     * 索迪斯中国数据保护政策中国大陆地区
+     * 索迪斯中国招聘隐私政策
+     * Cookie声明
+     * 站点导航
 
    © 2020 Sodexo. All rights reserved
-
-References
-
-   Visible links:
-   1. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#main
-   2. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#menu
-   3. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#search
-   4. https://www.sodexo.uy/
-   5. https://ca.sodexo.com/
-   6. https://co.sodexo.com/
-   7. https://cr.sodexo.com/
-   8. https://mx.sodexo.com/
-   9. https://www.sodexo.com.ve/
-  10. https://www.sodexo.pa/
-  11. https://br.sodexo.com/
-  12. https://cl.sodexo.com/
-  13. https://pe.sodexo.com/
-  14. https://us.sodexo.com/
-  15. https://cn.sodexo.com/
-  16. https://cn.sodexo.com/en/about-us/sodexo-profile/sodexo-hong-kong-china.html
-  17. https://in.sodexo.com/
-  18. https://id.sodexo.com/
-  19. https://sg.sodexo.com/
-  20. https://www.globeshipsodexo.com/
-  21. https://th.sodexo.com/
-  22. https://au.sodexo.com/
-  23. https://ph.sodexo.com/
-  24. https://vn.sodexo.com/
-  25. https://sg.sodexo.com/about-us/sodexo-in-asia-pacific.html
-  26. https://sg.sodexo.com/about-us/sodexo-in-malaysia.html
-  27. https://www.sodexo.com/
-  28. https://se.sodexo.com/om-oss/sodexo-i-danmark.html
-  29. http://www.sodexo.bg/
-  30. https://ie.sodexo.com/
-  31. https://hu.sodexo.com/
-  32. https://lu.sodexo.com/
-  33. https://tr.sodexo.com/
-  34. https://at.sodexo.com/
-  35. https://de.sodexo.com/
-  36. https://it.sodexo.com/
-  37. https://no.sodexo.com/
-  38. https://cz.sodexo.com/
-  39. https://be.sodexo.com/
-  40. https://fr.sodexo.com/
-  41. https://pl.sodexo.com/
-  42. https://se.sodexo.com/
-  43. https://ch.sodexo.com/
-  44. https://ro.sodexo.com/
-  45. https://fi.sodexo.com/
-  46. https://uk.sodexo.com/
-  47. https://nl.sodexo.com/
-  48. https://www.sodexobeneficios.pt/
-  49. https://es.sodexo.com/
-  50. https://middleeast.sodexo.com/home.html
-  51. http://il.sodexo.com/
-  52. https://za.sodexo.com/
-  53. https://middleeast.sodexo.com/home/about-us/overview.html
-  54. https://www.sodexo.tn/
-  55. https://middleeast.sodexo.com/home/about-us/overview.html
-  56. https://middleeast.sodexo.com/home/about-us/overview.html
-  57. https://middleeast.sodexo.com/home/about-us/overview.html
-  58. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html
-  59. https://cn.sodexo.com/en/corporate-responsibility/corporate-responsibility/growing-responsibly.html
-  60. https://cn.sodexo.com/home/media.html
-  61. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#menu
-  62. https://cn.sodexo.com/about-us.html
-  63. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-5a36278e-226a-4be9-9b62-5848bd2a5cf7
-  64. https://cn.sodexo.com/about-us/untitled/notre-raison-detre-1.html
-  65. https://cn.sodexo.com/企业价值观和道德准则-1.html
-  66. https://cn.sodexo.com/发展历程-1.html
-  67. https://cn.sodexo.com/about-us/我们的故事/tribute-to-pierre-bellon.html
-  68. https://cn.sodexo.com/about-us/what-we-do.html
-  69. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-5a36278e-226a-4be9-9b62-5848bd2a5cf7
-  70. https://cn.sodexo.com/about-us/what-we-do.html
-  71. https://cn.sodexo.com/fuwu/food-services.html
-  72. https://cn.sodexo.com/fuwu/facilities-management-services.html
-  73. https://cn.sodexo.com/fuwu/workplace-technical-services.html
-  74. https://cn.sodexo.com/fuwu/benefits-rewards-services.html
-  75. https://cn.sodexo.com/about-us/awards.html
-  76. https://cn.sodexo.com/about-us/sodexo-profile.html
-  77. https://cn.sodexo.com/hangye.html
-  78. https://cn.sodexo.com/hangye/gongshangqiye.html
-  79. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-c2c52db2-e7e6-4f41-8ea5-ab435633aff3
-  80. https://cn.sodexo.com/hangye/gongshangqiye.html
-  81. https://cn.sodexo.com/home/your-industry/business-industry/moving-to-the-new-normal.html
-  82. https://cn.sodexo.com/hangye/yiliaoweisheng.html
-  83. https://cn.sodexo.com/hangye/xuexiao.html
-  84. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-c2c52db2-e7e6-4f41-8ea5-ab435633aff3
-  85. https://cn.sodexo.com/hangye/xuexiao.html
-  86. https://cn.sodexo.com/your-industry/schools/back-to-school.html
-  87. https://cn.sodexo.com/your-industry/schools/school-menus-hk.html
-  88. https://cn.sodexo.com/hangye/yanglao.html
-  89. https://cn.sodexo.com/hangye/daxue.html
-  90. https://cn.sodexo.com/home/your-industry/sodexo-live.html
-  91. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-c2c52db2-e7e6-4f41-8ea5-ab435633aff3
-  92. https://cn.sodexo.com/home/your-industry/sodexo-live.html
-  93. https://cn.sodexo.com/zh/your-industry/sodexo-live/lounges-daeroport.html
-  94. https://cn.sodexo.com/home/your-industry/sodexo-live/conference-centers.html
-  95. https://cn.sodexo.com/home/your-industry/sodexo-live/convention-centers.html
-  96. https://cn.sodexo.com/home/your-industry/sodexo-live/cultural-destinations.html
-  97. https://cn.sodexo.com/home/your-industry/sodexo-live/global-events.html
-  98. https://cn.sodexo.com/home/your-industry/sodexo-live/stadia-and-arenas.html
-  99. https://cn.sodexo.com/fuwu.html
- 100. https://cn.sodexo.com/fuwu/food-services.html
- 101. https://cn.sodexo.com/fuwu/facilities-management-services.html
- 102. https://cn.sodexo.com/fuwu/workplace-technical-services.html
- 103. https://cn.sodexo.com/fuwu/benefits-rewards-services.html
- 104. https://cn.sodexo.com/corporate-responsibility.html
- 105. https://cn.sodexo.com/home/corporate-responsibility/corporate-responsibility.html
- 106. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-17386515-d459-40f6-9853-be5e6ef07a91
- 107. https://cn.sodexo.com/home/corporate-responsibility/corporate-responsibility.html
- 108. https://cn.sodexo.com/about-us/awards.html
- 109. https://cn.sodexo.com/home/corporate-responsibility/corporate-responsibility/responsible-partnerships-1.html
- 110. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html
- 111. https://cn.sodexo.com/home/corporate-responsibility/sustainability-1.html
- 112. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-17386515-d459-40f6-9853-be5e6ef07a91
- 113. https://cn.sodexo.com/home/corporate-responsibility/sustainability-1.html
- 114. https://cn.sodexo.com/corporate-responsibility/sustainability-1/our-climate-journey.html
- 115. https://cn.sodexo.com/corporate-responsibility/sustainability-1/responsible sourcing.html
- 116. https://cn.sodexo.com/home/corporate-responsibility/sustainability-1/responsible-waste-reduction.html
- 117. https://cn.sodexo.com/home/corporate-responsibility/sustainability-1/sustainable-eating.html
- 118. https://cn.sodexo.com/home/corporate-responsibility/responsible-community-diversity.html
- 119. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-17386515-d459-40f6-9853-be5e6ef07a91
- 120. https://cn.sodexo.com/home/corporate-responsibility/responsible-community-diversity.html
- 121. https://cn.sodexo.com/home/corporate-responsibility/responsible-community-diversity/diversity-inclusion.html
- 122. https://cn.sodexo.com/home/corporate-responsibility/responsible-community-diversity/stop-hunger.html
- 123. https://cn.sodexo.com/corporate-responsibility/responsible-community-diversity/health and safety.html
- 124. https://cn.sodexo.com/home/corporate-responsibility/governance-compliance.html
- 125. https://cn.sodexo.com/zh/innovation.html
- 126. https://cn.sodexo.com/home/innovation/leading-edge-solutions.html
- 127. https://cn.sodexo.com/home/innovation/culture-of-innovation.html
- 128. https://cn.sodexo.com/innovation/team-of-data-experts.html
- 129. https://cn.sodexo.com/home/innovation/global-ecosystem-of-startups.html
- 130. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html#submenu-3df0a947-d5b8-403c-9c5b-d100856c6e3f
- 131. https://cn.sodexo.com/home/innovation/global-ecosystem-of-startups.html
- 132. https://cn.sodexo.com/home/innovation/global-ecosystem-of-startups/the-sodexo-accelerators.html
- 133. https://cn.sodexo.com/blog.html
- 134. https://cn.sodexo.com/inspired-thinking/case-studies.html
- 135. https://cn.sodexo.com/inspired-thinking/studies-and-reports.html
- 136. https://cn.sodexo.com/inspired-thinking/insights.html
- 137. https://cn.sodexo.com/careers.html
- 138. https://cn.sodexo.com/careers/your-team.html
- 139. https://cn.sodexo.com/careers/your-career.html
- 140. https://cn.sodexo.com/careers/your-development.html
- 141. https://cn.sodexo.com/careers/find-a-job.html
- 142. https://cn.sodexo.com/home/media.html
- 143. https://cn.sodexo.com/home.html
- 144. https://cn.sodexo.com/corporate-responsibility.html
- 145. https://cn.sodexo.com/home/corporate-responsibility/corporate-responsibility.html
- 146. https://cn.sodexo.com/about-us/awards.html
- 147. https://cn.sodexo.com/home/corporate-responsibility/corporate-responsibility/responsible-partnerships-1.html
- 148. https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html
- 149. https://www.googletagmanager.com/ns.html?id=GTM-THCV3TJN
- 150. https://null:-1/cms/render/default/zh/sites/com-cn/home/positive-impact.html
- 151. https://cn.sodexo.com/files/live/sites/com-cn/files/reports/Guide to the sodexo statement of business integrity_CH202011.pdf
- 152. http://www.sodexo.com/files/live/sites/com-wwd/files/02 PDF/Case Studies/D&IAnnualReport.pdf
- 153. https://cn.sodexo.com/files/live/sites/com-cn/files/reports/索迪斯供应商行为准则_中国-20170901.pdf
- 154. http://viewer.zmags.com/publication/63e3bb6d
- 155. http://www.sodexo.com/files/live/sites/com-wwd/files/02 PDF/Nutrition Health and Wellbeing Golden rules.pdf
- 156. http://www.sodexo.com/files/live/sites/com-wwd/files/02 PDF/Case Studies/Plastic-Sustainable-Resource-Usage.pdf
- 157. http://www.sodexo.com/files/live/sites/com-wwd/files/02 PDF/Case Studies/Sodexo-Circular-Economy-Paper.pdf
- 158. https://cn.sodexo.com/files/live/sites/com-cn/files/reports/Sodexo Waste Less Hope More So Garden Plan 2019.pdf
- 159. http://www.stop-hunger.org/home.html
- 160. http://www.stop-hunger.org/home/actualites/news/content-col1-area/latest-news/rapport-dactivites-2019.html
- 161. https://cn.sodexo.com/lianxiwomen.html
- 162. https://cn.sodexo.com/lianxiwomen.html
- 163. https://cn.sodexo.com/tiaojian-tiaokuan
- 164. https://cn.sodexo.com/china-data-protection-policy.html
- 165. https://cn.sodexo.com/files/live/sites/com-cn/files/1.pdf
- 166. https://cn.sodexo.com/home/terms-and-conditions/cookie-policy.html
- 167. https://cn.sodexo.com/sitemap.html
-
-   Hidden links:
- 169. https://cn.sodexo.com/home.html
- 170. https://cn.sodexo.com/corporate-responsibility/sustainability-1/sustainable-eating/food-waste.html
- 171. https://mp.weixin.qq.com/s?__biz=Mzg5MDU3MDg4MA==&mid=2247489492&idx=1&sn=d624f97fd74a4ca835bec27cf4f21930&chksm=cfdbc63bf8ac4f2dffc52047a39702bd27e4d9c3e18300c5faf7e1395e6a89332c584dd594f3#rd
- 172. https://www.linkedin.com/company/sodexo/

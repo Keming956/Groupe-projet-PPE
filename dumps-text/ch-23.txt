@@ -1,96 +1,95 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
 
-   [17]跳至主要内容
+   跳至主要内容
 
-   [18]单击此处以返回 Amazon Web Services 主页
+   单击此处以返回 Amazon Web Services 主页
 
-   [19]联系我们 [20]支持  [21]中文（简体）  [22]我的账户
-   [23]登录
-   [24]创建 AWS 账户
+   联系我们 支持  中文（简体）  我的账户
+   登录
+   创建 AWS 账户
 
-     * [25]产品
-     * [26]解决方案
-     * [27]定价
-     * [28]文档
-     * [29]了解
-     * [30]合作伙伴网络
-     * [31]AWS Marketplace
-     * [32]客户支持
-     * [33]活动
-     * [34]探索更多信息
+     * 产品
+     * 解决方案
+     * 定价
+     * 文档
+     * 了解
+     * 合作伙伴网络
+     * AWS Marketplace
+     * 客户支持
+     * 活动
+     * 探索更多信息
 
    ____________________
    关闭
-     * [35]عربي
-     * [36]Bahasa Indonesia
-     * [37]Deutsch
-     * [38]English
-     * [39]Español
-     * [40]Français
-     * [41]Italiano
-     * [42]Português
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
 
-     * [43]Tiếng Việt
-     * [44]Türkçe
-     * [45]Ρусский
-     * [46]ไทย
-     * [47]日本語
-     * [48]한국어
-     * [49]中文 (简体)
-     * [50]中文 (繁體)
-
-   关闭
-     * [51]我的配置文件
-     * [52]注销 AWS Builder ID
-     * [53]AWS 管理控制台
-     * [54]账户设置
-     * [55]账单与成本管理
-     * [56]安全证书
-     * [57]AWS Personal Health Dashboard
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
 
    关闭
-     * [58]支持中心
-     * [59]专家帮助
-     * [60]知识中心
-     * [61]AWS Support 概述
-     * [62]AWS re:Post
+     * 我的配置文件
+     * 注销 AWS Builder ID
+     * AWS 管理控制台
+     * 账户设置
+     * 账单与成本管理
+     * 安全证书
+     * AWS Personal Health Dashboard
 
-   [63]单击此处以返回 Amazon Web Services 主页
-   [64]免费试用
-   [65]联系我们
+   关闭
+     * 支持中心
+     * 专家帮助
+     * 知识中心
+     * AWS Support 概述
+     * AWS re:Post
+
+   单击此处以返回 Amazon Web Services 主页
+   免费试用
+   联系我们
    ____________________
 
-     * [66]产品
-     * [67]解决方案
-     * [68]定价
-     * [69]AWS 简介
-     * [70]入门
-     * [71]文档
-     * [72]培训和认证
-     * [73]开发人员中心
-     * [74]客户成功案例
-     * [75]合作伙伴网络
-     * [76]AWS Marketplace
-     * [77]支持
-     * [78]AWS re:Post
-     * [79]登录控制台
-     * [80]下载移动应用
+     * 产品
+     * 解决方案
+     * 定价
+     * AWS 简介
+     * 入门
+     * 文档
+     * 培训和认证
+     * 开发人员中心
+     * 客户成功案例
+     * 合作伙伴网络
+     * AWS Marketplace
+     * 支持
+     * AWS re:Post
+     * 登录控制台
+     * 下载移动应用
 
-   [81]AWS Cloud 安全性
-   [82]安全服务 [83]使用案例  [84]合规性  [85]数据保护  [86]博客 [87]合作伙伴  [88]资源
+   AWS Cloud 安全性
+   安全服务 使用案例  合规性  数据保护  博客 合作伙伴  资源
 
-   关闭 [89]加密计算 [90]开源安全 [91]后量子密码术 [92]可证明的安全性 [93]防勒索软件防护 [94]零信任
+   关闭 加密计算 开源安全 后量子密码术 可证明的安全性 防勒索软件防护 零信任
 
-   关闭 [95]Cloud Audit Academy [96]合规性概述 [97]合规性资源 [98]责任共担模式
+   关闭 Cloud Audit Academy 合规性概述 合规性资源 责任共担模式
 
-   关闭 [99]数据保护 [100]数据隐私中心 [101]数字主权
+   关闭 数据保护 数据隐私中心 数字主权
 
-   关闭 [102]AWS Marketplace [103]MSSP [104]MSSP 能力 [105]合作伙伴资源 [106]安全性能力
+   关闭 AWS Marketplace MSSP MSSP 能力 合作伙伴资源 安全性能力
 
-   关闭 [107]客户成功案例 [108]安全最佳实践 [109]安全公告 [110]安全内容 [111]安全学�
+   关闭 客户成功案例 安全最佳实践 安全公告 安全内容 安全学�
 
 责任共担模式
 
@@ -137,314 +136,120 @@
 
    下面的练习能够帮助客户根据特定的使用案例决定责任分配：
 
-   决定外部和内部安全以及相关合规要求与目标，并考虑[112]NIST Cybersceurity Framework (CSF) 和
-   [113]ISO 等行业框架。
+   决定外部和内部安全以及相关合规要求与目标，并考虑NIST Cybersceurity Framework (CSF) 和 ISO 等行业框架。
    亚马逊云科技服务隐私注意事项功能
 
-   考虑采用 [114]Amazon Cloud Adoption Framework (CAF) 和[115]Well-Architected
-   最佳实践 以大规模计划并执行您的数字化转型。
+   考虑采用 Amazon Cloud Adoption Framework (CAF) 和Well-Architected 最佳实践
+   以大规模计划并执行您的数字化转型。
    亚马逊云科技服务隐私注意事项功能
 
-   在[116]亚马逊云科技服务文档中的安全章节查看单项亚马逊云科技服务的单项功能和配置选项。
+   在亚马逊云科技服务文档中的安全章节查看单项亚马逊云科技服务的单项功能和配置选项。
    安全、身份与合规性的最佳实践
 
-   评估 [117]Amazon Security, Identity and Compliance 服务
-   以了解如何用这些服务来帮助您满足安全与合规目标。
+   评估 Amazon Security, Identity and Compliance 服务 以了解如何用这些服务来帮助您满足安全与合规目标。
    数据保护博客
 
-   查看[118]第三方审计鉴证文件以决定继承的控制体系以及可能需要保留以在环境中执行的控制项目。
+   查看第三方审计鉴证文件以决定继承的控制体系以及可能需要保留以在环境中执行的控制项目。
    GDPR 中心
 
-   借助 [119]Cloud Audit Academy 培训项目，为您的内部及外部审计团队提供云专属学习机会。
+   借助 Cloud Audit Academy 培训项目，为您的内部及外部审计团队提供云专属学习机会。
    子处理器列表
 
-   执行亚马逊云科技工作负载的 [120]Well-Architected Review，评估为安全、可靠性和性能问题的最佳实践执行情况。
+   执行亚马逊云科技工作负载的 Well-Architected Review，评估为安全、可靠性和性能问题的最佳实践执行情况。
    亚马逊云科技服务隐私注意事项功能
 
-   探索 [121]Amazon Marketplace
+   探索 Amazon Marketplace
    数字目录中可用的解决方案，其中收录了来自独立软件供应商的数千种软件产品，可让您查找、测试、购买和部署在亚马逊云科技上运行的软件。
    亚马逊云科技服务隐私注意事项功能
 
-   探索 [122]AWS Security
+   探索 AWS Security
    能力合作伙伴，他们具有深厚专业知识和经过证实的成功经验，可确保云采用的每个阶段（从最初的迁移到持续的日常管理）的安全。
    有问题？ 联系 AWS 业务代表
-   [123]联系我们
+   联系我们
    想要提供合规性服务？
-   [124]立即申请 »
+   立即申请 »
    想要了解 AWS 合规性动态？
-   [125]在 Twitter 上关注我们 »
+   在 Twitter 上关注我们 »
      __________________________________________________________________
 
-   [126]登录控制台
+   登录控制台
 
 了解有关 AWS 的信息
 
-     * [127]什么是 AWS？
-     * [128]什么是云计算？
-     * [129]AWS 包容性、多样性和公平性
-     * [130]什么是 DevOps？
-     * [131]什么是容器？
-     * [132]什么是数据湖？
-     * [133]AWS 云安全性
-     * [134]最新资讯
-     * [135]博客
-     * [136]新闻稿
+     * 什么是 AWS？
+     * 什么是云计算？
+     * AWS 包容性、多样性和公平性
+     * 什么是 DevOps？
+     * 什么是容器？
+     * 什么是数据湖？
+     * AWS 云安全性
+     * 最新资讯
+     * 博客
+     * 新闻稿
 
 AWS 资源
 
-     * [137]入门
-     * [138]培训和认证
-     * [139]AWS 解决方案库
-     * [140]架构中心
-     * [141]产品和技术常见问题
-     * [142]分析报告
-     * [143]AWS 合作伙伴
+     * 入门
+     * 培训和认证
+     * AWS 解决方案库
+     * 架构中心
+     * 产品和技术常见问题
+     * 分析报告
+     * AWS 合作伙伴
 
 AWS 上的开发人员
 
-     * [144]开发人员中心
-     * [145]软件开发工具包与工具
-     * [146]运行于 AWS 上的 .NET
-     * [147]运行于 AWS 上的 Python
-     * [148]运行于 AWS 上的 Java
-     * [149]运行于 AWS 上的 PHP
-     * [150]运行于 AWS 上的 JavaScript
+     * 开发人员中心
+     * 软件开发工具包与工具
+     * 运行于 AWS 上的 .NET
+     * 运行于 AWS 上的 Python
+     * 运行于 AWS 上的 Java
+     * 运行于 AWS 上的 PHP
+     * 运行于 AWS 上的 JavaScript
 
 帮助
 
-     * [151]联系我们
-     * [152]获取专家帮助
-     * [153]提交支持工单
-     * [154]AWS re:Post
-     * [155]Knowledge Center
-     * [156]AWS Support 概览
-     * [157]法律人员
-     * [158]亚马逊云科技诚聘英才
+     * 联系我们
+     * 获取专家帮助
+     * 提交支持工单
+     * AWS re:Post
+     * Knowledge Center
+     * AWS Support 概览
+     * 法律人员
+     * 亚马逊云科技诚聘英才
 
-   [159]创建账户
+   创建账户
    Amazon 是一个倡导机会均等的雇主： 反对少数族裔、妇女、残疾人士、退伍军人、性别认同和性取向歧视。
 
      * 语言
-     * [160]عربي
-     * [161]Bahasa Indonesia
-     * [162]Deutsch
-     * [163]English
-     * [164]Español
-     * [165]Français
-     * [166]Italiano
-     * [167]Português
-     * [168]Tiếng Việt
-     * [169]Türkçe
-     * [170]Ρусский
-     * [171]ไทย
-     * [172]日本語
-     * [173]한국어
-     * [174]中文 (简体)
-     * [175]中文 (繁體)
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
 
-     * [176]隐私
+     * 隐私
      * |
-     * [177]网站条款
+     * 网站条款
      * |
-     * [178]Cookie 首选项
+     * Cookie 首选项
      * |
      * © 2023, Amazon Web Services, Inc. 或其联属公司。保留所有权利。
 
 终止对 Internet Explorer 的支持
 
-   [179]知道了
-   AWS 对 Internet Explorer 的支持将于 07/31/2022 结束。受支持的浏览器包括
-   Chrome、Firefox、Edge 和 Safari。 [180]了解详情 »
    知道了
-
-References
-
-   Visible links:
-   1. https://aws.amazon.com/ar/compliance/shared-responsibility-model/
-   2. https://aws.amazon.com/de/compliance/shared-responsibility-model/
-   3. https://aws.amazon.com/compliance/shared-responsibility-model/
-   4. https://aws.amazon.com/es/compliance/shared-responsibility-model/
-   5. https://aws.amazon.com/fr/compliance/shared-responsibility-model/
-   6. https://aws.amazon.com/id/compliance/shared-responsibility-model/
-   7. https://aws.amazon.com/it/compliance/shared-responsibility-model/
-   8. https://aws.amazon.com/jp/compliance/shared-responsibility-model/
-   9. https://aws.amazon.com/ko/compliance/shared-responsibility-model/
-  10. https://aws.amazon.com/pt/compliance/shared-responsibility-model/
-  11. https://aws.amazon.com/ru/compliance/shared-responsibility-model/
-  12. https://aws.amazon.com/th/compliance/shared-responsibility-model/
-  13. https://aws.amazon.com/tr/compliance/shared-responsibility-model/
-  14. https://aws.amazon.com/vi/compliance/shared-responsibility-model/
-  15. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  16. https://aws.amazon.com/tw/compliance/shared-responsibility-model/
-  17. https://aws.amazon.com/cn/compliance/shared-responsibility-model/#aws-page-content-main
-  18. https://aws.amazon.com/cn/?nc2=h_lg
-  19. https://aws.amazon.com/cn/contact-us/?nc2=h_header
-  20. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  21. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  22. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  23. https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin
-  24. https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup
-  25. https://aws.amazon.com/cn/products/?nc2=h_ql_prod
-  26. https://aws.amazon.com/cn/solutions/?nc2=h_ql_sol
-  27. https://aws.amazon.com/cn/pricing/?nc2=h_ql_pr
-  28. https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do
-  29. https://aws.amazon.com/cn/getting-started/?nc2=h_ql_le
-  30. https://aws.amazon.com/cn/partners/?nc2=h_ql_pn
-  31. https://aws.amazon.com/marketplace/?nc2=h_ql_mp
-  32. https://aws.amazon.com/cn/customer-enablement/?nc2=h_ql_ce
-  33. https://aws.amazon.com/cn/events/?nc2=h_ql_ev
-  34. https://aws.amazon.com/cn/contact-us/?nc2=h_ql_exm
-  35. https://aws.amazon.com/ar/?nc1=h_ls
-  36. https://aws.amazon.com/id/?nc1=h_ls
-  37. https://aws.amazon.com/de/?nc1=h_ls
-  38. https://aws.amazon.com/?nc1=h_ls
-  39. https://aws.amazon.com/es/?nc1=h_ls
-  40. https://aws.amazon.com/fr/?nc1=h_ls
-  41. https://aws.amazon.com/it/?nc1=h_ls
-  42. https://aws.amazon.com/pt/?nc1=h_ls
-  43. https://aws.amazon.com/vi/?nc1=f_ls
-  44. https://aws.amazon.com/tr/?nc1=h_ls
-  45. https://aws.amazon.com/ru/?nc1=h_ls
-  46. https://aws.amazon.com/th/?nc1=f_ls
-  47. https://aws.amazon.com/jp/?nc1=h_ls
-  48. https://aws.amazon.com/ko/?nc1=h_ls
-  49. https://aws.amazon.com/cn/?nc1=h_ls
-  50. https://aws.amazon.com/tw/?nc1=h_ls
-  51. https://aws.amazon.com/cn/profile/?nc2=h_m_mc
-  52. https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc
-  53. https://console.aws.amazon.com/?nc2=h_m_mc
-  54. https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma
-  55. https://console.aws.amazon.com/billing/home?nc2=h_m_bc
-  56. https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential
-  57. https://phd.aws.amazon.com/?nc2=h_m_sc
-  58. https://console.aws.amazon.com/support/home/?nc2=h_ql_cu
-  59. https://iq.aws.amazon.com/?utm=mkt.nav
-  60. https://repost.aws/knowledge-center/?nc2=h_m_ma
-  61. https://aws.amazon.com/cn/premiumsupport/?nc2=h_m_bc
-  62. https://repost.aws/
-  63. https://aws.amazon.com/cn/?nc2=h_lg
-  64. https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile
-  65. https://aws.amazon.com/contact-us/?nc2=h_mobile
-  66. https://aws.amazon.com/cn/products/?nc2=h_mo
-  67. https://aws.amazon.com/cn/solutions/?nc2=h_mo
-  68. https://aws.amazon.com/cn/pricing/?nc2=h_mo
-  69. https://aws.amazon.com/cn/what-is-aws/?nc2=h_mo
-  70. https://aws.amazon.com/cn/getting-started/?nc2=h_mo
-  71. https://aws.amazon.com/documentation-overview/?nc2=h_mo
-  72. https://aws.amazon.com/cn/training/?nc2=h_mo
-  73. https://aws.amazon.com/cn/developer/?nc2=h_mo
-  74. https://aws.amazon.com/cn/solutions/case-studies/?nc2=h_mo
-  75. https://aws.amazon.com/cn/partners/?nc2=h_mo
-  76. https://aws.amazon.com/marketplace/?nc2=h_mo
-  77. https://console.aws.amazon.com/support/home?nc2=h_ql_cu
-  78. https://repost.aws/
-  79. https://console.aws.amazon.com/console/home
-  80. https://aws.amazon.com/cn/console/mobile/
-  81. https://aws.amazon.com/cn/security/?nc=sn&loc=0
-  82. https://aws.amazon.com/cn/products/security/?nc=sn&loc=2
-  83. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  84. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  85. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  86. https://aws.amazon.com/cn/security/blogs/
-  87. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  88. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  89. https://aws.amazon.com/cn/security/cryptographic-computing/
-  90. https://aws.amazon.com/cn/security/opensource/
-  91. https://aws.amazon.com/cn/security/post-quantum-cryptography/
-  92. https://aws.amazon.com/cn/security/provable-security/
-  93. https://aws.amazon.com/cn/security/protecting-against-ransomware/
-  94. https://aws.amazon.com/cn/security/zero-trust/
-  95. https://aws.amazon.com/cn/compliance/auditor-learning-path/
-  96. https://aws.amazon.com/cn/compliance/
-  97. https://aws.amazon.com/cn/compliance/resources/
-  98. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
-  99. https://aws.amazon.com/cn/compliance/data-protection/
- 100. https://aws.amazon.com/cn/compliance/data-privacy/
- 101. https://aws.amazon.com/cn/compliance/digital-sovereignty/
- 102. https://aws.amazon.com/marketplace/solutions/security?ref_=mp_nav_solutions_sec
- 103. https://aws.amazon.com/cn/mssp/
- 104. https://aws.amazon.com/cn/mssp/partner-solutions/
- 105. https://aws.amazon.com/cn/security/partner-resources/
- 106. https://aws.amazon.com/cn/security/partner-solutions/
- 107. https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.content-type=*all&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=tech-category#security-identity-compliance&awsf.customer-references-product=*all
- 108. https://aws.amazon.com/architecture/security-identity-compliance/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all
- 109. https://aws.amazon.com/cn/security/security-bulletins/
- 110. https://aws.amazon.com/cn/products/security/resources/
- 111. https://aws.amazon.com/cn/security/security-learning/
- 112. https://aws.amazon.com/cn/compliance/nist/
- 113. https://aws.amazon.com/cn/compliance/iso-certified/
- 114. https://aws.amazon.com/cn/professional-services/CAF/
- 115. https://aws.amazon.com/cn/architecture/well-architected/
- 116. https://docs.aws.amazon.com/security/
- 117. https://aws.amazon.com/cn/products/security/
- 118. https://aws.amazon.com/cn/artifact/
- 119. https://aws.amazon.com/cn/compliance/auditor-learning-path/
- 120. https://aws.amazon.com/cn/well-architected-tool/
- 121. https://aws.amazon.com/cn/marketplace/solutions/security/
- 122. https://aws.amazon.com/security/partner-solutions/?partner-solutions-cards.sort-by=item.additionalFields.partnerNameLower&partner-solutions-cards.sort-order=asc&awsf.partner-solutions-filter-partner-type=*all&awsf.Filter Name: partner-solutions-filter-partner-categories=*all&awsf.partner-solutions-filter-partner-location=*all
- 123. https://aws.amazon.com/cn/compliance/contact/
- 124. https://aws.amazon.com/cn/careers/security/
- 125. https://twitter.com/AWSSecurityInfo
- 126. https://console.aws.amazon.com/console/home?nc1=f_ct&src=footer-signin-mobile
- 127. https://aws.amazon.com/cn/what-is-aws/?nc1=f_cc
- 128. https://aws.amazon.com/cn/what-is-cloud-computing/?nc1=f_cc
- 129. https://aws.amazon.com/cn/diversity-inclusion/?nc1=f_cc
- 130. https://aws.amazon.com/cn/devops/what-is-devops/?nc1=f_cc
- 131. https://aws.amazon.com/cn/containers/?nc1=f_cc
- 132. https://aws.amazon.com/cn/big-data/datalakes-and-analytics/what-is-a-data-lake/?nc1=f_cc
- 133. https://aws.amazon.com/cn/security/?nc1=f_cc
- 134. https://aws.amazon.com/cn/new/?nc1=f_cc
- 135. https://aws.amazon.com/cn/blogs/?nc1=f_cc
- 136. https://press.aboutamazon.com/press-releases/aws
- 137. https://aws.amazon.com/cn/getting-started/?nc1=f_cc
- 138. https://aws.amazon.com/cn/training/?nc1=f_cc
- 139. https://aws.amazon.com/cn/solutions/?nc1=f_cc
- 140. https://aws.amazon.com/cn/architecture/?nc1=f_cc
- 141. https://aws.amazon.com/cn/faqs/?nc1=f_dr
- 142. https://aws.amazon.com/cn/resources/analyst-reports/?nc1=f_cc
- 143. https://aws.amazon.com/cn/partners/work-with-partners/?nc1=f_dr
- 144. https://aws.amazon.com/cn/developer/?nc1=f_dr
- 145. https://aws.amazon.com/cn/developer/tools/?nc1=f_dr
- 146. https://aws.amazon.com/cn/developer/language/net/?nc1=f_dr
- 147. https://aws.amazon.com/cn/developer/language/python/?nc1=f_dr
- 148. https://aws.amazon.com/cn/developer/language/java/?nc1=f_dr
- 149. https://aws.amazon.com/cn/developer/language/php/?nc1=f_cc
- 150. https://aws.amazon.com/cn/developer/language/javascript/?nc1=f_dr
- 151. https://aws.amazon.com/cn/contact-us/?nc1=f_m
- 152. https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m
- 153. https://console.aws.amazon.com/support/home/?nc1=f_dr
- 154. https://repost.aws/?nc1=f_dr
- 155. https://repost.aws/knowledge-center/?nc1=f_dr
- 156. https://aws.amazon.com/cn/premiumsupport/?nc1=f_dr
- 157. https://aws.amazon.com/cn/legal/?nc1=f_cc
- 158. https://www.amazon.jobs/aws
- 159. https://signin.amazonaws.cn/signup?request_type=register
- 160. https://aws.amazon.com/ar/?nc1=h_ls
- 161. https://aws.amazon.com/id/?nc1=h_ls
- 162. https://aws.amazon.com/de/?nc1=h_ls
- 163. https://aws.amazon.com/?nc1=h_ls
- 164. https://aws.amazon.com/es/?nc1=h_ls
- 165. https://aws.amazon.com/fr/?nc1=h_ls
- 166. https://aws.amazon.com/it/?nc1=h_ls
- 167. https://aws.amazon.com/pt/?nc1=h_ls
- 168. https://aws.amazon.com/vi/?nc1=f_ls
- 169. https://aws.amazon.com/tr/?nc1=h_ls
- 170. https://aws.amazon.com/ru/?nc1=h_ls
- 171. https://aws.amazon.com/th/?nc1=f_ls
- 172. https://aws.amazon.com/jp/?nc1=h_ls
- 173. https://aws.amazon.com/ko/?nc1=h_ls
- 174. https://aws.amazon.com/cn/?nc1=h_ls
- 175. https://aws.amazon.com/tw/?nc1=h_ls
- 176. https://aws.amazon.com/privacy/?nc1=f_pr
- 177. https://aws.amazon.com/terms/?nc1=f_pr
- 178. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
- 179. https://aws.amazon.com/cn/compliance/shared-responsibility-model/
- 180. https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/
-
-   Hidden links:
- 182. https://twitter.com/awscloud
- 183. https://www.facebook.com/amazonwebservices
- 184. https://www.twitch.tv/aws
- 185. https://www.youtube.com/user/AmazonWebServices/Cloud/
- 186. https://aws.amazon.com/cn/podcasts/
- 187. https://pages.awscloud.com/communication-preferences?trk=homepage
+   AWS 对 Internet Explorer 的支持将于 07/31/2022 结束。受支持的浏览器包括
+   Chrome、Firefox、Edge 和 Safari。 了解详情 »
+   知道了

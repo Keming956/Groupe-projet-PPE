@@ -1,13 +1,13 @@
 
 
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
 
    [ ] 繁简
-   [2]新加坡版
-   [3]国际版 [4]中国版
-   [5]新明日报
-   [6]早报俱乐部
-   [7]电子报
+   新加坡版
+   国际版 中国版
+   新明日报
+   早报俱乐部
+   电子报
    [profile-not-login.svg] 登录/免费注册
 
    亲爱的读者，
@@ -24,29 +24,27 @@
      * [freearticle-enable.svg]
        阅读免费文�
 
-   [8]登录 [9]免费注册
+   登录 免费注册
 
-   想要解锁所有内容和福利？立即[10]订�
-   [11]新闻
-   [12]即时 [13]新加坡 [14]国际 [15]中国 [16]东南亚
-   [17]财经
-   [18]新加坡股市 [19]新加坡财经 [20]全球财经 [21]中国财经 [22]投资理财 [23]房产 [24]美国股市 [25]中小企业
-   [26]起步创新 [27]财经人物
-   [28]言论
-   [29]社论 [30]评论 [31]交流站 [32]漫画
-   [33]娱乐
-   [34]明星 [35]影视 [36]音乐 [37]韩流 [38]送礼
-   [39]生活
-   [40]热门 [41]美食 [42]特写 [43]@世代 [44]生活贴士 [45]旅行 [46]专栏 [47]文化艺术 [48]人文史地
-   [49]汽车 [50]科玩 [51]心事家事 [52]时尚与美容 [53]设计与家居 [54]特辑 [55]早报校园 [56]精选
-   [57]星座与生肖
-   [58]保健
-   [59]体育
-   [60]视频
-   [61]新闻 [62]娱乐 [63]生活 [64]系列节目 [65]直播
-   [66]早报播客
-   [67]互动新闻
-   [68]专题
+   想要解锁所有内容和福利？立即订�
+   新闻
+   即时 新加坡 国际 中国 东南亚
+   财经
+   新加坡股市 新加坡财经 全球财经 中国财经 投资理财 房产 美国股市 中小企业 起步创新 财经人物
+   言论
+   社论 评论 交流站 漫画
+   娱乐
+   明星 影视 音乐 韩流 送礼
+   生活
+   热门 美食 特写 @世代 生活贴士 旅行 专栏 文化艺术 人文史地 汽车 科玩 心事家事 时尚与美容 设计与家居 特辑 早报校园 精选
+   星座与生肖
+   保健
+   体育
+   视频
+   新闻 娱乐 生活 系列节目 直播
+   早报播客
+   互动新闻
+   专题
    [icon-search-gray.svg]
 
    (BUTTON)
@@ -65,15 +63,15 @@
      * [freearticle-enable.svg]
        阅读免费文�
 
-   [69]登录 [70]免费注册
+   登录 免费注册
 
-   想要解锁所有内容和福利？立即[71]订�
-   [72]新加坡版
-   [73]国际版 [74]中国版
+   想要解锁所有内容和福利？立即订�
+   新加坡版
+   国际版 中国版
    登录/免费注册
-   [75]新明日报
-   [76]早报俱乐部
-   [77]电子报
+   新明日报
+   早报俱乐部
+   电子报
      * 小
      * 标准
      * 大
@@ -83,27 +81,25 @@
    ____________________
    请输入关键词
    (BUTTON) [icon-search-fill.svg] [icon-search-gray.svg]
-     * [78]首页
-     * [79]新闻
-       [80]即时 [81]新加坡 [82]国际 [83]中国 [84]东南亚
-     * [85]财经
-       [86]新加坡股市 [87]新加坡财经 [88]全球财经 [89]中国财经 [90]投资理财 [91]房产 [92]美国股市
-       [93]中小企业 [94]起步创新 [95]财经人物
-     * [96]言论
-       [97]社论 [98]评论 [99]交流站 [100]漫画
-     * [101]娱乐
-       [102]明星 [103]影视 [104]音乐 [105]韩流 [106]送礼
-     * [107]生活
-       [108]热门 [109]美食 [110]特写 [111]@世代 [112]生活贴士 [113]旅行 [114]专栏
-       [115]文化艺术 [116]人文史地 [117]汽车 [118]科玩 [119]心事家事 [120]时尚与美容 [121]设计与家�
-       [122]特辑 [123]早报校园 [124]精选 [125]星座与生肖
-     * [126]保健
-     * [127]体育
-     * [128]视频
-       [129]新闻 [130]娱乐 [131]生活 [132]系列节目 [133]直播
-     * [134]早报播客
-     * [135]互动新闻
-     * [136]专题
+     * 首页
+     * 新闻
+       即时 新加坡 国际 中国 东南亚
+     * 财经
+       新加坡股市 新加坡财经 全球财经 中国财经 投资理财 房产 美国股市 中小企业 起步创新 财经人物
+     * 言论
+       社论 评论 交流站 漫画
+     * 娱乐
+       明星 影视 音乐 韩流 送礼
+     * 生活
+       热门 美食 特写 @世代 生活贴士 旅行 专栏 文化艺术 人文史地 汽车 科玩 心事家事 时尚与美容 设计与家居 特辑 早报校园 精选
+       星座与生肖
+     * 保健
+     * 体育
+     * 视频
+       新闻 娱乐 生活 系列节目 直播
+     * 早报播客
+     * 互动新闻
+     * 专题
 
      *
      *
@@ -112,12 +108,12 @@
      *
      *
 
-     * [137]新闻
-     * [138]新加坡
+     * 新闻
+     * 新加坡
 
 尚达曼：负社会和环境责任企业文化应成为主流
 
-[139]赵世楚
+赵世楚
 
    更新 /
    更新 / 2023年11月24日 6:57 PM
@@ -167,79 +163,75 @@
    12年来，社会企业咨询公司Empact共帮助52家社会企业扩大规模，提供财务和会计、资金流管理、日常运营等咨询服务。Empact副总裁叶庆辉说
    ：“我们帮助有想法和热忱的初创公司更精准地找到市场定位，更有效地与投资人沟通，从而获得青睐。”
 
-请[140]LIKE我们的官方脸书网页以获取更多新信息
+请LIKE我们的官方脸书网页以获取更多新信息
 
-   [141][fb-like.png] 赞
+   [fb-like.png] 赞
 
 热词
 
-     * [142]社会企业
-     * [143]总统府
-     * [144]尚达曼
-     * [145]特需人士
+     * 社会企业
+     * 总统府
+     * 尚达曼
+     * 特需人士
 
-   [146]新版全国人工智能策略出台 本地AI专才要增至1.5万人
-   [147]全球顶尖专家云集我国 探讨AI未来发展关键课题
-   [148][icon_newspost_2019.png]
+   新版全国人工智能策略出台 本地AI专才要增至1.5万人
+   《海峡时报》《商业时报》联办儿童慈善音乐会 为弱势孩童筹获逾200万元
+   [icon_newspost_2019.png]
 
 延伸阅读
 
-   消息：北京首创集团准备脱售新加坡子公司ECO
+   于泽远：健康码又要回来了？
 
-   林俊杰公开“7岁女儿”报喜 一家3口甜蜜画面曝光
+   网传中国部分地区健康码重新上线
 
-   陈濛庆生 众艺人纷祝贺
+   成本涨生意跌 武吉知马45年面摊将歇业
 
-   菲律宾：逾百艘中国船只进入菲海域岛礁
-   [149]
+   吴秀波宣布破产 公开被骗细节惹质疑
 
 即时新闻
 
-   国际 11分钟前
+   国际 4小时前
 
    乌克兰调整战略 一俄军少将阵亡
-   国际 1小时前
+   国际 5小时前
 
    在囚伊朗诺贝尔和平奖得主誓言继续争取人权
-   中国 1小时前
+   中国 5小时前
 
    下午察：网红官员去哪儿了？
-   新加坡 1小时前
+   新加坡 5小时前
 
    涉非法放贷活动 117人助警方调查
-   中国 1小时前
+   中国 6小时前
 
    杨绍辉打破中国男子马拉松纪录
-   中国 2小时前
+   中国 6小时前
 
    港财政司长料赤字突破1000亿港元
 
 热门
 
-     * [150]单日
-     * [151]一周
+     * 单日
+     * 一周
 
-   国际 2023年12月3日
-
-   效仿新加坡 柔大臣建议新山关卡也以扫码通关
    娱乐 2023年12月4日
 
    林俊杰公开“7岁女儿”报喜 一家3口甜蜜画面曝光
    国际 2023年12月3日
 
    马国前卫生部长蔡锐明逝世 享年80岁
-   东南亚 2023年12月2日
+   中国 2023年12月4日
 
-   12月1日起 外国旅客入境马国须填电子入境卡
-   国际 2023年12月3日
+   于泽远：健康码又要回来了？
+   新加坡 2023年12月4日
 
-   菲律宾：逾百艘中国船只进入菲海域岛礁
+   餐厅开业四个月五次遇霸王客 经理店员“赔钱赔到怕”
+   新加坡 2023年12月4日
+
+   长发男称拥机械文凭 “扒门”为测地铁车门稳不稳
    国际 2023年12月2日
 
    外国旅客入境马国前 须上网提交电子入境卡
-   新加坡 2023年11月27日
-
-   后继无人 60年老字号海鲜餐馆结束营业
    娱乐 2023年12月2日
 
    吴秀波宣布破产 公开被骗细节惹质疑
@@ -249,118 +241,121 @@
    新加坡 2023年11月29日
 
    豪雨袭马路变“小河” 水深近膝居民喊苦
+   新加坡 2023年11月27日
+
+   后继无人 60年老字号海鲜餐馆结束营业
 
 更多精彩内容
 
-     * [152]新闻
+     * 新闻
      *
-          + [153]即时
-          + [154]新加坡
-          + [155]国�
-          + [156]中国
-          + [157]东南亚
+          + 即时
+          + 新加坡
+          + 国�
+          + 中国
+          + 东南亚
 
-     * [158]财经
+     * 财经
      *
-          + [159]新加坡股市
-          + [160]新加坡财经
-          + [161]全球财经
-          + [162]中国财经
-          + [163]投资理财
-          + [164]房产
-          + [165]美国股市
-          + [166]中小企业
-          + [167]起步创新
-          + [168]财经人物
+          + 新加坡股市
+          + 新加坡财经
+          + 全球财经
+          + 中国财经
+          + 投资理财
+          + 房产
+          + 美国股市
+          + 中小企业
+          + 起步创新
+          + 财经人物
 
-     * [169]言论
+     * 言论
      *
-          + [170]社论
-          + [171]评论
-          + [172]交流站
-          + [173]漫画
-     * [174]娱乐
+          + 社论
+          + 评论
+          + 交流站
+          + 漫画
+     * 娱乐
      *
-          + [175]明星
-          + [176]影视
-          + [177]音乐
-          + [178]韩流
-          + [179]送礼
+          + 明星
+          + 影视
+          + 音乐
+          + 韩流
+          + 送礼
 
-     * [180]生活
+     * 生活
      *
-          + [181]热门
-          + [182]美食
-          + [183]特写
-          + [184]@世代
-          + [185]生活贴士
-          + [186]旅行
-          + [187]专栏
-          + [188]文化艺术
-          + [189]人文史地
-          + [190]汽车
-          + [191]科玩
-          + [192]心事家事
-          + [193]时尚与美容
-          + [194]设计与家�
-          + [195]特辑
-          + [196]早报校园
-          + [197]精选
-          + [198]星座与生肖
+          + 热门
+          + 美食
+          + 特写
+          + @世代
+          + 生活贴士
+          + 旅行
+          + 专栏
+          + 文化艺术
+          + 人文史地
+          + 汽车
+          + 科玩
+          + 心事家事
+          + 时尚与美容
+          + 设计与家�
+          + 特辑
+          + 早报校园
+          + 精选
+          + 星座与生肖
 
-     * [199]保健
-     * [200]体育
-     * [201]视频
+     * 保健
+     * 体育
+     * 视频
      *
-          + [202]新闻
-          + [203]娱乐
-          + [204]生活
-          + [205]系列节目
-          + [206]直播
-     * [207]早报播客
-     * [208]互动新闻
-     * [209]专题
+          + 新闻
+          + 娱乐
+          + 生活
+          + 系列节目
+          + 直播
+     * 早报播客
+     * 互动新闻
+     * 专题
 
-     * [210]新明日报
-     * [211]早报俱乐部
-     * [212]电子报
-     * [213]国际版
-     * [214]中国版
+     * 新明日报
+     * 早报俱乐部
+     * 电子报
+     * 国际版
+     * 中国版
 
-   [215]关于我们
-   [216]常见问题
-   [217]联络我们
-   [218]关注我们
-   [219]广告联络
-   [220]投函/投稿
-   [221]加入我们
-   [222][x-vector.png]
-   [223][appstore_new.png]
-   [224][googleplay_new.png]
+   关于我们
+   常见问题
+   联络我们
+   关注我们
+   广告联络
+   投函/投稿
+   加入我们
+   [x-vector.png]
+   [appstore_new.png]
+   [googleplay_new.png]
 
    热线
 
-   新报业媒体总机 [225]63196319
+   新报业媒体总机 63196319
 
-   订阅热线 [226]63883838
+   订阅热线 63883838
 
-   早报广告联系 [227]63196319
+   早报广告联系 63196319
 
-   新闻热线 [228]1800-7416388 或 [229]92288736
-     * [230]新报业媒体网站
-     * [231]网络条款
-     * [232]隐私政策
-     * [233]个人资料保护
-     * [234]全检索
-     * [235]ZShop集品店
-     * [236]海峡时报
-     * [237]商业时报
+   新闻热线 1800-7416388 或 92288736
+     * 新报业媒体网站
+     * 网络条款
+     * 隐私政策
+     * 个人资料保护
+     * 全检索
+     * ZShop集品店
+     * 海峡时报
+     * 商业时报
 
    [zb-logo-footer.png]
 
    MCI (P) 043/10/2023, MCI (P) 045/10/2023
    新报业媒体有限公司版权所有（公司登记号：202120748H）
-   在中国的用户请游览 [238]zaobao.com
+   在中国的用户请游览 zaobao.com
 
    提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。
 
@@ -368,289 +363,3 @@
    [icon-search-gray.svg] ____________________
    (BUTTON) 搜索
    请输入关键词
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-K4JWN4Q
-   2. https://www.zaobao.com.sg/news/singapore/story20231124-1452137
-   3. https://www.zaobao.com.sg/global
-   4. https://www.zaobao.com.sg/cn
-   5. https://www.zaobao.com.sg/publication/xin-ming-ri-bao
-   6. https://www.zaobao.com.sg/zbclub
-   7. https://www.zaobao.com.sg/epapers
-   8. javascript:;
-   9. javascript:;
-  10. https://subscribe.sph.com.sg/zh/publications-zb/?utm_campaign=zb_subscription&utm_medium=sph-publication&utm_source=zb&utm_content=subscribebutton-header
-  11. https://www.zaobao.com.sg/news
-  12. https://www.zaobao.com.sg/realtime
-  13. https://www.zaobao.com.sg/news/singapore
-  14. https://www.zaobao.com.sg/news/world
-  15. https://www.zaobao.com.sg/news/china
-  16. https://www.zaobao.com.sg/news/sea
-  17. https://www.zaobao.com.sg/finance
-  18. https://stock.zaobao.com.sg/
-  19. https://www.zaobao.com.sg/finance/singapore
-  20. https://www.zaobao.com.sg/finance/world
-  21. https://www.zaobao.com.sg/finance/china
-  22. https://www.zaobao.com.sg/finance/invest
-  23. https://www.zaobao.com.sg/finance/real-estate
-  24. https://www.zaobao.com.sg/finance/usstock
-  25. https://www.zaobao.com.sg/finance/sme
-  26. https://www.zaobao.com.sg/finance/startup
-  27. https://www.zaobao.com.sg/finance/personalities
-  28. https://www.zaobao.com.sg/forum
-  29. https://www.zaobao.com.sg/forum/editorial
-  30. https://www.zaobao.com.sg/forum/views
-  31. https://www.zaobao.com.sg/forum/talk
-  32. https://www.zaobao.com.sg/forum/comic
-  33. https://www.zaobao.com.sg/entertainment
-  34. https://www.zaobao.com.sg/entertainment/celebs
-  35. https://www.zaobao.com.sg/entertainment/movies-and-tv
-  36. https://www.zaobao.com.sg/entertainment/music
-  37. https://www.zaobao.com.sg/entertainment/k-pop
-  38. https://www.zaobao.com.sg/entertainment/giveaway
-  39. https://www.zaobao.com.sg/lifestyle
-  40. https://www.zaobao.com.sg/lifestyle/trending
-  41. https://www.zaobao.com.sg/lifestyle/food
-  42. https://www.zaobao.com.sg/lifestyle/feature
-  43. https://www.zaobao.com.sg/lifestyle/gen
-  44. https://www.zaobao.com.sg/lifestyle/life-hacks
-  45. https://www.zaobao.com.sg/lifestyle/travel
-  46. https://www.zaobao.com.sg/lifestyle/columns
-  47. https://www.zaobao.com.sg/lifestyle/culture
-  48. https://www.zaobao.com.sg/lifestyle/history-heritage
-  49. https://www.zaobao.com.sg/lifestyle/motoring
-  50. https://www.zaobao.com.sg/lifestyle/gadget
-  51. https://www.zaobao.com.sg/lifestyle/familynlove
-  52. https://www.zaobao.com.sg/lifestyle/fashion-beauty
-  53. https://www.zaobao.com.sg/lifestyle/design-decor
-  54. https://www.zaobao.com.sg/lifestyle/supplement
-  55. https://www.zaobao.com.sg/lifestyle/campus
-  56. https://www.zaobao.com.sg/lifestyle/others
-  57. https://www.zaobao.com.sg/horoscope
-  58. https://www.zaobao.com.sg/lifestyle/health
-  59. https://www.zaobao.com.sg/news/sports
-  60. https://www.zaobao.com.sg/videos
-  61. https://www.zaobao.com.sg/videos/news
-  62. https://www.zaobao.com.sg/videos/entertainment
-  63. https://www.zaobao.com.sg/videos/lifestyle
-  64. https://www.zaobao.com.sg/video-series
-  65. https://www.zaobao.com.sg/livestream
-  66. https://www.zaobao.com.sg/podcast
-  67. https://www.zaobao.com.sg/interactive-graphics
-  68. https://www.zaobao.com.sg/special
-  69. javascript:;
-  70. javascript:;
-  71. https://subscribe.sph.com.sg/zh/publications-zb/?utm_campaign=zb_subscription&utm_medium=sph-publication&utm_source=zb&utm_content=subscribebutton-header
-  72. https://www.zaobao.com.sg/news/singapore/story20231124-1452137
-  73. https://www.zaobao.com.sg/global
-  74. https://www.zaobao.com.sg/cn
-  75. https://www.zaobao.com.sg/publication/xin-ming-ri-bao
-  76. https://www.zaobao.com.sg/zbclub
-  77. https://www.zaobao.com.sg/epapers
-  78. https://www.zaobao.com.sg/
-  79. https://www.zaobao.com.sg/news
-  80. https://www.zaobao.com.sg/realtime
-  81. https://www.zaobao.com.sg/news/singapore
-  82. https://www.zaobao.com.sg/news/world
-  83. https://www.zaobao.com.sg/news/china
-  84. https://www.zaobao.com.sg/news/sea
-  85. https://www.zaobao.com.sg/finance
-  86. https://stock.zaobao.com.sg/
-  87. https://www.zaobao.com.sg/finance/singapore
-  88. https://www.zaobao.com.sg/finance/world
-  89. https://www.zaobao.com.sg/finance/china
-  90. https://www.zaobao.com.sg/finance/invest
-  91. https://www.zaobao.com.sg/finance/real-estate
-  92. https://www.zaobao.com.sg/finance/usstock
-  93. https://www.zaobao.com.sg/finance/sme
-  94. https://www.zaobao.com.sg/finance/startup
-  95. https://www.zaobao.com.sg/finance/personalities
-  96. https://www.zaobao.com.sg/forum
-  97. https://www.zaobao.com.sg/forum/editorial
-  98. https://www.zaobao.com.sg/forum/views
-  99. https://www.zaobao.com.sg/forum/talk
- 100. https://www.zaobao.com.sg/forum/comic
- 101. https://www.zaobao.com.sg/entertainment
- 102. https://www.zaobao.com.sg/entertainment/celebs
- 103. https://www.zaobao.com.sg/entertainment/movies-and-tv
- 104. https://www.zaobao.com.sg/entertainment/music
- 105. https://www.zaobao.com.sg/entertainment/k-pop
- 106. https://www.zaobao.com.sg/entertainment/giveaway
- 107. https://www.zaobao.com.sg/lifestyle
- 108. https://www.zaobao.com.sg/lifestyle/trending
- 109. https://www.zaobao.com.sg/lifestyle/food
- 110. https://www.zaobao.com.sg/lifestyle/feature
- 111. https://www.zaobao.com.sg/lifestyle/gen
- 112. https://www.zaobao.com.sg/lifestyle/life-hacks
- 113. https://www.zaobao.com.sg/lifestyle/travel
- 114. https://www.zaobao.com.sg/lifestyle/columns
- 115. https://www.zaobao.com.sg/lifestyle/culture
- 116. https://www.zaobao.com.sg/lifestyle/history-heritage
- 117. https://www.zaobao.com.sg/lifestyle/motoring
- 118. https://www.zaobao.com.sg/lifestyle/gadget
- 119. https://www.zaobao.com.sg/lifestyle/familynlove
- 120. https://www.zaobao.com.sg/lifestyle/fashion-beauty
- 121. https://www.zaobao.com.sg/lifestyle/design-decor
- 122. https://www.zaobao.com.sg/lifestyle/supplement
- 123. https://www.zaobao.com.sg/lifestyle/campus
- 124. https://www.zaobao.com.sg/lifestyle/others
- 125. https://www.zaobao.com.sg/horoscope
- 126. https://www.zaobao.com.sg/lifestyle/health
- 127. https://www.zaobao.com.sg/news/sports
- 128. https://www.zaobao.com.sg/videos
- 129. https://www.zaobao.com.sg/videos/news
- 130. https://www.zaobao.com.sg/videos/entertainment
- 131. https://www.zaobao.com.sg/videos/lifestyle
- 132. https://www.zaobao.com.sg/video-series
- 133. https://www.zaobao.com.sg/livestream
- 134. https://www.zaobao.com.sg/podcast
- 135. https://www.zaobao.com.sg/interactive-graphics
- 136. https://www.zaobao.com.sg/special
- 137. https://www.zaobao.com.sg/news
- 138. https://www.zaobao.com.sg/news/singapore
- 139. https://www.zaobao.com.sg/byline/zhao-shi-chu
- 140. https://www.facebook.com/zaobaosg
- 141. https://www.facebook.com/zaobaosg
- 142. https://www.zaobao.com.sg/keywords/she-hui-qi-ye
- 143. https://www.zaobao.com.sg/keywords/zong-tong-fu
- 144. https://www.zaobao.com.sg/keywords/shang-da-man
- 145. https://www.zaobao.com.sg/keywords/te-xu-ren-shi
- 146. https://www.zaobao.com.sg/news/singapore/story20231204-1454163
- 147. https://www.zaobao.com.sg/news/singapore/story20231204-1454164
- 148. https://newspost.newslink.sg/?publication=ZB&date=11/24/2023&title=
- 149. https://www.zaobao.com.sg/realtime?ref=sidebar-realtime-header
- 150. https://www.zaobao.com.sg/news/singapore/story20231124-1452137#popular-desktop-day
- 151. https://www.zaobao.com.sg/news/singapore/story20231124-1452137#popular-desktop-week
- 152. https://www.zaobao.com.sg/news
- 153. https://www.zaobao.com.sg/realtime
- 154. https://www.zaobao.com.sg/news/singapore
- 155. https://www.zaobao.com.sg/news/world
- 156. https://www.zaobao.com.sg/news/china
- 157. https://www.zaobao.com.sg/news/sea
- 158. https://www.zaobao.com.sg/finance
- 159. https://stock.zaobao.com.sg/
- 160. https://www.zaobao.com.sg/finance/singapore
- 161. https://www.zaobao.com.sg/finance/world
- 162. https://www.zaobao.com.sg/finance/china
- 163. https://www.zaobao.com.sg/finance/invest
- 164. https://www.zaobao.com.sg/finance/real-estate
- 165. https://www.zaobao.com.sg/finance/usstock
- 166. https://www.zaobao.com.sg/finance/sme
- 167. https://www.zaobao.com.sg/finance/startup
- 168. https://www.zaobao.com.sg/finance/personalities
- 169. https://www.zaobao.com.sg/forum
- 170. https://www.zaobao.com.sg/forum/editorial
- 171. https://www.zaobao.com.sg/forum/views
- 172. https://www.zaobao.com.sg/forum/talk
- 173. https://www.zaobao.com.sg/forum/comic
- 174. https://www.zaobao.com.sg/entertainment
- 175. https://www.zaobao.com.sg/entertainment/celebs
- 176. https://www.zaobao.com.sg/entertainment/movies-and-tv
- 177. https://www.zaobao.com.sg/entertainment/music
- 178. https://www.zaobao.com.sg/entertainment/k-pop
- 179. https://www.zaobao.com.sg/entertainment/giveaway
- 180. https://www.zaobao.com.sg/lifestyle
- 181. https://www.zaobao.com.sg/lifestyle/trending
- 182. https://www.zaobao.com.sg/lifestyle/food
- 183. https://www.zaobao.com.sg/lifestyle/feature
- 184. https://www.zaobao.com.sg/lifestyle/gen
- 185. https://www.zaobao.com.sg/lifestyle/life-hacks
- 186. https://www.zaobao.com.sg/lifestyle/travel
- 187. https://www.zaobao.com.sg/lifestyle/columns
- 188. https://www.zaobao.com.sg/lifestyle/culture
- 189. https://www.zaobao.com.sg/lifestyle/history-heritage
- 190. https://www.zaobao.com.sg/lifestyle/motoring
- 191. https://www.zaobao.com.sg/lifestyle/gadget
- 192. https://www.zaobao.com.sg/lifestyle/familynlove
- 193. https://www.zaobao.com.sg/lifestyle/fashion-beauty
- 194. https://www.zaobao.com.sg/lifestyle/design-decor
- 195. https://www.zaobao.com.sg/lifestyle/supplement
- 196. https://www.zaobao.com.sg/lifestyle/campus
- 197. https://www.zaobao.com.sg/lifestyle/others
- 198. https://www.zaobao.com.sg/horoscope
- 199. https://www.zaobao.com.sg/lifestyle/health
- 200. https://www.zaobao.com.sg/news/sports
- 201. https://www.zaobao.com.sg/videos
- 202. https://www.zaobao.com.sg/videos/news
- 203. https://www.zaobao.com.sg/videos/entertainment
- 204. https://www.zaobao.com.sg/videos/lifestyle
- 205. https://www.zaobao.com.sg/video-series
- 206. https://www.zaobao.com.sg/livestream
- 207. https://www.zaobao.com.sg/podcast
- 208. https://www.zaobao.com.sg/interactive-graphics
- 209. https://www.zaobao.com.sg/special
- 210. https://www.zaobao.com.sg/publication/xin-ming-ri-bao
- 211. https://www.zaobao.com.sg/zbclub
- 212. https://www.zaobao.com.sg/epapers
- 213. https://www.zaobao.com.sg/global
- 214. https://www.zaobao.com.sg/cn
- 215. https://www.zaobao.com.sg/about-us
- 216. https://www.zaobao.com.sg/faq
- 217. https://www.zaobao.com.sg/contact-us
- 218. https://www.zaobao.com.sg/products
- 219. https://www.zaobao.com.sg/advertise
- 220. https://www.zaobao.com.sg/contribute
- 221. https://www.stjobs.sg/sph?q=zaobao
- 222. https://twitter.com/zaobaosg
- 223. https://itunes.apple.com/us/app/lian-he-zao-bao/id654946831?ls=1&amp;mt=8
- 224. https://play.google.com/store/apps/details?id=com.zb.sph.zaobaosingapore
- 225. tel:63196319
- 226. tel:63883838
- 227. tel:63196319
- 228. tel:1800-7416388
- 229. tel:92288736
- 230. https://www.sph.com.sg/
- 231. https://www.sph.com.sg/legal/website_tnc/
- 232. https://www.sph.com.sg/legal/sph_privacy/
- 233. https://www.sph.com.sg/legal/pdpa/
- 234. https://newslink.sg/
- 235. https://zshop.zaobao.sg/
- 236. https://www.straitstimes.com/
- 237. https://www.businesstimes.com.sg/
- 238. https://www.zaobao.com/
-
-   Hidden links:
- 240. https://www.zaobao.com.sg/
- 241. https://www.zaobao.com.sg/
- 242. https://www.zaobao.com.sg/
- 243. https://www.zaobao.com.sg/
- 244. https://www.facebook.com/sharer/sharer.php?u=https%3A//www.zaobao.com.sg/news/singapore/story20231124-1452137
- 245. https://twitter.com/intent/tweet?text=%E5%B0%9A%E8%BE%BE%E6%9B%BC%EF%BC%9A%E8%B4%9F%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%AF%E5%A2%83%E8%B4%A3%E4%BB%BB%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81&url=https%3A//www.zaobao.com.sg/news/singapore/story20231124-1452137
- 246. https://www.addtoany.com/ext/wechat/share/#url=https://www.zaobao.com.sg/news/singapore/story20231124-1452137&title=%E5%B0%9A%E8%BE%BE%E6%9B%BC%EF%BC%9A%E8%B4%9F%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%AF%E5%A2%83%E8%B4%A3%E4%BB%BB%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81
- 247. https://api.whatsapp.com/send?text=%E5%B0%9A%E8%BE%BE%E6%9B%BC%EF%BC%9A%E8%B4%9F%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%AF%E5%A2%83%E8%B4%A3%E4%BB%BB%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%20https%3A//www.zaobao.com.sg/news/singapore/story20231124-1452137
- 248. https://t.me/share/url?url=https%3A//www.zaobao.com.sg/news/singapore/story20231124-1452137&text=%E5%B0%9A%E8%BE%BE%E6%9B%BC%EF%BC%9A%E8%B4%9F%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%AF%E5%A2%83%E8%B4%A3%E4%BB%BB%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81
- 249. mailto:?subject=%E5%B0%9A%E8%BE%BE%E6%9B%BC%EF%BC%9A%E8%B4%9F%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%AF%E5%A2%83%E8%B4%A3%E4%BB%BB%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81&body=https%3A//www.zaobao.com.sg/news/singapore/story20231124-1452137
- 250. https://www.zaobao.com.sg/realtime/singapore/story20231201-1453646?ref=sidebar-list-recommend
- 251. https://www.zaobao.com.sg/entertainment/story20231204-1453993?ref=sidebar-list-recommend
- 252. https://www.zaobao.com.sg/entertainment/story20231201-1453521?ref=sidebar-list-recommend
- 253. https://www.zaobao.com.sg/realtime/world/story20231203-1453888?ref=sidebar-list-recommend
- 254. https://www.zaobao.com.sg/realtime/world/story20231204-1454162?ref=sidebar-realtime
- 255. https://www.zaobao.com.sg/realtime/world/story20231204-1454146?ref=sidebar-realtime
- 256. https://www.zaobao.com.sg/realtime/china/story20231204-1454144?ref=sidebar-realtime
- 257. https://www.zaobao.com.sg/realtime/singapore/story20231204-1454141?ref=sidebar-realtime
- 258. https://www.zaobao.com.sg/realtime/china/story20231204-1454032?ref=sidebar-realtime
- 259. https://www.zaobao.com.sg/realtime/china/story20231204-1454053?ref=sidebar-realtime
- 260. https://www.zaobao.com.sg/news/singapore/story20231124-1452137?ref=sidebar-realtime
- 261. https://www.zaobao.com.sg/realtime/world/story20231203-1453897?ref=sidebar-daily-popular
- 262. https://www.zaobao.com.sg/entertainment/story20231204-1453993?ref=sidebar-daily-popular
- 263. https://www.zaobao.com.sg/realtime/world/story20231203-1453933?ref=sidebar-daily-popular
- 264. https://www.zaobao.com.sg/news/sea/story20231202-1453817?ref=sidebar-daily-popular
- 265. https://www.zaobao.com.sg/realtime/world/story20231203-1453888?ref=sidebar-daily-popular
- 266. https://www.zaobao.com.sg/realtime/world/story20231202-1453683?ref=sidebar-weekly-popular
- 267. https://www.zaobao.com.sg/news/singapore/story20231127-1452596?ref=sidebar-weekly-popular
- 268. https://www.zaobao.com.sg/entertainment/story20231202-1453720?ref=sidebar-weekly-popular
- 269. https://www.zaobao.com.sg/realtime/china/story20231128-1452883?ref=sidebar-weekly-popular
- 270. https://www.zaobao.com.sg/news/singapore/story20231129-1453041?ref=sidebar-weekly-popular
- 271. https://www.zaobao.com.sg/special/zaobao100?ref=website&utm_medium=side-banner&utm_campaign=zaobao100
- 272. https://www.zaobao.com.sg/interactive/zb100scroll?utm_source=website&utm_medium=side-banner&utm_content=zb100scroll&utm_campaign=zb100
- 273. https://interactive.zaobao.com/zaobao-centennial/oral-history/?utm_source=website&utm_medium=side-banner&utm_content=oral-history&utm_campaign=zb100
- 274. https://www.zaobao.com.sg/zbclub/?ref=website&utm_medium=side-banner&utm_campaign=ZBclub
- 275. https://www.facebook.com/zaobaosg
- 276. https://www.youtube.com/zaobaodotsg
- 277. https://www.instagram.com/zaobaosg/
- 278. https://t.me/zaobaosg
- 279. https://www.weibo.com/zaobaocom
- 280. https://www.zaobao.com.sg/products#wechat
- 281. mailto:zbonline@sph.com.sg

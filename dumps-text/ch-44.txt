@@ -1,67 +1,66 @@
-    #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
+    #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate
 
-   [16]skip navigation
+   skip navigation
 
-   IFRAME: [17]https://www.googletagmanager.com/ns.html?id=GTM-NDHW254
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NDHW254
 
-   [18]CWT Logo
+   CWT Logo
 
-     * [19]差旅管理
+     * 差旅管理
           + 重启差�
-               o [20]旅行�
-               o [21]差旅经理
-               o [22]搜索旅行限制
-          + [23]开启体验
-               o [24]差旅政策
-          + [25]旅行者协助
-               o [26]myCWT中国版
-          + [27]技术创新
-               o [28]技术赋能
-          + [29]风险管理
-               o [30]安全与保障
-          + [31]投资回报与差旅报告
-               o [32]数据洞察
-          + [33]差旅住宿
-          + [34]差旅咨询
-          + [35]能源、资源与海洋交通
-          + [36]航空分销与NDC
-     * [37]会议与活动
-          + [38]虚拟活动
-          + [39]预定会议场地
-     * [40]关于我们
-          + [41]人才筑基
-               o [42]中国区管理团队
-          + [43]企业使命
-          + [44]企业发展
-          + [45]道德与合规
-          + [46]CWT概况
-          + [47]我们的责任 - ESG
-          + [48]招贤纳士
-          + [49]可访问性声明
-     * [50]新闻媒体中心
-          + [51]Blog
-          + [52]活动与网络研讨会
-          + [53]新闻中心
-          + [54]CWT播客
-          + [55]新闻发布
-          + [56]成功案例
-     * [57]联系我们
-          + [58]了解我们
-          + [59]旅行者协助
-          + [60]媒体联络方式
+               o 旅行�
+               o 差旅经理
+               o 搜索旅行限制
+          + 开启体验
+               o 差旅政策
+          + 旅行者协助
+               o myCWT中国版
+          + 技术创新
+               o 技术赋能
+          + 风险管理
+               o 安全与保障
+          + 投资回报与差旅报告
+               o 数据洞察
+          + 差旅住宿
+          + 差旅咨询
+          + 能源、资源与海洋交通
+          + 航空分销与NDC
+     * 会议与活动
+          + 虚拟活动
+          + 预定会议场地
+     * 关于我们
+          + 人才筑基
+               o 中国区管理团队
+          + 企业使命
+          + 企业发展
+          + 道德与合规
+          + CWT概况
+          + 我们的责任 - ESG
+          + 招贤纳士
+          + 可访问性声明
+     * 新闻媒体中心
+          + Blog
+          + 活动与网络研讨会
+          + 新闻中心
+          + CWT播客
+          + 新闻发布
+          + 成功案例
+     * 联系我们
+          + 了解我们
+          + 旅行者协助
+          + 媒体联络方式
 
-   [61]SEARCH
-   [62]选择语言 (中文) [63]旅行者登陆
+   SEARCH
+   选择语言 (中文) 旅行者登陆
    (BUTTON) close modal
 
    Select your preferred language
-     * [64]Deutsch [65]English [66]English (Australia) [67]English (China)
-       [68]English (India)
-     * [69]English (United Kingdom) [70]Español (Latinoamérica)
-       [71]Español (España) [72]Français [73]Italiano
-     * [74]Português (Brasil) [75]Suomi [76]Svenska [77]中文
+     * Deutsch English English (Australia) English (China) English (India)
+     * English (United Kingdom) Español (Latinoamérica) Español (España)
+       Français Italiano
+     * Português (Brasil) Suomi Svenska 中文
 
    Location Finder Type location name in English ____________________
 
@@ -78,36 +77,36 @@ CWT环境、社会与公司治理
 
 保持信息无缝联结 - 媒体中心
 
-   如需了解更多资讯，[78]请点击CWT环境、社会与企业治理（ESG）
+   如需了解更多资讯，请点击CWT环境、社会与企业治理（ESG）
 
 ESG报告
 
 
-   [79]了解更多
+   了解更多
 
 ESG承诺
 
 
-   [80]了解更多
+   了解更多
 
 可持续性差旅服务
 
 
-   [81]了解更多
+   了解更多
 
 ESG认可
 
 
-   [82]了解更多
+   了解更多
 
 奖项
 
 
-   [83]了解更多
+   了解更多
 
 国际原则
 
-   [84]了解更多
+   了解更多
 
 阅读最新ESG报告
 
@@ -116,120 +115,119 @@ CWT如何成为ESG方面的全球领导企业？
    环境、社会和企业治理（ESG）是CWT思考和行动的核心。阅读我们的ESG报告，了解CWT在ESG方面的实践行动，CWT对ESG的商业承诺，以及
    未来具体的重点目标。
 
-   [85]阅读2022年度ESG报告
+   阅读2022年度ESG报告
 
 
-   [86]CWT ESG Report 2022 cover
+   CWT ESG Report 2022 cover
 
 往期ESG/企业社会责任报告
 
 2021
 
-   [87]企业社会责任报告
+   企业社会责任报告
 
 2020
 
-   [88]企业社会责任报告
+   企业社会责任报告
 
 2019
 
-   [89]企业社会责任报告
+   企业社会责任报告
 
 2018
 
-   [90]企业社会责任报告
-   [91]企业社会责任信息图表
+   企业社会责任报告
+   企业社会责任信息图表
 
 2017
 
-   [92]企业社会责任报告
-   [93]企业社会责任信息图表
+   企业社会责任报告
+   企业社会责任信息图表
 
 2016
 
-   [94]企业社会责任报告
-   [95]企业社会责任海报
+   企业社会责任报告
+   企业社会责任海报
 
 2015
 
-   [96]企业社会责任报告
-   [97]GRI Index
-   [98]企业社会责任报告（简版）
+   企业社会责任报告
+   GRI Index
+   企业社会责任报告（简版）
 
 2013
 
-   [99]企业社会责任报告
-   [100]企业社会责任报告（简版）
+   企业社会责任报告
+   企业社会责任报告（简版）
 
 2012
 
-   [101]企业社会责任报告
-   [102]企业社会责任报告（简版）
+   企业社会责任报告
+   企业社会责任报告（简版）
 
 ESG的商业承诺
 
-   [103]CWT全球环境宪�
+   CWT全球环境宪�
 
-   [104]CWT全球健康与安全宪�
+   CWT全球健康与安全宪�
 
-   [105]CWT商业道德与行为准则
+   CWT商业道德与行为准则
 
-   [106]CWT反对奴隶制和人口贩运的声明
+   CWT反对奴隶制和人口贩运的声明
 
 
 CWT多元化与包容性章程
 
-   [107]英语 | [108]法语 | [109]德语 | [110]中文 | [111]葡萄牙语 | [112]西班牙语
+   英语 | 法语 | 德语 | 中文 | 葡萄牙语 | 西班牙语
 
 负责任的供应商准则
 
-   [113]英语 | [114]法语 | [115]德语 | [116]意大利语 | [117]中文 | [118]葡萄牙语 |
-   [119]西班牙语
+   英语 | 法语 | 德语 | 意大利语 | 中文 | 葡萄牙语 | 西班牙语
 
 国际原则
 
    CWT全力支持联合国全球契约及其十项原则
 
-   [120]了解更多
+   了解更多
 
    CWT选择了6项我们相信能够给予全力支持的可持续发展目标与支持项目
-   [121]了解更多
+   了解更多
 
 
    每年，CWT都会向CDP报告我们的环境战略和碳排放量。
 
-   [122]了解更多
+   了解更多
 
 了解CWT践行企业社会责任的商业模式
 
-   [123]联系我们
+   联系我们
 
 CWT解决方案
 
-     * [124]差旅管理
-     * [125]会议与活动
-     * [126]差旅咨询
+     * 差旅管理
+     * 会议与活动
+     * 差旅咨询
 
 企业概览
 
-     * [127]关于我们
-     * [128]技术赋能
-     * [129]企业社会责任
-     * [130]招贤纳士
-     * [131]媒体中心
+     * 关于我们
+     * 技术赋能
+     * 企业社会责任
+     * 招贤纳士
+     * 媒体中心
 
 技术支持
 
-     * [132]紧急服务
-     * [133]myCWT
+     * 紧急服务
+     * myCWT
 
-   [134]了解更多
+   了解更多
 
 联系我们
 
-   遵循本网站[135]使用条款 | 我们致力于保护客户及其旅行者的个人信息安全。
+   遵循本网站使用条款 | 我们致力于保护客户及其旅行者的个人信息安全。
 
-   阅读CWT [136]全球隐私政策 | [137]Cookies政策 | [138]网站地图 | ©2023 @CWT
+   阅读CWT 全球隐私政策 | Cookies政策 | 网站地图 | ©2023 @CWT
 
 
    CWT Logo
@@ -260,8 +258,8 @@ Learn more
 
 Learn more about our travel management offering
 
-   Travelers: [139]manage your travel here. The below form is for
-   inquiries about our corporate travel management offering.
+   Travelers: manage your travel here. The below form is for inquiries
+   about our corporate travel management offering.
 
    To reach out to CWT to learn more and also receive communications
    (email or phone) on our products and services, please complete the form
@@ -294,165 +292,3 @@ Learn more about our travel management offering
    With kind regards,
 
    CWT
-
-References
-
-   Visible links:
-   1. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
-   2. https://www.mycwt.com/latin-america/es/why-choose-us/responsible-business/
-   3. https://www.mycwt.com/br/pt/why-choose-us/responsible-business/
-   4. https://www.mycwt.com/fr/fr/why-choose-us/responsible-business/
-   5. https://www.mycwt.com/se/sv/why-choose-us/responsible-business/
-   6. https://www.mycwt.com/uk/en/why-choose-us/responsible-business/
-   7. https://www.mycwt.com/fi/fi/why-choose-us/responsible-business/
-   8. https://www.mycwt.com/de/de/why-choose-us/responsible-business/
-   9. https://www.mycwt.com/why-choose-us/responsible-business/
-  10. https://www.mycwt.com/why-choose-us/responsible-business/
-  11. https://www.mycwt.com/cn/en/why-choose-us/responsible-business/
-  12. https://www.mycwt.com/cn/en/why-choose-us/responsible-business/
-  13. https://www.mycwt.com/in/en/why-choose-us/responsible-business/
-  14. https://www.mycwt.com/au/en/why-choose-us/responsible-business/
-  15. https://www.mycwt.com/it/it/why-choose-us/responsible-business/
-  16. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#page_content
-  17. https://www.googletagmanager.com/ns.html?id=GTM-NDHW254
-  18. https://www.mycwt.com/cn/zh/
-  19. https://www.mycwt.com/cn/zh/travel-management/
-  20. https://www.mycwt.com/getting-ready-to-travel/
-  21. https://www.mycwt.com/covid-19/
-  22. https://www.mycwt.com/travel-essentials/
-  23. https://www.mycwt.com/cn/zh/travel-management/getting-started/
-  24. https://www.mycwt.com/cn/zh/travel-management/getting-started/corporate-travel-policy/
-  25. https://www.mycwt.com/cn/zh/travel-management/keeping-moving/
-  26. https://www.mycwt.com/cn/zh/travel-technology/mycwt/
-  27. https://www.mycwt.com/cn/zh/insights/
-  28. https://www.mycwt.com/cn/zh/travel-technology/
-  29. https://www.mycwt.com/cn/zh/travel-management/risk-management/
-  30. https://www.mycwt.com/safety-security/
-  31. https://www.mycwt.com/cn/zh/travel-management/expense-management/
-  32. https://www.mycwt.com/cn/zh/travel-technology/analytics/
-  33. https://www.mycwt.com/cn/zh/travel-management/staying-overnight/
-  34. https://www.mycwt.com/cn/zh/travel-consulting/
-  35. https://www.mycwt.com/cn/zh/travel-management/energy-resources-marine/
-  36. https://www.mycwt.com/travel-technology/air-distribution/
-  37. https://www.mycwt.com/cn/zh/meetings-and-events/
-  38. https://www.cwt-meetings-events.com/cn/zh/meeting-and-event-solutions/virtual-events/
-  39. https://www.cwt-meetings-events.com/cn/zh/meeting-and-event-solutions/small-meetings-solutions/
-  40. https://www.mycwt.com/cn/zh/why-choose-us/
-  41. https://www.mycwt.com/cn/zh/why-choose-us/our-people/
-  42. https://www.mycwt.com/cn/zh/why-choose-us/our-people/cwt-china-leadership/
-  43. https://www.mycwt.com/cn/zh/why-choose-us/our-strategy/
-  44. https://www.mycwt.com/cn/zh/why-choose-us/our-company/our-history/
-  45. https://www.mycwt.com/cn/zh/why-choose-us/ethics-and-compliance/
-  46. https://www.mycwt.com/cn/zh/why-choose-us/our-company/cwt-at-a-glance/
-  47. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
-  48. https://careers.mycwt.com/
-  49. https://www.mycwt.com/accessibility/
-  50. https://www.mycwt.com/news/
-  51. https://www.mycwt.com/news/blog/
-  52. https://www.mycwt.com/events-and-webinars/
-  53. https://www.mycwt.com/news/
-  54. https://www.mycwt.com/podcast/
-  55. https://www.mycwt.com/news/pr/
-  56. https://www.mycwt.com/cn/zh/why-choose-us/our-success/
-  57. https://www.mycwt.com/cn/zh/contact/
-  58. https://www.mycwt.com/contact-learn-more-about-cwt/
-  59. https://www.mycwt.com/cn/zh/traveler-help/
-  60. https://www.mycwt.com/news/media-contact/
-  61. https://www.mycwt.com/cn/zh/search-results/
-  62. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
-  63. https://travel.mycwt.com/
-  64. https://www.mycwt.com/de/de/
-  65. https://www.mycwt.com/
-  66. https://www.mycwt.com/au/en/
-  67. https://www.mycwt.com/cn/en/
-  68. https://www.mycwt.com/in/en/
-  69. https://www.mycwt.com/uk/en/
-  70. https://www.mycwt.com/latin-america/es/
-  71. https://www.mycwt.com/es/es/
-  72. https://www.mycwt.com/fr/fr/
-  73. https://www.mycwt.com/it/it/
-  74. https://www.mycwt.com/br/pt/
-  75. https://www.mycwt.com/fi/fi/
-  76. https://www.mycwt.com/se/sv/
-  77. https://www.mycwt.com/cn/zh/
-  78. https://www.mycwt.com/news/articles-filter-by-tag/?tag=cwt:news/social_responsibility
-  79. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#annual-report
-  80. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#rb-commitments
-  81. https://www.mycwt.com/sustainable-business-travel/
-  82. https://ecovadis.com/
-  83. https://www.cwtsatotravel.com/news-blog/military-times-military-friendly.html?indexpath=/news-sato
-  84. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#international-principles
-  85. https://www.mycwt.com/cwt-esg-report-2022/
-  86. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/CWT-ESG-Report-2022-linked.pdf
-  87. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-2021-report.pdf
-  88. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-2019-report.pdf
-  89. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-sustainability-report-2019.pdf
-  90. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-annual-responsible-business-full-report-june-2018.pdf
-  91. https://www.mycwt.com/content/dam/vision/pdf/rbar-2018-Infographics_V3.pdf
-  92. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-sustainability-report-2017.pdf
-  93. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/Annual-RB-Report-June-2017-Infographic.pdf
-  94. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-annual-responsible-business-report-june-2016.pdf
-  95. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/responsible-business-annual-report-2016-poster-en.pdf
-  96. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/responsible-business-annual-report-june-2015.pdf
-  97. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/global-reporting-initiative-correspondence-index.pdf
-  98. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/responsible-business-annual-report-in-brief-june-2015.pdf
-  99. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-report2013.pdf
- 100. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-report2013-inbrief.pdf
- 101. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-report2012.pdf
- 102. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-business-report2012-inbrief.pdf
- 103. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/RB-global-environmental-charter.pdf
- 104. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-global-health-safety-charter.pdf
- 105. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-code-of-conduct.pdf
- 106. https://www.mycwt.com/why-choose-us/ethics-and-compliance/cwt-modern-slavery-statement/
- 107. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-EN.pdf
- 108. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-FR.pdf
- 109. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-DE.pdf
- 110. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-ZH.pdf
- 111. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-PT.pdf
- 112. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/diversity-inclusion-charter-SP.pdf
- 113. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code.pdf
- 114. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_FR.pdf
- 115. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_DE.pdf
- 116. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_IT.pdf
- 117. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_CN.pdf
- 118. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_BR.pdf
- 119. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/cwt-responsible-supplier-code_2020_ES.pdf
- 120. https://www.unglobalcompact.org/what-is-gc/mission/principles
- 121. https://www.mycwt.com/cwt-esg-report-2022/our-approach/
- 122. https://www.mycwt.com/content/dam/vision/pdf/responsible-business-ethics/rb-environment.pdf
- 123. mailto:globalesg@mycwt.com
- 124. https://www.mycwt.com/cn/zh/travel-management/
- 125. https://www.mycwt.com/cn/zh/meetings-and-events/
- 126. https://www.mycwt.com/cn/zh/travel-consulting/
- 127. https://www.mycwt.com/cn/zh/why-choose-us/our-company/
- 128. https://www.mycwt.com/cn/zh/travel-technology/
- 129. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
- 130. https://careers.mycwt.com/
- 131. https://www.mycwt.com/news/
- 132. https://www.mycwt.com/cn/zh/traveler-help/
- 133. https://www.mycwt.com/cn/zh/travel-technology/mycwt/
- 134. https://www.mycwt.com/cn/zh/travel-technology/mycwt/
- 135. https://www.mycwt.com/legal/terms-of-use/
- 136. https://www.mycwt.com/content/vision/us/en/legal/global-privacy-policy/
- 137. https://www.mycwt.com/content/vision/cn/zh/cookies-policy-zh/
- 138. https://www.mycwt.com/cn/zh/sitemap/
- 139. https://travel.mycwt.com/
-
-   Hidden links:
- 141. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#annual-report
- 142. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#rb-commitments
- 143. https://www.mycwt.com/sustainable-business-travel/
- 144. https://www.mycwt.com/news/pr/cwt-awarded-platinum-status-for-responsible-business-by-ecovadis-/
- 145. https://www.cwtsatotravel.com/news-blog/military-times-military-friendly.html?indexpath=/news-sato
- 146. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/#international-principles
- 147. https://www.unglobalcompact.org/what-is-gc/mission/principles
- 148. https://www.mycwt.com/cwt-esg-report-2022/our-approach/
- 149. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
- 150. https://twitter.com/my_CWT
- 151. https://www.linkedin.com/company/mycwt/
- 152. https://www.youtube.com/mycwt
- 153. https://www.mycwt.com/cn/zh/why-choose-us/follow-us-on-wechat/
- 154. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/
- 155. https://www.mycwt.com/traveler-help/
- 156. https://cwt.taleo.net/careersection/ex/jobsearch.ftl
- 157. https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/

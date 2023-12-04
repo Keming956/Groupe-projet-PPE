@@ -1,61 +1,59 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate [24]alternate [25]alternate
-   [26]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
 
-   IFRAME: [27]https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
 
-   [28]认证 [29]培训 [30]技术服务 [31]联系我们
+   认证 培训 技术服务 联系我们
    我们的服务
-     * [32]认证
-     * [33]培训
-     * [34]技术服务
+     * 认证
+     * 培训
+     * 技术服务
 
    Ecocert
-     * [35]关于我们
-     * [36]新闻
-     * [37]职业生涯
+     * 关于我们
+     * 新闻
+     * 职业生涯
 
    我们的业务部门
-     * [38]农食产品
-     * [39]化妆品
-     * [40]纺织品
-     * [41]林业
-     * [42]家庭护理产品
+     * 农食产品
+     * 化妆品
+     * 纺织品
+     * 林业
+     * 家庭护理产品
 
    我们的专长
-     * [43]有机农业
-     * [44]公平贸易
-     * [45]可持续农业
-     * [46]食品质量与安全
-     * [47]企业社会责任
-     * [48]生物多样性与气候变化
+     * 有机农业
+     * 公平贸易
+     * 可持续农业
+     * 食品质量与安全
+     * 企业社会责任
+     * 生物多样性与气候变化
 
    ____________________ Submit
 
 全球的
 
-   [49]Global (法语) [50]Global (英语) [51]Global (西班牙语)
+   Global (法语) Global (英语) Global (西班牙语)
 
 非洲
 
-   [52]南非 (英语) [53]突尼斯 (法语)
+   南非 (英语) 突尼斯 (法语)
 
 亚洲
 
-   [54]中国 (中文) [55]印度 (英语) [56]日本 (日语) [57]韩国 (韩语)
+   中国 (中文) 印度 (英语) 日本 (日语) 韩国 (韩语)
 
 美国
 
-   [58]加拿大 (法语) [59]加拿大 (英语) [60]哥伦比亚 (西班牙语) [61]墨西哥 (西班牙语) [62]巴西 (葡萄牙语)
-   [63]智利 (西班牙语) [64]秘鲁 (西班牙语) [65]美国 (英语) [66]阿根廷 (西班牙语)
+   加拿大 (法语) 加拿大 (英语) 哥伦比亚 (西班牙语) 墨西哥 (西班牙语) 巴西 (葡萄牙语) 智利 (西班牙语) 秘鲁 (西班牙语)
+   美国 (英语) 阿根廷 (西班牙语)
 
 欧洲
 
-   [67]土耳其 (土耳其语) [68]塞尔维亚 (塞尔维亚语) [69]德国 (德语) [70]意大利 (意大利语) [71]法国 (法语)
-   [72]瑞士 (德语) [73]罗马尼亚 (罗马尼亚语) [74]葡萄牙 (葡萄牙语)
+   土耳其 (土耳其语) 塞尔维亚 (塞尔维亚语) 德国 (德语) 意大利 (意大利语) 法国 (法语) 瑞士 (德语) 罗马尼亚 (罗马尼亚语)
+   葡萄牙 (葡萄牙语)
 
 企业社会责任
 
@@ -96,8 +94,8 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
 
 最需要的认证
 
-   [75]查看完整列表
-   [76]企业社会责任 logo 企业社会责任
+   查看完整列表
+   企业社会责任 logo 企业社会责任
 
 我们的培训方案：分享我们的专业知识
 
@@ -126,12 +124,12 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
    网络直播课堂或e-learning线上课程
 
    7小时
-   [77]查看更多培训方案
+   查看更多培训方案
 
 我们的咨询，为您的项目提供专业知识
 
    我们帮助您开发符合您目标和价值观的定制解决方案。 这是我们企业社会责任的参考资料
-   [78]发现更多
+   发现更多
    法国农食中小企业
    对生产线进行IFS认证的技术诊断
    探索ECOCERT附录
@@ -168,30 +166,30 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
 
    结果
    推出5种有机化妆品参考资料
-   [79]找到更多的引用
+   找到更多的引用
 
 查找更多Ecocert服务
 
 公平贸易
 
 
-   [80]了解更多
+   了解更多
 
 生物多样性与气候变化
 
 
-   [81]了解更多
+   了解更多
 
    为可持续发展的世界而行动
    跟进社交网络
-     * [82]查看证书
-     * [83]我们在全球的办公室
+     * 查看证书
+     * 我们在全球的办公室
 
-   [84]联系我们
-   [85]加入我们
-   [86](+86) 010-62818363
-   [87]法律声明 - [88]通用条款 - [89]资料保护政策 - [90]Cookies管理政策 - [91]未经授权的引用 -
-   [92]京ICP备09063433号-1 ©2023 GROUPE ECOCERT
+   联系我们
+   加入我们
+   (+86) 010-62818363
+   法律声明 - 通用条款 - 资料保护政策 - Cookies管理政策 - 未经授权的引用 - 京ICP备09063433号-1 ©2023
+   GROUPE ECOCERT
 
    ×
 
@@ -200,109 +198,3 @@ Ecocert，您企业社会责任 ( CSR ) 的合作伙伴
      * 无效登录
 
    (BUTTON) 取消 (BUTTON) 下一步
-
-References
-
-   Visible links:
-   1. https://www.ecocert.com/es-AR/experiencia/responsabilidad-social-empresarial
-   2. https://www.ecocert.com/pt-BR/expertise/responsabilidade-social-corporativa
-   3. https://www.ecocert.com/en-CA/expertise/corporate-social-responsibility
-   4. https://www.ecocert.com/fr-CA/expertise/responsabilite-societale-des-entreprises
-   5. https://www.ecocert.com/de-CH/expertise/corporate-social-responsibility
-   6. https://www.ecocert.com/es-CL/experiencia/responsabilidad-social-empresarial
-   7. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-   8. https://www.ecocert.com/es-CO/experiencia/responsabilidad-social-empresarial
-   9. https://www.ecocert.com/de-DE/expertise/corporate-social-responsibility
-  10. https://www.ecocert.com/fr-FR/expertise/responsabilite-societale-des-entreprises
-  11. https://www.ecocert.com/en-IN/expertise/corporate-social-responsibility
-  12. https://www.ecocert.com/it-IT/competenza/responsabilita-sociale-d-impresa
-  13. https://www.ecocert.com/ja-JP/認証/corporate-social-responsibility
-  14. https://www.ecocert.com/ko-KR/전문성/기업의-사회적 책임
-  15. https://www.ecocert.com/es-MX/experiencia/responsabilidad-social-empresarial
-  16. https://www.ecocert.com/es-PE/experiencia/responsabilidad-social-empresarial
-  17. https://www.ecocert.com/pt-PT/expertise/responsabilidade-social-corporativa
-  18. https://www.ecocert.com/ro-RO/expertiză/resposanbilitatea-corporativ-socială
-  19. https://www.ecocert.com/sr-RS/stručnjaci/korporativna-društvena-odgovornost
-  20. https://www.ecocert.com/fr-TN/expertise/responsabilite-societale-des-entreprises
-  21. https://www.ecocert.com/tr-TR/uzmanlık/kurumsal-sosyal-sorumluluk
-  22. https://www.ecocert.com/en-US/expertise/corporate-social-responsibility
-  23. https://www.ecocert.com/en/expertise/corporate-social-responsibility
-  24. https://www.ecocert.com/es/experiencia/responsabilidad-social-empresarial
-  25. https://www.ecocert.com/fr/expertise/responsabilite-societale-des-entreprises
-  26. https://www.ecocert.com/en-ZA/expertise/corporate-social-responsibility
-  27. https://www.googletagmanager.com/ns.html?id=GTM-PL96LTD
-  28. https://www.ecocert.com/zh-CN/认证
-  29. https://www.ecocert.com/zh-CN/培训
-  30. https://www.ecocert.com/zh-CN/对话框
-  31. https://www.ecocert.com/zh-CN/联系
-  32. https://www.ecocert.com/zh-CN/认证
-  33. https://www.ecocert.com/zh-CN/培训
-  34. https://www.ecocert.com/zh-CN/对话框
-  35. https://www.ecocert.com/zh-CN/关于我们
-  36. https://www.ecocert.com/zh-CN/条款清单
-  37. https://www.ecocert.com/zh-CN/职业
-  38. https://www.ecocert.com/zh-CN/业务部门/农食产品
-  39. https://www.ecocert.com/zh-CN/业务部门/化妆品
-  40. https://www.ecocert.com/zh-CN/业务部门/纺织品
-  41. https://www.ecocert.com/zh-CN/业务部门/林业
-  42. https://www.ecocert.com/zh-CN/业务部门/家庭护理产品
-  43. https://www.ecocert.com/zh-CN/专业知识/有机农业
-  44. https://www.ecocert.com/zh-CN/专业知识/公平贸易
-  45. https://www.ecocert.com/zh-CN/专业知识/可持续农业
-  46. https://www.ecocert.com/zh-CN/专业知识/食品质量与食品安全
-  47. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-  48. https://www.ecocert.com/zh-CN/专业知识/生物多样性和气候变化
-  49. https://www.ecocert.com/fr/expertise/responsabilite-societale-des-entreprises
-  50. https://www.ecocert.com/en/expertise/corporate-social-responsibility
-  51. https://www.ecocert.com/es/experiencia/responsabilidad-social-empresarial
-  52. https://www.ecocert.com/en-ZA/expertise/corporate-social-responsibility
-  53. https://www.ecocert.com/fr-TN/expertise/responsabilite-societale-des-entreprises
-  54. https://www.ecocert.com/zh-CN/专业知识/企业社会责任
-  55. https://www.ecocert.com/en-IN/expertise/corporate-social-responsibility
-  56. https://www.ecocert.com/ja-JP/認証/corporate-social-responsibility
-  57. https://www.ecocert.com/ko-KR/전문성/기업의-사회적 책임
-  58. https://www.ecocert.com/fr-CA/expertise/responsabilite-societale-des-entreprises
-  59. https://www.ecocert.com/en-CA/expertise/corporate-social-responsibility
-  60. https://www.ecocert.com/es-CO/experiencia/responsabilidad-social-empresarial
-  61. https://www.ecocert.com/es-MX/experiencia/responsabilidad-social-empresarial
-  62. https://www.ecocert.com/pt-BR/expertise/responsabilidade-social-corporativa
-  63. https://www.ecocert.com/es-CL/experiencia/responsabilidad-social-empresarial
-  64. https://www.ecocert.com/es-PE/experiencia/responsabilidad-social-empresarial
-  65. https://www.ecocert.com/en-US/expertise/corporate-social-responsibility
-  66. https://www.ecocert.com/es-AR/experiencia/responsabilidad-social-empresarial
-  67. https://www.ecocert.com/tr-TR/uzmanlık/kurumsal-sosyal-sorumluluk
-  68. https://www.ecocert.com/sr-RS/stručnjaci/korporativna-društvena-odgovornost
-  69. https://www.ecocert.com/de-DE/expertise/corporate-social-responsibility
-  70. https://www.ecocert.com/it-IT/competenza/responsabilita-sociale-d-impresa
-  71. https://www.ecocert.com/fr-FR/expertise/responsabilite-societale-des-entreprises
-  72. https://www.ecocert.com/de-CH/expertise/corporate-social-responsibility
-  73. https://www.ecocert.com/ro-RO/expertiză/resposanbilitatea-corporativ-socială
-  74. https://www.ecocert.com/pt-PT/expertise/responsabilidade-social-corporativa
-  75. https://www.ecocert.com/zh-CN/认证列表
-  76. https://www.ecocert.com/zh-CN/认证详情/FOR LIFE 标签 (企业社会责任) | Ecocert
-  77. https://www.ecocert.com/zh-CN/培训#listeFormationCard
-  78. https://www.ecocert.com/zh-CN/对话框
-  79. https://www.ecocert.com/zh-CN/参考文献列表
-  80. https://www.ecocert.com/zh-CN/专业知识/公平贸易
-  81. https://www.ecocert.com/zh-CN/专业知识/生物多样性和气候变化
-  82. https://certificat.ecocert.com/?source=ecocertcom&l=en
-  83. https://www.ecocert.com/zh-CN/办公室
-  84. https://www.ecocert.com/zh-CN/联系
-  85. https://www.ecocert.com/zh-CN/职业
-  86. tel:(+86) 010-62818363
-  87. https://www.ecocert.com/zh-CN/flatpage/法律提示
-  88. https://www.ecocert.com/zh-CN/flatpage/通用条款
-  89. https://www.ecocert.com/zh-CN/flatpage/数据保护政策
-  90. https://www.ecocert.com/zh-CN/flatpage/cookies管理策略
-  91. https://www.ecocert.com/zh-CN/flatpage/商标侵权
-  92. https://beian.miit.gov.cn/
-
-   Hidden links:
-  94. https://www.ecocert.com/zh-CN/home
-  95. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  96. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  97. https://www.ecocert.com/zh-CN/%E4%B8%93%E4%B8%9A%E7%9F%A5%E8%AF%86/%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB
-  98. https://www.facebook.com/GroupeEcocert
-  99. https://www.youtube.com/GroupeEcocert
- 100. https://fr.linkedin.com/company/groupeecocert
- 101. https://www.ecocert.com/zh-CN/%E8%81%94%E7%B3%BB

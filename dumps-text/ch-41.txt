@@ -1,22 +1,22 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]Rexel » Feed
-   [11]Rexel » 评论Feed [12]alternate [13]alternate [14]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate Rexel » Feed Rexel » 评论Feed alternate alternate
+   alternate
 
-   [15]Rexel
+   Rexel
 
-     * [16]
-     * [17]道德举报
-     * [18]
-     * [19]中文 (中国)
-          + [20]Français
-          + [21]English
-          + [22]Deutsch
-          + [23]Italiano
-          + [24]Nederlands
-          + [25]Slovenščina
-          + [26]Suomi
-          + [27]Svenska
-          + [28]中文 (中国)
+     * 
+     * 道德举报
+     * 
+     * 中文 (中国)
+          + Français
+          + English
+          + Deutsch
+          + Italiano
+          + Nederlands
+          + Slovenščina
+          + Suomi
+          + Svenska
+          + 中文 (中国)
 
    选择页面
    ____________________
@@ -29,7 +29,7 @@
    沟通和举报程序
    蓝格赛：一家有社会责任感的公司
    蓝格赛：负责任的雇主和员工
-   [29]PDF
+   PDF
    作为一名雇主，蓝格赛重视并规定了应该允许每个员工预测难度的行为，并找到应对苛刻情形的正确答案。
 
 尊严、多样性和对个人的尊重
@@ -91,55 +91,15 @@ IT 设备
 
 EXPORT :
 
-   [30]WHOLE GUIDE
-   [31]CURRENT CHAPTER
+   WHOLE GUIDE
+   CURRENT CHAPTER
 
-     * [32]实践中的道德指南
-     * [33]反腐败行为准则
-     * [34]竞争法
+     * 实践中的道德指南
+     * 反腐败行为准则
+     * 竞争法
 
-     * [35]网站地图
-     * [36]法律条文
-     * [37]图文版权所有
+     * 网站地图
+     * 法律条文
+     * 图文版权所有
 
     © 2020 Rexel
-
-References
-
-   1. https://ethique.rexel.com/guide-ethique/rexel-un-employeur-et-des-collaborateurs-responsables/
-   2. https://ethique.rexel.com/en/ethics-guide/rexel-responsible-employer-and-employees/
-   3. https://ethique.rexel.com/de/ethikleitfaden/rexel-verantwortungsbewusstsein-von-arbeitgeber-und-arbeitnehmern/
-   4. https://ethique.rexel.com/it/guida-etica/rexel-datore-di-lavoro-e-collaboratori-responsabili/
-   5. https://ethique.rexel.com/nl/ethische-gids/rexel-een-verantwoordelijke-werkgever-met-verantwoordelijke-medewerkers/
-   6. https://ethique.rexel.com/sl/eticni-kodeks/rexel-delodajalec-in-odgovorni-zaposleni/
-   7. https://ethique.rexel.com/fi/eettinen-opas/rexel-vastuullinen-tyonantaja-ja-vastuulliset-tyontekijat/
-   8. https://ethique.rexel.com/sv/etikguiden/rexel-ansvarstagande-arbetsgivare-och-medarbetare/
-   9. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/
-  10. https://ethique.rexel.com/zh/feed/
-  11. https://ethique.rexel.com/zh/comments/feed/
-  12. https://ethique.rexel.com/wp-json/wp/v2/pages/645
-  13. https://ethique.rexel.com/wp-json/oembed/1.0/embed?url=https://ethique.rexel.com/zh/%e5%ae%9e%e8%b7%b5%e4%b8%ad%e7%9a%84%e9%81%93%e5%be%b7%e6%8c%87%e5%8d%97/%e8%93%9d%e6%a0%bc%e8%b5%9b%ef%bc%9a%e8%b4%9f%e8%b4%a3%e4%bb%bb%e7%9a%84%e9%9b%87%e4%b8%bb%e5%92%8c%e5%91%98%e5%b7%a5/
-  14. https://ethique.rexel.com/wp-json/oembed/1.0/embed?url=https://ethique.rexel.com/zh/%e5%ae%9e%e8%b7%b5%e4%b8%ad%e7%9a%84%e9%81%93%e5%be%b7%e6%8c%87%e5%8d%97/%e8%93%9d%e6%a0%bc%e8%b5%9b%ef%bc%9a%e8%b4%9f%e8%b4%a3%e4%bb%bb%e7%9a%84%e9%9b%87%e4%b8%bb%e5%92%8c%e5%91%98%e5%b7%a5/&format=xml
-  15. https://ethique.rexel.com/zh/
-  16. https://ethique.rexel.com/zh/
-  17. https://www.rexel.com/en/ethical-alert/
-  18. https://www.rexel.com/en/ethic-contact/
-  19. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/#pll_switcher
-  20. https://ethique.rexel.com/guide-ethique/rexel-un-employeur-et-des-collaborateurs-responsables/
-  21. https://ethique.rexel.com/en/ethics-guide/rexel-responsible-employer-and-employees/
-  22. https://ethique.rexel.com/de/ethikleitfaden/rexel-verantwortungsbewusstsein-von-arbeitgeber-und-arbeitnehmern/
-  23. https://ethique.rexel.com/it/guida-etica/rexel-datore-di-lavoro-e-collaboratori-responsabili/
-  24. https://ethique.rexel.com/nl/ethische-gids/rexel-een-verantwoordelijke-werkgever-met-verantwoordelijke-medewerkers/
-  25. https://ethique.rexel.com/sl/eticni-kodeks/rexel-delodajalec-in-odgovorni-zaposleni/
-  26. https://ethique.rexel.com/fi/eettinen-opas/rexel-vastuullinen-tyonantaja-ja-vastuulliset-tyontekijat/
-  27. https://ethique.rexel.com/sv/etikguiden/rexel-ansvarstagande-arbetsgivare-och-medarbetare/
-  28. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/
-  29. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/#pdf-select
-  30. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/?pdf=all
-  31. https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/?pdf=1
-  32. https://ethique.rexel.com/zh/实践中的道德指南/
-  33. https://ethique.rexel.com/zh/反腐败行为准则/
-  34. https://ethique.rexel.com/zh/竞争法/
-  35. https://ethique.rexel.com/zh/网站地图/
-  36. https://ethique.rexel.com/zh/法律条文/
-  37. https://ethique.rexel.com/zh/图文版权所有/

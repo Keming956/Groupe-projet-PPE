@@ -1,34 +1,29 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate [24]alternate [25]alternate
-   [26]alternate [27]alternate [28]alternate [29]alternate [30]alternate
-   [31]alternate [32]alternate [33]alternate [34]alternate [35]alternate
-   [36]alternate [37]alternate [38]alternate [39]alternate [40]alternate
-   [41]alternate [42]alternate [43]alternate [44]alternate [45]alternate
-   [46]alternate [47]alternate [48]alternate [49]alternate [50]alternate
-   [51]alternate [52]alternate [53]alternate [54]alternate [55]alternate
-   [56]alternate [57]alternate [58]alternate [59]alternate [60]alternate
-   [61]alternate [62]alternate [63]alternate [64]alternate [65]alternate
-   [66]alternate [67]alternate [68]alternate [69]alternate [70]alternate
-   [71]alternate [72]alternate [73]alternate [74]alternate [75]alternate
-   [76]alternate [77]alternate [78]alternate [79]alternate [80]alternate
-   [81]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
 
    (BUTTON)
-     * [82]Apple
+     * Apple
      *
-          + [83]商店
-          + [84]Mac
-          + [85]iPad
-          + [86]iPhone
-          + [87]Watch
-          + [88]AirPods
-          + [89]家�
-          + [90]娱乐
-          + [91]配件
-          + [92]技术支持
+          + 商店
+          + Mac
+          + iPad
+          + iPhone
+          + Watch
+          + AirPods
+          + 家�
+          + 娱乐
+          + 配件
+          + 技术支持
      * ____________________ (BUTTON) (BUTTON)
      * 0+
 
@@ -36,8 +31,8 @@
 
    [ ]
 
-   [93]环境责任
-   [94]2023 年报告 (PDF) 立即访问
+   环境责任
+   2023 年报告 (PDF) 立即访问
 
 环境
 
@@ -52,7 +47,7 @@ Apple 产品的第一款，
    作为我们首款达成碳中和的产品，是一个重要的里程碑。我们通过在材料、清洁电力和低碳物流
    上的创新，减除了大部分的碳排放。同时，我们还大力投资以自然为本的各种项目，来抵消余下的少量碳排放。
    因为地球不能等，我们不会等。
-   [95]观看影片
+   观看影片
 
 步步按计划，
 全盘推进 。步步按计划，
@@ -61,18 +56,18 @@ Apple 产品的第一款，
      *
      * (BUTTON)
        原材料
-       2022 年出货的产品中[96]*，20% 的原材料都来自回收和可再生资源^[97]1。
+       2022 年出货的产品中*，20% 的原材料都来自回收和可再生资源^1。
      * (BUTTON)
        生产制�
        超过 300 家供应商已承诺于 2030 年在所有 Apple 产品制造中采用 100% 可再生电力，这些供应商占我们直接制造支出的
-       90% 以上^[98]2。
+       90% 以上^2。
      * (BUTTON)
        物流运输
        通过我们的物流方案，第二代 HomePod 运输过程中的排放
        减少了 80% 之多。
      * (BUTTON)
        产品使用
-       2008 年以来，产品的平均能耗降低了 70% 以上^[99]3。
+       2008 年以来，产品的平均能耗降低了 70% 以上^3。
      * (BUTTON)
        拆解回收
        超过 40000 吨电子废料在 2022 年被回收利用。
@@ -89,9 +84,9 @@ Apple 产品的第一款，
    使用回收材料是降低我们产品碳影响的方式之一，因为这类材料产生的碳足迹往往比原生材料更少。我们的目标是完全使用回收和可再生材料来制造产品，为了达
    成这个目标，我们正在寻求更多回收材料。
 
-   2022 年出货的产品中，20% 的原材料都来自回收和可再生资源^[100]1。
+   2022 年出货的产品中，20% 的原材料都来自回收和可再生资源^1。
 
-   [101]了解我们如何通过设计消除设备的碳影响 (PDF)
+   了解我们如何通过设计消除设备的碳影响 (PDF)
 
 生产 采用清洁能源
 
@@ -99,9 +94,9 @@ Apple 产品的第一款，
    的所有产品都将以 100% 清洁能源制造。
 
    超过 300 家供应商已承诺于 2030 年在所有 Apple 产品制造中采用 100% 可再生电力，这些供应商占我们直接制造支出的 90%
-   以上^[102]2。
+   以上^2。
 
-   [103]进一步了解供应商清洁能源项目 (PDF)
+   进一步了解供应商清洁能源项目 (PDF)
 
 物流 低碳运行
 
@@ -109,34 +104,34 @@ Apple 产品的第一款，
 
    通过我们的物流方案，第二代 HomePod 运输过程中的排放减少了 80% 之多。
 
-   [104]了解产品运输如何影响我们的碳足迹 (PDF)
+   了解产品运输如何影响我们的碳足迹 (PDF)
 
 设计 力求低能耗
 
    我们不断提升产品能效，力求在全球范围内减少使用 Apple 产品造成的碳足迹。对于用户为 Apple 设备充电所耗的电量，我们的目标是用
    100% 清洁电力来抵消掉。
 
-   2008 年以来，产品的平均能耗降低了 70% 以上^[105]3。
+   2008 年以来，产品的平均能耗降低了 70% 以上^3。
 
-   [106]了解我们如何设计能耗更低的产品 (PDF)
+   了解我们如何设计能耗更低的产品 (PDF)
 
 回收 产品生命周期已尽的设备
 
    Apple
    产品在设计上力求经久耐用，还有多种维修服务选项可进一步延长产品的使用寿命。在设计时，我们就会优先考虑产品生命周期已尽后的回收问题。我们所有产品
    都包含可用于制造新产品的元素，因此我们的拆解机器人 Daisy、Dave 和 Taz
-   就可以拆解设备及其组件，并从中回收金、钴、钨和稀土元素等关键材料。这些回收而来的材料可在之后用来制造新一代产品^[107]4。
+   就可以拆解设备及其组件，并从中回收金、钴、钨和稀土元素等关键材料。这些回收而来的材料可在之后用来制造新一代产品^4。
 
    超过 40000 吨电子废料在 2022 年被回收利用。
 
-   [108]进一步了解材料回收实验室 (PDF)
+   进一步了解材料回收实验室 (PDF)
 
 我们的投入遍布大自然
 
    消除产品在整个生命周期中的主要碳足迹，是我们减排的首要目标。但目前仍有一些排放在所难免。为了抵消无法避免的碳排放，我们正大力投资高品质的碳清除
    项目，帮助恢复生态系统，并支持当地社区。
 
-   [109]进一步了解 Restore Fund (PDF)
+   进一步了解 Restore Fund (PDF)
 
 意义重大的创新，
 突破性的进展。
@@ -169,28 +164,28 @@ Apple 产品的第一款，
    年开始，我们就努力寻找可再生能源并建造如太阳能电场和风电场等全新基础设施，同时帮助我们的供应商也这样做。
 
    为了进一步减少排放，我们投资了美国得克萨斯州布朗县的 IP Radian 太阳能项目等诸多可再生能源项目，力求 100% 抵消用户为碳中和
-   Apple Watch 充电所需的预估用电量^[110]5。
+   Apple Watch 充电所需的预估用电量^5。
 
 回收材料 重量占比超过 30%
 
    早从 Series 5 开始，Apple Watch 就一直使用 100% 再生铝金属来制造表壳。Series 9 也在许多部件中采用了
-   100% 回收材料，包括多个印刷电路板镀层中的金及焊料中的锡、磁体中的稀土元素、触感引擎中的钨^[111]6 和主板中的铜箔。2023
+   100% 回收材料，包括多个印刷电路板镀层中的金及焊料中的锡、磁体中的稀土元素、触感引擎中的钨^6 和主板中的铜箔。2023
    年，我们还将再生钴运用到了 Apple Watch Series 9 和 Apple Watch Ultra 2 的电池中，这让所有
    Apple 设计的电池到 2025 年都使用 100%
-   再生钴的目标，离我们又近了一步^[112]7。此外，我们还重新设计了广受喜爱的回环式运动表带，它现采用 82%
+   再生钴的目标，离我们又近了一步^7。此外，我们还重新设计了广受喜爱的回环式运动表带，它现采用 82%
    的再生纱，而且其中部分原料来自废弃的渔网。得益于这些创新举措，Series 9 的铝金属表款搭配任意新款回环式运动表带，都含有 30%
-   以上的回收成分^[113]8。
+   以上的回收成分^8。
 
 50% 及以上产品的
-物流为非空运^[114]9
+物流为非空运^9
 
    通过海运方式运输 Apple 产品，比起空运等量设备，平均减少了 95% 的二氧化碳排放量。在所有碳中和的 Apple Watch
    表款和表带中，我们采用海运等非空运物流来运输的重量占比达 50%
    及以上，用这种方式把它们从工厂运至下个目的地，我们将运输总排放量减少了近一半。我们还将 Apple Watch
-   的包装设计得更加紧凑，更小的包装让我们可以每次多运 25% 的产品。而且，新的包装还首次由 100% 的纤维制成^[115]10，这对我们于
-   2025 年从所有包装中淘汰塑料的努力，是首个重要的里程碑。
+   的包装设计得更加紧凑，更小的包装让我们可以每次多运 25% 的产品。而且，新的包装还首次由 100% 的纤维制成^10，这对我们于 2025
+   年从所有包装中淘汰塑料的努力，是首个重要的里程碑。
 
-通过在回收材料、清洁电力和物流运输上的创新，Series 9 铝金属表款搭配回环式运动表带的碳足迹减少了 78% 之多^[116]11。
+通过在回收材料、清洁电力和物流运输上的创新，Series 9 铝金属表款搭配回环式运动表带的碳足迹减少了 78% 之多^11。
 
    大力投资以自然为本的解决方案
    为了抵消 Apple Watch Series 9 余下的少量碳排放，我们正投资一系列优质碳信用的自然解决方案，其中就包括 Restore
@@ -228,7 +223,7 @@ Apple 产品的第一款，
 由创新织成的表带。
 
    我们重新设计的表带，一如既往舒适耐用。新款回环式运动表带采用 82%
-   的再生纱，其中部分材料来自废弃的渔网^[117]12。新款野径回环式表带和高山回环式表带都含有超过 30% 的回收成分。
+   的再生纱，其中部分材料来自废弃的渔网^12。新款野径回环式表带和高山回环式表带都含有超过 30% 的回收成分。
 
    为了进一步降低碳影响，我们决定从包括表带在内的所有 Apple 产品中去除皮革材质。为此，我们设计了精织斜纹来代替，这是一种华丽的新面料，采用
    68% 的消费后回收成分制成。在我们的磁力链式表带和现代风扣式表带上，精织斜纹尽显美感。
@@ -245,7 +240,7 @@ Apple 产品的第一款，
 
    早从 Series 5 开始，所有 Apple Watch 表壳都采用 100% 再生铝金属，Apple Watch Series 9 和
    Apple Watch SE 也是如此。我们特制的航空级铝金属合金轻盈耐用、抗刮防划。我们还大幅增加了 Apple Watch Ultra 2
-   中的回收材料用量，其中表壳就采用了 95% 的再生钛金属^[118]13。
+   中的回收材料用量，其中表壳就采用了 95% 的再生钛金属^13。
 
    100% Apple Watch Series 9 和 Apple Watch SE
    表壳中的再生铝金属含量。
@@ -255,7 +250,7 @@ Apple 产品的第一款，
    从使用金属和矿产到转用回收原料，我们在这方面已取得显著进展。这大大降低了我们对采矿的依赖，因为采矿不仅会造成大量碳排放，也对当地生态系统和社区
    有害。我们还首次将再生钴运用到了 Apple Watch Series 9 和 Apple Watch Ultra 2 的电池中，这让所有
    Apple 设计的电池到 2025 年都使用 100%
-   再生钴的目标，离我们又近了一步^[119]7。此外，我们也在重新利用各种废弃材料。例如，Apple Watch Ultra 2
+   再生钴的目标，离我们又近了一步^7。此外，我们也在重新利用各种废弃材料。例如，Apple Watch Ultra 2
    的天线条带就是由塑料瓶回收升级制成，并且这些塑料瓶经过改造变成了更坚固强韧的高性能材料。
 
    100% Apple Watch Series 9 和 Apple Watch Ultra 2 电池中的再生钴含量。
@@ -265,15 +260,15 @@ Apple 产品的第一款，
    Carbon Neutral
 
    Apple Watch Series 9
-   [120]阅读 (PDF)
+   阅读 (PDF)
    Carbon Neutral
 
    Apple Watch SE
-   [121]阅读 (PDF)
+   阅读 (PDF)
    Carbon Neutral
 
    Apple Watch Ultra 2
-   [122]阅读 (PDF)
+   阅读 (PDF)
 
 清洁 能源
 更来电
@@ -287,22 +282,22 @@ Apple 产品的第一款，
 
    产品能耗几乎占我们碳足迹总量的四分之一，这也直接影响每一位 Apple
    用户自身的碳足迹。设计在使用中也能耗更低的产品，是我们降低碳影响的重要举措之一。2022 年，Apple 所有的相关设备均获得了 ENERGY
-   STAR® 能源之星的卓越能效评级^[123]14。此外，Mac 电脑改用 Apple 芯片之后，能效一路跃升。而配备 M2 Pro 芯片的
-   Mac mini，与上一代产品相比碳足迹缩减将近 50%，Apple 芯片的出色能效在其中功不可没^[124]15。
+   STAR® 能源之星的卓越能效评级^14。此外，Mac 电脑改用 Apple 芯片之后，能效一路跃升。而配备 M2 Pro 芯片的
+   Mac mini，与上一代产品相比碳足迹缩减将近 50%，Apple 芯片的出色能效在其中功不可没^15。
 
 清洁能源充电
 
    减少 iPhone 碳足迹这件事越来越轻松可行，甚至在你充电时也能做到。当 iPhone 连接充电器时，iOS 16.1
-   及更新系统的“清洁能源充电”功能会查看预期充电时间内的电力来源，并根据电网使用太阳能、风能等清洁电力的时段进行优化^[125]16。我们利用很
-   多软件创新的方法来对产品耗能进行智能管控，这就是其中一例。
+   及更新系统的“清洁能源充电”功能会查看预期充电时间内的电力来源，并根据电网使用太阳能、风能等清洁电力的时段进行优化^16。我们利用很多软件创新
+   的方法来对产品耗能进行智能管控，这就是其中一例。
 
-   [126]进一步了解 iPhone 的“清洁能源充电”功能
+   进一步了解 iPhone 的“清洁能源充电”功能
 
 电网预测
 
    “电网预测”是家庭 app
    中的新工具，可显示当地电网能源供应的情况，让你知道什么时段的能源更清洁或不够清洁。你可以选择在供应更清洁电力的时段为各种设备、电动汽车充电，或
-   者运行家电，这可以帮助你减少家庭用电对气候的影响^[127]17。你还可以将“电网预测”添加为 iOS 小组件和表盘复杂功能。
+   者运行家电，这可以帮助你减少家庭用电对气候的影响^17。你还可以将“电网预测”添加为 iOS 小组件和表盘复杂功能。
 
 使用
 来自可再生能源的电力
@@ -342,18 +337,18 @@ Apple 产品
    iPhone 15
    的许多其他部件也完全采用回收材料制造，比如所有磁体均采用再生稀土元素，触感引擎采用再生钨和再生铜丝，还有多个印刷电路板的焊料采用再生锡。我们还
    在主板中使用了 100% 再生铜箔，也第一次在 MagSafe 感应充电器中采用了此材料。此外，iPhone 15 的电池使用了 100%
-   再生钴，这对 iPhone 和 Apple 来说都是一次重大的突破^[128]7。iPhone
+   再生钴，这对 iPhone 和 Apple 来说都是一次重大的突破^7。iPhone
    就连产品开箱体验的设计也力求更有益于地球，iPhone 15 的包装材料中有 68%
    为再生纤维，而且新使用的木质纤维全部以负责任的方式采购。集所有这些回收材料于一身，也集耐用、安全和强大功能于一体，iPhone
    就是这样一部智能手机。
 
-   [129]进一步了解 iPhone 15 和 iPhone 15 Plus 在环保方面的创新 (PDF)
+   进一步了解 iPhone 15 和 iPhone 15 Plus 在环保方面的创新 (PDF)
    100%所有磁体采用 100% 再生稀土元素，多个印刷电路板的焊料采用 100% 再生锡。
    99%通过我们将塑料成分从包装中
    淘汰的努力，iPhone 15 的包装材料中有 99% 是基于纤维的。
 
-     * [130]回收升级前的塑料水瓶
-     * [131]回收升级后的 iPhone 15 天线条带
+     * 回收升级前的塑料水瓶
+     * 回收升级后的 iPhone 15 天线条带
 
 之前是塑料水瓶
 
@@ -371,7 +366,7 @@ Apple 产品
    的某些强大功能却至关重要。天线条带必须用非金属材料制造，这样每根天线才能调校到不同的无线电频率，适应蓝牙、无线局域网和蜂窝网络的不同需求，让�
    的设备畅通连接。iPhone 14
    的天线条带正是由塑料瓶回收升级制成，改造的过程使塑料变得更加坚固强韧、性能出色。现在，我们又将这种回收升级的塑料沿用到了 iPhone 15
-   和 Apple Watch Ultra 2 的天线条带^[132]18。这只是我们变废为宝、重复利用各种材料的例子之一。
+   和 Apple Watch Ultra 2 的天线条带^18。这只是我们变废为宝、重复利用各种材料的例子之一。
 
 我们的物流，正一路低碳前行。 我们的物流，正一路低碳前行。
 
@@ -395,7 +390,7 @@ Apple 产品
 减少产品的碳足迹。
 
    铝金属不仅造就了众多 Apple 产品标志性的外观，让产品美观耐用，也帮助我们缩减了碳足迹。再生铝材的碳足迹仅为原生铝材的
-   1/40^[133]19。而且我们的 100%
+   1/40^19。而且我们的 100%
    再生铝合金可以无限次循环利用。我们从生产过程中以及其他工业加工和消费后的再生来源回收高品质废弃铝材，并将其用于制造新产品。此外，我们还在不断扩
    大再生铝金属的应用范围。现在，我们多款性能强大的产品均已采用 100% 再生铝金属作为机身或外壳，包括 Mac mini、14 英寸和 16
    英寸 MacBook Pro、MacBook Air、所有 iPad 机型、Apple Watch Series 9 和
@@ -405,10 +400,10 @@ Apple 产品
 
    对于需要原生铝材制造机身的产品，我们会优先使用以低碳电力而非化石燃料来冶炼的铝材。我们还与多家铝材制造商以及加拿大和魁北克的政府合作投资
    ELYSIS。这家公司革命性的创新技术，能完全消除铝材冶炼过程中直接排放的温室气体。2019 年，ELYSIS 的第一批零排放商用铝材被用于
-   16 英寸 MacBook Pro^[134]20。而 2022 年出货的部分 iPhone SE 外壳也由 ELYSIS
+   16 英寸 MacBook Pro^20。而 2022 年出货的部分 iPhone SE 外壳也由 ELYSIS
    铝金属打造。所有这些再生和低碳铝金属的应用，让我们向碳中和的目标迈出了一大步。
    67%2022 年再生铝金属在
-   全部铝材使用中的占比^[135]21。
+   全部铝材使用中的占比^21。
    71%2015 年至今，通过转向再生和低碳来源，铝材相关碳排放的下降幅度。
 
 完全回收，
@@ -423,7 +418,7 @@ Apple 产品
    在手腕上的轻触提醒，均出自触感引擎。而这些熟悉的振动，正是通过再生钨来实现的。在我们的拆解机器人 Daisy、Dave 和 Taz
    的帮助下，触感引擎中的钨也可以得到回收和循环利用。我们致力于在不耗费地球自然资源的前提下制造新产品，而每一次振动都意味着我们向目标更进了一步。
    100%所有 iPhone 15 机型以及 Apple Watch Series 9、Apple Watch Ultra 2 和
-   Apple Watch SE 均 100% 采用再生钨驱动触感引擎^[136]6。
+   Apple Watch SE 均 100% 采用再生钨驱动触感引擎^6。
    95%2022 年再生钨在我们使用的全部钨材中的占比。
 
 接下来
@@ -443,9 +438,9 @@ Daisy
    组成的拆解机器人团队，在回收旧设备中的金、钴、钨和稀土元素等关键材料方面发挥着主导作用。采集到的材料最终将回归到原料市场，我们也好，其他人也好
    ，都能使用回收的材料去制造新一代产品。改进珍贵材料采购和回收的方式，正是我们降低产品碳影响的众多举措之一，我们也将借此向完全使用回收和可再生材
    料制造新产品的目标迈进。
-   1 吨回收 1 吨 iPhone 部件所获的铜和金，相当于开采约 2000 吨矿石^[137]22。
+   1 吨回收 1 吨 iPhone 部件所获的铜和金，相当于开采约 2000 吨矿石^22。
    100%到 2025 年，我们所有的磁体均采用 100% 再生稀土元素，Apple 设计的所有电池均采用 100% 再生钴，Apple
-   设计的所有刚性和柔性印刷电路板均采用 100% 再生锡焊料和 100% 再生金镀层^[138]23。
+   设计的所有刚性和柔性印刷电路板均采用 100% 再生锡焊料和 100% 再生金镀层^23。
 
 包装盒里，
 包满了
@@ -465,15 +460,15 @@ Daisy
    标签和覆膜方面的创新技术，能帮我们淘汰包装中剩余的 4% 塑料成分。为了避免在 iPhone 14 和 iPhone 14 Pro
    的包装上使用标签，我们定制开发了一款高分辨率印刷机，可直接在包装盒背面进行印刷。去除这些标签，让我们避免了 300 多吨塑料的使用，减少了超过
    3700
-   吨的碳排放^[139]24。而使用新的光油套印取代传统的塑料覆膜，不仅提高了包装的可回收性，也能保留你一贯钟爱的外观和手感。我们在改进包装方面
-   所做的不断努力已卓有成效，所有 Apple Watch 包装材料都是 100% 基于纤维的，并以 100% 回收和负责任采购的木质纤维制成。
+   吨的碳排放^24。而使用新的光油套印取代传统的塑料覆膜，不仅提高了包装的可回收性，也能保留你一贯钟爱的外观和手感。我们在改进包装方面所做的不断
+   努力已卓有成效，所有 Apple Watch 包装材料都是 100% 基于纤维的，并以 100% 回收和负责任采购的木质纤维制成。
 
 我们的树林努力生长，生生不息。
 
-   不断减少所有包装中塑料用量的同时，我们挑选木质纤维的标准也一如既往，或是回收利用，或是来自负责任管理的森林^[140]25。通过与美国保护基金
-   会 (The Conservation Fund) 和世界自然基金会的合作，我们对美国和中国境内逾 40
+   不断减少所有包装中塑料用量的同时，我们挑选木质纤维的标准也一如既往，或是回收利用，或是来自负责任管理的森林^25。通过与美国保护基金会
+   (The Conservation Fund) 和世界自然基金会的合作，我们对美国和中国境内逾 40
    万公顷的生产性森林进行保护和优化管理。2022
-   年，这些森林生产了足量可供负责任方式采购的纤维，相当于我们产品包装新使用的木质纤维的总量^[141]26。
+   年，这些森林生产了足量可供负责任方式采购的纤维，相当于我们产品包装新使用的木质纤维的总量^26。
    96%回收和负责任采购的木质纤维在我们整体产品包装中的占比。
    1100 多吨2022 年从塑料覆膜转用光油套印而避免的塑料用量。
 
@@ -497,7 +492,7 @@ Daisy
        2022 年 12 月，20 位土地所有者携家人来到佐治亚州朗县的 McIntosh S.E.E.D.
        社区森林，参加该组织的可持续森林和土地保留 (Sustainable Forest & Land Retention)
        计划。这些土地所有者和他们的孩子一起会见了林业专家，了解并实施各种可持续的保护计划，以减轻气候变化对那些一直被忽视的社区造成的影响。
-       [142]进一步了解我们与 McIntosh S.E.E.D. 的
+       进一步了解我们与 McIntosh S.E.E.D. 的
        合作
      *
 
@@ -523,7 +518,7 @@ Daisy
        和保护国际基金会正在密切合作，共同保护这片区域。Alibaug 及其周边地区约有 2.1
        万公顷红树林。红树林在自然生长过程中可吸收大气中的二氧化碳，并将其封存在土壤、植物以及沉积物深处。Apple
        和合作伙伴正致力于帮助当地经济转型，构建依赖红树林保护的经济模式，从而支持这些社区，为其注入力量。
-       [143]进一步了解恢复红树林
+       进一步了解恢复红树林
      *
 
 清洁能源， 创造正面效应 。
@@ -539,7 +534,7 @@ Daisy
        为南非一个供电缺乏地区的 3500
        多个家庭送去了可再生电力。我们还资助一所职业学校和一家老年公寓安装了屋顶太阳能发电装置，降低了他们的用电成本，这将有助于他们将资金投入
        到运营和扩展服务，从而帮助更多弱势群体。
-       [144]了解我们如何在世界各地支持使用可再生能源
+       了解我们如何在世界各地支持使用可再生能源
      *
 
 应对气候变化的 努力，也是争取 经济平等 的努力。
@@ -568,7 +563,7 @@ Daisy
 Apple Trade In 换购计划
 
    用现有设备，折抵换购你的新装备。如果设备不符合折抵条件，我们也可以免费将其回收处理。
-   [145]进一步了解
+   进一步了解
 
 设计，
 为地球设想。
@@ -590,540 +585,540 @@ Apple Trade In 换购计划
 iPhone
 
      * iPhone 15 Pro 和 iPhone 15 Pro Max
-       [146]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 15 和 iPhone 15 Plus
-       [147]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 14 和 iPhone 14 Plus
-       [148]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 13
-       [149]阅读 (PDF)
+       阅读 (PDF)
      * iPhone SE
        (第三代)
-       [150]阅读 (PDF)
+       阅读 (PDF)
 
 iPad
 
      * 12.9 英寸 iPad Pro (第六代)
-       [151]阅读 (PDF)
+       阅读 (PDF)
      * 11 英寸 iPad Pro (第四代)
-       [152]阅读 (PDF)
+       阅读 (PDF)
      * iPad Air (第五代)
-       [153]阅读 (PDF)
+       阅读 (PDF)
      * iPad (第十代)
-       [154]阅读 (PDF)
+       阅读 (PDF)
      * iPad (第九代)
-       [155]阅读 (PDF)
+       阅读 (PDF)
      * iPad mini
        (第六代)
-       [156]阅读 (PDF)
+       阅读 (PDF)
 
 Apple Watch
 
      * Apple Watch Ultra 2 - 碳中和表款
-       [157]阅读 (PDF)
+       阅读 (PDF)
      * Apple Watch Series 9 - 碳中和表款
-       [158]阅读 (PDF)
+       阅读 (PDF)
      * Apple Watch Series 9
-       [159]阅读 (PDF)
+       阅读 (PDF)
      * Apple Watch SE - 碳中和表款
-       [160]阅读 (PDF)
+       阅读 (PDF)
 
 笔记本电脑
 
      * 16 英寸 MacBook Pro (M3 Pro 或 M3 Max 芯片机型)
-       [161]阅读 (PDF)
+       阅读 (PDF)
      * 14 英寸 MacBook Pro (M3、M3 Pro 或 M3 Max 芯片机型)
-       [162]阅读 (PDF)
+       阅读 (PDF)
      * 15 英寸 MacBook Air (M2 芯片机型)
-       [163]阅读 (PDF)
+       阅读 (PDF)
      * 13 英寸 MacBook Air (M2 芯片机型)
-       [164]阅读 (PDF)
+       阅读 (PDF)
      * 13 英寸 MacBook Air (M1 芯片机型)
-       [165]阅读 (PDF)
+       阅读 (PDF)
 
 台式电脑
 
      * iMac
-       [166]阅读 (PDF)
+       阅读 (PDF)
      * Mac mini
-       [167]阅读 (PDF)
+       阅读 (PDF)
      * Mac Studio
-       [168]阅读 (PDF)
+       阅读 (PDF)
      * Mac Pro
-       [169]阅读 (PDF)
+       阅读 (PDF)
 
 显示器
 
      * Studio Display
-       [170]阅读 (PDF)
+       阅读 (PDF)
      * Pro Display XDR
-       [171]阅读 (PDF)
+       阅读 (PDF)
 
 HomePod
 
      * HomePod (第二代)
-       [172]阅读 (PDF)
+       阅读 (PDF)
      * HomePod mini
-       [173]阅读 (PDF)
+       阅读 (PDF)
 
 iPod
 
      * iPod touch
-       [174]阅读 (PDF)
+       阅读 (PDF)
 
 存档报告
 
      * iPhone 14 Pro Max
-       [175]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 14 Pro
-       [176]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 13 Pro Max
-       [177]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 13 Pro
-       [178]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 13 mini
-       [179]阅读 (PDF)
+       阅读 (PDF)
      * iPhone SE (第二代)
-       [180]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 12
-       [181]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 12 Pro Max
-       [182]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 12 Pro
-       [183]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 12 mini
-       [184]阅读 (PDF)
+       阅读 (PDF)
      * iPhone 11 Pro Max
-       [185]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * iPhone 11 Pro
-       [186]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * iPhone 11
-       [187]阅读 (PDF)
+       阅读 (PDF)
      * iPhone XS Max
-       [188]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * iPhone XS
-       [189]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * iPhone XR
-       [190]阅读 (PDF)
+       阅读 (PDF)
      * iPhone X
-       [191]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * iPhone 8
-       [192]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * iPhone 8 Plus
-       [193]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * iPhone 7
-       [194]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * iPhone 7 Plus
-       [195]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * iPhone SE (第一代)
-       [196]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * iPhone 6s Plus
-       [197]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPhone 6s
-       [198]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPhone 6
-       [199]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * iPhone 5c
-       [200]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * iPhone 5s
-       [201]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * iPhone 5
-       [202]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPhone 4s
-       [203]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPhone 4
-       [204]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * iPhone 3G
-       [205]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
      * iPhone 3GS
-       [206]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
 
      * 12.9 英寸 iPad Pro (第五代)
-       [207]阅读 (PDF)
+       阅读 (PDF)
      * 11 英寸 iPad Pro (第三代)
-       [208]阅读 (PDF)
+       阅读 (PDF)
      * iPad Air (第四代)
-       [209]阅读 (PDF)
+       阅读 (PDF)
      * iPad (第八代)
-       [210]阅读 (PDF)
+       阅读 (PDF)
      * 12.9 英寸 iPad Pro (第四代)
-       [211]阅读 (2020 年 PDF)
+       阅读 (2020 年 PDF)
      * 11 英寸 iPad Pro (第二代)
-       [212]阅读 (2020 年 PDF)
+       阅读 (2020 年 PDF)
      * iPad (第七代)
-       [213]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * iPad mini (第五代)
-       [214]阅读 (PDF)
+       阅读 (PDF)
      * iPad Air (第三代)
-       [215]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * 12.9 英寸 iPad Pro (第三代)
-       [216]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 11 英寸 iPad Pro (第一代)
-       [217]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * iPad (第六代)
-       [218]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 12.9 英寸 iPad Pro (第二代)
-       [219]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * iPad (第五代)
-       [220]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 10.5 英寸 iPad Pro
-       [221]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 9.7 英寸 iPad Pro
-       [222]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * 12.9 英寸 iPad Pro
-       [223]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPad mini 4
-       [224]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPad Air 2
-       [225]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * iPad mini 3
-       [226]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * iPad Air
-       [227]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * iPad mini 2
-       [228]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * iPad mini
-       [229]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * iPad mini
-       [230]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPad (第四代)
-       [231]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPad (第三代)
-       [232]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPad 2
-       [233]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPad 2
-       [234]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
 
      * Apple Watch Ultra (GPS +
        蜂窝网络)
-       [235]阅读 (PDF)
+       阅读 (PDF)
      * Apple Watch Series 8
-       [236]阅读 (PDF)
+       阅读 (PDF)
      * Apple Watch Series 7 (GPS + 蜂窝网络，GPS)
-       [237]阅读 (2021 年 PDF)
+       阅读 (2021 年 PDF)
      * Apple Watch Series 6 (GPS + 蜂窝网络，GPS)
-       [238]阅读 (2020 年 PDF)
+       阅读 (2020 年 PDF)
      * Apple Watch SE (GPS + 蜂窝网络，GPS)
-       [239]阅读 (2020 年 PDF)
+       阅读 (2020 年 PDF)
      * Apple Watch Series 5 (GPS + 蜂窝网络，GPS)
-       [240]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * Apple Watch Series 4 (GPS + 蜂窝网络)
-       [241]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * Apple Watch Series 4 (GPS)
-       [242]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * Apple Watch Series 3 (GPS + 蜂窝网络)
-       [243]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * Apple Watch Series 3 (GPS)
-       [244]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * Apple Watch Series 3 (GPS + 蜂窝网络)
-       [245]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * Apple Watch Series 3 (GPS)
-       [246]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * Apple Watch Series 2
-       [247]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * Apple Watch Series 1
-       [248]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * Apple Watch
-       [249]阅读 (2015 年 9 月 PDF)
+       阅读 (2015 年 9 月 PDF)
      * Apple Watch
-       [250]阅读 (2015年 4 月 PDF)
+       阅读 (2015年 4 月 PDF)
 
      * 16 英寸 MacBook Pro (M2 Pro 或 M2 Max 芯片机型)
-       [251]阅读 (2023 年 PDF)
+       阅读 (2023 年 PDF)
      * 14 英寸 MacBook Pro (M2 Pro 或 M2 Max 芯片机型)
-       [252]阅读 (2023 年 PDF)
+       阅读 (2023 年 PDF)
      * 13 英寸 MacBook Pro (M2 芯片机型)
-       [253]阅读 (2022 年 PDF)
+       阅读 (2022 年 PDF)
      * 16 英寸 MacBook Pro
-       [254]阅读 (2021 年 10 月 PDF)
+       阅读 (2021 年 10 月 PDF)
      * 14 英寸 MacBook Pro
-       [255]阅读 (2021 年 10 月 PDF)
+       阅读 (2021 年 10 月 PDF)
      * 13 英寸 MacBook Pro
-       [256]阅读 (2020 年 11 月 PDF)
+       阅读 (2020 年 11 月 PDF)
      * 16 英寸 MacBook Pro
-       [257]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Air
-       [258]阅读 (2020 年 3 月 PDF)
+       阅读 (2020 年 3 月 PDF)
      * 13 英寸配备雷雳 3 的 MacBook Pro
-       [259]阅读 (2020 年 5 月 PDF)
+       阅读 (2020 年 5 月 PDF)
      * 13 英寸配备雷雳 3 的 MacBook Pro
-       [260]阅读 (2019 年 7 月 PDF)
+       阅读 (2019 年 7 月 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Air
-       [261]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * 15 英寸配备雷雳 3 的 MacBook Pro
-       [262]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * 13 英寸配备雷雳 3 的 MacBook Pro
-       [263]阅读 (2019 年 5 月 PDF)
+       阅读 (2019 年 5 月 PDF)
      * MacBook
-       [264]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Air
-       [265]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 13 英寸配备雷雳 3 的 MacBook Pro
-       [266]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 15 英寸配备雷雳 3 的 MacBook Pro
-       [267]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * 13 英寸 MacBook Air
-       [268]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 13 英寸配备雷雳 3 的 MacBook Pro
-       [269]阅读 (2017 年 6 月 PDF)
+       阅读 (2017 年 6 月 PDF)
      * 15 英寸配备雷雳 3 的 MacBook Pro
-       [270]阅读 (2017 年 6 月 PDF)
+       阅读 (2017 年 6 月 PDF)
      * MacBook
-       [271]阅读 (2017 年 6 月 PDF)
+       阅读 (2017 年 6 月 PDF)
      * 13 英寸配备雷雳的 MacBook Pro
-       [272]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * 15 英寸配备雷雳的 MacBook Pro
-       [273]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * MacBook
-       [274]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Pro
-       [275]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * 15 英寸配备视网膜显示屏的 MacBook Pro
-       [276]阅读 (2016 年 PDF)
+       阅读 (2016 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Pro
-       [277]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 15 英寸配备视网膜显示屏的 MacBook Pro
-       [278]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * MacBook
-       [279]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 11 英寸 MacBook Air
-       [280]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 13 英寸 MacBook Air
-       [281]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Pro
-       [282]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * 11 英寸 MacBook Air
-       [283]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * 13 英寸 MacBook Air
-       [284]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Pro
-       [285]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 15 英寸配备视网膜显示屏的 MacBook Pro
-       [286]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 11 英寸 MacBook Air
-       [287]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 13 英寸 MacBook Air
-       [288]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 13 英寸配备视网膜显示屏的 MacBook Pro
-       [289]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 15 英寸配备视网膜显示屏的 MacBook Pro
-       [290]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 13 英寸 MacBook Pro
-       [291]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 15 英寸 MacBook Pro
-       [292]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 11 英寸 MacBook Air
-       [293]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 13 英寸 MacBook Air
-       [294]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 13 英寸 MacBook Pro
-       [295]阅读 (2011 年 10 月 PDF)
+       阅读 (2011 年 10 月 PDF)
      * 15 英寸 MacBook Pro
-       [296]阅读 (2011 年 10 月 PDF)
+       阅读 (2011 年 10 月 PDF)
      * 17 英寸 MacBook Pro
-       [297]阅读 (2011 年 10 月 PDF)
+       阅读 (2011 年 10 月 PDF)
      * 13 英寸 MacBook Pro
-       [298]阅读 (2011 年 2 月 PDF)
+       阅读 (2011 年 2 月 PDF)
      * 15 英寸 MacBook Pro
-       [299]阅读 (2011 年 2 月 PDF)
+       阅读 (2011 年 2 月 PDF)
      * 17 英寸 MacBook Pro
-       [300]阅读 (2011 年 2 月 PDF)
+       阅读 (2011 年 2 月 PDF)
      * 11 英寸 MacBook Air
-       [301]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 13 英寸 MacBook Air
-       [302]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 11 英寸 MacBook Air
-       [303]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * 13 英寸 MacBook Air
-       [304]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * MacBook
-       [305]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
 
      * 24 英寸 iMac
-       [306]阅读 (2021 年 PDF)
+       阅读 (2021 年 PDF)
      * Mac Studio
-       [307]阅读 (2022 年 PDF)
+       阅读 (2022 年 PDF)
      * Mac mini
-       [308]阅读 (2020 年 PDF)
+       阅读 (2020 年 PDF)
      * 27 英寸配备 5K 视网膜显示屏的 iMac
-       [309]阅读 (PDF)
+       阅读 (PDF)
      * 21.5 英寸 iMac
-       [310]阅读 (PDF)
+       阅读 (PDF)
      * Mac Pro
-       [311]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * iMac Pro
-       [312]阅读 (PDF)
+       阅读 (PDF)
      * 21.5 英寸配备 4K 视网膜显示屏的 iMac
-       [313]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * 27 英寸配备 5K 视网膜显示屏的 iMac
-       [314]阅读 (2019 年 PDF)
+       阅读 (2019 年 PDF)
      * Mac mini
-       [315]阅读 (2018 年 PDF)
+       阅读 (2018 年 PDF)
      * Mac Pro
-       [316]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 21.5 英寸配备 4K 视网膜显示屏的 iMac
-       [317]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 27 英寸配备 5K 视网膜显示屏的 iMac
-       [318]阅读 (2017 年 PDF)
+       阅读 (2017 年 PDF)
      * 21.5 英寸 iMac
-       [319]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 27 英寸配备 5K 视网膜显示屏的 iMac
-       [320]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * 21.5 英寸 iMac
-       [321]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * Mac mini
-       [322]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * 21.5 英寸 iMac
-       [323]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 27 英寸 iMac
-       [324]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * Mac Pro
-       [325]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * 21.5 英寸 iMac
-       [326]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 27 英寸 iMac
-       [327]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * Mac mini
-       [328]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 配备 OS X Server 的 Mac mini
-       [329]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * 21.5 英寸 iMac
-       [330]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 27 英寸 iMac
-       [331]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * Mac mini
-       [332]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 配备 Lion Server 的 Mac mini
-       [333]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 21.5 英寸 iMac
-       [334]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * 27 英寸 iMac
-       [335]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * Mac mini
-       [336]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * 配备 Snow Leopard Server 的 Mac mini
-       [337]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * Mac Pro
-       [338]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
 
      * Apple Thunderbolt Display
-       [339]阅读 (2011 年 PDF)
+       阅读 (2011 年 PDF)
      * 27 英寸 Apple LED Cinema Display
-       [340]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * 24 英寸 Apple LED Cinema Display
-       [341]阅读 (2008 年 PDF)
+       阅读 (2008 年 PDF)
 
      * HomePod
-       [342]阅读 (2018 年 1 月 PDF)
+       阅读 (2018 年 1 月 PDF)
 
      * iPod touch
-       [343]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPod nano
-       [344]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPod shuffle
-       [345]阅读 (2015 年 PDF)
+       阅读 (2015 年 PDF)
      * iPod touch 32GB/64GB
-       [346]阅读 (2014 年 PDF)
+       阅读 (2014 年 PDF)
      * iPod touch 16GB
-       [347]阅读 (2013 年 PDF)
+       阅读 (2013 年 PDF)
      * iPod nano
-       [348]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPod shuffle
-       [349]阅读 (2012 年 PDF)
+       阅读 (2012 年 PDF)
      * iPod nano
-       [350]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * iPod shuffle
-       [351]阅读 (2010 年 PDF)
+       阅读 (2010 年 PDF)
      * iPod touch
-       [352]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
      * iPod nano
-       [353]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
      * iPod shuffle
-       [354]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
      * iPod classic
-       [355]阅读 (2009 年 PDF)
+       阅读 (2009 年 PDF)
 
-   [356]阅读以往报告
+   阅读以往报告
 
 碳中和，
 又近一步。
 
    我们已实现公司运营的碳中和，现在正朝着 2030
    年实现全线产品碳中和的目标迈进。进一步了解我们近来为降低尚存碳足迹、抗击气候变化和促进平等所做的工作。
-   [357]阅读 2023 年环境进展报告 (PDF)
+   阅读 2023 年环境进展报告 (PDF)
      * 2022 年进展报告
-       [358]阅读 (PDF)
+       阅读 (PDF)
      * 2021 年进展报告
-       [359]阅读 (PDF)
+       阅读 (PDF)
      * 2020 年进展报告
-       [360]阅读 (PDF)
+       阅读 (PDF)
      * 2019 年进展报告
-       [361]阅读 (PDF)
+       阅读 (PDF)
      * 2018 年进展报告
-       [362]阅读 (PDF)
+       阅读 (PDF)
      * 2017 年进展报告
-       [363]阅读 (PDF)
+       阅读 (PDF)
      * 2016 年进展报告
-       [364]阅读 (PDF)
+       阅读 (PDF)
      * 2015 年进展报告
-       [365]阅读 (PDF)
+       阅读 (PDF)
      * 2014 年进展报告
-       [366]阅读 (PDF)
+       阅读 (PDF)
      * 2013 年进展报告
-       [367]阅读 (PDF)
+       阅读 (PDF)
      * 2012 年进展报告
-       [368]阅读 (PDF)
+       阅读 (PDF)
      * 2011 年进展报告
-       [369]阅读 (PDF)
+       阅读 (PDF)
      * 2010 年进展报告
-       [370]阅读 (PDF)
+       阅读 (PDF)
      * 2009 年进展报告
-       [371]阅读 (PDF)
+       阅读 (PDF)
      * 2008 年进展报告
-       [372]阅读 (PDF)
+       阅读 (PDF)
 
-   [373]阅读以往报告
+   阅读以往报告
 
 其他报告和资源
 
 循环经济
 
    我们的目标是完全使用回收和可再生材料来制造产品。因此，我们会划分材料的处理优先级，进行负责任的采购，以及回收利用。
-     * [374]了解我们如何利用《材料影响分析文件》(PDF) 来划分材料的处理优先级
-     * [375]阅读有关 Apple 纸张与包装策略的
+     * 了解我们如何利用《材料影响分析文件》(PDF) 来划分材料的处理优先级
+     * 阅读有关 Apple 纸张与包装策略的
        白皮书 (PDF)
-     * [376]阅读我们的《负责任的纤维规范》(PDF)
-     * [377]阅读有关扩大服务和维修途径的白皮书 (PDF)
-     * [378]了解如何折抵换购或回收设备
-     * [379]进一步了解适用于专业回收机构的拆解指南
+     * 阅读我们的《负责任的纤维规范》(PDF)
+     * 阅读有关扩大服务和维修途径的白皮书 (PDF)
+     * 了解如何折抵换购或回收设备
+     * 进一步了解适用于专业回收机构的拆解指南
 
 更高明的化学工艺
 
    Apple 设立了一套严格的程序，以确保产品使用安全的化学物质。通过这些资料你可以了解 Apple
    的严格标准，细致的毒理学评估，以及评估相关化学品的方法。
-     * [380]阅读《受管制物质规范》(PDF)
-     * [381]阅读 Apple 产品物料选择综合毒理学评估白皮书 (PDF)
-     * [382]阅读我们的《电子产业相关化学品优先处理协议》(PDF)
-     * [383]阅读了解《Apple 对逐步淘汰全氟和多氟烷基物质 (PFAS) 的承诺》(PDF)
+     * 阅读《受管制物质规范》(PDF)
+     * 阅读 Apple 产品物料选择综合毒理学评估白皮书 (PDF)
+     * 阅读我们的《电子产业相关化学品优先处理协议》(PDF)
+     * 阅读了解《Apple 对逐步淘汰全氟和多氟烷基物质 (PFAS) 的承诺》(PDF)
 
 气候变化
 
    气候变化是我们这个时代面临的关键问题。我们的目标是到 2030 年实现碳中和。以下便是有关我们最新进展的详细信息。
 
-   [384]阅读 Apple 2022 年 CDP 气候变化调查答卷 (PDF)
+   阅读 Apple 2022 年 CDP 气候变化调查答卷 (PDF)
 
 供应链中的人与环境
 
    我们对自己和供应商都设立了极高的标准，以保障劳动权益和人权，保证工作场所的健康和安全，贯彻环境措施，并以负责任的方式采购材料。
 
-   [385]访问供应商责任页面
+   访问供应商责任页面
 
 常见问题解答
 
    查看关于 Apple 与环境的常见问题及其解答。
 
-   [386]浏览常见问题解答
+   浏览常见问题解答
 
 为保护环境，
 Apple 还做了更多。
@@ -1136,16 +1131,16 @@ Apple 还做了更多。
 
      * 辅助功能
        我们的众多内置辅助功能，为适应你的使用方式而设计。
-       [387]进一步了解
+       进一步了解
      * 隐私
        我们设计的每一款产品和服务都力求保护你的数据安全。
-       [388]进一步了解
+       进一步了解
      * 供应商责任
        我们重视为每位员工提供安全、充满尊重、相互支持的工作环境。
-       [389]进一步了解
+       进一步了解
      * 教育
        我们全力支持学生和教育工作者，助他们学习、创造并开创各自的成功。
-       [390]进一步了解
+       进一步了解
 
      * (BUTTON)
      * (BUTTON)
@@ -1179,8 +1174,7 @@ Apple Footer
    12. 重新设计的回环式运动表带中不包括彩虹版回环式运动表带、Black Unity 回环式运动表带和红色回环式运动表带。
    13. 适用于搭配野径回环式表带或高山回环式表带的 Apple Watch Ultra 2 表款。
    14. 符合条件的产品是指其所属产品类别具有 ENERGY STAR 能源之星认证。详情请参�
-       [391]www.energystar.gov。ENERGY STAR 和 ENERGY STAR
-       标志是美国国家环境保护局拥有的注册商标。
+       www.energystar.gov。ENERGY STAR 和 ENERGY STAR 标志是美国国家环境保护局拥有的注册商标。
    15. 将 Mac mini (M1 芯片，2020 年机型) 用作配备 M2 芯片的 Mac mini
        的比较对象，因其为最新发售的相似设备。将试生产的配备 256GB 存储容量的标配 Mac mini (M2 芯片) 与已上市的配备
        256GB 存储容量的标配 Mac mini (M1 芯片，2020 年机型) 进行比较，因为这两款产品均为最低存储容量配置。对于配备
@@ -1203,550 +1197,91 @@ Apple Footer
    23. 我们计划，自 2025 财年起，Apple 设计的所有电池均采用 100% 再生钴 (基于质量平衡系统)；Apple
        设计的所有刚性和柔性印刷电路板的焊料中采用 100% 再生锡、镀层中采用 100% 再生金；所有磁体均采用 100% 再生稀土元素。
    24. 指零售包装。避免的塑料使用量、纸张使用量和碳排放量，基于每单位材料重量和预测的销售数据估算得出。
-   25. [392]Apple
+   25. Apple
        的《负责任的纤维规范》中定义了木质纤维的负责任采购。我们所指的木质纤维包括竹子。如需进一步了解我们保护和培育负责任管理森林的努力，请�
        读我们的《环境进展报告》。
    26. 此估算基于我们的森林项目预计的等量木质纤维产量，以及 Apple 产品包装所需的原生纤维用量。为确定 Apple
        各项目的产量，我们与合作伙伴协作，了解这些生产性森林的生产潜力。该项森林管理计划要求达到或保持认证所限制的采伐量，以维持可持续开采水平
        。我们利用这些潜在采伐量来估算这些森林的可持续生产能力。
 
-   [393] Apple
+    Apple
     1. 环境责任
 
 选购及了解 (BUTTON) 选购及了解 +
 
-     * [394]商店
-     * [395]Mac
-     * [396]iPad
-     * [397]iPhone
-     * [398]Watch
-     * [399]AirPods
-     * [400]家�
-     * [401]AirTag
-     * [402]配件
-     * [403]App Store 充值卡
+     * 商店
+     * Mac
+     * iPad
+     * iPhone
+     * Watch
+     * AirPods
+     * 家�
+     * AirTag
+     * 配件
+     * App Store 充值卡
 
 Apple 钱包 (BUTTON) Apple 钱包 +
 
-     * [404]Apple Pay
+     * Apple Pay
 
 账户 (BUTTON) 账户 +
 
-     * [405]管理你的 Apple ID
-     * [406]Apple Store 账户
-     * [407]iCloud.com
+     * 管理你的 Apple ID
+     * Apple Store 账户
+     * iCloud.com
 
 娱乐 (BUTTON) 娱乐 +
 
-     * [408]Apple Music
-     * [409]Apple 播客
-     * [410]App Store
+     * Apple Music
+     * Apple 播客
+     * App Store
 
 Apple Store 商店 (BUTTON) Apple Store 商店 +
 
-     * [411]查找零售店
-     * [412]Genius Bar 天才吧
-     * [413]Today at Apple
-     * [414]Apple 夏令营
-     * [415]Apple Store App
-     * [416]认证的翻新产品
-     * [417]Apple Trade In 换购计划
-     * [418]分期付款
-     * [419]订单状态
-     * [420]选购帮助
+     * 查找零售店
+     * Genius Bar 天才吧
+     * Today at Apple
+     * Apple 夏令营
+     * Apple Store App
+     * 认证的翻新产品
+     * Apple Trade In 换购计划
+     * 分期付款
+     * 订单状态
+     * 选购帮助
 
 商务应用 (BUTTON) 商务应用 +
 
-     * [421]Apple 与商务
-     * [422]商务选购
+     * Apple 与商务
+     * 商务选购
 
 教育应用 (BUTTON) 教育应用 +
 
-     * [423]Apple 与教育
-     * [424]高校师生选购
+     * Apple 与教育
+     * 高校师生选购
 
 Apple 价值观 (BUTTON) Apple 价值观 +
 
-     * [425]辅助功能
-     * [426]教育
-     * [427]环境责任
-     * [428]隐私
-     * [429]供应商责任
+     * 辅助功能
+     * 教育
+     * 环境责任
+     * 隐私
+     * 供应商责任
 
 关于 Apple (BUTTON) 关于 Apple +
 
-     * [430]Newsroom
-     * [431]Apple 管理层
-     * [432]工作机会
-     * [433]创造就业
-     * [434]商业道德与合规性
-     * [435]活动
-     * [436]联系 Apple
+     * Newsroom
+     * Apple 管理层
+     * 工作机会
+     * 创造就业
+     * 商业道德与合规性
+     * 活动
+     * 联系 Apple
 
-   更多选购方式：[437]查找你附近的 Apple Store 零售店及[438]更多门店，或者致电 400-666-8800。
+   更多选购方式：查找你附近的 Apple Store 零售店及更多门店，或者致电 400-666-8800。
 
    Copyright © 2023 Apple Inc. 保留所有权利。
-     * [439]隐私政策
-     * [440]使用条款
-     * [441]销售政策
-     * [442]法律信息
-     * [443]网站地图
-
-References
-
-   Visible links:
-   1. https://www.apple.com/ae-ar/environment/
-   2. https://www.apple.com/ae/environment/
-   3. https://www.apple.com/au/environment/
-   4. https://www.apple.com/befr/environment/
-   5. https://www.apple.com/benl/environment/
-   6. https://www.apple.com/br/environment/
-   7. https://www.apple.com/by/environment/
-   8. https://www.apple.com/ca/environment/
-   9. https://www.apple.com/ca/fr/environment/
-  10. https://www.apple.com/chde/environment/
-  11. https://www.apple.com/chfr/environment/
-  12. https://www.apple.com/cl/environment/
-  13. https://www.apple.com/co/environment/
-  14. https://www.apple.com/de/environment/
-  15. https://www.apple.com/environment/
-  16. https://www.apple.com/environment/
-  17. https://www.apple.com/environment/
-  18. https://www.apple.com/environment/
-  19. https://www.apple.com/environment/
-  20. https://www.apple.com/es/environment/
-  21. https://www.apple.com/fr/environment/
-  22. https://www.apple.com/hk/en/environment/
-  23. https://www.apple.com/hk/environment/
-  24. https://www.apple.com/id/environment/
-  25. https://www.apple.com/ie/environment/
-  26. https://www.apple.com/in/environment/
-  27. https://www.apple.com/it/environment/
-  28. https://www.apple.com/jp/environment/
-  29. https://www.apple.com/kr/environment/
-  30. https://www.apple.com/la/environment/
-  31. https://www.apple.com/la/environment/
-  32. https://www.apple.com/la/environment/
-  33. https://www.apple.com/la/environment/
-  34. https://www.apple.com/la/environment/
-  35. https://www.apple.com/la/environment/
-  36. https://www.apple.com/la/environment/
-  37. https://www.apple.com/la/environment/
-  38. https://www.apple.com/la/environment/
-  39. https://www.apple.com/la/environment/
-  40. https://www.apple.com/la/environment/
-  41. https://www.apple.com/la/environment/
-  42. https://www.apple.com/la/environment/
-  43. https://www.apple.com/la/environment/
-  44. https://www.apple.com/la/environment/
-  45. https://www.apple.com/lae/environment/
-  46. https://www.apple.com/lae/environment/
-  47. https://www.apple.com/lae/environment/
-  48. https://www.apple.com/lae/environment/
-  49. https://www.apple.com/lae/environment/
-  50. https://www.apple.com/lae/environment/
-  51. https://www.apple.com/lae/environment/
-  52. https://www.apple.com/lae/environment/
-  53. https://www.apple.com/lae/environment/
-  54. https://www.apple.com/lae/environment/
-  55. https://www.apple.com/lae/environment/
-  56. https://www.apple.com/lae/environment/
-  57. https://www.apple.com/lae/environment/
-  58. https://www.apple.com/lae/environment/
-  59. https://www.apple.com/lae/environment/
-  60. https://www.apple.com/lae/environment/
-  61. https://www.apple.com/lae/environment/
-  62. https://www.apple.com/lae/environment/
-  63. https://www.apple.com/lae/environment/
-  64. https://www.apple.com/lae/environment/
-  65. https://www.apple.com/mo/environment/
-  66. https://www.apple.com/mx/environment/
-  67. https://www.apple.com/my/environment/
-  68. https://www.apple.com/nl/environment/
-  69. https://www.apple.com/nz/environment/
-  70. https://www.apple.com/ph/environment/
-  71. https://www.apple.com/sa-ar/environment/
-  72. https://www.apple.com/sa/environment/
-  73. https://www.apple.com/se/environment/
-  74. https://www.apple.com/sg/environment/
-  75. https://www.apple.com/th/environment/
-  76. https://www.apple.com/tr/environment/
-  77. https://www.apple.com/tw/environment/
-  78. https://www.apple.com/ua/environment/
-  79. https://www.apple.com/uk/environment/
-  80. https://www.apple.com/vn/environment/
-  81. https://www.apple.com.cn/environment/
-  82. https://www.apple.com.cn/
-  83. https://www.apple.com.cn/cn/shop/goto/store
-  84. https://www.apple.com.cn/mac/
-  85. https://www.apple.com.cn/ipad/
-  86. https://www.apple.com.cn/iphone/
-  87. https://www.apple.com.cn/watch/
-  88. https://www.apple.com.cn/airpods/
-  89. https://www.apple.com.cn/apple-home/
-  90. https://www.apple.com.cn/entertainment/
-  91. https://www.apple.com.cn/cn/shop/goto/buy_accessories
-  92. https://support.apple.com/zh-cn/?cid=gn-ols-home-hp-tab
-  93. https://www.apple.com.cn/environment/
-  94. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf
-  95. https://www.apple.com.cn/environment/mother-nature/
-  96. https://www.apple.com.cn/environment/#footnote-1
-  97. https://www.apple.com.cn/environment/#footnote-2
-  98. https://www.apple.com.cn/environment/#footnote-3
-  99. https://www.apple.com.cn/environment/#footnote-4
- 100. https://www.apple.com.cn/environment/#footnote-2
- 101. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=14
- 102. https://www.apple.com.cn/environment/#footnote-3
- 103. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=22
- 104. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=26
- 105. https://www.apple.com.cn/environment/#footnote-4
- 106. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=16
- 107. https://www.apple.com.cn/environment/#footnote-5
- 108. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=46
- 109. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf#page=27
- 110. https://www.apple.com.cn/environment/#footnote-6
- 111. https://www.apple.com.cn/environment/#footnote-7
- 112. https://www.apple.com.cn/environment/#footnote-8
- 113. https://www.apple.com.cn/environment/#footnote-9
- 114. https://www.apple.com.cn/environment/#footnote-10
- 115. https://www.apple.com.cn/environment/#footnote-11
- 116. https://www.apple.com.cn/environment/#footnote-12
- 117. https://www.apple.com.cn/environment/#footnote-13
- 118. https://www.apple.com.cn/environment/#footnote-14
- 119. https://www.apple.com.cn/environment/#footnote-8
- 120. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_Series_9_PER_Sept2023.pdf
- 121. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_SE_PER_Sept2023.pdf
- 122. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_Ultra_2_Sept2023.pdf
- 123. https://www.apple.com.cn/environment/#footnote-15
- 124. https://www.apple.com.cn/environment/#footnote-16
- 125. https://www.apple.com.cn/environment/#footnote-17
- 126. https://support.apple.com/HT213323
- 127. https://www.apple.com.cn/environment/#footnote-18
- 128. https://www.apple.com.cn/environment/#footnote-8
- 129. https://www.apple.com/environment/pdf/products/iphone/iPhone_15_and_iPhone_15_Plus_PER_Sept2023.pdf
- 130. https://www.apple.com.cn/environment/#antenna-gallery-item-1
- 131. https://www.apple.com.cn/environment/#antenna-gallery-item-2
- 132. https://www.apple.com.cn/environment/#footnote-19
- 133. https://www.apple.com.cn/environment/#footnote-20
- 134. https://www.apple.com.cn/environment/#footnote-21
- 135. https://www.apple.com.cn/environment/#footnote-22
- 136. https://www.apple.com.cn/environment/#footnote-7
- 137. https://www.apple.com.cn/environment/#footnote-23
- 138. https://www.apple.com.cn/environment/#footnote-24
- 139. https://www.apple.com.cn/environment/#footnote-25
- 140. https://www.apple.com.cn/environment/#footnote-26
- 141. https://www.apple.com.cn/environment/#footnote-27
- 142. https://www.apple.com.cn/newsroom/2023/02/mcintosh-seed-preserves-land-and-legacy-with-black-landowners-in-the-us-south/
- 143. https://www.apple.com.cn/newsroom/2022/04/conserving-mangroves-to-protect-local-livelihoods-and-the-planet/
- 144. https://www.apple.com.cn/newsroom/2023/04/apple-and-global-suppliers-expand-renewable-electricity-with-nearly-70-manufacturing-partners-in-china-committed-to-using-only-clean-power/
- 145. https://www.apple.com.cn/cn/shop/goto/trade_in
- 146. https://www.apple.com/environment/pdf/products/iphone/iPhone_15_Pro_and_iPhone_15_Pro_Max_Sept2023.pdf
- 147. https://www.apple.com/environment/pdf/products/iphone/iPhone_15_and_iPhone_15_Plus_PER_Sept2023.pdf
- 148. https://www.apple.com/environment/pdf/products/iphone/iPhone_14_and_iPhone_14_Plus_PER_Sept2022.pdf
- 149. https://www.apple.com/environment/pdf/products/iphone/iPhone_13_PER_Sept2021.pdf
- 150. https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_March2022.pdf
- 151. https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Oct2022.pdf
- 152. https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Oct2022.pdf
- 153. https://www.apple.com/environment/pdf/products/ipad/iPad_Air_PER_March2022.pdf
- 154. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_Oct2022.pdf
- 155. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_Dec2022.pdf
- 156. https://www.apple.com/environment/pdf/products/ipad/iPad_mini_PER_Sept2021.pdf
- 157. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_Ultra_2_Sept2023.pdf
- 158. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_Series_9_PER_Sept2023.pdf
- 159. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series_9_PER_Sept2023.pdf
- 160. https://www.apple.com/environment/pdf/products/watch/Carbon_Neutral_Apple_Watch_SE_PER_Sept2023.pdf
- 161. https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2023.pdf
- 162. https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2023.pdf
- 163. https://www.apple.com/environment/pdf/products/notebooks/MacBook_Air_15-inch_PER_June2023.pdf
- 164. https://www.apple.com/environment/pdf/products/notebooks/M2_MacBook_Air_PER_June2022.pdf
- 165. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf
- 166. https://www.apple.com/environment/pdf/products/desktops/iMac_PER_Oct2023.pdf
- 167. https://www.apple.com/environment/pdf/products/desktops/Mac_mini_PER_Jan2023.pdf
- 168. https://www.apple.com/environment/pdf/products/desktops/Mac_Studio_PER_June2023.pdf
- 169. https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_June2023.pdf
- 170. https://www.apple.com/environment/pdf/products/displays/Apple_Studio_Display_PER_March2022.pdf
- 171. https://www.apple.com/environment/pdf/products/desktops/Pro_Display_XDR_PER_Dec2019.pdf
- 172. https://www.apple.com/environment/pdf/products/homepod/HomePod_PER_Jan2023.pdf
- 173. https://www.apple.com/environment/pdf/products/homepod/HomePod_mini_PER_Oct2020.pdf
- 174. https://www.apple.com/environment/pdf/products/ipod/iPodtouch_PER_may2019.pdf
- 175. https://www.apple.com/environment/pdf/products/iphone/iPhone_14_Pro_Max_PER_Sept2022.pdf
- 176. https://www.apple.com/environment/pdf/products/iphone/iPhone_14_Pro_PER_Sept2022.pdf
- 177. https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_Max_PER_Sept2021.pdf
- 178. https://www.apple.com/environment/pdf/products/iphone/iPhone_13_Pro_PER_Sept2021.pdf
- 179. https://www.apple.com/environment/pdf/products/iphone/iPhone_13_mini_PER_Sept2021.pdf
- 180. https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_April2020.pdf
- 181. https://www.apple.com/environment/pdf/products/iphone/iPhone_12_PER_Oct2020.pdf
- 182. https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_Max_PER_Oct2020.pdf
- 183. https://www.apple.com/environment/pdf/products/iphone/iPhone_12_Pro_PER_Oct2020.pdf
- 184. https://www.apple.com/environment/pdf/products/iphone/iPhone_12_mini_PER_Oct2020.pdf
- 185. https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_Max_PER_sept2019.pdf
- 186. https://www.apple.com/environment/pdf/products/iphone/iPhone_11_Pro_PER_sept2019.pdf
- 187. https://www.apple.com/environment/pdf/products/iphone/iPhone_11_PER_sept2019.pdf
- 188. https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_Max_PER_sept2018.pdf
- 189. https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf
- 190. https://www.apple.com/environment/pdf/products/iphone/iPhone_XR_PER_sept2018.pdf
- 191. https://www.apple.com/environment/pdf/products/iphone/iPhone_X_PER_sept2017.pdf
- 192. https://www.apple.com/environment/pdf/products/iphone/iPhone_8_PER_sept2017.pdf
- 193. https://www.apple.com/environment/pdf/products/iphone/iPhone_8_Plus_PER_sept2017.pdf
- 194. https://www.apple.com/environment/pdf/products/iphone/iPhone_7_PER_sept2017.pdf
- 195. https://www.apple.com/environment/pdf/products/iphone/iPhone_7_Plus_PER_sept2017.pdf
- 196. https://www.apple.com/environment/pdf/products/iphone/iPhone_SE_PER_sept2017.pdf
- 197. https://www.apple.com/environment/pdf/products/iphone/iPhone6sPlus_PER_sept2015.pdf
- 198. https://www.apple.com/environment/pdf/products/iphone/iPhone6s_PER_sept2015.pdf
- 199. https://www.apple.com/environment/pdf/products/archive/2014/iPhone6_PER_sept2014.pdf
- 200. https://www.apple.com/environment/pdf/products/archive/2014/iPhone5c_PER_Sept2014.pdf
- 201. https://www.apple.com/environment/pdf/products/archive/2013/iPhone5s_PER_sept2013.pdf
- 202. https://www.apple.com/environment/pdf/products/archive/2012/iPhone5_PER_sept2012.pdf
- 203. https://www.apple.com/environment/pdf/products/archive/2012/iPhone4S_product_environmental_report_sept2012.pdf
- 204. https://www.apple.com/environment/pdf/products/archive/2010/iPhone_4_Product_Environmental_Report.pdf
- 205. https://www.apple.com/environment/pdf/products/archive/2009/iPhone-3G-Environmental-Report.pdf
- 206. https://www.apple.com/environment/pdf/products/archive/2009/iPhone_3GS-Environmental-Report.pdf
- 207. https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Apr2021.pdf
- 208. https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Apr2021.pdf
- 209. https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_sept2020.pdf
- 210. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2020.pdf
- 211. https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_Mar2020.pdf
- 212. https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_Mar2020.pdf
- 213. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_sept2019.pdf
- 214. https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Mar2019.pdf
- 215. https://www.apple.com/environment/pdf/products/ipad/iPadAir_PER_Mar2019.pdf
- 216. https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2019.pdf
- 217. https://www.apple.com/environment/pdf/products/ipad/iPadPro_11-inch_PER_June2019.pdf
- 218. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_June2019.pdf
- 219. https://www.apple.com/environment/pdf/products/ipad/iPadPro_12.9-inch_PER_June2017.pdf
- 220. https://www.apple.com/environment/pdf/products/ipad/iPad_PER_mar2017.pdf
- 221. https://www.apple.com/environment/pdf/products/ipad/iPadPro_10.5-inch_PER_June2017.pdf
- 222. https://www.apple.com/environment/pdf/products/ipad/9.7-inch_iPadPro_PER_mar2016.pdf
- 223. https://www.apple.com/environment/pdf/products/ipad/12.9-inch_iPad_Pro_PER_nov2015.pdf
- 224. https://www.apple.com/environment/pdf/products/ipad/iPadmini4_PER_sept2015.pdf
- 225. https://www.apple.com/environment/pdf/products/archive/2014/iPadAir2_PER_oct2014.pdf
- 226. https://www.apple.com/environment/pdf/products/archive/2014/iPadmini3_PER_oct2014.pdf
- 227. https://www.apple.com/environment/pdf/products/archive/2013/iPadAir_PER_oct2013.pdf
- 228. https://www.apple.com/environment/pdf/products/ipad/iPadmini_wRetinaDisplay_PER_Oct2013.pdf
- 229. https://www.apple.com/environment/pdf/products/ipad/iPadmini_PER_Oct2013.pdf
- 230. https://www.apple.com/environment/pdf/products/archive/2012/iPadmini_PER_oct2012.pdf
- 231. https://www.apple.com/environment/pdf/products/archive/2012/iPad_Retina_PER_oct2012.pdf
- 232. https://www.apple.com/environment/pdf/products/archive/2012/iPad_Product_Environmental_Report_March2012.pdf
- 233. https://www.apple.com/environment/pdf/products/archive/2012/iPad2_Product_Environmental_Report_2012.pdf
- 234. https://www.apple.com/environment/pdf/products/archive/2011/iPad_2_Environmental_Report.pdf
- 235. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Ultra_PER_Dec2022.pdf
- 236. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series8_PER_Sept2022.pdf
- 237. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series7_PER_Sept2021.pdf
- 238. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series6_PER_sept2020.pdf
- 239. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_SE_PER_sept2020.pdf
- 240. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series5_PER_sept2019.pdf
- 241. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPSCellular_PER_sept2018.pdf
- 242. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series4_GPS_PER_sept2018.pdf
- 243. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2018.pdf
- 244. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2018.pdf
- 245. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPSCellular_PER_sept2017.pdf
- 246. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series3_GPS_PER_sept2017.pdf
- 247. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series2_PER_sept2016.pdf
- 248. https://www.apple.com/environment/pdf/products/watch/Apple_Watch_Series1_PER_sept2016.pdf
- 249. https://www.apple.com/environment/pdf/products/archive/2015/AppleWatch_PER_sept2015.pdf
- 250. https://www.apple.com/environment/pdf/products/watch/AppleWatch_PER_april2015.pdf
- 251. https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Jan2023.pdf
- 252. https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Jan2023.pdf
- 253. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBook_Pro_PER_June2022.pdf
- 254. https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf
- 255. https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf
- 256. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf
- 257. https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf
- 258. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_July2020.pdf
- 259. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_May2020.pdf
- 260. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf
- 261. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf
- 262. https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf
- 263. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf
- 264. https://www.apple.com/environment/pdf/products/notebooks/12inch_MacBook_PER_June2019.pdf
- 265. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf
- 266. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf
- 267. https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_July2018.pdf
- 268. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_June2019.pdf
- 269. https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf
- 270. https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_w_Thunderbolt3_PER_June2017.pdf
- 271. https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_June2017.pdf
- 272. https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wTB3_PER_Oct2016.pdf
- 273. https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wTB3_PER_Oct2016.pdf
- 274. https://www.apple.com/environment/pdf/products/notebooks/MacBook_PER_April2016.pdf
- 275. https://www.apple.com/environment/pdf/products/notebooks/13inchMBP_wRetinaDisplay_PER_Oct2016.pdf
- 276. https://www.apple.com/environment/pdf/products/notebooks/15inchMBP_wRetinaDisplay_PER_2016.pdf
- 277. https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_wRetinaDisplay_PER_march2015.pdf
- 278. https://www.apple.com/environment/pdf/products/notebooks/15inchMacBookPro_wRetinaDisplay_PER_may2015.pdf
- 279. https://www.apple.com/environment/pdf/products/archive/2015/12inch_MacBook_PER_march2015.pdf
- 280. https://www.apple.com/environment/pdf/products/notebooks/11inch_MacBookAir_PER_march2015.pdf
- 281. https://www.apple.com/environment/pdf/products/notebooks/13inch_MacBookAir_PER_march2015.pdf
- 282. https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookPro_wRetina_PER_July2014.pdf
- 283. https://www.apple.com/environment/pdf/products/archive/2014/11inch_MacBookAir_PER_april2014.pdf
- 284. https://www.apple.com/environment/pdf/products/archive/2014/13inch_MacBookAir_PER_april2014.pdf
- 285. https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookpro_retina_per_feb2013.pdf
- 286. https://www.apple.com/environment/pdf/products/archive/2013/15inch_macbookpro_retina_per_feb2013.pdf
- 287. https://www.apple.com/environment/pdf/products/archive/2013/11inch_macbookair_product_environmental_report_june2013.pdf
- 288. https://www.apple.com/environment/pdf/products/archive/2013/13inch_macbookair_product_environmental_report_june2013.pdf
- 289. https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookpro_retina_per_oct2012.pdf
- 290. https://www.apple.com/environment/pdf/products/archive/2012/macbookpro_retinadisplay_per_june2012.pdf
- 291. https://www.apple.com/environment/pdf/products/notebooks/13inchMacBookPro_PER_june2012.pdf
- 292. https://www.apple.com/environment/pdf/products/archive/2012/15inch_macbookpro_per_june2012.pdf
- 293. https://www.apple.com/environment/pdf/products/archive/2012/11inch_macbookair_per_june2012.pdf
- 294. https://www.apple.com/environment/pdf/products/archive/2012/13inch_macbookair_per_june2012.pdf
- 295. https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_13-inch_Product_Environmental_Report_Oct2011.pdf
- 296. https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_15-inch_Product_Environmental_Report_Oct2011.pdf
- 297. https://www.apple.com/environment/pdf/products/archive/2011/MacBookPro_17-inch_Product_Environmental_Report_Oct2011.pdf
- 298. https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-13-inch-Environmental-Report-Feb2011.pdf
- 299. https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-15-inch-Environmental-Report-Feb2011.pdf
- 300. https://www.apple.com/environment/pdf/products/archive/2011/MacBook-Pro-17-inch-Environmental-Report-Feb2011.pdf
- 301. https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_11-inch_PER_20110720.pdf
- 302. https://www.apple.com/environment/pdf/products/archive/2011/MacBookAir_13-inch_PER_20110720.pdf
- 303. https://www.apple.com/environment/pdf/products/archive/2010/11inch_MacBookAir_Product_Environmental_Report.pdf
- 304. https://www.apple.com/environment/pdf/products/archive/2010/13inch_MacBookAir_Product_Environmental_Report.pdf
- 305. https://www.apple.com/environment/pdf/products/archive/2009/MacBook-White_Environmental_Report_20091020.pdf
- 306. https://www.apple.com/environment/pdf/products/desktops/24-inch_iMac_PER_Apr2021.pdf
- 307. https://www.apple.com/environment/pdf/products/desktops/Mac_Studio_PER_March2022.pdf
- 308. https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Nov2020.pdf
- 309. https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Aug2020.pdf
- 310. https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2017.pdf
- 311. https://www.apple.com/environment/pdf/products/desktops/Mac_Pro_PER_Dec2019.pdf
- 312. https://www.apple.com/environment/pdf/products/desktops/iMac_Pro_PER_June2019.pdf
- 313. https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_with_Retina4KDisplay_PER_Mar2019.pdf
- 314. https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Mar2019.pdf
- 315. https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_Mar2020.pdf
- 316. https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_June2017.pdf
- 317. https://www.apple.com/environment/pdf/products/desktops/21.5-inch_iMac_PER_June2019.pdf
- 318. https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_June2017.pdf
- 319. https://www.apple.com/environment/pdf/products/desktops/21_5inch_iMac_PER_Oct2015.pdf
- 320. https://www.apple.com/environment/pdf/products/desktops/27inch_iMacR5K_PER_Oct2015.pdf
- 321. https://www.apple.com/environment/pdf/products/archive/2014/21_5inch_iMac_PER_june2014.pdf
- 322. https://www.apple.com/environment/pdf/products/desktops/Macmini_PER_oct2014.pdf
- 323. https://www.apple.com/environment/pdf/products/archive/2013/21_5inch_iMac_product_environmental_report_sept2013.pdf
- 324. https://www.apple.com/environment/pdf/products/archive/2013/27inch_iMac_product_environmental_report_sept2013.pdf
- 325. https://www.apple.com/environment/pdf/products/desktops/MacPro_PER_oct2013.pdf
- 326. https://www.apple.com/environment/pdf/products/archive/2012/imac_21.5inch_oct2012.pdf
- 327. https://www.apple.com/environment/pdf/products/archive/2012/imac_27inch_oct2012.pdf
- 328. https://www.apple.com/environment/pdf/products/archive/2012/macmini_oct2012.pdf
- 329. https://www.apple.com/environment/pdf/products/archive/2012/macmini_server_oct2012.pdf
- 330. https://www.apple.com/environment/pdf/products/archive/2011/imac_21.5inch_per_may2011.pdf
- 331. https://www.apple.com/environment/pdf/products/archive/2011/imac_27inch_per_may2011.pdf
- 332. https://www.apple.com/environment/pdf/products/archive/2011/macmini_per_july2011.pdf
- 333. https://www.apple.com/environment/pdf/products/archive/2011/macmini_lion_server_per_july2011.pdf
- 334. https://www.apple.com/environment/pdf/products/archive/2010/21.5inch_iMac_Product_Environmental_Report_20100727.pdf
- 335. https://www.apple.com/environment/pdf/products/archive/2010/27inch_iMac_Product_Environmental_Report__20100727.pdf
- 336. https://www.apple.com/environment/pdf/products/archive/2010/Macmini-Product_Environmental_Report_2010615.pdf
- 337. https://www.apple.com/environment/pdf/products/archive/2010/Macminiserver-Product_Environmental_Report_20100615.pdf
- 338. https://www.apple.com/environment/pdf/products/archive/2009/Mac-Pro-Environmental-Report.pdf
- 339. https://www.apple.com/environment/pdf/products/archive/2011/ThunderboltDisplay_PER_july2011.pdf
- 340. https://www.apple.com/environment/pdf/products/archive/2010/27inch_led_display_per_july2010.pdf
- 341. https://www.apple.com/environment/pdf/products/archive/2008/LED-Cinema-Display-Environmental-Report-20091120.pdf
- 342. https://www.apple.com/environment/pdf/products/homepod/HomePod_PER_feb2018.pdf
- 343. https://www.apple.com/environment/pdf/products/archive/2015/iPodtouch_PER_july2015.pdf
- 344. https://www.apple.com/environment/pdf/products/archive/2015/iPodnano_PER_july2015.pdf
- 345. https://www.apple.com/environment/pdf/products/archive/2015/iPodshuffle_PER_july2015.pdf
- 346. https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_PER_june2014.pdf
- 347. https://www.apple.com/environment/pdf/products/archive/2014/iPodtouch_16GB_product_environmental_report_may2013.pdf
- 348. https://www.apple.com/environment/pdf/products/archive/2012/iPodnano_product_environmental_report_sept2012.pdf
- 349. https://www.apple.com/environment/pdf/products/archive/2012/iPodshuffle_product_environmental_report_sept2012.pdf
- 350. https://www.apple.com/environment/pdf/products/archive/2010/iPodnano_Product_Environmental_Report_2010.pdf
- 351. https://www.apple.com/environment/pdf/products/archive/2010/iPodshuffle_Product_Environmental_Report_2010.pdf
- 352. https://www.apple.com/environment/pdf/products/archive/2009/iPod_touch_Environmental_Report.pdf
- 353. https://www.apple.com/environment/pdf/products/archive/2009/iPod_nano_Environmental_Report.pdf
- 354. https://www.apple.com/environment/pdf/products/archive/2009/iPod-shuffle-Environmental-Report_March_2009.pdf
- 355. https://www.apple.com/environment/pdf/products/archive/2009/iPod_Classic_Environmental_Report.pdf
- 356. https://www.apple.com.cn/environment/
- 357. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf
- 358. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf
- 359. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2021.pdf
- 360. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Progress_Report_2020.pdf
- 361. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
- 362. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Responsibility_Report_2018.pdf
- 363. https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2017.pdf
- 364. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Responsibility_Report_2016.pdf
- 365. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Responsibility_Report_2015.pdf
- 366. https://www.apple.com.cn/environment/pdf/Apple_Environmental_Responsibility_Report_2014.pdf
- 367. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2013.pdf
- 368. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2012.pdf
- 369. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2011.pdf
- 370. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2010.pdf
- 371. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2009.pdf
- 372. https://www.apple.com.cn/environment/pdf/Apple_Facilities_Report_2008.pdf
- 373. https://www.apple.com.cn/environment/
- 374. https://www.apple.com/environment/pdf/Apple_Material_Impact_Profiles_April2019.pdf
- 375. https://www.apple.com/environment/pdf/Packaging_and_Forestry_September_2017.pdf
- 376. https://www.apple.com/environment/pdf/Apple_Responsible_Fiber_Specification_June2023.pdf
- 377. https://support.apple.com/content/dam/edam/applecare/images/en_US/otherassets/programs/Expanding_Access_to_Service_and_Repairs.pdf
- 378. https://www.apple.com.cn/cn/shop/goto/trade_in
- 379. https://www.apple.com.cn/recycling/recycler-guides/
- 380. https://www.apple.com.cn/environment/pdf/Apple_Regulated_Substances_Specification_Simplified.pdf
- 381. https://www.apple.com/environment/pdf/Integrating_Toxicological_Assessments_in_Material_Selection_for_Apple_Products_07152022.pdf
- 382. https://www.apple.com/environment/pdf/Apple_Prioritizing_Chemicals_2018.pdf
- 383. https://www.apple.com/environment/pdf/Apple_PFAS_Commitment_November-2022.pdf
- 384. https://www.apple.com/environment/pdf/Apple_CDP-Climate-Change-Questionnaire_2022.pdf
- 385. https://www.apple.com.cn/supplier-responsibility/
- 386. https://www.apple.com.cn/environment/answers/
- 387. https://www.apple.com.cn/accessibility/
- 388. https://www.apple.com.cn/privacy/
- 389. https://www.apple.com.cn/supplier-responsibility/
- 390. https://www.apple.com.cn/education-initiative/
- 391. https://www.energystar.gov/
- 392. https://www.apple.com/environment/pdf/Apple_Responsible_Fiber_Specification_June2023.pdf
- 393. https://www.apple.com.cn/
- 394. https://www.apple.com.cn/cn/shop/goto/store
- 395. https://www.apple.com.cn/mac/
- 396. https://www.apple.com.cn/ipad/
- 397. https://www.apple.com.cn/iphone/
- 398. https://www.apple.com.cn/watch/
- 399. https://www.apple.com.cn/airpods/
- 400. https://www.apple.com.cn/apple-home/
- 401. https://www.apple.com.cn/airtag/
- 402. https://www.apple.com.cn/cn/shop/goto/buy_accessories
- 403. https://www.apple.com.cn/cn/shop/goto/giftcards
- 404. https://www.apple.com.cn/apple-pay/
- 405. https://appleid.apple.com/cn/
- 406. https://www.apple.com.cn/cn/shop/goto/account
- 407. https://www.icloud.com/
- 408. https://www.apple.com.cn/apple-music/
- 409. https://www.apple.com.cn/apple-podcasts/
- 410. https://www.apple.com.cn/app-store/
- 411. https://www.apple.com.cn/retail/
- 412. https://www.apple.com.cn/retail/geniusbar/
- 413. https://www.apple.com.cn/today/
- 414. https://www.apple.com.cn/today/camp/
- 415. https://apps.apple.com/cn/app/apple-store/id375380948
- 416. https://www.apple.com.cn/cn/shop/goto/special_deals
- 417. https://www.apple.com.cn/cn/shop/goto/trade_in
- 418. https://www.apple.com.cn/cn/shop/goto/ww/financing
- 419. https://www.apple.com.cn/cn/shop/goto/order/list
- 420. https://www.apple.com.cn/cn/shop/goto/help
- 421. https://www.apple.com.cn/business/
- 422. https://www.apple.com.cn/retail/business/
- 423. https://www.apple.com.cn/education/
- 424. https://www.apple.com.cn/cn/shop/goto/educationrouting
- 425. https://www.apple.com.cn/accessibility/
- 426. https://www.apple.com.cn/education-initiative/
- 427. https://www.apple.com.cn/environment/
- 428. https://www.apple.com.cn/privacy/
- 429. https://www.apple.com.cn/supplier-responsibility/
- 430. https://www.apple.com.cn/newsroom/
- 431. https://www.apple.com.cn/leadership/
- 432. https://www.apple.com/careers/cn/
- 433. https://www.apple.com.cn/job-creation/
- 434. https://www.apple.com/compliance/
- 435. https://www.apple.com.cn/apple-events/
- 436. https://www.apple.com.cn/contact/
- 437. https://www.apple.com.cn/retail/
- 438. https://locate.apple.com/cn/zh/
- 439. https://www.apple.com.cn/legal/privacy/
- 440. https://www.apple.com.cn/legal/internet-services/terms/site.html
- 441. https://www.apple.com.cn/cn/shop/goto/help/sales_refunds
- 442. https://www.apple.com.cn/legal/
- 443. https://www.apple.com.cn/sitemap/
-
-   Hidden links:
- 445. https://www.apple.com.cn/search
- 446. https://www.apple.com.cn/cn/shop/goto/bag
- 447. https://www.apple.com.cn/environment/#product-reports-gallery-item-iphone-update
- 448. https://www.apple.com.cn/environment/#product-reports-gallery-item-ipad
- 449. https://www.apple.com.cn/environment/#product-reports-gallery-item-watch
- 450. https://www.apple.com.cn/environment/#product-reports-gallery-item-laptops
- 451. https://www.apple.com.cn/environment/#product-reports-gallery-item-desktops
- 452. https://www.apple.com.cn/environment/#product-reports-gallery-item-displays
- 453. https://www.apple.com.cn/environment/#product-reports-gallery-item-homepod-dual
- 454. https://www.apple.com.cn/environment/#product-reports-gallery-item-ipod
+     * 隐私政策
+     * 使用条款
+     * 销售政策
+     * 法律信息
+     * 网站地图

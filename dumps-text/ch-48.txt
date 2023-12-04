@@ -1,105 +1,104 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
-   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
-   [21]alternate [22]alternate [23]alternate
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
 
-   IFRAME: [24]https://www.googletagmanager.com/ns.html?id=GTM-5QWLJR3
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5QWLJR3
 
    You are using Internet Explorer; our website is not optimized for this
    browser which does not respect the web standards. For the best
    experience we recommend that you use a different browser.
    (BUTTON) +
      *
-     * [25]Find a GEODIS agency
+     * Find a GEODIS agency
      * 中国 - 中文
         选择一个国家/地区
                o Global
-                 [26]Français [27]English
+                 Français English
             A
-               o [28]Algeria
-               o [29]Argentina
-               o [30]Australia
+               o Algeria
+               o Argentina
+               o Australia
             B
-               o [31]Bahrain
-               o [32]Bangladesh
+               o Bahrain
+               o Bangladesh
                o Belgium
-                 [33]Français [34]English
+                 Français English
                o Brazil
-                 [35]Portugues [36]English
+                 Portugues English
             C
-               o [37]Cameroon
+               o Cameroon
                o Canada
-                 [38]Français [39]English
-               o [40]Chad
-               o [41]Chile
+                 Français English
+               o Chad
+               o Chile
                o China
-                 [42]汉语 [43]English
-               o [44]Colombia
-               o [45]Czech Republic
+                 汉语 English
+               o Colombia
+               o Czech Republic
             D
-               o [46]Denmark
+               o Denmark
             F
-               o [47]France
+               o France
             G
                o Germany
-                 [48]English [49]Deutsch
-               o [50]Great Britain
-               o [51]Greece
+                 English Deutsch
+               o Great Britain
+               o Greece
             H
-               o [52]Hong Kong
-               o [53]Hungary
+               o Hong Kong
+               o Hungary
             I
-               o [54]India
-               o [55]Indonesia
-               o [56]Ireland
+               o India
+               o Indonesia
+               o Ireland
                o Italy
-                 [57]Italiano [58]English
+                 Italiano English
             J
                o Japan
-                 [59]Japanese [60]English
+                 Japanese English
             K
                o Korea
-                 [61]한국어 [62]English
+                 한국어 English
             M
-               o [63]Malaysia
+               o Malaysia
                o Mexico
-                 [64]English [65]Español
+                 English Español
                o Morocco
-                 [66]Français [67]English
+                 Français English
             N
-               o [68]Netherlands
-               o [69]New Zealand
-               o [70]Norway
+               o Netherlands
+               o New Zealand
+               o Norway
             P
-               o [71]Peru
+               o Peru
                o Poland
-                 [72]English [73]Polski
-               o [74]Portugal
+                 English Polski
+               o Portugal
             Q
-               o [75]Qatar
+               o Qatar
             R
-               o [76]Romania
+               o Romania
             S
-               o [77]Saudi Arabia
-               o [78]Singapore
-               o [79]Slovakia
-               o [80]South Africa
+               o Saudi Arabia
+               o Singapore
+               o Slovakia
+               o South Africa
                o Spain
-                 [81]Español [82]English
-               o [83]Sweden
+                 Español English
+               o Sweden
             T
-               o [84]Taiwan
-               o [85]Thailand
+               o Taiwan
+               o Thailand
                o Tunisia
-                 [86]Français [87]English
+                 Français English
                o Turkey
-                 [88]English [89]Türkçe
+                 English Türkçe
             U
-               o [90]UAE
-               o [91]USA
+               o UAE
+               o USA
             V
-               o [92]Vietnam
+               o Vietnam
             A
             B
             C
@@ -120,103 +119,103 @@
             U
             V
 
-   [93]Accueil [ ]
+   Accueil [ ]
 
      * 乔达集团
           + 探索乔达
-               o [94]探索乔达
-               o [95]乔达中国
-               o [96]关于我们
-               o [97]企业社会责任
-               o [98]新闻办公室
-               o [99]在乔达工作
+               o 探索乔达
+               o 乔达中国
+               o 关于我们
+               o 企业社会责任
+               o 新闻办公室
+               o 在乔达工作
      * 位置
-          + [100]位置
-          + [101]查阅我们的全球办事处目录，了解离您最近的本地办事处
+          + 位置
+          + 查阅我们的全球办事处目录，了解离您最近的本地办事处
 
 
 
 关注我们
 
-   [102]Twitter
-   [103]Linkedin
-   [104]WeChat
+   Twitter
+   Linkedin
+   WeChat
 
      寻找您的解决方案
 
      * 按纵向市场
-          + [105]按纵向市场
-          + [106]零售
-          + [107]快速消费品
-          + [108]工业
-          + [109]汽车行业与移动出行
-          + [110]医疗保健
-          + [111]高科技
-          + [112]航空与国防
+          + 按纵向市场
+          + 零售
+          + 快速消费品
+          + 工业
+          + 汽车行业与移动出行
+          + 医疗保健
+          + 高科技
+          + 航空与国防
 
      按运输方式
 
-     * [113]按运输方式
+     * 按运输方式
 
-     * [114]快件和包裹递送
-     * [115]陆路运输
-     * [116]空运和海运
-     * [117]工业项目
-     * [118]合同物流
-     * [119]供应链优化
-     * [120]清关与对外贸易
+     * 快件和包裹递送
+     * 陆路运输
+     * 空运和海运
+     * 工业项目
+     * 合同物流
+     * 供应链优化
+     * 清关与对外贸易
 
 
 
   关注我们
 
-   [121]Twitter
-   [122]Linkedin
-   [123]WeChat
+   Twitter
+   Linkedin
+   WeChat
 
-     [124]博客见解
+     博客见解
 
-     [125]求职招聘
+     求职招聘
 
-     [126]联系我们
+     联系我们
 
      (Apply) Rechercher ____________________ (BUTTON) X
 
    1 of 1
-   [127]Beware of Scams Beware of Scams Impersonating GEODIS Officers and
-   False Employment Offers Made Through Unofficial Channels
+   Beware of Scams Beware of Scams Impersonating GEODIS Officers and False
+   Employment Offers Made Through Unofficial Channels
 
-    1. [128]GEODIS China
+    1. GEODIS China
 
      乔达集团
 
-     [129]探索乔达
+     探索乔达
 
-     [130]企业社会责任
+     企业社会责任
 
-     [131]报告与方法
+     报告与方法
 
-[132]探索乔达
+探索乔达
 
-     * [133]乔达中国
-     * [134]关于我们
-     * [135]企业社会责任
+     * 乔达中国
+     * 关于我们
+     * 企业社会责任
 
-     * [136]企业社会责任政策
-     * [137]环境
-     * [138]社会
-     * [139]以负责的方式行动
-     * [140]推动企业社会责任业绩
-     * [141]推动二氧化碳减排
-     * [142]报告与方法
-     * [143]计算您的排放量
+     * 企业社会责任政策
+     * 环境
+     * 社会
+     * 以负责的方式行动
+     * 推动企业社会责任业绩
+     * 推动二氧化碳减排
+     * 报告与方法
+     * 计算您的排放量
 
-     [144]新闻办公室
+     新闻办公室
 
-     [145]在乔达工作
+     在乔达工作
 
    Réunion autour d'un écran de reporting de données et d'évaluation
-   [146]Back to GEODIS
+   Back to GEODIS
 
 有关环境、社会和经济指标的企业社会责任报告
 
@@ -227,101 +226,101 @@
 
 企业社会责任报告
 
-   [147][COVER%20EN%202022.jpg]
+   [COVER%20EN%202022.jpg]
    2022 年企业社会责任报告
-   [148][csr%20report%202021.PNG]
+   [csr%20report%202021.PNG]
    2021 年企业社会责任报告
-   [149][csr%20report%202020.PNG]
+   [csr%20report%202020.PNG]
    2020 年企业社会责任报告
-   [150][csr%20report%202019.PNG]
+   [csr%20report%202019.PNG]
    2019 年企业社会责任报告
-   [151][GB_GEODIS_RA2018_Couv_JPG.jpg]
+   [GB_GEODIS_RA2018_Couv_JPG.jpg]
    2018 年企业社会责任报告
-   [152][en.PNG]
+   [en.PNG]
    2017 年企业社会责任报告
-   [153]2017 年企业社会责任指标
-   [154][couv_csr_7370346936088816768_2.jpg]
+   2017 年企业社会责任指标
+   [couv_csr_7370346936088816768_2.jpg]
    2016 年企业社会责任报告
-   [155]2017 年企业社会责任指标
-   [156][csr%20report%20overview4812658964216560228_1.png]
+   2017 年企业社会责任指标
+   [csr%20report%20overview4812658964216560228_1.png]
    2015 年企业社会责任报告
-   [157][en%20overview4141988780200206523_2.jpg]
+   [en%20overview4141988780200206523_2.jpg]
    2014 年企业社会责任报告
-   [158][csr-cover-va3192327391487739409_1.jpg]
+   [csr-cover-va3192327391487739409_1.jpg]
    2013 年企业社会责任报告
-   [159][couverture-bilan2012en5470740251766371272_1.gif]
+   [couverture-bilan2012en5470740251766371272_1.gif]
    2012 年企业社会责任报告
-   [160][geodis-sd-report-1896777822227888781_1.gif]
+   [geodis-sd-report-1896777822227888781_1.gif]
    2011 年企业社会责任报告
-   [161][geodis-sd-report-2499372390800646402.png]
-   [162]2010 年企业社会责任报告
-   [163][geodis-sd-report-6362662996288151586.gif]
-   [164]2009 年企业社会责任报告
-   [165][geodis-sd-report-5828973907140781194.gif]
-   [166]2008 年企业社会责任报告
+   [geodis-sd-report-2499372390800646402.png]
+   2010 年企业社会责任报告
+   [geodis-sd-report-6362662996288151586.gif]
+   2009 年企业社会责任报告
+   [geodis-sd-report-5828973907140781194.gif]
+   2008 年企业社会责任报告
 
 
-   [167]2022 方法说明
+   2022 方法说明
 
-   [168]2022 保证报告
+   2022 保证报告
 
    Réunion autour d'un écran de reporting de données et d'évaluation
 
-     * [169]GEOflow GEOflow
+     * GEOflow GEOflow
        GEOflow
-     * [170]报价 报价
+     * 报价 报价
        报价
-     * [171]电子服务 电子服务
+     * 电子服务 电子服务
        电子服务
-     * [172]位置 位置
+     * 位置 位置
        位置
 
-   [173]Contact
+   Contact
 
 博客见解
 
    man customs check
 
-[174]中国知识产权 (IPR)：在海关保护条例下如何避开法律雷区及如何避免侵权
+中国知识产权 (IPR)：在海关保护条例下如何避开法律雷区及如何避免侵权
 
    (BUTTON) Previous
    (BUTTON) Next
 
    Tag
-   # [175]services des douanes
-   # [176]海关
+   # services des douanes
+   # 海关
    Body
    在中国，知识产权侵权是贸易和投资的主要障碍，而懂得如何利用海关保护条例的公司将获得竞争优势。
-   [177]阅读文�
+   阅读文�
 
    transport management vaccin
 
-[178]区块链：运输疫苗的物流创新
+区块链：运输疫苗的物流创新
 
    (BUTTON) Previous
    (BUTTON) Next
 
    Body
    了解区块链已如何提高疫苗运输的可追溯性和响应能力
-   [179]阅读文�
+   阅读文�
 
    The challenges of investing in warehouse automation
 
-[180]投资仓库自动化的挑战
+投资仓库自动化的挑战
 
    (BUTTON) Previous
    (BUTTON) Next
 
    Tag
-   # [181]Warehouse
-   # [182]technologie logistique
+   # Warehouse
+   # technologie logistique
    Body
    在大步跨越之前，您如何降低风险？
-   [183]阅读文�
+   阅读文�
 
 乔达的更新
 
-   [184]了解更多
+   了解更多
 
    GEODIS strengthens its capabilities for air freight
    temperature-controlled pharmaceutical shipments across Asia Pacific and
@@ -335,11 +334,11 @@
    facility in Shanghai’s Minhang District
    GEODIS 乔达在上海闵行区租仓，投建全新多用户设施，进一步 扩大对零售市场的服务
 
-[185]需要帮助?
+需要帮助?
 
    Body
    我们的专家随时愿意为您服务，为您解答问题，帮助您找到合适的解决方案。
-   [186]联系我们
+   联系我们
 
 敬请关注
 
@@ -355,50 +354,50 @@
    top
 
    探索乔达
-     * [187]关于我们
-     * [188]企业社会责任
-     * [189]位置
-     * [190]在乔达工作
-     * [191]新闻办公室
+     * 关于我们
+     * 企业社会责任
+     * 位置
+     * 在乔达工作
+     * 新闻办公室
 
    按纵向市场
-     * [192]零售
-     * [193]快速消费品
-     * [194]工业
-     * [195]汽车行业与移动出行
-     * [196]医疗保健
-     * [197]高科技
-     * [198]航空与国防
+     * 零售
+     * 快速消费品
+     * 工业
+     * 汽车行业与移动出行
+     * 医疗保健
+     * 高科技
+     * 航空与国防
 
    实用信息
-     * [199]联系我们
-     * [200]您的工作区
-     * [201]排放量计算器
+     * 联系我们
+     * 您的工作区
+     * 排放量计算器
 
    关注我们
-     * [202]LinkedIn
-     * [203]Twitter
-     * [204]WeChat
+     * LinkedIn
+     * Twitter
+     * WeChat
 
    求职招聘
-     * [205]在乔达工作
+     * 在乔达工作
 
    按活动
-     * [206]快件和包裹递送
-     * [207]陆路运输
-     * [208]空运和海运
-     * [209]工业项目
-     * [210]合同物流
-     * [211]供应链优化
-     * [212]清关与对外贸易
+     * 快件和包裹递送
+     * 陆路运输
+     * 空运和海运
+     * 工业项目
+     * 合同物流
+     * 供应链优化
+     * 清关与对外贸易
 
    专业技能
-     * [213]博客见解
+     * 博客见解
 
    ©2023 GEODIS - 年 保留所有权利
      * Gestion des cookies
-     * [214]Privacy policy
-     * [215]法律信息
+     * Privacy policy
+     * 法律信息
      * 隶属于
 
    (BUTTON) ×
@@ -406,241 +405,3 @@
 搜索
 
    ____________________ Rechercher
-
-References
-
-   Visible links:
-   1. https://geodis.com/corporate-social-responsibility/csr-reports-and-methodology
-   2. https://geodis.com/au/corporate-social-responsibility/csr-reports-and-methodology
-   3. https://geodis.com/be/responsabilite-societale-dentreprise/csr-reports-and-methodology
-   4. https://geodis.com/be/en/corporate-social-responsibility/csr-reports-and-methodology
-   5. https://geodis.com/cn/en/corporate-social-responsibility/csr-reports-and-methodology
-   6. https://geodis.com/de/en/corporate-social-responsibility/csr-reports-and-methodology
-   7. https://geodis.com/dk/en/corporate-social-responsibility/csr-reports-and-methodology
-   8. https://geodis.com/es/en/corporate-social-responsibility/csr-reports-and-methodology
-   9. https://geodis.com/fr/en/corporate-social-responsibility/csr-reports-and-methodology
-  10. https://geodis.com/gb/corporate-social-responsibility/csr-reports-and-methodology
-  11. https://geodis.com/hk/corporate-social-responsibility/csr-reports-and-methodology
-  12. https://geodis.com/ie/corporate-social-responsibility/csr-reports-and-methodology
-  13. https://geodis.com/in/corporate-social-responsibility/csr-reports-and-methodology
-  14. https://geodis.com/it/en/corporate-social-responsibility/csr-reports-and-methodology
-  15. https://geodis.com/mx/en/corporate-social-responsibility/csr-reports-and-methodology
-  16. https://geodis.com/my/en/corporate-social-responsibility/csr-reports-and-methodology
-  17. https://geodis.com/nl/en/corporate-social-responsibility/csr-reports-and-methodology
-  18. https://geodis.com/pl/en/corporate-social-responsibility/csr-reports-and-methodology
-  19. https://geodis.com/se/en/corporate-social-responsibility/csr-reports-and-methodology
-  20. https://geodis.com/sg/en/corporate-social-responsibility/csr-reports-and-methodology
-  21. https://geodis.com/th/en/corporate-social-responsibility/csr-reports-and-methodology
-  22. https://geodis.com/tr/en/corporate-social-responsibility/csr-reports-and-methodology
-  23. https://geodis.com/us/corporate-social-responsibility/csr-reports-and-methodology
-  24. https://www.googletagmanager.com/ns.html?id=GTM-5QWLJR3
-  25. https://geodis.com/cn/locations
-  26. https://geodis.com/fr/?p=1
-  27. https://geodis.com/?p=1
-  28. https://geodis.com/dz/en
-  29. https://geodis.com/ar/en
-  30. https://geodis.com/au/corporate-social-responsibility/csr-reports-and-methodology
-  31. https://geodis.com/bh/en
-  32. https://geodis.com/bd/en
-  33. https://geodis.com/be/responsabilite-societale-dentreprise/csr-reports-and-methodology
-  34. https://geodis.com/be/en/corporate-social-responsibility/csr-reports-and-methodology
-  35. https://geodis.com/br
-  36. https://geodis.com/br/en
-  37. https://geodis.com/cm/en
-  38. https://geodis.com/ca
-  39. https://geodis.com/ca/en
-  40. https://geodis.com/td/en
-  41. https://geodis.com/cl/en
-  42. https://geodis.com/cn
-  43. https://geodis.com/cn/en/corporate-social-responsibility/csr-reports-and-methodology
-  44. https://geodis.com/co/en
-  45. https://geodis.com/cz/en
-  46. https://geodis.com/dk/en/corporate-social-responsibility/csr-reports-and-methodology
-  47. https://geodis.com/fr/responsabilite-societale-dentreprise/csr-reports-and-methodology
-  48. https://geodis.com/de/en/corporate-social-responsibility/csr-reports-and-methodology
-  49. https://geodis.com/de
-  50. https://geodis.com/gb/corporate-social-responsibility/csr-reports-and-methodology
-  51. https://geodis.com/gr/en
-  52. https://geodis.com/hk/en
-  53. https://geodis.com/hu/en
-  54. https://geodis.com/in/corporate-social-responsibility/csr-reports-and-methodology
-  55. https://geodis.com/id/en
-  56. https://geodis.com/ie/corporate-social-responsibility/csr-reports-and-methodology
-  57. https://geodis.com/it
-  58. https://geodis.com/it/en/corporate-social-responsibility/csr-reports-and-methodology
-  59. https://geodis.com/jp
-  60. https://geodis.com/jp/en
-  61. https://geodis.com/kr
-  62. https://geodis.com/kr/en
-  63. https://geodis.com/my/en
-  64. https://geodis.com/mx/en/corporate-social-responsibility/csr-reports-and-methodology
-  65. https://geodis.com/mx
-  66. https://geodis.com/ma
-  67. https://geodis.com/ma/en
-  68. https://geodis.com/nl/en/corporate-social-responsibility/csr-reports-and-methodology
-  69. https://geodis.com/nz
-  70. https://geodis.com/no/en
-  71. https://geodis.com/pe/en
-  72. https://geodis.com/pl/en/corporate-social-responsibility/csr-reports-and-methodology
-  73. https://geodis.com/pl
-  74. https://geodis.com/pt/en
-  75. https://geodis.com/qa/en
-  76. https://geodis.com/ro/en
-  77. https://geodis.com/sa/en
-  78. https://geodis.com/sg/en/corporate-social-responsibility/csr-reports-and-methodology
-  79. https://geodis.com/sk/en
-  80. https://geodis.com/za/en
-  81. https://geodis.com/es
-  82. https://geodis.com/es/en/corporate-social-responsibility/csr-reports-and-methodology
-  83. https://geodis.com/se/en/corporate-social-responsibility/csr-reports-and-methodology
-  84. https://geodis.com/tw/en
-  85. https://geodis.com/th/en
-  86. https://geodis.com/tn
-  87. https://geodis.com/tn/en
-  88. https://geodis.com/tr/en/corporate-social-responsibility/csr-reports-and-methodology
-  89. https://geodis.com/tr
-  90. https://geodis.com/ae/en
-  91. https://geodis.com/us/corporate-social-responsibility/csr-reports-and-methodology
-  92. https://geodis.com/vn/en
-  93. https://geodis.com/cn
-  94. https://geodis.com/cn/about-us
-  95. https://geodis.com/cn/about-us/geodis-in-china
-  96. https://geodis.com/cn/about-us
-  97. https://geodis.com/cn/corporate-social-responsibility
-  98. https://geodis.com/cn/xinwenbangongshi/xinwenbangongshi
-  99. https://geodis.com/cn/zaiqiaodagongzuo/zaiqiaodagongzuo
- 100. https://geodis.com/cn/locations
- 101. https://geodis.com/cn/locations
- 102. https://twitter.com/geodis_group
- 103. https://www.linkedin.com/company/geodis
- 104. internal:/themes/custom/geodis/images/geodis-cn.png
- 105. https://geodis.com/cn/anzongxiangshichang/anzongxiangshichang
- 106. https://geodis.com/cn/vertical-market/retail
- 107. https://geodis.com/cn/vertical-market/fast-moving-consumer-goods
- 108. https://geodis.com/cn/vertical-market/industrial
- 109. https://geodis.com/cn/anzongxiangshichang/automotive-master-cn
- 110. https://geodis.com/cn/vertical-market/healthcare
- 111. https://geodis.com/cn/vertical-market/high-tech
- 112. https://geodis.com/cn/vertical-market/aerospace-and-defense
- 113. https://geodis.com/cn/activity
- 114. https://geodis.com/cn/activity/express-and-parcels-delivery
- 115. https://geodis.com/cn/overland-transport-master-cn-0
- 116. https://geodis.com/cn/anhuodong/air-and-ocean-freight-master-cn
- 117. https://geodis.com/cn/activity/industrial-projects
- 118. https://geodis.com/cn/activity/contract-logistics
- 119. https://geodis.com/cn/activity/supply-chain-optimization
- 120. https://geodis.com/cn/anhuodong/customs-master-cn
- 121. https://twitter.com/geodis_group
- 122. https://www.linkedin.com/company/geodis
- 123. internal:/themes/custom/geodis/images/geodis-cn.png
- 124. https://geodis.com/cn/blog
- 125. https://geodis.com/cn/zaiqiaodagongzuo/zaiqiaodagongzuo
- 126. https://geodis.com/cn/contact-us
- 127. https://geodis.com/cn/en/newsroom/news/beware-scams-impersonating-geodis-officers-and-false-employment-offers-made-through
- 128. https://geodis.com/cn/
- 129. https://geodis.com/cn/about-us
- 130. https://geodis.com/cn/corporate-social-responsibility
- 131. https://geodis.com/cn/qiyeshehuizerenchengnuo/csr-reports-and-methodology
- 132. https://geodis.com/cn/about-us
- 133. https://geodis.com/cn/about-us/geodis-in-china
- 134. https://geodis.com/cn/about-us
- 135. https://geodis.com/cn/corporate-social-responsibility
- 136. https://geodis.com/cn/corporate-social-responsibility/policy
- 137. https://geodis.com/cn/corporate-social-responsibility/environment
- 138. https://geodis.com/cn/corporate-social-responsibility/social-and-societal
- 139. https://geodis.com/cn/qiyeshehuizerenchengnuo/yifuzedefangshixingdong
- 140. https://geodis.com/cn/qiyeshehuizerenchengnuo/driving-csr-performance
- 141. https://geodis.com/cn/qiyeshehuizerenchengnuo/tuidongeryanghuatanjianpaiqianruhebuchangzhengce
- 142. https://geodis.com/cn/qiyeshehuizerenchengnuo/csr-reports-and-methodology
- 143. https://geodis.com/cn/geodis_carbon_calculator/form
- 144. https://geodis.com/cn/xinwenbangongshi/xinwenbangongshi
- 145. https://geodis.com/cn/zaiqiaodagongzuo/zaiqiaodagongzuo
- 146. https://geodis.com/
- 147. https://geodis.com/sites/default/files/2023-07/GEO2022_RSE_EN_PDF_MEL_23_06_30.pdf
- 148. https://geodis.com/sites/default/files/2022-07/GEODIS_ANNUAL_REPORT_2021_ENG_OK.pdf
- 149. https://geodis.com/sites/default/files/2023-04/2020_GEODIS CSR Report-EN_Update.04.2023.pdf
- 150. https://geodis.com/sites/default/files/2023-04/2019_GEODIS CSR Report-EN_Update.04.2023.pdf
- 151. https://geodis.com/sites/default/files/2023-04/2018_GEODIS CSR Report-EN_Update.04.2023.pdf
- 152. https://geodis.com/sites/default/files/2023-04/2017_GEODIS CSR Report-EN_Update.04.2023.pdf
- 153. https://geodis.com/sites/default/files/2018-09/GEODIS_CSR Reporting_GB_2018.pdf
- 154. https://geodis.com/sites/default/files/2023-04/2016_GEODIS CSR Report-EN_Update.04.2023.pdf
- 155. https://geodis.com/fr/sites/default/files/2018-08/geodis_rapport rse_2016_reporting_ENG.pdf
- 156. https://geodis.com/sites/default/files/2023-04/2015_GEODIS CSR Report-EN_Update.04.2023.pdf
- 157. https://old.geodis.com/de/sites/default/files/2023-09/GEO2014_RSE_EN.pdf
- 158. https://geodis.com/sites/default/files/2023-04/2013_GEODIS CSR Report-EN_Update04.2023.pdf
- 159. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2012.pdf
- 160. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2011.pdf
- 161. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2010.pdf
- 162. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2011.pdf
- 163. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2009.pdf
- 164. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2011.pdf
- 165. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2008.pdf
- 166. https://geodis.com/sites/default/files/2018-07/Geodis-SD-Report-2011.pdf
- 167. https://geodis.com/cn//sites/default/files/2023-09/GEO2022_NOTE_METHODOLOGIQUE_EN_230711.pdf
- 168. https://geodis.com/cn//sites/default/files/2023-09/GEO2022_RAPPORT_ASSURANCE_EY_EN_230711.pdf
- 169. https://portal.geodis.com/wps/myportal/ExtranetSCO
- 170. https://geodis.com/cn/contact-us
- 171. https://geodis.com/cn/yourgeodis
- 172. https://geodis.com/cn/locations
- 173. https://geodis.com/cn/contact-us
- 174. https://geodis.com/cn/blog/douane/zhongguozhishichanquan-iprzaihaiguanbaohutiaolixiaruhebikaifaluleiqujiruhebimianqinquan
- 175. https://geodis.com/cn/w-fr/taxonomy/term/2641
- 176. https://geodis.com/cn/tag/haiguan
- 177. https://geodis.com/cn/blog/douane/zhongguozhishichanquan-iprzaihaiguanbaohutiaolixiaruhebikaifaluleiqujiruhebimianqinquan
- 178. https://geodis.com/cn/blog/jishuyuzidonghua/qukuailianyunshuyimiaodewuliuchuangxin
- 179. https://geodis.com/cn/blog/jishuyuzidonghua/qukuailianyunshuyimiaodewuliuchuangxin
- 180. https://geodis.com/cn/blog/jishuyuzidonghua/touzicangkuzidonghuadetiaozhan
- 181. https://geodis.com/cn/w-fr/taxonomy/term/1991
- 182. https://geodis.com/cn/w-fr/taxonomy/term/2661
- 183. https://geodis.com/cn/blog/jishuyuzidonghua/touzicangkuzidonghuadetiaozhan
- 184. https://geodis.com/cn/xinwenbangongshi/xinwenbangongshi
- 185. https://geodis.com/cn/contact-us
- 186. https://geodis.com/cn/contact-us
- 187. https://geodis.com/cn/about-us
- 188. https://geodis.com/cn/corporate-social-responsibility
- 189. https://geodis.com/cn/locations
- 190. https://geodis.com/cn/zaiqiaodagongzuo/zaiqiaodagongzuo
- 191. https://geodis.com/cn/xinwenbangongshi/xinwenbangongshi
- 192. https://geodis.com/cn/vertical-market/retail
- 193. https://geodis.com/cn/vertical-market/fast-moving-consumer-goods
- 194. https://geodis.com/cn/vertical-market/industrial
- 195. https://geodis.com/cn/anzongxiangshichang/automotive-master-cn
- 196. https://geodis.com/cn/vertical-market/healthcare
- 197. https://geodis.com/cn/vertical-market/high-tech
- 198. https://geodis.com/cn/vertical-market/aerospace-and-defense
- 199. https://geodis.com/cn/contact_364037
- 200. https://geodis.com/cn/yourgeodis
- 201. https://geodis.com/cn/geodis_carbon_calculator/form
- 202. https://linkedin.com/company/geodis
- 203. https://twitter.com/geodis_group
- 204. https://geodis.com/cn/themes/custom/geodis/images/geodis-cn.png
- 205. https://geodis.com/cn/zaiqiaodagongzuo/zaiqiaodagongzuo
- 206. https://geodis.com/cn/activity/express-and-parcels-delivery
- 207. https://geodis.com/cn/overland-transport-master-cn-0
- 208. https://geodis.com/cn/anhuodong/air-and-ocean-freight-master-cn
- 209. https://geodis.com/cn/activity/industrial-projects
- 210. https://geodis.com/cn/activity/contract-logistics
- 211. https://geodis.com/cn/activity/supply-chain-optimization
- 212. https://geodis.com/cn/anhuodong/customs-master-cn
- 213. https://geodis.com/cn/blog
- 214. https://geodis.com/cn/privacy
- 215. https://geodis.com/cn/legal-information
-
-   Hidden links:
- 217. https://geodis.com/cn/user/login
- 218. https://geodis.com/cn/qiyeshehuizerenchengnuo/csr-reports-and-methodology
- 219. https://geodis.com/cn/qiyeshehuizerenchengnuo/csr-reports-and-methodology
- 220. https://geodis.com/cn/blog/douane/zhongguozhishichanquan-iprzaihaiguanbaohutiaolixiaruhebikaifaluleiqujiruhebimianqinquan
- 221. https://geodis.com/cn/blog/jishuyuzidonghua/qukuailianyunshuyimiaodewuliuchuangxin
- 222. https://geodis.com/cn/blog/jishuyuzidonghua/touzicangkuzidonghuadetiaozhan
- 223. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodajiaqiangqizaiyataihezhongdongdequdewenkongyaopinkongyunnengli
- 224. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodajiaqiangqizaiyataihezhongdongdequdewenkongyaopinkongyunnengli
- 225. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodayu-arkema-akemazhongguonianduchengyunshangdahuihuoshurong
- 226. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodayu-arkema-akemazhongguonianduchengyunshangdahuihuoshurong
- 227. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodazaishanghaiminxingquzucangtoujianquanxinduoyonghusheshijinyibu
- 228. https://geodis.com/cn/newsroom/xinwenfabu/geodis-qiaodazaishanghaiminxingquzucangtoujianquanxinduoyonghusheshijinyibu
- 229. https://geodis.com/cn/contact-us
- 230. https://www.linkedin.com/company/geodis
- 231. https://geodisdev2.prod.acquia-sites.com/cn/themes/custom/geodis/images/geodis-cn.png
- 232. https://twitter.com/geodis_group
- 233. https://www.sncf.com/en
