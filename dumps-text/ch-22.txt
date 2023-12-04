@@ -1,113 +1,578 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-PD5P6B6
+   [1]北京市司法局
+   [2]首都之窗
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-LQCS
+   [3]用户中心 [4]智能问答
 
-   [3]Skip to main content
+   [5]简体 [6]移动版 [7]无障碍
+   [本站查询�_____________________________ Submit
 
-   (BUTTON) Toggle navigation [4]欢迎来到联合国，您的世界！
+     * [8]首页
+     * [9]政务资讯
+       [10]司法行政要闻 [11]业务动态 [12]普法与依法治理 [13]队伍建设 [14]热点转载 [15]专题专栏
+     * [16]政务公开
+       [17]司法局介绍 [18]政策解读 [19]规划计划 [20]财务公开 [21]通知公告 [22]人事公告 [23]业务数据
+       [24]诚信记录 [25]政策法规
+     * [26]政务服务
+     * [27]网上办事
+       [28]办事指南 [29]办事统计 [30]表格下载 [31]查询服务 [32]结果公示 [33]复议指南
+     * [34]政民互动
+       [35]我要留言 [36]在线访谈 [37]民意调查 [38]智能咨询 [39]检举控告 [40]留言统计
 
-     * [5]العربية
-     * [6]中文
-     * Nederlands
-     * English
-     * Français
-     * हिन्दी
-     * Português
-     * [7]Русский
-     * [8]Español
-     * Kiswahili
-     * Türkçe
-     * Українська
+   [41]北京市司法局 [42]适老版
+   [本站查询�_____________________________ Submit
 
-   [9]UN logo [10]健康地球上的和平、尊严与平等 (BUTTON) Toggle navigation
-     * [11]联合国概览 »
-          + [12]会员国
-          + [13]主要机关
-          + [14]秘书长
-          + [15]秘书处
-          + [16]联合国系统
-          + [17]历史
-          + [18]徽章和旗帜
-          + [19]宪�
-          + [20]世界人权宣言
-          + [21]国际法院规约
-          + [22]诺贝尔和平奖
-     * [23]行动使命 »
-          + [24]维护国际和平与安全
-          + [25]保护人权
-          + [26]提供人道主义援助
-          + [27]支持可持续发展与气候行动
-          + [28]维护国际法
-          + [29]日常议题
-          + [30]文件
-          + [31]正式语文
-          + [32]纪念活动
-     * [33]活动与新闻
-     * [34]参与进来
-     * [35]以色列 - 加沙危机
+     * [43]首页
+     * [44]政务资讯
+          + [45]司法行政要闻 (BUTTON)
+          + [46]业务动态 (BUTTON)
+          + [47]普法与依法治理 (BUTTON)
+          + [48]队伍建设 (BUTTON)
+          + [49]热点转载 (BUTTON)
+          + [50]专题专栏 (BUTTON)
+     * [51]政务公开
+          + [52]司法局介绍 (BUTTON)
+               o [53]领导简介
+               o [54]机构设置
+          + [55]政策解读 (BUTTON)
+          + [56]规划计划 (BUTTON)
+          + [57]财务公开 (BUTTON)
+               o [58]预算公开
+               o [59]决算公开
+               o [60]其他
+          + [61]通知公告 (BUTTON)
+          + [62]人事公告 (BUTTON)
+          + [63]业务数据 (BUTTON)
+               o [64]季度数据
+               o [65]年度数据
+          + [66]诚信记录 (BUTTON)
+          + [67]政策法规 (BUTTON)
+               o [68]法律法规规�
+               o [69]规范性文件
+     * [70]政务服务
+     * [71]网上办事
+          + [72]办事指南 (BUTTON)
+          + [73]办事统计 (BUTTON)
+          + [74]表格下载 (BUTTON)
+          + [75]查询服务 (BUTTON)
+          + [76]结果公示 (BUTTON)
+          + [77]复议指南 (BUTTON)
+               o [78]提交复议申请
+               o [79]复议申请表下载
+               o [80]复议指南
+     * [81]政民互动
+          + [82]我要留言 (BUTTON)
+          + [83]在线访谈 (BUTTON)
+          + [84]民意调查 (BUTTON)
+          + [85]智能咨询 (BUTTON)
+          + [86]检举控告 (BUTTON)
+          + [87]留言统计 (BUTTON)
 
-404
+   当前位置：[88]首页 > [89]政务资讯 > [90]京司视频 > [91]详情页
 
-   404
+民法典通读解读：民事赔偿中的责任划分（二）
 
+   发布时间：2023年10月07日
+   分享：
+   X
 
-   Please check the URL to make sure you entered it correctly. You can
-   also use our search or visit the UN Home page.
+   　　兼职被欠薪，兼职平台要担责吗？如果有多个人承担债务，那么责任该怎么划分？……民法典为您解答。
 
-   [36]United Nations
-   [37]捐款
+   　　兼职被欠薪，兼职平台承担连带责任吗？
 
-     * [38]网址索引
-     * [39]联系我们
-     * [40]版权所有
-     * [41]常见问题解答
-     * [42]提防诈骗
-     * [43]隐私通告
-     * [44]使用条款
+   　　在兼职平台上找到兼职，兼职结束后未收到全部工资，可以向当地劳动监察大队投诉或申请劳动争议仲裁。一般情况下，由于劳动关系并非和兼职平台建立，
+   故兼职平台对拖欠工资不承担连带责任。但如果兼职平台在缔结劳动关系的过程中存在过错，需要承担部分责任。
+
+   　　康美药业判决出炉，刑事责任附带经济赔偿
+
+   　　案例
+
+   　　2015年至2018年期间，马某伙同他人违规筹集大量资金，利用实际控制的股票交易账户自买自卖连续交易，操纵康美药业股票价格和交易量，组织策
+   划指挥公司相关人员进行财务造假，向公司股东和公众披露虚假经营信息，故意隐瞒控股股东及关联方非经营性占用资金116亿余元。
+
+   　　2021年11月17日，刑事判决结果出炉，马某因操纵证券市场罪、不披露重要信息罪等罪，数罪并罚，被判处有期徒刑12年，并处罚金120万元。
+   其他11名责任人员被分别判处有期徒刑并处罚金。同时，广州中院作出一审判决，判处康美药业赔偿投资者损失24.6亿元。马某夫妇及邱某等4名原高管人
+   员、会计师事务所、直接责任人员承担全部连带赔偿责任，另有13名高管人员按照过错程度分别承担20%、10%、5%的连带赔偿责任。
+
+   　　案例分析
+
+   　　本案中，独立董事承担的是连带赔偿责任。对外，每一个连带责任人对受害股民承担全部赔偿责任。在对内的责任划分中，独立董事、会计师事务所、律师事
+   务所、公司高管以及公司，按照注意义务的轻重和过错程度进行内部责任划分。
+
+   　　借贷后背负巨额债务，银行找谁偿还？
+
+   　　案例
+
+   　　中国著名企业家罗永浩，创业后因破产背上6个亿的巨额债务。
+
+   　　案例分析
+
+   　　银行放贷时，如果罗永浩的朋友提供连带责任保证，那么银行可以要求罗永浩，或要求保证人偿还6亿债务；如果仅他自己与银行签订借款合同，没有担保人
+   ，则不存在连带责任。
+
+   　　《中华人民共和国民法典》第一百七十七条
+
+   　　二人以上依法承担按份责任，能够确定责任大小的，各自承担相应的责任；难以确定责任大小的，平均承担责任。
+
+   　　《中华人民共和国民法典》第一百七十八条
+
+   　　二人以上依法承担连带责任的，权利人有权请求部分或者全部连带责任人承担责任。连带责任人的责任份额根据各自责任大小确定；难以确定责任大小的，平
+   均承担责任。实际承担责任超过自己责任份额的连带责任人，有权向其他连带责任人追偿。连带责任，由法律规定或者当事人约定。
+
+   　　单独责任与多数人责任
+
+   　　民事责任分为单独责任和多数人责任。单独责任是一个民事主体承担责任；多数人责任是两个或两个以上民事主体共同承担责任。
+
+   　　其中，民法典将两个以上民事主体承担民事责任的情形分为两类：按份责任和连带责任。按份责任是指责任人按照一定比例向对方当事人或权利人承担责任；
+   连带责任是指权利人可以要求任何一个责任人全部或部分履行民事责任。
+
+   　　《中华人民共和国民法典》第一百七十六条
+
+   　　民事主体依照法律规定或者按照当事人约定，履行民事义务，承担民事责任。
+
+   中国政府网及国务院部门网站|
+     * [92]中国政府网
+     * [93]外交部
+     * [94]国防部
+     * [95]国家发展和改革委员会
+     * [96]教育部
+     * [97]科学技术部
+     * [98]工业和信息化部
+     * [99]国家民族事务委员会
+     * [100]公安部
+     * [101]监察部
+     * [102]民政部
+     * [103]司法部
+     * [104]财政部
+     * [105]人力资源和社会保障部
+     * [106]自然资源部
+     * [107]生态环境部
+     * [108]住房和城乡建设部
+     * [109]交通运输部
+     * [110]水利部
+     * [111]农业农村部
+     * [112]商务部
+     * [113]文化和旅游部
+     * [114]国家卫生健康委员会
+     * [115]退役军人事务部
+     * [116]应急管理部
+     * [117]人民银行
+     * [118]审计署
+     * [119]国家语言文字工作委员会
+     * [120]国家航天局
+     * [121]国家原子能机构
+     * [122]国家核安全局
+     * [123]国务院国有资产监督管理委员会
+     * [124]海关总署
+     * [125]国家税务总局
+     * [126]国家市场监督管理总局
+     * [127]国家广播电视总局
+     * [128]国家体育总局
+     * [129]国家统计局
+     * [130]国家国际发展合作署
+     * [131]国家医疗保障局
+     * [132]国务院参事室
+     * [133]国家机关事务管理局
+     * [134]国家认证认可监督管理委员会
+     * [135]国家标准化管理委员会
+     * [136]国家新闻出版署（国家版权局）
+     * [137]国家宗教事务局
+     * [138]国务院港澳事务办公室
+     * [139]国务院研究室
+     * [140]国务院侨务办公室
+     * [141]国务院台湾事务办公室
+     * [142]国家互联网信息办公室
+     * [143]国务院新闻办公室
+     * [144]新华通讯社
+     * [145]中国科学院
+     * [146]中国社会科学院
+     * [147]中国工程院
+     * [148]国务院发展研究中心
+     * [149]中国气象局
+     * [150]中国银行保险监督管理委员会
+     * [151]中国证券监督管理委员会
+     * [152]国家行政学院
+     * [153]国家信访局
+     * [154]国家粮食和物资储备局
+     * [155]国家能源局
+     * [156]国家国防科技工业局
+     * [157]国家烟草专卖局
+     * [158]国家移民管理局
+     * [159]国家林业和草原局
+     * [160]国家铁路局
+     * [161]中国民用航空局
+     * [162]国家邮政局
+     * [163]国家文物局
+     * [164]国家中医药管理局
+     * [165]国家矿山安全监察局
+     * [166]国家外汇管理局
+     * [167]国家公园管理局
+     * [168]国家公务员局
+     * [169]国家保密局
+     * [170]国家密码管理局
+
+   市级政府部门网站|
+     * [171]市政府办公�
+     * [172]市发展改革委
+     * [173]市教委
+     * [174]市科委
+     * [175]市经济和信息化局
+     * [176]市民族宗教委
+     * [177]市公安局
+     * [178]市民政局
+     * [179]市司法局
+     * [180]市财政局
+     * [181]市人力资源社会保障局
+     * [182]市规划自然资源委
+     * [183]市生态环境局
+     * [184]市住房城乡建设委
+     * [185]市城市管理委
+     * [186]市交通委
+     * [187]市水务局
+     * [188]市农业农村局
+     * [189]市商务委
+     * [190]市文化和旅游局
+     * [191]市卫生健康委
+     * [192]市退役军人事务局
+     * [193]市应急局
+     * [194]市市场监管局
+     * [195]市审计局
+     * [196]市政府外办
+     * [197]市国资委
+     * [198]市广电局
+     * [199]市文物局
+     * [200]市体育局
+     * [201]市统计局
+     * [202]市园林绿化局
+     * [203]市金融监管局
+     * [204]市政务服务局
+     * [205]市机关事务局
+     * [206]市国动办
+     * [207]市信访办
+     * [208]市知识产权局
+     * [209]市医保局
+     * [210]市政府参事室
+
+   其他省市司法厅局网站|
+     * [211]司法部
+     * [212]天津市司法局
+     * [213]河北省司法�
+     * [214]山西省司法�
+     * [215]内蒙古自治区司法�
+     * [216]辽宁省司法�
+     * [217]吉林省司法�
+     * [218]黑龙江司法�
+     * [219]上海市司法局
+     * [220]江苏省司法�
+     * [221]浙江省司法�
+     * [222]安徽省司法�
+     * [223]福建省司法�
+     * [224]江西省司法�
+     * [225]山东省司法�
+     * [226]河南省司法�
+     * [227]湖北省司法�
+     * [228]湖南省司法�
+     * [229]广西壮族自治区司法�
+     * [230]海南省司法�
+     * [231]重庆市司法局
+     * [232]四川省司法�
+     * [233]贵州省司法�
+     * [234]云南省司法�
+     * [235]陕西省司法�
+     * [236]甘肃省司法�
+     * [237]青海省司法�
+     * [238]宁夏回族自治区司法�
+     * [239]新疆维吾尔自治区司法�
+     * [240]兵团司法局
+
+   北京市司法局直属单位网站
+     * [241]北京司法鉴定业协会
+     * [242]市公证协会
+     * [243]市律师协会
+     * [244]市法律援助基金会
+
+     * [245]联系我们[246]关于我们
+       [247]站点地图[248]法律声明
+       [249]建议意见
+     * 地址 ：北京市通州区运河东大街57号
+       电话 ：010-55579133 传真 ：010-55578900
+       扫黑除恶举报电话：010-55579000[250]监督举报平台
+     * 京司观澜
+       京司观澜
+       北京司法
+       北京司法
+       北京法援
+       12348
+       北京普法
+       北京普法
+
+   [251]党政机关
+
+   主办：北京市司法局
+
+   承办：北京市司法局办公室、信息技术处
+
+   政府网站标识码：1100000008 [252]京公网安备 11010202007656号 京ICP备05083557号
+
+   您访问的链接即将离开“北京市司法局”门户网站 是否继续？
+
+   放弃
 
 References
 
-   1. https://www.googletagmanager.com/ns.html?id=GTM-PD5P6B6
-   2. https://www.googletagmanager.com/ns.html?id=GTM-LQCS
-   3. https://www.un.org/zh/chronicle/article/20732#main-content
-   4. https://www.un.org/
-   5. https://www.un.org/ar/page/35469
-   6. https://www.un.org/zh/page/35466
-   7. https://www.un.org/ru/page/404
-   8. https://www.un.org/es/page/404
-   9. https://www.un.org/zh
-  10. https://www.un.org/zh/chronicle/article/20732
-  11. https://www.un.org/zh/about-us
-  12. https://www.un.org/zh/about-us/member-states
-  13. https://www.un.org/zh/about-us/main-bodies
-  14. https://www.un.org/sg/zh
-  15. https://www.un.org/zh/about-us/secretariat
-  16. https://www.un.org/zh/about-us/un-system
-  17. https://www.un.org/zh/about-us/history-of-the-un
-  18. https://www.un.org/zh/about-us/un-emblem-and-flag
-  19. https://www.un.org/zh/about-us/un-charter
-  20. https://www.un.org/zh/about-us/universal-declaration-of-human-rights
-  21. https://www.un.org/zh/about-us/un-charter/statute-of-the-international-court-of-justice
-  22. https://www.un.org/zh/about-us/nobel-peace-prize
-  23. https://www.un.org/zh/our-work
-  24. https://www.un.org/zh/our-work/maintain-international-peace-and-security
-  25. https://www.un.org/zh/our-work/protect-human-rights
-  26. https://www.un.org/zh/our-work/deliver-humanitarian-aid
-  27. https://www.un.org/zh/our-work/support-sustainable-development-and-climate-action
-  28. https://www.un.org/zh/our-work/uphold-international-law
-  29. https://www.un.org/zh/global-issues
-  30. https://www.un.org/zh/our-work/documents
-  31. https://www.un.org/zh/our-work/official-languages
-  32. https://www.un.org/zh/observances
-  33. https://www.un.org/zh/events-and-news
-  34. https://www.un.org/zh/get-involved
-  35. https://www.un.org/zh/situation-in-occupied-palestine-and-israel
-  36. https://www.un.org/zh/
-  37. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
-  38. https://www.un.org/zh/site-index
-  39. https://www.un.org/zh/contact
-  40. https://www.un.org/zh/about-us/copyright
-  41. https://www.un.org/zh/about-us/frequently-asked-questions
-  42. https://www.un.org/zh/about-us/fraud-alert
-  43. https://www.un.org/zh/about-us/privacy-notice
-  44. https://www.un.org/zh/about-us/terms-of-use
+   Visible links:
+   1. https://sfj.beijing.gov.cn/sfj/index/index.html
+   2. http://www.beijing.gov.cn/
+   3. https://www.beijing.gov.cn/hudong/yonghu
+   4. https://sfj.beijing.gov.cn/jj/
+   5. javascript:StranBody()
+   6. https://sfj.beijing.gov.cn/sfj/index/ydb25/index.html
+   7. javascript:;
+   8. https://sfj.beijing.gov.cn/sfj/index/index.html
+   9. https://sfj.beijing.gov.cn/sfj/sfdt/index.html
+  10. https://sfj.beijing.gov.cn/sfj/sfdt/sfxzyw59/index.html
+  11. https://sfj.beijing.gov.cn/sfj/sfdt/ywdt82/index.html
+  12. https://sfj.beijing.gov.cn/sfj/sfdt/fzxc74/index.html
+  13. https://sfj.beijing.gov.cn/sfj/sfdt/dwjs30/index.html
+  14. https://sfj.beijing.gov.cn/sfj/sfdt/rdzz8/index.html
+  15. https://sfj.beijing.gov.cn/sfj/sfdt/ztzl74/index.html
+  16. https://sfj.beijing.gov.cn/sfj/zwgk/index.html
+  17. https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/index.html
+  18. https://sfj.beijing.gov.cn/sfj/zwgk/zcjd59/index.html
+  19. https://sfj.beijing.gov.cn/sfj/zwgk/ghjh84/index.html
+  20. https://sfj.beijing.gov.cn/sfj/zwgk/cwgk48/ysgk67/index.html
+  21. https://sfj.beijing.gov.cn/sfj/zwgk/tzgg75/index.html
+  22. https://sfj.beijing.gov.cn/sfj/zwgk/rsdt36/index.html
+  23. https://sfj.beijing.gov.cn/sfj/zwgk/ywsj28/jdsj/index.html
+  24. https://sfj.beijing.gov.cn/sfj/zwgk/cxjl79/index.html
+  25. https://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/flfggz61/index.html
+  26. http://banshi.beijing.gov.cn/pubtask/bmfw.html?locationCode=110000000000&deptCode=11110000000029209E
+  27. https://sfj.beijing.gov.cn/sfj/wsbs2/index.html
+  28. https://sfj.beijing.gov.cn/sfj/wsbs2/bszn53/index.html
+  29. https://sfj.beijing.gov.cn/sfj/wsbs2/bstj71/index.html
+  30. https://sfj.beijing.gov.cn/sfj/wsbs2/bgxz62/index.html
+  31. https://sfj.beijing.gov.cn/sfj/wsbs2/cxfw48/index.html
+  32. https://sfyw.sfj.beijing.gov.cn/lsgl/bulletinAction.do?method=queryBulletinListForHome&jggs=jggs&f=more
+  33. https://sfj.beijing.gov.cn/sfj/wsbs2/wsxzfy/tjfysq/index.html
+  34. https://sfj.beijing.gov.cn/sfj/zmhd15/index.html
+  35. https://sfj.beijing.gov.cn/hudong/xinxiang/sfj/sindex/xx-sfj.html
+  36. https://sfj.beijing.gov.cn/sfj/zmhd15/zxft24/index.html
+  37. https://sfj.beijing.gov.cn/sfj/zmhd15/mydc42/index.html
+  38. https://sfj.beijing.gov.cn/jj/
+  39. https://sfj.beijing.gov.cn/sfj/zmhd15/jjkg96/index.html
+  40. https://sfj.beijing.gov.cn/sfj/zmhd15/lytj30/index.html
+  41. https://sfj.beijing.gov.cn/sfj/index/index.html
+  42. javascript:void(0)
+  43. https://sfj.beijing.gov.cn/sfj/index/index.html
+  44. https://sfj.beijing.gov.cn/sfj/sfdt/index.html
+  45. https://sfj.beijing.gov.cn/sfj/sfdt/sfxzyw59/index.html
+  46. https://sfj.beijing.gov.cn/sfj/sfdt/ywdt82/index.html
+  47. https://sfj.beijing.gov.cn/sfj/sfdt/fzxc74/index.html
+  48. https://sfj.beijing.gov.cn/sfj/sfdt/dwjs30/index.html
+  49. https://sfj.beijing.gov.cn/sfj/sfdt/rdzz8/index.html
+  50. https://sfj.beijing.gov.cn/sfj/sfdt/ztzl74/index.html
+  51. https://sfj.beijing.gov.cn/sfj/zwgk/index.html
+  52. https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/index.html
+  53. https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/651831/index.html
+  54. https://sfj.beijing.gov.cn/sfj/zwgk/sfjjs93/474449/ywcs4/index.html
+  55. https://sfj.beijing.gov.cn/sfj/zwgk/zcjd59/index.html
+  56. https://sfj.beijing.gov.cn/sfj/zwgk/ghjh84/index.html
+  57. https://sfj.beijing.gov.cn/sfj/zwgk/cwgk48/ysgk67/index.html
+  58. https://sfj.beijing.gov.cn/sfj/zwgk/cwgk48/ysgk67/index.html
+  59. https://sfj.beijing.gov.cn/sfj/zwgk/cwgk48/jsgk31/index.html
+  60. https://sfj.beijing.gov.cn/sfj/zwgk/cwgk48/qt15/index.html
+  61. https://sfj.beijing.gov.cn/sfj/zwgk/tzgg75/index.html
+  62. https://sfj.beijing.gov.cn/sfj/zwgk/rsdt36/index.html
+  63. https://sfj.beijing.gov.cn/sfj/zwgk/ywsj28/jdsj/index.html
+  64. https://sfj.beijing.gov.cn/sfj/zwgk/ywsj28/jdsj/index.html
+  65. https://sfj.beijing.gov.cn/sfj/zwgk/ywsj28/ndsj/index.html
+  66. https://sfj.beijing.gov.cn/sfj/zwgk/cxjl79/index.html
+  67. https://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/flfggz61/index.html
+  68. https://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/flfggz61/index.html
+  69. https://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/gfxwj85/index.html
+  70. http://banshi.beijing.gov.cn/pubtask/bmfw.html?locationCode=110000000000&deptCode=11110000000029209E
+  71. https://sfj.beijing.gov.cn/sfj/wsbs2/index.html
+  72. https://sfj.beijing.gov.cn/sfj/wsbs2/bszn53/index.html
+  73. https://sfj.beijing.gov.cn/sfj/wsbs2/bstj71/index.html
+  74. https://sfj.beijing.gov.cn/sfj/wsbs2/bgxz62/index.html
+  75. https://sfj.beijing.gov.cn/sfj/wsbs2/cxfw48/index.html
+  76. https://sfyw.sfj.beijing.gov.cn/lsgl/bulletinAction.do?method=queryBulletinListForHome&jggs=jggs&f=more
+  77. https://sfj.beijing.gov.cn/sfj/wsbs2/wsxzfy/tjfysq/index.html
+  78. https://sfj.beijing.gov.cn/sfj/wsbs2/wsxzfy/tjfysq/index.html
+  79. https://sfj.beijing.gov.cn/sfj/wsbs2/wsxzfy/fysqbxz/index.html
+  80. https://sfj.beijing.gov.cn/sfj/wsbs2/wsxzfy/fyzn/fyjj/index.html
+  81. https://sfj.beijing.gov.cn/sfj/zmhd15/index.html
+  82. https://sfj.beijing.gov.cn/hudong/xinxiang/sfj/sindex/xx-sfj.html
+  83. https://sfj.beijing.gov.cn/sfj/zmhd15/zxft24/index.html
+  84. https://sfj.beijing.gov.cn/sfj/zmhd15/mydc42/index.html
+  85. https://sfj.beijing.gov.cn/jj/
+  86. https://sfj.beijing.gov.cn/sfj/zmhd15/jjkg96/index.html
+  87. https://sfj.beijing.gov.cn/sfj/zmhd15/lytj30/index.html
+  88. https://sfj.beijing.gov.cn/sfj/index/index.html
+  89. https://sfj.beijing.gov.cn/sfj/sfdt/index.html
+  90. javascript:void(0)
+  91. javascript:void(0)
+  92. http://www.gov.cn/
+  93. http://www.fmprc.gov.cn/
+  94. http://www.mod.gov.cn/
+  95. http://www.ndrc.gov.cn/
+  96. http://www.moe.gov.cn/
+  97. http://www.most.gov.cn/
+  98. http://www.miit.gov.cn/
+  99. http://www.seac.gov.cn/
+ 100. https://www.mps.gov.cn/
+ 101. http://www.ccdi.gov.cn/
+ 102. http://www.mca.gov.cn/
+ 103. http://www.moj.gov.cn/
+ 104. http://www.mof.gov.cn/
+ 105. http://www.mohrss.gov.cn/
+ 106. http://www.mnr.gov.cn/
+ 107. http://www.mee.gov.cn/
+ 108. http://www.mohurd.gov.cn/
+ 109. http://www.mot.gov.cn/
+ 110. http://www.mwr.gov.cn/
+ 111. http://www.moa.gov.cn/
+ 112. http://www.mofcom.gov.cn/
+ 113. http://www.mct.gov.cn/
+ 114. http://www.nhc.gov.cn/
+ 115. http://www.mva.gov.cn/
+ 116. http://www.mem.gov.cn/
+ 117. http://www.pbc.gov.cn/
+ 118. http://www.audit.gov.cn/
+ 119. http://www.moe.gov.cn/jyb_sy/China_Language/
+ 120. http://www.cnsa.gov.cn/
+ 121. http://www.caea.gov.cn/
+ 122. http://nnsa.mee.gov.cn/
+ 123. http://www.sasac.gov.cn/index.html
+ 124. http://www.customs.gov.cn/
+ 125. http://www.chinatax.gov.cn/
+ 126. http://www.samr.gov.cn/
+ 127. http://www.nrta.gov.cn/
+ 128. http://www.sport.gov.cn/
+ 129. http://www.stats.gov.cn/
+ 130. http://www.cidca.gov.cn/
+ 131. http://www.nhsa.gov.cn/
+ 132. http://www.counsellor.gov.cn/
+ 133. http://www.ggj.gov.cn/
+ 134. http://www.cnca.gov.cn/
+ 135. http://www.sac.gov.cn/
+ 136. http://www.ncac.gov.cn/
+ 137. http://www.sara.gov.cn/
+ 138. http://www.hmo.gov.cn/
+ 139. http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm
+ 140. http://www.gqb.gov.cn/
+ 141. http://www.gwytb.gov.cn/
+ 142. http://www.cac.gov.cn/
+ 143. http://www.scio.gov.cn/index.htm
+ 144. http://203.192.6.89/xhs/
+ 145. http://www.cas.cn/
+ 146. http://www.cass.cn/
+ 147. http://www.cae.cn/
+ 148. http://www.drc.gov.cn/
+ 149. http://www.cma.gov.cn/
+ 150. http://www.cbirc.gov.cn/
+ 151. http://www.csrc.gov.cn/
+ 152. http://www.ccps.gov.cn/
+ 153. http://www.gjxfj.gov.cn/
+ 154. http://www.lswz.gov.cn/
+ 155. http://www.nea.gov.cn/
+ 156. http://www.sastind.gov.cn/
+ 157. http://www.tobacco.gov.cn/html/
+ 158. https://www.nia.gov.cn/
+ 159. http://www.forestry.gov.cn/
+ 160. http://www.nra.gov.cn/
+ 161. http://www.caac.gov.cn/index.html
+ 162. http://bj.spb.gov.cn/
+ 163. http://www.ncha.gov.cn/
+ 164. http://www.natcm.gov.cn/
+ 165. https://www.chinamine-safety.gov.cn/
+ 166. http://www.safe.gov.cn/
+ 167. http://www.forestry.gov.cn/
+ 168. http://www.scs.gov.cn/
+ 169. http://www.gjbmj.gov.cn/
+ 170. http://www.oscca.gov.cn/
+ 171. https://www.beijing.gov.cn/gongkai/zfxxgk/szfbgt/
+ 172. http://fgw.beijing.gov.cn/
+ 173. http://jw.beijing.gov.cn/
+ 174. http://kw.beijing.gov.cn/
+ 175. http://jxj.beijing.gov.cn/
+ 176. http://mzzjw.beijing.gov.cn/
+ 177. http://gaj.beijing.gov.cn/
+ 178. http://mzj.beijing.gov.cn/
+ 179. https://sfj.beijing.gov.cn/
+ 180. http://czj.beijing.gov.cn/
+ 181. http://rsj.beijing.gov.cn/
+ 182. http://ghzrzyw.beijing.gov.cn/
+ 183. http://sthjj.beijing.gov.cn/
+ 184. http://zjw.beijing.gov.cn/
+ 185. http://csglw.beijing.gov.cn/
+ 186. http://jtw.beijing.gov.cn/
+ 187. http://swj.beijing.gov.cn/
+ 188. http://nyncj.beijing.gov.cn/
+ 189. http://sw.beijing.gov.cn/
+ 190. http://whlyj.beijing.gov.cn/
+ 191. http://wjw.beijing.gov.cn/
+ 192. http://tyjrswj.beijing.gov.cn/
+ 193. http://yjglj.beijing.gov.cn/
+ 194. http://scjgj.beijing.gov.cn/
+ 195. http://sjj.beijing.gov.cn/
+ 196. http://wb.beijing.gov.cn/
+ 197. http://gzw.beijing.gov.cn/
+ 198. http://gdj.beijing.gov.cn/
+ 199. http://wwj.beijing.gov.cn/
+ 200. http://tyj.beijing.gov.cn/
+ 201. http://tjj.beijing.gov.cn/
+ 202. http://yllhj.beijing.gov.cn/
+ 203. http://jrj.beijing.gov.cn/
+ 204. http://zwfwj.beijing.gov.cn/
+ 205. http://jgj.beijing.gov.cn/
+ 206. http://gdb.beijing.gov.cn/
+ 207. http://xfb.beijing.gov.cn/
+ 208. http://zscqj.beijing.gov.cn/
+ 209. http://ybj.beijing.gov.cn/
+ 210. https://www.beijing.gov.cn/gongkai/zfxxgk/szfcss/
+ 211. http://www.moj.gov.cn/
+ 212. http://sf.tj.gov.cn/
+ 213. http://sft.hebei.gov.cn/
+ 214. http://sft.shanxi.gov.cn/
+ 215. http://sft.nmg.gov.cn/
+ 216. http://sft.ln.gov.cn/
+ 217. http://sft.jl.gov.cn/
+ 218. http://sft.hlj.gov.cn/
+ 219. http://sfj.sh.gov.cn/
+ 220. http://sft.jiangsu.gov.cn/
+ 221. http://sft.zj.gov.cn/
+ 222. http://sft.ah.gov.cn/
+ 223. http://sft.fujian.gov.cn/
+ 224. http://sf.jiangxi.gov.cn/
+ 225. http://sft.shandong.gov.cn/
+ 226. http://sft.henan.gov.cn/
+ 227. http://sft.hubei.gov.cn/
+ 228. http://sft.hunan.gov.cn/
+ 229. http://sft.gxzf.gov.cn/
+ 230. http://justice.hainan.gov.cn/
+ 231. http://sfj.cq.gov.cn/
+ 232. http://sft.sc.gov.cn/
+ 233. http://sft.guizhou.gov.cn/
+ 234. http://sft.yn.gov.cn/
+ 235. http://www.fzsx.gov.cn/
+ 236. http://sft.gansu.gov.cn/
+ 237. http://sft.qinghai.gov.cn/
+ 238. https://sft.nx.gov.cn/
+ 239. http://sft.xinjiang.gov.cn/
+ 240. http://sfj.xjbt.gov.cn/
+ 241. http://www.bafs.org.cn/
+ 242. http://www.chinabjnotary.org.cn/
+ 243. https://www.beijinglawyers.org.cn/
+ 244. http://www.fyjjh.org.cn/
+ 245. https://sfj.beijing.gov.cn/sfj/index/1752975/index.html
+ 246. https://sfj.beijing.gov.cn/sfj/index/gywm/index.html
+ 247. https://sfj.beijing.gov.cn/sfj/index/wzdt42/index.html
+ 248. https://sfj.beijing.gov.cn/sfj/index/flsm/index.html
+ 249. https://sfj.beijing.gov.cn/sfj/index/yjjy/index.html
+ 250. https://sfj.beijing.gov.cn/sfj/zmhd15/jjkg96/index.html
+ 251. http://bszs.conac.cn/sitename?method=show&id=0A8CECA170981A45E053022819ACF74F
+ 252. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007656
+
+   Hidden links:
+ 254. https://sfj.beijing.gov.cn/sfj/sfdt/jssp/436241213/index.html
+ 255. javascript:;

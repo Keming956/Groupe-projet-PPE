@@ -1,158 +1,333 @@
-   [share_logo.jpg]
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]Punch Powertrain » Feed
+   [10]Punch Powertrain » 评论Feed [11]alternate [12]alternate
 
-   [1][logo.png]
-     * [2]时政
-     * [3]封面
-     * [4]热点
-     * [5]政务
-     * [6]深瞳
-     * [7]视频
-     * [8]国�
-     * [9]地方
-     * [10]园区
-     * [11]专题
-     * [12]English
-     * [13]滚动
+   IFRAME: [13]https://www.googletagmanager.com/ns.html?id=GTM-THR5DVGR
 
-   __________________________________________________
-   Submit
+   [tr?id=798726205047143&ev=PageView&noscript=1]
 
-   [error_1.jpg]
-   您访问页面无法找到，秒后将跳回[14]首页
-   如您是在地址栏输入网址的，请确认其拼写正确。注意：大多数网址是区分大小的。
-   您可通过此选项向我们提交网站建议并告诉我们无效的链接。[15]网站建议
+   IFRAME: [14]https://www.googletagmanager.com/ns.html?id=GTM-WXG2Z3L
 
-   [cxzgewm.png]
+   [15]Skip to content
 
-友情链接
+     * [16]CN-S
+          + [17]EN
+          + [18]NL
+          + [19]FR
+          + [20]DE
+          + [21]意大利语
+          + [22]CN
 
-     * [16]中国政府网
-     * [17]国家发展和改革委员会
-     * [18]教育部
-     * [19]科学技术部
-     * [20]工业和信息化部
-     * [21]公安部
-     * [22]民政部
-     * [23]司法部
-     * [24]自然资源部
-     * [25]生态环境部
-     * [26]住房和城乡建设部
-     * [27]交通运输部
-     * [28]水利部
-     * [29]农业农村部
-     * [30]国家卫生健康委员会
-     * [31]国家市场监督管理总局
-     * [32]国家广播电视总局
-     * [33]国家体育总局
-     * [34]国家互联网信息办公室
-     * [35]国务院新闻办公室
-     * [36]中国科学院
-     * [37]中国社会科学院
-     * [38]中国工程院
-     * [39]国家文物局
-     * [40]国家知识产权局
-     * [41]人民网
-     * [42]新华网
-     * [43]中国网
-     * [44]国际在线
-     * [45]中国日报网
-     * [46]央视网
-     * [47]中国青年网
-     * [48]中国经济网
-     * [49]中国台湾网
-     * [50]中国西藏网
-     * [51]央广网
-     * [52]光明网
-     * [53]中国军网
-     * [54]中国新闻网
-     * [55]人民政协网
-     * [56]法治网
+   [23]我们的故事
 
-     * [57]科技日报社概况
-     * [58]科技日报概况
-     * [59]报社领导
-     * [60]关于中国科技网
-     * [61]联系我们
-     * [62]科技日报社公开招聘公告
-     * [63]互联网新闻信息服务许可证
-     * [64]信息网络传播视听节目许可证
-     * [65]举报平台
-     * [66]版权声明
+     * [24]我们的宗旨和价值观
+     * [25]我们的领导团队
+     * [26]我们的企业社会责任
+     * [27]新闻与事件
+     * [28]研发
+     * [29]测试
+     * [30]卓越运营
+     * [31]我们的合作精神
 
-   Copyright © Science and Technology Daily, All Rights Reserved
-          中国科技网 版权所有
+   [32]我们的产品
 
-     * [67]京ICP备06005116号
-     * [68]违法和不良信息举报电话：010-58884065
-     * 京公网安备 110402500060
+     * [33]电动汽车解决方案
+          + [34]集成电驱
+          + [35]减速机
+          + [36]电机
+          + [37]逆变器
+     * [38]混动变速箱
+          + [39]混合动力 DCT – DT2
+          + [40]混合动力 DCT – DT2
+          + [41]混合动力CVT – VT6
+     * [42]传统变速器
+          + [43]双离合变速箱 – DT1
+          + [44]无级变速器 – VT3
+          + [45]无级变速器 – VT5
+
+   [46]加入我们
+
+     * [47]Careers
+     * [48]合作伙伴
+     * [49]供应商
+
+     * [50]Careers
+     * [51]合作伙伴
+     * [52]供应商
+
+   [53]联系我们
+   [54]+32 11 67 91 11
+   [55]info@punchpowertrain.com
+   [56]sales@punchpowertrain.com
+   [57]Facebook-f [58]Twitter [59]Linkedin [60]Youtube
+
+                               企业社会责任是公司战略的关键组成部分
+
+     * 1月 27, 2023
+
+   企业社会责任是公司战略的关键组成部分
+
+   [61]Home > [62]News > [63]Corporate > 企业社会责任是公司战略的关键组成部分
+
+作为转型过程的一部分，邦奇动力管理团队启动了企业社会责任（CSR）战略。通过将企业社会责任融入公司传统并使其成为公司运营的重要组成部分，公司致力于在其运营
+所在的社区产生积极的影响。
+
+   在过去几年里，邦奇动力因其领先的实践和政策以及遵守严格的道德准则（该准则适用于公司内部及其下游供应链）而获得广泛认可。此外，公司坚持高度关注可
+   持续发展和清洁能源，在汽车动力系统领域提供价格合理的创新和更加可持续的产品。
+
+   虽然公司表现积极，但以前的大多数举措和政策都源于推动行业进步和行业最佳实践而不是预先制定的整体战略。为了使企业社会责任在公司运营中制度化，邦奇
+   动力成立了管理级别的可持续发展指导委员会，以制定战略和计划。
+
+   Punch Powertrain CSR
+
+   企业社会责任理念
+
+   2022年底在内部发布的企业社会责任章程概述了公司理念：
+
+   “我们致力于在公司内部以及我们运营的社会实现我们的愿景—‘以动力系统驱动世界可持续发展！’。
+
+   邦奇动力以联合国提出的8项可持续发展目标（SDG）为目标，志在为这些目标做出有意义的贡献。
+
+   为了推动决定性行动，GEAR UP PF价值观和政策作为公司商业战略的一部分，为社会和人类的进步提供了指导。
+
+   我们的目标包括到2035年完全实现气候中和。”
+
+     邦奇动力以联合国提出的8项可持续发展目标（SDG）为目标，志在为这些目标做出有意义的贡献。
+
+   Punch Powertrain
+   CSR
+
+   展望未来，公司重点关注17个可持续发展目标（SDG）中的8个：
+
+   可持续发展目标1：消除贫困
+
+   可持续发展目标5：性别平等
+
+   可持续发展目标6：清洁饮水与卫生设施
+
+   可持续发展目标7：可负担的清洁能源
+
+   可持续发展目标9：工业、创新和基础设施
+
+   可持续发展目标12：责任性消费和生产
+
+   可持续发展目标13：气候行动
+
+   可持续发展目标15：陆地生物
+
+   企业社会责任理念的目标是在2023年完全融入公司商业战略，并于2025年发布第一份外部审计和可持续发展报告。公司的可持续发展目标包括“到203
+   5年实现气候中和”。
+
+   推动行动的变革推动�
+
+   为了支持这些基层运动，公司建立了企业社会责任倡导者或“变革推动者”网络。在发出内部呼吁之后，有40多名同事（占公司全球员工的2%以上）承诺系统
+   地推动积极行动。
+
+   “看到我们的团队如此积极地为公司的可持续发展做出贡献，我们感到无比自豪！”邦奇动力首席质量官和公司CSR负责人Steffen
+   Baetzel对此表示。“我们这个团体表现出的创造力和热情确实令人鼓舞。欢迎大家提出更多创新的想法，并期待在不久的将来实施它们，与世界分享我们
+   的进步。”
+
+   变革推动者小组在执行指导委员会与整个组织之间建立起沟通的桥梁。执行指导委员会和变革推动者每月举行一次会议，确定要采取的行动并评估行动进展情况。
+   而执行管理层则提供支持并做出决定，以进一步塑造企业社会责任工作。
+
+   根据企业社会责任年度计划，这些举措将在全公司全体会议和年终总结中得到强调和表彰。通过推动和支持企业社会责任方面的工作，邦奇动力正在落实和加强其
+   承诺，成为一个面向未来、可持续和对社会负责的组织。
+
+   合作精神
+
+   邦奇动力将积极参与各种旨在促进可持续发展的网络及合作伙伴关系。与行业协会Agoria建立起良好的合作关系，并加入了“Pura项目”，这是一个专
+   注于可持续发展的网络组织。这些合作项目秉承了邦奇动力的合作精神，其目的是分享最佳实践、想法和经验教训。
+
+Related news items
+
+   Corporate
+   创新部长和市长参观邦奇动力公司: 关于提升创新能力的对话
+   23.08.2023-News
+   创新部长和市长参观邦奇动力公司: 关于提升创新能力的对话
+   Corporate
+   邦奇动力公司荷兰埃因霍温分部庆祝成立十周年
+   17.07.2023-News
+   邦奇动力公司荷兰埃因霍温分部庆祝成立十周年
+   Corporate
+   邦奇动力总成在 2023 年金色科技展上获奖
+   21.06.2023-News
+   邦奇动力总成在 2023 年金色科技展上获奖
+
+   [64]Home > [65]News > [66]Corporate > 企业社会责任是公司战略的关键组成部分
+
+   Punch Powertrain nv
+   Ondernemerslaan 5429
+   3800 Sint-Truiden
+   Belgium
+
+   [67]Our story
+
+     * [68]我们的宗旨和价值观
+     * [69]我们的领导团队
+     * [70]我们的企业社会责任
+     * [71]新闻与事件
+     * [72]研发
+     * [73]测试
+     * [74]卓越运营
+     * [75]我们的合作精神
+
+   [76]Our products
+
+     * [77]电动汽车解决方案
+          + [78]集成电驱
+          + [79]减速机
+          + [80]电机
+          + [81]逆变器
+     * [82]混动变速箱
+          + [83]混合动力 DCT – DT2
+          + [84]混合动力 DCT – DT2
+          + [85]混合动力CVT – VT6
+     * [86]传统变速器
+          + [87]双离合变速箱 – DT1
+          + [88]无级变速器 – VT3
+          + [89]无级变速器 – VT5
+
+   [90]Join us
+
+     * [91]Careers
+     * [92]合作伙伴
+     * [93]供应商
+
+     * [94]Careers
+     * [95]合作伙伴
+     * [96]供应商
+
+   [97]Contact us
+   [98]+32 11 67 91 11
+   [99]info@punchpowertrain.com
+   [100]sales@punchpowertrain.com
+   [101]Facebook-f [102]Twitter [103]Linkedin [104]Youtube
+
+   [105]Disclaimer – [106]Privacy policy – [107]Cookie policy
+
+下载技术规格书
+
+   姓_�� _
+   公�_名称 _
+   职_�� _
+   电子�_�件地址 _
+   [ ] 我已阅读并同意[108]隐私政策。
+   (BUTTON) 下载
 
 References
 
-   1. http://www.stdaily.com/
-   2. http://www.stdaily.com/kjxx/index.shtml
-   3. http://www.stdaily.com/index/fmxw/common_list_2021.shtml
-   4. http://www.stdaily.com/index/kjxw/kjxw.shtml
-   5. http://www.stdaily.com/kjzc/index.shtml
-   6. http://www.stdaily.com/cehua/kjrbst/shentong.shtml
-   7. http://www.stdaily.com/index/sysp/cxzg_list.shtml
-   8. http://www.stdaily.com/guoji/
-   9. http://www.stdaily.com/02/index.shtml
-  10. http://www.stdaily.com/cxyq/index.shtml
-  11. http://www.stdaily.com/index/ztlm/common_list_2021.shtml
-  12. http://www.stdaily.com/English/index.shtml
-  13. http://www.stdaily.com/index/kejixinwen/kejixinwen.shtml
-  14. http://www.stdaily.com/
-  15. mailto:zongbianshi@wokeji.com
-  16. https://www.gov.cn/
-  17. http://www.ndrc.gov.cn/
-  18. http://www.moe.gov.cn/
-  19. http://www.most.gov.cn/index.html
-  20. https://www.miit.gov.cn/
-  21. https://www.mps.gov.cn/
-  22. http://www.mca.gov.cn/
-  23. http://www.moj.gov.cn/
-  24. http://www.mnr.gov.cn/
-  25. https://www.mee.gov.cn/
-  26. https://www.mohurd.gov.cn/
-  27. https://www.mot.gov.cn/
-  28. http://www.mwr.gov.cn/
-  29. http://www.moa.gov.cn/
-  30. http://www.nhc.gov.cn/
-  31. https://www.samr.gov.cn/
-  32. http://www.nrta.gov.cn/
-  33. https://www.sport.gov.cn/
-  34. http://www.cac.gov.cn/
-  35. http://www.scio.gov.cn/index.htm
-  36. https://www.cas.cn/
-  37. http://cass.cssn.cn/
-  38. https://www.cae.cn/
-  39. http://www.ncha.gov.cn/
-  40. https://www.cnipa.gov.cn/
-  41. http://www.people.com.cn/
-  42. http://www.news.cn/
-  43. http://www.china.com.cn/
-  44. http://www.cri.cn/
-  45. https://cn.chinadaily.com.cn/
-  46. https://www.cctv.com/
-  47. https://www.youth.cn/index.htm
-  48. http://www.ce.cn/
-  49. http://www.taiwan.cn/
-  50. http://www.tibet.cn/
-  51. http://www.cnr.cn/
-  52. https://www.gmw.cn/
-  53. http://www.81.cn/
-  54. https://www.chinanews.com.cn/
-  55. http://www.rmzxb.com.cn/index.shtml
-  56. http://www.legaldaily.com.cn/
-  57. http://www.stdaily.com/index/yqlj2/2019-07/12/content_777187.shtml
-  58. http://www.stdaily.com/index/yqlj2/202201/b1fa7143d2e04ce88033866956fdcebb.shtml
-  59. http://www.stdaily.com/index/yqlj2/202108/560250.shtml
-  60. http://www.stdaily.com/index/yqlj2/202203/57700e207355471a9341e0dd5b11fa57.shtml
-  61. http://www.stdaily.com/index/yqlj2/2016-09/02/content_143082.shtml
-  62. http://www.stdaily.com/index/zhaopinxx/common_list_2021.shtml
-  63. http://www.stdaily.com/index/yqlj2/202206/cae9791c6ba24b01bc44bf84af642d53.shtml
-  64. http://www.stdaily.com/index/yqlj2/202112/1238037.shtml
-  65. http://www.stdaily.com/index/yqlj2/2021-09/10/content_1218859.shtml
-  66. http://www.stdaily.com/index/yqlj2/2017-01/01/content_595705.shtml
-  67. https://beian.miit.gov.cn/
-  68. http://www.stdaily.com/index/yqlj2/201612/479754.shtml
+   Visible links:
+   1. https://punchpowertrain.com/news/corporate-social-responsibility-as-key-component-of-company-strategy/
+   2. https://punchpowertrain.com/nl/nieuws/maatschappelijk-verantwoord-ondernemen-als-belangrijk-onderdeel-van-bedrijfsstrategie/
+   3. https://punchpowertrain.com/fr/news/notre-responsabilite-sociale-dentreprise/
+   4. https://punchpowertrain.com/de/news/soziale-verantwortung-der-unternehmen-als-wesentlicher-bestandteil-der-unternehmensstrategie/
+   5. https://punchpowertrain.com/it/news/corporate-social-responsibility-as-key-component-of-company-strategy/
+   6. https://punchpowertrain.com/zh-hant/news/企业社会责任是公司战略的关键组成部分/
+   7. https://punchpowertrain.com/zh-hans/news/企业社会责任是公司战略的关键组成部分/
+   8. https://punchpowertrain.com/news/corporate-social-responsibility-as-key-component-of-company-strategy/
+   9. https://punchpowertrain.com/zh-hans/feed/
+  10. https://punchpowertrain.com/zh-hans/comments/feed/
+  11. https://punchpowertrain.com/zh-hans/wp-json/oembed/1.0/embed?url=https://punchpowertrain.com/zh-hans/news/%e4%bc%81%e4%b8%9a%e7%a4%be%e4%bc%9a%e8%b4%a3%e4%bb%bb%e6%98%af%e5%85%ac%e5%8f%b8%e6%88%98%e7%95%a5%e7%9a%84%e5%85%b3%e9%94%ae%e7%bb%84%e6%88%90%e9%83%a8%e5%88%86/
+  12. https://punchpowertrain.com/zh-hans/wp-json/oembed/1.0/embed?url=https://punchpowertrain.com/zh-hans/news/%e4%bc%81%e4%b8%9a%e7%a4%be%e4%bc%9a%e8%b4%a3%e4%bb%bb%e6%98%af%e5%85%ac%e5%8f%b8%e6%88%98%e7%95%a5%e7%9a%84%e5%85%b3%e9%94%ae%e7%bb%84%e6%88%90%e9%83%a8%e5%88%86/&format=xml
+  13. https://www.googletagmanager.com/ns.html?id=GTM-THR5DVGR
+  14. https://www.googletagmanager.com/ns.html?id=GTM-WXG2Z3L
+  15. https://punchpowertrain.com/zh-hans/news/企业社会责任是公司战略的关键组成部分/#content
+  16. https://punchpowertrain.com/zh-hans/news/企业社会责任是公司战略的关键组成部分/
+  17. https://punchpowertrain.com/news/corporate-social-responsibility-as-key-component-of-company-strategy/
+  18. https://punchpowertrain.com/nl/nieuws/maatschappelijk-verantwoord-ondernemen-als-belangrijk-onderdeel-van-bedrijfsstrategie/
+  19. https://punchpowertrain.com/fr/news/notre-responsabilite-sociale-dentreprise/
+  20. https://punchpowertrain.com/de/news/soziale-verantwortung-der-unternehmen-als-wesentlicher-bestandteil-der-unternehmensstrategie/
+  21. https://punchpowertrain.com/it/news/corporate-social-responsibility-as-key-component-of-company-strategy/
+  22. https://punchpowertrain.com/zh-hant/news/企业社会责任是公司战略的关键组成部分/
+  23. https://punchpowertrain.com/our-story/
+  24. https://punchpowertrain.com/zh-hans/我们的故事/我们的宗旨和价值观/
+  25. https://punchpowertrain.com/zh-hans/我们的故事/我们的领导团队/
+  26. https://punchpowertrain.com/zh-hans/我们的企业社会责任/
+  27. https://punchpowertrain.com/zh-hans/新闻与事件/
+  28. https://punchpowertrain.com/zh-hans/研发/
+  29. https://punchpowertrain.com/zh-hans/测试/
+  30. https://punchpowertrain.com/zh-hans/卓越运营/
+  31. https://punchpowertrain.com/zh-hans/我们的合作精神/
+  32. https://punchpowertrain.com/product/
+  33. https://punchpowertrain.com/zh-hans/产品/电动汽车解决方案/
+  34. https://punchpowertrain.com/zh-hans/products/集成电驱/
+  35. https://punchpowertrain.com/zh-hans/products/减速机/
+  36. https://punchpowertrain.com/zh-hans/products/电机/
+  37. https://punchpowertrain.com/zh-hans/products/逆变器/
+  38. https://punchpowertrain.com/zh-hans/产品/混动变速箱/
+  39. https://punchpowertrain.com/zh-hans/products/混合动力-dct-dt2/
+  40. https://punchpowertrain.com/zh-hans/products/混合动力-dct-dt2/
+  41. https://punchpowertrain.com/zh-hans/products/混合动力cvt-vt6/
+  42. https://punchpowertrain.com/zh-hans/产品/传统变速器/
+  43. https://punchpowertrain.com/zh-hans/products/双离合变速箱-dt1/
+  44. https://punchpowertrain.com/zh-hans/products/无级变速器-vt3/
+  45. https://punchpowertrain.com/zh-hans/products/无级变速器-vt5/
+  46. https://punchpowertrain.com/zh-hans/加入我们/
+  47. https://careers.punchpowertrain.com/
+  48. https://punchpowertrain.com/zh-hans/加入我们/合作伙伴/
+  49. https://punchpowertrain.com/zh-hans/加入我们/供应商/
+  50. https://careers.punchpowertrain.com/
+  51. https://punchpowertrain.com/zh-hans/加入我们/合作伙伴/
+  52. https://punchpowertrain.com/zh-hans/加入我们/供应商/
+  53. https://punchpowertrain.com/contact/
+  54. http://电话：+32 11 67 91 11/
+  55. mailto:info@punchpowertrain.com
+  56. mailto:sales@punchpowertrain.com
+  57. https://web.facebook.com/punchpowertrain
+  58. https://twitter.com/punchpowertrain/
+  59. https://www.linkedin.com/company/punch-powertrain
+  60. https://www.youtube.com/channel/UCRpq71wY6Pm-enI0_rOh3xQ
+  61. https://punchpowertrain.com/zh-hans/
+  62. https://punchpowertrain.com/zh-hans/news/
+  63. https://punchpowertrain.com/zh-hans/news/corporate-zh-hans/
+  64. https://punchpowertrain.com/zh-hans/
+  65. https://punchpowertrain.com/zh-hans/news/
+  66. https://punchpowertrain.com/zh-hans/news/corporate-zh-hans/
+  67. https://punchpowertrain.com/our-story/
+  68. https://punchpowertrain.com/zh-hans/我们的故事/我们的宗旨和价值观/
+  69. https://punchpowertrain.com/zh-hans/我们的故事/我们的领导团队/
+  70. https://punchpowertrain.com/zh-hans/我们的企业社会责任/
+  71. https://punchpowertrain.com/zh-hans/新闻与事件/
+  72. https://punchpowertrain.com/zh-hans/研发/
+  73. https://punchpowertrain.com/zh-hans/测试/
+  74. https://punchpowertrain.com/zh-hans/卓越运营/
+  75. https://punchpowertrain.com/zh-hans/我们的合作精神/
+  76. https://punchpowertrain.com/product/
+  77. https://punchpowertrain.com/zh-hans/产品/电动汽车解决方案/
+  78. https://punchpowertrain.com/zh-hans/products/集成电驱/
+  79. https://punchpowertrain.com/zh-hans/products/减速机/
+  80. https://punchpowertrain.com/zh-hans/products/电机/
+  81. https://punchpowertrain.com/zh-hans/products/逆变器/
+  82. https://punchpowertrain.com/zh-hans/产品/混动变速箱/
+  83. https://punchpowertrain.com/zh-hans/products/混合动力-dct-dt2/
+  84. https://punchpowertrain.com/zh-hans/products/混合动力-dct-dt2/
+  85. https://punchpowertrain.com/zh-hans/products/混合动力cvt-vt6/
+  86. https://punchpowertrain.com/zh-hans/产品/传统变速器/
+  87. https://punchpowertrain.com/zh-hans/products/双离合变速箱-dt1/
+  88. https://punchpowertrain.com/zh-hans/products/无级变速器-vt3/
+  89. https://punchpowertrain.com/zh-hans/products/无级变速器-vt5/
+  90. https://punchpowertrain.com/join-us/
+  91. https://careers.punchpowertrain.com/
+  92. https://punchpowertrain.com/zh-hans/加入我们/合作伙伴/
+  93. https://punchpowertrain.com/zh-hans/加入我们/供应商/
+  94. https://careers.punchpowertrain.com/
+  95. https://punchpowertrain.com/zh-hans/加入我们/合作伙伴/
+  96. https://punchpowertrain.com/zh-hans/加入我们/供应商/
+  97. https://punchpowertrain.com/contact/
+  98. tel:+32 11 67 91 11
+  99. mailto:info@punchpowertrain.com
+ 100. mailto:sales@punchpowertrain.com
+ 101. https://web.facebook.com/punchpowertrain
+ 102. https://twitter.com/punchpowertrain/
+ 103. https://www.linkedin.com/company/punch-powertrain
+ 104. https://www.youtube.com/channel/UCRpq71wY6Pm-enI0_rOh3xQ
+ 105. https://punchpowertrain.com/disclaimer/
+ 106. https://punchpowertrain.com/privacy-policy/
+ 107. https://punchpowertrain.com/cookie-policy/
+ 108. https://punchpowertrain.com/zh-hans/隐私政策/
+
+   Hidden links:
+ 110. https://punchpowertrain.com/zh-hans/
+ 111. https://punchpowertrain.com/zh-hans/news/%e5%88%9b%e6%96%b0%e9%83%a8%e9%95%bf%e5%92%8c%e5%b8%82%e9%95%bf%e5%8f%82%e8%a7%82%e9%82%a6%e5%a5%87%e5%8a%a8%e5%8a%9b%e5%85%ac%e5%8f%b8-%e5%85%b3%e4%ba%8e%e6%8f%90%e5%8d%87%e5%88%9b%e6%96%b0%e8%83%bd/
+ 112. https://punchpowertrain.com/zh-hans/news/%e9%82%a6%e5%a5%87%e5%8a%a8%e5%8a%9b%e5%85%ac%e5%8f%b8%e8%8d%b7%e5%85%b0%e5%9f%83%e5%9b%a0%e9%9c%8d%e6%b8%a9%e5%88%86%e9%83%a8%e5%ba%86%e7%a5%9d%e6%88%90%e7%ab%8b%e5%8d%81%e5%91%a8%e5%b9%b4/
+ 113. https://punchpowertrain.com/zh-hans/news/%e9%82%a6%e5%a5%87%e5%8a%a8%e5%8a%9b%e6%80%bb%e6%88%90%e5%9c%a8-2023-%e5%b9%b4%e9%87%91%e8%89%b2%e7%a7%91%e6%8a%80%e5%b1%95%e4%b8%8a%e8%8e%b7%e5%a5%96/

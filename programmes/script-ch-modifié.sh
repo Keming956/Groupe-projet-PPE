@@ -27,12 +27,15 @@ lineno=1
 while read -r URL
 do
 	lang=$(basename $URLS .txt)
-	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null "$URL")
+	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
 	#URL 2, 21, 37, 50 code 403
-	dump_html=$(curl "$URL" > "../aspirations/${lang}-${lineno}.html")
-	dump_text=$(lynx -dump -assume_charset=utf-8 -display_charset=utf-8 "$URL" > "../dumps-text/${lang}-${lineno}.txt")
-	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "责任" -c)
+	dump_html=$(curl $URL > "../aspirations/${lang}-${lineno}.html")
+
+	if [$reponse == "200"]
+	then
+		dump_text=$(lynx -dump -assume_charset=utf-8 --display_charset=utf-8 $URL > "../dumps-text/${lang}-${lineno}.txt")
+	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -o "责任" | wc -l)
 	contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -A 2 -B 2 "责任" > "../contextes/${lang}-${lineno}.txt")
 	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
 	echo -e "<tr>

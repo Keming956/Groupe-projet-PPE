@@ -1,1 +1,149 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate
 
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+
+     * [7]关于我们
+          + [8]关于我们/历史
+          + [9]关于我们/愿景和任务
+          + [10]人文（价值）
+          + [11]领导
+          + [12]关于我们/管理
+          + [13]关于我们/道德和合规
+          + [14]关于我们/社会责任
+          + [15]可持续
+          + [16]联系方式
+     * [17]Future理念
+     * [18]业务部
+          + [19]交通基础设施
+          + [20]地铁和铁路系统
+          + [21]港口和海事工程
+          + [22]环境水和卫生设施
+          + [23]城市与建筑
+          + [24]能源
+          + [25]房地产
+          + [26]建设管理和监理
+          + [27]地质实验室
+          + [28]数字创新
+     * [29]能力
+     * [30]投资发展部
+     * [31]创新技术
+     * [32]媒体洞察
+
+   ____________________
+     * [33]FUTURE MOTION Brasil
+     * [34]Future Proman
+     * [35]Future Asia
+
+   中文 PT
+     * [36]English EN
+     * [37]Português PT
+     * [38]Español ES
+     * [39]Français FR
+
+   [40]主页 > [41]关于我们 > [42]关于我们/社会责任
+
+关于我们/社会责任
+
+   在FUTURE 集团，我们致力于道德表现和社会责任达到高标准。
+   [145-responsabilidade%20social%20corp.png?v=1-0]
+   我们勇担社会责任
+
+   为了达到最高国际标准，FUTURE 集团承担的社会责任涉及到其行动、涵盖其员工、工程区人口和当地参与者，即工程项目相关的不同利益相关者。
+
+   FUTURE 集团群策群力。我们要求领导者以身作则并指明方向，他们带来不同工作方式和经验，以及不同的行业和职能观点。
+   01
+   为团队营造积极、负责和友好的工作环境
+   02
+   确保员工的安全和健康
+   03
+   以诚信道德的方式开展业务
+   Created with Sketch. 04
+   认可并尊重地区和当地文化及特有风格
+   Created with Sketch. 05
+   确保与利益相关方适当对话和互动，本着透明和诚信的精神开展工作
+   06
+   提供具体且可持续的利好措施，提升我们工程项目所在社区的社会和经济福祉
+   Created with Sketch. 07
+   支持建立财务透明和良好的管理机制
+   Created with Sketch. 08
+   支持和保护国际公认的人权
+
+   Future集团总部
+   Alameda Fernão Lopes, nº 16 – 11º Piso 1495-190 Algés, Lisboa, Portugal
+   [43](BUTTON) 联系方式 (BUTTON) 查看地图
+   快速链接
+     * [44]联系方式
+     * [45]关于我们
+     * [46]领导层
+     * [47]FUTURE宣�
+
+   注册
+     * [48]Linkedin
+
+   订阅时事通讯
+   [49]条款和条件 [50]COOKIE 政策 [51]保密政策 [52]招贤纳士
+   FUTURE © 2023 - 版权所有
+   Newsletter subscrita com sucesso Ocorreu um erro ao subscrever a
+   newsletter Email já registado
+
+References
+
+   Visible links:
+   1. https://www.future-motion.eu/pt/sobre-nos/responsabilidade-social
+   2. https://www.future-motion.eu/en/corporate-social-responsability
+   3. https://www.future-motion.eu/es/responsabilidad-social-corporativa
+   4. https://www.future-motion.eu/fr/responsabilite-sociale-corporative
+   5. https://www.future-motion.eu/zh/corporate-social-responsability
+   6. https://www.future-motion.eu/zh/corporate-social-responsability
+   7. https://www.future-motion.eu/zh/about
+   8. https://www.future-motion.eu/zh/history
+   9. https://www.future-motion.eu/zh/vision-and-mission
+  10. https://www.future-motion.eu/zh/values
+  11. https://www.future-motion.eu/zh/leadership
+  12. https://www.future-motion.eu/zh/governance
+  13. https://www.future-motion.eu/zh/ethics-and-compliance
+  14. https://www.future-motion.eu/zh/corporate-social-responsability
+  15. https://www.future-motion.eu/zh/sustainability
+  16. https://www.future-motion.eu/zh/contacts
+  17. https://www.future-motion.eu/zh/future-concept
+  18. https://www.future-motion.eu/zh/business-units-2
+  19. https://www.future-motion.eu/zh/business-units-2/transportation-infrastructures
+  20. https://www.future-motion.eu/zh/business-units-2/underground-and-railway-system
+  21. https://www.future-motion.eu/zh/business-units-2/port-and-maritime-engineering
+  22. https://www.future-motion.eu/zh/business-units-2/water-sanitation-waste
+  23. https://www.future-motion.eu/zh/business-units-2/cities-and-buildings
+  24. https://www.future-motion.eu/zh/business-units-2/sustainability-and-energy
+  25. https://www.future-motion.eu/zh/business-units-2/real-estate
+  26. https://www.future-motion.eu/zh/business-units-2/construction-management-and-supervision
+  27. https://www.future-motion.eu/zh/business-units-2/geolab
+  28. https://www.future-motion.eu/zh/business-units-2/digital-innovation
+  29. https://www.future-motion.eu/zh/competences
+  30. https://www.future-motion.eu/zh/investment-and-development-agency
+  31. https://www.future-motion.eu/zh/inovation-and-technology
+  32. https://www.future-motion.eu/zh/media-insights
+  33. https://www.future-motion.eu/zh/future-motion-brasil
+  34. https://www.future-motion.eu/zh/future-proman
+  35. https://www.future-motion.eu/zh/future-asia
+  36. https://www.future-motion.eu/en/corporate-social-responsability
+  37. https://www.future-motion.eu/pt/sobre-nos/responsabilidade-social
+  38. https://www.future-motion.eu/es/responsabilidad-social-corporativa
+  39. https://www.future-motion.eu/fr/responsabilite-sociale-corporative
+  40. https://www.future-motion.eu/zh
+  41. https://www.future-motion.eu/zh/about
+  42. https://www.future-motion.eu/zh/corporate-social-responsability
+  43. https://www.future-motion.eu/zh/contacts
+  44. https://www.future-motion.eu/zh/contacts
+  45. https://www.future-motion.eu/zh/about
+  46. https://www.future-motion.eu/zh/leadership
+  47. https://www.future-motion.eu/zh/future-concept
+  48. https://www.linkedin.com/company/future-beyond-engineering/
+  49. https://www.future-motion.eu/zh/terms-and-conditions
+  50. https://www.future-motion.eu/zh/cookies
+  51. https://www.future-motion.eu/zh/privacy-policy-and-personal-data-protection
+  52. https://www.linkedin.com/company/future-beyond-engineering/jobs/
+
+   Hidden links:
+  54. https://www.future-motion.eu/zh

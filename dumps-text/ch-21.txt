@@ -1,4 +1,745 @@
-                                404 Not Found
-     __________________________________________________________________
+    #[1]Page d'accueil [2]Page d'accueil [3]Page d'accueil [4]Recherche
 
-                               RMW-WEB/230426
+     * [5]Aller directement à la navigation
+     * [6]Aller directement au contenu
+     * [7]Aller directement à la recherche
+
+   (BUTTON) MENU
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   (BUTTON) voir plus
+   (BUTTON) ZH
+     * [8]FR
+     * [9]EN
+     * [10]DE
+     * [11]ES
+     * [12]AR
+     * [13]ZH
+
+   [14]Ministère de la culture
+     * (BUTTON) 新闻
+          + (BUTTON) fermer le menu
+            [15]新闻 (BUTTON) Retour
+               o [16]新闻
+               o [17]À la Une
+               o (BUTTON) Dossiers
+                 Dossiers
+                    # [18]203.文化部的预算
+                    # [19]Ma bibliothèque : le monde à portée de main
+                    # [20]文化奥林匹克，文化与体育之间的对话
+                    # [21]支持文化乌克兰:文化部动员
+                    # [22]264 projets pour des Mondes nouveaux
+                    # [23]文化和创意产业加速战略
+                    # [24]France Relance : Redynamiser notre modèle
+                      culturel
+                    # [25]États généraux des festivals : un modèle �
+                      réinventer
+               o [26]国家活动
+     * (BUTTON) 了解我们
+          + (BUTTON) fermer le menu
+            [27]了解我们 (BUTTON) Retour
+               o [28]了解我们
+               o [29]Rima Abdul Malak,文化部长
+               o [30]部长办公室
+               o (BUTTON) 了解部门
+                 了解部门
+                    # [31]Organisation du ministère
+                    # [32]Histoire du ministère
+                    # [33]国家活动
+                    # [34]保护，标签和名称
+                    # [35]203.文化部的预算
+               o (BUTTON) 就业和培训
+                 就业和培训
+                    # [36]就业-学徒
+                    # [37]竞赛和专业考试
+                    # [38]贸易指南
+                    # [39]警察作证
+                    # [40]Service civique
+                    # [41]职业培训
+     * (BUTTON) 辅助和程序
+          + (BUTTON) fermer le menu
+            辅助和程序 (BUTTON) Retour
+               o [42]辅助和程序
+               o [43]Aides, démarches et subventions
+               o (BUTTON) Appels à projets et à candidatures
+                 Appels à projets et à candidatures
+                    # [44]Appels à projets du ministère de la Culture
+                    # [45]Appels à projets des partenaires (opérateurs,
+                      organismes labellisés ou subventionnés)
+               o [46]公共采购
+               o [47]保护，标签和名称
+     * (BUTTON) 文档
+          + (BUTTON) fermer le menu
+            [48]文档 (BUTTON) Retour
+               o [49]文档
+               o [50]Rechercher une publication
+               o [51]数据库
+               o [52]Sites internet et multimédias
+               o [53]信息资源清单
+     * (BUTTON) 区域
+          + (BUTTON) fermer le menu
+            (BUTTON) 区域
+               o [54]DRAC Auvergne - Rhône ó n-Alpes.
+               o [55]DRAC Bourgogne-Franche-Comt é
+               o [56]DRAC Bretagne.
+               o [57]DRAC Center-Val de Loire
+               o [58]DRAC Corse
+               o [59]DRAC Grand Est
+               o [60]DAC瓜德罗普岛
+               o [61]DCJS Guyana.
+               o [62]DRAC上法兰西岛
+               o [63]DRAC Île è s-de-France.
+               o [64]DAC马提尼克岛
+               o [65]DAC马约特
+               o [66]DRAC Normandie
+               o [67]DRAC Nouvelle-Aquitaine
+               o [68]Mission aux affaires culturelles de
+                 Nouvelle-Calédonie
+               o [69]Drac Occitanie
+               o [70]Dac of Reunion Island
+               o [71]DRAC Pays de la Loire.
+               o [72]Mission aux affaires culturelles de Polynésie
+                 Française
+               o [73]Drac Provence-Alpes-Côte d'Azur
+               o [74]Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) 专题
+          + (BUTTON) fermer le menu
+            (BUTTON) 专题
+               o (BUTTON) 行业和企业
+                    # [75]体系结构
+                    # [76]存档
+                    # [77]2019年：考古学
+                    # [78]塑料艺术
+                    # [79]视听
+                    # [80]电影院
+                    # [81]舞蹈
+                    # [82]设计
+                    # [83]文化和创意产业
+                    # [84]书籍和阅读
+                    # [85]模式
+                    # [86]纪念碑和遗址
+                    # [87]音乐
+                    # [88]博物馆
+                    # [89]工艺品
+                    # [90]摄影
+                    # [91]打印介质
+                    # [92]剧院，表演
+               o (BUTTON) 公共政策
+                    # [93]文化物品的流动
+                    # [94]保护-恢复
+                    # [95]文化和领土
+                    # [96]文化发展
+                    # [97]艺术和文化教育
+                    # [98]媒体和信息素养
+                    # [99]平等和多样性
+                    # [100]高等教育和研究
+                    # [101]法国民族学
+                    # [102]研究和统计
+                    # [103]欧洲和国�
+                    # [104]数字创新
+                    # [105]法语和法国语言
+                    # [106]赞助
+                    # [107]非物质文化遗产
+                    # [108]遗产科学
+                    # [109]安全-安全
+     *
+          + [110]Facebook
+          + [111]X
+          + [112]Instagram
+          + [113]Youtube
+          + [114]Soundcloud
+          + [115]Linkedin
+          + [116]Flux de dépêches
+
+     * (BUTTON) 区域
+          + (BUTTON) fermer le menu
+               o [117]DRAC Auvergne - Rhône ó n-Alpes.
+               o [118]DRAC Center-Val de Loire
+               o [119]DAC瓜德罗普岛
+               o [120]DRAC Île è s-de-France.
+               o [121]DRAC Normandie
+               o [122]Drac Occitanie
+               o [123]Mission aux affaires culturelles de Polynésie
+                 Française
+               o [124]DRAC Bourgogne-Franche-Comt é
+               o [125]DRAC Corse
+               o [126]DCJS Guyana.
+               o [127]DAC马提尼克岛
+               o [128]DRAC Nouvelle-Aquitaine
+               o [129]Dac of Reunion Island
+               o [130]Drac Provence-Alpes-Côte d'Azur
+               o [131]DRAC Bretagne.
+               o [132]DRAC Grand Est
+               o [133]DRAC上法兰西岛
+               o [134]DAC马约特
+               o [135]Mission aux affaires culturelles de
+                 Nouvelle-Calédonie
+               o [136]DRAC Pays de la Loire.
+               o [137]Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) 专题
+          + (BUTTON) fermer le menu
+               o (BUTTON) 行业和企业
+               o (BUTTON) 公共政策
+               o [138]体系结构
+               o [139]存档
+               o [140]2019年：考古学
+               o [141]塑料艺术
+               o [142]视听
+               o [143]电影院
+               o [144]舞蹈
+               o [145]设计
+               o [146]文化和创意产业
+               o [147]书籍和阅读
+               o [148]模式
+               o [149]纪念碑和遗址
+               o [150]音乐
+               o [151]博物馆
+               o [152]工艺品
+               o [153]摄影
+               o [154]打印介质
+               o [155]剧院，表演
+            (BUTTON) Voir plus
+               o [156]文化物品的流动
+               o [157]保护-恢复
+               o [158]文化和领土
+               o [159]文化发展
+               o [160]艺术和文化教育
+               o [161]媒体和信息素养
+               o [162]平等和多样性
+               o [163]高等教育和研究
+               o [164]法国民族学
+               o [165]研究和统计
+               o [166]欧洲和国�
+               o [167]数字创新
+               o [168]法语和法国语言
+               o [169]赞助
+               o [170]非物质文化遗产
+               o [171]遗产科学
+               o [172]安全-安全
+            (BUTTON) Voir plus
+
+   Chargement
+
+   [173]剧院，表演 [174]
+
+   适用于专业人士
+   [175]
+
+   剧院，表演
+   [176]
+
+   适用于专业人士
+   (BUTTON) Rubriques
+
+   (BUTTON) Fermer le menu
+   Rubriques
+   (BUTTON) 在法国的戏剧和演出
+     * (BUTTON) fermer le menu
+       [177]在法国的戏剧和演出 (BUTTON) Fermer le menu
+       Retour
+          + [178]在法国的戏剧和演出
+               o [179]国家剧院
+               o [180]国家戏剧中心
+               o [181]国家场景
+               o [182]国家利益的会议场景
+               o [183]国家马戏团波兰(PNC)
+               o [184]国家街头艺术和公共空间中心(CNAREP)
+               o [185]国家木偶中心(CNMA)
+
+   [186]教育，培训和贸易
+   (BUTTON) 适用于专业人士
+     * (BUTTON) fermer le menu
+       [187]适用于专业人士 (BUTTON) Fermer le menu
+       Retour
+          + [188]适用于专业人士
+               o [189]条例，援助计划
+               o [190]表演艺术企业家平台(PLATESV)
+               o [191]SIBIL (Système d’Information BILletterie)
+               o [192]Crédit d’impôt en faveur des représentations
+                 théâtrales d’œuvres dramatiques
+               o [193]现场和录制娱乐活动中的风险预防和安全
+               o [194]Appels à projets, résidences et concours
+               o [195]Publications / Documentation
+
+   [196]Actualités du théâtre
+
+    1. [197]剧院，表演
+
+     [198]适用于专业人士
+
+     [199]现场和录制娱乐活动中的风险预防和安全
+
+     风险预防的组织：雇主和雇员的责任
+
+                                风险预防的组织：雇主和雇员的责任
+
+   (BUTTON) Partager
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Linkedin
+     * Plus...
+
+   [200]Écouter
+
+     * 剧院
+     * (BUTTON)
+
+   1.雇主的责任：原则，工具，支助2. 员工责任
+
+   为解决工作场所安全问题，必须解决劳动法问题：
+   娱乐界人员的安全没有自己的条例，《劳工法》与其他地方一样适用于他们，其中规定了有关工人健康和安全的义务。
+
+   这些义务涉及雇主，
+   该机构有义务确保其雇员的健康和安全，必须执行预防职业风险的一般原则，并根据《劳动法》规定的有关工作中个人安全的核心案文进行风险评估。
+
+   它也涉及到员工。
+
+
+1.赔偿责任  雇主： 原则，工具，支持
+
+   T 雇主必须采取措施，确保工人的安全和保护他们的身心健康 (《劳动法》L.4121-2条，见表格 [201] 预防的一般原则  ")。
+
+   这些措施包括：
+
+   防止职业风险和使其难以工作的措施；
+
+   －宣传和培训措施；
+
+   －建立适当的组织和手段。
+
+   雇主应确保对这些措施进行调整，以适应不断变化的情况，并改善现有的情况。
+
+
+   注意：雇主有结果义务，如果违反其健康和安全义务，则可能承担其刑事和/或民事责任。 违规可以描述为  不可原谅的故障
+   如果雇主已经意识到或应该意识到这种危险(包括通过风险评估)，则由法官负责。
+
+   但是，最近的判例法 [202]^1.
+   (另见"一般预防原则"一页)(另见"一般预防原则"一页)表明，在某些情况下，雇主如果证明根据劳动法采取的措施是合理的，在履行了他的经济义务之后
+   ，可以在一定程度上免除其责任。
+
+   因此，首先，雇主的责任在于根据《劳动法》的规定采取预防措施。 此应用程序需要了解风险，危险和责任，并在公司内进行集体预防和意识工作。
+
+   对于 履行其义务， 雇主有不同的工具  ：
+
+   单一风险评估文档 (DUER) [ 指向DUER表单的超链接 ]  ：雇主必须为每个"工作单位"制定和实施一份单一的文件(.
+   [203]第R.4121-1条
+   )这使得有可能查明，分类，确定所有风险的优先次序和确定其优先次序，从而使预防方案成为基础，没有这种基础，DUER方法将成为一纸空文。
+
+   信息  雇主必须组织和向工人提供有关健康和安全风险以及为补救这些风险而采取的措施的信息(L.4141-1条)。
+
+   培训  雇主亦须为雇员提供所需的实用及适当的安全训练 [204]第L.4121-1条 ， [205]第R.4141-1条 参见第111页)。
+
+   预防计划  组织一场演出的特点是多位专业人士的合作，以及不同公司的工人在同一工作场所的合作。
+   如果该项目涉及不同公司的服务提供者，雇主应通过制定与外部伙伴公司合作制定的预防计划，采取具体的预防办法(《劳动法》第R4512-12条及其后各
+   条)。 根据这一计划，外部企业确定对其雇员的个人保护手段，命令企业提供的集体保护手段。
+
+
+   雇主  也可以信赖 并伴有  预防的行为者 ：
+
+
+2.员工责任
+
+   《劳动法》规定了雇员的义务。 员工必须：
+
+   －穿戴必要的个人防护装备；
+
+   更一般地说，根据他所受的培训和他的可能性，照顾他本人以及因他在工作中的作为或不作为而受到影响的其他人的健康和安全(第L.4122-1条及其后各
+   条)。
+
+   －不危害他人或他人；
+
+   －如有严重及迫在眉睫的危险，应提醒雇主。
+
+   注：这些义务并不免除雇主的责任，即使可能要求雇员承担责任。
+
+
+   警报和撤销权
+
+   根据L4131-1条的规定，员工应承担责任 报告 立即«
+   员工有合理理由认为对其生命或健康构成严重和直接危险的任何工作情况，以及员工保护系统的任何故障 »。
+   严重危险的定义是：雇员外部的危险(机器，工作环境等)或因其健康状况而造成的危险(与职业医生的保留相反的工作条件)。
+
+   在这种情况下，雇员享有退出权，但他不得为他人造成严重和紧迫危险的新情况 。 一 L有义务通知雇主，但没有事先授权。
+
+   例如，员工不得在大风中爬回起重机；但如果这会导致起重机坠落到一群儿童身上，而这些儿童将从机器底部经过，则他不能离开起重机。
+
+   培训是雇员了解其义务以及他们可能遇到的风险的一个主要工具。
+
+   注意：
+
+   -警告和退出权不授予停止机器的权利。
+
+   雇主必须采取一切必要措施，结束这种危险。 如果受害者是受害者，如果雇主得到了有关情况的提醒，则不可原谅的过失将被保留。
+
+
+   _________________
+
+   [206]1. «
+   考虑到《劳工法》L.1152-1，L.4121-1和L.4121-2条；尽管该条并未忽视采取必要措施确保工人安全和保护其身心健康的法律义务，特
+   别是在精神骚扰的情况下，
+   雇主证明采取了《劳动法》L.4121-1条和L.4121-2条规定的所有预防措施是合理的，并告知存在可能构成精神骚扰的事实，
+   立即采取行动阻止它  (…)  ”(Cass. Sock. 1) ^呃 2016年6月，否 14-02-19702)。
+
+   '  不违反其采取必要措施确保工人(雇主)安全和保护其身心健康的法律义务
+   说明采取《劳动法》L.4121-1和L.4121-2条规定的措施的理由 » (Cass. Sock.
+   2016年9月22日，第15-14005号)。
+
+     * [207]FR
+     * [208]EN
+     * [209]DE
+     * [210]ES
+     * [211]AR
+     * [212]ZH
+
+   Nous suivre
+     * [213]Facebook
+     * [214]X
+     * [215]Instagram
+     * [216]Youtube
+     * [217]Soundcloud
+     * [218]Linkedin
+     * [219]Flux de dépêches
+
+   [220]S'inscrire à nos Infolettres
+
+Contact
+
+   [221]Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+   Ministère de la Culture
+
+
+    182, rue Saint-Honoré - 75001 Paris
+
+   T. 01 40 15 80 00
+   [222]Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+     * [223]请在剧院与代表团联系
+     * [224]Foire aux questions
+     * [225]Presse
+
+   Nous suivre
+     * [226]Facebook
+     * [227]X
+     * [228]Instagram
+     * [229]Youtube
+     * [230]Soundcloud
+     * [231]Linkedin
+     * [232]Flux de dépêches
+
+[233]在法国的戏剧和演出
+
+     * [234]国家剧院
+     * [235]国家戏剧中心
+     * [236]国家场景
+     * [237]国家利益的会议场景
+     * [238]国家马戏团波兰(PNC)
+     * [239]国家街头艺术和公共空间中心(CNAREP)
+     * [240]国家木偶中心(CNMA)
+
+[241]适用于专业人士
+
+     * [242]条例，援助计划
+     * [243]表演艺术企业家平台(PLATESV)
+     * [244]SIBIL (Système d’Information BILletterie)
+     * [245]Crédit d’impôt en faveur des représentations théâtrales
+       d’œuvres dramatiques
+     * [246]现场和录制娱乐活动中的风险预防和安全
+     * [247]Appels à projets, résidences et concours
+     * [248]Publications / Documentation
+
+[249]教育，培训和贸易
+
+[250]Actualités du théâtre
+
+     * [251]公共service.fr
+     * [252]legifrance.gouv.fr
+     * [253]government.fr
+
+   (BUTTON) Liens utiles
+     * [254]免责声明
+     * [255]可访问性：部分合规
+     * [256]个人数据和Cookie
+     * [257]Plan du site
+     * © Ministère de la Culture
+
+References
+
+   Visible links:
+   1. https://www.culture.gouv.fr/zh
+   2. https://www.culture.gouv.fr/zh
+   3. https://www.culture.gouv.fr/zh
+   4. https://www.culture.gouv.fr/zh/content/search
+   5. https://www.culture.gouv.fr/zh/19/1/7/1/3#menu-principal
+   6. https://www.culture.gouv.fr/zh/19/1/7/1/3#mainPage
+   7. https://www.culture.gouv.fr/zh/19/1/7/1/3#searchFormHeader
+   8. https://www.culture.gouv.fr/zh/languageSwitch/fre-FR
+   9. https://www.culture.gouv.fr/zh/languageSwitch/eng-GB
+  10. https://www.culture.gouv.fr/zh/languageSwitch/ger-DE
+  11. https://www.culture.gouv.fr/zh/languageSwitch/esl-ES
+  12. https://www.culture.gouv.fr/zh/languageSwitch/ara-SA
+  13. https://www.culture.gouv.fr/zh/languageSwitch/chi-CN
+  14. https://www.culture.gouv.fr/zh
+  15. https://www.culture.gouv.fr/zh/26
+  16. https://www.culture.gouv.fr/zh/26
+  17. https://www.culture.gouv.fr/Actualites
+  18. https://www.culture.gouv.fr/zh/Actualites2/Dossiers/203.
+  19. https://www.culture.gouv.fr/zh/19/27/Ma-bibliotheque-le-monde-a-portee-de-main
+  20. https://www.culture.gouv.fr/zh/4
+  21. https://www.culture.gouv.fr/zh/8/1/2/4
+  22. https://www.culture.gouv.fr/mondesnouveaux
+  23. https://www.culture.gouv.fr/zh/19/31/9
+  24. https://www.culture.gouv.fr/zh/Actualites2/Dossiers/France-Relance-Redynamiser-notre-modele-culturel
+  25. https://www.culture.gouv.fr/zh/Actualites2/Dossiers/Etats-generaux-des-festivals-un-modele-a-reinventer
+  26. https://www.culture.gouv.fr/zh/13/1
+  27. https://www.culture.gouv.fr/zh/13
+  28. https://www.culture.gouv.fr/zh/13
+  29. https://www.culture.gouv.fr/zh/13/Organisation-du-ministere/Rima-Abdul-Malak
+  30. https://www.culture.gouv.fr/zh/13/Organisation-du-ministere/7
+  31. https://www.culture.gouv.fr/zh/13/Organisation-du-ministere
+  32. https://www.culture.gouv.fr/zh/13/4/Histoire-du-ministere
+  33. https://www.culture.gouv.fr/zh/13/1
+  34. https://www.culture.gouv.fr/zh/8/2
+  35. https://www.culture.gouv.fr/zh/Actualites2/Dossiers/203.
+  36. https://www.culture.gouv.fr/zh/13/3/3
+  37. https://www.culture.gouv.fr/zh/13/3/6
+  38. https://www.culture.gouv.fr/zh/13/3/5
+  39. https://www.culture.gouv.fr/zh/13/3/2
+  40. https://www.culture.gouv.fr/zh/13/3/Service-civique
+  41. https://www.culture.gouv.fr/zh/13/3/4
+  42. https://www.culture.gouv.fr/zh/8
+  43. https://www.culture.gouv.fr/Demarches-en-ligne
+  44. https://www.culture.gouv.fr/Demarches-en-ligne/Par-type-de-demarche/Appels-a-projets-candidatures
+  45. https://www.culture.gouv.fr/Aides-demarches/Appels-a-projets-partenaires?content_edit[_token]=ZpKL2HWwuobN7aLxheeo-K_mCw9_Iv_LPCRvC8k-cTM&content_edit[content_info]=211361&content_edit[language]=fre-FR&content_edit[location]=215051&content_edit[version_info][content_info]=211361&content_edit[version_info][version_no]=21&search=&status=in_progress
+  46. https://www.culture.gouv.fr/zh/8/5
+  47. https://www.culture.gouv.fr/zh/8/2
+  48. https://www.culture.gouv.fr/zh/1
+  49. https://www.culture.gouv.fr/zh/1
+  50. https://www.culture.gouv.fr/Espace-documentation
+  51. https://www.culture.gouv.fr/zh/1/17
+  52. https://www.culture.gouv.fr/zh/1/Sites-internet-et-multimedias
+  53. https://www.culture.gouv.fr/zh/1/15
+  54. https://www.culture.gouv.fr/zh/29/DRAC-Auvergne-Rhone-o-n-Alpes
+  55. https://www.culture.gouv.fr/zh/29/DRAC-Bourgogne-Franche-Comt-e
+  56. https://www.culture.gouv.fr/zh/29/DRAC-Bretagne
+  57. https://www.culture.gouv.fr/zh/29/DRAC-Center-Val-de-Loire
+  58. https://www.culture.gouv.fr/zh/29/DRAC-Corse
+  59. https://www.culture.gouv.fr/zh/29/DRAC-Grand-Est
+  60. https://www.culture.gouv.fr/zh/29/DAC
+  61. https://www.culture.gouv.fr/zh/29/DCJS-Guyana
+  62. https://www.culture.gouv.fr/zh/29/DRAC
+  63. https://www.culture.gouv.fr/zh/29/DRAC-Ile-e-s-de-France
+  64. https://www.culture.gouv.fr/zh/29/DAC3
+  65. https://www.culture.gouv.fr/zh/29/DAC2
+  66. https://www.culture.gouv.fr/zh/29/DRAC-Normandie
+  67. https://www.culture.gouv.fr/zh/29/DRAC-Nouvelle-Aquitaine
+  68. https://www.culture.gouv.fr/zh/29/Mission-aux-affaires-culturelles-de-Nouvelle-Caledonie
+  69. https://www.culture.gouv.fr/zh/29/Drac-Occitanie
+  70. https://www.culture.gouv.fr/zh/29/Dac-of-Reunion-Island
+  71. https://www.culture.gouv.fr/zh/29/DRAC-Pays-de-la-Loire
+  72. https://www.culture.gouv.fr/zh/29/Mission-aux-affaires-culturelles-de-Polynesie-Francaise
+  73. https://www.culture.gouv.fr/zh/29/Drac-Provence-Alpes-Cote-d-Azur
+  74. https://www.culture.gouv.fr/zh/29/Mission-aux-Affaires-Culturelles-de-Saint-Pierre-et-Miquelon
+  75. https://www.culture.gouv.fr/zh/19/16
+  76. https://www.culture.gouv.fr/zh/19/17
+  77. https://www.culture.gouv.fr/zh/19/2019
+  78. https://www.culture.gouv.fr/zh/19/20
+  79. https://www.culture.gouv.fr/zh/19/19
+  80. https://www.culture.gouv.fr/zh/19/21
+  81. https://www.culture.gouv.fr/zh/19/24
+  82. https://www.culture.gouv.fr/zh/19/25
+  83. https://www.culture.gouv.fr/zh/19/31
+  84. https://www.culture.gouv.fr/zh/19/27
+  85. https://www.culture.gouv.fr/zh/19/36
+  86. https://www.culture.gouv.fr/zh/19/12
+  87. https://www.culture.gouv.fr/zh/19/6
+  88. https://www.culture.gouv.fr/zh/19/34
+  89. https://www.culture.gouv.fr/zh/19/14
+  90. https://www.culture.gouv.fr/zh/19/10
+  91. https://www.culture.gouv.fr/zh/19/9
+  92. https://www.culture.gouv.fr/zh/19/1
+  93. https://www.culture.gouv.fr/zh/19/22
+  94. https://www.culture.gouv.fr/zh/19/23
+  95. https://www.culture.gouv.fr/zh/19/11
+  96. https://www.culture.gouv.fr/zh/19/3
+  97. https://www.culture.gouv.fr/zh/19/2
+  98. https://www.culture.gouv.fr/zh/19/15
+  99. https://www.culture.gouv.fr/zh/19/26
+ 100. https://www.culture.gouv.fr/zh/19/30
+ 101. https://www.culture.gouv.fr/zh/19/29
+ 102. https://www.culture.gouv.fr/zh/19/28
+ 103. https://www.culture.gouv.fr/zh/19/13
+ 104. https://www.culture.gouv.fr/zh/19/32
+ 105. https://www.culture.gouv.fr/zh/19/4
+ 106. https://www.culture.gouv.fr/zh/19/33
+ 107. https://www.culture.gouv.fr/zh/19/38
+ 108. https://www.culture.gouv.fr/zh/19/40
+ 109. https://www.culture.gouv.fr/zh/19/39
+ 110. https://www.facebook.com/Culture.Gouv/
+ 111. https://twitter.com/ministerecc
+ 112. https://www.instagram.com/culture_gouv/
+ 113. https://www.youtube.com/channel/UCiAzGffvKfhuGsPsCmVe8sQ
+ 114. https://soundcloud.com/culture-gouv/
+ 115. https://fr.linkedin.com/company/ministere-de-la-culture-et-de-la-communication
+ 116. https://www.culture.gouv.fr/Fils-d-actualite
+ 117. https://www.culture.gouv.fr/zh/29/DRAC-Auvergne-Rhone-o-n-Alpes
+ 118. https://www.culture.gouv.fr/zh/29/DRAC-Center-Val-de-Loire
+ 119. https://www.culture.gouv.fr/zh/29/DAC
+ 120. https://www.culture.gouv.fr/zh/29/DRAC-Ile-e-s-de-France
+ 121. https://www.culture.gouv.fr/zh/29/DRAC-Normandie
+ 122. https://www.culture.gouv.fr/zh/29/Drac-Occitanie
+ 123. https://www.culture.gouv.fr/zh/29/Mission-aux-affaires-culturelles-de-Polynesie-Francaise
+ 124. https://www.culture.gouv.fr/zh/29/DRAC-Bourgogne-Franche-Comt-e
+ 125. https://www.culture.gouv.fr/zh/29/DRAC-Corse
+ 126. https://www.culture.gouv.fr/zh/29/DCJS-Guyana
+ 127. https://www.culture.gouv.fr/zh/29/DAC3
+ 128. https://www.culture.gouv.fr/zh/29/DRAC-Nouvelle-Aquitaine
+ 129. https://www.culture.gouv.fr/zh/29/Dac-of-Reunion-Island
+ 130. https://www.culture.gouv.fr/zh/29/Drac-Provence-Alpes-Cote-d-Azur
+ 131. https://www.culture.gouv.fr/zh/29/DRAC-Bretagne
+ 132. https://www.culture.gouv.fr/zh/29/DRAC-Grand-Est
+ 133. https://www.culture.gouv.fr/zh/29/DRAC
+ 134. https://www.culture.gouv.fr/zh/29/DAC2
+ 135. https://www.culture.gouv.fr/zh/29/Mission-aux-affaires-culturelles-de-Nouvelle-Caledonie
+ 136. https://www.culture.gouv.fr/zh/29/DRAC-Pays-de-la-Loire
+ 137. https://www.culture.gouv.fr/zh/29/Mission-aux-Affaires-Culturelles-de-Saint-Pierre-et-Miquelon
+ 138. https://www.culture.gouv.fr/zh/19/16
+ 139. https://www.culture.gouv.fr/zh/19/17
+ 140. https://www.culture.gouv.fr/zh/19/2019
+ 141. https://www.culture.gouv.fr/zh/19/20
+ 142. https://www.culture.gouv.fr/zh/19/19
+ 143. https://www.culture.gouv.fr/zh/19/21
+ 144. https://www.culture.gouv.fr/zh/19/24
+ 145. https://www.culture.gouv.fr/zh/19/25
+ 146. https://www.culture.gouv.fr/zh/19/31
+ 147. https://www.culture.gouv.fr/zh/19/27
+ 148. https://www.culture.gouv.fr/zh/19/36
+ 149. https://www.culture.gouv.fr/zh/19/12
+ 150. https://www.culture.gouv.fr/zh/19/6
+ 151. https://www.culture.gouv.fr/zh/19/34
+ 152. https://www.culture.gouv.fr/zh/19/14
+ 153. https://www.culture.gouv.fr/zh/19/10
+ 154. https://www.culture.gouv.fr/zh/19/9
+ 155. https://www.culture.gouv.fr/zh/19/1
+ 156. https://www.culture.gouv.fr/zh/19/22
+ 157. https://www.culture.gouv.fr/zh/19/23
+ 158. https://www.culture.gouv.fr/zh/19/11
+ 159. https://www.culture.gouv.fr/zh/19/3
+ 160. https://www.culture.gouv.fr/zh/19/2
+ 161. https://www.culture.gouv.fr/zh/19/15
+ 162. https://www.culture.gouv.fr/zh/19/26
+ 163. https://www.culture.gouv.fr/zh/19/30
+ 164. https://www.culture.gouv.fr/zh/19/29
+ 165. https://www.culture.gouv.fr/zh/19/28
+ 166. https://www.culture.gouv.fr/zh/19/13
+ 167. https://www.culture.gouv.fr/zh/19/32
+ 168. https://www.culture.gouv.fr/zh/19/4
+ 169. https://www.culture.gouv.fr/zh/19/33
+ 170. https://www.culture.gouv.fr/zh/19/38
+ 171. https://www.culture.gouv.fr/zh/19/40
+ 172. https://www.culture.gouv.fr/zh/19/39
+ 173. https://www.culture.gouv.fr/zh/19/1
+ 174. https://www.culture.gouv.fr/zh/19/1/7/1
+ 175. https://www.culture.gouv.fr/zh/19/1
+ 176. https://www.culture.gouv.fr/zh/19/1/7/1
+ 177. https://www.culture.gouv.fr/zh/19/1/6
+ 178. https://www.culture.gouv.fr/zh/19/1/6
+ 179. https://www.culture.gouv.fr/zh/19/1/6/2
+ 180. https://www.culture.gouv.fr/zh/19/1/6/5
+ 181. https://www.culture.gouv.fr/zh/19/1/6/6
+ 182. https://www.culture.gouv.fr/zh/19/1/6/3
+ 183. https://www.culture.gouv.fr/zh/19/1/6/PNC
+ 184. https://www.culture.gouv.fr/zh/19/1/6/CNAREP
+ 185. https://www.culture.gouv.fr/zh/19/1/6/CNMA
+ 186. https://www.culture.gouv.fr/zh/19/1/1
+ 187. https://www.culture.gouv.fr/zh/19/1/7
+ 188. https://www.culture.gouv.fr/zh/19/1/7
+ 189. https://www.culture.gouv.fr/zh/19/1/7/2
+ 190. https://www.culture.gouv.fr/zh/19/1/7/PLATESV
+ 191. https://www.culture.gouv.fr/zh/19/1/7/SIBIL-Systeme-d-Information-BILletterie
+ 192. https://www.culture.gouv.fr/Demarches-en-ligne/Par-type-de-demarche/Subvention/Credit-d-impot-en-faveur-des-representations-theatrales-d-aeuvres-dramatiques
+ 193. https://www.culture.gouv.fr/zh/19/1/7/1
+ 194. https://bit.ly/2FuB6XL
+ 195. https://www.culture.gouv.fr/Espace-documentation?search=&themes[]=Arts+de+la+marionnette&themes[]=Arts+de+la+rue&themes[]=Arts+du+cirque&themes[]=Théâtre#content
+ 196. https://www.culture.gouv.fr/content/search?SearchText=&filter[theme_tag_ids_mi][0]=141&filter[theme_tag_ids_mi][1]=186&filter[theme_tag_ids_mi][2]=146&filter[theme_tag_ids_mi][3]=145&filter[theme_tag_ids_mi][4]=142&filter[content_type_id_id][0]=55&limit=3&page=1&sortClause=antechrono
+ 197. https://www.culture.gouv.fr/zh/19/1
+ 198. https://www.culture.gouv.fr/zh/19/1/7
+ 199. https://www.culture.gouv.fr/zh/19/1/7/1
+ 200. https://app.readspeaker.com/cgi-bin/rsent?customerid=7206&lang=fr_fr&voice=Thomas&readid=content&url=https://www.culture.gouv.fr/zh/19/1/7/1/3
+ 201. https://www.culture.gouv.fr/zh/19/1/7/1/1
+ 202. https://www.culture.gouv.fr/zh/19/1/7/1/3#note_1
+ 203. https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=D6850FCCD8BD459CD52BCD5A2D35CCF5.tpdila16v_1?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018532912&dateTexte=20161121&categorieLien=id#LEGIARTI000018532912
+ 204. https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=D6850FCCD8BD459CD52BCD5A2D35CCF5.tpdila16v_1?idArticle=LEGIARTI000023032086&cidTexte=LEGITEXT000006072050&dateTexte=20161121&categorieLien=id&oldAction=&nbResultRech=
+ 205. https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=D6850FCCD8BD459CD52BCD5A2D35CCF5.tpdila16v_1?idArticle=LEGIARTI000018532882&cidTexte=LEGITEXT000006072050&dateTexte=20081224&categorieLien=id&oldAction=&nbResultRech=
+ 206. https://www.culture.gouv.fr/zh/19/1/7/1/3#sdfootnote1anc
+ 207. https://www.culture.gouv.fr/Thematiques/Theatre-spectacles/Pour-les-professionnels/Prevention-des-risques-et-securite-dans-le-spectacle-vivant-et-enregistre/L-organisation-de-la-prevention-des-risques-une-responsabilite-de-l-employeur-et-du-salarie
+ 208. https://www.culture.gouv.fr/en/Thematic/Theatre-shows/For-professionals/Risk-prevention-and-safety-in-live-and-recorded-entertainment/The-organisation-of-risk-prevention-a-responsibility-of-the-employer-and-the-employee
+ 209. https://www.culture.gouv.fr/de/Thematisch/Theater-Shows/Fuer-die-Profis/Risikopraevention-und-Sicherheit-im-Live-und-Recording-Bereich/Die-Organisation-der-Risikopraevention-eine-Verantwortung-des-Arbeitgebers-und-des-Arbeitnehmers
+ 210. https://www.culture.gouv.fr/es/Tematicos/Teatro-espectaculos/Para-los-profesionales/Prevencion-de-riesgos-y-seguridad-en-el-espectaculo-vivo-y-registrado/La-organizacion-de-la-prevencion-de-riesgos-una-responsabilidad-del-empleador-y-del-trabajador
+ 211. https://www.culture.gouv.fr/ar/19/1/7/1/3
+ 212. https://www.culture.gouv.fr/zh/19/1/7/1/3
+ 213. https://www.facebook.com/Culture.Gouv/
+ 214. https://twitter.com/ministerecc
+ 215. https://www.instagram.com/culture_gouv/
+ 216. https://www.youtube.com/channel/UCiAzGffvKfhuGsPsCmVe8sQ
+ 217. https://soundcloud.com/culture-gouv/
+ 218. https://fr.linkedin.com/company/ministere-de-la-culture-et-de-la-communication
+ 219. https://www.culture.gouv.fr/Fils-d-actualite
+ 220. https://infolettres.duministeredelaculture.fr/
+ 221. https://www.culture.gouv.fr/zh/19/3/Culture-et-handicap/3/Acceo-accessibilite-telephonique-aux-personnes-sourdes-et-malentendantes
+ 222. https://www.culture.gouv.fr/zh/19/3/Culture-et-handicap/3/Acceo-accessibilite-telephonique-aux-personnes-sourdes-et-malentendantes
+ 223. https://www.culture.gouv.fr/zh/19/1/5
+ 224. https://www.culture.gouv.fr/zh/Foire-aux-questions
+ 225. https://www.culture.gouv.fr/zh/Presse
+ 226. https://www.facebook.com/Culture.Gouv/
+ 227. https://twitter.com/ministerecc
+ 228. https://www.instagram.com/culture_gouv/
+ 229. https://www.youtube.com/channel/UCiAzGffvKfhuGsPsCmVe8sQ
+ 230. https://soundcloud.com/culture-gouv/
+ 231. https://fr.linkedin.com/company/ministere-de-la-culture-et-de-la-communication
+ 232. https://www.culture.gouv.fr/Fils-d-actualite
+ 233. https://www.culture.gouv.fr/zh/19/1/6
+ 234. https://www.culture.gouv.fr/zh/19/1/6/2
+ 235. https://www.culture.gouv.fr/zh/19/1/6/5
+ 236. https://www.culture.gouv.fr/zh/19/1/6/6
+ 237. https://www.culture.gouv.fr/zh/19/1/6/3
+ 238. https://www.culture.gouv.fr/zh/19/1/6/PNC
+ 239. https://www.culture.gouv.fr/zh/19/1/6/CNAREP
+ 240. https://www.culture.gouv.fr/zh/19/1/6/CNMA
+ 241. https://www.culture.gouv.fr/zh/19/1/7
+ 242. https://www.culture.gouv.fr/zh/19/1/7/2
+ 243. https://www.culture.gouv.fr/zh/19/1/7/PLATESV
+ 244. https://www.culture.gouv.fr/zh/19/1/7/SIBIL-Systeme-d-Information-BILletterie
+ 245. https://www.culture.gouv.fr/Demarches-en-ligne/Par-type-de-demarche/Subvention/Credit-d-impot-en-faveur-des-representations-theatrales-d-aeuvres-dramatiques
+ 246. https://www.culture.gouv.fr/zh/19/1/7/1
+ 247. https://bit.ly/2FuB6XL
+ 248. https://www.culture.gouv.fr/Espace-documentation?search=&themes[]=Arts+de+la+marionnette&themes[]=Arts+de+la+rue&themes[]=Arts+du+cirque&themes[]=Théâtre#content
+ 249. https://www.culture.gouv.fr/zh/19/1/1
+ 250. https://www.culture.gouv.fr/content/search?SearchText=&filter[theme_tag_ids_mi][0]=141&filter[theme_tag_ids_mi][1]=186&filter[theme_tag_ids_mi][2]=146&filter[theme_tag_ids_mi][3]=145&filter[theme_tag_ids_mi][4]=142&filter[content_type_id_id][0]=55&limit=3&page=1&sortClause=antechrono
+ 251. http://www.service-public.en/
+ 252. http://www.legifrance.gouv.fr/
+ 253. http://www.governement.en/
+ 254. https://www.culture.gouv.fr/zh/16
+ 255. https://www.culture.gouv.fr/zh/22
+ 256. https://www.culture.gouv.fr/zh/Cookie
+ 257. https://www.culture.gouv.fr/zh/Plan-du-site
+
+   Hidden links:
+ 259. https://www.facebook.com/Culture.Gouv/
+ 260. https://twitter.com/ministerecc
+ 261. https://www.instagram.com/culture_gouv/
+ 262. https://www.youtube.com/channel/UCiAzGffvKfhuGsPsCmVe8sQ
+ 263. https://soundcloud.com/culture-gouv/
+ 264. https://fr.linkedin.com/company/ministere-de-la-culture-et-de-la-communication
+ 265. https://www.culture.gouv.fr/Fils-d-actualite
+ 266. https://www.culture.gouv.fr/zh/13/4
+ 267. https://www.culture.gouv.fr/zh/13/3
+ 268. https://www.culture.gouv.fr/Aides-demarches/Appels-a-projets-partenaires?content_edit%5B_token%5D=ZpKL2HWwuobN7aLxheeo-K_mCw9_Iv_LPCRvC8k-cTM&content_edit%5Bcontent_info%5D=211361&content_edit%5Blanguage%5D=fre-FR&content_edit%5Blocation%5D=215051&content_edit%5Bversion_info%5D%5Bcontent_info%5D=211361&content_edit%5Bversion_info%5D%5Bversion_no%5D=21&search=&status=in_progress

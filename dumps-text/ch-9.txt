@@ -1,152 +1,222 @@
-   #[1]alternate
+   #[1]alternate [2]alternate
 
-   [2]跳至主要内容/导航
+   [3]跳至主要内容/导航
 
-   [3]欢迎来到联合国，您的世界！
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+
+   [5]欢迎来到联合国，您的世界！
 
 Language
 
-     * [4]العربية
-     * [5]中文
-     * [6]English
-     * [7]Français
-     * [8]Русский
-     * [9]Español
-     * [10]Português
-     * [11]Kiswahili
+     * [6]العربية
+     * [7]中文
+     * [8]English
+     * [9]Français
+     * [10]Русский
+     * [11]Español
+     * [12]Português
+     * [13]Kiswahili
      * (BUTTON) 其它
-          + [12]Hindi हिंदी
-          + [13]Urdu اردو
-          + [14]Global
+          + [14]Hindi हिंदी
+          + [15]Urdu اردو
+          + [16]Global
 
-   [15]United Nations
-   [16]联合国新闻
+   [17]United Nations
+   [18]联合国新闻
    全球视野, 常人故事
    (BUTTON) zh (BUTTON) 搜索 (BUTTON)
 
    ____________________________________________________________
    (搜索) 搜索
-   [17]高级搜�
+   [19]高级搜�
 
 语言
 
-     * [18]العربية
-     * [19]中文
-     * [20]English
-     * [21]Français
-     * [22]Русский
-     * [23]Español
-     * [24]Português
-     * [25]Kiswahili
+     * [20]العربية
+     * [21]中文
+     * [22]English
+     * [23]Français
+     * [24]Русский
+     * [25]Español
+     * [26]Português
+     * [27]Kiswahili
      * (BUTTON) 其它
-          + [26]Hindi हिंदी
-          + [27]Urdu اردو
-          + [28]Global
+          + [28]Hindi हिंदी
+          + [29]Urdu اردو
+          + [30]Global
 
    (BUTTON)
-   [29]联合国新闻
+   [31]联合国新闻
    全球视野, 常人故事
 
-[30]菜单
+[32]菜单
 
-     * [31]主页
-          + [32]亚洲及太平洋
-          + [33]非洲
-          + [34]美洲
-          + [35]中东
-          + [36]欧洲
-     * [37]全球议题
-          + [38]和平与安全
-          + [39]经济发展
-          + [40]人道主义援助
-          + [41]气候变化与环境
-          + [42]人权
-          + [43]联合国事务
-          + [44]妇女
-          + [45]法律与预防犯罪
-          + [46]健康及卫生
-          + [47]文化与教育
-          + [48]可持续发展目标
-          + [49]移民与难民
-     * [50]深度报道
-          + [51]人物专访
-          + [52]图片故事
-          + [53]专题报道
-     * [54]秘书长
-          + [55]秘书长发言人
-          + [56]所有发言
-          + [57]精选发言稿
-          + [58]媒体座谈会
-          + [59]公务旅行
-     * [60]新闻媒体
-          + [61]联合国图片
-          + [62]网络电视
-          + [63]会议报道
-          + [64]媒体办证和联络
-          + [65]音像图书馆
+     * [33]主页
+          + [34]亚洲及太平洋
+          + [35]非洲
+          + [36]美洲
+          + [37]中东
+          + [38]欧洲
+     * [39]全球议题
+          + [40]和平与安全
+          + [41]经济发展
+          + [42]人道主义援助
+          + [43]气候变化与环境
+          + [44]人权
+          + [45]联合国事务
+          + [46]妇女
+          + [47]法律与预防犯罪
+          + [48]健康及卫生
+          + [49]文化与教育
+          + [50]可持续发展目标
+          + [51]移民与难民
+     * [52]深度报道
+          + [53]人物专访
+          + [54]图片故事
+          + [55]专题报道
+     * [56]秘书长
+          + [57]秘书长发言人
+          + [58]所有发言
+          + [59]精选发言稿
+          + [60]媒体座谈会
+          + [61]公务旅行
+     * [62]新闻媒体
+          + [63]联合国图片
+          + [64]网络电视
+          + [65]会议报道
+          + [66]媒体办证和联络
+          + [67]音像图书馆
 
-[66]语言
+[68]语言
 
-     * [67]العربية
-     * [68]中文
-     * [69]English
-     * [70]Français
-     * [71]Русский
-     * [72]Español
-     * [73]Português
-     * [74]Kiswahili
+     * [69]العربية
+     * [70]中文
+     * [71]English
+     * [72]Français
+     * [73]Русский
+     * [74]Español
+     * [75]Português
+     * [76]Kiswahili
      * (BUTTON) 其它
-          + [75]Hindi हिंदी
-          + [76]Urdu اردو
-          + [77]Global
+          + [77]Hindi हिंदी
+          + [78]Urdu اردو
+          + [79]Global
 
-[78]搜索
+[80]搜索
 
    ____________________________________________________________
    (搜索) 搜索
-   [79]高级搜�
+   [81]高级搜�
 
-   404
+Audio and Subscription
+
+     * [82]音频站
+     * [83]订�
+
+   南非总统拉马福萨在联大第78届会议一般性辩论中发言。
+
+南非总统拉马福萨：我们有责任不让任何一个人掉队
+
+   联合国图片/Cia Pak
+   南非总统拉马福萨在联大第78届会议一般性辩论中发言。
+
+   [84]Weibo [85]Twitter [86]打印 [87]电子邮件
+
+南非总统拉马福萨：我们有责任不让任何一个人掉队
+
+   2023年9月19日 [88]联合国事务
+
+   南非总统拉马福萨（Cyril
+   Ramaphosa）今天在联合国大会第78届会议一般性辩论上发表讲话指出，人类应尽一切努力实现2030年可持续发展议程，但“战祸再次将我们的精
+   力转移分散”。
+
+
+   拉马福萨说：“几千年来，人类展现出了巨大的复原力、适应能力、创新能力、同情心和团结力……我们作为国际社会、作为全世界的各个成员，必须在齐心协力
+   结束战争和冲突的努力中体现这些品质。”
+
+   他敦促国际社会投资于预防冲突和建设和平的工作，并支持秘书长古特雷斯的呼吁：努力为建设和平提供可持续和可预见的资金。
+
+   他还对非洲部分地区违宪的政府更迭表达关切，并强调要与非洲联盟合作，支持整个非洲大陆的和平努力。
+
+增强妇女权能
+
+   拉马福萨强调，增强妇女权能、倡导性别平等以及平等获得医疗保健、教育和经济机会至关重要。
+
+   他指出，南非内阁中妇女占比50%，今年陪同他出席联大的还有一个全女性代表团。他呼吁在全球舞台上增加女性代表的占比。
+
+   他还对全球气温上升表示担忧，指出全球“气候热点地区”中有17个在非洲。
+
+   他说：“对于气候的破坏性影响，非洲负有最小的责任，却承担着最重的负担”。因此，他呼吁世界领导人在追求共同繁荣的同时，加速脱碳。
+
+安理会改革
+
+   拉马福萨还强调要建立包容、民主和具有代表性的国际机构。
+
+   他提到了最近由南非、俄罗斯、印度和中国举行的会议，并表示：“最近在约翰内斯堡举行的金砖国家峰会也肯定了安理会改革的呼声，那些没有代表权的国家�
+   须要有代表权”。
+
+   在结束讲话时，拉马福萨敦促所有国家展示出“意愿和决心”，为我们的世界，特别是为我们的子孙后代，创造一个和平、繁荣、可持续的未来。
+
+   在回顾国际社会在2015年通过《2030年可持续发展议程》时做出的指导性承诺时，拉马福萨重申：“不让任何一个人掉队——这是我们所有人的责任。”
+   直接通过您的邮箱接收每日更新 [89]点击此处订阅相关主题
+   下载适用于您的[90]iOS或[91]Android设备的联合国新闻应用程序
+     * [92]联大第78届会议
+     * [93]一般性辩论
+     * [94]南非
+
+相关新闻
+
+   [95]巴西总统卢拉在联大一般性辩论上发言。
+
+[96]巴西总统卢拉：武装冲突是对人类理性的攻击
+
+   [97]乌克兰总统泽连斯基在联大第78届会议一般性辩论上发言。
+
+[98]乌克兰总统泽连斯基：俄罗斯把粮食和能源当作武器，所有国家都受到影响
+
+   [99]美国总统拜登在联大第78届会议一般性辩论上发言。
+
+[100]美国总统拜登：团结一致使我们无坚不摧
 
 媒体资讯 (BUTTON)
 
-     * [80]广播业者须知
-     * [81]联合国系统新闻链接
-     * [82]媒体通知
-     * [83]联合国期刊
-     * [84]会议记录
-     * [85]视听图书馆
+     * [101]广播业者须知
+     * [102]联合国系统新闻链接
+     * [103]媒体通知
+     * [104]联合国期刊
+     * [105]会议记录
+     * [106]视听图书馆
 
 联合国秘书长 (BUTTON)
 
-     * [86]公务旅行
-     * [87]媒体招待会
-     * [88]所有发言
-     * [89]联合国秘书长推特
+     * [107]公务旅行
+     * [108]媒体招待会
+     * [109]所有发言
+     * [110]联合国秘书长推特
 
 发言人办公室 (BUTTON)
 
-     * [90]最新声明
-     * [91]简报要闻
-     * [92]简报记录
-     * [93]给记者的说明
+     * [111]最新声明
+     * [112]简报要闻
+     * [113]简报记录
+     * [114]给记者的说明
 
 联系我们 (BUTTON)
 
-     * [94]联合国新闻应用程序
-     * [95]微博
-     * [96]RSS
-     * [97]新闻导航
-     * [98]联系信息
+     * [115]联合国新闻应用程序
+     * [116]微博
+     * [117]RSS
+     * [118]新闻导航
+     * [119]联系信息
 
 Footer menu
 
-     * [99]网址索引
-     * [100]版权
-     * [101]常见问题解答
-     * [102]欺诈警告
-     * [103]隐私通知
-     * [104]使用条款
+     * [120]网址索引
+     * [121]版权
+     * [122]常见问题解答
+     * [123]欺诈警告
+     * [124]隐私通知
+     * [125]使用条款
      __________________________________________________________________
 
 Social Media Links
@@ -158,119 +228,146 @@ Social Media Links
 
 Footer buttons
 
-     * [105]捐款
+     * [126]捐款
+
+   [127]Weibo [128]Twitter [129]打印 [130]电子邮件
 
 References
 
    Visible links:
    1. android-app://https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
-   2. https://news.un.org/zh/story/2023/03/1116242#main-content
-   3. https://www.un.org/
-   4. https://news.un.org/ar/
-   5. https://news.un.org/zh/
-   6. https://news.un.org/en/
-   7. https://news.un.org/fr/
-   8. https://news.un.org/ru/
-   9. https://news.un.org/es/
-  10. https://news.un.org/pt/
-  11. https://news.un.org/sw/
-  12. https://news.un.org/hi/
-  13. https://news.un.org/ur/
-  14. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  15. https://www.un.org/zh
-  16. https://news.un.org/zh/
-  17. https://news.un.org/zh/advanced-search
-  18. https://news.un.org/ar/
-  19. https://news.un.org/zh/
-  20. https://news.un.org/en/
-  21. https://news.un.org/fr/
-  22. https://news.un.org/ru/
-  23. https://news.un.org/es/
-  24. https://news.un.org/pt/
-  25. https://news.un.org/sw/
-  26. https://news.un.org/hi/
-  27. https://news.un.org/ur/
-  28. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  29. https://news.un.org/zh/
-  30. https://news.un.org/zh/story/2023/03/1116242#CollapsingNavbar
+   2. https://news.un.org/zh/story/2023/09/1121912
+   3. https://news.un.org/zh/story/2023/09/1121912#main-content
+   4. https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   5. https://www.un.org/zh
+   6. https://news.un.org/ar/
+   7. https://news.un.org/zh/
+   8. https://news.un.org/en/
+   9. https://news.un.org/fr/
+  10. https://news.un.org/ru/
+  11. https://news.un.org/es/
+  12. https://news.un.org/pt/
+  13. https://news.un.org/sw/
+  14. https://news.un.org/hi/
+  15. https://news.un.org/ur/
+  16. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  17. https://www.un.org/zh
+  18. https://news.un.org/zh/
+  19. https://news.un.org/zh/advanced-search
+  20. https://news.un.org/ar/
+  21. https://news.un.org/zh/
+  22. https://news.un.org/en/
+  23. https://news.un.org/fr/
+  24. https://news.un.org/ru/
+  25. https://news.un.org/es/
+  26. https://news.un.org/pt/
+  27. https://news.un.org/sw/
+  28. https://news.un.org/hi/
+  29. https://news.un.org/ur/
+  30. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
   31. https://news.un.org/zh/
-  32. https://news.un.org/zh/news/region/asia-pacific
-  33. https://news.un.org/zh/news/region/africa
-  34. https://news.un.org/zh/news/region/americas
-  35. https://news.un.org/zh/news/region/middle-east
-  36. https://news.un.org/zh/news/region/europe
-  37. https://news.un.org/zh/story/2023/03/1116242
-  38. https://news.un.org/zh/news/topic/peace-and-security
-  39. https://news.un.org/zh/news/topic/economic-development
-  40. https://news.un.org/zh/news/topic/humanitarian-aid
-  41. https://news.un.org/zh/news/topic/climate-change
-  42. https://news.un.org/zh/news/topic/human-rights
-  43. https://news.un.org/zh/news/topic/un-affairs
-  44. https://news.un.org/zh/news/topic/women
-  45. https://news.un.org/zh/news/topic/law-and-crime-prevention
-  46. https://news.un.org/zh/news/topic/health
-  47. https://news.un.org/zh/news/topic/culture-and-education
-  48. https://news.un.org/zh/news/topic/sdgs
-  49. https://news.un.org/zh/news/topic/migrants-and-refugees
-  50. https://news.un.org/zh/story/2023/03/1116242
-  51. https://news.un.org/zh/interviews
-  52. https://news.un.org/zh/gallery
-  53. https://news.un.org/zh/features
-  54. https://www.un.org/sg/zh
-  55. https://www.un.org/sg/en/spokesperson
-  56. https://www.un.org/sg/en/latest/sg/statement
-  57. https://www.un.org/sg/en/archive/sg/speeches
-  58. https://www.un.org/sg/en/content/sg/press-encounters
-  59. https://www.un.org/sg/en/content/travels
-  60. https://news.un.org/zh/story/2023/03/1116242
-  61. https://dam.media.un.org/
-  62. https://webtv.un.org/zh
-  63. https://press.un.org/en
-  64. https://www.un.org/zh/media/accreditation/
-  65. http://www.unmultimedia.org/avlibrary/
-  66. https://news.un.org/zh/story/2023/03/1116242#block-un-base-theme-language-primary-content
-  67. https://news.un.org/ar/
-  68. https://news.un.org/zh/
-  69. https://news.un.org/en/
-  70. https://news.un.org/fr/
-  71. https://news.un.org/ru/
-  72. https://news.un.org/es/
-  73. https://news.un.org/pt/
-  74. https://news.un.org/sw/
-  75. https://news.un.org/hi/
-  76. https://news.un.org/ur/
-  77. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  78. https://news.un.org/zh/story/2023/03/1116242#block-un-news-search-block-primary-content
-  79. https://news.un.org/zh/advanced-search
-  80. https://news.un.org/zh/content/information-broadcasters
-  81. https://news.un.org/zh/content/un-system-links
-  82. https://www.un.org/en/media/accreditation/alert.shtml
-  83. https://journal.un.org/zh/
-  84. https://www.un.org/press/en/content/meetings-coverage/
-  85. https://www.unmultimedia.org/avlibrary/
-  86. https://www.un.org/sg/en/content/travels
-  87. https://www.un.org/sg/en/content/sg/press-encounters
-  88. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
-  89. https://twitter.com/antonioguterres?lang=en
-  90. https://www.un.org/sg/en/spokesperson
-  91. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
-  92. https://www.un.org/press/en/content/noon-briefings
-  93. https://www.un.org/sg/en/content/sg/notes-correspondents
-  94. https://news.un.org/zh/content/un-news-app
-  95. https://weibo.com/275800001
-  96. https://news.un.org/zh/rss-feeds
-  97. https://news.un.org/zh/content/navigate-news
-  98. https://news.un.org/zh/contact
-  99. https://www.un.org/zh/site-index
- 100. https://www.un.org/zh/about-us/copyright
- 101. https://www.un.org/zh/about-us/frequently-asked-questions
- 102. https://www.un.org/zh/about-us/fraud-alert
- 103. https://www.un.org/zh/about-us/privacy-notice
- 104. https://www.un.org/zh/about-us/terms-of-use
- 105. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
+  32. https://news.un.org/zh/story/2023/09/1121912#CollapsingNavbar
+  33. https://news.un.org/zh/
+  34. https://news.un.org/zh/news/region/asia-pacific
+  35. https://news.un.org/zh/news/region/africa
+  36. https://news.un.org/zh/news/region/americas
+  37. https://news.un.org/zh/news/region/middle-east
+  38. https://news.un.org/zh/news/region/europe
+  39. https://news.un.org/zh/story/2023/09/1121912
+  40. https://news.un.org/zh/news/topic/peace-and-security
+  41. https://news.un.org/zh/news/topic/economic-development
+  42. https://news.un.org/zh/news/topic/humanitarian-aid
+  43. https://news.un.org/zh/news/topic/climate-change
+  44. https://news.un.org/zh/news/topic/human-rights
+  45. https://news.un.org/zh/news/topic/un-affairs
+  46. https://news.un.org/zh/news/topic/women
+  47. https://news.un.org/zh/news/topic/law-and-crime-prevention
+  48. https://news.un.org/zh/news/topic/health
+  49. https://news.un.org/zh/news/topic/culture-and-education
+  50. https://news.un.org/zh/news/topic/sdgs
+  51. https://news.un.org/zh/news/topic/migrants-and-refugees
+  52. https://news.un.org/zh/story/2023/09/1121912
+  53. https://news.un.org/zh/interviews
+  54. https://news.un.org/zh/gallery
+  55. https://news.un.org/zh/features
+  56. https://www.un.org/sg/zh
+  57. https://www.un.org/sg/en/spokesperson
+  58. https://www.un.org/sg/en/latest/sg/statement
+  59. https://www.un.org/sg/en/archive/sg/speeches
+  60. https://www.un.org/sg/en/content/sg/press-encounters
+  61. https://www.un.org/sg/en/content/travels
+  62. https://news.un.org/zh/story/2023/09/1121912
+  63. https://dam.media.un.org/
+  64. https://webtv.un.org/zh
+  65. https://press.un.org/en
+  66. https://www.un.org/zh/media/accreditation/
+  67. http://www.unmultimedia.org/avlibrary/
+  68. https://news.un.org/zh/story/2023/09/1121912#block-un-base-theme-language-primary-content
+  69. https://news.un.org/ar/
+  70. https://news.un.org/zh/
+  71. https://news.un.org/en/
+  72. https://news.un.org/fr/
+  73. https://news.un.org/ru/
+  74. https://news.un.org/es/
+  75. https://news.un.org/pt/
+  76. https://news.un.org/sw/
+  77. https://news.un.org/hi/
+  78. https://news.un.org/ur/
+  79. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  80. https://news.un.org/zh/story/2023/09/1121912#block-un-news-search-block-primary-content
+  81. https://news.un.org/zh/advanced-search
+  82. https://news.un.org/zh/audio-hub
+  83. https://news.un.org/zh/content/un-newsletter-subscribe
+  84. https://service.weibo.com/share/share.php?url=https://news.un.org/zh/story/2023/09/1121912&title=南非总统拉马福萨：我们有责任不让任何一个人掉队
+  85. https://twitter.com/intent/tweet?text=南非总统拉马福萨：我们有责任不让任何一个人掉队&url=https://news.un.org/zh/story/2023/09/1121912
+  86. https://news.un.org/zh/story/2023/09/1121912
+  87. mailto:?subject=南非总统拉马福萨：我们有责任不让任何一个人掉队&body=https://news.un.org/zh/story/2023/09/1121912
+  88. https://news.un.org/zh/news/topic/un-affairs
+  89. https://news.un.org/zh/content/un-newsletter-subscribe?utm_source=UN News&utm_medium=email&utm_campaign=un_news_newsletter
+  90. https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8
+  91. https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
+  92. https://news.un.org/zh/tags/liandadi78jiehuiyi
+  93. https://news.un.org/zh/tags/yibanxingbianlun
+  94. https://news.un.org/zh/tags/nanfei
+  95. https://news.un.org/zh/story/2023/09/1121802
+  96. https://news.un.org/zh/story/2023/09/1121802
+  97. https://news.un.org/zh/story/2023/09/1121807
+  98. https://news.un.org/zh/story/2023/09/1121807
+  99. https://news.un.org/zh/story/2023/09/1121817
+ 100. https://news.un.org/zh/story/2023/09/1121817
+ 101. https://news.un.org/zh/content/information-broadcasters
+ 102. https://news.un.org/zh/content/un-system-links
+ 103. https://www.un.org/en/media/accreditation/alert.shtml
+ 104. https://journal.un.org/zh/
+ 105. https://www.un.org/press/en/content/meetings-coverage/
+ 106. https://www.unmultimedia.org/avlibrary/
+ 107. https://www.un.org/sg/en/content/travels
+ 108. https://www.un.org/sg/en/content/sg/press-encounters
+ 109. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
+ 110. https://twitter.com/antonioguterres?lang=en
+ 111. https://www.un.org/sg/en/spokesperson
+ 112. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
+ 113. https://www.un.org/press/en/content/noon-briefings
+ 114. https://www.un.org/sg/en/content/sg/notes-correspondents
+ 115. https://news.un.org/zh/content/un-news-app
+ 116. https://weibo.com/275800001
+ 117. https://news.un.org/zh/rss-feeds
+ 118. https://news.un.org/zh/content/navigate-news
+ 119. https://news.un.org/zh/contact
+ 120. https://www.un.org/zh/site-index
+ 121. https://www.un.org/zh/about-us/copyright
+ 122. https://www.un.org/zh/about-us/frequently-asked-questions
+ 123. https://www.un.org/zh/about-us/fraud-alert
+ 124. https://www.un.org/zh/about-us/privacy-notice
+ 125. https://www.un.org/zh/about-us/terms-of-use
+ 126. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
+ 127. https://service.weibo.com/share/share.php?url=https://news.un.org/zh/story/2023/09/1121912&title=南非总统拉马福萨：我们有责任不让任何一个人掉队
+ 128. https://twitter.com/intent/tweet?text=南非总统拉马福萨：我们有责任不让任何一个人掉队&url=https://news.un.org/zh/story/2023/09/1121912
+ 129. https://news.un.org/zh/story/2023/09/1121912
+ 130. mailto:?subject=南非总统拉马福萨：我们有责任不让任何一个人掉队&body=https://news.un.org/zh/story/2023/09/1121912
 
    Hidden links:
- 107. https://www.weibo.com/275800001?refer_flag=1001030101_&is_hot=1
- 108. https://soundcloud.com/unradiochinese
- 109. https://podcasts.apple.com/us/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB/id306300959?mt=2&app=podcast
- 110. https://www.un.org/zh/get-involved/social-media
+ 132. https://www.weibo.com/275800001?refer_flag=1001030101_&is_hot=1
+ 133. https://soundcloud.com/unradiochinese
+ 134. https://podcasts.apple.com/us/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB/id306300959?mt=2&app=podcast
+ 135. https://www.un.org/zh/get-involved/social-media

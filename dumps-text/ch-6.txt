@@ -1,276 +1,349 @@
-   #[1]alternate
+   [1]商城
+   订�
 
-   [2]跳至主要内容/导航
+   [2]数据 [3]私房课 [4]会议 [5]Promotion [6]运动家 [7]企业用户 [8]应用下载 [9]帮助
+   [10]网上有害信息举报专区
+     *
+          +
+          +
+          +
+     * [11]首页
+     * [12]经济
+     * [13]金融
+     * [14]公司
+     * [15]政经
+     * [16]世界
+     * [17]观点
+     * [18][logo.png]
+     * [19]mini
+     * [20]博客
+     * [21]周刊
+     * [22]图片
+     * [23]视频
+     * [24]数据
+     * [25]English
 
-   [3]欢迎来到联合国，您的世界！
+   [26]更多 [27]科技 [28]地产 [29]汽车 [30]消费 [31]能源 [32]健康 [33]环科 [34]民生 [35]ESG
+   [36]数字说 [37]比较 [38]中国改革 [39]专题
+   请输入要搜索的_____________ [nav_seach.png]-Submit
+   [40]数据 [41]财新一线 [42]私房课 [43]会议 [44]Promotion [45]运动家 [46]企业用户 [47]应用下载
+   [48]帮助
 
-Language
+   财新传媒
 
-     * [4]العربية
-     * [5]中文
-     * [6]English
-     * [7]Français
-     * [8]Русский
-     * [9]Español
-     * [10]Português
-     * [11]Kiswahili
-     * (BUTTON) 其它
-          + [12]Hindi हिंदी
-          + [13]Urdu اردو
-          + [14]Global
+   [49]公司 > [50]要闻 > 正文
+     * 发表评论
+     * 分享到微信朋友圈
+     * 新浪转发
 
-   [15]United Nations
-   [16]联合国新闻
-   全球视野, 常人故事
-   (BUTTON) zh (BUTTON) 搜索 (BUTTON)
-
-   ____________________________________________________________
-   (搜索) 搜索
-   [17]高级搜�
-
-语言
-
-     * [18]العربية
-     * [19]中文
-     * [20]English
-     * [21]Français
-     * [22]Русский
-     * [23]Español
-     * [24]Português
-     * [25]Kiswahili
-     * (BUTTON) 其它
-          + [26]Hindi हिंदी
-          + [27]Urdu اردو
-          + [28]Global
-
-   (BUTTON)
-   [29]联合国新闻
-   全球视野, 常人故事
-
-[30]菜单
-
-     * [31]主页
-          + [32]亚洲及太平洋
-          + [33]非洲
-          + [34]美洲
-          + [35]中东
-          + [36]欧洲
-     * [37]全球议题
-          + [38]和平与安全
-          + [39]经济发展
-          + [40]人道主义援助
-          + [41]气候变化与环境
-          + [42]人权
-          + [43]联合国事务
-          + [44]妇女
-          + [45]法律与预防犯罪
-          + [46]健康及卫生
-          + [47]文化与教育
-          + [48]可持续发展目标
-          + [49]移民与难民
-     * [50]深度报道
-          + [51]人物专访
-          + [52]图片故事
-          + [53]专题报道
-     * [54]秘书长
-          + [55]秘书长发言人
-          + [56]所有发言
-          + [57]精选发言稿
-          + [58]媒体座谈会
-          + [59]公务旅行
-     * [60]新闻媒体
-          + [61]联合国图片
-          + [62]网络电视
-          + [63]会议报道
-          + [64]媒体办证和联络
-          + [65]音像图书馆
-
-[66]语言
-
-     * [67]العربية
-     * [68]中文
-     * [69]English
-     * [70]Français
-     * [71]Русский
-     * [72]Español
-     * [73]Português
-     * [74]Kiswahili
-     * (BUTTON) 其它
-          + [75]Hindi हिंदी
-          + [76]Urdu اردو
-          + [77]Global
-
-[78]搜索
-
-   ____________________________________________________________
-   (搜索) 搜索
-   [79]高级搜�
-
-   404
-
-媒体资讯 (BUTTON)
-
-     * [80]广播业者须知
-     * [81]联合国系统新闻链接
-     * [82]媒体通知
-     * [83]联合国期刊
-     * [84]会议记录
-     * [85]视听图书馆
-
-联合国秘书长 (BUTTON)
-
-     * [86]公务旅行
-     * [87]媒体招待会
-     * [88]所有发言
-     * [89]联合国秘书长推特
-
-发言人办公室 (BUTTON)
-
-     * [90]最新声明
-     * [91]简报要闻
-     * [92]简报记录
-     * [93]给记者的说明
-
-联系我们 (BUTTON)
-
-     * [94]联合国新闻应用程序
-     * [95]微博
-     * [96]RSS
-     * [97]新闻导航
-     * [98]联系信息
-
-Footer menu
-
-     * [99]网址索引
-     * [100]版权
-     * [101]常见问题解答
-     * [102]欺诈警告
-     * [103]隐私通知
-     * [104]使用条款
-     __________________________________________________________________
-
-Social Media Links
-
+   [weixin_code.jpg]
+     *
+     * [51]0
      *
      *
-     *
-     *
+     * [52]订�
+       电邮
 
-Footer buttons
+莱荣高铁被举报存重大安全隐患调查公布：仅有施工管理责任
 
-     * [105]捐款
+   2023-11-25 18:09:30来源： [53]财新网作者：朴姝颖，包志明
+   文｜财新 朴姝颖（实习），包志明
+   2023年11月25日 18:09
+   涉事相关责任单位及17人被处罚，这是中建八局今年第二次因未按照工程设计图纸施工受到行政处罚
+
+   [weixin_code.jpg]
+          资料图：2020年11月19日，莱荣高铁沽河特大桥启动第一钻，莱荣高铁荣成段正式开工建设。图：视觉中国
+
+   相关报道
+          [54]城市公共安全专家施钟淇：老旧建筑物安全隐患需重视
+          [55]破坏秦岭生态、制造金融安全隐患 焦小平涉嫌受贿被逮捕
+          [56]北京长峰医院遇难者增至29人 火灾凸现消防安全隐患（更新）
+          [57]动车脱轨事发地两周前完成铁路安全环境检查 汛期脱轨事故为何频发？
+          [58]广西平南一水库存重大安全隐患 自治区水利厅被约谈
+
+   　　【财新网】经过4个月的调查，莱荣高铁被举报存在重大安全隐患一事有了最终调查结果。上海铁路监督管理局11月24日通报，莱荣高铁涉事路基段及全
+   线不存在质量问题和安全隐患，但在施工管理上存在管理不到位、工程分包不规范等问题。相关责任单位及17人被处罚。
+
+   　　7月20日，[59]河南省三捷实业有限公司（以下简称“三捷公司”）实名举报称，工程施工总承包单位[60]中国建筑第八工程局有限公司（以下简
+   称“中建八局”）涉嫌偷工减料，莱荣高铁部分路基段螺纹桩施工存在质量问题，该段大部分螺纹桩的施工桩长不满足设计要求，存在重大安全隐患。
+
+   　　推荐进入[61]财新数据库，可随时查阅公司股价走势、结构人员变化等投资信息。
+   版面编辑：刘春辉
+   更多更快财经资讯请看[62]财新一线
+     * [63]分享到新浪微博
+     * 分享到微信朋友圈
+
+   [64]上一篇：中国联通总经理陈忠岳晋升董事长
+   [65]下一篇：零跑汽车与Stellantis合作落地 计划2024年三季度在欧洲交付
+
+推荐阅读
+
+   推广
+
+图片推荐
+
+   [66][170107227634218_145_97.jpg] 第十次中日韩外长会在韩国釜山举行
+   [67][170106195340877_145_97.jpg] 内塔尼亚胡首次前往加沙视察以军部队 称以军有三大行动目标
+   [68][170142996021016_145_97.jpg] 金正恩同女儿视察朝鲜人民军航空司令部
+   [69][170106252632354_145_97.jpg]
+   一日图闻｜哈马斯与以色列完成第三轮扣押人员交换、基辅称遭“最大规模”无人机袭击
+   [70][170114684430560_145_97.jpg]
+   一日图闻｜哈马斯和以色列开始第四轮被扣押人员交换、乌克兰暴风雪等恶劣天气已致13人受伤 [71][toppic.jpg]
+   一日图闻｜全球首个“疯狂动物城”园区在上海迪士尼试运行、美军“鱼鹰”运输机在日本鹿儿岛近海坠毁致1人死亡
+   [72][170108108059125_145_97.jpg] 视线｜洛阳古城内“同袍”汇聚 汉服出行日由何而来？
+   [73][170122851918798_145_97.jpg] 一日图闻｜乌克兰极端天气酿数十人死伤、意大利火车与卡车相撞致2人死亡
+
+视听推荐
+
+   [74][170056051852142_145_97.jpg] 《财新时间》十周年活动Vlog—“时间为证”线下沙龙的台前幕后
+   [75][170020935448559_145_97.jpg] 彭军：只要能在数据中提炼出有价值的东西，就是智能化
+   [76][170132906898494_145_97.jpg] 【预告】《财新时间》对话徐林
+   [77][170142008378329_145_97.jpg] 【推广】迈瑞医疗闫华文：以自动化、智能化、信息化，提升体外诊断应用价值
+   [78][170142208114012_145_97.jpg] 【特别呈现】泉州市民营经济高质量发展致敬影片《南安水暖鸭先知》
+   [79][170139931268426_145_97.jpg] 【财新时间】徐林：绿色能源投资价值渐显，产业发展仍需“多管齐下”
+   [80][170133174130571_145_97.jpg] 徐林：尽量以市场化投资方式推动新能源车行业发展
+   [81][170133173959587_145_97.jpg] 徐林：加入高标准自由贸易协定，需应对好内部改革压力
+   [82]投资资讯 [83]热点数据
+
+   [84]查看更多>>
+
+编辑推荐
+
+   [85]pic 马拉皮火山喷发 火山灰柱达3000米致11人遇难 [86]pic 显影｜印尼小岛中国城
+     * [87]民生 | [88]少子化日本镜鉴：乡村教育的生死考验
+     * [89]世界｜[90]中欧领导人会晤将在北京举行
+     * [91]财新周刊 | [92]豪奢时代退潮 顶奢轻奢各自布局
+     * [93]社论 | [94]社激发民企金融需求
+     * [95]财新周刊｜[96]【封面报道】镍战印尼
+
+   财新网主编精选版电邮 [97]样例
+   财新网新闻版电邮全新升级！财新网主编精心编写，每个工作日定时投递，篇篇重磅，可信可引。
+   ____________________ 订�
+
+[98]财新名家
+
+     * [99]张涛： [100]10年期美债收益率扭转的因�
+     * [101]周君芝： [102]年内的财政空间
+     * [103]姚洋： [104]地方债的化解方案与必要的治理改革
+
+[105]视频
+
+   [106][170012515769091_145_97.jpg] [107][163705195122691_145_97.jpeg]
+
+[108]博客
+
+     * [109]鬃缆：[110]​胡舒立新著《穿越在历史边缘》序
+     * [111]刘远举：[112]芒格对世界有贡献吗？还是在吸实体经济的血？
+     * [113]唐涯：[114]基辛格去世，中美关系何去何从？
+     * [115]知识分子：[116]什么是“免疫债”？它真的是呼吸道感染激增的原因吗？
+     * [117]返朴：[118]流感围城，何时该用奥司他韦？
+
+最新文�
+
+     * 22:40[119]恒大清盘聆讯再延期 债权人特别小组称“...
+     * 22:38[120]以军地面战火逐步烧向加沙全境 当地居民...
+     * 20:49[121]药明生物调低业绩指引 CXO股价集体重挫
+     * 20:43[122]在港资产不受保护？律政司澄清内地判决不...
+     * 20:19[123]物流周报｜中国铁矿石进口量周环比增长1...
+     * 19:26[124]2023年以来减产汽车逾13万辆 广汽...
+     * 17:37[125]拼多多消费降级红利还能吃多久/雪球产品...
+     * 17:07[126]COP28《气候与健康宣言》：将健康置...
+     * 16:45[127]Temu TikTok和Shein大战...
+     * 16:13[128]易会满：强化监管主责主业 维护资本市场...
+
+English - Caixin Global
+
+          [129][170163429409949_145_97.jpg]
+
+[130]Cover Story: Chinese Nickel Miners in Indonesia Face Threat from Falling
+Prices
+
+          [131][170168605141911_145_97.jpg]
+
+[132]Xi to Meet EU Leaders in Beijing for First In-Person Summit in Four
+Years
+
+          [133][170168961052077_145_97.jpg]
+
+[134]CATL Tight-Lipped About Indonesia Battery Materials Venture
+
+          [135][170169340318534_145_97.jpg]
+
+[136]Analysis: What’s Behind China’s Diverging Economic Data
+
+   [137]Read More
+
+   财新网所刊载内容之知识产权为财新传媒及/或相关权利人专属所有或持有。未经许可，禁止进行转载、摘编、复制及建立镜像等任何使用。
+   [138]京ICP证090880号 [139]京ICP备10026701号-8 |[140] [1511950030301165.png]
+   京公网安备 11010502034662号 | [141]广播电视节目制作经营许可证：京第01015号 |
+   [142]出版物经营许可证：第直100013号
+   Copyright 财新网 All Rights Reserved 版权所有 复制必究
+   违法和不良信息举报电话（涉网络暴力有害信息举报、未成年人举报、谣言信息）：010-85905050　13195200605
+   举报邮箱：laixin@caixin.com
+   [143]关于我们 | [144]加入我们 | [145]啄木鸟公益基金会 | [146]意见与反馈 | [147]提供新闻线索 |
+   [148]联系我们 | [149]友情链接
+   [logo_bottom.png]
+
+   IFRAME: [150]//api.growingio.com/nojs/872f3eaac31f373e/pv
 
 References
 
    Visible links:
-   1. android-app://https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
-   2. https://news.un.org/zh/story/2023/09/1121912#main-content
-   3. https://www.un.org/
-   4. https://news.un.org/ar/
-   5. https://news.un.org/zh/
-   6. https://news.un.org/en/
-   7. https://news.un.org/fr/
-   8. https://news.un.org/ru/
-   9. https://news.un.org/es/
-  10. https://news.un.org/pt/
-  11. https://news.un.org/sw/
-  12. https://news.un.org/hi/
-  13. https://news.un.org/ur/
-  14. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  15. https://www.un.org/zh
-  16. https://news.un.org/zh/
-  17. https://news.un.org/zh/advanced-search
-  18. https://news.un.org/ar/
-  19. https://news.un.org/zh/
-  20. https://news.un.org/en/
-  21. https://news.un.org/fr/
-  22. https://news.un.org/ru/
-  23. https://news.un.org/es/
-  24. https://news.un.org/pt/
-  25. https://news.un.org/sw/
-  26. https://news.un.org/hi/
-  27. https://news.un.org/ur/
-  28. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  29. https://news.un.org/zh/
-  30. https://news.un.org/zh/story/2023/09/1121912#CollapsingNavbar
-  31. https://news.un.org/zh/
-  32. https://news.un.org/zh/news/region/asia-pacific
-  33. https://news.un.org/zh/news/region/africa
-  34. https://news.un.org/zh/news/region/americas
-  35. https://news.un.org/zh/news/region/middle-east
-  36. https://news.un.org/zh/news/region/europe
-  37. https://news.un.org/zh/story/2023/09/1121912
-  38. https://news.un.org/zh/news/topic/peace-and-security
-  39. https://news.un.org/zh/news/topic/economic-development
-  40. https://news.un.org/zh/news/topic/humanitarian-aid
-  41. https://news.un.org/zh/news/topic/climate-change
-  42. https://news.un.org/zh/news/topic/human-rights
-  43. https://news.un.org/zh/news/topic/un-affairs
-  44. https://news.un.org/zh/news/topic/women
-  45. https://news.un.org/zh/news/topic/law-and-crime-prevention
-  46. https://news.un.org/zh/news/topic/health
-  47. https://news.un.org/zh/news/topic/culture-and-education
-  48. https://news.un.org/zh/news/topic/sdgs
-  49. https://news.un.org/zh/news/topic/migrants-and-refugees
-  50. https://news.un.org/zh/story/2023/09/1121912
-  51. https://news.un.org/zh/interviews
-  52. https://news.un.org/zh/gallery
-  53. https://news.un.org/zh/features
-  54. https://www.un.org/sg/zh
-  55. https://www.un.org/sg/en/spokesperson
-  56. https://www.un.org/sg/en/latest/sg/statement
-  57. https://www.un.org/sg/en/archive/sg/speeches
-  58. https://www.un.org/sg/en/content/sg/press-encounters
-  59. https://www.un.org/sg/en/content/travels
-  60. https://news.un.org/zh/story/2023/09/1121912
-  61. https://dam.media.un.org/
-  62. https://webtv.un.org/zh
-  63. https://press.un.org/en
-  64. https://www.un.org/zh/media/accreditation/
-  65. http://www.unmultimedia.org/avlibrary/
-  66. https://news.un.org/zh/story/2023/09/1121912#block-un-base-theme-language-primary-content
-  67. https://news.un.org/ar/
-  68. https://news.un.org/zh/
-  69. https://news.un.org/en/
-  70. https://news.un.org/fr/
-  71. https://news.un.org/ru/
-  72. https://news.un.org/es/
-  73. https://news.un.org/pt/
-  74. https://news.un.org/sw/
-  75. https://news.un.org/hi/
-  76. https://news.un.org/ur/
-  77. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
-  78. https://news.un.org/zh/story/2023/09/1121912#block-un-news-search-block-primary-content
-  79. https://news.un.org/zh/advanced-search
-  80. https://news.un.org/zh/content/information-broadcasters
-  81. https://news.un.org/zh/content/un-system-links
-  82. https://www.un.org/en/media/accreditation/alert.shtml
-  83. https://journal.un.org/zh/
-  84. https://www.un.org/press/en/content/meetings-coverage/
-  85. https://www.unmultimedia.org/avlibrary/
-  86. https://www.un.org/sg/en/content/travels
-  87. https://www.un.org/sg/en/content/sg/press-encounters
-  88. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
-  89. https://twitter.com/antonioguterres?lang=en
-  90. https://www.un.org/sg/en/spokesperson
-  91. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
-  92. https://www.un.org/press/en/content/noon-briefings
-  93. https://www.un.org/sg/en/content/sg/notes-correspondents
-  94. https://news.un.org/zh/content/un-news-app
-  95. https://weibo.com/275800001
-  96. https://news.un.org/zh/rss-feeds
-  97. https://news.un.org/zh/content/navigate-news
-  98. https://news.un.org/zh/contact
-  99. https://www.un.org/zh/site-index
- 100. https://www.un.org/zh/about-us/copyright
- 101. https://www.un.org/zh/about-us/frequently-asked-questions
- 102. https://www.un.org/zh/about-us/fraud-alert
- 103. https://www.un.org/zh/about-us/privacy-notice
- 104. https://www.un.org/zh/about-us/terms-of-use
- 105. https://www.un.org/zh/about-us/how-to-donate-to-the-un-system
+   1. https://mall.caixin.com/
+   2. https://caixindata.com/?source=caixinweb
+   3. https://course.caixin.com/?channel=02300
+   4. https://conferences.caixin.com/
+   5. https://promote.caixin.com/
+   6. http://www.sports-idea.com/
+   7. https://corp.caixin.com/group/
+   8. http://mobile.caixin.com/home/
+   9. https://corp.caixin.com/m/caixinhelp/
+  10. https://www.12377.cn/
+  11. https://www.caixin.com/
+  12. https://economy.caixin.com/
+  13. https://finance.caixin.com/
+  14. https://companies.caixin.com/
+  15. https://china.caixin.com/
+  16. https://international.caixin.com/
+  17. https://opinion.caixin.com/
+  18. https://www.caixin.com/
+  19. https://mini.caixin.com/
+  20. http://blog.caixin.com/
+  21. https://weekly.caixin.com/
+  22. https://photos.caixin.com/
+  23. https://video.caixin.com/
+  24. https://s.ccxe.com.cn/index?source=caixinweb
+  25. https://en.caixin.com/
+  26. https://companies.caixin.com/2023-11-25/102139516.html
+  27. https://www.caixin.com/tech/
+  28. https://www.caixin.com/property/
+  29. https://www.caixin.com/auto/
+  30. https://www.caixin.com/consumer/
+  31. https://www.caixin.com/energy/
+  32. https://www.caixin.com/health/
+  33. https://science.caixin.com/
+  34. https://www.caixin.com/livelihood/
+  35. https://www.caixin.com/esg/
+  36. https://datanews.caixin.com/
+  37. https://bijiao.caixin.com/
+  38. https://cnreform.caixin.com/
+  39. https://topics.caixin.com/
+  40. https://caixindata.com/?source=caixinweb
+  41. https://k.caixin.com/web/
+  42. https://course.caixin.com/?channel=02300
+  43. https://conferences.caixin.com/
+  44. https://promote.caixin.com/
+  45. https://www.sports-idea.com/
+  46. https://corp.caixin.com/group/
+  47. https://mobile.caixin.com/home/
+  48. https://m.corp.caixin.com/m/caixinhelp/
+  49. http://companies.caixin.com/
+  50. http://companies.caixin.com/news/
+  51. https://companies.caixin.com/2023-11-25/102139516.html#gocomment
+  52. https://u.caixin.com/web/others/newsletter?utm_campaign=jxnewsletter&utm_medium=cxpage
+  53. https://companies.caixin.com/2023-11-25/102139516.html
+  54. https://www.caixin.com/2023-09-21/102110904.html
+  55. https://china.caixin.com/2023-08-16/102093701.html
+  56. https://www.caixin.com/2023-04-19/102021057.html
+  57. http://companies.caixin.com/2022-06-06/101895507.html
+  58. http://china.caixin.com/2022-06-07/101896053.html
+  59. https://s.ccxe.com.cn/entities/companies/20018493840
+  60. https://s.ccxe.com.cn/entities/companies/200110108
+  61. https://cxdata.caixin.com/index
+  62. http://k.caixin.com/m/
+  63. javascript:void(0);
+  64. https://companies.caixin.com/2023-11-25/102139496.html
+  65. https://companies.caixin.com/2023-11-25/102139401.html
+  66. https://photos.caixin.com/2023-11-27/102139789.html
+  67. https://photos.caixin.com/2023-11-27/102139731.html
+  68. https://photos.caixin.com/2023-12-01/102141698.html
+  69. https://photos.caixin.com/2023-11-27/102139739.html
+  70. https://photos.caixin.com/2023-11-28/102140045.html
+  71. https://photos.caixin.com/2023-11-30/102140983.html
+  72. https://photos.caixin.com/2023-11-27/102139858.html
+  73. https://photos.caixin.com/2023-11-29/102140457.html
+  74. https://video.caixin.com/2023-11-21/102138030.html
+  75. https://video.caixin.com/2023-11-20/102137465.html
+  76. https://video.caixin.com/2023-11-30/102141047.html
+  77. https://video.caixin.com/2023-12-01/102141808.html
+  78. https://video.caixin.com/2023-12-01/102141826.html
+  79. https://video.caixin.com/2023-12-01/102141646.html
+  80. https://video.caixin.com/2023-12-02/102141064.html
+  81. https://video.caixin.com/2023-12-03/102141069.html
+  82. javascript:;
+  83. javascript:;
+  84. https://s.ccxe.com.cn/index?source=cxarticlepage
+  85. https://photos.caixin.com/2023-12-04/102142580.html
+  86. https://weekly.caixin.com/m/2023-12-01/102141756.html
+  87. https://www.caixin.com/livelihood/
+  88. https://www.caixin.com/2023-12-04/102142417.html
+  89. https://international.caixin.com/
+  90. https://international.caixin.com/2023-12-04/102142552.html
+  91. https://weekly.caixin.com/2023/cw1083/
+  92. https://weekly.caixin.com/2023-12-02/102142106.html
+  93. https://weekly.caixin.com/editorial/
+  94. https://weekly.caixin.com/2023-12-02/102142191.html
+  95. https://weekly.caixin.com/2023/cw1083/
+  96. https://weekly.caixin.com/2023-12-01/102141766.html
+  97. https://other.caixin.com/daily_newsletter/
+  98. http://opinion.caixin.com/columns/
+  99. https://opinion.caixin.com/zhangtao_mjxx/
+ 100. https://opinion.caixin.com/2023-10-10/102115332.html
+ 101. https://opinion.caixin.com/zhoujunzhi_mjxx/
+ 102. https://opinion.caixin.com/2023-10-10/102115289.html
+ 103. https://opinion.caixin.com/yaoyang_mjxx/
+ 104. https://opinion.caixin.com/2023-10-10/102115304.html
+ 105. http://video.caixin.com/
+ 106. https://video.caixin.com/2023-11-16/102136458.html
+ 107. https://video.caixin.com/2021-11-17/101805814.html
+ 108. http://blog.caixin.com/
+ 109. http://caixinboke1.blog.caixin.com/
+ 110. https://caixinboke1.blog.caixin.com/archives/271144
+ 111. http://liuyuanju.blog.caixin.com/
+ 112. https://liuyuanju.blog.caixin.com/archives/271909
+ 113. http://tangya.blog.caixin.com/
+ 114. https://tangya.blog.caixin.com/archives/271927
+ 115. http://zhishifenzi.blog.caixin.com/
+ 116. https://zhishifenzi.blog.caixin.com/archives/271910
+ 117. http://fanpusci.blog.caixin.com/
+ 118. https://fanpusci.blog.caixin.com/archives/271831
+ 119. https://www.caixin.com/2023-12-04/102142711.html
+ 120. https://international.caixin.com/2023-12-04/102142708.html
+ 121. https://www.caixin.com/2023-12-04/102142695.html
+ 122. https://china.caixin.com/2023-12-04/102142689.html
+ 123. https://companies.caixin.com/2023-12-04/102142663.html
+ 124. https://www.caixin.com/2023-12-04/102142650.html
+ 125. https://finance.caixin.com/2023-12-04/102142635.html
+ 126. https://international.caixin.com/2023-12-04/102142617.html
+ 127. https://www.caixin.com/2023-12-04/102142609.html
+ 128. https://finance.caixin.com/2023-12-04/102142601.html
+ 129. https://www.caixinglobal.com/2023-12-04/cover-story-chinese-nickel-miners-in-indonesia-face-threat-from-falling-prices-102142410.html
+ 130. https://www.caixinglobal.com/2023-12-04/cover-story-chinese-nickel-miners-in-indonesia-face-threat-from-falling-prices-102142410.html
+ 131. https://www.caixinglobal.com/2023-12-04/xi-to-meet-eu-leaders-in-beijing-for-first-in-person-summit-in-four-years-102142648.html
+ 132. https://www.caixinglobal.com/2023-12-04/xi-to-meet-eu-leaders-in-beijing-for-first-in-person-summit-in-four-years-102142648.html
+ 133. https://www.caixinglobal.com/2023-12-04/catl-tight-lipped-about-indonesia-battery-materials-venture-102142656.html
+ 134. https://www.caixinglobal.com/2023-12-04/catl-tight-lipped-about-indonesia-battery-materials-venture-102142656.html
+ 135. https://www.caixinglobal.com/2023-12-04/analysis-whats-behind-chinas-diverging-economic-data-102142692.html
+ 136. https://www.caixinglobal.com/2023-12-04/analysis-whats-behind-chinas-diverging-economic-data-102142692.html
+ 137. https://www.caixinglobal.com/
+ 138. http://download.caixin.com/upload/icp2015.PDF
+ 139. https://beian.miit.gov.cn/
+ 140. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502034662
+ 141. http://download.caixin.com/upload/gdxk2015.pdf
+ 142. https://download.caixin.com/upload/cbw.pdf
+ 143. http://corp.caixin.com/aboutus/
+ 144. http://corp.caixin.com/joinus/
+ 145. http://www.woodpeckerfoundation.org/
+ 146. mailto:service@caixin.com
+ 147. http://service.caixin.com/contribute/
+ 148. http://corp.caixin.com/contactus/
+ 149. http://other.caixin.com/links/
+ 150. https://api.growingio.com/nojs/872f3eaac31f373e/pv
 
    Hidden links:
- 107. https://www.weibo.com/275800001?refer_flag=1001030101_&is_hot=1
- 108. https://soundcloud.com/unradiochinese
- 109. https://podcasts.apple.com/us/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB/id306300959?mt=2&app=podcast
- 110. https://www.un.org/zh/get-involved/social-media
+ 152. https://www.caixin.com/subscribe/
+ 153. https://companies.caixin.com/2023-11-25/102139516.html#gocomment
+ 154. javascript:void(0);
+ 155. https://companies.caixin.com/2023-11-25/102139516.html#xiangguan
+ 156. https://companies.caixin.com/2023-11-25/102139516.html#new_artical
+ 157. https://s.ccxe.com.cn/index?source=cxarticlepage

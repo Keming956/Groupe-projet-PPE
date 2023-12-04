@@ -1,4 +1,516 @@
-                                404 Not Found
-     __________________________________________________________________
+   #[1]互联网数据资讯网-199IT » Feed [2]互联网数据资讯网-199IT » 评论Feed
+   [3]世贸组织：2023年全球价值链发展报告（366页） [4]alternate [5]alternate
 
-                               RMW-WEB/230426
+     * [6]简洁版
+     * [7]交流群
+     * [8]搜索
+     * [9]大数据导航
+     * [10]企业数据
+     * [11]投稿与合作
+     * [12]项目需求
+     * [13]会议
+
+[14]互联网数据资讯网-199IT
+
+   [INS: :INS]
+
+菜单Menu
+
+     * [15]首页
+     * [16]报告
+     * [17]新兴产业
+          + [18]5G产业
+          + [19]人工智能
+               o [20]机器学�
+               o [21]知识图谱
+          + [22]医疗健康
+          + [23]商业地产
+          + [24]新基建
+          + [25]新能源产业
+          + [26]新一代信息技术
+          + [27]智能汽车
+          + [28]高端装备制�
+          + [29]物联网
+          + [30]新材料产业
+          + [31]工业4.0
+          + [32]新能源汽车
+          + [33]节能环保产业
+          + [34]数字创意
+     * [35]金融科技
+          + [36]互联网金融
+          + [37]区块链
+     * [38]共享经济
+          + [39]网约车
+          + [40]共享汽车
+          + [41]共享办公
+          + [42]共享单车
+          + [43]共享充电宝
+          + [44]共享奢侈品
+     * [45]移动
+          + [46]电信产业
+          + [47]移动设备
+          + [48]移动互联网广告
+          + [49]二维码
+          + [50]手机浏览器
+          + [51]手机邮箱
+          + [52]移动地理位置服务
+          + [53]移动增值
+          + [54]移动应用
+          + [55]移动搜索
+          + [56]移动支付
+     * [57]电商
+          + [58]网络购物
+          + [59]移动电子商务
+          + [60]B2B
+          + [61]团购
+          + [62]网上支付
+     * [63]社交
+          + [64]网络交友
+          + [65]即时通讯
+          + [66]微博
+          + [67]SNS
+          + [68]图片分享
+          + [69]问答类网站
+          + [70]电子邮件
+     * [71]营销
+          + [72]EDM营销
+          + [73]社会化网络营销
+          + [74]搜索营销
+          + [75]移动营销
+          + [76]口碑营销
+          + [77]视频广告营销
+          + [78]展示广告
+          + [79]整合营销
+          + [80]品牌网络广告
+          + [81]营销服务
+          + [82]广告联盟
+          + [83]技术营销
+     * [84]投资
+          + [85]创业投资
+          + [86]企业财务报告
+     * [87]服务
+          + [88]媒体
+               o [89]新闻门户
+               o [90]IT垂直网站
+               o [91]垂直财经网站
+               o [92]网络招聘
+               o [93]旅行预订
+               o [94]时尚网站
+               o [95]文学网站
+               o [96]汽车网站
+          + [97]娱乐
+               o [98]网络视频
+               o [99]网络游戏
+                    # [100]社交游戏
+                    # [101]网页游戏
+               o [102]在线音乐
+               o [103]无线音乐
+               o [104]手机视频
+               o [105]移动游戏
+          + [106]硬件设备业
+          + [107]云计算
+          + [108]分类信息
+          + [109]搜索引擎
+          + [110]网络安全
+          + [111]在线地图
+     * [112]行业
+          + [113]大数据
+          + [114]行业资讯
+          + [115]Web分析
+          + [116]数据挖掘
+     * [117]用研
+          + [118]信息图
+          + [119]数局
+
+   ______________________________ 搜索
+   [INS: :INS]
+
+亚马逊云科技陈晓建：生成式AI时代 技术普惠和负责任的AI至关重要
+
+     *
+
+   互联网数据资讯网-199IT
+
+     2023年11月23日
+
+     作者 [120]ralf
+     * [121]人工智能
+     * [122]行业资讯
+
+   整整一年多，生成式AI已经吸足了全球科技界目光。在亚马逊云科技大中华区产品部总经理陈晓建看来，生成式AI不仅仅是大模型，还需要大量的基础模型以
+   外的服务来支撑，如加速芯片，数据库，数据分析，数据安全服务等等。
+
+   作为全球云计算领导者，亚马逊云科技提供了完整的端到端的生成式AI技术堆栈，从底层的加速层如加速芯片，存储优化，到中间层模型构建工具和服务，再到
+   最上层的生成式AI相关应用，每一层都在针对客户的不同需求持续创新。
+
+   在生成式AI时代的定位
+
+   当199IT问到在生成式AI时代，亚马逊云科技如何看待自身的定位。陈晓建表示，亚马逊云科技本身是一个基础设施的提供商，初心是做技术的普惠化，在
+   生成式AI的今天，初心未变，亚马逊云科技仍然希望通过技术降低使用门槛，能够让生成式AI的技术为业务赋能。
+
+   除了普惠化之外，负责的AI也是亚马逊云科技所秉持的重心。包括六点——公平和偏见、稳定性、可解释性、治理、透明度、隐私和安全性。
+
+   因为AI技术如此之新，如此智能，所以在使用的时候其实会碰到很多非技术的问题，虽然它很聪明，可以干各种事情，但是并不是每一件事情都是对社会有利的
+   。所以亚马逊云科技强调公平性，它不能按性别、年龄、种族而提供区别对待的服务。
+
+   如何保证服务的高可用性，至关重要。另外，要避免有害性，生成式AI本身是一把双刃剑，很多生成式AI的能力非常强，如果不在有害性方面去做很好的管理
+   ，可能会引导到一些并不是非常好的应用场景上。还包括个人隐私等。
+
+   陈晓建认为以上这些要点，决定了生成式AI最终能够跟产业结合会达到什么效果。
+
+   释放生成式AI的潜力
+
+   亚马逊云科技围绕应用场景、工具和基础设施、数据基座、AI原生应用构建和生成式AI服务，助力企业和开发者释放生成式AI的潜力。
+
+   基础模型的发展和迭代速度正超越以外任何一项技术，基本以月甚至天为单位持续迭代，而新出现的每一个大模型都在性能和特定领域有着独特的优势。在众多的
+   基础模型中，应该如何便捷安全的选择最适合自己业务场景的基础模型，是每一家企业在构建生成式AI应用时面临的挑战。
+
+   亚马逊云科技正式推出了Amazon Bedrock，该服务与Amazon SageMaker Jumpstart结合，助力对基础模型有着不同需
+   求的客户轻松、安全地选择基础模型。
+
+   Amazon Bedrock是企业使用基础模型构建和扩展生成式AI应用程序的最简单方法，它是一项无服务器服务，提供了广泛的模型选择、数据隐私，
+   并且能够自定义模型，无需管理任何基础设施。该服务提供的基础模型来自Meta, Anthropic, Stability AI, AI21 La
+   bs、Cohere等第三方领先提供商以及自身的Amazon Titan模型等，近期还加入了Meta的下一代开源大模型Llama2以及Anthr
+   opic的Claude2等热门基础模型。
+
+   与Amazon Bedrock相比，Amazon SageMaker需要客户管理应用程序架构中的模型部署、配置和托管，但拥有更大的灵活度和自由
+   度对基础模型进行定制，客户可以从Amazon SageMaker Jumpstart中选择开源的基础模型，然后根据自身需求可以选择全量微调，轻
+   量微调等不同方式，进一步确定微调框架，利用分布式训练实现微调，从而更好的评估微调效果。
+
+   Amazon Bedrock代理功能是一项全新的全托管功能，使开发人员能够更轻松地创建基于生成式AI的应用程序，以完成各种用例的复杂任务，并根
+   据专有知识源提供最新的答案。开发人员只需进行简单操作，Amazon Bedrock 代理功能就会自动分解任务并创建编排计划，无需任何手动编码。
+   该代理通过简单的 API 接口安全地连接到公司数据，自动将数据转换为机器可读的格式，并增加相关信息以生成最准确的回答。然后，代理可以自动调用
+   API 来满足用户的请求。
+
+   10多年来，亚马逊云科技对全球基础设施进行深度投资，能够为客户提供广泛的加速器选择，包括强大而灵活的基于GPU的解决方案，例如基于英伟达最新G
+   PU芯片H100 Tensor Core的Amazon EC2 P5实例，与上一代相比速度快6倍，训练成本节省40%；还有基于亚马逊云科技自研
+   的机器学习推理芯片Amazon Inferentia2推出的Amazon EC2 Inf2实例，与其他类似的EC2实例相比性价比高40%；基于
+   自研机器学习训练芯片Amazon Trainium推出的Amazon EC2 Trn1实例，与同类实例相比训练成本节省高达50%。
+
+   开箱即用的生成式AI服务
+
+   编程是生成式AI技术得到快速应用的领域之一。软件开发者需要花费大量时间编写相当浅显和无差别的代码，真正用于创新的时间少之又少。从网上复制代码片
+   段则可能无意中复制无效代码或有安全隐患的代码，或对开源代码的使用没有进行有效追溯。
+
+   亚马逊云科技的解决方案是Amazon CodeWhisperer，它是一款人工智能编码伙伴，在基础模型高级选项中使用，可以实时生成代码建议，从
+   根本上提高开发人员的生产力。我们还进行了一项生产力测试，与未使用的参与者相比，使用Amazon CodeWhisperer的参与者完成任务的速
+   度平均快57%，成功率高27%。
+
+   同时亚马逊云科技最近推出了Amazon Whisperer自定义功能，能够生成优于之前的代码建议，因为它允许客户使用私有代码库安全地定制 Co
+   deWhisperer代码建议，这些私有代码库可涵盖内部API、数据库、最佳实践和架构模式等。
+
+   据悉，亚马逊云科技通过开箱即用的生成式AI服务及工具，已帮助1000+中小企业和初创公司快速实现生成式AI创新，已赋能10W+中国开发者。
+
+   帮助不同类型的客户使用生成式AI服务
+
+   亚马逊云科技使命是帮助不同规模、不同体量的客户降低创新门槛。
+
+   具体到生成式AI方面，一类是想要用生成式AI构建比较大规模的，计划面对上百万、上亿用户的AI原生的或者大模型要大规模应用的企业（它可能是初创企
+   业），从算力、数据端到端的能力，用云的方式，通过Amazon Bedrock、Amazon SageMaker让他们尽可能容易的构建模型，快速
+   发展，并且很容易扩展到很大的规模，利用好云的弹性，以极低的成本去运行。这是亚马逊云科技未来重点投入的地方。
+
+   对于企业内部来应用，提升协作效率，提升办公效率，这一类的客户最重要的应用可能部署的规模不会特别大，但是对业务要求和整个业务的理解，包括到底能不
+   能产生业务价值要求是非常高的。亚马逊云科技更多是投入人力包括一些合作伙伴的政策去支持，行业专家加上技术专家满足客户需求。
+
+   陈晓建表示，“开发生成式AI应用是一个充满挑战的系统工程，并不是单纯的产品和服务拼接，因此，如何加速客户最终应用的商业化落地，除了亚马逊本身的
+   资源以外，我们同样需要构建强大的合作伙伴生态，与它们一起助力解决生成式AI应用构建中的各种技术问题，加速应用落地。除了云服务之外，我们还提供解
+   决方案架构师、产品技术专家、人工智能实验、数据实验室、快速原型团队、专业服务团队、培训与认证部门等多个资源共同助力客户成功，同时我们还携手生态
+   合作伙伴与初创圈构建生成式AI的完整体系，进一步助力生成式AI技术的落地。”
+
+更多阅读：
+
+     * [123]亚马逊云科技中国峰会圆满落幕 就生成式AI落地、数据战略、出海等给出答案
+     * [124]亚马逊云科技中国峰会：算力、全球化架构、生成式AI的持续创新
+     * [125]体验与效率的革命—生成式AI将如何颠覆汽车业？
+     * [126]生成式AI：CEO必读指南（附下载）
+     * [127]IDC：中国生成式AI用户调研洞察
+     * [128]The Verge：调查显示每三个美国人中就有一个尝试过生成性AI工具
+     * [129]2023 亚马逊云科技re:Inforce：生成式AI安全的机遇与挑战
+     * [130]BlackBerry：研究显示全球75%企业禁止或考虑禁止在工作场所使用ChatGPT等
+     * [131]Darktrace：报告称ChatGPT等生成式AI导致网络钓鱼邮件攻击增长135%
+     * [132]波士顿咨询：2023年银行业生成式AI应用报告
+     * [133]2023亚马逊云科技re:Inforce中国站开启 解读生成式AI的安全挑战及对策
+     * [134]亚马逊云科技“AI在未来”公益计划第一学年圆满收官
+     * [135]亚马逊云科技推动AI/ML创新三大驱动力 加速人工智能与机器学习的规模化落地
+     * [136]亚马逊云科技推出七项生成式AI创新
+     * [137]亚马逊云科技连续四年位列Gartner®云AI开发者服务魔力象限“领导者”
+
+   [INS: :INS]
+
+     * [138]亚马逊云科技
+     * [139]生成式AI
+     * [140]陈晓建
+
+分享这篇文�
+
+   [141][WechatIMG293111111111-23.png ]
+
+   微信公众账号
+
+   #
+
+   [INS: :INS]
+
+   官方小程序
+
+   [142]
+   [199ITxcx43.png]
+
+   欢迎大家微信扫码查阅更多数据
+
+   #
+
+近期文�
+
+     * [143]亚马逊云科技陈晓建：生成式AI时代 技术普惠和负责任的AI至关重要
+     * [144]世贸组织：2023年全球价值链发展报告（366页）
+     * [145]Interbrand：2023全球最佳品牌排行榜
+     * [146]Luminate：2023年亚洲音乐行业概览
+     * [147]魔镜市场情报：2023年乳制品行业分析报告（附下载）
+     * [148]Counterpoint：2023年Q3美国智能手机出货量下降19%
+     * [149]新领时代：跃升中的『隐形』新中产（附下载）
+     * [150]Adobe：2023年假日季美国在线销售额将达到2218亿美元
+     * [151]德勤&中国银保传媒：从新能源车险看财险经营模式变革（附下载）
+     * [152]2023年全球主要Chromebook厂商出货量市场份额（附原数据表） ​​​
+
+标签
+
+   [153]2019 [154]2019年 [155]Android [156]ComScore [157]eMarketer
+   [158]Facebook [159]Gartner [160]Google [161]IDC [162]iPhone
+   [163]Nielsen [164]Sensor Tower [165]Strategy Analytics [166]Trendforce
+   [167]Twitter [168]中国 [169]中国信通院 [170]中国汽车工业协会 [171]中国汽车流通协会 [172]人工智能
+   [173]信息图 [174]全球 [175]出货量 [176]大数据 [177]工信部 [178]市场规模 [179]平板电脑
+   [180]德勤咨询 [181]投资 [182]报告 [183]易观国际 [184]普华永道 [185]智能手机 [186]电子商务
+   [187]社交媒体 [188]社交网络 [189]移动互联网 [190]移动游戏 [191]网络广告 [192]网络购物 [193]美国
+   [194]艾瑞 [195]艾瑞咨询 [196]艾瑞咨询 [197]苹果
+
+   © 2011-2022 [198]199IT.COM  [199]京ICP备14049259号-1[200] [备案图标.png]
+
+   京公网安备 11010802026978号
+   法律顾问：合博律师事务所 如有侵权请联系我们[201]admin@199it.com [202]本站版权说明
+
+   [199it_adblock_sm.jpg]
+   感谢支持199IT
+   我们致力为中国互联网研究和咨询及IT行业数据专业人员和决策者提供一个数据共享平台。
+   要继续访问我们的网站，只需关闭您的广告拦截器并刷新页面。
+
+   [203]滚动到顶部
+
+References
+
+   Visible links:
+   1. https://www.199it.com/feed
+   2. https://www.199it.com/comments/feed
+   3. https://www.199it.com/archives/1661804.html
+   4. https://www.199it.com/wp-json/oembed/1.0/embed?url=http://www.199it.com/archives/1661915.html
+   5. https://www.199it.com/wp-json/oembed/1.0/embed?url=http://www.199it.com/archives/1661915.html&format=xml
+   6. https://www.199it.com/newly
+   7. https://t.xiaomiquan.com/AmqFYR3
+   8. https://search.199it.com/
+   9. https://hao.199it.com/
+  10. https://a.199it.com/
+  11. https://www.199it.com/b
+  12. https://data199it.mikecrm.com/V9tW8K5
+  13. https://www.199it.com/company
+  14. https://www.199it.com/
+  15. https://www.199it.com/
+  16. https://www.199it.com/archives/category/report
+  17. https://www.199it.com/archives/category/emerging
+  18. https://www.199it.com/archives/category/emerging/5g
+  19. https://www.199it.com/archives/category/emerging/人工智能
+  20. https://www.199it.com/archives/category/emerging/人工智能/机器学习
+  21. https://www.199it.com/archives/category/emerging/人工智能/knowledge-domains
+  22. https://www.199it.com/archives/category/emerging/health-tech
+  23. https://www.199it.com/archives/category/emerging/shangyebangong
+  24. https://www.199it.com/archives/category/emerging/xinjijian
+  25. https://www.199it.com/archives/category/emerging/新能源
+  26. https://www.199it.com/archives/category/emerging/ngit
+  27. https://www.199it.com/archives/category/emerging/smartcar
+  28. https://www.199it.com/archives/category/emerging/heemi
+  29. https://www.199it.com/archives/category/emerging/物联网
+  30. https://www.199it.com/archives/category/emerging/nmi
+  31. https://www.199it.com/archives/category/emerging/工业4-0
+  32. https://www.199it.com/archives/category/emerging/nev
+  33. https://www.199it.com/archives/category/emerging/esepp
+  34. https://www.199it.com/archives/category/emerging/cg
+  35. https://www.199it.com/archives/category/fintech
+  36. https://www.199it.com/archives/category/fintech/internetfinance
+  37. https://www.199it.com/archives/category/fintech/blockchain
+  38. https://www.199it.com/archives/category/sharingeconomy
+  39. https://www.199it.com/archives/category/sharingeconomy/wangyueche
+  40. https://www.199it.com/archives/category/sharingeconomy/gongxiangqiche
+  41. https://www.199it.com/archives/category/sharingeconomy/gongxiangbangong
+  42. https://www.199it.com/archives/category/sharingeconomy/gongxiangdanche
+  43. https://www.199it.com/archives/category/sharingeconomy/gongxiangchongdiabao
+  44. https://www.199it.com/archives/category/sharingeconomy/gongxiangsheshipin
+  45. https://www.199it.com/archives/category/mobile-internet
+  46. https://www.199it.com/archives/category/service/3g
+  47. https://www.199it.com/archives/category/mobile-internet/mobile-device
+  48. https://www.199it.com/archives/category/advertising/mobile-marketing/mobile-ad
+  49. https://www.199it.com/archives/category/mobile-internet/2-dimensional-bar-code
+  50. https://www.199it.com/archives/category/mobile-internet/mobile-browser
+  51. https://www.199it.com/archives/category/mobile-internet/mobile-mail
+  52. https://www.199it.com/archives/category/mobile-internet/location-based-service
+  53. https://www.199it.com/archives/category/mobile-internet/mobile-value
+  54. https://www.199it.com/archives/category/mobile-internet/mobile-app
+  55. https://www.199it.com/archives/category/mobile-internet/m-search
+  56. https://www.199it.com/archives/category/mobile-internet/mobile-payment
+  57. https://www.199it.com/archives/category/electronic-commerce
+  58. https://www.199it.com/archives/category/electronic-commerce/eshopping
+  59. https://www.199it.com/archives/category/electronic-commerce/mobile-e-commerce
+  60. https://www.199it.com/archives/category/electronic-commerce/b2b
+  61. https://www.199it.com/archives/category/electronic-commerce/group-ec
+  62. https://www.199it.com/archives/category/electronic-commerce/online-payment
+  63. https://www.199it.com/archives/category/social-network
+  64. https://www.199it.com/archives/category/social-network/network-friends
+  65. https://www.199it.com/archives/category/social-network/instant-messaging
+  66. https://www.199it.com/archives/category/social-network/micro-blog
+  67. https://www.199it.com/archives/category/social-network/sns
+  68. https://www.199it.com/archives/category/social-network/图片分享
+  69. https://www.199it.com/archives/category/social-network/q-a-website
+  70. https://www.199it.com/archives/category/service/email
+  71. https://www.199it.com/archives/category/advertising
+  72. https://www.199it.com/archives/category/advertising/edm-marketing
+  73. https://www.199it.com/archives/category/advertising/social-network-marketing
+  74. https://www.199it.com/archives/category/advertising/paid-search-advertising
+  75. https://www.199it.com/archives/category/advertising/mobile-marketing
+  76. https://www.199it.com/archives/category/advertising/word-of-mouth-marketing
+  77. https://www.199it.com/archives/category/advertising/video-ads
+  78. https://www.199it.com/archives/category/advertising/display-advertise
+  79. https://www.199it.com/archives/category/advertising/ig-marketing
+  80. https://www.199it.com/archives/category/advertising/brand-advertising
+  81. https://www.199it.com/archives/category/advertising/ad-agency
+  82. https://www.199it.com/archives/category/advertising/ad-network
+  83. https://www.199it.com/archives/category/advertising/tech-marketing
+  84. https://www.199it.com/archives/category/economic-data
+  85. https://www.199it.com/archives/category/economic-data/china-economic-data/venture-capital
+  86. https://www.199it.com/archives/category/economic-data/enterprise-financial-reporting
+  87. https://www.199it.com/archives/category/service
+  88. https://www.199it.com/archives/category/omg
+  89. https://www.199it.com/archives/category/omg/news
+  90. https://www.199it.com/archives/category/omg/it-vertical-website
+  91. https://www.199it.com/archives/category/omg/caijing
+  92. https://www.199it.com/archives/category/service/network-recruitment
+  93. https://www.199it.com/archives/category/electronic-commerce/online-travel
+  94. https://www.199it.com/archives/tag/fashion-website
+  95. https://www.199it.com/archives/category/omg/literature
+  96. https://www.199it.com/archives/category/omg/icar-website
+  97. https://www.199it.com/archives/category/entertain
+  98. https://www.199it.com/archives/category/entertain/video
+  99. https://www.199it.com/archives/category/entertain/online-game
+ 100. https://www.199it.com/archives/category/entertain/online-game/social-games
+ 101. https://www.199it.com/archives/category/entertain/online-game/webgames
+ 102. https://www.199it.com/archives/category/entertain/online-music
+ 103. https://www.199it.com/archives/category/entertain/mobile-music
+ 104. https://www.199it.com/archives/category/mobile-internet/mobile-video
+ 105. https://www.199it.com/archives/category/entertain/mobile-games
+ 106. https://www.199it.com/archives/category/service/notebook
+ 107. https://www.199it.com/archives/category/service/cloud-computing
+ 108. https://www.199it.com/archives/category/service/category
+ 109. https://www.199it.com/archives/category/service/search-engine
+ 110. https://www.199it.com/archives/category/service/security
+ 111. https://www.199it.com/archives/category/service/online-map
+ 112. https://www.199it.com/archives/category/dataindustry
+ 113. https://www.199it.com/archives/tag/大数据
+ 114. https://www.199it.com/archives/category/dataindustry/industry-news
+ 115. https://www.199it.com/archives/category/dataindustry/webanalytics
+ 116. https://www.199it.com/archives/category/dataindustry/data-mining
+ 117. https://www.199it.com/archives/category/internet-users
+ 118. https://www.199it.com/archives/category/info-graphics
+ 119. https://www.199it.com/archives/category/info-graphics/shuju
+ 120. https://www.199it.com/archives/author/ralf
+ 121. https://www.199it.com/archives/category/emerging/人工智能
+ 122. https://www.199it.com/archives/category/dataindustry/industry-news
+ 123. https://www.199it.com/archives/1623232.html
+ 124. https://www.199it.com/archives/1624648.html
+ 125. https://www.199it.com/archives/1625889.html
+ 126. https://www.199it.com/archives/1633029.html
+ 127. https://www.199it.com/archives/1658132.html
+ 128. https://www.199it.com/archives/1619575.html
+ 129. https://www.199it.com/archives/1650232.html
+ 130. https://www.199it.com/archives/1637873.html
+ 131. https://www.199it.com/archives/1580632.html
+ 132. https://www.199it.com/archives/1639334.html
+ 133. https://www.199it.com/archives/1644910.html
+ 134. https://www.199it.com/archives/1483892.html
+ 135. https://www.199it.com/archives/1487294.html
+ 136. https://www.199it.com/archives/1630903.html
+ 137. https://www.199it.com/archives/1645517.html
+ 138. https://www.199it.com/archives/tag/亚马逊云科技
+ 139. https://www.199it.com/archives/tag/生成式ai
+ 140. https://www.199it.com/archives/tag/陈晓建
+ 141. https://t.xiaomiquan.com/AmqFYR3
+ 142. https://t.xiaomiquan.com/AmqFYR3
+ 143. https://www.199it.com/archives/1661915.html
+ 144. https://www.199it.com/archives/1661804.html
+ 145. https://www.199it.com/archives/1661827.html
+ 146. https://www.199it.com/archives/1651137.html
+ 147. https://www.199it.com/archives/1603237.html
+ 148. https://www.199it.com/archives/1659025.html
+ 149. https://www.199it.com/archives/1593512.html
+ 150. https://www.199it.com/archives/1659038.html
+ 151. https://www.199it.com/archives/1647873.html
+ 152. https://www.199it.com/archives/1661911.html
+ 153. https://www.199it.com/archives/tag/2019
+ 154. https://www.199it.com/archives/tag/2019年
+ 155. https://www.199it.com/archives/tag/android
+ 156. https://www.199it.com/archives/tag/comscore
+ 157. https://www.199it.com/archives/tag/emarketer
+ 158. https://www.199it.com/archives/tag/facebook
+ 159. https://www.199it.com/archives/tag/gartner
+ 160. https://www.199it.com/archives/tag/google
+ 161. https://www.199it.com/archives/tag/idc
+ 162. https://www.199it.com/archives/tag/iphone
+ 163. https://www.199it.com/archives/tag/nielsen
+ 164. https://www.199it.com/archives/tag/sensor-tower
+ 165. https://www.199it.com/archives/tag/strategy-analytics
+ 166. https://www.199it.com/archives/tag/trendforce
+ 167. https://www.199it.com/archives/tag/twitter
+ 168. https://www.199it.com/archives/tag/chinatmt
+ 169. https://www.199it.com/archives/tag/中国信通院
+ 170. https://www.199it.com/archives/tag/中国汽车工业协会
+ 171. https://www.199it.com/archives/tag/中国汽车流通协会
+ 172. https://www.199it.com/archives/tag/人工智能
+ 173. https://www.199it.com/archives/tag/信息图
+ 174. https://www.199it.com/archives/tag/worldwide
+ 175. https://www.199it.com/archives/tag/出货量
+ 176. https://www.199it.com/archives/tag/大数据
+ 177. https://www.199it.com/archives/tag/工信部
+ 178. https://www.199it.com/archives/tag/market-scale
+ 179. https://www.199it.com/archives/tag/panel-computer
+ 180. https://www.199it.com/archives/tag/deloitte-research
+ 181. https://www.199it.com/archives/tag/投资
+ 182. https://www.199it.com/archives/tag/报告
+ 183. https://www.199it.com/archives/tag/analysys
+ 184. https://www.199it.com/archives/tag/price-waterhouse-coopers
+ 185. https://www.199it.com/archives/tag/smartphones
+ 186. https://www.199it.com/archives/tag/electronic-commerce
+ 187. https://www.199it.com/archives/tag/社交媒体
+ 188. https://www.199it.com/archives/tag/社交网络
+ 189. https://www.199it.com/archives/tag/mobile-internet
+ 190. https://www.199it.com/archives/tag/mobile-games
+ 191. https://www.199it.com/archives/tag/网络广告
+ 192. https://www.199it.com/archives/tag/of-online-shopping
+ 193. https://www.199it.com/archives/tag/美国
+ 194. https://www.199it.com/archives/tag/艾瑞
+ 195. https://www.199it.com/archives/tag/iresearch
+ 196. https://www.199it.com/archives/tag/艾瑞咨询
+ 197. https://www.199it.com/archives/tag/apple-company
+ 198. https://www.199it.com/
+ 199. https://www.beian.miit.gov.cn/
+ 200. https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802026978
+ 201. mailto:admin@199it.com
+ 202. https://www.199it.com/copyright
+ 203. https://www.199it.com/archives/1661915.html
+
+   Hidden links:
+ 205. https://www.199it.com/archives/1661915.html
+ 206. https://www.199it.com/archives/1661915.html
+ 207. https://www.199it.com/archives/1661915.html
+ 208. https://www.199it.com/archives/1661915.html
+ 209. https://www.199it.com/archives/1661915.html
+ 210. https://www.199it.com/archives/1661915.html
+ 211. https://www.199it.com/archives/1661915.html
+ 212. https://www.199it.com/archives/1661915.html
+ 213. https://www.199it.com/archives/1661915.html
+ 214. https://www.199it.com/archives/1661915.html

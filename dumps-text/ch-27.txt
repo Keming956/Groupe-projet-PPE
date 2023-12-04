@@ -1,4 +1,2691 @@
-Bad Request - Invalid URL
-     __________________________________________________________________
+   #[1]Google Cloud [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate
 
-   HTTP Error 400. The request URL is invalid.
+   (BUTTON)
+   [13]Google Cloud
+     *
+
+   [14]概览
+   (BUTTON) close
+     * 加快数字化转型的速度
+     * 在数字化转型之旅中，无论您的企业是处于早期阶段还是已初见成效，Google Cloud 都可以帮助解决最棘手的难题。
+     * 了解详�
+
+     * 主要优势
+     * 为什么选择 Google Cloud
+       企业选择我们的首要原因。
+     * AI 和机器学�
+       获取企业级 AI。
+     * 多云端
+       在您需要的任何位置运行您的应用。
+     * 全球基础架构
+       在 Google 自用的基础架构上构建应用。
+
+     * 数据云
+       根据统一数据做出更明智的决策。
+     * 开放的云
+       利用开放、灵活的技术扩展规模。
+     * 信任与安全
+       确保数据的安全性和合规性。
+     * 工作效率与协作
+       将团队与基于 AI 的应用联系起来。
+
+     * 报告和数据洞见
+     * 高管数据洞见
+       高管观点精选。
+     * 分析机构报告
+       阅读并了解行业分析师对我们的看法。
+     * 白皮书
+       浏览并下载热门白皮书。
+     * 客户案例
+       浏览案例研究和视频。
+
+   [15]解决方案
+   (BUTTON) close
+     * 行业解决方案
+       降低费用、提高运营敏捷性并抓住新的市场机遇。
+
+     * 零售
+       面向零售业价值链的分析工具和协作工具。
+
+     * 快速消费品
+       适用于快速消费品数字转型与品牌成长的解决方案。
+
+     * 金融服务
+       面向金融服务业的计算、数据管理和分析工具。
+
+     * 医疗保健和生命科学
+       推进大规模的研究并推动医疗保健创新。
+
+     * 媒体和娱乐
+       用于内容制作和分发运营的各种解决方案。
+
+     * 电信
+       用于部署 5G 并通过 5G 创收的各种混合云和多云端服务。
+
+     * 游戏
+       帮助您更快地构建游戏并为其扩容的各种 AI 驱动型解决方案。
+
+     * 制�
+       可优化制造业价值链的各种迁移工具和 AI 工具。
+
+     * 供应链与物流
+       跨供应链和物流运营实现可持续、高效且有弹性的以数据为依据的操作。
+
+     * 政府
+       面向政府机构的数据存储、AI 和分析解决方案。
+
+     * 教育
+       可提供更具吸引力的学习体验的各种教学工具。
+
+     * 没有看到您需要的内容？
+     * 查看所有行业解决方案
+
+     * 没有看到您需要的内容？
+     * 查看所有解决方案
+
+     * 应用现代化改�
+       评估、规划、实施和衡量软件做法与功能，以对贵组织的业务应用组合进行现代化改造和简化。
+
+     * CAMP
+       使用 DORA 改进软件交付功能的计划。
+
+     * 对传统应用进行现代化改�
+       对传统工作负载进行分析和分类，并开始进行云迁移。
+
+     * 从 PaaS 迁移：Cloud Foundry 或 Openshift
+       可帮助您将现有容器迁移到 Google 的代管式容器服务的工具。
+
+     * 从大型主机迁移
+       可帮助您将大型主机应用迁移到云端的自动化工具和规范性指南。
+
+     * 对软件交付进行现代化改�
+       软件供应链最佳实践 - 内部循环效率、CI/CD 和 S3C。
+
+     * DevOps 最佳实践
+       可帮助您在组织中实施 DevOps 的各种流程和资源。
+
+     * SRE 原则
+       可帮助您在组织中采用 SRE 的工具和资源。
+
+     * GKE 的投产后运维
+       可帮助您高效地管理和监控 GKE 的工具和指南。
+
+     * FinOps 和 GKE 优化
+       在 GKE 上运行可靠、高性能且经济实惠的应用的最佳实践。
+
+     * 在边缘运行应用
+       可帮助您使用 Google 不依赖于硬件的边缘解决方案来部署本地化且低延迟的应用的指南。
+
+     * 设计适合多云环境的架构
+       使用一致的平台跨多个云管理工作负载。
+
+     * 无服务器化
+       用于开发、部署和扩缩应用的全代管式环境。
+
+     * 人工智能
+       借助 AI 和机器学习技术，让您的企业更加智能高效。
+
+     * Contact Center AI
+       可与客户交流并协助人工客服人员的 AI 模型。
+
+     * Document AI
+       大规模自动处理文档并捕获数据。
+
+     * 产品发现
+       面向零售商的 Google 品质的搜索和产品推荐功能。
+
+     * API 和应用
+       使用 API、应用和自动化功能，加速创新而无需编写代码。
+
+     * 使用 API 开拓新的业务渠道
+       吸引开发者与合作伙伴形成生态系统，并为他们提供支持。
+
+     * 使用 API 发掘旧式应用的潜力
+       用于对旧式应用进行扩展和现代化改造的各种云服务。
+
+     * Open Banking APIx
+       更简单、更快速地安全交付符合 Open Banking 要求的 API。
+
+     * 数据库
+       借助具备安全性、可靠性和高可用性的全代管式数据服务，迁移和管理企业数据。
+
+     * 数据库迁移
+       有助于简化数据库迁移生命周期的各种指南和工具。
+
+     * 数据库现代化改�
+       可对您的运营数据库基础架构进行现代化改造的各种升级服务。
+
+     * 游戏数据库
+       利用 Google Cloud 数据库构建全球实时游戏。
+
+     * Google Cloud 数据库
+       用于对数据进行迁移、管理和现代化改造的各种数据库服务。
+
+     * 将 Oracle 工作负载迁移到 Google Cloud
+       重新托管您的 Oracle 工作负载，为其更换平台或者重写代码。
+
+     * 开源数据库
+       附带企业级支持服务的全代管式开源数据库。
+
+     * SQL Server on Google Cloud
+       用于在 Google Cloud 上运行 SQL Server 虚拟机的各种方案。
+
+     * 数据云
+       借助开放、简化的数据驱动型转换方法整合整个组织中的数据，该方法在内建了 AI 的情况下在速度、规模和安全性方面拥有较强的优势。
+
+     * 数据库解决方案
+       借助具备安全性、可靠性和高可用性的全代管式数据服务，迁移和管理企业数据。
+
+     * 智能分析解决方案
+       借助可大幅简化分析过程的全代管式无服务器分析平台，即时从任何规模的数据中发掘分析洞见。
+
+     * AI 解决方案
+       借助 AI 和机器学习技术，让您的企业更加智能高效。
+
+     * 面向独立软件供应商 (ISV) 的数据云
+       使用 Google 的数据和机器学习解决方案（如 BigQuery、Looker、Spanner 和 Vertex
+       AI）进行创新、优化和扩大 SaaS 应用。
+
+     * 数据云联盟
+       一项旨在确保全球企业可以无缝访问并深入了解数字化转型所需的数据的计划。
+
+     * 数字化转型
+     * 借助支持混合云和多云端环境、可生成智能数据洞见并让员工保持联络的解决方案，加快业务恢复速度并迎来更美好的未来。
+
+     * 数字化创新
+       重新构想运营方式并发掘新机遇。
+
+     * 运营效率
+       确定各项投资的优先级并优化费用。
+
+     * 新型冠状病毒肺炎 (COVID-19) 解决方案
+       更安全地完成工作。
+
+     * 面向医疗保健行业的新型冠状病毒肺炎 (COVID-19) 解决方案
+       Google 如何帮助医疗保健机构应对非同寻常的挑战。
+
+     * 基础架构现代化改�
+       借助适用于 SAP、VMware、Windows、Oracle 和其他工作负载的解决方案，快速完成迁移工作。
+
+     * 应用迁移
+       可帮助您迁移到云端的各种发现和分析工具。
+
+     * SAP on Google Cloud
+       有助于您运行 SAP 应用和 SAP HANA 的各种认证。
+
+     * 高性能计算
+       可支持任何工作负载的各种计算、存储和网络方案。
+
+     * Windows on Google Cloud
+       可协助您运行 Windows 工作负载的工具和合作伙伴。
+
+     * 数据中心迁移
+       适用于虚拟机、应用和数据库等的迁移解决方案。
+
+     * Active Assist
+       提供自动云端资源优化功能和更高的安全性。
+
+     * 虚拟桌面
+       适用于桌面和应用（VDI 和 DaaS）的远程工作解决方案。
+
+     * 快速迁移计划 (RaMP)
+       用于简化云迁移路径的端到端迁移计划。
+
+     * 备份和灾难恢复
+       确保满足您的业务连续性需求。
+
+     * 工作效率与协作
+       借助直观易用且极具成效的解决方案，改变团队的工作方式。
+
+     * Google Workspace
+       面向企业的协作和办公工具。
+
+     * Google Workspace 基本功能版
+       为团队提供安全的视频会议功能和现代化协作功能。
+
+     * Cloud Identity
+       IT 管理员用于管理用户设备和应用的统一平台。
+
+     * Chrome 企业版
+       专为企业打造的 ChromeOS、Chrome 浏览器和 Chrome 设备。
+
+     * Cloud Search
+       可帮助员工快速找到公司信息的企业搜索服务。
+
+     * 安全
+       检测、调查和应对在线威胁，帮助保护您的企业。
+
+     * 安全分析与运营
+       用于分析 PB 级安全遥测数据的解决方案。
+
+     * Web 应用和 API 保护
+       适用于 Web 应用和 API 的威胁和欺诈防护。
+
+     * 安全和弹性框架
+       适用于安全和弹性生命周期各个阶段的解决方案。
+
+     * 风险和合规即代码 (RCaC)
+       通过自动化对治理、风险与合规性功能进行现代化改造的解决方案。
+
+     * 软件供应链安全
+       用于提高端到端软件供应链安全性的解决方案。
+
+     * Security Foundation
+       可帮助您实现可靠安全状况的推荐产品。
+
+     * 智能分析
+       借助可大幅简化分析过程的全代管式无服务器分析平台，即时从任何规模的数据中发掘分析洞见。
+
+     * 数据仓库现代化改�
+       可帮助您快速启动迁移过程并发掘数据洞见的数据仓库服务。
+
+     * 数据湖现代化改�
+       用于数据湖构建和现代化改造的各种服务。
+
+     * Google Cloud 上的 Spark
+       在您需要的位置编写和运行 Spark 作业，无服务器并与 Google 产品集成。
+
+     * 数据流分析
+       通过提取、处理和分析事件流发掘数据洞见。
+
+     * 商业智能
+       用于对 BI 栈进行现代化改造和打造丰富数据体验的解决方案。
+
+     * 数据科学
+       在 Google Cloud 上借助数据科学产品充分利用您的数据。
+
+     * 营销分析
+       用于收集、分析和利用客户数据的各种解决方案。
+
+     * 地理空间分析和 AI
+       用于打造更繁荣且可持续发展的业务的解决方案。
+
+     * 数据集
+       来自 Google、公共来源的和商业提供商的数据，可充实您的分析和 AI 计划。
+
+     * 初创企业和中小型企业
+       借助量身定制的解决方案和计划加快初创企业和中小型企业的发展。
+
+     * 初创公司解决方案
+       利用 Google 成熟的技术帮助您的初创公司发展壮大并解决最棘手的难题。
+
+     * 初创公司计划
+       获得财务、业务和技术支持，让您的初创公司迈上新台阶。
+
+     * 中小型企业
+       探索网站托管、应用开发、AI 和分析领域的解决方案。
+
+     * 软件即服务
+       构建更出色的 SaaS 产品、高效扩缩并推动业务增长。
+
+   [16]产品
+   (BUTTON) close
+     * 精选产品
+
+     * Compute Engine
+       在 Google 的数据中心运行的虚拟机。
+
+     * Cloud Storage
+       安全、耐用且可伸缩的对象存储服务。
+
+     * BigQuery
+       可助力实现业务敏捷性并提供数据洞见的数据仓库。
+
+     * Cloud Run
+       用于运行容器化应用的全代管式环境。
+
+     * Google Kubernetes Engine
+       用于运行容器化应用的代管式环境。
+
+     * Vertex AI Platform
+       用于机器学习模型和生成式 AI 的统一平台。
+
+     * Looker
+       提供商业智能、数据应用和嵌入式分析的平台。
+
+     * Apigee API Management
+       随时随地以直观且可掌控的方式来管理 API 的整个生命周期。
+
+     * Cloud SQL
+       适用于 MySQL、PostgreSQL 和 SQL Server 的关系型数据库服务。
+
+     * Cloud SDK
+       适用于 Google Cloud 的命令行工具和库。
+
+     * Cloud CDN
+       用于分发 Web 内容和视频内容的内容分发网络。
+
+     * 没有看到您需要的内容？
+     * 查看所有产品（100 多款）
+
+     * AI 和机器学�
+
+     * Vertex AI Platform
+       用于机器学习模型和生成式 AI 的统一平台。
+
+     * Vertex AI 上的生成式 AI
+       在 Vertex AI 上构建、调整和部署基础模型。
+
+     * Vertex AI Search and Conversation
+       用于搜索和对话式 AI 的生成式 AI 应用。
+
+     * Dialogflow
+       采用先进的虚拟客服技术打造逼真的对话 AI。
+
+     * Natural Language AI
+       对非结构化文本进行情感分析和分类。
+
+     * Speech-to-Text
+       支持 125 种语言的语音识别和转录服务。
+
+     * Text-to-Speech
+       支持 220 多种语音和 40 多种语言的语音合成服务。
+
+     * Translation AI
+       提供语言检测、翻译和术语库支持。
+
+     * Document AI
+       大规模自动处理文档并捕获数据。
+
+     * Vision AI
+       用于检测情绪、文本等内容的各种自定义模型和预训练模型。
+
+     * Contact Center AI
+       可与客户交流并协助人工客服人员的 AI 模型
+
+     * 没有看到您需要的内容？
+     * 查看所有 AI 和机器学习产品
+
+     * 商业智能
+
+     * Looker
+       提供商业智能、数据应用和嵌入式分析的平台。
+
+     * Looker Studio
+       用于信息汇总、报告和分析的交互式数据套件。
+
+     * 计算
+
+     * Compute Engine
+       在 Google 的数据中心运行的虚拟机。
+
+     * App Engine
+       适用于应用和后端的无服务器应用平台。
+
+     * Cloud GPU
+       可助力机器学习、科学计算和 3D 可视化的 GPU。
+
+     * Migrate to Virtual Machines
+       用于将服务器和虚拟机迁移到 Compute Engine。
+
+     * Spot 虚拟机
+       适用于批量作业和容错工作负载的计算实例。
+
+     * Batch
+       用于安排批量作业的全代管式服务。
+
+     * 单租户节点
+       满足合规性、许可及管理需求的专用硬件。
+
+     * Bare Metal
+       用于在 Google Cloud 上运行特殊工作负载的基础架构。
+
+     * Recommender
+       针对 Google Cloud 产品和服务的使用建议。
+
+     * VMware Engine
+       全代管式原生 VMware Cloud Foundation 软件栈。
+
+     * Cloud Run
+       用于运行容器化应用的全代管式环境。
+
+     * 没有看到您需要的内容？
+     * 查看所有计算产品
+
+     * 容器
+
+     * Google Kubernetes Engine
+       用于运行容器化应用的代管式环境。
+
+     * Cloud Run
+       用于运行容器化应用的全代管式环境。
+
+     * Cloud Build
+       用于在 Docker 容器中运行构建步骤的解决方案。
+
+     * Artifact Registry
+       构建工件和依赖项的软件包管理器。
+
+     * Cloud Code
+       可提供 IDE 支持，帮助您编写、运行和调试 Kubernetes 应用。
+
+     * Cloud Deploy
+       以全代管式方式持续交付到 GKE 和 Cloud Run。
+
+     * Migrate to Containers
+       用于将虚拟机迁移到 GKE 上的系统容器的各种组件。
+
+     * Deep Learning Containers
+       具有各种数据科学框架、库和工具的容器。
+
+     * Knative
+       用于构建 Kubernetes 原生云软件的组件。
+
+     * 数据分析
+
+     * BigQuery
+       可实现业务敏捷性并提供数据洞见的数据仓库。
+
+     * Looker
+       提供商业智能、数据应用和嵌入式分析的平台。
+
+     * Dataflow
+       用于流式处理和批量处理的流式分析服务。
+
+     * Pub/Sub
+       用于提取和传送事件的消息传递服务。
+
+     * Dataproc
+       用于运行 Apache Spark 集群和 Apache Hadoop 集群的服务。
+
+     * Cloud Data Fusion
+       用于构建和管理数据流水线的数据集成服务。
+
+     * Cloud Composer
+       基于 Apache Airflow 构建的工作流编排服务。
+
+     * Dataprep
+       用于准备数据以供分析和机器学习的服务。
+
+     * Dataplex
+       用于跨孤岛统一数据管理的智能数据结构。
+
+     * Dataform
+       在 BigQuery 中对 SQL 工作流进行构建、版本控制和部署。
+
+     * Analytics Hub
+       用于安全高效地交换数据分析资产的服务。
+
+     * 没有看到您需要的内容？
+     * 查看所有数据分析产品
+
+     * 数据库
+
+     * AlloyDB for PostgreSQL
+       与 PostgreSQL 兼容的全代管式数据库，适用于企业工作负载。
+
+     * Cloud SQL
+       面向 MySQL、PostgreSQL 和 SQL Server 的全代管式数据库。
+
+     * Firestore
+       用于构建丰富的移动、Web 和 IoT 应用的云原生文档数据库。
+
+     * Cloud Spanner
+       云原生关系型数据库，规模不受限制，可用性高达 99.999%。
+
+     * Cloud Bigtable
+       适用于大规模、低延迟工作负载的云原生宽列数据库。
+
+     * Datastream
+       无服务器变更数据捕获和复制服务。
+
+     * Database Migration Service
+       使用无服务器技术以最短停机时间迁移到 Cloud SQL。
+
+     * 开发者工具
+
+     * Artifact Registry
+       构建工件和依赖项的通用软件包管理器。
+
+     * Cloud Code
+       可提供 IDE 支持，帮助您编写、运行和调试 Kubernetes 应用。
+
+     * Cloud Build
+       持续集成和持续交付平台。
+
+     * Cloud Deploy
+       以全代管式方式持续交付到 GKE 和 Cloud Run。
+
+     * Cloud Deployment Manager
+       用于创建和管理 Google Cloud 资源的服务。
+
+     * Cloud SDK
+       适用于 Google Cloud 的命令行工具和库。
+
+     * Cloud Scheduler
+       用于自动执行以及管理任务的 Cron 作业调度器。
+
+     * Cloud Source Repositories
+       用于存储、管理和跟踪代码的私有 Git 代码库。
+
+     * Cloud Tasks
+       用于异步执行任务的任务管理服务。
+
+     * Cloud Workstations
+       安全的代管式云端开发环境。
+
+     * Tools for PowerShell
+       通过 Windows PowerShell 全面控制云端。
+
+     * 没有看到您需要的内容？
+     * 查看所有开发者工具
+
+     * 分布式云
+
+     * Google Distributed Cloud Edge
+       适用于边缘工作负载的分布式云服务。
+
+     * Google Distributed Cloud Hosted
+       适用于经过网闸隔离的工作负载的分布式云。
+
+     * 混合云和多云
+
+     * Google Kubernetes Engine
+       用于运行容器化应用的代管式环境。
+
+     * Apigee API Management
+       API 管理、开发和安全平台。
+
+     * Migrate to Containers
+       用于将工作负载和现有应用迁移到 GKE 的工具。
+
+     * Traffic Director
+       面向开放式服务网格的流量控制窗格和流量管理工具。
+
+     * Cloud Build
+       用于在 Google Cloud 基础架构上执行构建作业的服务。
+
+     * 运维
+       监控、日志记录和应用性能套件。
+
+     * Anthos
+       用于对现有应用进行现代化改造以及构建新应用的平台。
+
+     * Google Distributed Cloud
+       适用于边缘和数据中心的全代管式解决方案。
+
+     * 针对特定行业
+
+     * 反洗钱 AI
+       借助 AI 检测可疑的潜在洗钱活动。
+
+     * Cloud Healthcare API
+       用于衔接现有医疗保健系统与 Google Cloud 上的应用的解决方案。
+
+     * 关联 Fitbit 设备
+       通过 Google Cloud 上的关联 Fitbit 数据全方位了解患者。
+
+     * 电信网络自动化
+       适用于电信网络的现成云原生自动化。
+
+     * 电信数据结构脉络
+       使用自动化方法进行电信数据管理和分析。
+
+     * Telecom Subscriber Insights
+       注入数据以提升订阅者获取率和留存率。
+
+     * Spectrum Access System (SAS)
+       控制对公民宽带无线电服务 (CBRS) 的基本访问权限。
+
+     * 集成服务
+
+     * Application Integration
+       无需编写代码即可连接到第三方应用并保证数据一致性。
+
+     * Workflows
+       无服务器产品和 API 服务的工作流编排。
+
+     * Apigee API Management
+       随时随地以直观且可掌控的方式来管理 API 的整个生命周期。
+
+     * Cloud Tasks
+       用于异步执行任务的任务管理服务。
+
+     * Cloud Scheduler
+       用于自动执行以及管理任务的 Cron 作业调度器。
+
+     * Dataproc
+       用于运行 Apache Spark 集群和 Apache Hadoop 集群的服务。
+
+     * Cloud Data Fusion
+       用于构建和管理数据流水线的数据集成服务。
+
+     * Cloud Composer
+       基于 Apache Airflow 构建的工作流编排服务。
+
+     * Pub/Sub
+       用于提取和传送事件的消息传递服务。
+
+     * Eventarc
+       构建一个可连接任何服务的事件驱动型架构。
+
+     * 管理工具
+
+     * Cloud Shell
+       带有内置命令行的交互式 Shell 环境。
+
+     * Cloud 控制台
+       基于 Web 的界面，可用于管理和监控云应用。
+
+     * Cloud Endpoints
+       Google Cloud 上的 API 部署和开发管理服务。
+
+     * Cloud IAM
+       适用于 Google Cloud 资源的权限管理系统。
+
+     * Cloud API
+       Google Cloud 服务的编程接口。
+
+     * Service Catalog
+       有助于管理员管理内部企业解决方案的服务目录。
+
+     * 费用管理
+       用于监测、控制和优化费用的工具。
+
+     * 运维
+       监控、日志记录和应用性能套件。
+
+     * 碳足迹
+       用于查看和导出 Google Cloud 碳排放量报告的信息中心。
+
+     * Config Connector
+       用于管理 Google Cloud 资源的 Kubernetes 插件。
+
+     * Active Assist
+       用于轻松管理性能、安全性和费用的工具。
+
+     * 没有看到您需要的内容？
+     * 查看所有管理工具
+
+     * 地图和地理空间
+
+     * Earth Engine
+       提供地球观测数据和分析的地理空间平台。
+
+     * Google Maps Platform
+       打造基于地理位置的沉浸式体验，并改进业务运营。
+
+     * 媒体服务
+
+     * Cloud CDN
+       用于提供 Web 内容和视频内容的内容分发网络。
+
+     * Live Stream API
+       这项服务可用来转换实时视频和软件包以进行流式传输。
+
+     * OpenCue
+       专为视效和动画行业设计的开源渲染管理器。
+
+     * Transcoder API
+       转换并打包视频文件，以优化视频传输。
+
+     * Video Stitcher API
+       用于动态广告插播或服务器端广告插播的服务。
+
+     * 迁移
+
+     * 迁移中心
+       用于通过 Google Cloud 进行迁移和现代化改造的统一平台。
+
+     * 应用迁移
+       用于将应用迁移到云端，以实现低费用更新周期。
+
+     * Migrate to Virtual Machines
+       用于将虚拟机和物理服务器迁移到 Compute Engine 的各种组件。
+
+     * Cloud Foundation Toolkit
+       适用于 Deployment Manager 和 Terraform 的参考模板。
+
+     * Database Migration Service
+       使用无服务器技术以最短停机时间迁移到 Cloud SQL。
+
+     * Migrate to Containers
+       用于将虚拟机迁移到 GKE 上的系统容器的各种组件。
+
+     * BigQuery Data Transfer Service
+       用于安排将数据转移到 BigQuery 的数据导入服务。
+
+     * 快速迁移计划 (RaMP)
+       用于简化云迁移路径的端到端迁移计划。
+
+     * Transfer Appliance
+       用于将大量数据转移到 Google Cloud 的存储服务器。
+
+     * Storage Transfer Service
+       用于将数据从在线和本地来源转移到 Cloud Storage 的服务。
+
+     * VMware Engine
+       将您的 VMware 工作负载迁移到 Google Cloud 并继续以原生方式运行。
+
+     * 混合现实
+
+     * Immersive Stream for XR
+       托管、渲染并流式传输 3D 和 XR 体验。
+
+     * 网络
+
+     * Cloud Armor
+       针对 Web 攻击和 DDoS 攻击的安全政策和防御机制。
+
+     * Cloud CDN 和媒体 CDN
+       用于提供 Web 内容和视频内容的内容分发网络。
+
+     * Cloud DNS
+       提供可靠、低延迟的域名查询服务的域名系统。
+
+     * Cloud Load Balancing
+       用于跨应用和区域分配流量的服务。
+
+     * Cloud NAT
+       用于向私有实例授予互联网访问权限的 NAT 服务。
+
+     * 云连接
+       适合 VPN、对等互连和企业需求的连接方案。
+
+     * Network Connectivity Center
+       连接管理可帮助简化和扩缩网络。
+
+     * Network Intelligence Center
+       网络监控、验证和优化平台。
+
+     * Network Service Tiers
+       基于性能、可用性和费用的 Cloud 网络方案。
+
+     * 虚拟私有云
+       整个组织使用一个 VPC，在项目中进行隔离。
+
+     * Private Service Connect
+       保护 VPC 与各服务之间的连接。
+
+     * 没有看到您需要的内容？
+     * 查看所有网络产品。
+
+     * 运维
+
+     * Cloud Logging
+       管理 Google Cloud 审核日志、平台日志和应用日志。
+
+     * Cloud Monitoring
+       通过丰富的指标帮助您了解基础架构和应用的运行状况。
+
+     * Error Reporting
+       识别和分析应用错误。
+
+     * Cloud Debugger
+       用于实时检查应用状态以及在生产环境中进行调试。
+
+     * Cloud Trace
+       用于从应用中收集延迟数据的跟踪系统。
+
+     * Cloud Profiler
+       用于分析应用性能的 CPU 和堆性能分析器。
+
+     * 工作效率与协作
+
+     * AppSheet
+       用于构建和扩展应用的无代码开发平台。
+
+     * AppSheet Automation
+       在统一平台上构建自动化和应用。
+
+     * Google Workspace
+       面向个人和组织的协作和办公工具。
+
+     * Google Workspace 基本功能版
+       为团队提供安全的视频会议功能和现代化协作功能。
+
+     * Duet AI for Workspace
+       在 Workspace 应用中嵌入生成式 AI。
+
+     * Cloud Identity
+       IT 管理员用于管理用户设备和应用的统一平台。
+
+     * Chrome 企业版
+       专为企业打造的 Chrome 操作系统、Chrome 浏览器和 Chrome 设备。
+
+     * 安全和身份
+
+     * Cloud IAM
+       适用于 Google Cloud 资源的权限管理系统。
+
+     * Assured Workloads
+       针对敏感工作负载的合规与安全控制措施。
+
+     * Cloud Key Management
+       在 Google Cloud 上管理加密密钥。
+
+     * 机密计算
+       通过机密虚拟机加密使用中的数据。
+
+     * Security Command Center
+       用于保护 Google Cloud 资产免遭安全威胁的平台。
+
+     * Cloud Data Loss Prevention
+       用于检查、分类和隐去敏感数据的平台。
+
+     * Mandiant 产品和服务
+       来自一线的信息安全技术和专业知识。
+
+     * Chronicle SIEM
+       从安全遥测数据中提取信号，即时发现威胁。
+
+     * Chronicle Security Operations
+       检测、调查和应对网络威胁。
+
+     * Secret Manager
+       存储 API 密钥、密码、证书和其他敏感数据。
+
+     * BeyondCorp Enterprise
+       面向内部 Web 应用的零信任访问控制机制。
+
+     * 没有看到您需要的内容？
+     * 查看所有安全和身份产品
+
+     * 无服务器
+
+     * Cloud Run
+       用于运行容器化应用的全代管式环境。
+
+     * Cloud Functions
+       用于创建响应云事件的函数的平台。
+
+     * App Engine
+       适用于应用和后端的无服务器应用平台。
+
+     * Workflows
+       无服务器产品和 API 服务的工作流编排。
+
+     * API 网关
+       借助全代管式网关开发、部署、保护和管理 API。
+
+     * 存储
+
+     * Cloud Storage
+       安全、耐用且可伸缩的对象存储服务。
+
+     * 备份和灾难恢复服务
+       用于实现具有应用一致性的集中式数据保护的服务。
+
+     * Filestore
+       伸缩能力极强且安全可靠的文件存储服务。
+
+     * Persistent Disk
+       适用于 Google Cloud 上运行的虚拟机实例的块存储服务。
+
+     * Cloud Storage for Firebase
+       可用于存储和提供用户生成的内容的对象存储服务。
+
+     * 本地 SSD
+       本地挂接以满足高性能需求的块存储。
+
+     * Storage Transfer Service
+       用于将数据从在线和本地来源转移到 Cloud Storage 的服务。
+
+     * Web3
+
+     * Blockchain Node Engine
+       帮助开发者在区块链上进行开发的全代管式节点托管解决方案。
+
+   [17]价格
+   (BUTTON) close
+     * 利用我们透明的定价方法节省资金
+     * Google Cloud 的随用随付价格方案会根据预付费资源的每月用量和折扣费率自动为您节省费用。请立即联系我们，获取报价。
+     * 请求报价
+
+     * 价格概览和工具
+     * Google Cloud 价格
+       用多少付多少，没有限制。
+     * 价格计算器
+       计算您可节省的云服务费用。
+     * Google Cloud 免费层级
+       探索提供每月免费用量的产品。
+
+     * 费用优化框架
+       了解优化工作负载费用的最佳实践。
+     * 费用管理工具
+       用于监控和控制费用的工具。
+
+     * 产品详细价格
+     * Compute Engine
+     * Cloud SQL
+     * Google Kubernetes Engine
+     * Cloud Storage
+     * BigQuery
+
+     * 查看 100 多种产品的完整价格表
+
+   [18]资源
+   (BUTTON) close
+     * 学习与构建
+     * Google Cloud 免费计划
+       获享 $300 赠金以及 20 多种提供“始终免费”用量的产品。
+     * 快速入门
+       获取教程和演示。
+     * 云计算基础知识
+       详细了解云计算主题。
+     * 博客
+       阅读我们最新的产品资讯和案例。
+
+     * 学习中心
+       通过基于角色的学习发展您的职业生涯。
+     * 训练
+       注册参加自助式培训或课堂培训。
+     * 认证
+       准备并注册认证。
+     * 云架构中心
+       了解参考架构和最佳实践。
+
+     * 交流合作
+     * 创新�
+       加入 Google Cloud 合作伙伴计划。
+     * 开发者中心
+       及时获得最新资讯并保持联系。
+     * 活动和在线讲座
+       浏览即将到来的活动和点播观看活动。
+     * Google Cloud 社区
+       提出问题、寻找答案并与他人交流。
+
+     * 第三方工具和合作伙伴
+     * Google Cloud Marketplace
+       只需点击几下即可部署即时可用的解决方案。
+     * Google Cloud 合作伙伴
+       探索与合作伙伴合作的好处。
+     * 成为合作伙伴
+       加入 Partner Advantage 计划。
+
+   [19]文档 [20]支持
+   (BUTTON)
+   ____________________
+   (BUTTON)
+   [21]文档 [22]支持
+     * English
+     * Deutsch
+     * Español – América Latina
+     * Français
+     * Indonesia
+     * Italiano
+     * Português – Brasil
+     * 中文 – 简体
+     * 日本語
+     * 한국어
+
+   登录
+     * [23]云架构中心
+
+   [24]与我们联系 [25]免费开始使用吧
+
+   ____________________
+
+   (BUTTON)
+   [26]Google Cloud
+     *
+
+     * [27]概览
+          + 更多
+     * [28]解决方案
+          + 更多
+     * [29]产品
+          + 更多
+     * [30]价格
+          + 更多
+     * [31]资源
+          + 更多
+     * [32]文档
+     * [33]支持
+     * [34]控制台
+     * [35]与我们联系
+     * [36]免费开始使用吧
+
+     * Google Cloud 架构框架
+     * [37]概览
+     * 系统设计
+          + [38]概览
+          + [39]核心原则
+          + [40]选择部署类型
+          + [41]选择可用区和区域
+          + [42]管理云资源
+          + [43]选择和管理计算
+          + [44]设计网络基础架构
+          + [45]实施存储策略
+          + [46]优化数据库
+          + [47]分析您的数据
+          + [48]实现机器学�
+          + [49]实现可持续性设计
+     * 卓越运营
+          + [50]概览
+          + [51]实现部署自动化
+          + [52]设置监控、提醒和日志记录
+          + [53]请求云支持并建立上报流程
+          + [54]管理容量和配额
+          + [55]规划峰值和发布事件
+          + [56]打造自动化文化
+     * 安全性、隐私权和合规性
+          + [57]概览
+          + [58]共担责任和命运
+          + [59]安全原则
+          + [60]利用控件来管理风险
+          + [61]管理资产
+          + [62]管理身份和访问权限
+          + [63]实现计算和容器安全
+          + [64]保护您的网络
+          + [65]实现数据安全
+          + [66]安全地部署应用
+          + [67]管理法规遵从义务
+          + [68]实现数据驻留和主权
+          + [69]实现隐私权要求
+          + [70]实现日志记录和检测控制
+     * 可靠性
+          + [71]概览
+          + [72]核心原则
+          + [73]定义目标
+          + [74]定义 SLO
+          + [75]采用 SLO
+          + [76]可观察的基础架构和应用
+          + [77]可扩缩性和高可用性设计
+          + [78]操作流程和工具
+          + [79]构建高效提醒
+          + [80]事件管理流程
+          + 产品指南
+               o [81]概览
+               o 计算
+                    # [82]Compute Engine
+                    # [83]Cloud Run
+                    # [84]Cloud Functions
+                    # [85]Google Kubernetes Engine
+               o 存储和数据库
+                    # [86]Cloud Storage
+                    # [87]Firestore
+                    # [88]Cloud Bigtable
+                    # [89]Cloud SQL
+                    # [90]Cloud Spanner
+                    # [91]Filestore
+                    # [92]Memorystore
+               o 网络
+                    # [93]Cloud DNS
+                    # [94]Cloud Load Balancing
+                    # [95]Cloud CDN
+               o 数据分析
+                    # [96]BigQuery
+                    # [97]Dataflow
+                    # [98]Dataproc
+     * 费用优化
+          + [99]概览
+          + [100]采用和实现 FinOps
+          + [101]监控和控制费用
+          + [102]计算、容器和无服务器
+          + [103]存储
+          + [104]数据库和智能分析
+          + [105]网络
+          + [106]Cloud Operations
+     * 性能优化
+          + [107]概览
+          + [108]性能优化过程
+          + [109]监控和分析性能
+          + [110]优化计算性能
+          + [111]优化存储性能
+          + [112]优化网络和 API 性能
+          + [113]优化数据库性能
+          + [114]优化分析性能
+     * [115]最新资讯
+     * [116]在一个页面中查看
+
+     * 加快数字化转型的速度
+     * [117]了解详�
+     * 主要优势
+     * [118]为什么选择 Google Cloud
+     * [119]AI 和机器学�
+     * [120]多云端
+     * [121]全球基础架构
+     * [122]数据云
+     * [123]开放的云
+     * [124]信任与安全
+     * [125]工作效率与协作
+     * 报告和数据洞见
+     * [126]高管数据洞见
+     * [127]分析机构报告
+     * [128]白皮书
+     * [129]客户案例
+
+     * [130]行业解决方案
+     * [131]零售
+     * [132]快速消费品
+     * [133]金融服务
+     * [134]医疗保健和生命科学
+     * [135]媒体和娱乐
+     * [136]电信
+     * [137]游戏
+     * [138]制�
+     * [139]供应链与物流
+     * [140]政府
+     * [141]教育
+     * [142]查看所有行业解决方案
+     * [143]查看所有解决方案
+     * [144]应用现代化改�
+     * [145]CAMP
+     * [146]对传统应用进行现代化改�
+     * [147]从 PaaS 迁移：Cloud Foundry 或 Openshift
+     * [148]从大型主机迁移
+     * [149]对软件交付进行现代化改�
+     * [150]DevOps 最佳实践
+     * [151]SRE 原则
+     * [152]GKE 的投产后运维
+     * [153]FinOps 和 GKE 优化
+     * [154]在边缘运行应用
+     * [155]设计适合多云环境的架构
+     * [156]无服务器化
+     * [157]人工智能
+     * [158]Contact Center AI
+     * [159]Document AI
+     * [160]产品发现
+     * [161]API 和应用
+     * [162]使用 API 开拓新的业务渠道
+     * [163]使用 API 发掘旧式应用的潜力
+     * [164]Open Banking APIx
+     * [165]数据库
+     * [166]数据库迁移
+     * [167]数据库现代化改�
+     * [168]游戏数据库
+     * [169]Google Cloud 数据库
+     * [170]将 Oracle 工作负载迁移到 Google Cloud
+     * [171]开源数据库
+     * [172]SQL Server on Google Cloud
+     * [173]数据云
+     * [174]数据库解决方案
+     * [175]智能分析解决方案
+     * [176]AI 解决方案
+     * [177]面向独立软件供应商 (ISV) 的数据云
+     * [178]数据云联盟
+     * 数字化转型
+     * [179]数字化创新
+     * [180]运营效率
+     * [181]新型冠状病毒肺炎 (COVID-19) 解决方案
+     * [182]面向医疗保健行业的新型冠状病毒肺炎 (COVID-19) 解决方案
+     * [183]基础架构现代化改�
+     * [184]应用迁移
+     * [185]SAP on Google Cloud
+     * [186]高性能计算
+     * [187]Windows on Google Cloud
+     * [188]数据中心迁移
+     * [189]Active Assist
+     * [190]虚拟桌面
+     * [191]快速迁移计划 (RaMP)
+     * [192]备份和灾难恢复
+     * [193]工作效率与协作
+     * [194]Google Workspace
+     * [195]Google Workspace 基本功能版
+     * [196]Cloud Identity
+     * [197]Chrome 企业版
+     * [198]Cloud Search
+     * [199]安全
+     * [200]安全分析与运营
+     * [201]Web 应用和 API 保护
+     * [202]安全和弹性框架
+     * [203]风险和合规即代码 (RCaC)
+     * [204]软件供应链安全
+     * [205]Security Foundation
+     * [206]智能分析
+     * [207]数据仓库现代化改�
+     * [208]数据湖现代化改�
+     * [209]Google Cloud 上的 Spark
+     * [210]数据流分析
+     * [211]商业智能
+     * [212]数据科学
+     * [213]营销分析
+     * [214]地理空间分析和 AI
+     * [215]数据集
+     * [216]初创企业和中小型企业
+     * [217]初创公司解决方案
+     * [218]初创公司计划
+     * [219]中小型企业
+     * [220]软件即服务
+
+     * 精选产品
+     * [221]Compute Engine
+     * [222]Cloud Storage
+     * [223]BigQuery
+     * [224]Cloud Run
+     * [225]Google Kubernetes Engine
+     * [226]Vertex AI Platform
+     * [227]Looker
+     * [228]Apigee API Management
+     * [229]Cloud SQL
+     * [230]Cloud SDK
+     * [231]Cloud CDN
+     * [232]查看所有产品（100 多款）
+     * [233]AI 和机器学�
+     * [234]Vertex AI Platform
+     * [235]Vertex AI 上的生成式 AI
+     * [236]Vertex AI Search and Conversation
+     * [237]Dialogflow
+     * [238]Natural Language AI
+     * [239]Speech-to-Text
+     * [240]Text-to-Speech
+     * [241]Translation AI
+     * [242]Document AI
+     * [243]Vision AI
+     * [244]Contact Center AI
+     * [245]查看所有 AI 和机器学习产品
+     * 商业智能
+     * [246]Looker
+     * [247]Looker Studio
+     * [248]计算
+     * [249]Compute Engine
+     * [250]App Engine
+     * [251]Cloud GPU
+     * [252]Migrate to Virtual Machines
+     * [253]Spot 虚拟机
+     * [254]Batch
+     * [255]单租户节点
+     * [256]Bare Metal
+     * [257]Recommender
+     * [258]VMware Engine
+     * [259]Cloud Run
+     * [260]查看所有计算产品
+     * [261]容器
+     * [262]Google Kubernetes Engine
+     * [263]Cloud Run
+     * [264]Cloud Build
+     * [265]Artifact Registry
+     * [266]Cloud Code
+     * [267]Cloud Deploy
+     * [268]Migrate to Containers
+     * [269]Deep Learning Containers
+     * [270]Knative
+     * [271]数据分析
+     * [272]BigQuery
+     * [273]Looker
+     * [274]Dataflow
+     * [275]Pub/Sub
+     * [276]Dataproc
+     * [277]Cloud Data Fusion
+     * [278]Cloud Composer
+     * [279]Dataprep
+     * [280]Dataplex
+     * [281]Dataform
+     * [282]Analytics Hub
+     * [283]查看所有数据分析产品
+     * [284]数据库
+     * [285]AlloyDB for PostgreSQL
+     * [286]Cloud SQL
+     * [287]Firestore
+     * [288]Cloud Spanner
+     * [289]Cloud Bigtable
+     * [290]Datastream
+     * [291]Database Migration Service
+     * [292]开发者工具
+     * [293]Artifact Registry
+     * [294]Cloud Code
+     * [295]Cloud Build
+     * [296]Cloud Deploy
+     * [297]Cloud Deployment Manager
+     * [298]Cloud SDK
+     * [299]Cloud Scheduler
+     * [300]Cloud Source Repositories
+     * [301]Cloud Tasks
+     * [302]Cloud Workstations
+     * [303]Tools for PowerShell
+     * [304]查看所有开发者工具
+     * [305]分布式云
+     * [306]Google Distributed Cloud Edge
+     * [307]Google Distributed Cloud Hosted
+     * 混合云和多云
+     * [308]Google Kubernetes Engine
+     * [309]Apigee API Management
+     * [310]Migrate to Containers
+     * [311]Traffic Director
+     * [312]Cloud Build
+     * [313]运维
+     * [314]Anthos
+     * [315]Google Distributed Cloud
+     * 针对特定行业
+     * [316]反洗钱 AI
+     * [317]Cloud Healthcare API
+     * [318]关联 Fitbit 设备
+     * [319]电信网络自动化
+     * [320]电信数据结构脉络
+     * [321]Telecom Subscriber Insights
+     * [322]Spectrum Access System (SAS)
+     * [323]集成服务
+     * [324]Application Integration
+     * [325]Workflows
+     * [326]Apigee API Management
+     * [327]Cloud Tasks
+     * [328]Cloud Scheduler
+     * [329]Dataproc
+     * [330]Cloud Data Fusion
+     * [331]Cloud Composer
+     * [332]Pub/Sub
+     * [333]Eventarc
+     * [334]管理工具
+     * [335]Cloud Shell
+     * [336]Cloud 控制台
+     * [337]Cloud Endpoints
+     * [338]Cloud IAM
+     * [339]Cloud API
+     * [340]Service Catalog
+     * [341]费用管理
+     * [342]运维
+     * [343]碳足迹
+     * [344]Config Connector
+     * [345]Active Assist
+     * [346]查看所有管理工具
+     * [347]地图和地理空间
+     * [348]Earth Engine
+     * [349]Google Maps Platform
+     * 媒体服务
+     * [350]Cloud CDN
+     * [351]Live Stream API
+     * [352]OpenCue
+     * [353]Transcoder API
+     * [354]Video Stitcher API
+     * [355]迁移
+     * [356]迁移中心
+     * [357]应用迁移
+     * [358]Migrate to Virtual Machines
+     * [359]Cloud Foundation Toolkit
+     * [360]Database Migration Service
+     * [361]Migrate to Containers
+     * [362]BigQuery Data Transfer Service
+     * [363]快速迁移计划 (RaMP)
+     * [364]Transfer Appliance
+     * [365]Storage Transfer Service
+     * [366]VMware Engine
+     * 混合现实
+     * [367]Immersive Stream for XR
+     * [368]网络
+     * [369]Cloud Armor
+     * [370]Cloud CDN 和媒体 CDN
+     * [371]Cloud DNS
+     * [372]Cloud Load Balancing
+     * [373]Cloud NAT
+     * [374]云连接
+     * [375]Network Connectivity Center
+     * [376]Network Intelligence Center
+     * [377]Network Service Tiers
+     * [378]虚拟私有云
+     * [379]Private Service Connect
+     * [380]查看所有网络产品。
+     * [381]运维
+     * [382]Cloud Logging
+     * [383]Cloud Monitoring
+     * [384]Error Reporting
+     * [385]Cloud Debugger
+     * [386]Cloud Trace
+     * [387]Cloud Profiler
+     * 工作效率与协作
+     * [388]AppSheet
+     * [389]AppSheet Automation
+     * [390]Google Workspace
+     * [391]Google Workspace 基本功能版
+     * [392]Duet AI for Workspace
+     * [393]Cloud Identity
+     * [394]Chrome 企业版
+     * [395]安全和身份
+     * [396]Cloud IAM
+     * [397]Assured Workloads
+     * [398]Cloud Key Management
+     * [399]机密计算
+     * [400]Security Command Center
+     * [401]Cloud Data Loss Prevention
+     * [402]Mandiant 产品和服务
+     * [403]Chronicle SIEM
+     * [404]Chronicle Security Operations
+     * [405]Secret Manager
+     * [406]BeyondCorp Enterprise
+     * [407]查看所有安全和身份产品
+     * [408]无服务器
+     * [409]Cloud Run
+     * [410]Cloud Functions
+     * [411]App Engine
+     * [412]Workflows
+     * [413]API 网关
+     * [414]存储
+     * [415]Cloud Storage
+     * [416]备份和灾难恢复服务
+     * [417]Filestore
+     * [418]Persistent Disk
+     * [419]Cloud Storage for Firebase
+     * [420]本地 SSD
+     * [421]Storage Transfer Service
+     * [422]Web3
+     * [423]Blockchain Node Engine
+
+     * 利用我们透明的定价方法节省资金
+     * [424]请求报价
+     * 价格概览和工具
+     * [425]Google Cloud 价格
+     * [426]价格计算器
+     * [427]Google Cloud 免费层级
+     * [428]费用优化框架
+     * [429]费用管理工具
+     * 产品详细价格
+     * [430]Compute Engine
+     * [431]Cloud SQL
+     * [432]Google Kubernetes Engine
+     * [433]Cloud Storage
+     * [434]BigQuery
+     * [435]查看 100 多种产品的完整价格表
+
+     * 学习与构建
+     * [436]Google Cloud 免费计划
+     * [437]快速入门
+     * [438]云计算基础知识
+     * [439]博客
+     * [440]学习中心
+     * [441]训练
+     * [442]认证
+     * [443]云架构中心
+     * 交流合作
+     * [444]创新�
+     * [445]开发者中心
+     * [446]活动和在线讲座
+     * [447]Google Cloud 社区
+     * 第三方工具和合作伙伴
+     * [448]Google Cloud Marketplace
+     * [449]Google Cloud 合作伙伴
+     * [450]成为合作伙伴
+
+     * [451]首页
+     * [452]文档
+     * [453]云架构中心
+     * [454]架构框架
+
+   (BUTTON) 发送反馈
+
+                           Google Cloud 上的共担责任和命运共同体
+
+   使用集合让一切井井有条 根据您的偏好保存内容并对其进行分类。
+
+   Last reviewed 2023-08-21 UTC
+
+   本文档介绍了 Google Cloud
+   中共担责任模型和命运共同体之间的差异。文中讨论了共担责任模型的挑战和细微差别。本文档介绍了什么是命运共同体，以及我们如何与客户合作解决云安全挑
+   战。
+
+   在确定如何最好地保护 Google Cloud
+   上的数据和工作负载时，了解共担责任模型非常重要。共担责任模型描述了在云端涉及安全性时的任务，以及这些任务对于云提供商的不同之处。
+
+   但是，了解共担责任可能具有挑战性。此模型需要深入了解您使用的每项服务、每项服务提供的配置选项，以及 Google Cloud
+   为保护该服务而执行的操作。每项服务都有不同的配置文件，并且可能很难确定最佳安全配置。Google
+   认为，共担责任模型无法帮助云客户获得更好的安全结果。我们依靠命运共同体，而不是共担责任。
+
+   共同命运体包括要我们可帮助您为工作负载构建和运营受信任的云平台。我们提供最佳做法指导和安全的经过证明的基础架构代码，可用于以安全方式部署工作负
+   载。我们发布了各种 Google Cloud
+   服务解决方案，以解决复杂的安全问题，并提供创新的保险方案，帮助您衡量和缓解必须接受的风险。在您保护 Google Cloud
+   上的资源时，命运共同体的关键在于我们能够更密切地与您互动。
+
+共担责任
+
+   您非常了解企业的安全和监管要求，也非常了解保护机密数据和资源的要求。在 Google Cloud 上运行工作负载时，必须确定您需要在
+   Google Cloud 中配置的安全控制措施，以帮助保护机密数据和每个工作负载。如需确定要实现的安全控制措施，您必须考虑以下因素：
+     * 法规遵从义务
+     * 组织的安全标准和风险管理计划
+     * 客户和供应商的安全要求
+
+  由工作负载定义
+
+   传统上，责任是根据您运行的工作负载类型和所需的云服务定义的。云服务包括以下类别：
+
+   云服务 说明
+   基础架构即服务 (IaaS) IaaS 服务包括 [455]Compute Engine、[456]Cloud Storage 以及
+   [457]Cloud VPN、[458]Cloud Load Balancing 和 [459]Cloud DNS 等网络服务。
+
+   IaaS
+   以随用随付的价格提供计算、存储和网络服务。如果您计划使用直接原样迁移将现有本地工作负载迁移到云端，或者希望使用特定数据库在特定虚拟机上运行应用
+   ，则可以使用 IaaS：网络配置。
+
+   在 IaaS 中，大部分安全责任属于您，我们的责任侧重于底层基础架构和物理安全。
+   平台即服务 (PaaS) PaaS 服务包括 [460]App Engine、[461]Google Kubernetes Engine
+   (GKE) 和 [462]BigQuery。
+
+   PaaS 提供了您可以在其中开发和运行应用的运行时环境。如果您正在构建应用（例如网站），并且希望专注于开发而不是底层基础架构，则可以使用
+   PaaS。
+
+   在 PaaS 中，我们负责比 IaaS 中更多的控制，包括网络控制。您与我们负责应用级控制和 IAM
+   管理。您仍需负责您的数据安全和客户端保护。
+   软件即服务 (SaaS) SaaS 应用包括 [463]Google Workspace、[464]Chronicle 和
+   [465]Google Cloud Marketplace 中提供的第三方 SaaS 应用。
+
+   SaaS
+   提供在线应用，您可以通过某种方式订阅或付费。如果您的企业对构建应用本身不具备内部专业知识或业务需求，但需要处理工作负载的能力，则可以使用
+   SaaS 应用。
+
+   在 SaaS 中，我们担负大部分安全责任。您仍需负责您的访问权限控制以及您选择存储在应用中的数据。
+   函数即服务 (FaaS) 或无服务器
+
+   FaaS 为开发者提供了运行单一用途的小型代码（称为函数）的平台，用于响应特定事件。如果您希望特定事件发生特定情况，则可以使用
+   FaaS。例如，您可以创建一个函数，该函数在数据上传到 Cloud Storage 时就会运行以便对其进行分类。
+
+   FaaS 具有与 SaaS 类似的共担责任列表。[466]Cloud Functions 是一种 FaaS 应用。
+
+   下图展示了云服务并定义了云提供商与客户应如何共担责任。
+
+   共担安全责任
+
+   如图所示，云提供商始终负责底层网络和基础架构，并且客户始终负责其访问政策和数据。
+
+  由行业和监管框架定义
+
+   各个行业都有监管框架，用于定义必须落实的安全控制措施。将工作负载迁移到云端时，您必须了解以下内容：
+     * 哪些安全控制措施由您负责
+     * Cloud 产品提供哪些安全控制措施
+     * 继承的默认安全控制有哪些
+
+   继承的安全控制措施（例如我们的[467]默认加密和[468]基础架构控制）是您可以作为安全状况证据的一部分提供给审计员和监管机构的控制措施。例
+   如，支付卡行业数据安全标准 (PCI DSS) 定义了付款处理方的法规。将业务迁移到云端后，这些法规会在您和 CSP
+   之间共享。如需了解如何在您与 Google Cloud 之间共担 PCI DSS 责任，请参阅 [469]Google Cloud：PCI
+   DSS 共担责任表。
+
+   再举一个例子，在美国，《健康保险流通与责任法案》(HIPAA) 规定了处理电子个人健康信息 (PHI) 的标准。这些责任还会在 CSP
+   与您之间共担。如需详细了解 Google Cloud 如何履行了 HIPAA 规定的责任，请参阅 [470]HIPAA - 合规性。
+
+   其他行业（例如金融或制造）也有法规来规定收集、处理和存储数据的方式。如需详细了解与这类事项相关的共担责任以及 Google Cloud
+   如何履行我们的责任，请参阅[471]合规性资源中心。
+
+  由位置定义
+
+   根据您的业务场景，您可能需要根据公司办公室的位置、客户和数据来考虑您的职责。不同的国家和地区制定了相应的法规，指导您如何处理和存储客户数据。例
+   如，如果您的企业有欧盟境内的客户，则您的企业可能需要遵守[472]一般数据保护条例中所述的要求
+   (GDPR)，您可能有义务将客户数据保存在欧盟境内。 在这种情况下，您需负责确保您收集的数据会保留在[473]欧盟的 Google Cloud
+   区域中。如需详细了解我们如何履行 GDPR 义务，请参阅 [474]GDPR 和 Google Cloud。
+
+   如需了解与您的区域相关的要求，请参阅[475]符合的法规和标准。
+   如果您的场景特别复杂，建议您与我们的[476]销售团队或我们的[477]合作伙伴联系，以帮助您评估安全责任。
+
+  共担责任所面临的挑战
+
+   虽然共担责任有助于定义您或云提供商具有的安全角色，但依赖共担责任仍然可以产生挑战。以下面几种情况为例：
+     * 大多数云安全事故都属于配置错误直接导致的结果（在 [478]Cloud Security Alliance 的 Pandemic 11
+       报告中被列为编号
+       3），此趋势预计会增加。云产品不断变化，并且新产品也在不断发布。跟上不断变化似乎很困难。客户需要云服务提供商为他们提供可靠的最佳做法，
+       以帮助其适应变化，从默认的最佳做法开始，并具有基准安全配置。
+     * 虽然按云服务划分内容非常有用，但许多企业的工作负载需要多种云服务类型。在这种情况下，您必须考虑这些服务的各种安全控制措施如何交互，包括
+       它们在服务之间是否重叠。例如，您可能有一个要迁移到 Compute Engine 的本地应用，使用 Google Workspace
+       处理公司电子邮件，同时运行 BigQuery 来分析数据以改进您的产品。
+     * 随着法规的改变，当您进入新市场或者是收购其他公司时，您的业务和市场都会不断变化。您的新市场可能有不同的要求，而新的收购可能会将其工作负
+       载托管在另一个云平台上。为了管理不断变化，您必须不断重新评估您的风险概况，并能够快速实施新的控制措施。
+     * 数据加密密钥的管理方式和位置是与您保护数据职责相关的重要决策。您选择的选项取决于您的监管要求（无论您是运行混合云环境还是仍然具有本地环
+       境），以及您要处理和存储的数据的敏感性。
+     * 事件管理是一项重要而又经常被忽视的领域，在此您的责任和云服务商责任不易定义。许多事件都需要云提供商密切合作和支持，以帮助调查和缓解它们
+       。其他事件可能由于云资源配置不当或凭据被盗而造成，并且确保您满足保护资源和账号的最佳做法非常困难。
+     * 高级持续威胁 (APT)
+       和新漏洞会影响您开始云转换时可能不会考虑的工作负载。确保您及时了解最新的变化情况并负责威胁缓解工作，尤其是在您的企业没有大型安全团队的
+       情况下。
+
+命运共同体
+
+   我们在 Google Cloud
+   中开发了命运共同体，以开始解决共担责任模型无法解决的难题。命运共同体希望侧重于所有各方可以更好地互动，以持续提高安全性。
+   命运共同体基于共担责任模型，因为它将云提供商与客户之间的关系视为持续改善的合作伙伴关系。
+
+   命运共同体就是要我们负责确保 Google Cloud
+   更安全。命运共同体包括帮助您从安全的[479]着陆可用区开始，并清晰、明确、公开地介绍推荐的安全控制措施、设置和关联的最佳做法。它包括使用我们
+   的风险防范计划，帮助您更好地量化和管理网络保险的风险。通过命运共同体，我们希望从标准的共担责任框架转变为更好的模型，帮助您保护企业并在
+   Google Cloud 中建立信任。
+
+   以下部分介绍了命运共同体的各种组件。
+
+  使用入门帮助
+
+   命运共同体的一个重要组件是我们提供的资源，可帮助您在 Google Cloud
+   中以安全配置入门。从安全配置开始有助于减少配置错误的问题，而配置错误是大多数安全事故的根本原因。
+
+   资源包括以下内容：
+     * [480]安全基础：讨论主要安全问题和我们的主要建议。
+     * [481]安全蓝图：可让您使用基础架构即代码 (IaC) 部署和维护安全解决方案。蓝图默认启用我们的安全建议。许多蓝图由 Google
+       安全团队创建并作为产品进行管理。此支持意味着它们会定期更新，通过严格的测试流程，并获得了第三方测试组的证明。蓝图包括[482]安全基础
+       蓝图、[483]安全数据仓库蓝图和 [484]Vertex AI Workbench 笔记本蓝图。
+     * 架构框架最佳做法，解决了如何将安全性纳入设计中的热门建议。架构框架包括[485]安全部分和可用于与专家和同行联系的[486]社区可用区
+       。
+     * [487]着陆可用区导航指南，逐步介绍了为工作负载构建安全基础所需做出的主要决策，包括资源层次结构、身份入门、安全性密钥管理和网络结构
+       。
+
+  Risk Protection Program
+
+   命运共同体还包括[488]风险防护计划（目前为预览版），可帮助您将 Google Cloud
+   的强大功能用作管理风险的平台，而不仅仅是查看将云工作负载作为您需要管理的风险的另一个来源。风险防护计划是 Google Cloud
+   和两家领先的网络保险公司 Munich Re 和 Allianz Global & Corporate Speciality 的合作项目。
+
+   风险防护计划包含 [489]Risk
+   Manager，它提供数据驱动的数据分析，可用于更好地了解云安全状况。如需寻找网络承保责任范围，您可以直接与我们的保险合作伙伴分享来自
+   Risk Manager 的数据洞见，以获取报价。如需了解详情，请参阅 [490]Google Cloud 风险防护计划现提供预览版。
+
+  部署和治理方面的帮助
+
+   命运共同体还有助于您持续治理环境。例如，我们专注并致力于如下产品：
+     * [491]Assured Workloads，可帮助您履行合规性义务。
+     * [492]Security Command Center Premium，使用威胁情报、威胁检测、Web
+       扫描和其他高级方法监控并检测威胁。它还提供了一种快速自动解决许多此类威胁的方法。
+     * [493]组织政策和[494]资源设置，可让您在整个文件夹和项目的层次结构中配置政策。
+     * [495]Policy Intelligence 工具，可让您深入了解账号和资源的访问权限。
+     * [496]机密计算：可用于加密使用中的数据。
+     * [497]Sovereign Cloud，适用于德国，并实现数据驻留要求。
+
+实践共担责任和命运共同体
+
+   在规划流程中，请考虑以下操作，以帮助您理解和实施适当的安全控制措施：
+     * 创建将在 Google Cloud 中托管的工作负载类型的列表，以及它们是否需要 IaaS、PaaS 和 SaaS
+       服务。您可以使用[498]共担责任图作为核对清单，以确保您了解需要考虑的安全控制措施。
+     * 创建您必须遵守的监管要求列表，并访问[499]合规性资源中心中与这些要求相关的资源。
+     * 查看[500]架构中心的可用蓝图和架构列表，了解特定工作负载所需的安全控制措施。蓝图提供推荐控制措施的列表以及部署该架构所需的 IaC
+       代码。
+     * 使用[501]着陆可用区文档和[502]安全基础指南中的建议来设计符合您需求的资源层次结构和网络架构要求。您可以使用专用的工作负载蓝图
+       （如安全数据仓库）来加快开发过程。
+     * 部署工作负载后，请使用 Risk Manager、Assured Workloads、Policy Intelligence 工具和
+       Security Command Center Premium 等服务验证您是否履行了安全责任。
+
+   如需了解详情，请参阅 [503]CISO 的云转型指南论文。
+
+后续步骤
+
+     * 查看[504]安全原则（本系列的下一个文档）。
+     * 及时了解[505]命运共同体资源。
+     * 熟悉可用的[506]蓝图，包括安全基础蓝图和安全数据仓库等工作负载示例。
+     * 详细了解[507]命运共同体。
+     * 阅读 [508]Google 基础架构安全设计概览，了解我们的底层安全基础架构。
+     * 了解如何[509]在 Google Cloud 中实施 NIST Cybersecurity Framework 最佳做法
+       (PDF)。
+
+   (BUTTON) 发送反馈
+
+   如未另行说明，那么本页面中的内容已根据[510]知识共享署名 4.0 许可获得了许可，并且代码示例已根据 [511]Apache 2.0
+   许可获得了许可。有关详情，请参阅 [512]Google 开发者网站政策。Java 是 Oracle 和/或其关联公司的注册商标。
+
+   最后更新时间 (UTC)：2023-08-21。
+
+   [{ "type": "thumb-down", "id": "hardToUnderstand", "label":"很难理解" },{
+   "type": "thumb-down", "id": "incorrectInformationOrSampleCode",
+   "label":"信息或示例代码不正确" },{ "type": "thumb-down", "id":
+   "missingTheInformationSamplesINeed", "label":"没有我需要的信息/示例" },{ "type":
+   "thumb-down", "id": "translationIssue", "label":"翻译问题" },{ "type":
+   "thumb-down", "id": "otherDown", "label":"其他" }] [{ "type": "thumb-up",
+   "id": "easyToUnderstand", "label":"易于理解" },{ "type": "thumb-up", "id":
+   "solvedMyProblem", "label":"解决了我的问题" },{ "type": "thumb-up", "id":
+   "otherUp", "label":"其他" }] (BUTTON) 需要向我们提供更多信息？
+
+     * 为什么选择 Google
+          + [513]选择 Google Cloud
+          + [514]信任与安全
+          + [515]开放的云
+          + [516]多云
+          + [517]全球基础架构
+          + [518]客户和案例研究
+          + [519]分析师报告
+          + [520]白皮书
+          + [521]博客
+     * 产品和价格
+          + [522]Google Cloud 价格
+          + [523]Google Workspace 价格
+          + [524]查看所有产品
+     * 解决方案
+          + [525]基础架构现代化
+          + [526]数据库
+          + [527]应用现代化改�
+          + [528]智能分析
+          + [529]人工智能
+          + [530]安全
+          + [531]Productivity & work transformation
+          + [532]Industry solutions
+          + [533]DevOps solutions
+          + [534]Small business solutions
+          + [535]查看所有解决方案
+     * 资源
+          + [536]Google Cloud 文档
+          + [537]Google Cloud 快速入门
+          + [538]Google Cloud Marketplace
+          + [539]了解云计算
+          + [540]支持
+          + [541]代码示例
+          + [542]云架构中心
+          + [543]培训
+          + [544]认证
+          + [545]Google for Developers
+          + [546]Google Cloud 创业公司计划
+          + [547]系统状态
+          + [548]版本说明
+     * 互动
+          + [549]与销售人员联系
+          + [550]查找合作伙伴
+          + [551]成为合作伙伴
+          + [552]活动
+          + [553]播客
+          + [554]开发者中心
+          + [555]媒体资讯角
+          + [556]Google Cloud 在 YouTube 上的频道
+          + [557]YouTube 上的 Google Cloud Tech
+          + [558]在 Twitter 上关注
+          + [559]参与用户调查
+          + [560]Google Cloud 诚聘英才，欢迎加入！
+          + [561]Google Cloud 社区
+
+     * [562]关于 Google
+     * [563]隐私权政策
+     * [564]网站条款
+     * [565]Google Cloud 条款
+     * [566]Our third decade of climate action: join us
+     * 订阅 Google Cloud 简报 [567]订�
+
+     * English
+     * Deutsch
+     * Español – América Latina
+     * Français
+     * Indonesia
+     * Italiano
+     * Português – Brasil
+     * 中文 – 简体
+     * 日本語
+     * 한국어
+
+References
+
+   Visible links:
+   1. https://cloud.google.com/s/opensearch.xml?hl=zh-cn
+   2. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+   3. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+   4. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+   5. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=fr
+   6. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=de
+   7. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=id
+   8. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=it
+   9. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=ja
+  10. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=ko
+  11. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=pt-br
+  12. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=es-419
+  13. https://cloud.google.com/
+  14. https://cloud.google.com/why-google-cloud?hl=zh-cn
+  15. https://cloud.google.com/solutions?hl=zh-cn
+  16. https://cloud.google.com/products?hl=zh-cn
+  17. https://cloud.google.com/pricing?hl=zh-cn
+  18. https://cloud.google.com/start?hl=zh-cn
+  19. https://cloud.google.com/docs?hl=zh-cn
+  20. https://cloud.google.com/support-hub?hl=zh-cn
+  21. https://cloud.google.com/docs?hl=zh-cn
+  22. https://cloud.google.com/support-hub?hl=zh-cn
+  23. https://cloud.google.com/architecture?hl=zh-cn
+  24. https://cloud.google.com/contact?hl=zh-cn
+  25. https://console.cloud.google.com/freetrial?hl=zh-cn
+  26. https://cloud.google.com/
+  27. https://cloud.google.com/why-google-cloud
+  28. https://cloud.google.com/solutions
+  29. https://cloud.google.com/products
+  30. https://cloud.google.com/pricing
+  31. https://cloud.google.com/start
+  32. https://cloud.google.com/docs
+  33. https://cloud.google.com/support-hub
+  34. https://console.cloud.google.com/
+  35. https://cloud.google.com/contact
+  36. https://console.cloud.google.com/freetrial
+  37. https://cloud.google.com/architecture/framework
+  38. https://cloud.google.com/architecture/framework/system-design
+  39. https://cloud.google.com/architecture/framework/system-design/principles
+  40. https://cloud.google.com/architecture/framework/system-design/archetypes
+  41. https://cloud.google.com/architecture/framework/system-design/geographic-zones-regions
+  42. https://cloud.google.com/architecture/framework/system-design/resource-management
+  43. https://cloud.google.com/architecture/framework/system-design/compute
+  44. https://cloud.google.com/architecture/framework/system-design/networking
+  45. https://cloud.google.com/architecture/framework/system-design/storage
+  46. https://cloud.google.com/architecture/framework/system-design/databases
+  47. https://cloud.google.com/architecture/framework/system-design/data-analytics
+  48. https://cloud.google.com/architecture/framework/system-design/ai-ml
+  49. https://cloud.google.com/architecture/framework/system-design/sustainability
+  50. https://cloud.google.com/architecture/framework/operational-excellence
+  51. https://cloud.google.com/architecture/framework/operational-excellence/automate-your-deployments
+  52. https://cloud.google.com/architecture/framework/operational-excellence/set-up-monitoring-alerting-logging
+  53. https://cloud.google.com/architecture/framework/operational-excellence/establish-cloud-support-and-escalation-processes
+  54. https://cloud.google.com/architecture/framework/operational-excellence/manage-capacity-and-quota
+  55. https://cloud.google.com/architecture/framework/operational-excellence/plan-for-peak-traffic-and-launch-events
+  56. https://cloud.google.com/architecture/framework/operational-excellence/create-a-culture-of-automation
+  57. https://cloud.google.com/architecture/framework/security
+  58. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+  59. https://cloud.google.com/architecture/framework/security/security-principles
+  60. https://cloud.google.com/architecture/framework/security/risk-management
+  61. https://cloud.google.com/architecture/framework/security/asset-management
+  62. https://cloud.google.com/architecture/framework/security/identity-access
+  63. https://cloud.google.com/architecture/framework/security/compute-container-security
+  64. https://cloud.google.com/architecture/framework/security/network-security
+  65. https://cloud.google.com/architecture/framework/security/data-security
+  66. https://cloud.google.com/architecture/framework/security/app-security
+  67. https://cloud.google.com/architecture/framework/security/compliance
+  68. https://cloud.google.com/architecture/framework/security/data-residency-sovereignty
+  69. https://cloud.google.com/architecture/framework/security/privacy
+  70. https://cloud.google.com/architecture/framework/security/logging-detection
+  71. https://cloud.google.com/architecture/framework/reliability
+  72. https://cloud.google.com/architecture/framework/reliability/principles
+  73. https://cloud.google.com/architecture/framework/reliability/define-goals
+  74. https://cloud.google.com/architecture/framework/reliability/defining-SLOs
+  75. https://cloud.google.com/architecture/framework/reliability/adopting-slos
+  76. https://cloud.google.com/architecture/framework/reliability/observability-infrastructure-applications
+  77. https://cloud.google.com/architecture/framework/reliability/design-scale-high-availability
+  78. https://cloud.google.com/architecture/framework/reliability/create-operational-processes-tools
+  79. https://cloud.google.com/architecture/framework/reliability/build-efficient-alerts
+  80. https://cloud.google.com/architecture/framework/reliability/build-incident-management-process
+  81. https://cloud.google.com/architecture/framework/reliability/product-guides
+  82. https://cloud.google.com/architecture/framework/reliability/product-guides/compute
+  83. https://cloud.google.com/architecture/framework/reliability/product-guides/run
+  84. https://cloud.google.com/architecture/framework/reliability/product-guides/functions
+  85. https://cloud.google.com/architecture/framework/reliability/product-guides/kubernetes-engine
+  86. https://cloud.google.com/architecture/framework/reliability/product-guides/storage
+  87. https://cloud.google.com/architecture/framework/reliability/product-guides/firestore
+  88. https://cloud.google.com/architecture/framework/reliability/product-guides/bigtable
+  89. https://cloud.google.com/architecture/framework/reliability/product-guides/sql
+  90. https://cloud.google.com/architecture/framework/reliability/product-guides/spanner
+  91. https://cloud.google.com/architecture/framework/reliability/product-guides/filestore
+  92. https://cloud.google.com/architecture/framework/reliability/product-guides/memorystore
+  93. https://cloud.google.com/architecture/framework/reliability/product-guides/dns
+  94. https://cloud.google.com/architecture/framework/reliability/product-guides/load-balancing
+  95. https://cloud.google.com/architecture/framework/reliability/product-guides/cdn
+  96. https://cloud.google.com/architecture/framework/reliability/product-guides/bigquery
+  97. https://cloud.google.com/architecture/framework/reliability/product-guides/dataflow
+  98. https://cloud.google.com/architecture/framework/reliability/product-guides/dataproc
+  99. https://cloud.google.com/architecture/framework/cost-optimization
+ 100. https://cloud.google.com/architecture/framework/cost-optimization/finops
+ 101. https://cloud.google.com/architecture/framework/cost-optimization/monitor
+ 102. https://cloud.google.com/architecture/framework/cost-optimization/compute
+ 103. https://cloud.google.com/architecture/framework/cost-optimization/storage
+ 104. https://cloud.google.com/architecture/framework/cost-optimization/databases
+ 105. https://cloud.google.com/architecture/framework/cost-optimization/networking
+ 106. https://cloud.google.com/architecture/framework/cost-optimization/cloudops
+ 107. https://cloud.google.com/architecture/framework/performance-optimization
+ 108. https://cloud.google.com/architecture/framework/performance-optimization/process
+ 109. https://cloud.google.com/architecture/framework/performance-optimization/monitor
+ 110. https://cloud.google.com/architecture/framework/performance-optimization/compute
+ 111. https://cloud.google.com/architecture/framework/performance-optimization/storage
+ 112. https://cloud.google.com/architecture/framework/performance-optimization/networking
+ 113. https://cloud.google.com/architecture/framework/performance-optimization/databases
+ 114. https://cloud.google.com/architecture/framework/performance-optimization/analytics
+ 115. https://cloud.google.com/architecture/framework/whats-new
+ 116. https://cloud.google.com/architecture/framework/printable
+ 117. https://cloud.google.com/why-google-cloud
+ 118. https://cloud.google.com/why-google-cloud
+ 119. https://cloud.google.com/ai
+ 120. https://cloud.google.com/multicloud
+ 121. https://cloud.google.com/infrastructure
+ 122. https://cloud.google.com/data-cloud
+ 123. https://cloud.google.com/open-cloud
+ 124. https://cloud.google.com/trust-center
+ 125. https://workspace.google.com/
+ 126. https://cloud.google.com/executive-insights
+ 127. https://cloud.google.com/analyst-reports
+ 128. https://cloud.google.com/whitepapers
+ 129. https://cloud.google.com/customers
+ 130. https://cloud.google.com/solutions#industry-solutions
+ 131. https://cloud.google.com/solutions/retail
+ 132. https://cloud.google.com/solutions/cpg
+ 133. https://cloud.google.com/solutions/financial-services
+ 134. https://cloud.google.com/solutions/healthcare-life-sciences
+ 135. https://cloud.google.com/solutions/media-entertainment
+ 136. https://cloud.google.com/solutions/telecommunications
+ 137. https://cloud.google.com/solutions/games
+ 138. https://cloud.google.com/solutions/manufacturing
+ 139. https://cloud.google.com/solutions/supply-chain-logistics
+ 140. https://cloud.google.com/solutions/government
+ 141. https://cloud.google.com/solutions/education
+ 142. https://cloud.google.com/solutions#industry-solutions
+ 143. https://cloud.google.com/solutions
+ 144. https://cloud.google.com/solutions/camp
+ 145. https://cloud.google.com/solutions/camp
+ 146. https://cloud.google.com/solutions/modernize-traditional-applications
+ 147. https://cloud.google.com/solutions/migrate-from-paas
+ 148. https://cloud.google.com/solutions/mainframe-modernization
+ 149. https://cloud.google.com/solutions/software-delivery
+ 150. https://cloud.google.com/devops
+ 151. https://cloud.google.com/sre
+ 152. https://cloud.google.com/solutions/app-modernization/day-2-operations-for-gke
+ 153. https://cloud.google.com/solutions/finops-optimize-gke
+ 154. https://cloud.google.com/solutions/modernize-with-edge
+ 155. https://cloud.google.com/solutions/architect-multicloud
+ 156. https://cloud.google.com/solutions/serverless
+ 157. https://cloud.google.com/solutions/ai
+ 158. https://cloud.google.com/solutions/contact-center
+ 159. https://cloud.google.com/solutions/document-ai
+ 160. https://cloud.google.com/solutions/retail-product-discovery
+ 161. https://cloud.google.com/solutions/apis-and-applications
+ 162. https://cloud.google.com/solutions/new-channels-using-apis
+ 163. https://cloud.google.com/solutions/unlocking-legacy-applications
+ 164. https://cloud.google.com/solutions/open-banking-apix
+ 165. https://cloud.google.com/solutions/databases
+ 166. https://cloud.google.com/solutions/database-migration
+ 167. https://cloud.google.com/solutions/database-modernization
+ 168. https://cloud.google.com/solutions/databases/games
+ 169. https://cloud.google.com/products/databases
+ 170. https://cloud.google.com/solutions/migrate-oracle-workloads
+ 171. https://cloud.google.com/solutions/open-source-databases
+ 172. https://cloud.google.com/sql-server
+ 173. https://cloud.google.com/data-cloud
+ 174. https://cloud.google.com/solutions/databases
+ 175. https://cloud.google.com/solutions/smart-analytics
+ 176. https://cloud.google.com/solutions/ai
+ 177. https://cloud.google.com/solutions/data-cloud-isvs
+ 178. https://cloud.google.com/solutions/data-cloud-alliance
+ 179. https://cloud.google.com/solutions/business-innovation
+ 180. https://cloud.google.com/solutions/operational-efficiency
+ 181. https://cloud.google.com/covid19
+ 182. https://cloud.google.com/covid19-healthcare
+ 183. https://cloud.google.com/solutions/infrastructure-modernization
+ 184. https://cloud.google.com/solutions/application-migration
+ 185. https://cloud.google.com/solutions/sap
+ 186. https://cloud.google.com/solutions/hpc
+ 187. https://cloud.google.com/windows
+ 188. https://cloud.google.com/solutions/data-center-migration
+ 189. https://cloud.google.com/solutions/active-assist
+ 190. https://cloud.google.com/solutions/virtual-desktops
+ 191. https://cloud.google.com/solutions/cloud-migration-program
+ 192. https://cloud.google.com/solutions/backup-dr
+ 193. https://workspace.google.com/enterprise/
+ 194. https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect
+ 195. https://workspace.google.com/essentials/
+ 196. https://cloud.google.com/identity
+ 197. https://chromeenterprise.google/
+ 198. https://workspace.google.com/products/cloud-search/
+ 199. https://cloud.google.com/solutions/security
+ 200. https://cloud.google.com/solutions/security-analytics-and-operations
+ 201. https://cloud.google.com/solutions/web-app-and-api-protection
+ 202. https://cloud.google.com/solutions/security-and-resilience
+ 203. https://cloud.google.com/solutions/risk-and-compliance-as-code
+ 204. https://cloud.google.com/solutions/software-supply-chain-security
+ 205. https://cloud.google.com/solutions/security-foundation
+ 206. https://cloud.google.com/solutions/smart-analytics
+ 207. https://cloud.google.com/solutions/data-warehouse-modernization
+ 208. https://cloud.google.com/solutions/data-lake
+ 209. https://cloud.google.com/solutions/spark
+ 210. https://cloud.google.com/solutions/stream-analytics
+ 211. https://cloud.google.com/solutions/business-intelligence
+ 212. https://cloud.google.com/data-science
+ 213. https://cloud.google.com/solutions/marketing-analytics
+ 214. https://cloud.google.com/solutions/geospatial
+ 215. https://cloud.google.com/datasets
+ 216. https://cloud.google.com/solutions#section-13
+ 217. https://cloud.google.com/solutions/startups
+ 218. https://cloud.google.com/startup
+ 219. https://cloud.google.com/solutions/smb
+ 220. https://cloud.google.com/saas
+ 221. https://cloud.google.com/compute
+ 222. https://cloud.google.com/storage
+ 223. https://cloud.google.com/bigquery
+ 224. https://cloud.google.com/run
+ 225. https://cloud.google.com/kubernetes-engine
+ 226. https://cloud.google.com/vertex-ai
+ 227. https://cloud.google.com/looker
+ 228. https://cloud.google.com/apigee
+ 229. https://cloud.google.com/sql
+ 230. https://cloud.google.com/sdk
+ 231. https://cloud.google.com/cdn
+ 232. https://cloud.google.com/products#featured-products
+ 233. https://cloud.google.com/products/ai
+ 234. https://cloud.google.com/vertex-ai
+ 235. https://cloud.google.com/generative-ai-studio
+ 236. https://cloud.google.com/generative-ai-app-builder
+ 237. https://cloud.google.com/dialogflow
+ 238. https://cloud.google.com/natural-language
+ 239. https://cloud.google.com/speech-to-text
+ 240. https://cloud.google.com/text-to-speech
+ 241. https://cloud.google.com/translate
+ 242. https://cloud.google.com/document-ai
+ 243. https://cloud.google.com/vision
+ 244. https://cloud.google.com/solutions/contact-center
+ 245. https://cloud.google.com/products#ai-and-machine-learning
+ 246. https://cloud.google.com/looker
+ 247. https://cloud.google.com/looker-studio
+ 248. https://cloud.google.com/products/compute
+ 249. https://cloud.google.com/compute
+ 250. https://cloud.google.com/appengine
+ 251. https://cloud.google.com/gpu
+ 252. https://cloud.google.com/migrate/virtual-machines
+ 253. https://cloud.google.com/spot-vms
+ 254. https://cloud.google.com/batch
+ 255. https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
+ 256. https://cloud.google.com/bare-metal
+ 257. https://cloud.google.com/recommender
+ 258. https://cloud.google.com/vmware-engine
+ 259. https://cloud.google.com/run
+ 260. https://cloud.google.com/products#compute
+ 261. https://cloud.google.com/containers
+ 262. https://cloud.google.com/kubernetes-engine
+ 263. https://cloud.google.com/run
+ 264. https://cloud.google.com/build
+ 265. https://cloud.google.com/artifact-registry
+ 266. https://cloud.google.com/code
+ 267. https://cloud.google.com/deploy
+ 268. https://cloud.google.com/migrate/containers
+ 269. https://cloud.google.com/deep-learning-containers
+ 270. https://cloud.google.com/knative
+ 271. https://cloud.google.com/solutions/smart-analytics
+ 272. https://cloud.google.com/bigquery
+ 273. https://cloud.google.com/looker
+ 274. https://cloud.google.com/dataflow
+ 275. https://cloud.google.com/pubsub
+ 276. https://cloud.google.com/dataproc
+ 277. https://cloud.google.com/data-fusion
+ 278. https://cloud.google.com/composer
+ 279. https://cloud.google.com/dataprep
+ 280. https://cloud.google.com/dataplex
+ 281. https://cloud.google.com/dataform
+ 282. https://cloud.google.com/analytics-hub
+ 283. https://cloud.google.com/products#section-7
+ 284. https://cloud.google.com/products/databases
+ 285. https://cloud.google.com/alloydb
+ 286. https://cloud.google.com/sql
+ 287. https://cloud.google.com/firestore
+ 288. https://cloud.google.com/spanner
+ 289. https://cloud.google.com/bigtable
+ 290. https://cloud.google.com/datastream
+ 291. https://cloud.google.com/database-migration
+ 292. https://cloud.google.com/products/tools
+ 293. https://cloud.google.com/artifact-registry
+ 294. https://cloud.google.com/code
+ 295. https://cloud.google.com/build
+ 296. https://cloud.google.com/deploy
+ 297. https://cloud.google.com/deployment-manager/docs
+ 298. https://cloud.google.com/sdk
+ 299. https://cloud.google.com/scheduler
+ 300. https://cloud.google.com/source-repositories
+ 301. https://cloud.google.com/tasks
+ 302. https://cloud.google.com/workstations
+ 303. https://cloud.google.com/powershell
+ 304. https://cloud.google.com/products#section-9
+ 305. https://cloud.google.com/distributed-cloud
+ 306. https://cloud.google.com/distributed-cloud-edge
+ 307. https://cloud.google.com/distributed-cloud-hosted
+ 308. https://cloud.google.com/kubernetes-engine
+ 309. https://cloud.google.com/apigee
+ 310. https://cloud.google.com/migrate/containers
+ 311. https://cloud.google.com/traffic-director
+ 312. https://cloud.google.com/build
+ 313. https://cloud.google.com/products/operations
+ 314. https://cloud.google.com/anthos
+ 315. https://cloud.google.com/distributed-cloud
+ 316. https://cloud.google.com/anti-money-laundering-ai
+ 317. https://cloud.google.com/healthcare
+ 318. https://cloud.google.com/device-connect
+ 319. https://cloud.google.com/telecom-network-automation
+ 320. https://cloud.google.com/telecom-data-fabric
+ 321. https://cloud.google.com/telecom-subscriber-insights
+ 322. https://cloud.google.com/spectrum-access-system
+ 323. https://cloud.google.com/integration-services
+ 324. https://cloud.google.com/application-integration
+ 325. https://cloud.google.com/workflows
+ 326. https://cloud.google.com/apigee
+ 327. https://cloud.google.com/tasks
+ 328. https://cloud.google.com/scheduler
+ 329. https://cloud.google.com/dataproc
+ 330. https://cloud.google.com/data-fusion
+ 331. https://cloud.google.com/composer
+ 332. https://cloud.google.com/pubsub
+ 333. https://cloud.google.com/eventarc/docs
+ 334. https://cloud.google.com/products/management
+ 335. https://cloud.google.com/shell
+ 336. https://cloud.google.com/cloud-console
+ 337. https://cloud.google.com/endpoints
+ 338. https://cloud.google.com/iam
+ 339. https://cloud.google.com/apis
+ 340. https://cloud.google.com/private-catalog
+ 341. https://cloud.google.com/cost-management
+ 342. https://cloud.google.com/operations
+ 343. https://cloud.google.com/carbon-footprint
+ 344. https://cloud.google.com/config-connector/docs/overview
+ 345. https://cloud.google.com/solutions/active-assist
+ 346. https://cloud.google.com/products#management
+ 347. https://cloud.google.com/solutions/geospatial
+ 348. https://cloud.google.com/earth-engine
+ 349. https://mapsplatform.google.com/
+ 350. https://cloud.google.com/cdn
+ 351. https://cloud.google.com/livestream/docs
+ 352. https://cloud.google.com/opencue
+ 353. https://cloud.google.com/transcoder/docs
+ 354. https://cloud.google.com/video-stitcher
+ 355. https://cloud.google.com/products/cloud-migration
+ 356. https://cloud.google.com/migration-center/docs
+ 357. https://cloud.google.com/solutions/application-migration
+ 358. https://cloud.google.com/migrate/virtual-machines
+ 359. https://cloud.google.com/foundation-toolkit
+ 360. https://cloud.google.com/database-migration
+ 361. https://cloud.google.com/migrate/containers
+ 362. https://cloud.google.com/bigquery-transfer/docs/introduction
+ 363. https://cloud.google.com/solutions/cloud-migration-program
+ 364. https://cloud.google.com/transfer-appliance/docs/4.0
+ 365. https://cloud.google.com/storage-transfer-service
+ 366. https://cloud.google.com/vmware-engine
+ 367. https://cloud.google.com/immersive-stream/xr
+ 368. https://cloud.google.com/products/networking
+ 369. https://cloud.google.com/armor
+ 370. https://cloud.google.com/cdn
+ 371. https://cloud.google.com/dns
+ 372. https://cloud.google.com/load-balancing
+ 373. https://cloud.google.com/nat
+ 374. https://cloud.google.com/hybrid-connectivity
+ 375. https://cloud.google.com/network-connectivity-center
+ 376. https://cloud.google.com/network-intelligence-center
+ 377. https://cloud.google.com/network-tiers
+ 378. https://cloud.google.com/vpc
+ 379. https://cloud.google.com/private-service-connect
+ 380. https://cloud.google.com/products#section-19
+ 381. https://cloud.google.com/products/operations
+ 382. https://cloud.google.com/logging
+ 383. https://cloud.google.com/monitoring
+ 384. https://cloud.google.com/error-reporting
+ 385. https://cloud.google.com/debugger
+ 386. https://cloud.google.com/trace
+ 387. https://cloud.google.com/profiler
+ 388. https://cloud.google.com/appsheet
+ 389. https://cloud.google.com/appsheet/automation
+ 390. https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect
+ 391. https://workspace.google.com/essentials/
+ 392. https://workspace.google.com/solutions/ai/
+ 393. https://cloud.google.com/identity
+ 394. https://cloud.google.com/chrome-enterprise
+ 395. https://cloud.google.com/products/security-and-identity
+ 396. https://cloud.google.com/iam
+ 397. https://cloud.google.com/assured-workloads
+ 398. https://cloud.google.com/security-key-management
+ 399. https://cloud.google.com/confidential-computing
+ 400. https://cloud.google.com/security-command-center
+ 401. https://cloud.google.com/dlp
+ 402. https://www.mandiant.com/?utm_source=cgc&utm_medium=referral
+ 403. https://cloud.google.com/security-information-event-management
+ 404. https://cloud.google.com/chronicle-security-operations
+ 405. https://cloud.google.com/secret-manager
+ 406. https://cloud.google.com/beyondcorp-enterprise
+ 407. https://cloud.google.com/products#security-and-identity
+ 408. https://cloud.google.com/serverless
+ 409. https://cloud.google.com/run
+ 410. https://cloud.google.com/functions
+ 411. https://cloud.google.com/appengine
+ 412. https://cloud.google.com/workflows
+ 413. https://cloud.google.com/api-gateway
+ 414. https://cloud.google.com/products/storage
+ 415. https://cloud.google.com/storage
+ 416. https://cloud.google.com/backup-disaster-recovery
+ 417. https://cloud.google.com/filestore
+ 418. https://cloud.google.com/persistent-disk
+ 419. https://firebase.google.com/products/storage
+ 420. https://cloud.google.com/local-ssd
+ 421. https://cloud.google.com/storage-transfer-service
+ 422. https://cloud.google.com/web3
+ 423. https://cloud.google.com/blockchain-node-engine
+ 424. https://cloud.google.com/contact/?direct=true
+ 425. https://cloud.google.com/pricing
+ 426. https://cloud.google.com/products/calculator
+ 427. https://cloud.google.com/free
+ 428. https://cloud.google.com/architecture/framework/cost-optimization
+ 429. https://cloud.google.com/cost-management
+ 430. https://cloud.google.com/compute/all-pricing
+ 431. https://cloud.google.com/sql/pricing
+ 432. https://cloud.google.com/kubernetes-engine/pricing
+ 433. https://cloud.google.com/storage/pricing
+ 434. https://cloud.google.com/bigquery/pricing
+ 435. https://cloud.google.com/pricing/list
+ 436. https://cloud.google.com/free
+ 437. https://cloud.google.com/docs/get-started
+ 438. https://cloud.google.com/discover
+ 439. https://cloud.google.com/blog
+ 440. https://cloud.google.com/learn
+ 441. https://cloud.google.com/training
+ 442. https://cloud.google.com/certification
+ 443. https://cloud.google.com/architecture
+ 444. https://cloud.google.com/innovators
+ 445. https://cloud.google.com/developers
+ 446. https://cloud.google.com/events
+ 447. https://cloud.google.com/communities
+ 448. https://cloud.google.com/marketplace
+ 449. https://cloud.google.com/partners
+ 450. https://cloud.google.com/partners/become-a-partner
+ 451. https://cloud.google.com/?hl=zh-cn
+ 452. https://cloud.google.com/docs?hl=zh-cn
+ 453. https://cloud.google.com/architecture?hl=zh-cn
+ 454. https://cloud.google.com/architecture/framework?hl=zh-cn
+ 455. https://cloud.google.com/compute/docs?hl=zh-cn
+ 456. https://cloud.google.com/storage/docs/introduction?hl=zh-cn
+ 457. https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview?hl=zh-cn
+ 458. https://cloud.google.com/load-balancing/docs/load-balancing-overview?hl=zh-cn
+ 459. https://cloud.google.com/dns/docs/overview?hl=zh-cn
+ 460. https://cloud.google.com/appengine?hl=zh-cn
+ 461. https://cloud.google.com/kubernetes-engine/docs?hl=zh-cn
+ 462. https://cloud.google.com/bigquery/docs/introduction?hl=zh-cn
+ 463. https://workspace.google.com/?hl=zh-cn
+ 464. https://cloud.google.com/chronicle/docs/overview?hl=zh-cn
+ 465. https://cloud.google.com/marketplace?hl=zh-cn
+ 466. https://cloud.google.com/functions/docs/2nd-gen/overview?hl=zh-cn
+ 467. https://cloud.google.com/docs/security/encryption/default-encryption?hl=zh-cn
+ 468. https://cloud.google.com/docs/security/infrastructure/design?hl=zh-cn
+ 469. https://services.google.com/fh/files/misc/gcp_pci_dss_v4_responsibility_matrix.pdf?hl=zh-cn
+ 470. https://cloud.google.com/security/compliance/hipaa-compliance?hl=zh-cn
+ 471. https://cloud.google.com/security/compliance?hl=zh-cn
+ 472. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679
+ 473. https://cloud.google.com/about/locations?hl=zh-cn#europe
+ 474. https://cloud.google.com/privacy/gdpr?hl=zh-cn
+ 475. https://cloud.google.com/security/compliance/offerings?hl=zh-cn
+ 476. https://cloud.google.com/contact?hl=zh-cn
+ 477. https://cloud.google.com/find-a-partner?hl=zh-cn
+ 478. https://cloudsecurityalliance.org/press-releases/2022/06/07/cloud-security-alliance-s-top-threats-to-cloud-computing-pandemic-11-report-finds-traditional-cloud-security-issues-becoming-less-concerning/
+ 479. https://cloud.google.com/architecture/landing-zones?hl=zh-cn#what-is-a-google-cloud-landing-zone
+ 480. https://cloud.google.com/architecture/security-foundations?hl=zh-cn
+ 481. https://cloud.google.com/security/best-practices?hl=zh-cn#section-2
+ 482. https://cloud.google.com/architecture/security-foundations?hl=zh-cn
+ 483. https://cloud.google.com/architecture/confidential-data-warehouse-blueprint?hl=zh-cn
+ 484. https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks?hl=zh-cn
+ 485. https://cloud.google.com/architecture/framework/security?hl=zh-cn
+ 486. https://www.googlecloudcommunity.com/gc/Architecture-Framework/ct-p/cloud-architecture-framework
+ 487. https://cloud.google.com/architecture/landing-zones?hl=zh-cn
+ 488. https://cloud.google.com/risk-protection-program?hl=zh-cn
+ 489. https://cloud.google.com/risk-manager/docs/overview?hl=zh-cn
+ 490. https://cloud.google.com/blog/products/identity-security/google-cloud-risk-protection-program-now-in-preview?hl=zh-cn
+ 491. https://cloud.google.com/assured-workloads/docs/concept-overview?hl=zh-cn
+ 492. https://cloud.google.com/security-command-center/docs/concepts-security-command-center-overview?hl=zh-cn
+ 493. https://cloud.google.com/resource-manager/docs/organization-policy/overview?hl=zh-cn
+ 494. https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=zh-cn
+ 495. https://cloud.google.com/policy-intelligence/docs/overview?hl=zh-cn
+ 496. https://cloud.google.com/confidential-computing/confidential-vm/docs/about-cvm?hl=zh-cn
+ 497. https://cloud.google.com/t-systems-sovereign-cloud?hl=zh-cn
+ 498. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn#shared-diagram
+ 499. https://cloud.google.com/security/compliance?hl=zh-cn
+ 500. https://cloud.google.com/architecture?hl=zh-cn
+ 501. https://cloud.google.com/architecture/landing-zones?hl=zh-cn
+ 502. https://cloud.google.com/architecture/security-foundations?hl=zh-cn
+ 503. https://services.google.com/fh/files/misc/ciso-guide-to-security-transformation.pdf?hl=zh-cn
+ 504. https://cloud.google.com/architecture/framework/security/security-principles?hl=zh-cn
+ 505. https://cloud.google.com/security/shared-fate?hl=zh-cn
+ 506. https://cloud.google.com/security/best-practices?hl=zh-cn#section-2
+ 507. https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud?hl=zh-cn
+ 508. https://cloud.google.com/docs/security/infrastructure/design?hl=zh-cn
+ 509. https://services.google.com/fh/files/misc/gcp_nist_cybersecurity_framework.pdf?hl=zh-cn
+ 510. https://creativecommons.org/licenses/by/4.0/
+ 511. https://www.apache.org/licenses/LICENSE-2.0
+ 512. https://developers.google.com/site-policies?hl=zh-cn
+ 513. https://cloud.google.com/why-google-cloud/
+ 514. https://cloud.google.com/trust-center/
+ 515. https://cloud.google.com/open-cloud/
+ 516. https://cloud.google.com/multicloud/
+ 517. https://cloud.google.com/infrastructure/
+ 518. https://cloud.google.com/customers/
+ 519. https://cloud.google.com/analyst-reports/
+ 520. https://cloud.google.com/whitepapers/
+ 521. https://cloud.google.com/blog/
+ 522. https://cloud.google.com/pricing/
+ 523. https://workspace.google.com/pricing.html
+ 524. https://cloud.google.com/products/
+ 525. https://cloud.google.com/solutions/infrastructure-modernization/
+ 526. https://cloud.google.com/solutions/databases/
+ 527. https://cloud.google.com/solutions/application-modernization/
+ 528. https://cloud.google.com/solutions/smart-analytics/
+ 529. https://cloud.google.com/solutions/ai/
+ 530. https://cloud.google.com/solutions/security/
+ 531. https://workspace.google.com/enterprise/
+ 532. https://cloud.google.com/solutions/#industry-solutions
+ 533. https://cloud.google.com/solutions/devops/
+ 534. https://cloud.google.com/solutions/#section-14
+ 535. https://cloud.google.com/solutions/
+ 536. https://cloud.google.com/docs/
+ 537. https://cloud.google.com/docs/get-started/
+ 538. https://cloud.google.com/marketplace/
+ 539. https://cloud.google.com/discover/
+ 540. https://cloud.google.com/support-hub/
+ 541. https://cloud.google.com/docs/samples
+ 542. https://cloud.google.com/architecture/
+ 543. https://cloud.google.com/learn/training/
+ 544. https://cloud.google.com/learn/certification/
+ 545. https://developers.google.com/
+ 546. https://cloud.google.com/startup/
+ 547. https://status.cloud.google.com/
+ 548. https://cloud.google.com/release-notes
+ 549. https://cloud.google.com/contact/
+ 550. https://cloud.google.com/find-a-partner
+ 551. https://cloud.google.com/partners/become-a-partner/
+ 552. https://cloud.google.com/events/
+ 553. https://cloud.google.com/podcasts/
+ 554. https://cloud.google.com/developers/
+ 555. https://www.googlecloudpresscorner.com/
+ 556. https://www.youtube.com/googlecloud
+ 557. https://www.youtube.com/googlecloudplatform
+ 558. https://twitter.com/googlecloud
+ 559. https://userresearch.google.com/?reserved=1&utm_source=website&Q_Language=en&utm_medium=own_srch&utm_campaign=CloudWebFooter&utm_term=0&utm_content=0&productTag=clou&campaignDate=jul19&pType=devel&referral_code=jk212693
+ 560. https://careers.google.com/cloud
+ 561. https://www.googlecloudcommunity.com/
+ 562. https://about.google/intl/zh-cn/?hl=zh-cn
+ 563. https://policies.google.com/privacy?hl=zh-CN
+ 564. https://www.google.com/intl/zh-CN/policies/terms/regional.html?hl=zh-cn
+ 565. https://cloud.google.com/product-terms/?hl=zh-cn
+ 566. https://cloud.google.com/sustainability?hl=zh-cn
+ 567. https://cloud.google.com/newsletter/?hl=zh-cn
+
+   Hidden links:
+ 569. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+ 570. https://cloud.google.com/why-google-cloud?hl=zh-cn
+ 571. https://cloud.google.com/why-google-cloud?hl=zh-cn
+ 572. https://cloud.google.com/ai?hl=zh-cn
+ 573. https://cloud.google.com/multicloud?hl=zh-cn
+ 574. https://cloud.google.com/infrastructure?hl=zh-cn
+ 575. https://cloud.google.com/data-cloud?hl=zh-cn
+ 576. https://cloud.google.com/open-cloud?hl=zh-cn
+ 577. https://cloud.google.com/trust-center?hl=zh-cn
+ 578. https://workspace.google.com/?hl=zh-cn
+ 579. https://cloud.google.com/executive-insights?hl=zh-cn
+ 580. https://cloud.google.com/analyst-reports?hl=zh-cn
+ 581. https://cloud.google.com/whitepapers?hl=zh-cn
+ 582. https://cloud.google.com/customers?hl=zh-cn
+ 583. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+ 584. https://cloud.google.com/solutions?hl=zh-cn#industry-solutions
+ 585. https://cloud.google.com/solutions/retail?hl=zh-cn
+ 586. https://cloud.google.com/solutions/cpg?hl=zh-cn
+ 587. https://cloud.google.com/solutions/financial-services?hl=zh-cn
+ 588. https://cloud.google.com/solutions/healthcare-life-sciences?hl=zh-cn
+ 589. https://cloud.google.com/solutions/media-entertainment?hl=zh-cn
+ 590. https://cloud.google.com/solutions/telecommunications?hl=zh-cn
+ 591. https://cloud.google.com/solutions/games?hl=zh-cn
+ 592. https://cloud.google.com/solutions/manufacturing?hl=zh-cn
+ 593. https://cloud.google.com/solutions/supply-chain-logistics?hl=zh-cn
+ 594. https://cloud.google.com/solutions/government?hl=zh-cn
+ 595. https://cloud.google.com/solutions/education?hl=zh-cn
+ 596. https://cloud.google.com/solutions?hl=zh-cn#industry-solutions
+ 597. https://cloud.google.com/solutions?hl=zh-cn
+ 598. https://cloud.google.com/solutions/camp?hl=zh-cn
+ 599. https://cloud.google.com/solutions/camp?hl=zh-cn
+ 600. https://cloud.google.com/solutions/modernize-traditional-applications?hl=zh-cn
+ 601. https://cloud.google.com/solutions/migrate-from-paas?hl=zh-cn
+ 602. https://cloud.google.com/solutions/mainframe-modernization?hl=zh-cn
+ 603. https://cloud.google.com/solutions/software-delivery?hl=zh-cn
+ 604. https://cloud.google.com/devops?hl=zh-cn
+ 605. https://cloud.google.com/sre?hl=zh-cn
+ 606. https://cloud.google.com/solutions/app-modernization/day-2-operations-for-gke?hl=zh-cn
+ 607. https://cloud.google.com/solutions/finops-optimize-gke?hl=zh-cn
+ 608. https://cloud.google.com/solutions/modernize-with-edge?hl=zh-cn
+ 609. https://cloud.google.com/solutions/architect-multicloud?hl=zh-cn
+ 610. https://cloud.google.com/solutions/serverless?hl=zh-cn
+ 611. https://cloud.google.com/solutions/ai?hl=zh-cn
+ 612. https://cloud.google.com/solutions/contact-center?hl=zh-cn
+ 613. https://cloud.google.com/solutions/document-ai?hl=zh-cn
+ 614. https://cloud.google.com/solutions/retail-product-discovery?hl=zh-cn
+ 615. https://cloud.google.com/solutions/apis-and-applications?hl=zh-cn
+ 616. https://cloud.google.com/solutions/new-channels-using-apis?hl=zh-cn
+ 617. https://cloud.google.com/solutions/unlocking-legacy-applications?hl=zh-cn
+ 618. https://cloud.google.com/solutions/open-banking-apix?hl=zh-cn
+ 619. https://cloud.google.com/solutions/databases?hl=zh-cn
+ 620. https://cloud.google.com/solutions/database-migration?hl=zh-cn
+ 621. https://cloud.google.com/solutions/database-modernization?hl=zh-cn
+ 622. https://cloud.google.com/solutions/databases/games?hl=zh-cn
+ 623. https://cloud.google.com/products/databases?hl=zh-cn
+ 624. https://cloud.google.com/solutions/migrate-oracle-workloads?hl=zh-cn
+ 625. https://cloud.google.com/solutions/open-source-databases?hl=zh-cn
+ 626. https://cloud.google.com/sql-server?hl=zh-cn
+ 627. https://cloud.google.com/data-cloud?hl=zh-cn
+ 628. https://cloud.google.com/solutions/databases?hl=zh-cn
+ 629. https://cloud.google.com/solutions/smart-analytics?hl=zh-cn
+ 630. https://cloud.google.com/solutions/ai?hl=zh-cn
+ 631. https://cloud.google.com/solutions/data-cloud-isvs?hl=zh-cn
+ 632. https://cloud.google.com/solutions/data-cloud-alliance?hl=zh-cn
+ 633. https://cloud.google.com/solutions/business-innovation?hl=zh-cn
+ 634. https://cloud.google.com/solutions/operational-efficiency?hl=zh-cn
+ 635. https://cloud.google.com/covid19?hl=zh-cn
+ 636. https://cloud.google.com/covid19-healthcare?hl=zh-cn
+ 637. https://cloud.google.com/solutions/infrastructure-modernization?hl=zh-cn
+ 638. https://cloud.google.com/solutions/application-migration?hl=zh-cn
+ 639. https://cloud.google.com/solutions/sap?hl=zh-cn
+ 640. https://cloud.google.com/solutions/hpc?hl=zh-cn
+ 641. https://cloud.google.com/windows?hl=zh-cn
+ 642. https://cloud.google.com/solutions/data-center-migration?hl=zh-cn
+ 643. https://cloud.google.com/solutions/active-assist?hl=zh-cn
+ 644. https://cloud.google.com/solutions/virtual-desktops?hl=zh-cn
+ 645. https://cloud.google.com/solutions/cloud-migration-program?hl=zh-cn
+ 646. https://cloud.google.com/solutions/backup-dr?hl=zh-cn
+ 647. https://workspace.google.com/enterprise/?hl=zh-cn
+ 648. https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect&hl=zh-cn
+ 649. https://workspace.google.com/essentials/?hl=zh-cn
+ 650. https://cloud.google.com/identity?hl=zh-cn
+ 651. https://chromeenterprise.google/?hl=zh-cn
+ 652. https://workspace.google.com/products/cloud-search/?hl=zh-cn
+ 653. https://cloud.google.com/solutions/security?hl=zh-cn
+ 654. https://cloud.google.com/solutions/security-analytics-and-operations?hl=zh-cn
+ 655. https://cloud.google.com/solutions/web-app-and-api-protection?hl=zh-cn
+ 656. https://cloud.google.com/solutions/security-and-resilience?hl=zh-cn
+ 657. https://cloud.google.com/solutions/risk-and-compliance-as-code?hl=zh-cn
+ 658. https://cloud.google.com/solutions/software-supply-chain-security?hl=zh-cn
+ 659. https://cloud.google.com/solutions/security-foundation?hl=zh-cn
+ 660. https://cloud.google.com/solutions/smart-analytics?hl=zh-cn
+ 661. https://cloud.google.com/solutions/data-warehouse-modernization?hl=zh-cn
+ 662. https://cloud.google.com/solutions/data-lake?hl=zh-cn
+ 663. https://cloud.google.com/solutions/spark?hl=zh-cn
+ 664. https://cloud.google.com/solutions/stream-analytics?hl=zh-cn
+ 665. https://cloud.google.com/solutions/business-intelligence?hl=zh-cn
+ 666. https://cloud.google.com/data-science?hl=zh-cn
+ 667. https://cloud.google.com/solutions/marketing-analytics?hl=zh-cn
+ 668. https://cloud.google.com/solutions/geospatial?hl=zh-cn
+ 669. https://cloud.google.com/datasets?hl=zh-cn
+ 670. https://cloud.google.com/solutions?hl=zh-cn#section-13
+ 671. https://cloud.google.com/solutions/startups?hl=zh-cn
+ 672. https://cloud.google.com/startup?hl=zh-cn
+ 673. https://cloud.google.com/solutions/smb?hl=zh-cn
+ 674. https://cloud.google.com/saas?hl=zh-cn
+ 675. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+ 676. https://cloud.google.com/compute?hl=zh-cn
+ 677. https://cloud.google.com/storage?hl=zh-cn
+ 678. https://cloud.google.com/bigquery?hl=zh-cn
+ 679. https://cloud.google.com/run?hl=zh-cn
+ 680. https://cloud.google.com/kubernetes-engine?hl=zh-cn
+ 681. https://cloud.google.com/vertex-ai?hl=zh-cn
+ 682. https://cloud.google.com/looker?hl=zh-cn
+ 683. https://cloud.google.com/apigee?hl=zh-cn
+ 684. https://cloud.google.com/sql?hl=zh-cn
+ 685. https://cloud.google.com/sdk?hl=zh-cn
+ 686. https://cloud.google.com/cdn?hl=zh-cn
+ 687. https://cloud.google.com/products?hl=zh-cn#featured-products
+ 688. https://cloud.google.com/products/ai?hl=zh-cn
+ 689. https://cloud.google.com/vertex-ai?hl=zh-cn
+ 690. https://cloud.google.com/generative-ai-studio?hl=zh-cn
+ 691. https://cloud.google.com/generative-ai-app-builder?hl=zh-cn
+ 692. https://cloud.google.com/dialogflow?hl=zh-cn
+ 693. https://cloud.google.com/natural-language?hl=zh-cn
+ 694. https://cloud.google.com/speech-to-text?hl=zh-cn
+ 695. https://cloud.google.com/text-to-speech?hl=zh-cn
+ 696. https://cloud.google.com/translate?hl=zh-cn
+ 697. https://cloud.google.com/document-ai?hl=zh-cn
+ 698. https://cloud.google.com/vision?hl=zh-cn
+ 699. https://cloud.google.com/solutions/contact-center?hl=zh-cn
+ 700. https://cloud.google.com/products?hl=zh-cn#ai-and-machine-learning
+ 701. https://cloud.google.com/looker?hl=zh-cn
+ 702. https://cloud.google.com/looker-studio?hl=zh-cn
+ 703. https://cloud.google.com/products/compute?hl=zh-cn
+ 704. https://cloud.google.com/compute?hl=zh-cn
+ 705. https://cloud.google.com/appengine?hl=zh-cn
+ 706. https://cloud.google.com/gpu?hl=zh-cn
+ 707. https://cloud.google.com/migrate/virtual-machines?hl=zh-cn
+ 708. https://cloud.google.com/spot-vms?hl=zh-cn
+ 709. https://cloud.google.com/batch?hl=zh-cn
+ 710. https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes?hl=zh-cn
+ 711. https://cloud.google.com/bare-metal?hl=zh-cn
+ 712. https://cloud.google.com/recommender?hl=zh-cn
+ 713. https://cloud.google.com/vmware-engine?hl=zh-cn
+ 714. https://cloud.google.com/run?hl=zh-cn
+ 715. https://cloud.google.com/products?hl=zh-cn#compute
+ 716. https://cloud.google.com/containers?hl=zh-cn
+ 717. https://cloud.google.com/kubernetes-engine?hl=zh-cn
+ 718. https://cloud.google.com/run?hl=zh-cn
+ 719. https://cloud.google.com/build?hl=zh-cn
+ 720. https://cloud.google.com/artifact-registry?hl=zh-cn
+ 721. https://cloud.google.com/code?hl=zh-cn
+ 722. https://cloud.google.com/deploy?hl=zh-cn
+ 723. https://cloud.google.com/migrate/containers?hl=zh-cn
+ 724. https://cloud.google.com/deep-learning-containers?hl=zh-cn
+ 725. https://cloud.google.com/knative?hl=zh-cn
+ 726. https://cloud.google.com/solutions/smart-analytics?hl=zh-cn
+ 727. https://cloud.google.com/bigquery?hl=zh-cn
+ 728. https://cloud.google.com/looker?hl=zh-cn
+ 729. https://cloud.google.com/dataflow?hl=zh-cn
+ 730. https://cloud.google.com/pubsub?hl=zh-cn
+ 731. https://cloud.google.com/dataproc?hl=zh-cn
+ 732. https://cloud.google.com/data-fusion?hl=zh-cn
+ 733. https://cloud.google.com/composer?hl=zh-cn
+ 734. https://cloud.google.com/dataprep?hl=zh-cn
+ 735. https://cloud.google.com/dataplex?hl=zh-cn
+ 736. https://cloud.google.com/dataform?hl=zh-cn
+ 737. https://cloud.google.com/analytics-hub?hl=zh-cn
+ 738. https://cloud.google.com/products?hl=zh-cn#section-7
+ 739. https://cloud.google.com/products/databases?hl=zh-cn
+ 740. https://cloud.google.com/alloydb?hl=zh-cn
+ 741. https://cloud.google.com/sql?hl=zh-cn
+ 742. https://cloud.google.com/firestore?hl=zh-cn
+ 743. https://cloud.google.com/spanner?hl=zh-cn
+ 744. https://cloud.google.com/bigtable?hl=zh-cn
+ 745. https://cloud.google.com/datastream?hl=zh-cn
+ 746. https://cloud.google.com/database-migration?hl=zh-cn
+ 747. https://cloud.google.com/products/tools?hl=zh-cn
+ 748. https://cloud.google.com/artifact-registry?hl=zh-cn
+ 749. https://cloud.google.com/code?hl=zh-cn
+ 750. https://cloud.google.com/build?hl=zh-cn
+ 751. https://cloud.google.com/deploy?hl=zh-cn
+ 752. https://cloud.google.com/deployment-manager/docs?hl=zh-cn
+ 753. https://cloud.google.com/sdk?hl=zh-cn
+ 754. https://cloud.google.com/scheduler?hl=zh-cn
+ 755. https://cloud.google.com/source-repositories?hl=zh-cn
+ 756. https://cloud.google.com/tasks?hl=zh-cn
+ 757. https://cloud.google.com/workstations?hl=zh-cn
+ 758. https://cloud.google.com/powershell?hl=zh-cn
+ 759. https://cloud.google.com/products?hl=zh-cn#section-9
+ 760. https://cloud.google.com/distributed-cloud?hl=zh-cn
+ 761. https://cloud.google.com/distributed-cloud-edge?hl=zh-cn
+ 762. https://cloud.google.com/distributed-cloud-hosted?hl=zh-cn
+ 763. https://cloud.google.com/kubernetes-engine?hl=zh-cn
+ 764. https://cloud.google.com/apigee?hl=zh-cn
+ 765. https://cloud.google.com/migrate/containers?hl=zh-cn
+ 766. https://cloud.google.com/traffic-director?hl=zh-cn
+ 767. https://cloud.google.com/build?hl=zh-cn
+ 768. https://cloud.google.com/products/operations?hl=zh-cn
+ 769. https://cloud.google.com/anthos?hl=zh-cn
+ 770. https://cloud.google.com/distributed-cloud?hl=zh-cn
+ 771. https://cloud.google.com/anti-money-laundering-ai?hl=zh-cn
+ 772. https://cloud.google.com/healthcare?hl=zh-cn
+ 773. https://cloud.google.com/device-connect?hl=zh-cn
+ 774. https://cloud.google.com/telecom-network-automation?hl=zh-cn
+ 775. https://cloud.google.com/telecom-data-fabric?hl=zh-cn
+ 776. https://cloud.google.com/telecom-subscriber-insights?hl=zh-cn
+ 777. https://cloud.google.com/spectrum-access-system?hl=zh-cn
+ 778. https://cloud.google.com/integration-services?hl=zh-cn
+ 779. https://cloud.google.com/application-integration?hl=zh-cn
+ 780. https://cloud.google.com/workflows?hl=zh-cn
+ 781. https://cloud.google.com/apigee?hl=zh-cn
+ 782. https://cloud.google.com/tasks?hl=zh-cn
+ 783. https://cloud.google.com/scheduler?hl=zh-cn
+ 784. https://cloud.google.com/dataproc?hl=zh-cn
+ 785. https://cloud.google.com/data-fusion?hl=zh-cn
+ 786. https://cloud.google.com/composer?hl=zh-cn
+ 787. https://cloud.google.com/pubsub?hl=zh-cn
+ 788. https://cloud.google.com/eventarc/docs?hl=zh-cn
+ 789. https://cloud.google.com/products/management?hl=zh-cn
+ 790. https://cloud.google.com/shell?hl=zh-cn
+ 791. https://cloud.google.com/cloud-console?hl=zh-cn
+ 792. https://cloud.google.com/endpoints?hl=zh-cn
+ 793. https://cloud.google.com/iam?hl=zh-cn
+ 794. https://cloud.google.com/apis?hl=zh-cn
+ 795. https://cloud.google.com/private-catalog?hl=zh-cn
+ 796. https://cloud.google.com/cost-management?hl=zh-cn
+ 797. https://cloud.google.com/operations?hl=zh-cn
+ 798. https://cloud.google.com/carbon-footprint?hl=zh-cn
+ 799. https://cloud.google.com/config-connector/docs/overview?hl=zh-cn
+ 800. https://cloud.google.com/solutions/active-assist?hl=zh-cn
+ 801. https://cloud.google.com/products?hl=zh-cn#management
+ 802. https://cloud.google.com/solutions/geospatial?hl=zh-cn
+ 803. https://cloud.google.com/earth-engine?hl=zh-cn
+ 804. https://mapsplatform.google.com/?hl=zh-cn
+ 805. https://cloud.google.com/cdn?hl=zh-cn
+ 806. https://cloud.google.com/livestream/docs?hl=zh-cn
+ 807. https://cloud.google.com/opencue?hl=zh-cn
+ 808. https://cloud.google.com/transcoder/docs?hl=zh-cn
+ 809. https://cloud.google.com/video-stitcher?hl=zh-cn
+ 810. https://cloud.google.com/products/cloud-migration?hl=zh-cn
+ 811. https://cloud.google.com/migration-center/docs?hl=zh-cn
+ 812. https://cloud.google.com/solutions/application-migration?hl=zh-cn
+ 813. https://cloud.google.com/migrate/virtual-machines?hl=zh-cn
+ 814. https://cloud.google.com/foundation-toolkit?hl=zh-cn
+ 815. https://cloud.google.com/database-migration?hl=zh-cn
+ 816. https://cloud.google.com/migrate/containers?hl=zh-cn
+ 817. https://cloud.google.com/bigquery-transfer/docs/introduction?hl=zh-cn
+ 818. https://cloud.google.com/solutions/cloud-migration-program?hl=zh-cn
+ 819. https://cloud.google.com/transfer-appliance/docs/4.0?hl=zh-cn
+ 820. https://cloud.google.com/storage-transfer-service?hl=zh-cn
+ 821. https://cloud.google.com/vmware-engine?hl=zh-cn
+ 822. https://cloud.google.com/immersive-stream/xr?hl=zh-cn
+ 823. https://cloud.google.com/products/networking?hl=zh-cn
+ 824. https://cloud.google.com/armor?hl=zh-cn
+ 825. https://cloud.google.com/cdn?hl=zh-cn
+ 826. https://cloud.google.com/dns?hl=zh-cn
+ 827. https://cloud.google.com/load-balancing?hl=zh-cn
+ 828. https://cloud.google.com/nat?hl=zh-cn
+ 829. https://cloud.google.com/hybrid-connectivity?hl=zh-cn
+ 830. https://cloud.google.com/network-connectivity-center?hl=zh-cn
+ 831. https://cloud.google.com/network-intelligence-center?hl=zh-cn
+ 832. https://cloud.google.com/network-tiers?hl=zh-cn
+ 833. https://cloud.google.com/vpc?hl=zh-cn
+ 834. https://cloud.google.com/private-service-connect?hl=zh-cn
+ 835. https://cloud.google.com/products?hl=zh-cn#section-19
+ 836. https://cloud.google.com/products/operations?hl=zh-cn
+ 837. https://cloud.google.com/logging?hl=zh-cn
+ 838. https://cloud.google.com/monitoring?hl=zh-cn
+ 839. https://cloud.google.com/error-reporting?hl=zh-cn
+ 840. https://cloud.google.com/debugger?hl=zh-cn
+ 841. https://cloud.google.com/trace?hl=zh-cn
+ 842. https://cloud.google.com/profiler?hl=zh-cn
+ 843. https://cloud.google.com/appsheet?hl=zh-cn
+ 844. https://cloud.google.com/appsheet/automation?hl=zh-cn
+ 845. https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect&hl=zh-cn
+ 846. https://workspace.google.com/essentials/?hl=zh-cn
+ 847. https://workspace.google.com/solutions/ai/?hl=zh-cn
+ 848. https://cloud.google.com/identity?hl=zh-cn
+ 849. https://cloud.google.com/chrome-enterprise?hl=zh-cn
+ 850. https://cloud.google.com/products/security-and-identity?hl=zh-cn
+ 851. https://cloud.google.com/iam?hl=zh-cn
+ 852. https://cloud.google.com/assured-workloads?hl=zh-cn
+ 853. https://cloud.google.com/security-key-management?hl=zh-cn
+ 854. https://cloud.google.com/confidential-computing?hl=zh-cn
+ 855. https://cloud.google.com/security-command-center?hl=zh-cn
+ 856. https://cloud.google.com/dlp?hl=zh-cn
+ 857. https://www.mandiant.com/?utm_source=cgc&utm_medium=referral
+ 858. https://cloud.google.com/security-information-event-management?hl=zh-cn
+ 859. https://cloud.google.com/chronicle-security-operations?hl=zh-cn
+ 860. https://cloud.google.com/secret-manager?hl=zh-cn
+ 861. https://cloud.google.com/beyondcorp-enterprise?hl=zh-cn
+ 862. https://cloud.google.com/products?hl=zh-cn#security-and-identity
+ 863. https://cloud.google.com/serverless?hl=zh-cn
+ 864. https://cloud.google.com/run?hl=zh-cn
+ 865. https://cloud.google.com/functions?hl=zh-cn
+ 866. https://cloud.google.com/appengine?hl=zh-cn
+ 867. https://cloud.google.com/workflows?hl=zh-cn
+ 868. https://cloud.google.com/api-gateway?hl=zh-cn
+ 869. https://cloud.google.com/products/storage?hl=zh-cn
+ 870. https://cloud.google.com/storage?hl=zh-cn
+ 871. https://cloud.google.com/backup-disaster-recovery?hl=zh-cn
+ 872. https://cloud.google.com/filestore?hl=zh-cn
+ 873. https://cloud.google.com/persistent-disk?hl=zh-cn
+ 874. https://firebase.google.com/products/storage?hl=zh-cn
+ 875. https://cloud.google.com/local-ssd?hl=zh-cn
+ 876. https://cloud.google.com/storage-transfer-service?hl=zh-cn
+ 877. https://cloud.google.com/web3?hl=zh-cn
+ 878. https://cloud.google.com/blockchain-node-engine?hl=zh-cn
+ 879. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+ 880. https://cloud.google.com/contact/?direct=true&hl=zh-cn
+ 881. https://cloud.google.com/pricing?hl=zh-cn
+ 882. https://cloud.google.com/products/calculator?hl=zh-cn
+ 883. https://cloud.google.com/free?hl=zh-cn
+ 884. https://cloud.google.com/architecture/framework/cost-optimization?hl=zh-cn
+ 885. https://cloud.google.com/cost-management?hl=zh-cn
+ 886. https://cloud.google.com/compute/all-pricing?hl=zh-cn
+ 887. https://cloud.google.com/sql/pricing?hl=zh-cn
+ 888. https://cloud.google.com/kubernetes-engine/pricing?hl=zh-cn
+ 889. https://cloud.google.com/storage/pricing?hl=zh-cn
+ 890. https://cloud.google.com/bigquery/pricing?hl=zh-cn
+ 891. https://cloud.google.com/pricing/list?hl=zh-cn
+ 892. https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn
+ 893. https://cloud.google.com/free?hl=zh-cn
+ 894. https://cloud.google.com/docs/get-started?hl=zh-cn
+ 895. https://cloud.google.com/discover?hl=zh-cn
+ 896. https://cloud.google.com/blog?hl=zh-cn
+ 897. https://cloud.google.com/learn?hl=zh-cn
+ 898. https://cloud.google.com/training?hl=zh-cn
+ 899. https://cloud.google.com/certification?hl=zh-cn
+ 900. https://cloud.google.com/architecture?hl=zh-cn
+ 901. https://cloud.google.com/innovators?hl=zh-cn
+ 902. https://cloud.google.com/developers?hl=zh-cn
+ 903. https://cloud.google.com/events?hl=zh-cn
+ 904. https://cloud.google.com/communities?hl=zh-cn
+ 905. https://cloud.google.com/marketplace?hl=zh-cn
+ 906. https://cloud.google.com/partners?hl=zh-cn
+ 907. https://cloud.google.com/partners/become-a-partner?hl=zh-cn

@@ -1,4 +1,102 @@
-   网络不给力，请稍后重试
-   (BUTTON) 返回首页
+   #[1]alternate [2]alternate [3]alternate
 
-   问题反馈
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
+
+   [5]Majorel
+   (BUTTON)
+     * ____________________ (BUTTON)
+     * [6]官网首页 Homepage
+     * [7]公司介绍 Explore Majorel
+          + [8]Majorel员工准则
+          + [9]Majorel 供应商行为准则
+     * [10]企业责任 CORPORATE RESPONSIBILITY
+     * [11]新闻动态 What's new
+     * [12]加入我们 JOIN US
+     * [13]联系我们 Get in touch
+
+     * [14]Majorel.com
+
+     * [15]cn
+
+     *
+     *
+     *
+     *
+
+    1. 企业责任
+
+企业责任
+
+   Corporate Responsibility
+
+   作为一家成功的国际化企业，迈睿高度重视对我们员工、社会和环境的责任。这些都体现在迈睿企业责任（CR）四大支柱法中。
+
+多元化与包容性
+
+   迈睿高度的多元化是公司DNA不可或缺的一部分。我们始终尊重并着力培养多元化。我们致力于打造可促进并推崇多元化的工作环境和流程。
+   我们深知，作为一家公司、一个团队，员工的多元化程度越高，我们就越具有竞争力，也越有能力获得更好的发展。
+
+环境与当地社区
+
+   每项业务都会对环境产生影响，因此，通过回收利用、清洁能源等地方性倡议保护自然资源至关重要。无论是投身教育计划，还是支持慈善和公益事业，每个员工
+   都应肩负起对当地所在社区和社会大众的责任。
+
+员工权利与公平的工作环境
+
+   根据当地法律环境，尊重和保障员工权利，是公司进行人才管理的天然基石。我们的行动往往以共同的价值观为依据，如尊严、公平、平等、尊重和独立。公平的
+   工作环境包括关注员工工作时长、身体状况、法律权利和责任。
+
+福利与韧性
+
+   我们有责任保障员工福利，建立员工韧性。监督和支持内容审核人员便是其中一个重点。我们创造有归属感的工作环境，鼓舞员工，将员工视为家人。从而，我们
+   得以构建支持网络，建立韧性。
+
+     *
+     *
+     *
+     *
+
+     * [16]隐私政策和COOKIES政策
+     * [17]法律声明
+     * [18]员工准则
+
+     * Policy badge icon [19]沪公网安备 31010602006359号
+     * [20]沪ICP备17012480号-3
+
+     * © 2021 迈睿中国 All Rights Reserved
+
+References
+
+   Visible links:
+   1. https://majorel.cn/wp-json/wp/v2/pages/4404
+   2. https://majorel.cn/wp-json/oembed/1.0/embed?url=https://majorel.cn/%e4%bc%81%e4%b8%9a%e8%b4%a3%e4%bb%bb-corporate-responsibility/
+   3. https://majorel.cn/wp-json/oembed/1.0/embed?url=https://majorel.cn/%e4%bc%81%e4%b8%9a%e8%b4%a3%e4%bb%bb-corporate-responsibility/&format=xml
+   4. https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
+   5. https://majorel.cn/
+   6. https://majorel.cn/
+   7. https://majorel.cn/explore-majorel-china/
+   8. https://majorel.cn/explore-majorel-china/code-of-conduct/
+   9. https://cdn.majorel.com/wp-content/uploads/2022/05/02192143/Majorel-Supplier-Code-of-Conduct-CN.pdf
+  10. https://majorel.cn/企业责任-corporate-responsibility/
+  11. https://majorel.cn/whats-new/
+  12. https://majorel.cn/加入我们-join-us/
+  13. https://majorel.cn/get-in-touch/
+  14. https://www.majorel.com/
+  15. https://majorel.cn/企业责任-corporate-responsibility/
+  16. https://majorel.cn/隐私条款-private-policy/
+  17. https://majorel.cn/法律声明-legal-notice/
+  18. https://cdn.majorel.com/wp-content/uploads/2021/06/15142008/Majorel-Code-of-Conduct-ZN.pdf
+  19. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602006359
+  20. https://beian.miit.gov.cn/
+
+   Hidden links:
+  22. https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNTcyNjMxNQ==&scene=124#wechat_redirect
+  23. https://weibo.com/arvatocrm?is_all=1
+  24. https://v.douyin.com/eNAByEa/
+  25. https://space.bilibili.com/592131117
+  26. https://majorel.cn/%E4%BC%81%E4%B8%9A%E8%B4%A3%E4%BB%BB-corporate-responsibility/
+  27. https://majorel.cn/?s=
+  28. https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNTcyNjMxNQ==&scene=124#wechat_redirect
+  29. https://weibo.com/arvatocrm?is_all=1
+  30. https://v.douyin.com/eNAByEa/
+  31. https://space.bilibili.com/592131117
