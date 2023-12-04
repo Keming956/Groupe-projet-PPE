@@ -1,13 +1,31 @@
-   Microsoft Teams pour l’Éducation [82]Plus...[83]Moins
+   Choisissez le compte avec lequel vous voulez vous connecter.
+   Education
+   Devoirs
+   Concepts de base
+   Concepts de base
+--
+   Microsoft Teams pour l’Éducation Plus...Moins
 
    Créez des devoirs pour vos étudiants dans Microsoft Teams. Gérez les
    chronologies de devoirs, ajoutez des instructions, créez des ressources
    à rendre, etc.
 
-   Remarque : Devoirs est [84]uniquement disponible dans les équipes de
+   Remarque : Devoirs est uniquement disponible dans les équipes de
    classe. Vous pouvez affecter des devoirs à des classes d’un maximum de
    1 000 classes. Les classes supérieures à 300 ne peuvent pas utiliser un
    bloc-notes pour la classe ou Makecode.
+--
+   Points, rubriques et notation
+
+   Devoirs à des étudiants ou à des groupes
+
+   Dates d’échéance et planification
+--
+Créer un devoir
+
+    1. Accédez à l’équipe de classe souhaitée, puis sélectionnez Devoirs.
+
+
 --
 
    Vous pouvez également joindre des fichiers existants, des liens ou des
@@ -20,6 +38,12 @@
    (.pptx), Tableau blanc, Page ClassNotebook et MakeCode ou les devoirs
    de progression de lecture permettent aux étudiants de modifier leurs
    propres copies.
+--
+   développées
+
+Devoirs à des étudiants ou à des groupes
+
+   Sélectionnez plusieurs classes ou les étudiants individuels ou groupes
 --
 
    Sélectionnez l’heure et la date d’échéance du devoir. Pour planifier
@@ -34,7 +58,7 @@
 --
    Outlook, les calendriers des étudiants et d’autres enseignants ou
    membres du personnel de votre équipe de classe. Définissez cette
-   préférence pour tous les devoirs dans [101]Paramètres de devoirs.
+   préférence pour tous les devoirs dans Paramètres de devoirs.
 
    En regard d’Ajouter une affectation aux calendriers, sélectionnez la
 --
@@ -45,8 +69,8 @@
     1. Pour choisir un canal dans lequel poster, à côté de Poster les
        notifications d'affectation à ce canal,  sélectionnez Éditer.
 --
-       vous permet de vérifierou de demander [103]de l'aide à votre
-       administrateur informatique.
+       permet de vérifierou de demander de l'aide à votre administrateur
+       informatique.
      * Les devoirs sont publiés dans les canaux visibles par tous les
        étudiants. Les canaux privés n’apparaissent pas dans cette étape.
      * Si vous avez sélectionné plusieurs classes, sélectionnez Définir
@@ -57,26 +81,12 @@
 --
 
    Remarque : Si votre établissement scolaire utilise Turnitin, vous
-   pouvez synchroniser les retours de devoirs avec [104]Turnitin.
+   pouvez synchroniser les retours de devoirs avec Turnitin.
 
     1. Affecter publiera immédiatement le devoir et vos étudiants seront
 --
-   [107]Enregistrer un devoir en tant que brouillon
+   Enregistrer un devoir en tant que brouillon
 
-   [108]Noter, retourner et réattribuer les devoirs
+   Noter, retourner et réattribuer les devoirs
 
 Ressources supplémentaires pour les enseignants
---
-  98. https://support.microsoft.com/fr-fr/topic/créer-et-gérer-des-rubriques-de-notation-dans-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca
-  99. https://support.microsoft.com/fr-fr/topic/configurer-des-catégories-de-notation-pondérées-dans-les-affectations-teams-d0915845-7292-458a-b339-16686cc48a1a
- 100. https://support.microsoft.com/fr-fr/topic/créer-des-devoirs-de-groupe-ou-affectation-à-des-étudiants-individuels-37809738-57e6-4176-86c5-751adfe0e03a
- 101. https://support.microsoft.com/fr-fr/topic/régler-les-paramètres-des-devoirs-dans-votre-équipe-de-classe-05bb3b89-1cdf-415a-b6c7-44add0376a77
- 102. https://support.microsoft.com/fr-fr/office/modifier-les-rôles-et-paramètres-de-modérateur-dans-un-canal-dans-microsoft-teams-6ac54758-3440-4f6a-9bd5-cebf97cb7ea6
- 103. https://docs.microsoft.com/microsoftteams/manage-channel-moderation-in-teams
- 104. https://support.microsoft.com/fr-fr/topic/utiliser-turnitin-avec-microsoft-teams-24c753ca-d75c-41d7-a6c0-1976cfe30093
- 105. https://support.microsoft.com/fr-fr/topic/créer-des-devoirs-de-groupe-ou-affectation-à-des-étudiants-individuels-37809738-57e6-4176-86c5-751adfe0e03a
- 106. https://support.microsoft.com/fr-fr/topic/modifier-un-devoir-dans-microsoft-teams-382cf4f0-0325-421e-9c7a-6099bd3b5d23
- 107. https://support.microsoft.com/fr-fr/topic/enregistrer-un-devoir-comme-brouillon-dans-microsoft-teams-fed665a0-ddc5-4142-9694-36287f10d76e
- 108. https://support.microsoft.com/fr-fr/topic/noter-retourner-et-réattribuer-les-devoirs-63e5efdd-be09-47f0-87ea-e8e4bcb45aa4
- 109. https://education.microsoft.com/
- 110. https://answers.microsoft.com/lang/msoffice/forum/msoffice_o365edu

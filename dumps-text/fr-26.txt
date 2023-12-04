@@ -1,20 +1,20 @@
-   [1]Éditions Hermann
-   [2]Espace auteur
+   Éditions Hermann
+   Espace auteur
    (BUTTON) Toggle navigation
-     * [3]La maison
-     * [4]Catalogue
-          + [5]Sciences humaines, philosophie, religion
-          + [6]Langues et littératures
-          + [7]Arts
-          + [8]Sciences sociales
-          + [9]Sciences et techniques
-          + [10]Droit, économie, politique
-     * [11]Collections
-     * [12]À paraître
-     * [13]Nouveautés
-     * [14]Contact
-     * [15]Newsletter
-     * [16]Hauteur de vue
+     * La maison
+     * Catalogue
+          + Sciences humaines, philosophie, religion
+          + Langues et littératures
+          + Arts
+          + Sciences sociales
+          + Sciences et techniques
+          + Droit, économie, politique
+     * Collections
+     * À paraître
+     * Nouveautés
+     * Contact
+     * Newsletter
+     * Hauteur de vue
 
    ____________________ (BUTTON)
 
@@ -24,9 +24,9 @@ Apologie de la désobéissance incivile
 
    Candice Delmas
    couverture
-     * [17]Présentation
-     * [18]Auteurs
-     * [19]Détails
+     * Présentation
+     * Auteurs
+     * Détails
 
    Quelles sont nos responsabilités face à l’injustice ? Les philosophes
    considèrent généralement que les citoyens d’un État globalement juste
@@ -71,26 +71,26 @@ Apologie de la désobéissance incivile
    Pages : 368
 
    Prix : 23,00 €
-   [20]logo-blanc
+   logo-blanc
 
 Catalogue
 
-     * [21]Sciences humaines, philosophie, religion
-     * [22]Langues et littératures
-     * [23]Arts
-     * [24]Sciences sociales
-     * [25]Sciences et techniques
-     * [26]Droit, économie, politique
+     * Sciences humaines, philosophie, religion
+     * Langues et littératures
+     * Arts
+     * Sciences sociales
+     * Sciences et techniques
+     * Droit, économie, politique
 
 Les éditions Hermann
 
-     * [27]Histoire de la maison
-     * [28]Hauteur de vue
-     * [29]E-librairie
-     * [30]Mentions légales
-     * [31]CGU
-     * [32]Politique de confidentialité
-     * [33]Plan du site
+     * Histoire de la maison
+     * Hauteur de vue
+     * E-librairie
+     * Mentions légales
+     * CGU
+     * Politique de confidentialité
+     * Plan du site
 
 Contact
 
@@ -98,7 +98,7 @@ Contact
    6 rue Labrouste,
    75015 Paris
    Tél : 01 45 57 45 40
-   [34]Nous contacter
+   Nous contacter
 
 Newsletter
 
@@ -110,50 +110,6 @@ Newsletter
    Nous diffusons des cookies afin d'analyser le trafic sur ce site. Les
    informations concernant l'utilisation que vous faites de notre site
    nous sont transmises dans cette optique.
-   (BUTTON) Accepter[35]En savoir plus
+   (BUTTON) AccepterEn savoir plus
 
    JavaScript is required to use this app
-
-Références
-
-   Liens visibles :
-   1. https://www.editions-hermann.fr/
-   2. https://www.editions-hermann.fr/espace-auteur
-   3. https://www.editions-hermann.fr/la-maison
-   4. https://www.editions-hermann.fr/livre/le-devoir-de-resister-candice-delmas
-   5. https://www.editions-hermann.fr/catalogue/sciences-humaines-philosophie-religion
-   6. https://www.editions-hermann.fr/catalogue/langues-et-litteratures
-   7. https://www.editions-hermann.fr/catalogue/arts
-   8. https://www.editions-hermann.fr/catalogue/sciences-sociales
-   9. https://www.editions-hermann.fr/catalogue/sciences-et-techniques
-  10. https://www.editions-hermann.fr/catalogue/droit-economie-politique
-  11. https://www.editions-hermann.fr/collections
-  12. https://www.editions-hermann.fr/a-paraitre
-  13. https://www.editions-hermann.fr/nouveautes
-  14. https://www.editions-hermann.fr/contact
-  15. https://www.editions-hermann.fr/livre/le-devoir-de-resister-candice-delmas
-  16. https://www.editions-hermann.fr/hauteur-de-vue
-  17. https://www.editions-hermann.fr/livre/le-devoir-de-resister-candice-delmas
-  18. https://www.editions-hermann.fr/livre/le-devoir-de-resister-candice-delmas
-  19. https://www.editions-hermann.fr/livre/le-devoir-de-resister-candice-delmas
-  20. https://www.editions-hermann.fr/
-  21. https://www.editions-hermann.fr/catalogue/sciences-humaines-philosophie-religion
-  22. https://www.editions-hermann.fr/catalogue/langues-et-litteratures
-  23. https://www.editions-hermann.fr/catalogue/arts
-  24. https://www.editions-hermann.fr/catalogue/sciences-sociales
-  25. https://www.editions-hermann.fr/catalogue/sciences-et-techniques
-  26. https://www.editions-hermann.fr/catalogue/droit-economie-politique
-  27. https://www.editions-hermann.fr/la-maison
-  28. https://www.editions-hermann.fr/hauteur-de-vue
-  29. http://editions-hermann.numilog.com/Accueil.aspx
-  30. https://www.editions-hermann.fr/mentions-legales
-  31. https://www.editions-hermann.fr/cgu
-  32. https://www.editions-hermann.fr/politique-confidentialite
-  33. https://www.editions-hermann.fr/plan-du-site
-  34. https://www.editions-hermann.fr/contact
-  35. https://www.editions-hermann.fr/mentions-legales
-
-   Liens cachés :
-  37. https://www.facebook.com/editionshermann/
-  38. https://www.linkedin.com/company/hermann-editeurs-des-sciences-et-des-arts-sa/
-  39. https://twitter.com/EditionsHermann

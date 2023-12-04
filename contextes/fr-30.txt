@@ -1,11 +1,11 @@
      *
-     * [29]Profs en ligne (BUTTON)
+     * Profs en ligne (BUTTON)
           + Une aide aux devoirs par matière
                o Mathématiques
                o Français
 --
      *
-     * [62]Profs en ligne (BUTTON)
+     * Profs en ligne (BUTTON)
           + Une aide aux devoirs par matière
                o Mathématiques
                o Français

@@ -19,9 +19,7 @@
     <link rel="manifest" href="/tlsfront/modern/static/manifest.json">
 
     <link rel="preconnect" href="https://consent.programme.tv" crossorigin>
-    <link rel="preconnect" href="https://api.prismaconnect.fr" crossorigin="use-credentials">
-    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-    <link rel="preconnect" href="https://googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://tra.scds.pmdstatic.net" crossorigin>
 
     <link rel="preload" href="/tlsfront/modern/fonts/pt-sans-narrow-v10-latin-700.b630de7ae9ecd828f6f3.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/tlsfront/modern/fonts/pt-sans-narrow-v10-latin-regular.e7c181e45b53be8a6de5.woff2" as="font" type="font/woff2" crossorigin>
@@ -234,13 +232,14 @@
             generatePageHitID();
         </script>
 
-            <script defer crossorigin src="https://tra.scds.pmdstatic.net/sourcepoint/6.1.5/sourcepoint.min.js"></script>
+            <script crossorigin type="module" src="https://tra.scds.pmdstatic.net/sourcepoint/6.1.5/sourcepoint.esm.min.js"></script>
+        <script defer crossorigin nomodule src="https://tra.scds.pmdstatic.net/sourcepoint/6.1.5/sourcepoint.min.js"></script>
         <script crossorigin type="module" src="https://tra.scds.pmdstatic.net/pmc-starter/5.2.2/esm.index.js"></script>
     <script defer crossorigin nomodule src="https://tra.scds.pmdstatic.net/pmc-starter/5.2.2/index.js"></script>
     <script id="urlsConfig">
     window.frontConfig = window.frontConfig || {}
     window.frontConfig.env = {
-        coreAds: "https://tra.scds.pmdstatic.net/advertising-core/4.223.0/core-ads.js",
+        coreAds: "https://tra.scds.pmdstatic.net/advertising-core/4.224.0/core-ads.js",
         telApi: 'https://api-tel.programme-tv.net',
         urv: 'https://userreview.programme-tv.net',
         urvApi: {
@@ -249,7 +248,7 @@
         }
     }
 </script>
-        <script type="module" src='/tlsfront/modern/scripts/407.f9e2dc1af91411b12ac1.js' crossorigin></script><script type="module" src='/tlsfront/modern/scripts/3947.515451d37a8a600da730.js' crossorigin></script><script type="module" src='/tlsfront/modern/scripts/news-article.18916dd0efb4f80ed11b.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/9944.5a66b143946c802593d4.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/8511.73f512df526c824614fd.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/3947.5f8bfa414206828cfb59.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/4756.9f28a04cd15f1f6b7992.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/news-article.9c6baf217236dc3fef48.js' crossorigin></script>
+        <script type="module" src='/tlsfront/modern/scripts/407.f9e2dc1af91411b12ac1.js' crossorigin></script><script type="module" src='/tlsfront/modern/scripts/5065.39c8c8c0833751c41dd2.js' crossorigin></script><script type="module" src='/tlsfront/modern/scripts/8217.b80adb3f592c239d0f35.js' crossorigin></script><script type="module" src='/tlsfront/modern/scripts/news-article.f8c5e507474ab98c71c9.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/9912.a4c961e9d348e5485af0.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/8511.f77da8527d47d47f6cbe.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/3947.afe39c4f1a26f340f627.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/4756.669d2c1973a66d90fb1c.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/8156.9941c4b7a85088de5d7d.js' crossorigin></script><script nomodule defer src='/tlsfront/legacy/scripts/news-article.7d13b69d8232a8bcb418.js' crossorigin></script>
 
         <script>window['gtag_enable_tcf_support'] = true;</script>
 
@@ -277,10 +276,19 @@
                     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
                 })(window,document,'script','dataLayer','GTM-NK7QRQ4');
             });
+
+            // Google Tag Manager GA4
+            window.consentCheck('allConsentGiven', () => {
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-PTK4MRSR');
+            });
         </script>
         <!-- End Google Tag Managers -->
     
-            <script defer src="https://www.datadoghq-browser-agent.com/datadog-rum-v4.js" data-deploy-version="64a40e06"></script>
+            <script defer src="https://www.datadoghq-browser-agent.com/datadog-rum-v4.js" data-deploy-version="5ec5af7"></script>
 <script>
     (function(h,d) {
          h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
@@ -494,12 +502,12 @@ Newsletter
 
         
         
-            <div class="containerAds ads-banniereHaute " id="ads-1542333839">
+            <div class="containerAds ads-banniereHaute " id="ads-1133490470">
                             <div class="innerAds">
                     <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Banniere-Haute_6564f7af31717" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
+                            <div id="Banniere-Haute_656e32ba6772b" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Haute"}'></div>
             
                             </div>
         
@@ -747,11 +755,11 @@ Newsletter
         
         
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveHaut " id="ads-740956268">
+        <div class="containerAds ads-paveHaut " id="ads-1443213347">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Haut_6564f7af321e9" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Haut"}'></div>
+                            <div id="Pave-Haut_656e32ba67da7" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Haut"}'></div>
             
                 
     </div>
@@ -763,11 +771,11 @@ Newsletter
         
         
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveHaut2 " id="ads-279424403">
+        <div class="containerAds ads-paveHaut2 " id="ads-1311647955">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Haut2_6564f7af32f1e" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Haut2"}'></div>
+                            <div id="Pave-Haut2_656e32ba68930" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Haut2"}'></div>
             
                 
     </div>
@@ -778,11 +786,11 @@ Newsletter
 
         
         
-            <div class="containerAds ads-paveHaut2Desktop " id="ads-1129465162">
+            <div class="containerAds ads-paveHaut2Desktop " id="ads-1357192366">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Haut2-Desktop_6564f7af32f21" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut2-Desktop"}'></div>
+                            <div id="Pave-Haut2-Desktop_656e32ba68933" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut2-Desktop"}'></div>
             
                 
     </div>
@@ -849,12 +857,12 @@ Newsletter
                                     <div class="newsArticle-outbrain">
                         
 
-    <div class="containerAds ads-outbrain outbrainPlaceholder-AR1" id="ads-1056955790">
+    <div class="containerAds ads-outbrain outbrainPlaceholder-AR1" id="ads-947722771">
         <div class="ads-placeholder">
                         <span class="ads-text">Publicité</span>
         </div>
         <div class="OUTBRAIN" data-src="https://www.programme.tv/news/actu/228725-maman-va-devoir-tenir-le-coup-celine-saffre-familles-nombreuses-annonce-le-depart-de-son-mari-fabrice-pour-letranger/" data-widget-id="AR_1"></div>
-        <div id="outbrainWidget-1056955790" data-widget-src="https://widgets.outbrain.com/outbrain.js"></div>
+        <div id="outbrainWidget-947722771" data-widget-src="https://widgets.outbrain.com/outbrain.js"></div>
     </div>
                     </div>
                                 <h2 class="newsArticle-title">
@@ -913,7 +921,7 @@ Newsletter
                             </p>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-26 21:00:00+01:00">Hier à 21:00</time>
+            <time datetime="2023-11-26 21:00:00+01:00">Dimanche 26 novembre 2023 à 21:00</time>
         </p>
     </div>
 </figure>
@@ -1126,11 +1134,11 @@ Newsletter
         
         
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveBas " id="ads-323071766">
+        <div class="containerAds ads-paveBas " id="ads-2055063803">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Bas_6564f7af33b4e" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Bas"}'></div>
+                            <div id="Pave-Bas_656e32ba6963e" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Bas"}'></div>
             
                 
     </div>
@@ -1385,7 +1393,7 @@ Newsletter
                             </p>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-26 15:00:00+01:00">Hier à 15:00</time>
+            <time datetime="2023-11-26 15:00:00+01:00">Dimanche 26 novembre 2023 à 15:00</time>
         </p>
     </div>
 </figure>
@@ -1435,7 +1443,7 @@ Newsletter
                             </p>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-27 19:30:00+01:00">Aujourd'hui à 19:30</time>
+            <time datetime="2023-11-27 19:30:00+01:00">Lundi 27 novembre 2023 à 19:30</time>
         </p>
     </div>
 </figure>
@@ -1857,10 +1865,10 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2022~05~16~d4fc8ea4-93fb-454d-bdce-fb7cd8a70b41.png/107x59/quality/80/c-est-prevu-pour-decembre-celine-saffre-familles-nombreuses-devoile-le-sexe-de-son-9e-enfant.jpg"
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2022~03~04~9b6c5880-2568-4f64-bef5-17ef397f4637.png/107x59/quality/80/focus-point/1098,449/celine-saffre-familles-nombreuses-son-fils-louis-opere-en-urgence-elle-donne-de-ses-nouvelles.jpg"
             data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2022~05~16~d4fc8ea4-93fb-454d-bdce-fb7cd8a70b41.png/107x59/quality/80/c-est-prevu-pour-decembre-celine-saffre-familles-nombreuses-devoile-le-sexe-de-son-9e-enfant.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2022~05~16~d4fc8ea4-93fb-454d-bdce-fb7cd8a70b41.png/214x118/quality/80/c-est-prevu-pour-decembre-celine-saffre-familles-nombreuses-devoile-le-sexe-de-son-9e-enfant.jpg 214w"
-            alt="“C’est prévu pour décembre !” : Céline Saffré (Familles nombreuses) dévoile le sexe de son 9e enfant !"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2022~03~04~9b6c5880-2568-4f64-bef5-17ef397f4637.png/107x59/quality/80/focus-point/1098,449/celine-saffre-familles-nombreuses-son-fils-louis-opere-en-urgence-elle-donne-de-ses-nouvelles.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2022~03~04~9b6c5880-2568-4f64-bef5-17ef397f4637.png/214x118/quality/80/focus-point/1098,449/celine-saffre-familles-nombreuses-son-fils-louis-opere-en-urgence-elle-donne-de-ses-nouvelles.jpg 214w"
+            alt="Céline Saffré (Familles nombreuses) : son fils Louis opéré en urgence, elle donne de ses nouvelles"
             class="  apply-ratio lazyload"
             >
     
@@ -1877,15 +1885,15 @@ Newsletter
 
                     </div>
         <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/actu/216800-cest-prevu-pour-decembre-celine-saffre-familles-nombreuses-devoile-le-sexe-de-son-9e-enfant/" data-wide>
-            “C’est prévu pour décembre !” : Céline Saffré (Familles nombreuses) dévoile le sexe de son 9e enfant !
+        <a class="articleCard-title" href="https://www.programme.tv/news/actu/215012-celine-saffre-familles-nombreuses-son-fils-louis-opere-en-urgence-elle-donne-de-ses-nouvelles/" data-wide>
+            Céline Saffré (Familles nombreuses) : son fils Louis opéré en urgence, elle donne de ses nouvelles
         </a>
                     <p class="articleCard-synopsis">
-                                    Ce n’est plus une surprise, la tribu Saffré va accueillir un petit nouveau....
+                                    Céline Saffré, la maman d’un des clans stars de Familles nombreuses :...
                             </p>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2022-06-09 15:03:34+02:00">Jeudi 09 juin 2022 à 15:03</time>
+            <time datetime="2022-03-04 17:15:00+01:00">Vendredi 04 mars 2022 à 17:15</time>
         </p>
     </div>
 </figure>
@@ -1895,12 +1903,12 @@ Newsletter
                 <div class="newsArticle-outbrain ads-mobile">
                     
 
-    <div class="containerAds ads-outbrain outbrainPlaceholder-AR1" id="ads-1732166162">
+    <div class="containerAds ads-outbrain outbrainPlaceholder-AR1" id="ads-1806067956">
         <div class="ads-placeholder">
                         <span class="ads-text">Publicité</span>
         </div>
         <div class="OUTBRAIN" data-src="https://www.programme.tv/news/actu/228725-maman-va-devoir-tenir-le-coup-celine-saffre-familles-nombreuses-annonce-le-depart-de-son-mari-fabrice-pour-letranger/" data-widget-id="AR_1"></div>
-        <div id="outbrainWidget-1732166162" data-widget-src="https://widgets.outbrain.com/outbrain.js"></div>
+        <div id="outbrainWidget-1806067956" data-widget-src="https://widgets.outbrain.com/outbrain.js"></div>
     </div>
                 </div>
             </section>
@@ -1914,11 +1922,11 @@ Newsletter
         
             <div class="ads-expandHeight">
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveHaut " id="ads-561576443">
+        <div class="containerAds ads-paveHaut " id="ads-1115259569">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Haut_6564f6385b0fc" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
+                            <div id="Pave-Haut_656e2fb84949f" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Haut"}'></div>
             
                 
     </div>
@@ -1946,10 +1954,10 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~a56754c9-dcf3-4f50-b725-6f1c2f1f3226.jpeg/284x178/quality/80/je-leur-interdis-de-l-approcher-pourquoi-amandine-pellissard-vit-un-enfer-depuis-l-arrivee-de-sa-fille-maena-a-la-maison.jpg"
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~30010ebe-10b2-4298-923f-aa7737646361.png/284x178/quality/80/focus-point/1252,608/c-est-bon-2024-approche-giuseppa-et-paga-les-marseillais-se-marient-a-la-mairie-sur-une-chanson-de-rap-les-internautes-choques.jpg"
             data-sizes="284px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~a56754c9-dcf3-4f50-b725-6f1c2f1f3226.jpeg/284x178/quality/80/je-leur-interdis-de-l-approcher-pourquoi-amandine-pellissard-vit-un-enfer-depuis-l-arrivee-de-sa-fille-maena-a-la-maison.jpg 284w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~a56754c9-dcf3-4f50-b725-6f1c2f1f3226.jpeg/568x356/quality/80/je-leur-interdis-de-l-approcher-pourquoi-amandine-pellissard-vit-un-enfer-depuis-l-arrivee-de-sa-fille-maena-a-la-maison.jpg 568w"
-            alt="“Je leur interdis de l’approcher” : pourquoi Amandine Pellissard vit un &quot;enfer&quot; depuis l’arrivée de sa fille Maéna à la maison"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~30010ebe-10b2-4298-923f-aa7737646361.png/284x178/quality/80/focus-point/1252,608/c-est-bon-2024-approche-giuseppa-et-paga-les-marseillais-se-marient-a-la-mairie-sur-une-chanson-de-rap-les-internautes-choques.jpg 284w, https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~30010ebe-10b2-4298-923f-aa7737646361.png/568x356/quality/80/focus-point/1252,608/c-est-bon-2024-approche-giuseppa-et-paga-les-marseillais-se-marient-a-la-mairie-sur-une-chanson-de-rap-les-internautes-choques.jpg 568w"
+            alt="&quot;C’est bon, 2024 approche !&quot; : Giuseppa et Paga (Les Marseillais) se marient à la mairie sur une chanson de rap, les internautes choqués"
             class="  apply-ratio lazyload"
             >
     
@@ -1964,18 +1972,18 @@ Newsletter
             </div>
 
 
-                            <p class="articleCard-tag">Actu</p>
+                            <p class="articleCard-tag">Tele-realite</p>
                     </div>
         <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/actu/228931-je-leur-interdis-de-lapprocher-pourquoi-amandine-pellissard-vit-un-enfer-depuis-larrivee-de-sa-fille-maena-a-la-maison/" data-wide>
-            “Je leur interdis de l’approcher” : pourquoi Amandine Pellissard...
+        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/229124-cest-bon-2024-approche-giuseppa-et-paga-les-marseillais-se-marient-a-la-mairie-sur-une-chanson-de-rap-les-internautes-choques/" data-wide>
+            &quot;C’est bon, 2024 approche !&quot; : Giuseppa et Paga (Les Marseillais)...
         </a>
                     <p class="articleCard-synopsis">
-                                    En story sur Instagram ce lundi 27 novembre, c’est une Amandine Pellissard malade qui a fait part de l’enfer que vit toute la famille depuis l’arrivée de la petite Maéna dans le foyer.
+                                    Lundi 4 décembre, Giuseppa n’a pas hésité à réagir aux nombreux commentaires négatifs des internautes, pointant du doigt sa sortie de mairie sur une musique du rappeur marseillais, Jul.
                             </p>
                 <p class="articleCard-date">
-            <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-27 19:00:00+01:00">Aujourd'hui à 19:00</time>
+            <span class="articleCard-dateCategory">Tele-realite</span> -
+            <time datetime="2023-12-04 18:00:00+01:00">Aujourd'hui à 18:00</time>
         </p>
     </div>
 </figure>
@@ -1997,10 +2005,10 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~63b3dad2-422a-4241-a4ee-078e4a4d482d.png/107x59/quality/80/focus-point/1307,617/c-est-un-prenom-bizarre-stephanie-clerbois-les-cinquante-attaquee-par-nicolo-sur-le-nom-choisi-pour-sa-fille.jpg"
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~02~17~4f629342-1011-4cfc-a16f-3eb3f537c2e0.jpeg/107x59/quality/80/une-femme-qui-se-fout-du-monde-vivian-les-cinquante-fait-des-revelations-sur-sa-vie-amoureuse.jpg"
             data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~63b3dad2-422a-4241-a4ee-078e4a4d482d.png/107x59/quality/80/focus-point/1307,617/c-est-un-prenom-bizarre-stephanie-clerbois-les-cinquante-attaquee-par-nicolo-sur-le-nom-choisi-pour-sa-fille.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~63b3dad2-422a-4241-a4ee-078e4a4d482d.png/214x118/quality/80/focus-point/1307,617/c-est-un-prenom-bizarre-stephanie-clerbois-les-cinquante-attaquee-par-nicolo-sur-le-nom-choisi-pour-sa-fille.jpg 214w"
-            alt="&quot;C’est un prénom bizarre&quot; : Stéphanie Clerbois (Les Cinquante) attaquée par Nicolo sur le nom choisi pour sa fille"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~02~17~4f629342-1011-4cfc-a16f-3eb3f537c2e0.jpeg/107x59/quality/80/une-femme-qui-se-fout-du-monde-vivian-les-cinquante-fait-des-revelations-sur-sa-vie-amoureuse.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~02~17~4f629342-1011-4cfc-a16f-3eb3f537c2e0.jpeg/214x118/quality/80/une-femme-qui-se-fout-du-monde-vivian-les-cinquante-fait-des-revelations-sur-sa-vie-amoureuse.jpg 214w"
+            alt="&quot;Une femme qui se fout du monde&quot; : Vivian (Les Cinquante) fait des révélations sur sa vie amoureuse"
             class="  apply-ratio lazyload"
             >
     
@@ -2017,12 +2025,12 @@ Newsletter
 
                     </div>
         <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/228924-cest-un-prenom-bizarre-nicolo-surpris-par-le-prenom-original-de-la-fille-de-stephanie-clerbois/" data-wide>
-            &quot;C’est un prénom bizarre&quot; : Stéphanie Clerbois (Les Cinquante) attaquée...
+        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/229119-une-femme-qui-se-fout-du-monde-vivian-les-cinquante-fait-des-revelations-sur-sa-vie-amoureuse/" data-wide>
+            &quot;Une femme qui se fout du monde&quot; : Vivian (Les Cinquante) fait des...
         </a>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Tele-realite</span> -
-            <time datetime="2023-11-27 18:30:00+01:00">Aujourd'hui à 18:30</time>
+            <time datetime="2023-12-04 17:30:00+01:00">Aujourd'hui à 17:30</time>
         </p>
     </div>
 </figure>
@@ -2044,10 +2052,10 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~21a1e8b5-4dd5-40ed-938f-f2aa8a08483a.png/107x59/quality/80/je-ne-comprends-pas-leur-langage-rofrane-bambara-familles-nombreuses-fait-des-confidences-sur-ses-deux-fils-kheiry-et-chemsy.jpg"
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~c0af777a-fa2f-48cb-b86a-eeb2b18c3f7f.jpeg/107x59/quality/80/je-me-suis-mis-a-pleurer-un-ancien-joueur-de-l-equipe-de-france-de-football-se-confie-sur-la-depression-qui-l-a-frappe.jpg"
             data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~21a1e8b5-4dd5-40ed-938f-f2aa8a08483a.png/107x59/quality/80/je-ne-comprends-pas-leur-langage-rofrane-bambara-familles-nombreuses-fait-des-confidences-sur-ses-deux-fils-kheiry-et-chemsy.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~21a1e8b5-4dd5-40ed-938f-f2aa8a08483a.png/214x118/quality/80/je-ne-comprends-pas-leur-langage-rofrane-bambara-familles-nombreuses-fait-des-confidences-sur-ses-deux-fils-kheiry-et-chemsy.jpg 214w"
-            alt="&quot;Je ne comprends pas leur langage&quot; : Rofrane Bambara (Familles nombreuses) fait des confidences sur ses deux fils Kheiry et Chemsy"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~c0af777a-fa2f-48cb-b86a-eeb2b18c3f7f.jpeg/107x59/quality/80/je-me-suis-mis-a-pleurer-un-ancien-joueur-de-l-equipe-de-france-de-football-se-confie-sur-la-depression-qui-l-a-frappe.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~c0af777a-fa2f-48cb-b86a-eeb2b18c3f7f.jpeg/214x118/quality/80/je-me-suis-mis-a-pleurer-un-ancien-joueur-de-l-equipe-de-france-de-football-se-confie-sur-la-depression-qui-l-a-frappe.jpg 214w"
+            alt="&quot;Je me suis mis à pleurer&quot; : un ancien joueur de l&#039;équipe de France de football se confie sur la dépression qui l&#039;a frappé "
             class="  apply-ratio lazyload"
             >
     
@@ -2064,200 +2072,200 @@ Newsletter
 
                     </div>
         <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/actu/228925-je-ne-comprends-pas-leur-langage-rofrane-bambara-familles-nombreuses-fait-des-confidences-sur-ses-deux-fils-kheiry-et-chemsy/" data-wide>
-            &quot;Je ne comprends pas leur langage&quot; : Rofrane Bambara (Familles nombreuses)...
-        </a>
-                <p class="articleCard-date">
-            <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-27 18:00:00+01:00">Aujourd'hui à 18:00</time>
-        </p>
-    </div>
-</figure>
-                    </li>
-                                    <li class="sidebar-newsListItem">
-                        
-
-    
-<figure class="articleCard small" data-wide-target>
-                    <div class="articleCard-image">
-                
-        
-            
-        
-    
-    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
-                                                
-                
-        
-                
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~202bef5e-9ad3-45bb-af30-2dbcdae90601.png/107x59/quality/80/ca-ne-s-est-pas-tres-bien-passe-pierre-star-academy-devoile-a-demi-mot-les-coulisses-de-son-duo-avec-florent-pagny.jpg"
-            data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~202bef5e-9ad3-45bb-af30-2dbcdae90601.png/107x59/quality/80/ca-ne-s-est-pas-tres-bien-passe-pierre-star-academy-devoile-a-demi-mot-les-coulisses-de-son-duo-avec-florent-pagny.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~202bef5e-9ad3-45bb-af30-2dbcdae90601.png/214x118/quality/80/ca-ne-s-est-pas-tres-bien-passe-pierre-star-academy-devoile-a-demi-mot-les-coulisses-de-son-duo-avec-florent-pagny.jpg 214w"
-            alt="“Ça ne s’est pas très bien passé” : Pierre (Star Academy) dévoile à demi-mot les coulisses de son duo avec Florent Pagny"
-            class="  apply-ratio lazyload"
-            >
-    
-                                            
-        <svg class="icon icon-play"
-                    aria-hidden="true"
-                    focusable="false"
-            >
-        <use href="#play"></use>
-    </svg>
-
-            </div>
-
-
-                    </div>
-        <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/228921-ca-ne-sest-pas-tres-bien-passe-pierre-star-academy-devoile-a-demi-mot-les-coulisses-de-son-duo-avec-florent-pagny/" data-wide>
-            “Ça ne s’est pas très bien passé” : Pierre (Star Academy) dévoile...
-        </a>
-                <p class="articleCard-date">
-            <span class="articleCard-dateCategory">Tele-realite</span> -
-            <time datetime="2023-11-27 17:30:00+01:00">Aujourd'hui à 17:30</time>
-        </p>
-    </div>
-</figure>
-                    </li>
-                                    <li class="sidebar-newsListItem">
-                        
-
-    
-<figure class="articleCard small" data-wide-target>
-                    <div class="articleCard-image">
-                
-        
-            
-        
-    
-    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
-                                                
-                
-        
-                
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~3f2c94f7-f3e9-4320-b0c3-16886e287c6e.jpeg/107x59/quality/80/c-etait-pire-karine-le-marchand-revele-que-le-comportement-de-justine-a-ete-coupe-au-montage-dans-l-amour-est-dans-le-pre.jpg"
-            data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~3f2c94f7-f3e9-4320-b0c3-16886e287c6e.jpeg/107x59/quality/80/c-etait-pire-karine-le-marchand-revele-que-le-comportement-de-justine-a-ete-coupe-au-montage-dans-l-amour-est-dans-le-pre.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~3f2c94f7-f3e9-4320-b0c3-16886e287c6e.jpeg/214x118/quality/80/c-etait-pire-karine-le-marchand-revele-que-le-comportement-de-justine-a-ete-coupe-au-montage-dans-l-amour-est-dans-le-pre.jpg 214w"
-            alt="&quot;C&#039;était pire !&quot; : Karine Le Marchand révèle que le comportement de Justine a été coupé au montage dans L&#039;amour est dans le pré"
-            class="  apply-ratio lazyload"
-            >
-    
-                                            
-        <svg class="icon icon-play"
-                    aria-hidden="true"
-                    focusable="false"
-            >
-        <use href="#play"></use>
-    </svg>
-
-            </div>
-
-
-                    </div>
-        <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/228922-cetait-pire-karine-le-marchand-revele-que-le-comportement-de-justine-a-ete-coupe-au-montage-dans-lamour-est-dans-le-pre/" data-wide>
-            &quot;C&#039;était pire !&quot; : Karine Le Marchand révèle que le comportement...
-        </a>
-                <p class="articleCard-date">
-            <span class="articleCard-dateCategory">Tele-realite</span> -
-            <time datetime="2023-11-27 15:49:16+01:00">Aujourd'hui à 15:49</time>
-        </p>
-    </div>
-</figure>
-                    </li>
-                                    <li class="sidebar-newsListItem">
-                        
-
-    
-<figure class="articleCard small" data-wide-target>
-                    <div class="articleCard-image">
-                
-        
-            
-        
-    
-    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
-                                                
-                
-        
-                
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~8126fc05-2042-48a1-a207-841b0bdfdcac.jpeg/107x59/quality/80/focus-point/1026,290/je-ne-veux-plus-voir-ca-dans-mon-cours-malika-benjelloun-star-academy-fait-une-mise-au-point-tendue-a-son-cours-de-danse.jpg"
-            data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~8126fc05-2042-48a1-a207-841b0bdfdcac.jpeg/107x59/quality/80/focus-point/1026,290/je-ne-veux-plus-voir-ca-dans-mon-cours-malika-benjelloun-star-academy-fait-une-mise-au-point-tendue-a-son-cours-de-danse.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~8126fc05-2042-48a1-a207-841b0bdfdcac.jpeg/214x118/quality/80/focus-point/1026,290/je-ne-veux-plus-voir-ca-dans-mon-cours-malika-benjelloun-star-academy-fait-une-mise-au-point-tendue-a-son-cours-de-danse.jpg 214w"
-            alt="&quot;Je ne veux plus voir ça dans mon cours&quot; : Malika Benjelloun (Star Academy) fait une mise au point tendue à son cours de danse"
-            class="  apply-ratio lazyload"
-            >
-    
-                                            
-        <svg class="icon icon-play"
-                    aria-hidden="true"
-                    focusable="false"
-            >
-        <use href="#play"></use>
-    </svg>
-
-            </div>
-
-
-                    </div>
-        <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/228919-je-ne-veux-plus-voir-ca-dans-mon-cours-malika-benjelloun-star-academy-fait-une-mise-au-point-tendue-a-son-cours-de-danse/" data-wide>
-            &quot;Je ne veux plus voir ça dans mon cours&quot; : Malika Benjelloun (Star...
-        </a>
-                <p class="articleCard-date">
-            <span class="articleCard-dateCategory">Tele-realite</span> -
-            <time datetime="2023-11-27 14:00:00+01:00">Aujourd'hui à 14:00</time>
-        </p>
-    </div>
-</figure>
-                    </li>
-                                    <li class="sidebar-newsListItem">
-                        
-
-    
-<figure class="articleCard small" data-wide-target>
-                    <div class="articleCard-image">
-                
-        
-            
-        
-    
-    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
-                                                
-                
-        
-                
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~cfc88aac-edce-4d61-a55d-a2cb50165727.jpeg/107x59/quality/80/j-ai-failli-etre-dans-le-noir-helene-segara-atteinte-d-une-maladie-qui-lui-a-faire-perdre-un-oeil-elle-confie-etre-stable-grace-a-son-traitement.jpg"
-            data-sizes="107px"
-            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~cfc88aac-edce-4d61-a55d-a2cb50165727.jpeg/107x59/quality/80/j-ai-failli-etre-dans-le-noir-helene-segara-atteinte-d-une-maladie-qui-lui-a-faire-perdre-un-oeil-elle-confie-etre-stable-grace-a-son-traitement.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~11~27~cfc88aac-edce-4d61-a55d-a2cb50165727.jpeg/214x118/quality/80/j-ai-failli-etre-dans-le-noir-helene-segara-atteinte-d-une-maladie-qui-lui-a-faire-perdre-un-oeil-elle-confie-etre-stable-grace-a-son-traitement.jpg 214w"
-            alt="&quot;J&#039;ai failli être dans le noir&quot; : Hélène Segara atteinte d&#039;une maladie qui lui a faire perdre un œil, elle confie être &quot;stable&quot; grâce à son traitement"
-            class="  apply-ratio lazyload"
-            >
-    
-                                            
-        <svg class="icon icon-play"
-                    aria-hidden="true"
-                    focusable="false"
-            >
-        <use href="#play"></use>
-    </svg>
-
-            </div>
-
-
-                    </div>
-        <div class="articleCard-content">
-        <a class="articleCard-title" href="https://www.programme.tv/news/actu/228920-jai-failli-etre-dans-le-noir-helene-segara-atteinte-dune-maladie-qui-lui-a-faire-perdre-un-oeil-elle-confie-etre-stable-grace-a-son-traitement/" data-wide>
-            &quot;J&#039;ai failli être dans le noir&quot; : Hélène Segara atteinte d&#039;une maladie...
+        <a class="articleCard-title" href="https://www.programme.tv/news/actu/229132-je-me-suis-mis-a-pleurer-un-ancien-joueur-de-lequipe-de-france-de-football-se-confie-sur-la-depression-qui-la-frappe/" data-wide>
+            &quot;Je me suis mis à pleurer&quot; : un ancien joueur de l&#039;équipe de France...
         </a>
                 <p class="articleCard-date">
             <span class="articleCard-dateCategory">Actu</span> -
-            <time datetime="2023-11-27 13:20:00+01:00">Aujourd'hui à 13:20</time>
+            <time datetime="2023-12-04 17:27:44+01:00">Aujourd'hui à 17:27</time>
+        </p>
+    </div>
+</figure>
+                    </li>
+                                    <li class="sidebar-newsListItem">
+                        
+
+    
+<figure class="articleCard small" data-wide-target>
+                    <div class="articleCard-image">
+                
+        
+            
+        
+    
+    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
+                                                
+                
+        
+                
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            data-src="https://www.programme.tv/imgre/fit/~1~tel~2023~10~22~19150106-5100-48dc-a5c3-9bc64f0de960.jpeg/107x59/quality/80/focus-point/632,395/je-sais-que-tu-m-entends-dounia-coesens-adresse-un-touchant-message-a-marwan-berreni-pour-une-date-chere-a-son-coeur.jpg"
+            data-sizes="107px"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tel~2023~10~22~19150106-5100-48dc-a5c3-9bc64f0de960.jpeg/107x59/quality/80/focus-point/632,395/je-sais-que-tu-m-entends-dounia-coesens-adresse-un-touchant-message-a-marwan-berreni-pour-une-date-chere-a-son-coeur.jpg 107w, https://www.programme.tv/imgre/fit/~1~tel~2023~10~22~19150106-5100-48dc-a5c3-9bc64f0de960.jpeg/214x118/quality/80/focus-point/632,395/je-sais-que-tu-m-entends-dounia-coesens-adresse-un-touchant-message-a-marwan-berreni-pour-une-date-chere-a-son-coeur.jpg 214w"
+            alt="&quot;Je sais que tu m&#039;entends&quot; : Dounia Coesens adresse un touchant message à Marwan Berreni pour une date chère à son coeur"
+            class="  apply-ratio lazyload"
+            >
+    
+                                            
+        <svg class="icon icon-play"
+                    aria-hidden="true"
+                    focusable="false"
+            >
+        <use href="#play"></use>
+    </svg>
+
+            </div>
+
+
+                    </div>
+        <div class="articleCard-content">
+        <a class="articleCard-title" href="https://www.programme.tv/news/series/229125-je-sais-que-tu-mentends-dounia-coesens-adresse-un-touchant-message-a-marwan-berreni-pour-une-date-chere-a-son-coeur/" data-wide>
+            &quot;Je sais que tu m&#039;entends&quot; : Dounia Coesens adresse un touchant message...
+        </a>
+                <p class="articleCard-date">
+            <span class="articleCard-dateCategory">Series</span> -
+            <time datetime="2023-12-04 17:08:02+01:00">Aujourd'hui à 17:08</time>
+        </p>
+    </div>
+</figure>
+                    </li>
+                                    <li class="sidebar-newsListItem">
+                        
+
+    
+<figure class="articleCard small" data-wide-target>
+                    <div class="articleCard-image">
+                
+        
+            
+        
+    
+    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
+                                                
+                
+        
+                
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~28d2aadc-4a15-49ea-8c65-abed851f7e74.png/107x59/quality/80/focus-point/890,456/j-ai-du-etre-opere-d-urgence-franck-fanich-familles-nombreuses-s-ouvre-la-main-en-plein-travaux-les-consequences-sont-dramatiques.jpg"
+            data-sizes="107px"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~28d2aadc-4a15-49ea-8c65-abed851f7e74.png/107x59/quality/80/focus-point/890,456/j-ai-du-etre-opere-d-urgence-franck-fanich-familles-nombreuses-s-ouvre-la-main-en-plein-travaux-les-consequences-sont-dramatiques.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~28d2aadc-4a15-49ea-8c65-abed851f7e74.png/214x118/quality/80/focus-point/890,456/j-ai-du-etre-opere-d-urgence-franck-fanich-familles-nombreuses-s-ouvre-la-main-en-plein-travaux-les-consequences-sont-dramatiques.jpg 214w"
+            alt="&quot;J’ai dû être opéré d’urgence&quot; : Franck Fanich (Familles nombreuses) s’ouvre la main en plein travaux, les conséquences sont dramatiques"
+            class="  apply-ratio lazyload"
+            >
+    
+                                            
+        <svg class="icon icon-play"
+                    aria-hidden="true"
+                    focusable="false"
+            >
+        <use href="#play"></use>
+    </svg>
+
+            </div>
+
+
+                    </div>
+        <div class="articleCard-content">
+        <a class="articleCard-title" href="https://www.programme.tv/news/actu/229123-jai-du-etre-opere-durgence-franck-fanich-familles-nombreuses-souvre-la-main-en-plein-travaux-les-consequences-sont-dramatiques/" data-wide>
+            &quot;J’ai dû être opéré d’urgence&quot; : Franck Fanich (Familles nombreuses)...
+        </a>
+                <p class="articleCard-date">
+            <span class="articleCard-dateCategory">Actu</span> -
+            <time datetime="2023-12-04 16:02:25+01:00">Aujourd'hui à 16:02</time>
+        </p>
+    </div>
+</figure>
+                    </li>
+                                    <li class="sidebar-newsListItem">
+                        
+
+    
+<figure class="articleCard small" data-wide-target>
+                    <div class="articleCard-image">
+                
+        
+            
+        
+    
+    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
+                                                
+                
+        
+                
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            data-src="https://www.programme.tv/imgre/fit/~1~gal~2023~07~23~a26af1bc-b602-4bd7-ab13-7f84f4855022.jpeg/107x59/quality/80/crop-from/top/focus-point/1996,1150/on-est-des-warriors-mimie-mathy-confie-ses-echanges-avec-florent-pagny-durant-leurs-hospitalisations.jpg"
+            data-sizes="107px"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~gal~2023~07~23~a26af1bc-b602-4bd7-ab13-7f84f4855022.jpeg/107x59/quality/80/crop-from/top/focus-point/1996,1150/on-est-des-warriors-mimie-mathy-confie-ses-echanges-avec-florent-pagny-durant-leurs-hospitalisations.jpg 107w, https://www.programme.tv/imgre/fit/~1~gal~2023~07~23~a26af1bc-b602-4bd7-ab13-7f84f4855022.jpeg/214x118/quality/80/crop-from/top/focus-point/1996,1150/on-est-des-warriors-mimie-mathy-confie-ses-echanges-avec-florent-pagny-durant-leurs-hospitalisations.jpg 214w"
+            alt="&quot;On est des warriors&quot; : Mimie Mathy confie ses échanges avec Florent Pagny durant leurs hospitalisations"
+            class="  apply-ratio lazyload"
+            >
+    
+                                            
+        <svg class="icon icon-play"
+                    aria-hidden="true"
+                    focusable="false"
+            >
+        <use href="#play"></use>
+    </svg>
+
+            </div>
+
+
+                    </div>
+        <div class="articleCard-content">
+        <a class="articleCard-title" href="https://www.programme.tv/news/series/229122-on-est-des-warriors-mimie-mathy-confie-ses-echanges-avec-florent-pagny-durant-leurs-hospitalisations/" data-wide>
+            &quot;On est des warriors&quot; : Mimie Mathy confie ses échanges avec Florent...
+        </a>
+                <p class="articleCard-date">
+            <span class="articleCard-dateCategory">Series</span> -
+            <time datetime="2023-12-04 14:59:40+01:00">Aujourd'hui à 14:59</time>
+        </p>
+    </div>
+</figure>
+                    </li>
+                                    <li class="sidebar-newsListItem">
+                        
+
+    
+<figure class="articleCard small" data-wide-target>
+                    <div class="articleCard-image">
+                
+        
+            
+        
+    
+    <div class="pictureTagGenerator  pictureTagGenerator-ratio-16-9">
+                                                
+                
+        
+                
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            data-src="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~549b5599-03c5-45c1-b011-92d236d64bf4.jpeg/107x59/quality/80/excuse-moi-c-est-parti-tout-seul-michael-goldman-star-academy-rappelle-a-l-ordre-tous-les-professeurs-apres-un-ecart-au-reglement.jpg"
+            data-sizes="107px"
+            data-srcset="https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~549b5599-03c5-45c1-b011-92d236d64bf4.jpeg/107x59/quality/80/excuse-moi-c-est-parti-tout-seul-michael-goldman-star-academy-rappelle-a-l-ordre-tous-les-professeurs-apres-un-ecart-au-reglement.jpg 107w, https://www.programme.tv/imgre/fit/~1~tls~2023~12~04~549b5599-03c5-45c1-b011-92d236d64bf4.jpeg/214x118/quality/80/excuse-moi-c-est-parti-tout-seul-michael-goldman-star-academy-rappelle-a-l-ordre-tous-les-professeurs-apres-un-ecart-au-reglement.jpg 214w"
+            alt="&quot;Excuse-moi, c&#039;est parti tout seul&quot; : Michaël Goldman (Star Academy) rappelle à l&#039;ordre tous les professeurs après un écart au règlement"
+            class="  apply-ratio lazyload"
+            >
+    
+                                            
+        <svg class="icon icon-play"
+                    aria-hidden="true"
+                    focusable="false"
+            >
+        <use href="#play"></use>
+    </svg>
+
+            </div>
+
+
+                    </div>
+        <div class="articleCard-content">
+        <a class="articleCard-title" href="https://www.programme.tv/news/tele-realite/229121-excuse-moi-cest-parti-tout-seul-michael-goldman-star-academy-rappelle-a-lordre-tous-les-professeurs-apres-un-ecart-au-reglement/" data-wide>
+            &quot;Excuse-moi, c&#039;est parti tout seul&quot; : Michaël Goldman (Star Academy)...
+        </a>
+                <p class="articleCard-date">
+            <span class="articleCard-dateCategory">Tele-realite</span> -
+            <time datetime="2023-12-04 14:20:33+01:00">Aujourd'hui à 14:20</time>
         </p>
     </div>
 </figure>
@@ -2295,7 +2303,7 @@ Newsletter
         <div class="pushCard">
             <div class="pushCard-item">
                             
-<a href="https://www.programme.tv/autres/jeu-concours-1" title="Tentez de remportez votre vidéoprojecteur M1 VIEWSONIC " target="_blank" rel="noreferrer noopener">
+<a href="https://www.programme.tv/autres/jeu-concours-1" title="Tentez de remportez votre bon d&#039;achat Belaia" target="_blank" rel="noreferrer noopener">
                             
         
             
@@ -2307,9 +2315,9 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4246d203-aa8a-4bea-ac93-8f0be534bf28.gif/animation.gif"
+            data-src="https://www.programme.tv/imgre/original/~1~tls~2023~11~28~f1522360-68a1-4cde-85a8-e6ef1af6edbf.gif/animation.gif"
             data-sizes="300px"
-            data-srcset="https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4246d203-aa8a-4bea-ac93-8f0be534bf28.gif/animation.gif 300w, https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4246d203-aa8a-4bea-ac93-8f0be534bf28.gif/animation.gif 600w"
+            data-srcset="https://www.programme.tv/imgre/original/~1~tls~2023~11~28~f1522360-68a1-4cde-85a8-e6ef1af6edbf.gif/animation.gif 300w, https://www.programme.tv/imgre/original/~1~tls~2023~11~28~f1522360-68a1-4cde-85a8-e6ef1af6edbf.gif/animation.gif 600w"
             alt="encart"
             class="esiCard-image  apply-ratio lazyload"
             >
@@ -2324,7 +2332,7 @@ Newsletter
         <div class="pushCard">
             <div class="pushCard-item">
                             
-<a href="https://www.programme.tv/autres/jeu-concours-2" title="Tentez de remporter votre paire d&#039;écouteurs X-TWIST " target="_blank" rel="noreferrer noopener">
+<a href="https://www.programme.tv/autres/jeu-concours-2" title="Tentez de remporter votre tablette Facilotab" target="_blank" rel="noreferrer noopener">
                             
         
             
@@ -2336,9 +2344,9 @@ Newsletter
         
                 
                                         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-            data-src="https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4225c0b6-41b6-4d6a-b986-addf06441684.gif/animation.gif"
+            data-src="https://www.programme.tv/imgre/original/~1~tls~2023~11~28~7ea4667b-8a42-435d-9e3d-bcf00bed0579.gif/animation.gif"
             data-sizes="300px"
-            data-srcset="https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4225c0b6-41b6-4d6a-b986-addf06441684.gif/animation.gif 300w, https://www.programme.tv/imgre/original/~1~tel~2023~10~31~4225c0b6-41b6-4d6a-b986-addf06441684.gif/animation.gif 600w"
+            data-srcset="https://www.programme.tv/imgre/original/~1~tls~2023~11~28~7ea4667b-8a42-435d-9e3d-bcf00bed0579.gif/animation.gif 300w, https://www.programme.tv/imgre/original/~1~tls~2023~11~28~7ea4667b-8a42-435d-9e3d-bcf00bed0579.gif/animation.gif 600w"
             alt="encart"
             class="esiCard-image  apply-ratio lazyload"
             >
@@ -2359,11 +2367,11 @@ Newsletter
         
         
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveBas " id="ads-845660895">
+        <div class="containerAds ads-paveBas " id="ads-608724175">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Bas_6564f6385bb4a" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
+                            <div id="Pave-Bas_656e2fb849f1d" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Pave-Bas"}'></div>
             
                 
     </div>
@@ -2375,11 +2383,11 @@ Newsletter
         
         
                 <div class="ads-introText">La suite sous cette publicité</div>
-        <div class="containerAds ads-paveBas2 " id="ads-1704305067">
+        <div class="containerAds ads-paveBas2 " id="ads-1555831569">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Pave-Bas2_6564f6385bb8d" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Bas2"}'></div>
+                            <div id="Pave-Bas2_656e2fb849f66" class="ads-core-placer" data-ads-core='{"device":"mobile","type":"Pave-Bas2"}'></div>
             
                 
     </div>
@@ -2397,11 +2405,11 @@ Newsletter
 
         
         
-            <div class="containerAds ads-banniereBasse " id="ads-1346249085">
+            <div class="containerAds ads-banniereBasse " id="ads-759759867">
                             <div class="ads-placeholder">
                                 <span class="ads-text">Publicité</span>
             </div>
-                            <div id="Banniere-Basse_6564f7af35bab" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Basse"}'></div>
+                            <div id="Banniere-Basse_656e32ba6b68d" class="ads-core-placer" data-ads-core='{"device":"tablet,desktop","type":"Banniere-Basse"}'></div>
             
                 
     </div>
@@ -2457,9 +2465,9 @@ Newsletter
     </div>
 </footer>
         
-        <div id="Out-Of-Banner_6564f7af35c19" class="ads-core-placer" data-ads-core='{"type":"Out-Of-Banner"}'></div>
-        <div id="Postitiel_6564f7af35c1d" class="ads-core-placer" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
-        <div id="Habillage-Interstitiel_6564f7af35c20" class="ads-core-placer" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
+        <div id="Out-Of-Banner_656e32ba6b6f5" class="ads-core-placer" data-ads-core='{"type":"Out-Of-Banner"}'></div>
+        <div id="Postitiel_656e32ba6b6f8" class="ads-core-placer" data-ads-core='{"device":"mobile,tablet","type":"Postitiel"}'></div>
+        <div id="Habillage-Interstitiel_656e32ba6b6fa" class="ads-core-placer" data-ads-core='{"device":"desktop","type":"Habillage-Interstitiel"}'></div>
 
                     <div class="ads-core-placer" id="Footer-web_6487294d32e16" data-ads-core='{"device":"mobile","type":"Footer-web"}'></div>
             

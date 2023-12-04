@@ -1,96 +1,96 @@
-   [1]Passer directement au contenu principal
-   (BUTTON) (BUTTON) [2]Microsoft
+   Passer directement au contenu principal
+   (BUTTON) (BUTTON) Microsoft
    (BUTTON) Support (BUTTON)
-   [3]Support
+   Support
    (BUTTON) Support
-     * [4]Accueil
-     * [5]Microsoft 365
-     * [6]Office
+     * Accueil
+     * Microsoft 365
+     * Office
      * (BUTTON) Products
-          + [7]Microsoft 365
-          + [8]Outlook
-          + [9]Microsoft Teams
-          + [10]OneDrive
-          + [11]OneNote
-          + [12]Windows
-          + [13]Microsoft Edge
-          + [14]more ...
+          + Microsoft 365
+          + Outlook
+          + Microsoft Teams
+          + OneDrive
+          + OneNote
+          + Windows
+          + Microsoft Edge
+          + more ...
      * (BUTTON) Devices
-          + [15]Surface
-          + [16]PC Accessories
-          + [17]Mobile
-          + [18]Xbox
-          + [19]PC Gaming
-          + [20]HoloLens
-          + [21]Hardware warranties
+          + Surface
+          + PC Accessories
+          + Mobile
+          + Xbox
+          + PC Gaming
+          + HoloLens
+          + Hardware warranties
      * (BUTTON) Account & billing
-          + [22]Account
-          + [23]Microsoft Store & billing
+          + Account
+          + Microsoft Store & billing
      * (BUTTON) Resources
-          + [24]What's new
-          + [25]Community forums
-          + [26]Microsoft 365 Admins
-          + [27]Small Business Portal
-          + [28]Developer
-          + [29]Education
-          + [30]Report a support scam
+          + What's new
+          + Community forums
+          + Microsoft 365 Admins
+          + Small Business Portal
+          + Developer
+          + Education
+          + Report a support scam
      * (BUTTON) Plus
-     * [31]Acheter Microsoft 365
+     * Acheter Microsoft 365
 
      * (BUTTON) Tout Microsoft
           + Global
-               o [32]Microsoft 365
-               o [33]Teams
-               o [34]Copilot
-               o [35]Windows
-               o [36]Surface
-               o [37]Xbox
-               o [38]Offres Black Friday
-               o [39]TPE & PME
-               o [40]Support technique
+               o Microsoft 365
+               o Teams
+               o Copilot
+               o Windows
+               o Surface
+               o Xbox
+               o Offres spéciales
+               o TPE & PME
+               o Support technique
           + Logiciels (BUTTON) Logiciels
-               o [41]Applications Windows
-               o [42]IA
-               o [43]OneDrive
-               o [44]Outlook
-               o [45]Skype
-               o [46]OneNote
-               o [47]Microsoft Teams
+               o Applications Windows
+               o IA
+               o OneDrive
+               o Outlook
+               o Skype
+               o OneNote
+               o Microsoft Teams
           + PC et appareils (BUTTON) PC et appareils
-               o [48]Découvrir la gamme Xbox
-               o [49]Accessoires
-               o [50]VR et réalité mixte
+               o Découvrir la gamme Xbox
+               o Accessoires
+               o VR et réalité mixte
           + Divertissement (BUTTON) Divertissement
-               o [51]Xbox Game Pass Ultimate
-               o [52]Xbox Live Gold
-               o [53]Xbox et jeux
-               o [54]Jeux PC
-               o [55]Jeux pour Windows
-               o [56]Films et TV
+               o Xbox Game Pass Ultimate
+               o Xbox Live Gold
+               o Xbox et jeux
+               o Jeux PC
+               o Jeux pour Windows
+               o Films et TV
           + Entreprises (BUTTON) Entreprises
-               o [57]Microsoft Cloud
-               o [58]Sécurité Microsoft
-               o [59]Azure
-               o [60]Dynamics 365
-               o [61]Microsoft 365 pour les entreprises
-               o [62]Microsoft Industry
-               o [63]Microsoft Power Platform
-               o [64]Windows 365
+               o Microsoft Cloud
+               o Sécurité Microsoft
+               o Azure
+               o Dynamics 365
+               o Microsoft 365 pour les entreprises
+               o Microsoft Industry
+               o Microsoft Power Platform
+               o Windows 365
           + Développeurs & IT (BUTTON) Développeurs & IT
-               o [65]Centre pour les développeurs
-               o [66]Documentation
-               o [67]Microsoft Learn
-               o [68]Microsoft Tech Community
-               o [69]Place de marché Azure
-               o [70]AppSource
-               o [71]Visual Studio
+               o Centre pour les développeurs
+               o Documentation
+               o Microsoft Learn
+               o Microsoft Tech Community
+               o Place de marché Azure
+               o AppSource
+               o Visual Studio
           + Autres (BUTTON) Autres
-               o [72]Microsoft Rewards
-               o [73]Téléchargements gratuits et pour la sécurité
-               o [74]Éducation
-               o [75]Cartes cadeaux
-               o [76]Licences
-          + [77]Vue plan de site
+               o Microsoft Rewards
+               o Téléchargements gratuits et pour la sécurité
+               o Éducation
+               o Cartes cadeaux
+               o Licences
+          + Vue plan de site
 
    ____________________ (BUTTON) Rechercher Demander de l’aide
 
@@ -104,42 +104,42 @@
    Sélectionnez un autre compte.
    Vous avez plusieurs comptes
    Choisissez le compte avec lequel vous voulez vous connecter.
-   [78]Education
-   [79]Devoirs
-   [80]Concepts de base
-   [81]Concepts de base
+   Education
+   Devoirs
+   Concepts de base
+   Concepts de base
    Créer un devoir dans Microsoft Teams
 
 Créer un devoir dans Microsoft Teams
 
-   Microsoft Teams pour l’Éducation [82]Plus...[83]Moins
+   Microsoft Teams pour l’Éducation Plus...Moins
 
    Créez des devoirs pour vos étudiants dans Microsoft Teams. Gérez les
    chronologies de devoirs, ajoutez des instructions, créez des ressources
    à rendre, etc.
 
-   Remarque : Devoirs est [84]uniquement disponible dans les équipes de
+   Remarque : Devoirs est uniquement disponible dans les équipes de
    classe. Vous pouvez affecter des devoirs à des classes d’un maximum de
    1 000 classes. Les classes supérieures à 300 ne peuvent pas utiliser un
    bloc-notes pour la classe ou Makecode.
 
 Contenu de cet article
 
-   [85]Créer un devoir
+   Créer un devoir
 
-   [86]Titre et catégorie
+   Titre et catégorie
 
-   [87]Instructions et pièces jointes
+   Instructions et pièces jointes
 
-   [88]Points, rubriques et notation
+   Points, rubriques et notation
 
-   [89]Devoirs à des étudiants ou à des groupes
+   Devoirs à des étudiants ou à des groupes
 
-   [90]Dates d’échéance et planification
+   Dates d’échéance et planification
 
-   [91]Calendriers
+   Calendriers
 
-   [92]Affecter, enregistrer ou ignorer
+   Affecter, enregistrer ou ignorer
 
 Créer un devoir
 
@@ -235,7 +235,7 @@ Instructions et pièces jointes
        fichier à partir de votre appareil ou choisissez l’une des autres
        options définies par votre administrateur, comme MakeCode.
        Remarque : Si vous attribuez une page bloc-notes pour la classe,
-       vérifiez quelle [93]version de OneNote vos étudiants utilisent pour
+       vérifiez quelle version de OneNote vos étudiants utilisent pour
        vous assurer que leurs pages de devoir se verrouilleront une fois
        la date d’échéance du devoir atteinte.
 
@@ -246,13 +246,13 @@ Instructions et pièces jointes
    vidéo à distribuer à vos étudiants.
 
    Remarque : Sélectionnez Applications pour attacher du contenu d’une
-   application au devoir. Les administrateurs peuvent [94]gérer les
+   application au devoir. Les administrateurs peuvent gérer les
    applications Teams dans le Centre d’administration Microsoft Teams.
 
 
 
-   Sélectionnez Accélérateurs d’apprentissage pour ajouter [95]progression
-   de la lecture, [96]Progrès en recherche et d’autres accélérateurs
+   Sélectionnez Accélérateurs d’apprentissage pour ajouter progression de
+   la lecture, Progrès en recherche et d’autres accélérateurs
    d’apprentissage au devoir.
 
 
@@ -281,7 +281,7 @@ Instructions et pièces jointes
 
 Points, rubriques et notation
 
-   Vous pouvez sélectionner le schéma de notation, les [97]catégories de
+   Vous pouvez sélectionner le schéma de notation, les catégories de
    notation et les points que l’affectation vaut.
 
    Si vous avez configuré la classe pour utiliser les catégories de
@@ -292,20 +292,20 @@ Points, rubriques et notation
    choisir n'importe quelle échelle de notation, y compris de nombres
    entiers, par exemple 100, et définir votre dénominateur.
    Exemples : 88/100 ou décimales 3,7/4,0.
-     * Sélectionnez Ajouter une rubrique pour [98]ajouter une rubrique.
+     * Sélectionnez Ajouter une rubrique pour ajouter une rubrique.
 
 
 
-   Sélectionnez [99]Gérer les catégories de notation pour créer ou
-   modifier les catégories de notation pour la classe.
+   Sélectionnez Gérer les catégories de notation pour créer ou modifier
+   les catégories de notation pour la classe.
 
    Volet Notation dans Affectations, montrant les catégories de notation
    développées
 
 Devoirs à des étudiants ou à des groupes
 
-   Sélectionnez plusieurs classes ou les [100]étudiants individuels ou
-   groupes d’étudiants d’une classe pour l’attribution du devoir.
+   Sélectionnez plusieurs classes ou les étudiants individuels ou groupes
+   d’étudiants d’une classe pour l’attribution du devoir.
 
    Par défaut, seuls les étudiants qui sont actuellement dans votre classe
    recevront ce devoir. Pour effectuer cette action, sélectionnez Modifier
@@ -340,7 +340,7 @@ Calendriers
    Vous pouvez choisir d’ajouter ce devoir à votre calendrier dans
    Outlook, les calendriers des étudiants et d’autres enseignants ou
    membres du personnel de votre équipe de classe. Définissez cette
-   préférence pour tous les devoirs dans [101]Paramètres de devoirs.
+   préférence pour tous les devoirs dans Paramètres de devoirs.
 
    En regard d’Ajouter une affectation aux calendriers, sélectionnez la
    liste déroulante et choisissez l’une des options suivantes :
@@ -384,9 +384,9 @@ Affecter, enregistrer ou ignorer
 
    Remarques :
      * Pour publier des notifications d’affectation sur un canal,
-       assurez-vous que la publication du bot est activée. [102]Cette page
-       vous permet de vérifierou de demander [103]de l'aide à votre
-       administrateur informatique.
+       assurez-vous que la publication du bot est activée. Cette page vous
+       permet de vérifierou de demander de l'aide à votre administrateur
+       informatique.
      * Les devoirs sont publiés dans les canaux visibles par tous les
        étudiants. Les canaux privés n’apparaissent pas dans cette étape.
      * Si vous avez sélectionné plusieurs classes, sélectionnez Définir
@@ -398,7 +398,7 @@ Affecter, enregistrer ou ignorer
    de votre devoir en l’affectant aux étudiants.
 
    Remarque : Si votre établissement scolaire utilise Turnitin, vous
-   pouvez synchroniser les retours de devoirs avec [104]Turnitin.
+   pouvez synchroniser les retours de devoirs avec Turnitin.
 
     1. Affecter publiera immédiatement le devoir et vos étudiants seront
        informés du nouveau devoir le jour que vous avez spécifié et la
@@ -428,21 +428,21 @@ Affecter, enregistrer ou ignorer
 
 En savoir plus
 
-   [105]Créer un devoir de groupe
+   Créer un devoir de groupe
 
-   [106]Modifier un devoir
+   Modifier un devoir
 
-   [107]Enregistrer un devoir en tant que brouillon
+   Enregistrer un devoir en tant que brouillon
 
-   [108]Noter, retourner et réattribuer les devoirs
+   Noter, retourner et réattribuer les devoirs
 
 Ressources supplémentaires pour les enseignants
 
-   [109]Formation
+   Formation
 
-   [110]Demander à la communauté
+   Demander à la communauté
 
-   [111]Facebook [112]LinkedIn [113]E-mail
+   Facebook LinkedIn E-mail
 
 Besoin d’aide ?
 
@@ -450,39 +450,38 @@ Besoin d’aide ?
 
 Vous voulez plus d’options ?
 
-   [114]Découvrir[115] Communauté
-   [116]
+   Découvrir Communauté
+   
 
    Explorez les avantages de l’abonnement, parcourez les cours de
    formation, découvrez comment sécuriser votre appareil, etc.
 
-   [117]Avantages de l’abonnement Microsoft 365
+   Avantages de l’abonnement Microsoft 365
 
-   [118]Formation Microsoft 365
+   Formation Microsoft 365
 
-   [119]Sécurité Microsoft
+   Sécurité Microsoft
 
-   [120]Centre d’accessibilité
+   Centre d’accessibilité
 
    Les communautés vous permettent de poser des questions et d'y répondre,
    de donner vos commentaires et de bénéficier de l'avis d'experts aux
    connaissances approfondies.
 
-   [121]Demandez à la Communauté Microsoft
+   Demandez à la Communauté Microsoft
 
-   [122]Communauté technique Microsoft
+   Communauté technique Microsoft
 
-   [123]Windows Insiders
+   Windows Insiders
 
-   [124]Microsoft 365 Insiders
+   Microsoft 365 Insiders
 
 Ces informations vous ont-elles été utiles ?
 
    (buttonYes) Oui (buttonNo) Non
-   Merci ! Avez-vous d’autres commentaires ? Plus vous nous fournirez de
-   détails, plus nous serons en mesure de vous aider. Pouvez-vous nous
-   aider à nous améliorer ? (Plus vous nous fournirez de détails, plus
-   nous serons en mesure de vous aider.)
+   Merci. Avez-vous d’autres commentaires à partager avec Microsoft ?
+   Pouvez-vous nous aider à nous améliorer ? (Envoyez des commentaires à
+   Microsoft pour que nous puissions vous aider.)
 
    Dans quelle mesure êtes-vous satisfait(e) de la qualité de la langue ?
 
@@ -509,266 +508,81 @@ Ces informations vous ont-elles été utiles ?
    ________________________________________
    ________________________________________
    (BUTTON) Envoyer les commentaires
+   En cliquant sur Envoyer, vos commentaires seront utilisés pour
+   améliorer les produits et services de Microsoft. Votre administrateur
+   informatique sera en mesure de collecter ces données. Déclaration de
+   confidentialité.
 
 Nous vous remercions de vos commentaires.
 
-   [125]×
+   ×
    Nouveautés
-     * [126]Surface Laptop Studio 2
-     * [127]Surface Laptop Go 3
-     * [128]Surface Pro 9
-     * [129]Surface Laptop 5
-     * [130]Surface Studio 2+
-     * [131]Microsoft 365
-     * [132]Applications Windows 11
+     * Surface Laptop Studio 2
+     * Surface Laptop Go 3
+     * Surface Pro 9
+     * Surface Laptop 5
+     * Surface Studio 2+
+     * Microsoft 365
+     * Applications Windows 11
 
    Microsoft Store
-     * [133]Profil du compte
-     * [134]Centre de téléchargement
-     * [135]Support du Microsoft Store
-     * [136]Retours
-     * [137]Suivi des commandes
-     * [138]Recycler
-     * [139]Garanties
+     * Profil du compte
+     * Centre de téléchargement
+     * Support du Microsoft Store
+     * Retours
+     * Suivi des commandes
+     * Recycler
+     * Garanties
 
    Éducation
-     * [140]Microsoft Éducation
-     * [141]Appareils pour l’enseignement
-     * [142]Microsoft Teams pour l’éducation
-     * [143]Microsoft 365 Éducation
-     * [144]Office Éducation
-     * [145]Formation et développement des enseignants
-     * [146]Offres pour étudiants et parents
-     * [147]Azure pour les étudiants
+     * Microsoft Éducation
+     * Appareils pour l’enseignement
+     * Microsoft Teams pour l’éducation
+     * Microsoft 365 Éducation
+     * Office Éducation
+     * Formation et développement des enseignants
+     * Offres pour étudiants et parents
+     * Azure pour les étudiants
 
    Entreprises
-     * [148]Microsoft Cloud
-     * [149]Sécurité Microsoft
-     * [150]Azure
-     * [151]Dynamics 365
-     * [152]Microsoft 365
-     * [153]Microsoft Teams
-     * [154]TPE & PME
+     * Microsoft Cloud
+     * Sécurité Microsoft
+     * Azure
+     * Dynamics 365
+     * Microsoft 365
+     * Microsoft Teams
+     * TPE & PME
 
    Développeur et IT
-     * [155]Centre pour les développeurs
-     * [156]Documentation
-     * [157]Microsoft Learn
-     * [158]Microsoft Tech Community
-     * [159]Place de marché Azure
-     * [160]AppSource
-     * [161]Microsoft Power Platform
-     * [162]Visual Studio
+     * Centre pour les développeurs
+     * Documentation
+     * Microsoft Learn
+     * Microsoft Tech Community
+     * Place de marché Azure
+     * AppSource
+     * Microsoft Power Platform
+     * Visual Studio
 
    Société
-     * [163]Emploi
-     * [164]Actualités de la société
-     * [165]Confidentialité chez Microsoft
-     * [166]Investisseurs
-     * [167]Durabilité
+     * Emploi
+     * Actualités de la société
+     * Confidentialité chez Microsoft
+     * Investisseurs
+     * Durabilité
 
-   [168]Français (France) Vos choix de confidentialité Vos choix de
+   Français (France) Vos choix de confidentialité Vos choix de
    confidentialité
-     * [169]Contacter Microsoft
-     * [170]Gérer ou annuler l’abonnement
-     * [171]Mentions légales et Informations consommateurs
-     * [172]Confidentialité
-     * [173]Gérer les cookies
-     * [174]Conditions d'utilisation
-     * [175]Conditions générales de vente
-     * [176]Marques
-     * [177]À propos de nos annonces
-     * [178]EU Compliance DoCs
-     * [179]Accessibilité
+     * Contacter Microsoft
+     * Gérer ou annuler l’abonnement
+     * Mentions légales et Informations consommateurs
+     * Confidentialité
+     * Gérer les cookies
+     * Conditions d'utilisation
+     * Conditions générales de vente
+     * Marques
+     * À propos de nos annonces
+     * EU Compliance DoCs
+     * Accessibilité
      * © Microsoft 2023
 
-   IFRAME: [180]iframeOP
-
-Références
-
-   Liens visibles :
-   1. javascript:void(0)
-   2. https://www.microsoft.com/
-   3. https://support.microsoft.com/en-us
-   4. https://support.microsoft.com/en-us
-   5. https://www.microsoft.com/microsoft-365?ocid=cmmttvzgpuy
-   6. https://www.microsoft.com/microsoft-365/microsoft-office?ocid=cmml7tr0rib
-   7. https://support.microsoft.com/en-us/microsoft-365
-   8. https://support.microsoft.com/en-us/outlook
-   9. https://support.microsoft.com/en-us/teams
-  10. https://support.microsoft.com/en-us/onedrive
-  11. https://support.microsoft.com/en-us/onenote
-  12. https://support.microsoft.com/en-us/windows
-  13. https://support.microsoft.com/en-us/microsoft-edge
-  14. https://support.microsoft.com/en-us/all-products
-  15. https://support.microsoft.com/en-us/surface
-  16. https://support.microsoft.com/en-us/pc-accessories
-  17. https://support.microsoft.com/en-us/mobile-devices
-  18. https://support.xbox.com/
-  19. https://support.xbox.com/help/games-apps/my-games-apps/all-about-pc-gaming
-  20. https://docs.microsoft.com/hololens/
-  21. https://support.microsoft.com/en-us/warranty
-  22. https://support.microsoft.com/en-us/account
-  23. https://support.microsoft.com/en-us/microsoft-store-and-billing
-  24. https://support.microsoft.com/en-us/whats-new
-  25. https://answers.microsoft.com/lang
-  26. https://portal.office.com/AdminPortal#/support
-  27. https://go.microsoft.com/fwlink/?linkid=2224585
-  28. https://developer.microsoft.com/
-  29. https://support.microsoft.com/en-us/education
-  30. https://www.microsoft.com/reportascam/
-  31. https://go.microsoft.com/fwlink/?linkid=849747
-  32. https://www.microsoft.com/microsoft-365
-  33. https://www.microsoft.com/microsoft-teams/group-chat-software
-  34. https://copilot.microsoft.com/
-  35. https://www.microsoft.com/fr-fr/windows/
-  36. https://www.microsoft.com/surface
-  37. https://www.xbox.com/
-  38. https://www.microsoft.com/fr-fr/store/b/sale
-  39. https://www.microsoft.com/fr-fr/store/b/business
-  40. https://support.microsoft.com/fr-fr
-  41. https://www.microsoft.com/fr-fr/store/apps/windows?icid=CNavAppsWindowsApps
-  42. https://www.microsoft.com/ai
-  43. https://onedrive.live.com/about/fr-fr/
-  44. https://outlook.live.com/owa/
-  45. https://www.skype.com/fr/
-  46. https://www.onenote.com/?omkt=fr-FR
-  47. https://www.microsoft.com/microsoft-teams/group-chat-software
-  48. https://www.microsoft.com/fr-fr/store/b/xbox?icid=CNavDevicesXbox
-  49. https://www.microsoft.com/fr-fr/store/b/accessories?icid=CNavDevicesAccessories
-  50. https://www.microsoft.com/fr-fr/store/b/virtualreality?icid=CNavVirtualReality
-  51. https://www.microsoft.com/fr-fr/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate
-  52. https://www.microsoft.com/fr-fr/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold
-  53. https://www.microsoft.com/fr-fr/store/top-paid/games/xbox
-  54. https://www.microsoft.com/store/games/windows?icid=CNavGamesWindowsGames
-  55. https://www.microsoft.com/store/games/windows?icid=TopNavWindowsGames
-  56. https://www.microsoft.com/fr-fr/store/movies-and-tv?icid=TopNavMoviesAndTv
-  57. https://www.microsoft.com/fr-fr/microsoft-cloud
-  58. https://www.microsoft.com/fr-fr/security
-  59. https://azure.microsoft.com/fr-fr/
-  60. https://dynamics.microsoft.com/fr-fr/
-  61. https://www.microsoft.com/fr-fr/microsoft-365/business
-  62. https://www.microsoft.com/fr-fr/industry
-  63. https://powerplatform.microsoft.com/fr-fr/
-  64. https://www.microsoft.com/fr-fr/windows-365
-  65. https://developer.microsoft.com/fr-fr/
-  66. https://learn.microsoft.com/docs/
-  67. https://learn.microsoft.com/
-  68. https://techcommunity.microsoft.com/
-  69. https://azuremarketplace.microsoft.com/fr-fr/
-  70. https://appsource.microsoft.com/fr-fr/
-  71. https://visualstudio.microsoft.com/
-  72. https://www.microsoft.com/rewards
-  73. https://www.microsoft.com/fr-fr/download
-  74. https://www.microsoft.com/fr-fr/education?icid=CNavMSCOML0_Studentsandeducation
-  75. https://www.microsoft.com/fr-fr/store/b/gift-cards
-  76. https://www.microsoft.com/licensing/
-  77. https://www.microsoft.com/fr-fr/sitemap.aspx
-  78. https://support.microsoft.com/fr-fr/education
-  79. https://support.microsoft.com/fr-fr/topic/5d510e8b-fd8e-4393-a5e1-9714e3872fb5
-  80. https://support.microsoft.com/fr-fr/topic/5d510e8b-fd8e-4393-a5e1-9714e3872fb5#ID0EBD=The_basics
-  81. https://support.microsoft.com/fr-fr/topic/5d510e8b-fd8e-4393-a5e1-9714e3872fb5#ID0EBD=The_basics
-  82. javascript:/
-  83. javascript:/
-  84. https://support.microsoft.com/fr-fr/topic/choisir-un-type-d-équipe-à-des-fins-de-collaboration-dans-microsoft-teams-0a971053-d640-4555-9fd7-f785c2b99e67
-  85. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_new
-  86. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_title
-  87. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_instructions
-  88. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_points
-  89. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_groups
-  90. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_due
-  91. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_calendars
-  92. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be#bkmk_assign
-  93. https://support.microsoft.com/fr-fr/topic/utiliser-le-verrouillage-de-page-dans-le-bloc-notes-onenote-pour-la-classe-c67b4b07-fd37-45f9-bd25-6ab7804ee97a
-  94. https://docs.microsoft.com/MicrosoftTeams/manage-apps
-  95. https://support.microsoft.com/fr-fr/topic/démarrage-du-progrès-en-lecture-dans-teams-7617c11c-d685-4cb7-8b75-3917b297c407
-  96. https://support.microsoft.com/fr-fr/topic/progrès-en-recherche-en-teams-pour-l-éducation-0a6154de-5024-4871-885c-ee8469d5dd27
-  97. https://support.microsoft.com/fr-fr/topic/configurer-des-catégories-de-notation-pondérées-dans-les-affectations-teams-d0915845-7292-458a-b339-16686cc48a1a
-  98. https://support.microsoft.com/fr-fr/topic/créer-et-gérer-des-rubriques-de-notation-dans-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca
-  99. https://support.microsoft.com/fr-fr/topic/configurer-des-catégories-de-notation-pondérées-dans-les-affectations-teams-d0915845-7292-458a-b339-16686cc48a1a
- 100. https://support.microsoft.com/fr-fr/topic/créer-des-devoirs-de-groupe-ou-affectation-à-des-étudiants-individuels-37809738-57e6-4176-86c5-751adfe0e03a
- 101. https://support.microsoft.com/fr-fr/topic/régler-les-paramètres-des-devoirs-dans-votre-équipe-de-classe-05bb3b89-1cdf-415a-b6c7-44add0376a77
- 102. https://support.microsoft.com/fr-fr/office/modifier-les-rôles-et-paramètres-de-modérateur-dans-un-canal-dans-microsoft-teams-6ac54758-3440-4f6a-9bd5-cebf97cb7ea6
- 103. https://docs.microsoft.com/microsoftteams/manage-channel-moderation-in-teams
- 104. https://support.microsoft.com/fr-fr/topic/utiliser-turnitin-avec-microsoft-teams-24c753ca-d75c-41d7-a6c0-1976cfe30093
- 105. https://support.microsoft.com/fr-fr/topic/créer-des-devoirs-de-groupe-ou-affectation-à-des-étudiants-individuels-37809738-57e6-4176-86c5-751adfe0e03a
- 106. https://support.microsoft.com/fr-fr/topic/modifier-un-devoir-dans-microsoft-teams-382cf4f0-0325-421e-9c7a-6099bd3b5d23
- 107. https://support.microsoft.com/fr-fr/topic/enregistrer-un-devoir-comme-brouillon-dans-microsoft-teams-fed665a0-ddc5-4142-9694-36287f10d76e
- 108. https://support.microsoft.com/fr-fr/topic/noter-retourner-et-réattribuer-les-devoirs-63e5efdd-be09-47f0-87ea-e8e4bcb45aa4
- 109. https://education.microsoft.com/
- 110. https://answers.microsoft.com/lang/msoffice/forum/msoffice_o365edu
- 111. https://www.facebook.com/sharer.php?u=https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be
- 112. https://linkedin.com/shareArticle?mini=true&url=https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be&title=Créer un devoir dans Microsoft Teams
- 113. mailto:///?subject=Je pense que vous pourriez être intéressé par ce modèle : Créer un devoir dans Microsoft Teams&body=Créer un devoir dans Microsoft Teams https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be
- 114. javascript:/
- 115. javascript:/
- 116. javascript:/
- 117. https://www.microsoft.com/microsoft-365?ocid=cmmg4dr5b7t
- 118. https://support.microsoft.com/fr-fr/training
- 119. https://support.microsoft.com/fr-fr/security
- 120. https://support.microsoft.com/fr-fr/accessibility
- 121. https://answers.microsoft.com/
- 122. https://techcommunity.microsoft.com/
- 123. https://insider.windows.com/
- 124. https://insider.office.com/
- 125. javascript:/
- 126. https://www.microsoft.com/fr-fr/d/Surface-Laptop-Studio-2/8rqr54krf1dz
- 127. https://www.microsoft.com/fr-fr/d/Surface-Laptop-Go-3/8p0wwgj6c6l2
- 128. https://www.microsoft.com/fr-fr/d/surface-pro-9/93VKD8NP4FVK
- 129. https://www.microsoft.com/fr-fr/d/surface-laptop-5/8XN49V61S1BN
- 130. https://www.microsoft.com/fr-fr/d/surface-studio-2plus/8VLFQC3597K4
- 131. https://www.microsoft.com/microsoft-365
- 132. https://www.microsoft.com/windows/windows-11-apps
- 133. https://account.microsoft.com/
- 134. https://www.microsoft.com/fr-fr/download
- 135. https://go.microsoft.com/fwlink/?linkid=2139749
- 136. https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x40C
- 137. https://account.microsoft.com/orders
- 138. https://www.microsoft.com/fr-fr/store/b/recycling?icid=GlobalFooterNav
- 139. https://www.microsoft.com/fr-fr/store/b/aboutwarranties?icid=GlobalFooterNav
- 140. https://www.microsoft.com/fr-fr/education
- 141. https://www.microsoft.com/fr-fr/education/devices/overview
- 142. https://www.microsoft.com/fr-fr/education/products/teams
- 143. https://www.microsoft.com/fr-fr/education/buy-license/microsoft365
- 144. https://www.microsoft.com/fr-fr/education/products/office
- 145. https://education.microsoft.com/
- 146. https://www.microsoft.com/fr-fr/store/b/student
- 147. https://azure.microsoft.com/fr-fr/free/students/
- 148. https://www.microsoft.com/fr-fr/microsoft-cloud
- 149. https://www.microsoft.com/fr-fr/security
- 150. https://azure.microsoft.com/fr-fr/
- 151. https://dynamics.microsoft.com/fr-fr/
- 152. https://www.microsoft.com/fr-fr/microsoft-365/business/
- 153. https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software
- 154. https://www.microsoft.com/fr-fr/store/b/business
- 155. https://developer.microsoft.com/fr-fr/
- 156. https://learn.microsoft.com/docs/
- 157. https://learn.microsoft.com/
- 158. https://techcommunity.microsoft.com/
- 159. https://azuremarketplace.microsoft.com/fr-fr/
- 160. https://appsource.microsoft.com/fr-fr/
- 161. https://powerplatform.microsoft.com/fr-fr/
- 162. https://visualstudio.microsoft.com/
- 163. https://careers.microsoft.com/
- 164. https://news.microsoft.com/fr-fr
- 165. https://privacy.microsoft.com/fr-fr
- 166. https://www.microsoft.com/investor/default.aspx
- 167. https://www.microsoft.com/fr-fr/sustainability/
- 168. https://support.microsoft.com/fr-fr/worldwide
- 169. https://support.microsoft.com/contactus
- 170. https://account.microsoft.com/services?ref=msftfooteramc
- 171. https://www.microsoft.com/fr-fr/store/b/imprint
- 172. https://go.microsoft.com/fwlink/?LinkId=521839
- 173. https://support.microsoft.com/fr-fr/topic/créer-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be
- 174. https://go.microsoft.com/fwlink/?LinkID=206977
- 175. https://www.microsoft.com/fr-fr/storedocs/terms-of-sale
- 176. https://go.microsoft.com/fwlink/?linkid=2196228
- 177. https://choice.microsoft.com/
- 178. https://www.microsoft.com/en-ie/eucompliancedoc/default.aspx
- 179. https://go.microsoft.com/fwlink/?linkid=2121428
- 180. https://support.microsoft.com/fr-fr/authentication/silentsignin?ru=/fr-fr/silentsigninhandler
-
-   Liens cachés :
- 182. javascript:void(0)
- 183. https://aka.ms/yourcaliforniaprivacychoices
- 184. https://aka.ms/yourcaliforniaprivacychoices
+   IFRAME: iframeOP

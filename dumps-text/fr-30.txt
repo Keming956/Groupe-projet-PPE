@@ -1,105 +1,99 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-NCF2KZW
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NCF2KZW
 
-   [2]Aller au contenu
-
-   [3]BLACK FRIDAY : -20% sur votre abonnement de soutien scolaire en
-   ligne !
-
-   [4]BLACK FRIDAY : -20% sur votre abonnement de soutien scolaire en
-   ligne !
-   [5]myMaxicours
-   [6]S'abonner Connexion
-   [7]picto telephone 01 49 08 38 00
+   Aller au contenu
+   myMaxicours
+   S'abonner Connexion
+   picto telephone 01 49 08 38 00
    (BUTTON)
-     * [8]Soutien scolaire en ligne (BUTTON)
-          + [9]Primaire
-               o [10]CP
-               o [11]CE1
-               o [12]CE2
-               o [13]CM1
-               o [14]CM2
-          + [15]Collège
-               o [16]6^e
-               o [17]5^e
-               o [18]4^e
-               o [19]3^e
-          + [20]Lycée
-               o [21]2^de
-               o [22]1^re
-               o [23]Terminale
-               o [24]1re techno
-               o [25]Terminale techno
-               o [26]2^de pro
-               o [27]1^re pro
-               o [28]Terminale pro
+     * Soutien scolaire en ligne (BUTTON)
+          + Primaire
+               o CP
+               o CE1
+               o CE2
+               o CM1
+               o CM2
+          + Collège
+               o 6^e
+               o 5^e
+               o 4^e
+               o 3^e
+          + Lycée
+               o 2^de
+               o 1^re
+               o Terminale
+               o 1re techno
+               o Terminale techno
+               o 2^de pro
+               o 1^re pro
+               o Terminale pro
      *
-     * [29]Profs en ligne (BUTTON)
+     * Profs en ligne (BUTTON)
           + Une aide aux devoirs par matière
                o Mathématiques
                o Français
-               o [30]Anglais
-               o [31]SVT
-               o [32]Physique Chimie
-               o [33]Histoire
-               o [34]Géographie
-               o [35]Philosophie
+               o Anglais
+               o SVT
+               o Physique Chimie
+               o Histoire
+               o Géographie
+               o Philosophie
      *
-     * [36]Les ateliers des parents (BUTTON)
+     * Les ateliers des parents (BUTTON)
           + Des ateliers adaptés à l'âge de vos enfants
                o 6-11 ANS
                o 12-15 ANS
                o 16-18 ANS
      *
-     * [37]Qui sommes-nous ?
+     * Qui sommes-nous ?
      *
 
-   [38]myMaxicours
+   myMaxicours
    (BUTTON)
-   [39]S'abonner Connexion
-   [40]picto telephone 01 49 08 38 00
-     * [41]Soutien scolaire en ligne (BUTTON)
-          + [42]Primaire
-               o [43]CP
-               o [44]CE1
-               o [45]CE2
-               o [46]CM1
-               o [47]CM2
-          + [48]Collège
-               o [49]6^e
-               o [50]5^e
-               o [51]4^e
-               o [52]3^e
-          + [53]Lycée
-               o [54]2^de
-               o [55]1^re
-               o [56]Terminale
-               o [57]1re techno
-               o [58]Terminale techno
-               o [59]2^de pro
-               o [60]1^re pro
-               o [61]Terminale pro
+   S'abonner Connexion
+   picto telephone 01 49 08 38 00
+     * Soutien scolaire en ligne (BUTTON)
+          + Primaire
+               o CP
+               o CE1
+               o CE2
+               o CM1
+               o CM2
+          + Collège
+               o 6^e
+               o 5^e
+               o 4^e
+               o 3^e
+          + Lycée
+               o 2^de
+               o 1^re
+               o Terminale
+               o 1re techno
+               o Terminale techno
+               o 2^de pro
+               o 1^re pro
+               o Terminale pro
      *
-     * [62]Profs en ligne (BUTTON)
+     * Profs en ligne (BUTTON)
           + Une aide aux devoirs par matière
                o Mathématiques
                o Français
-               o [63]Anglais
-               o [64]SVT
-               o [65]Physique Chimie
-               o [66]Histoire
-               o [67]Géographie
-               o [68]Philosophie
+               o Anglais
+               o SVT
+               o Physique Chimie
+               o Histoire
+               o Géographie
+               o Philosophie
      *
-     * [69]Les ateliers des parents (BUTTON)
+     * Les ateliers des parents (BUTTON)
           + Des ateliers adaptés à l'âge de vos enfants
                o 6-11 ANS
                o 12-15 ANS
                o 16-18 ANS
      *
-     * [70]Qui sommes-nous ?
+     * Qui sommes-nous ?
      *
 
-   [71]Lycée   >   [72]Terminale   >   [73]Philosophie   >   Le devoir
+   Lycée   >   Terminale   >   Philosophie   >   Le devoir
 
 Le devoir
 
@@ -204,7 +198,7 @@ Le devoir
    Vous avez déjà mis une note à ce cours.
 
    Découvrez les autres cours offerts par Maxicours !
-   [74]Découvrez Maxicours
+   Découvrez Maxicours
 
    Comment as-tu trouvé ce cours ?
 
@@ -220,7 +214,7 @@ Le devoir
 
    N'hésite pas à nous écrire pour nous faire part de tes suggestions
    d'amélioration
-   [75]Contacte-nous
+   Contacte-nous
 
    Puisque tu as trouvé ce cours utile
 
@@ -299,7 +293,7 @@ associés :
    caractère personnel soient traitées par SEJER, sous la marque
    myMaxicours, pour recevoir les réponses du quiz et le récapitulatif du
    cours. Pour en savoir plus sur la gestion de vos données et vos droits,
-   vous pouvez consulter [76]notre charte.
+   vous pouvez consulter notre charte.
    [ ] J’accepte de recevoir les actualités et des communications de la
    part de myMaxicours.
 
@@ -307,18 +301,18 @@ associés :
    notre newsletter. Vous pourrez vous désinscrire à tout moment, à
    travers le lien de désinscription présent dans chaque newsletter. Pour
    en savoir plus sur la gestion de vos données personnelles et pour
-   exercer vos droits, vous pouvez consulter [77]notre charte.
+   exercer vos droits, vous pouvez consulter notre charte.
    (BUTTON) Envoyer
 
    Une erreur s'est produite, veuillez ré-essayer
 
    Consultez votre boite email, vous y trouverez vos résultats de quiz!
 
-[78]Profs en ligne
+Profs en ligne
 
    [ProfEnLigne@2x-1.png] [ProfEnLigne@2x-1.png] [CoursVideo@2x.png]
    [ExercicesCorriges@2x.png] [Examens@2x.png]
-   [79]S'abonner
+   S'abonner
 
 Découvrez le soutien scolaire en ligne avec myMaxicours
 
@@ -327,7 +321,7 @@ Découvrez le soutien scolaire en ligne avec myMaxicours
    adaptés aux tranches d'âge afin de favoriser la concentration,
    encourager et motiver quel que soit le niveau. Nous souhaitons que
    chacun se sente bien pour apprendre et progresser en toute sérénité !
-   [80]EXERCE TOI EN T'ABONNANT
+   EXERCE TOI EN T'ABONNANT
 
 Fiches de cours les plus recherchées
 
@@ -380,15 +374,15 @@ Accédez gratuitement à
 
 Tout le contenu gratuit pendant 24h !
 
-   [81]Exercices corrigés
+   Exercices corrigés
 
-   [82]Espace parents
+   Espace parents
 
    Quiz interactifs
 
-   [83]Podcasts de révisions
+   Podcasts de révisions
 
-   [84]Cours en vidéo
+   Cours en vidéo
 
    Fiches de cours
    ____________________ (BUTTON) OBTENIR MON ACCÈS
@@ -402,7 +396,7 @@ Tout le contenu gratuit pendant 24h !
    soient traitées par SEJER, sous la marque myMaxicours, afin que SEJER
    puisse vous donner accès au service de soutien scolaire pendant 24h.
    Pour en savoir plus sur la gestion de vos données personnelles et pour
-   exercer vos droits, vous pouvez consulter [85]notre charte.
+   exercer vos droits, vous pouvez consulter notre charte.
    [ ] J’accepte de recevoir les actualités et des communications de la
    part de myMaxicours.
 
@@ -410,7 +404,7 @@ Tout le contenu gratuit pendant 24h !
    notre newsletter. Vous pourrez vous désinscrire à tout moment, à
    travers le lien de désinscription présent dans chaque newsletter. Pour
    en savoir plus sur la gestion de vos données personnelles et pour
-   exercer vos droits, vous pouvez consulter [86]notre charte.
+   exercer vos droits, vous pouvez consulter notre charte.
 
 Inscrivez-vous à notre newsletter !
 
@@ -422,7 +416,7 @@ Inscrivez-vous à notre newsletter !
    notre newsletter. Vous pourrez vous désinscrire à tout moment, à
    travers le lien de désinscription présent dans chaque newsletter. Pour
    en savoir plus sur la gestion de vos données personnelles et pour
-   exercer vos droits, vous pouvez consulter [87]notre charte.
+   exercer vos droits, vous pouvez consulter notre charte.
 
    Une erreur s'est produite, veuillez ré-essayer
 
@@ -432,70 +426,70 @@ Inscrivez-vous à notre newsletter !
 
    CONTACT
 
-   [88]01 49 08 38 00 notre équipe est joignable pour répondre à toutes
-   vos questions du lundi au vendredi de 8 h 30 à 17 h 30.
-   [89]CONTACTEZ-NOUS
+   01 49 08 38 00 notre équipe est joignable pour répondre à toutes vos
+   questions du lundi au vendredi de 8 h 30 à 17 h 30.
+   CONTACTEZ-NOUS
 
    7 JOURS D’ESSAI GRATUIT
 
    Une période d’essai gratuite sur tous nos abonnements en ligne pour
    tester avant de vous décider !
-   [90]jE TESTE MYMAXICOURS
+   jE TESTE MYMAXICOURS
 
    CYCLES
-     * [91]Primaire
-     * [92]Collège
-     * [93]Lycée
+     * Primaire
+     * Collège
+     * Lycée
 
    COURS PAR CLASSE
-     * [94]CP
-     * [95]CE1
-     * [96]CE2
-     * [97]CM1
-     * [98]CM2
-     * [99]6e
-     * [100]5e
-     * [101]4e
-     * [102]3e
-     * [103]Seconde
-     * [104]Seconde pro
-     * [105]Première
-     * [106]Première pro
-     * [107]Première techno
-     * [108]Terminale
-     * [109]Terminale pro
-     * [110]Terminale techno
+     * CP
+     * CE1
+     * CE2
+     * CM1
+     * CM2
+     * 6e
+     * 5e
+     * 4e
+     * 3e
+     * Seconde
+     * Seconde pro
+     * Première
+     * Première pro
+     * Première techno
+     * Terminale
+     * Terminale pro
+     * Terminale techno
 
    EXAMENS
-     * [111]Brevet
-     * [112]Baccalauréat
-     * [113]Bac pro
+     * Brevet
+     * Baccalauréat
+     * Bac pro
 
    MATIERES
-     * [114]Mathématiques
-     * [115]Français
-     * [116]Technologie
-     * [117]Physique Chimie
-     * [118]SVT
-     * [119]Anglais
-     * [120]Espagnol
-     * [121]Allemand
-     * [122]Histoire
-     * [123]SES
-     * [124]Sciences
-     * [125]Philosophie
-     * [126]EMC
-     * [127]Histoire-Géographie géopolitique et sciences politiques
-     * [128]Géographie
-     * [129]Questionner le monde
+     * Mathématiques
+     * Français
+     * Technologie
+     * Physique Chimie
+     * SVT
+     * Anglais
+     * Espagnol
+     * Allemand
+     * Histoire
+     * SES
+     * Sciences
+     * Philosophie
+     * EMC
+     * Histoire-Géographie géopolitique et sciences politiques
+     * Géographie
+     * Questionner le monde
 
-     * [130]Soutien scolaire
-     * [131]Profs en ligne
-     * [132]Coaching Parental Ateliers
+     * Soutien scolaire
+     * Profs en ligne
+     * Coaching Parental Ateliers
 
    AIDE
-     * [133]Contactez-nous
-     * [134]FAQ
+     * Contactez-nous
+     * FAQ
 
    A PROPOS
      * Qui sommes-nous ?
@@ -522,159 +516,6 @@ Inscrivez-vous à notre newsletter !
      * Charte
      * Résilier votre abonnement
      * CGV
-     * [135]Paramètres des cookies
+     * Paramètres des cookies
 
    Copyright © myMaxicours 2023
-
-Références
-
-   Liens visibles :
-   1. https://www.googletagmanager.com/ns.html?id=GTM-NCF2KZW
-   2. https://www.maxicours.com/se/cours/le-devoir/#main
-   3. https://www.maxicours.com/se/black-friday/
-   4. https://www.maxicours.com/se/black-friday/
-   5. https://www.maxicours.com/
-   6. https://www.maxicours.com/se/abonnements/
-   7. tel:0149083800
-   8. https://www.maxicours.com/se/soutien-scolaire/
-   9. https://www.maxicours.com/se/cours/le-devoir/
-  10. https://www.maxicours.com/se/cp/
-  11. https://www.maxicours.com/se/ce1/
-  12. https://www.maxicours.com/se/ce2/
-  13. https://www.maxicours.com/se/cm1/
-  14. https://www.maxicours.com/se/cm2/
-  15. https://www.maxicours.com/se/cours/le-devoir/
-  16. https://www.maxicours.com/se/6eme/
-  17. https://www.maxicours.com/se/5eme/
-  18. https://www.maxicours.com/se/4eme/
-  19. https://www.maxicours.com/se/3eme/
-  20. https://www.maxicours.com/se/cours/le-devoir/
-  21. https://www.maxicours.com/se/seconde/
-  22. https://www.maxicours.com/se/premiere/
-  23. https://www.maxicours.com/se/lycee/terminale/
-  24. https://www.maxicours.com/se/lycee/premiere-technologique/
-  25. https://www.maxicours.com/se/lycee/terminale-technologique/
-  26. https://www.maxicours.com/se/lycee/seconde-pro/
-  27. https://www.maxicours.com/se/lycee/premiere-pro/
-  28. https://www.maxicours.com/se/lycee/terminale-pro/
-  29. https://www.maxicours.com/se/profs-en-ligne/
-  30. https://www.maxicours.com/se/anglais/
-  31. https://www.maxicours.com/se/svt/
-  32. https://www.maxicours.com/se/physique-chimie/
-  33. https://www.maxicours.com/se/histoire/
-  34. https://www.maxicours.com/se/geographie/
-  35. https://www.maxicours.com/se/philosophie/
-  36. https://www.maxicours.com/se/coaching-parental-ateliers/
-  37. https://www.maxicours.com/se/qui-sommes-nous/
-  38. https://www.maxicours.com/
-  39. https://www.maxicours.com/se/abonnements/
-  40. tel:0149083800
-  41. https://www.maxicours.com/se/soutien-scolaire/
-  42. https://www.maxicours.com/se/cours/le-devoir/
-  43. https://www.maxicours.com/se/cp/
-  44. https://www.maxicours.com/se/ce1/
-  45. https://www.maxicours.com/se/ce2/
-  46. https://www.maxicours.com/se/cm1/
-  47. https://www.maxicours.com/se/cm2/
-  48. https://www.maxicours.com/se/cours/le-devoir/
-  49. https://www.maxicours.com/se/6eme/
-  50. https://www.maxicours.com/se/5eme/
-  51. https://www.maxicours.com/se/4eme/
-  52. https://www.maxicours.com/se/3eme/
-  53. https://www.maxicours.com/se/cours/le-devoir/
-  54. https://www.maxicours.com/se/seconde/
-  55. https://www.maxicours.com/se/premiere/
-  56. https://www.maxicours.com/se/lycee/terminale/
-  57. https://www.maxicours.com/se/lycee/premiere-technologique/
-  58. https://www.maxicours.com/se/lycee/terminale-technologique/
-  59. https://www.maxicours.com/se/lycee/seconde-pro/
-  60. https://www.maxicours.com/se/lycee/premiere-pro/
-  61. https://www.maxicours.com/se/lycee/terminale-pro/
-  62. https://www.maxicours.com/se/profs-en-ligne/
-  63. https://www.maxicours.com/se/anglais/
-  64. https://www.maxicours.com/se/svt/
-  65. https://www.maxicours.com/se/physique-chimie/
-  66. https://www.maxicours.com/se/histoire/
-  67. https://www.maxicours.com/se/geographie/
-  68. https://www.maxicours.com/se/philosophie/
-  69. https://www.maxicours.com/se/coaching-parental-ateliers/
-  70. https://www.maxicours.com/se/qui-sommes-nous/
-  71. https://www.maxicours.com/se/lycee/
-  72. https://www.maxicours.com/se/lycee/terminale/
-  73. https://www.maxicours.com/se/philosophie/
-  74. https://www.maxicours.com/se/abonnements/
-  75. https://www.maxicours.com/se/contactez-nous/
-  76. https://www.maxicours.com/se/charte/
-  77. https://www.maxicours.com/se/charte/
-  78. https://www.maxicours.com/se/profs-en-ligne/
-  79. https://www.maxicours.com/se/abonnements/
-  80. https://www.maxicours.com/se/abonnements/
-  81. https://www.maxicours.com/se/exercices-et-corriges/
-  82. https://www.maxicours.com/se/parents/
-  83. https://www.maxicours.com/se/podcasts-de-revisions/
-  84. https://www.maxicours.com/se/videos-et-fiches-de-cours/
-  85. https://www.maxicours.com/se/charte/
-  86. https://www.maxicours.com/se/charte/
-  87. https://www.maxicours.com/se/charte/
-  88. tel:0153552660
-  89. https://www.maxicours.com/se/contactez-nous/#formulaire
-  90. https://www.maxicours.com/se/abonnements/
-  91. https://www.maxicours.com/se/primaire/
-  92. https://www.maxicours.com/se/college/
-  93. https://www.maxicours.com/se/lycee/
-  94. https://www.maxicours.com/se/cp/
-  95. https://www.maxicours.com/se/ce1/
-  96. https://www.maxicours.com/se/ce2/
-  97. https://www.maxicours.com/se/cm1/
-  98. https://www.maxicours.com/se/cm2/
-  99. https://www.maxicours.com/se/6eme/
- 100. https://www.maxicours.com/se/5eme/
- 101. https://www.maxicours.com/se/4eme/
- 102. https://www.maxicours.com/se/3eme/
- 103. https://www.maxicours.com/se/seconde/
- 104. https://www.maxicours.com/se/lycee/seconde-pro/
- 105. https://www.maxicours.com/se/premiere/
- 106. https://www.maxicours.com/se/lycee/premiere-pro/
- 107. https://www.maxicours.com/se/lycee/premiere-technologique/
- 108. https://www.maxicours.com/se/lycee/terminale/
- 109. https://www.maxicours.com/se/lycee/terminale-pro/
- 110. https://www.maxicours.com/se/lycee/terminale-technologique/
- 111. https://www.maxicours.com/se/brevet/
- 112. https://www.maxicours.com/se/bac/
- 113. https://www.maxicours.com/se/bac-pro/
- 114. https://www.maxicours.com/se/maths/
- 115. https://www.maxicours.com/se/francais/
- 116. https://www.maxicours.com/se/technologie/
- 117. https://www.maxicours.com/se/physique-chimie/
- 118. https://www.maxicours.com/se/svt/
- 119. https://www.maxicours.com/se/anglais/
- 120. https://www.maxicours.com/se/espagnol/
- 121. https://www.maxicours.com/se/allemand/
- 122. https://www.maxicours.com/se/histoire/
- 123. https://www.maxicours.com/se/ses/
- 124. https://www.maxicours.com/se/sciences/
- 125. https://www.maxicours.com/se/philosophie/
- 126. https://www.maxicours.com/se/emc/
- 127. https://www.maxicours.com/se/histoire-geographie-geopolitique-et-sciences-politiques/
- 128. https://www.maxicours.com/se/geographie/
- 129. https://www.maxicours.com/se/questionner-le-monde/
- 130. https://www.maxicours.com/se/soutien-scolaire/
- 131. https://www.maxicours.com/se/profs-en-ligne/
- 132. https://www.maxicours.com/se/coaching-parental-ateliers/
- 133. https://www.maxicours.com/se/contactez-nous/#formulaire
- 134. https://www.maxicours.com/se/contactez-nous/#questions
- 135. https://www.maxicours.com/se/cours/le-devoir/
-
-   Liens cachés :
- 137. https://www.facebook.com/sharer/sharer.php?u=https://www.maxicours.com/se/cours/le-devoir/
- 138. https://twitter.com/intent/tweet?text=Pas+mal+Maxicours.com+pour+r%C3%A9viser+et+comprendre+%21+%F0%9F%99%8F%0aSurtout+quand+t%27avais+pas+tout+%C3%A9cout%C3%A9+%F0%9F%98%8E%0a%0aTous+les+programmes+du+CP+au+Bac+sur+www.maxicours.com
- 139. https://www.maxicours.com/se/cours/le-devoir-est-il-un-obstacle-au-bonheur/
- 140. https://www.maxicours.com/se/cours/la-morale-peut-elle-etre-fondee-sur-la-recherche-du-bonheur/
- 141. https://www.maxicours.com/se/cours/la-justice/
- 142. https://www.maxicours.com/se/cours/la-laicite--terminale--philosophie/
- 143. https://www.maxicours.com/se/cours/legalite-et-legitimite--terminale--philosophie/
- 144. https://www.maxicours.com/se/cours/la-justice-se-reduit-elle-a-l-application-de-la-loi---terminale--philosophie/
- 145. https://www.maxicours.com/se/cours/la-justice-veritable-implique-t-elle-une-interpretation-des-lois---terminale--philosophie/
- 146. https://www.maxicours.com/se/cours/la-liberte--terminale--philosophie/
- 147. https://www.maxicours.com/se/cours/la-liberte-est-elle-une-illusion---terminale--philosophie/
- 148. https://www.maxicours.com/se/cours/la-loi-est-elle-un-obstacle-a-notre-liberte---terminale--philosophie/

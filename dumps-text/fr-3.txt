@@ -1,29 +1,29 @@
-   #[1]alternate
+   #alternate
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
 
-   [3]Aller au contenu principal
+   Aller au contenu principal
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
 
    (BUTTON)
 
    Menu du compte de l'utilisateur
-   [5]S’abonner [6]Boutique [7]Newsletters [8]Se connecter
+   S’abonner Boutique Newsletters Se connecter
 
    Navigation principale
-     * [9]Le fil
-     * [10]Archives
-     * [11]En kiosque
-     * [12]Dossiers
-     * [13]Philosophes
-     * [14]Lexique
-     * [15]Citations
-     * [16]EXPRESSO
-     * [17]Bac philo
+     * Le fil
+     * Archives
+     * En kiosque
+     * Dossiers
+     * Philosophes
+     * Lexique
+     * Citations
+     * EXPRESSO
+     * Bac philo
 
-   [18]Philosophie magazine : les grands philosophes, la préparation au
-   bac philo, la pensée contemporaine
+   Philosophie magazine : les grands philosophes, la préparation au bac
+   philo, la pensée contemporaine
    rechercher
    Rechercher
 
@@ -34,7 +34,7 @@
 
 Le devoir
 
-   [19]Nicolas Tenaillon publié le 01 août 2012 2 min
+   Nicolas Tenaillon publié le 01 août 2012 2 min
 
    Que dois-je faire ? Cette question introduit à la morale et au droit.
    Le devoir désigne l’obligation à l’égard de ce qu’il faut faire ou ne
@@ -117,19 +117,21 @@ Mill
    bonne : la morale ne se juge pas sur les intentions mais sur les
    conséquences de nos actions.
 
-Faire l’amour
+Expresso : les parcours interactifs
 
-   Que fait-on quand on fait l'amour ? Tentons-nous de posséder une part
-   de l'autre, ou découvrons-nous au contraire son mystère, sa capacité à
-   nous échapper sans cesse, faisant redoubler notre désir ?
-   Découvrir le parcours interactif Voir tous les Expresso
+Hobbes et la violence
+
+   Mais pourquoi diable les hommes consentent-ils à obéir au pouvoir ?
+   C’est ce que nous allons tâcher de déterminer à l’aide de Thomas
+   Hobbes.
+   Découvrir Tous les Expresso
 
 Sur le même sujet
 
    Bac philo
    6 min
 
-[20]Peut-on faire plus que son devoir ?
+Peut-on faire plus que son devoir ?
 
    Aïda N’Diaye 10 mai 2022
 
@@ -143,7 +145,7 @@ Sur le même sujet
    Article
    6 min
 
-[21]Le “devoir conjugal”, héritier de la “culture du viol” ?
+Le “devoir conjugal”, héritier de la “culture du viol” ?
 
    Margot Monteils 14 avril 2021
 
@@ -160,7 +162,7 @@ Sur le même sujet
    Article
    8 min
 
-[22]Un grand pas pour l’humanité
+Un grand pas pour l’humanité
 
    Stéphane Audeguy 26 février 2009
 
@@ -174,7 +176,7 @@ Sur le même sujet
    Article
    5 min
 
-[23]Rendre le vote obligatoire : du devoir moral au devoir légal ?
+Rendre le vote obligatoire : du devoir moral au devoir légal ?
 
    Pierre Terraz 25 juin 2021
 
@@ -191,7 +193,7 @@ Sur le même sujet
    Article
    9 min
 
-[24]Avons-nous le devoir de chercher la vérité ?
+Avons-nous le devoir de chercher la vérité ?
 
    16 mai 2013
 
@@ -204,7 +206,7 @@ Sur le même sujet
    Article
    3 min
 
-[25]Lettre sur l’amitié
+Lettre sur l’amitié
 
    Jean-Pierre Martin 12 mai 2020
 
@@ -220,7 +222,7 @@ Sur le même sujet
    Article
    3 min
 
-[26]Hegel a-t-il son attestation ?
+Hegel a-t-il son attestation ?
 
    Cédric Enjalbert 20 mars 2020
 
@@ -234,7 +236,7 @@ Sur le même sujet
    Article
    2 min
 
-[27]Première classe
+Première classe
 
    Adrien Barton 22 août 2017
 
@@ -251,69 +253,64 @@ Sur le même sujet
 
 À Lire aussi
 
-   [28]
    Opération anti-radicalisation
    Par Alexandre Lacroix
    janvier 2016
 
-   [29]
    Les croyances ramenées à la raison
    Par Philippe Raynaud
    février 2015
 
-   [30]
    Des devoirs cousus main
    Par Pierre-Henri Tavoillot
    septembre 2012
 
-    1. [31]Accueil-Le Fil
-    2. [32]Articles
+    1. Accueil-Le Fil
+    2. Articles
     3. Le devoir
 
-   [33]
-   Philosophie magazine n°N°59 - novembre 2023
+   Philosophie magazine n°175 - novembre 2023
    Philosophie magazine : les grands philosophes, la préparation au bac
    philo, la pensée contemporaine
-   Automne-hiver 2023 Philosophe magazine N°59
-   [34]Lire en ligne
+   Décembre 2023/Janvier 2024 Philosophe magazine 175
+   Lire en ligne
    Philosophie magazine : les grands philosophes, la préparation au bac
    philo, la pensée contemporaine
 
    Réseaux sociaux
-     * [35]Facebook
-     * [36]Instagram
-     * [37]Instagram bac philo
-     * [38]Linkedin
-     * [39]Twitter
+     * Facebook
+     * Instagram
+     * Instagram bac philo
+     * Linkedin
+     * Twitter
 
    Liens utiles
-     * [40]À propos
-     * [41]Contact
-     * [42]Éditions
-     * [43]Publicité
-     * [44]L’agenda
-     * [45]Crédits
-     * [46]CGU/CGV
-     * [47]Mentions légales
-     * [48]Confidentialité
+     * À propos
+     * Contact
+     * Éditions
+     * Publicité
+     * L’agenda
+     * Crédits
+     * CGU/CGV
+     * Mentions légales
+     * Confidentialité
 
    À lire
-   [49]Bernard Friot : “Devoir attendre 60 ans pour être libre, c’est
+   Bernard Friot : “Devoir attendre 60 ans pour être libre, c’est
    dramatique”
-   [50]Fonds marins : un monde océanique menacé par les logiques
-   terrestres ?
-   [51]“L’enfer, c’est les autres” : la citation de Sartre commentée
+   Fonds marins : un monde océanique menacé par les logiques terrestres ?
+   “L’enfer, c’est les autres” : la citation de Sartre commentée
 
    Magazine
-     * [52]Tous les articles
-     * [53]Articles du fil
-     * [54]Bac philo
-     * [55]Entretiens
-     * [56]Dialogues
-     * [57]Contributeurs
-     * [58]Livres
-     * [59]10 livres pour...
-     * [60]Votre avis nous intéresse
+     * Tous les articles
+     * Articles du fil
+     * Bac philo
+     * Entretiens
+     * Dialogues
+     * Contributeurs
+     * Livres
+     * 10 livres pour...
+     * Votre avis nous intéresse
 
    (BUTTON) Fermer×
 
@@ -323,66 +320,3 @@ Sur le même sujet
 
    (BUTTON) Fermer×
    (BUTTON) ×
-
-Références
-
-   1. https://www.philomag.com/bac-philo/le-devoir
-   2. https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
-   3. https://www.philomag.com/bac-philo/le-devoir#main-content
-   4. https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
-   5. https://abo.philomag.com/
-   6. https://abo.philomag.com/site/philomag/anciensno/fr/boutique/rubrique.html
-   7. https://www.philomag.com/newsletters
-   8. https://www.philomag.com/bac-philo/le-devoir
-   9. https://www.philomag.com/
-  10. https://www.philomag.com/archives
-  11. https://www.philomag.com/en-kiosque
-  12. https://www.philomag.com/dossiers
-  13. https://www.philomag.com/philosophes
-  14. https://www.philomag.com/lexique
-  15. https://www.philomag.com/citations
-  16. https://www.philomag.com/trails/home
-  17. https://www.philomag.com/bac-philo
-  18. https://www.philomag.com/
-  19. https://www.philomag.com/philosophes/nicolas-tenaillon
-  20. https://www.philomag.com/articles/peut-faire-plus-que-son-devoir
-  21. https://www.philomag.com/articles/le-devoir-conjugal-heritier-de-la-culture-du-viol
-  22. https://www.philomag.com/articles/un-grand-pas-pour-lhumanite
-  23. https://www.philomag.com/articles/rendre-le-vote-obligatoire-du-devoir-moral-au-devoir-legal
-  24. https://www.philomag.com/articles/avons-nous-le-devoir-de-chercher-la-verite
-  25. https://www.philomag.com/articles/lettre-sur-lamitie
-  26. https://www.philomag.com/articles/hegel-t-il-son-attestation
-  27. https://www.philomag.com/articles/premiere-classe
-  28. https://www.philomag.com/articles/operation-anti-radicalisation
-  29. https://www.philomag.com/articles/les-croyances-ramenees-la-raison
-  30. https://www.philomag.com/articles/des-devoirs-cousus-main
-  31. https://www.philomag.com/
-  32. https://www.philomag.com/articles/2012
-  33. https://www.philomag.com/archives/hors-serie-ndeg59
-  34. https://www.philomag.com/archives/hors-serie-ndeg59
-  35. https://www.facebook.com/philomag
-  36. https://www.instagram.com/philomag
-  37. https://www.instagram.com/bacphilomag/
-  38. https://www.linkedin.com/showcase/philosophie-magazine/
-  39. https://twitter.com/philomag
-  40. https://www.philomag.com/bac-philo/le-devoir#node-1
-  41. https://www.philomag.com/bac-philo/le-devoir#node-3
-  42. https://www.philomag.com/edition-livres
-  43. https://www.philomag.com/bac-philo/le-devoir#node-4
-  44. https://www.philomag.com/lagenda
-  45. https://www.philomag.com/bac-philo/le-devoir#node-8
-  46. https://www.philomag.com/bac-philo/le-devoir#node-7
-  47. https://www.philomag.com/bac-philo/le-devoir#node-5
-  48. https://www.philomag.com/bac-philo/le-devoir#node-6
-  49. https://www.philomag.com/articles/bernard-friot-devoir-attendre-60-ans-pour-etre-libre-cest-dramatique
-  50. https://www.philomag.com/articles/fonds-marins-un-monde-oceanique-menace-par-les-logiques-terrestres
-  51. https://www.philomag.com/articles/lenfer-cest-les-autres-la-citation-de-sartre-commentee
-  52. https://www.philomag.com/articles/2023
-  53. https://www.philomag.com/articles/le-fil/2023
-  54. https://www.philomag.com/bac-philo
-  55. https://www.philomag.com/entretiens
-  56. https://www.philomag.com/dialogues
-  57. https://www.philomag.com/contributeurs
-  58. https://www.philomag.com/livres
-  59. https://www.philomag.com/livres/collection-livres
-  60. https://www.philomag.com/

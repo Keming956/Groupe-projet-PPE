@@ -1,98 +1,93 @@
-   #[1]alternate
+   #alternate
 
-   [2]Aller au contenu principal
+   Aller au contenu principal
 
    (BUTTON) Mon compte
      * (BUTTON)
-     * [3]Abo Mon compte johndoe@mail.com
+     * Abo Mon compte johndoe@mail.com
      *
-          + [4]Mon abonnement
-          + [5]Mes newsletters
-          + [6]Lire le journal numérique
-          + [7]Aide et contact
-     * [8]Se déconnecter
+          + Mon abonnement
+          + Mes newsletters
+          + Lire le journal numérique
+          + Aide et contact
+     * Se déconnecter
 
-   [9]S'abonner (BUTTON) (BUTTON)
+   S'abonner (BUTTON) (BUTTON)
 
-     * [10]S'abonner
+     * S'abonner
      * (BUTTON) Mon compte
-          + [11]Abo Mon compte
+          + Abo Mon compte
           +
-               o [12]Mon abonnement
-               o [13]Mes newsletters
-               o [14]Lire le journal numérique
-               o [15]Aide et contact
-          + [16]Se déconnecter
-     * [17]Se connecter
-     * [18]Newsletters
-     * [19]Lire le journal
+               o Mon abonnement
+               o Mes newsletters
+               o Lire le journal numérique
+               o Aide et contact
+          + Se déconnecter
+     * Se connecter
+     * Newsletters
+     * Lire le journal
 
-     * [20]Politique (BUTTON)
-          + [21]Emmanuel Macron
-          + [22]Elisabeth Borne
-          + [23]Marine Le Pen
-          + [24]Jean-Luc Mélenchon
-     * [25]Société (BUTTON)
-          + [26]Éducation
-          + [27]Police
-          + [28]Justice
-          + [29]Santé
-          + [30]Écologie
-     * [31]International (BUTTON)
-          + [32]Guerre en Ukraine
-          + [33]Moyen-Orient
-          + [34]Europe
-          + [35]Amérique
-          + [36]Asie
-          + [37]Afrique
-     * [38]Opinions (BUTTON)
-          + [39]Tribunes
-          + [40]Débats
-          + [41]Nos chroniqueurs
-     * [42]Économie (BUTTON)
-          + [43]Entreprises
-          + [44]Emploi
-          + [45]Immobilier
-          + [46]Médias
-          + [47]Tech
-     * [48]Paris
-     * [49]Culture (BUTTON)
-          + [50]Cinéma
-          + [51]Livres
-          + [52]Musique
-          + [53]Expos
-     * [54]Sport (BUTTON)
-          + [55]Jeux Olympiques
-          + [56]Football
-          + [57]Rugby
-          + [58]Tennis
-          + [59]Cyclisme
-          + [60]Formule 1
-          + [61]Basket
-     * [62]L'Antisèche
-     * [63]JDD MAGAZINE
-     * [64]Conférences
+     * Politique (BUTTON)
+          + Emmanuel Macron
+          + Elisabeth Borne
+          + Marine Le Pen
+          + Jean-Luc Mélenchon
+     * Société (BUTTON)
+          + Éducation
+          + Police
+          + Justice
+          + Santé
+          + Écologie
+     * International (BUTTON)
+          + Guerre en Ukraine
+          + Moyen-Orient
+          + Europe
+          + Amérique
+          + Asie
+          + Afrique
+     * Opinions (BUTTON)
+          + Tribunes
+          + Débats
+          + Nos chroniqueurs
+     * Économie (BUTTON)
+          + Entreprises
+          + Emploi
+          + Immobilier
+          + Médias
+          + Tech
+     * Paris
+     * Culture (BUTTON)
+          + Cinéma
+          + Livres
+          + Musique
+          + Expos
+     * Sport (BUTTON)
+          + Jeux Olympiques
+          + Football
+          + Rugby
+          + Tennis
+          + Cyclisme
+          + Formule 1
+          + Basket
+     * L'Antisèche
+     * JDD MAGAZINE
+     * Conférences
 
    LES PLUS LUS
 
-   [65]
    Abo
 
-Meurtre de Thomas à Crépol : ces prénoms qu’il faudrait taire
+Liste des chasseurs aux européennes : le billard à trois bandes de Macron
 
-   [66]
+À l’Assemblée, « il y a des soirées où de la drogue circule, des dîners où il
+y a une consommation excessive d’alcool », dénonce une députée
 
-Israël : le témoignage glaçant d’une survivante de l’attaque du 7 octobre,
-violée et mutilée par les terroristes du Hamas
-
-   [67]
-
-Mort de Thomas à Crépol : qui est Chaïd A., le principal suspect dont le
-profil se précise ?
+Fin du contrat entre le lycée musulman Averroès et l’État : le directeur de
+Sciences Po Lille fustige une décision « inéquitable »
 
    Publicité
 
-   [68]International
+   International
 
 Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de
 7,3 millions d’euros
@@ -106,30 +101,30 @@ Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de
    2023
    La chanteuse Shakira sortant du tribunal à Barcelone, le 20 novembre
    2023 REUTERS / © Albert Gea
-     * [69]Facebook
-     * [70]Email
-     * [71]Whatsapp
-     * [72]Twitter
+     * Facebook
+     * Email
+     * Whatsapp
+     * Twitter
 
    Après une comparution devant le tribunal de Barcelone ce lundi 20
    novembre, Shakira a finalement conclu un accord avec la justice
-   espagnole concernant [73]l'accusation de fraude fiscale qui pesait sur
+   espagnole concernant l'accusation de fraude fiscale qui pesait sur
    elle. Selon cet accord, la célèbre chanteuse colombienne, qui vit
-   essentiellement [74]à Miami, devra s'acquitter d'une lourde amende d'un
-   montant de 7,3 millions d’euros, relate [75]BFMTV ce lundi 20 novembre.
+   essentiellement à Miami, devra s'acquitter d'une lourde amende d'un
+   montant de 7,3 millions d’euros, relate BFMTV ce lundi 20 novembre.
    Publicité
 
    La suite après cette publicité
 
-   Le procès de Shakira était lié à une [76]fraude fiscale présumée de
-   près de 14,5 millions d'euros. L'artiste est arrivée dans la capitale
-   catalane lundi matin et a décidé de négocier un arrangement avec le
-   parquet. Conformément à l'accord conclu, sa peine initiale de trois ans
-   de prison avec sursis sera convertie en une sanction financière et elle
+   Le procès de Shakira était lié à une fraude fiscale présumée de près de
+   14,5 millions d'euros. L'artiste est arrivée dans la capitale catalane
+   lundi matin et a décidé de négocier un arrangement avec le parquet.
+   Conformément à l'accord conclu, sa peine initiale de trois ans de
+   prison avec sursis sera convertie en une sanction financière et elle
    devra payer une amende correspondant à « 50% » du montant de la
    fraude.
    La suite après cette publicité
-   À lire aussi [77]Blanchiment de fraude fiscale : le député LFI Carlos
+   À lire aussi Blanchiment de fraude fiscale : le député LFI Carlos
    Martens Bilongo visé par une enquête
 
    La chanteuse a rapidement reconnu sa culpabilité et accepté les peines
@@ -161,10 +156,18 @@ Contenus sponsorisés
 
    Sur le même sujet
 
+   Le Tribute Band néerlandais The Analogues existe depuis dix ans et fait
+   60 concerts par an.
+   Abonné Culture
+
+Avec The Analogues, une soirée avec les Beatles
+
+   TRIBUTE BAND. Sur instruments d’époque, The Analogues restitue à la
+   note près les chansons du groupe anglais.
+
    Bien dans ses baskets devant le public du Festival des Vieilles
    Charrues, à Carhaix, en juillet 2022.
    Abonné Culture
-   [78]
 
 Vianney au JDD : « Mon nombril n’est plus au même endroit »
 
@@ -176,7 +179,6 @@ Vianney au JDD : « Mon nombril n’est plus au même endroit »
    La chanteuse Shakira sortant du tribunal à Barcelone, le 20 novembre
    2023
    International
-   [79]
 
 Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de
 7,3 millions d’euros
@@ -187,7 +189,6 @@ Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de
 
    Johnny Hallyday, le 16 février 2000
    Abonné Culture
-   [80]
 
 Le dernier cri de Johnny
 
@@ -196,7 +197,6 @@ Le dernier cri de Johnny
 
    Angelo Del Vecchio interprète Quasimodo, au Palais des Congrès à Paris.
    Abonné Culture
-   [81]
 
 Sous la bosse de Quasimodo
 
@@ -206,7 +206,6 @@ Sous la bosse de Quasimodo
    David Hallyday, le 8 novembre, à l’hôtel Les Jardins du faubourg, à
    Paris.
    Abonné Culture
-   [82]
 
 David Hallyday au JDD : « Ce qui s’est passé à la mort de mon père reste
 irréparable »
@@ -214,32 +213,23 @@ irréparable »
    Le chanteur se livre à cœur ouvert, mais sans sensationnalisme, dans
    une autobiographie à paraître jeudi.
 
-   Martin Solveig
-   Abonné Culture
-   [83]
-
-Martin Solveig : « C’était fascinant d’être dans la caravane de Madonna »
-
-   FLASHBACK. Le Français partage ses souvenirs de travail avec la
-   chanteuse, en concert dès ce soir à Paris.
-
    Publicité
 
    Publicité
 
-   Télécharger l'application Le Journal du Dimanche pour [84]iPhone,
-   [85]iPad ou [86]Android
+   Télécharger l'application Le Journal du Dimanche pour iPhone, iPad ou
+   Android
 
-     * [87]Contact
-     * [88]Annonceurs
-     * [89]CGU
-     * [90]Charte des données personnelles
-     * [91]Charte des cookies
-     * [92]Gestion des cookies
-     * [93]Mentions légales
-     * [94]CGV abonnement
-     * [95]Aide abonnement
-     * [96]Plan du site
+     * Contact
+     * Annonceurs
+     * CGU
+     * Charte des données personnelles
+     * Charte des cookies
+     * Gestion des cookies
+     * Mentions légales
+     * CGV abonnement
+     * Aide abonnement
+     * Plan du site
 
      *
      *
@@ -247,110 +237,3 @@ Martin Solveig : « C’était fascinant d’être dans la caravane de Madonna
      *
 
    © Copyright Le Journal du Dimanche. Tous droits réservés.
-
-Références
-
-   Liens visibles :
-   1. ios-app://564773421/lejdd/news/139801
-   2. https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801#main-content
-   3. https://profile.lejdd.fr/profil
-   4. https://abonnement.lejdd.fr/mon-abonnement/
-   5. https://profile.lejdd.fr/newsletter
-   6. https://abo.lejdd.fr/
-   7. https://abonnement.lejdd.fr/aide-et-contact/
-   8. https://profile.lejdd.fr/logout
-   9. https://abo.lejdd.fr/?origin=Bouton_HP
-  10. https://abo.lejdd.fr/?origin=Bouton_HP
-  11. https://profile.lejdd.fr/profil
-  12. https://abonnement.lejdd.fr/mon-abonnement/
-  13. https://profile.lejdd.fr/newsletter
-  14. https://abo.lejdd.fr/
-  15. https://abonnement.lejdd.fr/aide-et-contact/
-  16. https://profile.lejdd.fr/logout
-  17. https://profile.lejdd.fr/connexion
-  18. https://profile.lejdd.fr/newsletter
-  19. https://abo.lejdd.fr/?origin=BtnHeader_LireJournal
-  20. https://www.lejdd.fr/Politique
-  21. https://www.lejdd.fr/Emmanuel-Macron
-  22. https://www.lejdd.fr/elisabeth-borne
-  23. https://www.lejdd.fr/Marine-Le-Pen
-  24. https://www.lejdd.fr/Tags/Jean-Luc-Melenchon
-  25. https://www.lejdd.fr/Societe
-  26. https://www.lejdd.fr/education
-  27. https://www.lejdd.fr/dossiers/police
-  28. https://www.lejdd.fr/justice
-  29. https://www.lejdd.fr/sante
-  30. https://www.lejdd.fr/Tags/Ecologie
-  31. https://www.lejdd.fr/International
-  32. https://www.lejdd.fr/Tags/Ukraine
-  33. https://www.lejdd.fr/dossiers/moyen-orient
-  34. https://www.lejdd.fr/dossiers/europe
-  35. https://www.lejdd.fr/dossiers/amerique
-  36. https://www.lejdd.fr/dossiers/asie
-  37. https://www.lejdd.fr/dossiers/afrique
-  38. https://www.lejdd.fr/opinions-et-controverses
-  39. https://www.lejdd.fr/dossiers/tribunes
-  40. https://www.lejdd.fr/dossiers/debats
-  41. https://www.lejdd.fr/dossiers/nos-chroniqueurs
-  42. https://www.lejdd.fr/Economie
-  43. https://www.lejdd.fr/dossiers/entreprises
-  44. https://www.lejdd.fr/emploi
-  45. https://www.lejdd.fr/immobilier
-  46. https://www.lejdd.fr/Medias
-  47. https://www.lejdd.fr/dossiers/tech
-  48. https://www.lejdd.fr/paris
-  49. https://www.lejdd.fr/Culture
-  50. https://www.lejdd.fr/cinema
-  51. https://www.lejdd.fr/livres
-  52. https://www.lejdd.fr/musique
-  53. https://www.lejdd.fr/Culture/Expo
-  54. https://www.lejdd.fr/Sport
-  55. https://www.lejdd.fr/Jeux-olympiques
-  56. https://www.lejdd.fr/football
-  57. https://www.lejdd.fr/Tags/Rugby
-  58. https://www.lejdd.fr/Tags/Tennis
-  59. https://www.lejdd.fr/cyclisme
-  60. https://www.lejdd.fr/dossiers/formule-1
-  61. https://www.lejdd.fr/basketball
-  62. https://www.lejdd.fr/lantiseche
-  63. https://www.lejdd.fr/jdd-magazine
-  64. https://www.lejdd.fr/Conferences
-  65. https://www.lejdd.fr/societe/meurtre-de-thomas-crepol-ces-prenoms-quil-faudrait-taire-139898
-  66. https://www.lejdd.fr/international/israel-le-temoignage-glacant-dune-survivante-de-lattaque-du-7-octobre-violee-et-mutilee-par-les-terroristes-du-hamas-139912
-  67. https://www.lejdd.fr/societe/mort-de-thomas-crepol-qui-est-le-principal-suspect-dont-lidentite-se-precise-139880
-  68. https://www.lejdd.fr/International
-  69. https://www.facebook.com/sharer/sharer.php?u=https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801
-  70. mailto:?subject=Le Journal Du Dimanche : Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de 7,3 millions d’euros&body=https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801
-  71. whatsapp://send/?text=https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801
-  72. https://twitter.com/intent/tweet?text=Espagne : accusée de fraude fiscale, Shakira va devoir payer une amende de 7,3 millions d’euros&url=https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801&via=LeJDD
-  73. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7psHCkNOCAxVjcKQEHTqXAjcQFnoECA0QAQ&url=https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-encourt-plus-de-huit-ans-de-prison-139716&usg=AOvVaw1yhqymGJ7gT3dgFYQqqyHg&opi=89978449
-  74. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjvu4zUkNOCAxW2VKQEHY9UBlYQFnoECBMQAQ&url=https://www.lejdd.fr/International/Avec-la-montee-des-oceans-Miami-et-La-Nouvelle-Orleans-bientot-englouties-755253-3162725&usg=AOvVaw0DhMSV13tMUl7V-oToT3ca&opi=89978449
-  75. https://www.bfmtv.com/people/la-chanteuse-shakira-au-tribunal-de-barcelone-pour-son-proces-pour-fraude-fiscale_AD-202311200384.html
-  76. https://www.lejdd.fr/politique/fraude-fiscale-le-plan-du-gouvernement-est-il-assez-ambitieux-135594
-  77. https://www.lejdd.fr/politique/blanchiment-de-fraude-fiscale-le-depute-lfi-carlos-martens-bilongo-vise-par-une-enquete-135658
-  78. https://www.lejdd.fr/culture/vianney-au-jdd-mon-nombril-nest-plus-au-meme-endroit-139915
-  79. https://www.lejdd.fr/international/espagne-accusee-de-fraude-fiscale-shakira-va-devoir-payer-une-amende-de-73-millions-deuros-139801
-  80. https://www.lejdd.fr/culture/le-dernier-cri-de-johnny-139778
-  81. https://www.lejdd.fr/culture/sous-la-bosse-de-quasimodo-139777
-  82. https://www.lejdd.fr/culture/david-hallyday-au-jdd-ce-qui-sest-passe-la-mort-de-mon-pere-reste-irreparable-139776
-  83. https://www.lejdd.fr/culture/martin-solveig-cetait-fascinant-detre-dans-la-caravane-de-madonna-139635
-  84. https://apps.apple.com/fr/app/le-jdd-actualités/id564773421
-  85. https://apps.apple.com/fr/app/le-jdd-actualités/id564773421
-  86. https://play.google.com/store/apps/details?id=com.sfm.jdd&hl=fr
-  87. https://www.lejdd.fr/contact
-  88. https://www.lagarderepublicitenews.fr/
-  89. https://www.lejdd.fr/divers/CGU
-  90. https://www.lejdd.fr/divers/La-Charte-Donnees-Personnelles-et-Cookies
-  91. https://www.lejdd.fr/divers/La-Charte-Donnees-Personnelles-et-Cookies
-  92. javascript:Didomi.preferences.show()
-  93. https://www.lejdd.fr/divers/Mentions-Legales
-  94. https://abonnement.lejdd.fr/cgv.html
-  95. https://abonnement.lejdd.fr/aide-et-contact
-  96. https://www.lejdd.fr/plan-du-site
-
-   Liens cachés :
-  98. https://www.lejdd.fr/
-  99. https://fr-fr.facebook.com/leJDD/
- 100. https://twitter.com/leJDD
- 101. https://fr.linkedin.com/company/journal-du-dimanche
- 102. https://www.instagram.com/le_jdd/

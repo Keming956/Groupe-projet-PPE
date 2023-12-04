@@ -1,16 +1,16 @@
-   [1]Passer au contenu
-     * [2]Radio France
-     * [3]France Inter
-     * [4]franceinfo
-     * [5]France Culture
-     * [6]France Musique
-     * [7]Fip
-     * [8]Mouv
+   Passer au contenu
+     * Radio France
+     * France Inter
+     * franceinfo
+     * France Culture
+     * France Musique
+     * Fip
+     * Mouv
      * (BUTTON)
 
    (BUTTON)
-   [9]Logo ici par France Bleu et France 3 Logo ici par France Bleu et
-   France 3
+   Logo ici par France Bleu et France 3 Logo ici par France Bleu et France
+   3
      __________________________________________________________________
 
    Le média
@@ -21,15 +21,15 @@
    (BUTTON) Logo France Bleu Écouter la radio
    (BUTTON) ⓘ Publicité
    Logo France Bleu
-     * [10]Accueil
-     * [11]Hauts-de-France
-     * [12]Nord
-     * [13]Infos
-     * [14]Médias - People
+     * Accueil
+     * Hauts-de-France
+     * Nord
+     * Infos
+     * Médias - People
      * Avortement: appel à témoignage pour l'INA - Visite des coulisses du
        "Série Mania Institut"
 
-   [15]Médias - People
+   Médias - People
 
 Avortement: appel à témoignage pour l'INA - Visite des coulisses du "Série
 Mania Institut"
@@ -37,19 +37,19 @@ Mania Institut"
    (BUTTON) Écouter (12 min)
    Diffusion du 25 novembre 2023
    À retrouver dans l'émission
-   [16]Le mag média avec Laurent Dereux
-   [17]Mag Média France Bleu Nord
+   Le mag média avec Laurent Dereux
+   Mag Média France Bleu Nord
    Le samedi à 12h10
-   De [18]Laurent Dereux
-   [19]France Bleu Nord
-   [20]Lille
+   De Laurent Dereux
+   France Bleu Nord
+   Lille
    De
-     * [21]Laurent Dereux
+     * Laurent Dereux
 
    Samedi 25 novembre 2023 à 12:07 - Mis à jour le dimanche 26 novembre
    2023 à 16:42
    Par
-     * [22]France Bleu Nord
+     * France Bleu Nord
 
      *
      *
@@ -96,30 +96,42 @@ Avortement: le devoir de mémoire
    Brunerie-Kauffmann, Ghada Hatem) et d’une sage-femme (Chantal Birman).
    Les entretiens seront filmés à domicile.
 
-   [23]Pour tout savoir sur cet appel à témoin, cliquez ici.
+   Pour tout savoir sur cet appel à témoin, cliquez ici.
 
 Dans les coulisses de "Série Mania Institute"
 
    À lire aussi
-   [24]
    L'école a pour objectif de répondre à une demande qui explose
    Le 17/11/2023
    A Lille, une école pour former les futurs professionnels des séries
      __________________________________________________________________
 
      * Laurent Dereux
-       [25]Laurent Dereux [26]France Bleu Nord
+       Laurent Dereux France Bleu Nord
 
-     * [27]Médias
-     * [28]Radio
-     * [29]Réseaux sociaux
-     * [30]Télévision
+     * Médias
+     * Radio
+     * Réseaux sociaux
+     * Télévision
 
 Épisodes
 
 Tous les épisodes
 
-   [31]
+   Sibyle Veil, auteure du livre "Au commencement était l'écoute"
+
+"Ecouter, c'est savoir se taire" Sibyle Veil, la présidente de Radio France
+plaide pour une "société de l'écoute"
+
+   Le 2 décembre 2023
+
+   Et si nous en finissions avec la société du défouloir. Et si nous
+   retrouvions l'envie de nous écouter les uns et les autres. "Au
+   commencement était l'écoute" est un livre signé par Sibyle Veil, la
+   présidente de Radio France. Elle est l'invitée du Mag Média cette
+   semaine.
+   (BUTTON)
+   16 min
    Thierry Beccaro "Je suis né à 17 ans"
 
 Thierry Beccaro se dévoile dans "Je suis né à 17 ans", un téléfilm tourné
@@ -133,7 +145,6 @@ dans le Nord
    Nord. Il est l'invité du Mag Média de cette semaine.
    (BUTTON)
    14 min
-   [32]
    Laurent Dereux anime le Mag Média
 
 Sambre, la série événement tournée dans le Nord
@@ -146,7 +157,6 @@ Sambre, la série événement tournée dans le Nord
    Alix Poisson et Jean-Xavier De Lestrade sont dans le Mag Média
    (BUTTON)
    16 min
-   [33]
    Jacques Legros
 
 Jacques Legros, le nordiste pillier du 13h de TF1
@@ -158,7 +168,6 @@ Jacques Legros, le nordiste pillier du 13h de TF1
    son livre dans lequel il se dévoile "Derrière l'écran"
    (BUTTON)
    14 min
-   [34]
    Super moumou sur M6
 
 Au menu: "Supermoumou", la mouette dunkerquoise sur M6 - Le CLEMI - Le Groupe
@@ -173,7 +182,6 @@ Nord LIttoral
    CLEMI et NORD LITTORAL
    (BUTTON)
    12 min
-   [35]
    Les journalistes Stéphane Barbereau, Odile Senellart et le rédacteur en
    chef Antoine Barège
 
@@ -188,7 +196,6 @@ travaillé pour vous informer ?
    réel ? Comment informer sans déformer ?
    (BUTTON)
    17 min
-   [36]
    Supercambrousse, la web radio de territoire
 
 Supercambrousse, une web-radio de territoire et éphémère
@@ -200,18 +207,7 @@ Supercambrousse, une web-radio de territoire et éphémère
    territoire et éphémère dans le Mag Média de cette semaine.
    (BUTTON)
    11 min
-   [37]
-   Anthony Dufour, créateur de KITA et de l'agence de presse HIKARI
-
-KITA, le média 100% video, Hauts de France et digital
-
-   Le 30 septembre 2023
-
-   KITA, le média vidéo et en ligne qui met en avant des personnages
-   étonnants et attachants dans Hauts-de-France
-   (BUTTON)
-   12 min
-   [38]Voir tous les épisodes
+   Voir tous les épisodes
 
 Les plus écoutés de France Bleu Nord
 
@@ -226,13 +222,13 @@ Les plus écoutés de France Bleu Nord
    Écoutez en direct la radio qui vous ressemble !
    (BUTTON)
    France Bleu Nord
-   En direct : Les mots du soir
+   En direct : Le journal des concerts
 
 Nous contacter
 
    Vous avez une question, une remarque, un témoignage ?
    ____________________
-   [39]Contacter France Bleu
+   Contacter France Bleu
 
 Newsletter
 
@@ -251,7 +247,7 @@ Newsletter
    Écoutez en direct la radio qui vous ressemble !
    (BUTTON)
    France Bleu Nord
-   En direct : Les mots du soir
+   En direct : Le journal des concerts
    (BUTTON) ⓘ Publicité
    Logo France Bleu
 
@@ -259,7 +255,7 @@ Nous contacter
 
    Vous avez une question, une remarque, un témoignage ?
    ____________________
-   [40]Contacter France Bleu
+   Contacter France Bleu
 
 Newsletter
 
@@ -276,152 +272,59 @@ Newsletter
    Logo France Bleu
    (BUTTON) Retour haut de page
    Logo ici par France Bleu et France 3
-     * [41]Nous contacter
-     * [42]Charte de modération
-     * [43]Nos fréquences
-     * [44]Émissions et podcasts
-     * [45]Les directs TV
-     * [46]Application mobile
-     * [47]Newsletter
-     * [48]France Bleu sur les assistants vocaux
-     * [49]Résultats élections
-     * [50]Plan du site
-     * [51]Désabonnement push web
+     * Nous contacter
+     * Charte de modération
+     * Nos fréquences
+     * Émissions et podcasts
+     * Les directs TV
+     * Application mobile
+     * Newsletter
+     * France Bleu sur les assistants vocaux
+     * Résultats élections
+     * Plan du site
+     * Désabonnement push web
 
-     * [52]Infos
-     * [53]Vie quotidienne
-     * [54]Sports
-     * [55]Culture
+     * Infos
+     * Vie quotidienne
+     * Sports
+     * Culture
 
    Les régions
-     * [56]Auvergne-Rhône‑Alpes
-     * [57]Bourgogne-Franche‑Comté
-     * [58]Bretagne
-     * [59]Centre-Val de Loire
-     * [60]Corse
-     * [61]Grand Est
-     * [62]Hauts-de‑France
-     * [63]Île-de‑France
-     * [64]Normandie
-     * [65]Nouvelle-Aquitaine
-     * [66]Occitanie
-     * [67]Pays de la Loire
-     * [68]Provence‑Alpes-Côte d'Azur
-     * [69]Toute la France
+     * Auvergne-Rhône‑Alpes
+     * Bourgogne-Franche‑Comté
+     * Bretagne
+     * Centre-Val de Loire
+     * Corse
+     * Grand Est
+     * Hauts-de‑France
+     * Île-de‑France
+     * Normandie
+     * Nouvelle-Aquitaine
+     * Occitanie
+     * Pays de la Loire
+     * Provence‑Alpes-Côte d'Azur
+     * Toute la France
      *
 
    Espace presse
-     * [70]Communiqués de presse
-     * [71]Dossier de presse
-     * [72]Contacter le service presse
+     * Communiqués de presse
+     * Dossier de presse
+     * Contacter le service presse
 
      *
      *
      *
      *
 
-   [73]Apple Store [74]Google Play
-     * [75]Crédits
-     * [76]Mentions légales
+   Apple Store Google Play
+     * Crédits
+     * Mentions légales
      * (BUTTON) Gestion des cookies
-     * [77]ACPM
-     * [78]Annonceurs
-     * [79]Médiatrice
+     * ACPM
+     * Annonceurs
+     * Médiatrice
 
    France Bleu 2023 – Tous droits réservés
 
    undefined
    (BUTTON)
-
-Références
-
-   Liens visibles :
-   1. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408#MainContent
-   2. https://www.radiofrance.fr/
-   3. https://www.radiofrance.fr/franceinter
-   4. https://www.francetvinfo.fr/
-   5. https://www.radiofrance.fr/franceculture
-   6. https://www.radiofrance.fr/francemusique
-   7. https://www.radiofrance.fr/fip
-   8. https://www.radiofrance.fr/mouv
-   9. https://www.francebleu.fr/
-  10. https://www.francebleu.fr/
-  11. https://www.francebleu.fr/hauts-de-france
-  12. https://www.francebleu.fr/hauts-de-france/nord-59
-  13. https://www.francebleu.fr/hauts-de-france/nord-59/infos
-  14. https://www.francebleu.fr/hauts-de-france/nord-59/infos/medias-people
-  15. https://www.francebleu.fr/infos/medias-people
-  16. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/nord
-  17. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/nord
-  18. https://www.francebleu.fr/les-equipes/laurent-dereux
-  19. https://www.francebleu.fr/nord
-  20. https://www.francebleu.fr/hauts-de-france/nord-59/lille-59350
-  21. https://www.francebleu.fr/les-equipes/laurent-dereux
-  22. https://www.francebleu.fr/nord
-  23. https://www.ina.fr/actualites-ina/appel-a-temoin-avortement-clandestin-femme
-  24. https://www.francebleu.fr/infos/medias-people/a-lille-une-ecole-pour-former-les-futurs-professionnels-des-series-9337885
-  25. https://www.francebleu.fr/les-equipes/laurent-dereux
-  26. https://www.francebleu.fr/nord
-  27. https://www.francebleu.fr/theme/medias
-  28. https://www.francebleu.fr/theme/radio
-  29. https://www.francebleu.fr/theme/reseaux-sociaux
-  30. https://www.francebleu.fr/theme/television
-  31. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/thierry-beccaro-se-devoile-dans-je-suis-ne-a-17-ans-un-telefilm-tourne-dans-le-nord-1160697
-  32. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/sambre-la-serie-evenement-tournee-dans-le-nord-1033366
-  33. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/jacques-legros-le-nordiste-pillier-du-13h-de-tf1-6751467
-  34. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/au-menu-supermoumou-la-mouette-dunkerquoise-sur-m6-le-clemi-le-groupe-nord-littoral-6811330
-  35. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/attentat-d-arras-comment-les-equipes-de-france-bleu-nord-ont-elles-travaille-pour-vous-informer-7898371
-  36. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/supercambrousse-une-web-radio-de-territoire-et-ephemere-7822292
-  37. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/kita-le-media-100-video-hauts-de-france-et-digital-7839925
-  38. https://www.francebleu.fr/archives/emissions/mag-media-france-bleu-nord/nord
-  39. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408
-  40. https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408
-  41. https://www.francebleu.fr/les-coordonnees-de-france-bleu
-  42. https://www.francebleu.fr/charte
-  43. https://www.radiofrance.com/frequences
-  44. https://www.francebleu.fr/nos-emissions
-  45. https://www.francebleu.fr/tv/direct
-  46. https://www.francebleu.fr/application-mobile
-  47. https://www.francebleu.fr/newsletter
-  48. https://www.francebleu.fr/comment-ecouter-france-bleu-sur-les-assistants-vocaux
-  49. https://www.francebleu.fr/elections
-  50. https://www.francebleu.fr/index/france
-  51. https://www.francebleu.fr/aide-au-desabonnement-des-notifications-push-web
-  52. https://www.francebleu.fr/infos
-  53. https://www.francebleu.fr/vie-quotidienne
-  54. https://www.francebleu.fr/sports
-  55. https://www.francebleu.fr/culture
-  56. https://www.francebleu.fr/auvergne-rhone-alpes
-  57. https://www.francebleu.fr/bourgogne-franche-comte
-  58. https://www.francebleu.fr/bretagne
-  59. https://www.francebleu.fr/centre-val-de-loire
-  60. https://www.francebleu.fr/corse
-  61. https://www.francebleu.fr/grand-est
-  62. https://www.francebleu.fr/hauts-de-france
-  63. https://www.francebleu.fr/ile-de-france
-  64. https://www.francebleu.fr/normandie
-  65. https://www.francebleu.fr/nouvelle-aquitaine
-  66. https://www.francebleu.fr/occitanie
-  67. https://www.francebleu.fr/pays-de-la-loire
-  68. https://www.francebleu.fr/provence-alpes-cote-dazur
-  69. https://www.francebleu.fr/
-  70. https://www.radiofrance.com/presse
-  71. https://www.francebleu.fr/france-bleu-dossier-de-presse
-  72. https://www.radiofrance.com/user/119/contact
-  73. https://apps.apple.com/fr/app/france-bleu/id310215476
-  74. https://play.google.com/store/apps/details?id=com.radiofrance.radio.francebleu.android&hl=fr
-  75. https://www.francebleu.fr/credits
-  76. https://www.radiofrance.com/mentions-legales
-  77. https://www.acpm.fr/Marque/marque-france-bleu
-  78. https://www.radiofrance.com/regie-publicite
-  79. https://mediateur.radiofrance.com/
-
-   Liens cachés :
-  81. https://www.facebook.com/sharer.php?u=https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408
-  82. https://twitter.com/share?lang=fr&text=Avortement:%20appel%20%C3%A0%20t%C3%A9moignage%20pour%20l'INA%20-%20Visite%20des%20coulisses%20du%20%22S%C3%A9rie%20Mania%20Institut%22&url=https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408
-  83. mailto:?subject=Avortement:%20appel%20%C3%A0%20t%C3%A9moignage%20pour%20l'INA%20-%20Visite%20des%20coulisses%20du%20%22S%C3%A9rie%20Mania%20Institut%22&body=undefined%20https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.
-  84. sms:?body=%C3%80 d%C3%A9couvrir sur France Bleu : Avortement:%20appel%20%C3%A0%20t%C3%A9moignage%20pour%20l'INA%20-%20Visite%20des%20coulisses%20du%20%22S%C3%A9rie%20Mania%20Institut%22 https://www.francebleu.fr/emissions/mag-media-france-bleu-nord/avortement-appel-a-temoignage-pour-l-ina-visite-des-coulisses-du-serie-mania-institut-6945408
-  85. https://www.facebook.com/reseau.francebleu
-  86. https://twitter.com/francebleu
-  87. https://www.dailymotion.com/francebleu
-  88. https://www.francebleu.fr/rss

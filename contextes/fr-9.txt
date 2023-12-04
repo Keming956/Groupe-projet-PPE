@@ -1,14 +1,14 @@
-     * [52]Academy
+     * Academy
           + Rejoins la communauté !
-               o [53]Voir les devoirs
-               o [54]Pose une question
-               o [55]Poste une ressource
+               o Voir les devoirs
+               o Pose une question
+               o Poste une ressource
 --
-     * [117]Academy
+     * Academy
           + Rejoins la communauté !
-               o [118]Voir les devoirs
-               o [119]Pose une question
-               o [120]Poste une ressource
+               o Voir les devoirs
+               o Pose une question
+               o Poste une ressource
 --
 
    Le devoir est généralement vécu comme une contrainte
@@ -19,5 +19,5 @@
    à l’action et conduisant à l’amoralité. Cette dernière signifie une
    indifférence au bien et au mal, qu’il ne faut pas confondre avec
    l’immoralité, qui désigne le choix de violer les devoirs moraux.
-   [161]Faire le quiz associé
-   [162]
+   Faire le quiz associé
+   Leçon suivante

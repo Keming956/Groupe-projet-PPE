@@ -1,46 +1,46 @@
-   #[1]Editions Chandeigne » Flux [2]Editions Chandeigne » Flux des
-   commentaires [3]alternate [4]alternate [5]alternate
+   #Editions Chandeigne » Flux Editions Chandeigne » Flux des commentaires
+   alternate alternate alternate
 
-     * [6]Contacts
-     * [7]Notre maison
-     * [8]Notre lettre d’information
+     * Contacts
+     * Notre maison
+     * Notre lettre d’information
 
-   [9]Article 0
+   Article 0
 
-   [10][BANDEAU-SITE-CHANDEIGNE-1024x174.jpg]
-   [11]Editions Chandeigne
+   [BANDEAU-SITE-CHANDEIGNE-1024x174.jpg]
+   Editions Chandeigne
 
-     * [12]Catalogue
-          + [13]de A à Z
-          + [14]Par collection
-          + [15]À paraître
-          + [16]Télécharger notre catalogue
-     * [17]Auteurs
-          + [18]Auteurs
-          + [19]Illustrateurs
-          + [20]Traducteurs
-          + [21]Collaborateurs
-     * [22]Actualités
-     * [23]Revue de Presse
-     * [24]Où trouver nos livres
-          + [25]Librairies en France et à l’étranger
-          + [26]Nos Distributeurs
-          + [27]ESPACE PRO
+     * Catalogue
+          + de A à Z
+          + Par collection
+          + À paraître
+          + Télécharger notre catalogue
+     * Auteurs
+          + Auteurs
+          + Illustrateurs
+          + Traducteurs
+          + Collaborateurs
+     * Actualités
+     * Revue de Presse
+     * Où trouver nos livres
+          + Librairies en France et à l’étranger
+          + Nos Distributeurs
+          + ESPACE PRO
      * Autour de nos livres
-          + [28]Feuilleton Magellan
-          + [29]Vidéos Chandeigne
-          + [30]Instagram
-          + [31]Mariage parfumé
+          + Feuilleton Magellan
+          + Vidéos Chandeigne
+          + Instagram
+          + Mariage parfumé
 
    Sélectionner une page
    ____________________
 
-   [32]Catalogue / [33]Bibliothèque Lusitane / Devoir de parole
+   Catalogue / Bibliothèque Lusitane / Devoir de parole
 
 Devoir de parole
 
    [COUV-CESARINY-web.jpg]
-   [34]Bibliothèque Lusitane
+   Bibliothèque Lusitane
    ISBN : 978-2-36732-261-2
    216 pages
    3 novembre 2023
@@ -48,14 +48,19 @@ Devoir de parole
 
 TÉLÉCHARGER
 
-   [35]Argumentaire
-   [36]Couverture
+   Argumentaire
+   Couverture
 
-   Auteur [37]Mário Cesariny
+ACHETER EN LIGNE
 
-   Traducteur [38]Bernardo Haumont
+   quantité de Devoir de parole 1___
+   (13972) Ajouter au panier
 
-   Collaborateur [39]Emília Pinto de Almeida
+   Auteur Mário Cesariny
+
+   Traducteur Bernardo Haumont
+
+   Collaborateur Emília Pinto de Almeida
 
 Description
 
@@ -99,12 +104,20 @@ Description
    Portugal et de CAMÕES Centre Culturel Portugais à Paris. Ouvrage
    réalisé en partenariat avec la Fundação Cupertino de Miranda
 
-   © 2021 [40]Éditions Chandeigne
+LIVRES LIÉS
+
+   [mortduprince.jpg]
+   [COUVERTURE-MUSE_L.jpg]
+   [Couv_NUDITE_chat_WEB.jpg]
+   [couv.poesiePortugal_400.jpg]
+   [le-poeme-continu-1.jpg]
+
+   © 2021 Éditions Chandeigne
    10 rue Tournefort 75005 Paris
    Tel: 00 33 (0)1 43 36 78 47
-   Email : [41]contact@editionschandeigne.fr
-   [42]Mentions Légales
-   [43]Conditions Générales de Ventes
+   Email : contact@editionschandeigne.fr
+   Mentions Légales
+   Conditions Générales de Ventes
 
 Suivez-nous.
 
@@ -112,56 +125,3 @@ Suivez-nous.
 
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
-
-Références
-
-   Liens visibles :
-   1. https://editionschandeigne.fr/feed/
-   2. https://editionschandeigne.fr/comments/feed/
-   3. https://editionschandeigne.fr/wp-json/wp/v2/product/13972
-   4. https://editionschandeigne.fr/wp-json/oembed/1.0/embed?url=https://editionschandeigne.fr/livre/devoir-de-parole/
-   5. https://editionschandeigne.fr/wp-json/oembed/1.0/embed?url=https://editionschandeigne.fr/livre/devoir-de-parole/&format=xml
-   6. https://editionschandeigne.fr/contacts/
-   7. https://editionschandeigne.fr/notre-maison/
-   8. https://editionschandeigne.fr/newsletter/
-   9. https://editionschandeigne.fr/cart/
-  10. https://editionschandeigne.fr/
-  11. https://editionschandeigne.fr/
-  12. https://editionschandeigne.fr/livre/devoir-de-parole/
-  13. https://editionschandeigne.fr/tous-nos-livres/
-  14. https://editionschandeigne.fr/collection-a6/
-  15. https://editionschandeigne.fr/a-paraitre/
-  16. https://editionschandeigne.fr/catalogue/
-  17. https://editionschandeigne.fr/livre/devoir-de-parole/
-  18. https://editionschandeigne.fr/nos-auteurs/
-  19. https://editionschandeigne.fr/nos-illustrateurs/
-  20. https://editionschandeigne.fr/nos-traducteurs/
-  21. https://editionschandeigne.fr/nos-collaborateurs/
-  22. https://editionschandeigne.fr/actualites/
-  23. https://editionschandeigne.fr/revue-de-presse/
-  24. https://editionschandeigne.fr/livre/devoir-de-parole/
-  25. https://editionschandeigne.fr/trouver-nos-livres/
-  26. https://editionschandeigne.fr/nos-distributeurs/
-  27. https://editionschandeigne.fr/pour-les-libraires/
-  28. https://editionschandeigne.fr/feuilleton-magellan/
-  29. https://editionschandeigne.fr/retraites-chandeigne/
-  30. https://editionschandeigne.fr/notre-instagram/
-  31. https://editionschandeigne.fr/mariage-parfume/
-  32. https://editionschandeigne.fr/tous-nos-livres/
-  33. https://editionschandeigne.fr/product-category/bibliotheque-lusitane/
-  34. https://editionschandeigne.fr/collection/lusitane/
-  35. https://editionschandeigne.fr/wp-content/uploads/2023/10/9782367322612_DEVOIR-DE-PAROLE_B.pdf
-  36. https://editionschandeigne.fr/wp-content/uploads/2023/10/COUV-CESARINY.jpg
-  37. https://editionschandeigne.fr/auteur/devoir-de-parole/
-  38. https://editionschandeigne.fr/traducteur/bernardo-haumont/
-  39. https://editionschandeigne.fr/collaborateur/emilia-pinto-de-almeida/
-  40. https://editionschandeigne.fr/
-  41. mailto:contact@editionschandeigne.fr
-  42. https://editionschandeigne.fr/mentions-legales/
-  43. https://editionschandeigne.fr/conditions-generales-de-ventes/
-
-   Liens cachés :
-  45. https://www.facebook.com/Chandeigneditions/
-  46. https://www.instagram.com/editions_chandeigne/
-  47. https://twitter.com/ChandeigneEd?lang=fr
-  48. https://editionschandeigne.fr/feed/

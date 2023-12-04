@@ -2,19 +2,19 @@
 
    Pour saisir les notes, vous créez un devoir auquel les notes sont
    associées. Un service de notation doit avoir été créé pour la matière
-   et la classe à noter [1](Service de notation).
+   et la classe à noter (Service de notation).
 
    Les paramètres renseignés pour le devoir, tels que le barème et le
    coefficient, permettent à PRONOTE de calculer automatiquement la
-   moyenne des élèves [2](Moyenne). Les notes sont publiées sur l’Espace
+   moyenne des élèves (Moyenne). Les notes sont publiées sur l’Espace
    Élèves et l’Espace Parents à la date que vous spécifiez.
 
 
-   [3]Paramétrage
+   Paramétrage
 
-   [4]Création et saisie des notes
+   Création et saisie des notes
 
-   [5]Manipulations
+   Manipulations
 
    Paramétrage
 
@@ -46,7 +46,7 @@
    3. Sélectionnez une classe ou un groupe puis un service dans les listes
    à gauche. Si vous ne trouvez pas le service correspondant, assurez-vous
    qu’il a bien été créé, qu’il est actif et que son mode est Avec notes
-   [6](Service de notation).
+   (Service de notation).
 
    4. Sélectionnez une période dans le menu déroulant en haut à droite.
 
@@ -55,8 +55,8 @@
 
    6. Dans la fenêtre qui s’affiche, renseignez les paramètres du devoir :
 
-   lpour noter les élèves sur un QCM préalablement créé [7](QCM), cliquez
-   sur le bouton  Btn_3PointsSuspension.jpg en face d’Associer un QCM ;
+   lpour noter les élèves sur un QCM préalablement créé (QCM), cliquez sur
+   le bouton  Btn_3PointsSuspension.jpg en face d’Associer un QCM ;
 
    lla date du devoir ;
 
@@ -73,7 +73,7 @@
    les Espaces en même temps que les notes ;
 
    lla ou les périodes où le devoir doit être comptabilisé dans la
-   moyenne ; si une période d'examen blanc a été définie [8](Bac blanc
+   moyenne ; si une période d'examen blanc a été définie (Bac blanc
    (brevet blanc, etc.)), le devoir peut compter à la fois pour l'examen
    et le trimestre ;
 
@@ -85,7 +85,7 @@
    liste des devoirs ;
 
    lpour créer une évaluation de compétences en même temps, cochez Créer
-   une évaluation [9](Évaluation de compétences).
+   une évaluation (Évaluation de compétences).
 
    7. Cliquez sur Créer : PRONOTE crée une colonne dans laquelle vous
    pouvez saisir les notes. Il est également possible de saisir des
@@ -136,7 +136,7 @@
 
     Prérequis  Il faut être un professeur ou un utilisateur du groupe
    Administration et il faut que le service de notation de rattachement
-   ait été créé [10](Service de notation).
+   ait été créé (Service de notation).
 
    1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
     Liste.
@@ -190,21 +190,6 @@
 
    Voir aussi
 
-   [11]Cahier de textes
+   Cahier de textes
 
-   [12]Notation
-
-Références
-
-   1. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
-   2. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/M/Moyenne.htm#XREF_47726_Moyenne
-   3. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_82122_Param_trage
-   4. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_28983_Cr_ation_et_saisie
-   5. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/D/Devoir.htm#XREF_43732_Manipulations
-   6. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
-   7. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/Q/QCM.htm#XREF_43308_QCM
-   8. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/B/Bac_blanc_brevet_blanc_etc.htm#XREF_84921_Bac_blanc
-   9. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/E/Évaluation_de_compétences.htm#XREF_78426_valuation_de_comp
-  10. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/S/Service_de_notation.htm#XREF_98485_Service_de_notation
-  11. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/C/Cahier_de_textes.htm#XREF_55345_Cahier_de_textes
-  12. https://doc.index-education.com/fr/pronote/pronote/PRONOTE/N/Notation.htm#XREF_57453_Notation
+   Notation

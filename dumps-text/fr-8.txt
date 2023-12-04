@@ -1,64 +1,64 @@
-   #[1]CCFD-Terre Solidaire » Flux [2]CCFD-Terre Solidaire » Flux des
-   commentaires [3]Flux CCFD-Terre Solidaire » Stories [4]alternate
-   [5]alternate [6]alternate
+   #CCFD-Terre Solidaire » Flux CCFD-Terre Solidaire » Flux des
+   commentaires Flux CCFD-Terre Solidaire » Stories alternate alternate
+   alternate
 
-   IFRAME: [7]https://www.googletagmanager.com/ns.html?id=GTM-WNNPCM
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WNNPCM
 
-   [8][svg%3E] [logo-white.png] [svg%3E] [logo-orange.png] [svg%3E]
+   [svg%3E] [logo-white.png] [svg%3E] [logo-orange.png] [svg%3E]
    [logo-ccfd-white.svg]
 
    ____________________
    Submit
    (BUTTON)
 
-     * [9]Qui sommes-nous ?
-          + [10]Retour
-          + [11]Qui sommes-nous ?
-          + [12]La gouvernance
-          + [13]Les rapports institutionnels
-     * [14]Nos combats
-          + [15]Retour
-          + [16]Nos combats
-          + [17]Paix et vivre ensemble
-          + [18]Souveraineté Alimentaire
-          + [19]Migrations Internationales
-          + [20]Justice Economique
-     * [21]Nos partenaires
-          + [22]Retour
-          + [23]Nos partenaires
-          + [24]Nos programmes
-          + [25]Nos projets
-     * [26]Actualités
-          + [27]Retour
-          + [28]Actualités
-          + [29]Nos dossiers thématiques
-          + [30]magazine échos du monde
-          + [31]Agenda
-          + [32]Revue de presse
+     * Qui sommes-nous ?
+          + Retour
+          + Qui sommes-nous ?
+          + La gouvernance
+          + Les rapports institutionnels
+     * Nos combats
+          + Retour
+          + Nos combats
+          + Paix et vivre ensemble
+          + Souveraineté Alimentaire
+          + Migrations Internationales
+          + Justice Economique
+     * Nos partenaires
+          + Retour
+          + Nos partenaires
+          + Nos programmes
+          + Nos projets
+     * Actualités
+          + Retour
+          + Actualités
+          + Nos dossiers thématiques
+          + magazine échos du monde
+          + Agenda
+          + Revue de presse
 
    ____________________
    Submit (BUTTON)
-   [33]J'agis [34]Je donne
+   J'agis Je donne
    (BUTTON) Langage FR
      * retour
-     * [35]EN
+     * EN
 
    (BUTTON) (BUTTON)
 
    © The Friends of the earth Europe © The Friends of the earth Europe
 
    © The Friends of the earth Europe
-   [36][svg%3E] [play-video.svg]
+   [svg%3E] [play-video.svg]
 
 Devoir de vigilance
 des multinationales
 
    (BUTTON)
 
-   [37]J'agis [38]Je donne
+   J'agis Je donne
 
-   [39]Accueil / [40]Actualités / [41]Dossiers thématiques / Devoir de
-   vigilance des multinationales
+   Accueil / Actualités / Dossiers thématiques / Devoir de vigilance des
+   multinationales
    Une loi historique
 
 
@@ -117,7 +117,6 @@ DÉCOUVREZ LES ENJEUX DE NOTRE COMBAT À TRAVERS :
 
 Les décryptages
 
-   [42]
    © multinationales.org © multinationales.org
 
    Decryptage
@@ -131,7 +130,6 @@ Tout comprendre sur le devoir de vigilance (FAQ)
 
    28 octobre 2023
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [43]
    © multinationales.org © multinationales.org
 
    Article
@@ -145,7 +143,6 @@ PLANS DE VIGILANCE : LES ENTREPRISES JOUENT-ELLES LE JEU?
 
    2 février 2023
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [44]
 
    Echos du Monde
 
@@ -158,7 +155,6 @@ Devoir de vigilance : la loi française inspire l’Europe et le monde
 
    1 juillet 2022
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [45]
    © Canva © Canva
 
 L’application de la loi sur le devoir de vigilance passée au radar : 27% des
@@ -171,7 +167,6 @@ entreprises hors la loi ?
 
    3 février 2022
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [46]
    © CCFD-Terre Solidaire © CCFD-Terre Solidaire
 
    Rapports de plaidoyer
@@ -189,8 +184,6 @@ Radar du devoir de vigilance : quelles sont les entreprises hors la loi ?
 
 Les podcast
 
-   [47]
-
    Podcast
 
 La société civile mobilisée pour faire respecter la loi sur le devoir de
@@ -203,7 +196,6 @@ vigilance
 
    11 janvier 2022
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [48]
    © ProDESC © ProDESC
 
    Podcast
@@ -220,8 +212,6 @@ Une communauté autochtone au Mexique se bat pour qu’EDF respecte ses droits
 
 Les témoignages
 
-   [49]
-
    Echos du Monde
 
 Au Brésil, BNP Paribas assigné en justice par notre partenaire CPT
@@ -233,7 +223,6 @@ Au Brésil, BNP Paribas assigné en justice par notre partenaire CPT
 
    27 mars 2023
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [50]
    © CCFD-Terre Solidaire © CCFD-Terre Solidaire
 
    Article
@@ -248,7 +237,6 @@ habitants de l’Amazonie
 
    29 août 2022
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [51]
    © Union Hidalgo © Union Hidalgo
 
 Mexique : elle défend les droits de sa communauté zapotèque face à EDF
@@ -263,7 +251,6 @@ Mexique : elle défend les droits de sa communauté zapotèque face à EDF
 
 Les opinions
 
-   [52]
    © multinationales.org © multinationales.org
 
    Opinion
@@ -277,7 +264,6 @@ Covid-19 : face à la crise économique, le devoir de vigilance
 
    16 décembre 2021
    Lire l’article [svg%3E] [arrow-link-orange.svg]
-   [53]
 
    Communiqués de presse
 
@@ -296,20 +282,20 @@ Multinationales : Le temps de la responsabilité (Tribune)
    [ccfd-terresolidaire.org-devoir-de-vigilance-des-multinationales-direct
    ive-europeenne-sur-le-devoir-de-vigilance-capture.jpg]
    Directive CSDDD et contentieux FR devoir de vigilance – sept 2023
-   [54](BUTTON) [svg%3E] [download-white.svg] Télécharger
+   (BUTTON) [svg%3E] [download-white.svg] Télécharger
    [svg%3E] [Capture-décran-2022-01-06-à-23.50.19.png]
    loi sur le devoir de vigilance des sociétés mères et entreprises
    donneuses d’ordre, les entreprises peuvent mieux faire
-   [55](BUTTON) [svg%3E] [download-white.svg] Télécharger
+   (BUTTON) [svg%3E] [download-white.svg] Télécharger
    [svg%3E] [Capture-décran-2022-01-06-à-23.53.49-e1641509766502.png]
    Une législation européenne sur le devoir de vigilance et la
    responsabilité juridique des entreprises ? Une idée dont le temps est
    venu
-   [56](BUTTON) [svg%3E] [download-white.svg] Télécharger
+   (BUTTON) [svg%3E] [download-white.svg] Télécharger
    [svg%3E] [Capture-décran-2022-01-06-à-23.59.06.png]
    Le radar du devoir de vigilance. Identifier les entreprises soumises à
    la loi
-   [57](BUTTON) [svg%3E] [download-white.svg] Télécharger
+   (BUTTON) [svg%3E] [download-white.svg] Télécharger
 
 avec le CCFD - TERRE SOLIDAIRE
 
@@ -319,7 +305,6 @@ J'ai 1 minute
 
    Partagez et relayez nos informations et nos combats. S’informer, c’est
    déjà agir.
-   [58]
 
    Je m'informe
 
@@ -327,7 +312,6 @@ J’ai 5 minutes
 
    Contribuez directement à nos actions de solidarité internationale grâce
    à un don.
-   [59]
 
    Je donne
 
@@ -335,7 +319,6 @@ J’ai plus de temps
 
    S'engager au CCFD-Terre Solidaire, c'est agir pour un monde plus juste
    ! Devenez bénévole.
-   [60]
 
    Je m'engage
 
@@ -346,27 +329,27 @@ Vous n'avez qu'une minute ?
 Rejoignez-nous
 
    Restez au plus près de l'action
-     * [61]Twitter Twitter
-     * [62]Facebook Facebook
-     * [63]Linkedin Linkedin
-     * [64]Youtube Youtube
-     * [65]Instagram Instagram
+     * Twitter Twitter
+     * Facebook Facebook
+     * Linkedin Linkedin
+     * Youtube Youtube
+     * Instagram Instagram
 
 Restez informés
 
    Abonnez-vous à notre newsletter
-   [66]Je m'abonne
+   Je m'abonne
 
 Partager le dossier :
 
-     * [67][svg%3E] [twitter.svg]
-     * [68][svg%3E] [facebook.svg]
-     * [69][svg%3E] [linkedin.svg]
-     * [70][svg%3E] [mail.svg]
+     * [svg%3E] [twitter.svg]
+     * [svg%3E] [facebook.svg]
+     * [svg%3E] [linkedin.svg]
+     * [svg%3E] [mail.svg]
 
 Je reste informé ! Je m'abonne à la newsletter
 
-   [71]Je m'abonne
+   Je m'abonne
    loader loader
    [M._]
    ____________________
@@ -374,8 +357,8 @@ Je reste informé ! Je m'abonne à la newsletter
    ____________________
    [ ] Je souhaite recevoir la newsletter du CCFD-Terre Solidaire
    [ ] J’accepte de partager mes données personnelles avec l’association
-   CCFD - Terre Solidaire dans le cadre du [72]respect des garanties
-   offertes par les consignes RGPD.
+   CCFD - Terre Solidaire dans le cadre du respect des garanties offertes
+   par les consignes RGPD.
    Valider le formulaire
 
    (BUTTON)
@@ -401,19 +384,17 @@ Respect des garanties rgpd
    personnelles, vous pouvez adresser une réclamation à la CNIL.
    (BUTTON) Fermer
 
-   [73]J'agis
-   [74]Je donne
+   J'agis
+   Je donne
 
-[75]Vous souhaitez nous rejoindre ?
+Vous souhaitez nous rejoindre ?
 
    Offre d'emploi Offre d'emploi
-   [76]
 
 Offres d'emploi
 
    Consulter Consulter Consulter
    Offre de bénévolat Offre de bénévolat
-   [77]
 
 Offres de bénévolat
 
@@ -421,130 +402,34 @@ Offres de bénévolat
 
    Logo Terre Solidaire Logo Terre Solidaire
      * Suivez-nous :
-     * [78]Twitter Twitter
-     * [79]Facebook Facebook
-     * [80]Linkedin Linkedin
-     * [81]Youtube Youtube
-     * [82]Instagram Instagram
+     * Twitter Twitter
+     * Facebook Facebook
+     * Linkedin Linkedin
+     * Youtube Youtube
+     * Instagram Instagram
 
    Comité Catholique contre la faim et pour le développement
    - Terre solidaire
-     * [83]Contactez-nous
-     * [84]F.A.Q.
-     * [85]Mentions légales
-     * [86]Cookies
-     * [87]Espace presse
-     * [88]Espace bénévole
-     * [89]Espace donateur
-     * [90]Articles
+     * Contactez-nous
+     * F.A.Q.
+     * Mentions légales
+     * Cookies
+     * Espace presse
+     * Espace bénévole
+     * Espace donateur
+     * Articles
 
-   [91][svg%3E] [don-de-confiance.png]
-     * [92]Twitter Twitter
-     * [93]Facebook Facebook
-     * [94]Linkedin Linkedin
-     * [95]Youtube Youtube
-     * [96]Instagram Instagram
+   [svg%3E] [don-de-confiance.png]
+     * Twitter Twitter
+     * Facebook Facebook
+     * Linkedin Linkedin
+     * Youtube Youtube
+     * Instagram Instagram
 
 N° SIREN 775 664 527 - N° RNA W759000066
 
-   [97][svg%3E] [don-de-confiance.png]
+   [svg%3E] [don-de-confiance.png]
 
-Références
-
-   1. https://ccfd-terresolidaire.org/feed/
-   2. https://ccfd-terresolidaire.org/comments/feed/
-   3. https://ccfd-terresolidaire.org/web-stories/feed/
-   4. https://ccfd-terresolidaire.org/wp-json/wp/v2/dossier/19439
-   5. https://ccfd-terresolidaire.org/wp-json/oembed/1.0/embed?url=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-   6. https://ccfd-terresolidaire.org/wp-json/oembed/1.0/embed?url=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/&format=xml
-   7. https://www.googletagmanager.com/ns.html?id=GTM-WNNPCM
-   8. https://ccfd-terresolidaire.org/
-   9. https://ccfd-terresolidaire.org/qui-sommes-nous/
-  10. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  11. https://ccfd-terresolidaire.org/qui-sommes-nous/
-  12. https://ccfd-terresolidaire.org/la-gouvernance/
-  13. https://ccfd-terresolidaire.org/qui-sommes-nous/les-rapports-institutionnels/
-  14. https://ccfd-terresolidaire.org/nos-combats/
-  15. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  16. https://ccfd-terresolidaire.org/nos-combats/
-  17. https://ccfd-terresolidaire.org/combat/paix-et-vivre-ensemble-2/
-  18. https://ccfd-terresolidaire.org/combat/souverainete-alimentaire/
-  19. https://ccfd-terresolidaire.org/combat/migrations-internationales/
-  20. https://ccfd-terresolidaire.org/combat/justice-economique/
-  21. https://ccfd-terresolidaire.org/nos-partenaires/
-  22. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  23. https://ccfd-terresolidaire.org/nos-partenaires/
-  24. https://ccfd-terresolidaire.org/nos-partenaires/nos-programmes/
-  25. https://ccfd-terresolidaire.org/nos-projets/
-  26. https://ccfd-terresolidaire.org/actualites/
-  27. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  28. https://ccfd-terresolidaire.org/actualites/
-  29. https://ccfd-terresolidaire.org/dossiers-thematiques/
-  30. https://ccfd-terresolidaire.org/echos-du-monde/
-  31. https://ccfd-terresolidaire.org/actualites/agenda/
-  32. https://ccfd-terresolidaire.org/revue-de-presse/
-  33. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/j-agis/
-  34. https://soutenir.ccfd-terresolidaire.org/b?cid=1112&lang=fr_FR
-  35. https://ccfd-terresolidaire.org/langue/en/
-  36. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  37. https://ccfd-terresolidaire.org/j-agis/
-  38. https://soutenir.ccfd-terresolidaire.org/b/mon-don?_ga=2.245571014.395316217.1641821048-1962291881.1623340482&cid=1&_cv=1
-  39. https://ccfd-terresolidaire.org/
-  40. https://ccfd-terresolidaire.org/actualites/
-  41. https://ccfd-terresolidaire.org/dossiers-thematiques/
-  42. https://ccfd-terresolidaire.org/tout-comprendre-sur-le-devoir-de-vigilance-faq/
-  43. https://ccfd-terresolidaire.org/plans-de-vigilance-quoi-de-nouveau-dans-le-radar/
-  44. https://ccfd-terresolidaire.org/devoir-de-vigilance-la-loi-francaise-inspire-leurope-et-le-monde-2/
-  45. https://ccfd-terresolidaire.org/lapplication-de-la-loi-sur-le-devoir-de-vigilance-passee-au-radar-27-des-entreprises-hors-la-loi/
-  46. https://ccfd-terresolidaire.org/radar-du-devoir-de-vigilance-quelles-sont-les-entreprises-hors-la-loi-rapport/
-  47. https://ccfd-terresolidaire.org/la-societe-civile-mobilisee-pour-faire-respecter-la-loi-sur-le-devoir-de-vigilance-podcast/
-  48. https://ccfd-terresolidaire.org/une-communaute-autochtone-au-mexique-se-bat-pour-quedf-respecte-ses-droits/
-  49. https://ccfd-terresolidaire.org/au-bresil-bnp-paribas-assigne-en-justice-par-notre-partenaire-cpt/
-  50. https://ccfd-terresolidaire.org/au-bresil-limpact-de-la-viande-vendue-par-casino-sur-la-foret-et-les-habitants-de-lamazonie/
-  51. https://ccfd-terresolidaire.org/mexique-elle-defend-les-droits-de-sa-communaute-zapoteque-face-a-edf/
-  52. https://ccfd-terresolidaire.org/covid-19-face-a-la-crise-economique-le-devoir-de-vigilance/
-  53. https://ccfd-terresolidaire.org/multinationales-le-temps-de-la-responsabilite-tribune/
-  54. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/directive-csddd-et-contentieux-fr-devoir-de-vigilance-sept-2023/
-  55. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/loi-sur-le-devoir-de-vigilance-des-societes-meres-et-entreprises-donneuses-dordre-les-entreprises-peuvent-mieux-faire/
-  56. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/une-legislation-europeenne-sur-le-devoir-de-vigilance-et-la-responsabilite-juridique-des-entreprises-une-idee-dont-le-temps-est-venu/
-  57. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/le-radar-du-devoir-de-vigilance-identifier-les-entreprises-soumises-a-la-loi/
-  58. https://ccfd-terresolidaire.org/newsletter/
-  59. https://soutenir.ccfd-terresolidaire.org/b?cid=734
-  60. https://ccfd-terresolidaire.org/j-agis/#form
-  61. https://twitter.com/ccfd_tsolidaire
-  62. https://www.facebook.com/ccfdterresolidaire
-  63. https://www.linkedin.com/company/ccfd-terre-solidaire---official-page/
-  64. https://www.youtube.com/user/ccfdterresolidaire
-  65. https://www.instagram.com/ccfd.terresolidaire
-  66. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  67. https://twitter.com/share?url=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/&text=
-  68. https://www.facebook.com/sharer.php?u=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  69. https://www.linkedin.com/shareArticle?url=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/&title=
-  70. mailto:?subject=&body=https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  71. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/#collapseNewsletter
-  72. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  73. https://ccfd-terresolidaire.org/j-agis/
-  74. https://soutenir.ccfd-terresolidaire.org/b/mon-don?_ga=2.245571014.395316217.1641821048-1962291881.1623340482&cid=1&_cv=1
-  75. https://ccfd-terresolidaire.org/notre-equipe
-  76. https://ccfd-terresolidaire.org/les-offres/?contrat=#filters
-  77. https://ccfd-terresolidaire.org/les-offres/?contrat=#filters
-  78. https://twitter.com/ccfd_tsolidaire
-  79. https://www.facebook.com/ccfdterresolidaire
-  80. https://www.linkedin.com/company/ccfd-terre-solidaire---official-page/
-  81. https://www.youtube.com/user/ccfdterresolidaire
-  82. https://www.instagram.com/ccfd.terresolidaire
-  83. https://ccfd-terresolidaire.org/contact/
-  84. https://ccfd-terresolidaire.org/contact/#faq
-  85. https://ccfd-terresolidaire.org/mentions-legales/
-  86. https://ccfd-terresolidaire.org/dossier/devoir-de-vigilance-des-multinationales/
-  87. https://ccfd-terresolidaire.org/espace-presse/
-  88. https://laplace.ccfd-terresolidaire.org/
-  89. https://soutenir.ccfd-terresolidaire.org/fr_FR/connect
-  90. https://ccfd-terresolidaire.org/articles/
-  91. https://www.donenconfiance.org/
-  92. https://twitter.com/ccfd_tsolidaire
-  93. https://www.facebook.com/ccfdterresolidaire
-  94. https://www.linkedin.com/company/ccfd-terre-solidaire---official-page/
-  95. https://www.youtube.com/user/ccfdterresolidaire
-  96. https://www.instagram.com/ccfd.terresolidaire
-  97. https://www.donenconfiance.org/
+   Quand la faim augmente, nourrissons le monde de solutions pour la
+   combattre
+   Je découvre Je donne

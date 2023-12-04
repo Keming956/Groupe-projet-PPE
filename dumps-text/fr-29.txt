@@ -1,11 +1,11 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
 
    Fermer menu
 
    Rechercher sur le si Submit
 
           + Mon compte
-          + [2]Je m'abonne
+          + Je m'abonne
 
    Fermeture
 
@@ -20,11 +20,11 @@
 
    Votre message a bien été envoyé!
 
-     * [3]Twitter
-     * [4]LinkedIn
+     * Twitter
+     * LinkedIn
 
    Rechercher sur le si Submit
-   Mon compte [5]Je m'abonne
+   Mon compte Je m'abonne
 
    Accéder aux fiches-pratiques.daf-mag.fr
 
@@ -35,7 +35,7 @@
      * Mot de passe
      * ____________________
      * Rester connecté ?
-     * [ ] [6]Mot de passe oublié ?
+     * [ ] Mot de passe oublié ?
 
    JE M'IDENTIFIE
    OU
@@ -45,16 +45,16 @@
    500 fiches
    accessibles immédiatement !
    Cliquez vite sur "Je m'abonne" !
-   [7]Je m'abonne
+   Je m'abonne
 
      * Menu
      *
 
    Pub
-   [8]logo Fiches pratiques
+   logo Fiches pratiques
    ____________________ Rechercher
 
-   [9]Accueil[10]Fiches Pratiques[11]Fiches Pratiques Juridique
+   AccueilFiches PratiquesFiches Pratiques Juridique
 
 Qu'est-ce que le devoir de diligence d'une entreprise ?
 
@@ -92,13 +92,12 @@ Le devoir de diligence d'une entreprise
      * la responsabilité incombant aux entreprises de respecter les droits
        humains
 
-   Dans son [12]Guide sur le devoir de diligence pour une conduite
-   responsable des entreprises, l'OCDE désigne ainsi le devoir de
-   diligence comme "un processus continu, proactif et réactif qui permet
-   aux entreprises d'identifier et de gérer les risques effectifs ou
-   potentiels afin de prévenir ou d'atténuer les probabilités de
-   contribuer aux impacts négatifs liés à leurs activités ou à leurs choix
-   d'approvisionnement".
+   Dans son Guide sur le devoir de diligence pour une conduite responsable
+   des entreprises, l'OCDE désigne ainsi le devoir de diligence comme "un
+   processus continu, proactif et réactif qui permet aux entreprises
+   d'identifier et de gérer les risques effectifs ou potentiels afin de
+   prévenir ou d'atténuer les probabilités de contribuer aux impacts
+   négatifs liés à leurs activités ou à leurs choix d'approvisionnement".
 
 Le devoir de diligence d'une entreprise en France
 
@@ -106,8 +105,8 @@ Le devoir de diligence d'une entreprise en France
    précise sur le devoir de diligence, la France fait donc office de pays
    pionnier en termes de due diligence. Adoptée en 2017, la loi n°
    2017-399 relative au devoir de vigilance des sociétés mères et
-   entreprises donneuses d'ordre oblige certaines sociétés à [13]rédiger
-   un plan de vigilance et à le mettre en place de manière effective.
+   entreprises donneuses d'ordre oblige certaines sociétés à rédiger un
+   plan de vigilance et à le mettre en place de manière effective.
 
    Sont concernées, toutes les sociétés employant, à la clôture de deux
    exercices consécutifs :
@@ -118,7 +117,7 @@ Le devoir de diligence d'une entreprise en France
        ou indirectes dont le siège social est fixé sur le territoire
        français ou à l'étranger
 
-   Cette loi de 2017 est venue compléter [14]la loi Sapin II, loi pour la
+   Cette loi de 2017 est venue compléter la loi Sapin II, loi pour la
    transparence, l'action contre la corruption et la modernisation de la
    vie économique, adoptée un an plus tôt.
 
@@ -141,39 +140,39 @@ diligence ?
    2020, la jurisprudence française considère également que la
    responsabilité pénale d'une société absorbante est engagée pour des
    actes accomplis par la société absorbée avant la fusion-acquisition.
-   [15]Imprimer cette fiche
+   Imprimer cette fiche
 
 A lire aussi
 
-     * [16]Comment se déroule un processus de due diligence ?
-     * [17]Qu'est-ce que le devoir de vigilance pour une entreprise ?
-     * [18]A quelles obligations de responsabilité sociétale et
+     * Comment se déroule un processus de due diligence ?
+     * Qu'est-ce que le devoir de vigilance pour une entreprise ?
+     * A quelles obligations de responsabilité sociétale et
        environnementale les entreprises sont-elles soumises en France ?
-     * [19]Métier - Responsable Fusions & Acquisitions (ou M&A)
+     * Métier - Responsable Fusions & Acquisitions (ou M&A)
 
 Dernières Actualités similaires
 
-   [20]Réglementation
+   Réglementation
 
-[21]Devoir de vigilance : les sanctions invalidées, le périmètre en question
+Devoir de vigilance : les sanctions invalidées, le périmètre en question
 
-   [22]Devoir de vigilance : les sanctions invalidées, le périmètre en
+   Devoir de vigilance : les sanctions invalidées, le périmètre en
    question
-   [23]Contrôle interne & Audit
+   Contrôle interne & Audit
 
-[24]Quel avenir pour les due diligences ?
+Quel avenir pour les due diligences ?
 
-   [25]Quel avenir pour les due diligences ?
-   [26]Réglementation
+   Quel avenir pour les due diligences ?
+   Réglementation
 
-[27]De l'importance des due diligences avant fusion-acquisition
+De l'importance des due diligences avant fusion-acquisition
 
-   [28]De l'importance des due diligences avant fusion-acquisition
-   [29]Réglementation
+   De l'importance des due diligences avant fusion-acquisition
+   Réglementation
 
-[30]Devoir de vigilance : vers une accélération des affaires?
+Devoir de vigilance : vers une accélération des affaires?
 
-   [31]Devoir de vigilance : vers une accélération des affaires?
+   Devoir de vigilance : vers une accélération des affaires?
 
    À propos
 
@@ -184,100 +183,35 @@ Dernières Actualités similaires
    prestataires de la filière administrative, financière et RH.
 
    Sites du groupe
-     * [32][emkg-favicon.png] E-marketing.fr
-     * [33][eco-favicon.png] Ecommercemag.fr
-     * [34][rc-favicon.png] RelationClientMag.fr
-     * [35][cem-favicon.png] Beaboss.fr
-     * [36][ekopo-favicon.png] Ekopo.fr
-     * [37][da-favicon.png] Decision-Achats.fr
-     * [38][daf-favicon.png] DAF-mag.fr
-     * [39][ac-favicon.png] Actionco.fr
-     * [40][sil-favicon.png] Silicon.fr
-     * [41][wf-favicon.png] We-factoryandco.fr
+     * [emkg-favicon.png] E-marketing.fr
+     * [eco-favicon.png] Ecommercemag.fr
+     * [rc-favicon.png] RelationClientMag.fr
+     * [cem-favicon.png] Beaboss.fr
+     * [ekopo-favicon.png] Ekopo.fr
+     * [da-favicon.png] Decision-Achats.fr
+     * [daf-favicon.png] DAF-mag.fr
+     * [ac-favicon.png] Actionco.fr
+     * [sil-favicon.png] Silicon.fr
+     * [wf-favicon.png] We-factoryandco.fr
 
    Services
-     * [42]Vos events
-     * [43]Livres blancs
-     * [44]Glossaire
+     * Vos events
+     * Livres blancs
+     * Glossaire
 
    Contactez-nous
-     * [45]La rédaction
-     * [46]La régie
-     * [47]Suppression de données
-     * [48]Annoncer sur Daf-Mag.fr
+     * La rédaction
+     * La régie
+     * Suppression de données
+     * Annoncer sur Daf-Mag.fr
 
    Abonnement
-     * [49]S'abonner
-     * [50]Se connecter
+     * S'abonner
+     * Se connecter
 
-     * [51]Contact
-     * [52]Consentements cookies
-     * [53]CGU
-     * [54]Politique de confidentialité & Mentions légales
-     * [55]Archives
+     * Contact
+     * Consentements cookies
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
      * © 2023 - fiches-pratiques.daf-mag.fr
-
-Références
-
-   Liens visibles :
-   1. https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
-   2. https://boutique.netmedia.group/common/categories/22?Origine=FPDAF&utm_source=fpdaf&utm_medium=site&utm_campaign=popin
-   3. https://twitter.com/DAFmag_fr
-   4. https://www.linkedin.com/showcase/6653365/
-   5. https://boutique.netmedia.group/common/categories/22?Origine=FichesPratiques&utm_source=fichepratique&utm_medium=site&utm_campaign=header
-   6. https://fiches-pratiques.daf-mag.fr/compte/demandemotdepasse
-   7. https://boutique.netmedia.group/common/categories/22?Origine=FichesPratiques&utm_source=fichepratique&utm_medium=site&utm_campaign=popin
-   8. https://fiches-pratiques.daf-mag.fr/
-   9. https://www.daf-mag.fr/
-  10. https://fiches-pratiques.daf-mag.fr/
-  11. https://fiches-pratiques.daf-mag.fr/thematique/juridique-1207/1
-  12. https://www.oecd.org/fr/daf/inv/mne/Guide-OCDE-sur-le-devoir-de-diligence-pour-une-conduite-responsable-des-entreprises.pdf
-  13. https://www.daf-mag.fr/Thematique/gestion-risque-1241/audit-2121/Breves/Due-diligences-quelle-strategie-adopter--371295.htm
-  14. https://www.daf-mag.fr/Thematique/reglementation-1243/Breves/Loi-Sapin-est-urgent-mettre-conformite-340089/all.htm
-  15. https://fiches-pratiques.daf-mag.fr/Thematique/juridique-1207/FichePratique/Qu-est-ce-que-le-devoir-de-diligence-d-une-380971.htm
-  16. https://fiches-pratiques.daf-mag.fr/Thematique/gestion-1210/FichePratique/Comment-se-deroule-un-processus-de-due-diligence--380882.htm
-  17. https://fiches-pratiques.daf-mag.fr/Thematique/strategie-1200/FichePratique/Qu-est-ce-que-le-devoir-de-vigilance-pour-une-382767.htm
-  18. https://fiches-pratiques.daf-mag.fr/Thematique/strategie-1200/FichePratique/Quelles-obligations-RSE-pour-les-entreprises-en-France--382762.htm
-  19. https://fiches-pratiques.daf-mag.fr/Thematique/ressources_humaines-1209/FichePratique/Responsable-Fusions-Acquisitions-etudes-formation-salaire-380732.htm
-  20. https://www.daf-mag.fr/thematique/reglementation-1243
-  21. https://www.daf-mag.fr/Thematique/reglementation-1243/Breves/Devoir-vigilance-sanctions-invalidees-perimetre-question-315589.htm
-  22. https://www.daf-mag.fr/Thematique/reglementation-1243/Breves/Devoir-vigilance-sanctions-invalidees-perimetre-question-315589.htm
-  23. https://www.daf-mag.fr/thematique/gestion-risque-1241/audit-2121/1
-  24. https://www.daf-mag.fr/Thematique/fonction-finance-1242/financements-innovations-2124/Breves/Quel-avenir-due-diligences-361092.htm
-  25. https://www.daf-mag.fr/Thematique/fonction-finance-1242/financements-innovations-2124/Breves/Quel-avenir-due-diligences-361092.htm
-  26. https://www.daf-mag.fr/thematique/reglementation-1243
-  27. https://www.daf-mag.fr/Thematique/fonction-finance-1242/Breves/-importance-due-diligences-avant-fusion-acquisition-355549.htm
-  28. https://www.daf-mag.fr/Thematique/fonction-finance-1242/Breves/-importance-due-diligences-avant-fusion-acquisition-355549.htm
-  29. https://www.daf-mag.fr/thematique/reglementation-1243
-  30. https://www.daf-mag.fr/Thematique/reglementation-1243/Breves/Devoir-de-vigilance-vers-une-acceleration-des-affaires--372255.htm
-  31. https://www.daf-mag.fr/Thematique/reglementation-1243/Breves/Devoir-de-vigilance-vers-une-acceleration-des-affaires--372255.htm
-  32. https://www.e-marketing.fr/
-  33. https://www.ecommercemag.fr/
-  34. https://www.relationclientmag.fr/
-  35. https://www.beaboss.fr/
-  36. https://www.ekopo.fr/
-  37. https://www.decision-achats.fr/
-  38. https://www.daf-mag.fr/
-  39. https://www.actionco.fr/
-  40. https://www.silicon.fr/
-  41. https://www.we-factoryandco.fr/
-  42. https://www.daf-mag.fr/evenements/events-daf-361671.htm
-  43. https://www.daf-mag.fr/livreblanc
-  44. https://www.daf-mag.fr/definitions-glossaire/a/1
-  45. https://www.daf-mag.fr/editialis/contact?selected=4
-  46. https://www.daf-mag.fr/editialis/contact?selected=6
-  47. https://www.daf-mag.fr/editialis/contact?selected=5
-  48. https://www.daf-mag.fr/editialis/contact?selected=3
-  49. https://boutique.netmedia.group/common/categories/17?utm_source=HEADER&utm_medium=SITE_CE&utm_campaign=Abo
-  50. https://fiches-pratiques.daf-mag.fr/Thematique/juridique-1207/FichePratique/Qu-est-ce-que-le-devoir-de-diligence-d-une-380971.htm
-  51. https://www.daf-mag.fr/editialis/contact
-  52. javascript:Didomi.preferences.show()
-  53. https://www.daf-mag.fr/informations/cgu-326440.htm?_ga=2.35350881.1303075344.1637839802-1040920683.1591970350
-  54. https://fiches-pratiques.daf-mag.fr/informations/politique-de-confidentialite-332088.htm
-  55. https://fiches-pratiques.daf-mag.fr/articles
-
-   Liens cachés :
-  57. https://www.daf-mag.fr/
-  58. https://fiches-pratiques.daf-mag.fr/Thematique/juridique-1207/FichePratique/Qu-est-ce-que-le-devoir-de-diligence-d-une-380971.htm
-  59. https://fiches-pratiques.daf-mag.fr/
-  60. https://cdn.edi-static.fr/image/upload/c_scale,h_679/c_crop,w_1300/f_auto,q_auto/v1/Img/FICHEPRATIQUE/2023/4/380971/est-que-devoir-diligence-une-F.jpg

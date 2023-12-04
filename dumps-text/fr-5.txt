@@ -1,166 +1,161 @@
    Javascript est desactivé dans votre navigateur.
-     * [1]Aller au contenu
-     * [2]Aller au menu
-     * [3]Aller au menu
-     * [4]Aller à la recherche
+     * Aller au contenu
+     * Aller au menu
+     * Aller au menu
+     * Aller à la recherche
 
      * République Française. Liberté, Égalité, Fraternité.
-     * [5]Accueil Légifrance.fr - le service public de la diffusion du
-       droit
+     * Accueil Légifrance.fr - le service public de la diffusion du droit
 
    (BUTTON) Menu
      *
-     * [6]Droit national
+     * Droit national
        en vigueur
-          + [7]Constitution
-               o [8]Constitution du 4 octobre 1958
-               o [9]Déclaration des Droits de l'Homme et du Citoyen de
-                 1789
-               o [10]Préambule de la Constitution du 27 octobre 1946
-               o [11]Charte de l'environnement
-          + [12]Codes
-          + [13]Textes consolidés
-          + [14]Jurisprudence
-               o [15]Jurisprudence constitutionnelle
-               o [16]Jurisprudence administrative
-               o [17]Jurisprudence administrative - Plan de classement
-               o [18]Jurisprudence judiciaire
-               o [19]Jurisprudence judiciaire - Plan de classement
-               o [20]Jurisprudence financière
-          + [21]Circulaires et instructions
-          + [22]Accords collectifs
-               o [23]Accords de branche et conventions collectives
-               o [24]Accords d'entreprise
-     * [25]Publications
+          + Constitution
+               o Constitution du 4 octobre 1958
+               o Déclaration des Droits de l'Homme et du Citoyen de 1789
+               o Préambule de la Constitution du 27 octobre 1946
+               o Charte de l'environnement
+          + Codes
+          + Textes consolidés
+          + Jurisprudence
+               o Jurisprudence constitutionnelle
+               o Jurisprudence administrative
+               o Jurisprudence administrative - Plan de classement
+               o Jurisprudence judiciaire
+               o Jurisprudence judiciaire - Plan de classement
+               o Jurisprudence financière
+          + Circulaires et instructions
+          + Accords collectifs
+               o Accords de branche et conventions collectives
+               o Accords d'entreprise
+     * Publications
        officielles
-          + [26]Bulletins officiels
-          + [27]Bulletins officiels des conventions collectives
-          + [28]Journal officiel
-          + [29]Débats parlementaires
-          + [30]Questions écrites parlementaires
-          + [31]Documents administratifs
-     * [32]Autour
+          + Bulletins officiels
+          + Bulletins officiels des conventions collectives
+          + Journal officiel
+          + Débats parlementaires
+          + Questions écrites parlementaires
+          + Documents administratifs
+     * Autour
        de la loi
-          + [33]Codification
-               o [34]Rapports annuels de la Commission supérieure de
+          + Codification
+               o Rapports annuels de la Commission supérieure de
                  codification
-               o [35]Tables de concordance
-          + [36]Législatif et réglementaire
-               o [37]Dossiers législatifs
-               o [38]Etudes d'impact des lois
-               o [39]Les avis du Conseil d'État rendus sur les projets de
-                 loi
-               o [40]Application des lois
-               o [41]Fiches d'impact des ordonnances, décrets et arrêtés
-               o [42]Statistiques de la norme
-               o [43]Charte orthotypographique du Journal officiel
-          + [44]Autorités indépendantes
-               o [45]Autorités administratives indépendantes et autorités
+               o Tables de concordance
+          + Législatif et réglementaire
+               o Dossiers législatifs
+               o Etudes d'impact des lois
+               o Les avis du Conseil d'État rendus sur les projets de loi
+               o Application des lois
+               o Fiches d'impact des ordonnances, décrets et arrêtés
+               o Statistiques de la norme
+               o Charte orthotypographique du Journal officiel
+          + Autorités indépendantes
+               o Autorités administratives indépendantes et autorités
                  publiques indépendantes relevant du statut général défini
                  par la loi n° 2017-55 du 20 janvier 2017
-               o [46]Autorités ne relevant pas du statut général des
-                 autorités administratives indépendantes
-          + [47]Entreprises
-               o [48]Tableaux et chronologies des dates communes d'entrée
-                 en vigueur
-               o [49]Normes AFNOR d'application obligatoire
-          + [50]Guide de légistique
-          + [51]SVA "Silence vaut accord"
-     * [52]Droit et jurisprudence
+               o Autorités ne relevant pas du statut général des autorités
+                 administratives indépendantes
+          + Entreprises
+               o Tableaux et chronologies des dates communes d'entrée en
+                 vigueur
+               o Normes AFNOR d'application obligatoire
+          + Guide de légistique
+          + SVA "Silence vaut accord"
+     * Droit et jurisprudence
        de l'Union européenne
-          + [53]Journal officiel de l'Union européenne
-          + [54]Jurisprudence de l'Union Européenne
-     * [55]Droit
+          + Journal officiel de l'Union européenne
+          + Jurisprudence de l'Union Européenne
+     * Droit
        international
-          + [56]Jurisprudence CEDH
-          + [57]Juridictions internationales
-          + [58]Traités et accords internationaux
+          + Jurisprudence CEDH
+          + Juridictions internationales
+          + Traités et accords internationaux
 
-     * [59]Informations de mises à jour
-     * [60]Gestion des cookies
-     * [61]Nous contacter
+     * Informations de mises à jour
+     * Gestion des cookies
+     * Nous contacter
 
      * Activer l’aide sur la page
 
-     * [62]Informations de mises à jour
-     * [63]Gestion des cookies
-     * [64]Nous contacter
+     * Informations de mises à jour
+     * Gestion des cookies
+     * Nous contacter
 
    (BUTTON) Activer l’aide sur la page
      *
           + République Française. Liberté, Égalité, Fraternité.
-          + [65]Accueil Légifrance.fr - le service public de la diffusion
-            du droit
+          + Accueil Légifrance.fr - le service public de la diffusion du
+            droit
      *
-     * [66]Droit national
+     * Droit national
        en vigueur
-          + [67]Constitution
-               o [68]Constitution du 4 octobre 1958
-               o [69]Déclaration des Droits de l'Homme et du Citoyen de
-                 1789
-               o [70]Préambule de la Constitution du 27 octobre 1946
-               o [71]Charte de l'environnement
-          + [72]Codes
-          + [73]Textes consolidés
-          + [74]Jurisprudence
-               o [75]Jurisprudence constitutionnelle
-               o [76]Jurisprudence administrative
-               o [77]Jurisprudence administrative - Plan de classement
-               o [78]Jurisprudence judiciaire
-               o [79]Jurisprudence judiciaire - Plan de classement
-               o [80]Jurisprudence financière
-          + [81]Circulaires et instructions
-          + [82]Accords collectifs
-               o [83]Accords de branche et conventions collectives
-               o [84]Accords d'entreprise
-     * [85]Publications
+          + Constitution
+               o Constitution du 4 octobre 1958
+               o Déclaration des Droits de l'Homme et du Citoyen de 1789
+               o Préambule de la Constitution du 27 octobre 1946
+               o Charte de l'environnement
+          + Codes
+          + Textes consolidés
+          + Jurisprudence
+               o Jurisprudence constitutionnelle
+               o Jurisprudence administrative
+               o Jurisprudence administrative - Plan de classement
+               o Jurisprudence judiciaire
+               o Jurisprudence judiciaire - Plan de classement
+               o Jurisprudence financière
+          + Circulaires et instructions
+          + Accords collectifs
+               o Accords de branche et conventions collectives
+               o Accords d'entreprise
+     * Publications
        officielles
-          + [86]Bulletins officiels
-          + [87]Bulletins officiels des conventions collectives
-          + [88]Journal officiel
-          + [89]Débats parlementaires
-          + [90]Questions écrites parlementaires
-          + [91]Documents administratifs
-     * [92]Autour
+          + Bulletins officiels
+          + Bulletins officiels des conventions collectives
+          + Journal officiel
+          + Débats parlementaires
+          + Questions écrites parlementaires
+          + Documents administratifs
+     * Autour
        de la loi
-          + [93]Codification
-               o [94]Rapports annuels de la Commission supérieure de
+          + Codification
+               o Rapports annuels de la Commission supérieure de
                  codification
-               o [95]Tables de concordance
-          + [96]Législatif et réglementaire
-               o [97]Dossiers législatifs
-               o [98]Etudes d'impact des lois
-               o [99]Les avis du Conseil d'État rendus sur les projets de
-                 loi
-               o [100]Application des lois
-               o [101]Fiches d'impact des ordonnances, décrets et arrêtés
-               o [102]Statistiques de la norme
-               o [103]Charte orthotypographique du Journal officiel
-          + [104]Autorités indépendantes
-               o [105]Autorités administratives indépendantes et autorités
+               o Tables de concordance
+          + Législatif et réglementaire
+               o Dossiers législatifs
+               o Etudes d'impact des lois
+               o Les avis du Conseil d'État rendus sur les projets de loi
+               o Application des lois
+               o Fiches d'impact des ordonnances, décrets et arrêtés
+               o Statistiques de la norme
+               o Charte orthotypographique du Journal officiel
+          + Autorités indépendantes
+               o Autorités administratives indépendantes et autorités
                  publiques indépendantes relevant du statut général défini
                  par la loi n° 2017-55 du 20 janvier 2017
-               o [106]Autorités ne relevant pas du statut général des
-                 autorités administratives indépendantes
-          + [107]Entreprises
-               o [108]Tableaux et chronologies des dates communes d'entrée
-                 en vigueur
-               o [109]Normes AFNOR d'application obligatoire
-          + [110]Guide de légistique
-          + [111]SVA "Silence vaut accord"
-     * [112]Droit et jurisprudence
+               o Autorités ne relevant pas du statut général des autorités
+                 administratives indépendantes
+          + Entreprises
+               o Tableaux et chronologies des dates communes d'entrée en
+                 vigueur
+               o Normes AFNOR d'application obligatoire
+          + Guide de légistique
+          + SVA "Silence vaut accord"
+     * Droit et jurisprudence
        de l'Union européenne
-          + [113]Journal officiel de l'Union européenne
-          + [114]Jurisprudence de l'Union Européenne
-     * [115]Droit
+          + Journal officiel de l'Union européenne
+          + Jurisprudence de l'Union Européenne
+     * Droit
        international
-          + [116]Jurisprudence CEDH
-          + [117]Juridictions internationales
-          + [118]Traités et accords internationaux
+          + Jurisprudence CEDH
+          + Juridictions internationales
+          + Traités et accords internationaux
 
-    1. [119]Accueil
-    2. [120]Publications officielles
-    3. [121]Journal officiel
+    1. Accueil
+    2. Publications officielles
+    3. Journal officiel
     4. LOI n° 2017-399 du 27 mars 2017 relative au devoir de vigilance des
        sociétés mères et des entreprises donneuses ...
 
@@ -225,9 +220,9 @@
    Rechercher un mot, une expression, une référence… Ex. : L. 121-1, CGI,
    10-15056, dol, majeurs protégés ____________________
    (BUTTON) rechercher
-   [122]Recherche avancée
-     * [123]Retour au Sommaire du JO
-     * [124]Texte suivant ›
+   Recherche avancée
+     * Retour au Sommaire du JO
+     * Texte suivant ›
 
      * (BUTTON) Imprimer
      * (BUTTON) Copier le texte
@@ -240,20 +235,19 @@ mères et des entreprises donneuses d'ordre (1)
    https://www.legifrance.gouv.fr/eli/loi/2017/3/27/ECFX1509096L/jo/texte
    Alias :
    https://www.legifrance.gouv.fr/eli/loi/2017/3/27/2017-399/jo/texte
-   [125]JORF n°0074 du 28 mars 2017
+   JORF n°0074 du 28 mars 2017
    Texte n° 1
-   [126]Extrait du Journal officiel électronique authentifié PDF - 218,6
-   Ko
-     * [127]Dossier Législatif : LOI n° 2017-399 du 27 mars 2017 relative
-       au devoir de vigilance des sociétés mères et des entreprises
-       donneuses d'ordre / [128]Échéancier d'application
+   Extrait du Journal officiel électronique authentifié PDF - 218,6 Ko
+     * Dossier Législatif : LOI n° 2017-399 du 27 mars 2017 relative au
+       devoir de vigilance des sociétés mères et des entreprises donneuses
+       d'ordre / Échéancier d'application
 
    Recherche simple dans le code
 
    Rechercher dans le texte... ____________________
 
    ____________________
-   (BUTTON) Valider la recherche[129]Réinitialiser
+   (BUTTON) Valider la rechercheRéinitialiser
 
 ChronoLégi
 
@@ -269,7 +263,7 @@ ChronoLégi
    Vu la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars
    2017 ;
    Le Président de la République promulgue la loi dont la teneur suit :
-     * [130]Article 1
+     * Article 1
        Après l'article L. 225-102-3 du code de commerce, il est inséré un
        article L. 225-102-4 ainsi rédigé :
        « Art. L. 225-102-4.-I.-Toute société qui emploie, à la clôture de
@@ -334,7 +328,7 @@ ChronoLégi
        2017.]
        (BUTTON) Versions
        Versions
-     * [131]Article 2
+     * Article 2
        Après le même article L. 225-102-3, il est inséré un article L.
        225-102-5 ainsi rédigé :
        « Art. 225-102-5.-Dans les conditions prévues aux articles 1240 et
@@ -356,13 +350,13 @@ ChronoLégi
        astreinte. »
        (BUTTON) Versions
        Versions
-     * [132]Article 3
+     * Article 3
        [Dispositions déclarées non conformes à la Constitution par la
        décision du Conseil constitutionnel n° 2017-750 DC du 23 mars
        2017.]
        (BUTTON) Versions
        Versions
-     * [133]Article 4
+     * Article 4
        Les articles L. 225-102-4 et L. 225-102-5 du code de commerce
        s'appliquent à compter du rapport mentionné à l'article L. 225-102
        du même code portant sur le premier exercice ouvert après la
@@ -448,9 +442,8 @@ ChronoLégi
    Conseil constitutionnel :
    Décision n° 2017-750 DC du 23 mars 2017 publiée au Journal officiel de
    ce jour.
-   [134]Extrait du Journal officiel électronique authentifié PDF - 218,6
-   Ko
-   [135]Retourner en haut de la page
+   Extrait du Journal officiel électronique authentifié PDF - 218,6 Ko
+   Retourner en haut de la page
    LOI n° 2017-399 du 27 mars 2017 relative au devoir de vigilance des
    sociétés mères et des entreprises donneuses d'ordre (1)LOI n° 2017-399
    du 27 mars 2017 relative au devoir de vigilance des sociétés mères et
@@ -459,8 +452,8 @@ ChronoLégi
    (BUTTON) d'aujourd'huiou du
    28/03/2017__________
    (BUTTON)
-     * [136]← Retour au Sommaire du JO
-     * [137]Texte suivant ›
+     * ← Retour au Sommaire du JO
+     * Texte suivant ›
      (BUTTON) Imprimer
      * (BUTTON) Copier le texte
 
@@ -474,18 +467,18 @@ ChronoLégi
 
    Autorisez le dépot de cookies pour accéder à cette fonctionnalité
    (BUTTON) Autoriser (BUTTON) Personnaliser
-     * [138]À propos de cette version
-     * [139]Mentions légales
-     * [140]Politique de confidentialité
-     * [141]Plan du site
-     * [142]Open data et API
-     * [143]Accessibilité : partiellement conforme
+     * À propos de cette version
+     * Mentions légales
+     * Politique de confidentialité
+     * Plan du site
+     * Open data et API
+     * Accessibilité : partiellement conforme
 
-     * [144]service-public.fr
-     * [145]vie-publique.fr
-     * [146]data.gouv.fr
-     * [147]Code du travail numérique
-     * [148]gouvernement.fr
+     * service-public.fr
+     * vie-publique.fr
+     * data.gouv.fr
+     * Code du travail numérique
+     * gouvernement.fr
 
    Votre avis
 
@@ -499,156 +492,4 @@ Votre avis nous intéresse !
    Participez en répondant à cette enquête, en
    quelques minutes !
    Merci.
-   (BUTTON) Fermer[149]Je donne mon avis
-
-Références
-
-   1. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/#main
-   2. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/#navigation
-   3. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/#navigation-mobile
-   4. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/#search-container
-   5. https://www.legifrance.gouv.fr/
-   6. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur
-   7. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution
-   8. https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
-   9. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789
-  10. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/preambule-de-la-constitution-du-27-octobre-1946
-  11. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/charte-de-l-environnement
-  12. https://www.legifrance.gouv.fr/liste/code?etatTexte=VIGUEUR
-  13. https://www.legifrance.gouv.fr/search/lois?tab_selection=lawarticledecree&searchField=ALL&query=&page=1&init=true&dateSignature=&datePublication=
-  14. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/jurisprudence
-  15. https://www.legifrance.gouv.fr/search/constit?tab_selection=constit&searchField=ALL&query=&page=1&init=true
-  16. https://www.legifrance.gouv.fr/search/cetat?tab_selection=cetat&searchField=ALL&query=&page=1&init=true
-  17. https://www.legifrance.gouv.fr/ceta/planclassement
-  18. https://www.legifrance.gouv.fr/search/juri?tab_selection=juri&searchField=ALL&query=&page=1&init=true
-  19. https://www.legifrance.gouv.fr/juri/planclassement
-  20. https://www.legifrance.gouv.fr/search/jufi?tab_selection=jufi&searchField=ALL&query=&page=1&init=true
-  21. https://www.legifrance.gouv.fr/search/circ?tab_selection=circ&searchField=ALL&query=*&searchType=ALL&typePagination=DEFAULT&sortValue=SIGNATURE_DATE_DESC&pageSize=25&page=1&tab_selection=circ#circ
-  22. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/accords-collectifs
-  23. https://www.legifrance.gouv.fr/liste/idcc?facetteTexteBase=TEXTE_BASE&facetteEtat=VIGUEUR_ETEN&sortValue=DATE_UPDATE&pageSize=50&page=1&tab_selection=all#idcc
-  24. https://www.legifrance.gouv.fr/search/acco?tab_selection=acco&searchField=ALL&query=*&searchType=ALL&typePagination=DEFAULT&sortValue=PERTINENCE&pageSize=25&page=1#acco
-  25. https://www.legifrance.gouv.fr/contenu/menu/publications-officielles
-  26. https://www.legifrance.gouv.fr/contenu/menu/publications-officielles/bulletins-officiels
-  27. https://www.legifrance.gouv.fr/liste/bocc
-  28. https://www.legifrance.gouv.fr/jorf/jo
-  29. https://www.legifrance.gouv.fr/liste/debatsParlementaires
-  30. https://www.legifrance.gouv.fr/liste/questionsEcritesParlementaires
-  31. https://www.legifrance.gouv.fr/liste/docAdmin
-  32. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi
-  33. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification
-  34. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification/rapports-annuels-de-la-commission-superieure-de-codification
-  35. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification/tables-de-concordance
-  36. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire
-  37. https://www.legifrance.gouv.fr/liste/legislatures
-  38. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/etudes-d-impact-des-lois
-  39. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/les-avis-du-conseil-d-etat-rendus-sur-les-projets-de-loi
-  40. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/application-des-lois
-  41. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/fiches-d-impact-des-ordonnances-decrets-et-arretes
-  42. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/statistiques-de-la-norme
-  43. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/charte-orthotypographique-du-journal-officiel
-  44. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes
-  45. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes/autorites-administratives-independantes-et-autorites-publiques-independantes-relevant-du-statut-general-defini-par-la-loi-n-2017-55-du-20-janvier
-  46. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes/autorites-ne-relevant-pas-du-statut-general-des-autorites-administratives-independantes
-  47. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises
-  48. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/tableaux-et-chronologies-des-dates-communes-d-entree-en-vigueur
-  49. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire
-  50. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/guide-de-legistique
-  51. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/sva-silence-vaut-accord
-  52. https://www.legifrance.gouv.fr/contenu/menu/droit-et-jurisprudence-de-l-union-europeenne
-  53. https://eur-lex.europa.eu/oj/direct-access.html?locale=fr
-  54. https://europa.eu/european-union/law/find-case-law_fr
-  55. https://www.legifrance.gouv.fr/contenu/menu/droit-international
-  56. https://www.echr.coe.int/Pages/home.aspx?p=caselaw&c=fre
-  57. https://www.legifrance.gouv.fr/contenu/menu/droit-international/juridictions-internationales
-  58. https://basedoc.diplomatie.gouv.fr/exl-php/recherche/mae_internet___traites
-  59. https://www.legifrance.gouv.fr/contenu/en-tete/informations-de-mises-a-jour
-  60. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/
-  61. https://www.legifrance.gouv.fr/contact/message
-  62. https://www.legifrance.gouv.fr/contenu/en-tete/informations-de-mises-a-jour
-  63. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/
-  64. https://www.legifrance.gouv.fr/contact/message
-  65. https://www.legifrance.gouv.fr/
-  66. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur
-  67. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution
-  68. https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
-  69. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789
-  70. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/preambule-de-la-constitution-du-27-octobre-1946
-  71. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/charte-de-l-environnement
-  72. https://www.legifrance.gouv.fr/liste/code?etatTexte=VIGUEUR
-  73. https://www.legifrance.gouv.fr/search/lois?tab_selection=lawarticledecree&searchField=ALL&query=&page=1&init=true&dateSignature=&datePublication=
-  74. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/jurisprudence
-  75. https://www.legifrance.gouv.fr/search/constit?tab_selection=constit&searchField=ALL&query=&page=1&init=true
-  76. https://www.legifrance.gouv.fr/search/cetat?tab_selection=cetat&searchField=ALL&query=&page=1&init=true
-  77. https://www.legifrance.gouv.fr/ceta/planclassement
-  78. https://www.legifrance.gouv.fr/search/juri?tab_selection=juri&searchField=ALL&query=&page=1&init=true
-  79. https://www.legifrance.gouv.fr/juri/planclassement
-  80. https://www.legifrance.gouv.fr/search/jufi?tab_selection=jufi&searchField=ALL&query=&page=1&init=true
-  81. https://www.legifrance.gouv.fr/search/circ?tab_selection=circ&searchField=ALL&query=*&searchType=ALL&typePagination=DEFAULT&sortValue=SIGNATURE_DATE_DESC&pageSize=25&page=1&tab_selection=circ#circ
-  82. https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/accords-collectifs
-  83. https://www.legifrance.gouv.fr/liste/idcc?facetteTexteBase=TEXTE_BASE&facetteEtat=VIGUEUR_ETEN&sortValue=DATE_UPDATE&pageSize=50&page=1&tab_selection=all#idcc
-  84. https://www.legifrance.gouv.fr/search/acco?tab_selection=acco&searchField=ALL&query=*&searchType=ALL&typePagination=DEFAULT&sortValue=PERTINENCE&pageSize=25&page=1#acco
-  85. https://www.legifrance.gouv.fr/contenu/menu/publications-officielles
-  86. https://www.legifrance.gouv.fr/contenu/menu/publications-officielles/bulletins-officiels
-  87. https://www.legifrance.gouv.fr/liste/bocc
-  88. https://www.legifrance.gouv.fr/jorf/jo
-  89. https://www.legifrance.gouv.fr/liste/debatsParlementaires
-  90. https://www.legifrance.gouv.fr/liste/questionsEcritesParlementaires
-  91. https://www.legifrance.gouv.fr/liste/docAdmin
-  92. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi
-  93. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification
-  94. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification/rapports-annuels-de-la-commission-superieure-de-codification
-  95. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/codification/tables-de-concordance
-  96. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire
-  97. https://www.legifrance.gouv.fr/liste/legislatures
-  98. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/etudes-d-impact-des-lois
-  99. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/les-avis-du-conseil-d-etat-rendus-sur-les-projets-de-loi
- 100. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/application-des-lois
- 101. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/fiches-d-impact-des-ordonnances-decrets-et-arretes
- 102. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/statistiques-de-la-norme
- 103. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/charte-orthotypographique-du-journal-officiel
- 104. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes
- 105. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes/autorites-administratives-independantes-et-autorites-publiques-independantes-relevant-du-statut-general-defini-par-la-loi-n-2017-55-du-20-janvier
- 106. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/autorites-independantes/autorites-ne-relevant-pas-du-statut-general-des-autorites-administratives-independantes
- 107. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises
- 108. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/tableaux-et-chronologies-des-dates-communes-d-entree-en-vigueur
- 109. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/entreprises/normes-afnor-d-application-obligatoire
- 110. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/guide-de-legistique
- 111. https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/sva-silence-vaut-accord
- 112. https://www.legifrance.gouv.fr/contenu/menu/droit-et-jurisprudence-de-l-union-europeenne
- 113. https://eur-lex.europa.eu/oj/direct-access.html?locale=fr
- 114. https://europa.eu/european-union/law/find-case-law_fr
- 115. https://www.legifrance.gouv.fr/contenu/menu/droit-international
- 116. https://www.echr.coe.int/Pages/home.aspx?p=caselaw&c=fre
- 117. https://www.legifrance.gouv.fr/contenu/menu/droit-international/juridictions-internationales
- 118. https://basedoc.diplomatie.gouv.fr/exl-php/recherche/mae_internet___traites
- 119. https://www.legifrance.gouv.fr/
- 120. https://www.legifrance.gouv.fr/contenu/menu/publications-officielles
- 121. https://www.legifrance.gouv.fr/jorf/jo
- 122. https://www.legifrance.gouv.fr/recherche
- 123. https://www.legifrance.gouv.fr/jorf/jo/2017/03/28/0074
- 124. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290632
- 125. https://www.legifrance.gouv.fr/jorf/jo/2017/03/28/0074
- 126. https://www.legifrance.gouv.fr/download/pdf?id=9aawcYcwvkntYs2UUCMWL4iX_erjixoTD_Jy3AVXRFk=
- 127. https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000030421923/
- 128. https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000030421923/?detailType=ECHEANCIER&detailId=
- 129. javascript:void(0)
- 130. https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034290627
- 131. https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034290628
- 132. https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034290629
- 133. https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000034290630
- 134. https://www.legifrance.gouv.fr/download/pdf?id=9aawcYcwvkntYs2UUCMWL4iX_erjixoTD_Jy3AVXRFk=
- 135. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/#top
- 136. https://www.legifrance.gouv.fr/jorf/jo/2017/03/28/0074
- 137. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290632
- 138. https://www.legifrance.gouv.fr/contenu/pied-de-page/a-propos-de-cette-version
- 139. https://www.legifrance.gouv.fr/contenu/pied-de-page/mentions-legales
- 140. https://www.legifrance.gouv.fr/contenu/pied-de-page/politique-de-confidentialite
- 141. https://www.legifrance.gouv.fr/contenu/pied-de-page/plan-du-site
- 142. https://www.legifrance.gouv.fr/contenu/pied-de-page/open-data-et-api
- 143. https://www.legifrance.gouv.fr/contenu/pied-de-page/accessibilite-partiellement-conforme
- 144. https://www.service-public.fr/
- 145. https://www.vie-publique.fr/
- 146. https://www.data.gouv.fr/fr/
- 147. https://code.travail.gouv.fr/
- 148. https://www.gouvernement.fr/
- 149. https://sgmap.sphinxdeclic.com/d/s/j9c6ad
+   (BUTTON) FermerJe donne mon avis

@@ -1,58 +1,58 @@
-   [1]actu.fr (BUTTON) Nos régions
-   [2]Mon actu (BUTTON) Compte [3]Connexion (BUTTON) Services
-     * [4]Annonces légales
-     * [5]Horoscope
-     * [6]Jeux
-     * [7]Shopping & Bons-plans
-     * [8]Vidéos
-     * [9]Agenda des évènements
-     * [10]Je partage les actus de mon asso
-     * [11]Élections
-     * [12]Examens
+   actu.fr (BUTTON) Nos régions
+   Mon actu (BUTTON) Compte Connexion (BUTTON) Services
+     * Annonces légales
+     * Horoscope
+     * Jeux
+     * Shopping & Bons-plans
+     * Vidéos
+     * Agenda des évènements
+     * Je partage les actus de mon asso
+     * Élections
+     * Examens
 
-     * [13]Mon compte
-     * [14]Gérer mes favoris
-     * [15]Gérer mes newsletters
+     * Mon compte
+     * Gérer mes favoris
+     * Gérer mes newsletters
      * Déconnexion
 
-   [16]78actu [17]Je m'abonne
+   78actu Je m'abonne
    A lire aussi
 
-     * [18]Dernières actus
-     * [19]Société
-     * [20]Économie
-     * [21]Faits divers
-     * [22]Politique
-     * [23]Loisirs-Culture
-     * [24]Sports
-     * [25]Rugby
-     * [26]Insolite
-     * [27]Planète
-     * [28]Monde
-     * [29]Lifestyle
-     * [30]Vidéos
-     * [31]Newsletters
-     * [32]recherche
+     * Dernières actus
+     * Société
+     * Économie
+     * Faits divers
+     * Politique
+     * Loisirs-Culture
+     * Sports
+     * Rugby
+     * Insolite
+     * Planète
+     * Monde
+     * Lifestyle
+     * Vidéos
+     * Newsletters
+     * recherche
 
    (BUTTON) Villes
-     * [33]Versailles
-     * [34]Saint-Germain-en-Laye
-     * [35]Mantes-la-Jolie
+     * Versailles
+     * Saint-Germain-en-Laye
+     * Mantes-la-Jolie
 
-   [36]Enquête. Les naufragés de la fibre optique : « Je n’ai plus
-   internet depuis 14 mois »
+   Enquête. Les naufragés de la fibre optique : « Je n’ai plus internet
+   depuis 14 mois »
    (BUTTON) fermer
-     * [37]Actu.fr
-     * [38]Mon actu
-     * [39]Le top
+     * Actu.fr
+     * Mon actu
+     * Le top
      * (BUTTON) Partager
 
    Suivez l'actualité de vos communes favorites dans l'onglet Mon actu
    (BUTTON) J'ai compris
-    1. [40]Actu
-    2. [41]Île-de-France
-    3. [42]Yvelines
-    4. [43]Versailles
+    1. Actu
+    2. Île-de-France
+    3. Yvelines
+    4. Versailles
 
 Les Restos du Cœur des Yvelines vont devoir refuser des personnes à l’aide
 alimentaire cette année
@@ -64,8 +64,8 @@ alimentaire cette année
    coeur des Yvelines.
    Les distributions vont reprendre dans les 23 antennes des Restos du
    cœur des Yvelines. ©78 actu
-   Par [44]Florent Jacono Publié le [45]19 Nov 23 à 13:10
-   [46]Voir mon actu (BUTTON) Suivre 78actu
+   Par Florent Jacono Publié le 19 Nov 23 à 13:10
+   Voir mon actu (BUTTON) Suivre 78actu
 
    La campagne d’hiver des Restos du Cœur va être rude dans les Yvelines.
 
@@ -76,7 +76,7 @@ Inflation et hausse des bénéficiaires
 
    À l’époque l’association manquait de 35 millions d’euros. Si les dons
    ont été nombreux (15 millions de la part de l’État ou encore
-   10 millions de la part de Bernard Arnault), les [47]Restos du Cœur vont
+   10 millions de la part de Bernard Arnault), les Restos du Cœur vont
    tout de même devoir refuser du monde à l’aide alimentaire pour la
    prochaine campagne hivernale qui commence la semaine prochaine.
 
@@ -99,7 +99,7 @@ La branche départementale des Yvelines en difficulté
    vivre, après paiement des dettes et des factures, l’association ne va
    pas fournir l’aide alimentaire.
 
-   27 857 personnes sont inscrites aux [48]Restos du Cœur.
+   27 857 personnes sont inscrites aux Restos du Cœur.
    Vidéos : en ce moment sur Actu
 
    « Mais ça ne veut pas dire qu’on va avoir moins de monde, car la
@@ -118,8 +118,8 @@ Les Restos du Cœur ne font pas que restaurer
    Fabienne Lambert.
 
    À lire aussi
-     * [49]A Chanteloup-les-Vignes, 450 personnes vont bénéficier du
-       nouveau local des Restos du Cœur
+     * A Chanteloup-les-Vignes, 450 personnes vont bénéficier du nouveau
+       local des Restos du Cœur
 
    Sans compter ces chantiers, l’association a accompagné 228 personnes
    dans leurs recherches d’emploi, 72 ont trouvé un emploi. Un
@@ -132,9 +132,9 @@ Les Restos du Cœur ne font pas que restaurer
 Une recherche constante de bénévoles
 
    De quoi a besoin l’antenne des Yvelines pour continuer d’assurer cette
-   mission si précieuse ? « On cherche toujours des [50]bénévoles. Il ne
-   faut pas que les gens hésitent. Ça peut être des bénévoles qui ont
-   envie de distribuer, de faire de l’accompagnement, cours de français ou
+   mission si précieuse ? « On cherche toujours des bénévoles. Il ne faut
+   pas que les gens hésitent. Ça peut être des bénévoles qui ont envie de
+   distribuer, de faire de l’accompagnement, cours de français ou
    recherche d’emplois. Des personnes qui ont des compétences en
    logistique. Ça peut aussi être des chauffeurs », explique Fabienne
    Lambert.
@@ -142,169 +142,168 @@ Une recherche constante de bénévoles
    « Il y a plein de façons d’exercer son bénévolat. Et ils peuvent
    choisir s’ils veulent ou non être en contact avec du public », ajoute
    Fabienne Lambert.
-     * [51]#Restos du Coeur
+     * #Restos du Coeur
 
    Suivez toute l’actualité de vos villes et médias favoris en vous
-   inscrivant à [52]Mon Actu.
+   inscrivant à Mon Actu.
 
    Partagez
-     * [53]Partagez sur Facebook
-     * [54]Partagez sur Twitter
-     * [55]Partagez par Mail
+     * Partagez sur Facebook
+     * Partagez sur Twitter
+     * Partagez par Mail
      * (BUTTON) Copiez/Collez le Lien Copié !
        https://actu.fr/ile-de-france/versailles_78646/les-restos-du-coeur-
        des-yvelines-vont-devoir-refuser-des-personnes-a-laide-alimentaire-
        cette-annee_60352385.html
 
-   [56]Découvrez les newsletters
+   Découvrez les newsletters
 
 Dernières actualités
 
 78actu
 
-   [57]Voir plus
+   Voir plus
 
 Vos journaux
 
 Le Courrier De Mantes
 
-   mercredi 22 novembre 2023 [58]Lire le journal
-   [59]Je m'abonne
-   Le Courrier De Mantes, Une du mercredi 22 novembre 2023
+   mercredi 29 novembre 2023 Lire le journal
+   Je m'abonne
+   Le Courrier De Mantes, Une du mercredi 29 novembre 2023
 
 Toutes Les Nouvelles
 édition Toutes Les Nouvelles, Ed. Rambouillet
 
-   mercredi 22 novembre 2023 [60]Lire le journal
-   [61]Je m'abonne
-   Toutes Les Nouvelles, Une du mercredi 22 novembre 2023
+   mercredi 29 novembre 2023 Lire le journal
+   Je m'abonne
+   Toutes Les Nouvelles, Une du mercredi 29 novembre 2023
 
 Le Courrier Des Yvelines
 édition Courrier Des Yvelines Ed. Poissy Maisons
 
-   mercredi 22 novembre 2023 [62]Lire le journal
-   [63]Je m'abonne
-   Le Courrier Des Yvelines, Une du mercredi 22 novembre 2023
+   mercredi 29 novembre 2023 Lire le journal
+   Je m'abonne
+   Le Courrier Des Yvelines, Une du mercredi 29 novembre 2023
 
 Les plus lus
 
 France
 
-     * [64]1  Les naufragés de la fibre optique : « Je n’ai plus internet
-       depuis 14 mois »
-       De nombreux clients des opérateurs SFR, Orange, Free et Bouygues
-       abonnés à la fibre optique connaissent de très lourds désagrément à
-       cause d'un mode de raccordement qui ne repose que sur la
-       sous-traitance.
-     * [65]2  Jour de chance : le calendrier de l'Avent de la FDJ à 40
-       euros est-il vraiment intéressant ?
-       .
-     * [66]3  Rouen. Les "démembreuses" condamnées à 22 et 20 ans de
-       prison
-       Fin 2022, Céline et Jessica ont été condamnées à 22 et 17 ans de
-       prison pour avoir tué puis découpé le corps de Sliman. Elles seront
-       rejugées à Rouen à partir du 20 novembre 2023.
-     * [67]4  Val-d'Oise : un enfant chute du 4ᵉ étage, sa mère en garde à
-       vue pour "délaissement de mineurs"
-       Je
-     * [68]5  Périphérique à Toulouse. Des accidents et 10 kilomètres de
-       bouchon pour finir la semaine désastreuse
-       Encore des bouchons sur le périphérique de Toulouse, vendredi 24
-       novembre 2024. Les raisons : plusieurs accidents et un véhicule en
-       panne qui a provoqué dix kilomètres de bouchon.
+     * 1  La plus haute station de ski des Pyrénées françaises ferme
+       définitivement
+       Deux ans après sa réouverture, la station du Puigmal, dans les
+       Pyrénées-Orientales, a été placée en liquidation judiciaire.
+     * 2  De nouveaux radars installés autour de Paris : voici où ils
+       flashent en Île-de-France
+       De nouveaux radars autonomes ont pris place au bord des routes
+       d'Île-de-France en novembre
+     * 3  Essonne : il propose de l'argent à une fille de 17 ans pour
+       coucher avec elle
+       Les policiers de la Brigade des stupéfiants sont intervenus dans le
+       quartier du Moyen Vernet, à Perpignan.
+     * 4  Double meurtre en Isère : Valentin, le fils de 15 ans en fuite,
+       retrouvé à Montpellier
+       Les gendarmes de Balma ont été saisis suite à la découverte d'une
+       dizaine de tags néo-nazis, près de Toulouse
+     * 5  Supporter du FC Nantes décédé : un homme placé en garde à vue
+       pour homicide volontaire
+       Un supporter du FC Nantes a été grièvement blessé aux abords de la
+       Beaujoire avant le match de Ligue 1 entre le FC Nantes et l'OGC
+       Nice ce samedi 2 décembre 2023.
 
-   [69]Voir plus
+   Voir plus
 
    Newsletter 78actu Une sélection des meilleurs articles dans votre boîte
    e-mail !
-   [70]Découvrez notre newsletter
-   [71]78actu
+   Découvrez notre newsletter
    78actu
-     * [72]Qui sommes-nous ?
-     * [73]Contact
+   78actu
+     * Qui sommes-nous ?
+     * Contact
 
    Abonnez-vous pour lire le journal PDF en illimité
-   [74]Je m'abonne
-   [75]Actu.fr L'actu près de chez vous
-     * [76]Facebook
-     * [77]Twitter
-     * [78]Flux RSS
-     * [79]Dailymotion
+   Je m'abonne
+   Actu.fr L'actu près de chez vous
+     * Facebook
+     * Twitter
+     * Flux RSS
+     * Dailymotion
 
    Actu.fr
-     * [80]Qui sommes-nous ?
-     * [81]Nos départements
-     * [82]Contact
-     * [83]Mentions légales
-     * [84]Conditions générales d'utilisation
-     * [85]Données personnelles et cookies
-     * [86]Modifier mes choix cookies
-     * [87]CGV Publihebdos
-     * [88]Archives
-     * [89]Newsletters
+     * Qui sommes-nous ?
+     * Nos départements
+     * Contact
+     * Mentions légales
+     * Conditions générales d'utilisation
+     * Données personnelles et cookies
+     * Modifier mes choix cookies
+     * CGV Publihebdos
+     * Archives
+     * Newsletters
 
    Sites du groupe Publihebdos
-     * [90]Annonces légales
-     * [91]Infolocale
-     * [92]Examens
-     * [93]Élections
-     * [94]Publihebdos
-     * [95]Agence APEI
-     * [96]Hebdoscom
+     * Annonces légales
+     * Infolocale
+     * Examens
+     * Élections
+     * Publihebdos
+     * Agence APEI
+     * Hebdoscom
 
    Sites du groupe Sipa-OF
-     * [97]Ouest-France
-     * [98]Autres
+     * Ouest-France
+     * Autres
 
    En régions
-     * [99]Auvergne-Rhône-Alpes
-     * [100]Centre-Val de Loire
-     * [101]Bretagne
-     * [102]Bourgogne-Franche-Comté
+     * Auvergne-Rhône-Alpes
+     * Centre-Val de Loire
+     * Bretagne
+     * Bourgogne-Franche-Comté
 
-     * [103]Grand-Est
-     * [104]Hauts-de-France
-     * [105]Île-de-France
-     * [106]Normandie
-     * [107]Nouvelle-Aquitaine
+     * Grand-Est
+     * Hauts-de-France
+     * Île-de-France
+     * Normandie
+     * Nouvelle-Aquitaine
 
-     * [108]Nouvelle-Aquitaine
-     * [109]Occitanie
-     * [110]Pays de la Loire
-     * [111]Provence-Alpes-Côte d'Azur
-     * [112]Corse
+     * Nouvelle-Aquitaine
+     * Occitanie
+     * Pays de la Loire
+     * Provence-Alpes-Côte d'Azur
+     * Corse
 
    Les grandes villes
-     * [113]Amiens
-     * [114]Bordeaux
-     * [115]Brest
-     * [116]Caen
-     * [117]Le Havre
+     * Amiens
+     * Bordeaux
+     * Brest
+     * Caen
+     * Le Havre
 
-     * [118]Lille
-     * [119]Lorient
-     * [120]Lyon
-     * [121]Le Mans
-     * [122]Marseille
+     * Lille
+     * Lorient
+     * Lyon
+     * Le Mans
+     * Marseille
 
-     * [123]Metz
-     * [124]Montpellier
-     * [125]Nancy
-     * [126]Nantes
-     * [127]Paris
+     * Metz
+     * Montpellier
+     * Nancy
+     * Nantes
+     * Paris
 
-     * [128]Reims
-     * [129]Rennes
-     * [130]Rouen
-     * [131]Strasbourg
-     * [132]Toulouse
+     * Reims
+     * Rennes
+     * Rouen
+     * Strasbourg
+     * Toulouse
 
    © 2023 actu.fr, détenu et coexploité par Publihebdos et ses filiales.
-   Hébergement dédié : [133]Groupe DIS, Digital Ad Trust et ACPM.
-   Conception et design : [134]Datagif.
+   Hébergement dédié : Groupe DIS, Digital Ad Trust et ACPM. Conception et
+   design : Datagif.
 
    Selectionnez une région ou recherchez une ville
-   [135]actu.fr
+   actu.fr
    ____________________ (BUTTON)
 
    (BUTTON) fermer
@@ -335,141 +334,3 @@ France
    en cliquant sur « Modifier mes choix cookies » dans la rubrique
    Services en bas de cette page.
    Consulter
-
-Références
-
-   1. https://actu.fr/
-   2. https://actu.fr/mon-actu
-   3. https://actu.fr/ile-de-france/versailles_78646/les-restos-du-coeur-des-yvelines-vont-devoir-refuser-des-personnes-a-laide-alimentaire-cette-annee_60352385.html
-   4. https://annonces-legales.actu.fr/
-   5. https://actu.fr/horoscope
-   6. https://actu.fr/jeux
-   7. https://actu.fr/shopping
-   8. https://actu.fr/videos
-   9. https://infolocale.actu.fr/
-  10. https://www.infolocale.fr/decouvrir/actu/
-  11. https://elections.actu.fr/
-  12. https://examens.actu.fr/
-  13. https://moncompte.actu.fr/profil
-  14. https://moncompte.actu.fr/mon-actu
-  15. https://moncompte.actu.fr/newsletter
-  16. https://actu.fr/78actu/
-  17. https://actu.fr/ile-de-france/versailles_78646/les-restos-du-coeur-des-yvelines-vont-devoir-refuser-des-personnes-a-laide-alimentaire-cette-annee_60352385.html#ac-push-subscribe
-  18. https://actu.fr/78actu/dernieres-actus
-  19. https://actu.fr/78actu/societe
-  20. https://actu.fr/78actu/economie
-  21. https://actu.fr/78actu/faits-divers
-  22. https://actu.fr/78actu/politique
-  23. https://actu.fr/78actu/loisirs-culture
-  24. https://actu.fr/78actu/sports
-  25. https://actu.fr/rugby/
-  26. https://actu.fr/78actu/insolite
-  27. https://actu.fr/planete
-  28. https://actu.fr/monde
-  29. https://actu.fr/lifestyle
-  30. https://actu.fr/videos
-  31. https://actu.fr/newsletter/
-  32. https://actu.fr/?s=
-  33. https://actu.fr/ile-de-france/versailles_78646
-  34. https://actu.fr/ile-de-france/saint-germain-en-laye_78551
-  35. https://actu.fr/ile-de-france/mantes-la-jolie_78361
-  36. https://actu.fr/societe/enquete-naufrages-de-la-fibre-optique-je-n-ai-plus-internet-depuis-14-mois_60360884.html
-  37. https://actu.fr/
-  38. https://actu.fr/mon-actu
-  39. https://actu.fr/top
-  40. https://actu.fr/
-  41. https://actu.fr/ile-de-france/
-  42. https://actu.fr/ile-de-france/yvelines_78/
-  43. https://actu.fr/ile-de-france/versailles_78646
-  44. https://actu.fr/auteur/florent-jacono
-  45. https://actu.fr/archives/11-2023/19-11-2023/
-  46. https://actu.fr/mon-actu
-  47. https://actu.fr/societe/yvelines-devenez-benevole-pour-les-restos-du-coeur_48350253.html
-  48. https://actu.fr/tag/restos-du-coeur
-  49. https://actu.fr/ile-de-france/chanteloup-les-vignes_78138/a-chanteloup-les-vignes-450-personnes-vont-beneficier-du-nouveau-local-des-restos-du-coeur_60331734.html
-  50. https://actu.fr/societe/yvelines-devenez-benevole-pour-les-restos-du-coeur_48350253.html
-  51. https://actu.fr/tag/restos-du-coeur
-  52. https://moncompte.actu.fr/
-  53. http://www.facebook.com/sharer.php?u=https://actu.fr/ile-de-france/versailles_78646/les-restos-du-coeur-des-yvelines-vont-devoir-refuser-des-personnes-a-laide-alimentaire-cette-annee_60352385.html
-  54. https://twitter.com/share?url=https://actu.fr/ile-de-france/versailles_78646/les-restos-du-coeur-des-yvelines-vont-devoir-refuser-des-personnes-a-laide-alimentaire-cette-annee_60352385.html&text=Les Restos du Cœur des Yvelines vont devoir refuser des personnes à l’aide alimentaire cette année&via=actufr
-  55. https://actu.fr/cdn-cgi/l/email-protection#94d4abe7e1f6fef1f7e0a9d8f1e7b4c6f1e7e0fbe7b4f0e1b4d75107e1e6b4f0f1e7b4cde2f1f8fdfaf1e7b4e2fbfae0b4f0f1e2fbfde6b4e6f1f2e1e7f1e6b4f0f1e7b4e4f1e6e7fbfafaf1e7b45734b4f876140df5fdf0f1b4f5f8fdf9f1fae0f5fde6f1b4f7f1e0e0f1b4f5fafa573df1b2f6fbf0eda9d8f1e7b4c6f1e7e0fbe7b4f0e1b4d75107e1e6b4f0f1e7b4cde2f1f8fdfaf1e7b4e2fbfae0b4f0f1e2fbfde6b4e6f1f2e1e7f1e6b4f0f1e7b4e4f1e6e7fbfafaf1e7b45734b4f876140df5fdf0f1b4f5f8fdf9f1fae0f5fde6f1b4f7f1e0e0f1b4f5fafa573df1b1a6a4aeb1a6a4fce0e0e4e7aebbbbf5f7e0e1baf2e6bbfdf8f1b9f0f1b9f2e6f5faf7f1bbe2f1e6e7f5fdf8f8f1e7cba3aca2a0a2bbf8f1e7b9e6f1e7e0fbe7b9f0e1b9f7fbf1e1e6b9f0f1e7b9ede2f1f8fdfaf1e7b9e2fbfae0b9f0f1e2fbfde6b9e6f1f2e1e7f1e6b9f0f1e7b9e4f1e6e7fbfafaf1e7b9f5b9f8f5fdf0f1b9f5f8fdf9f1fae0f5fde6f1b9f7f1e0e0f1b9f5fafaf1f1cba2a4a7a1a6a7aca1bafce0f9f8
-  56. https://actu.fr/newsletter/#78actu
-  57. https://actu.fr/78actu/dernieres-actus
-  58. https://moncompte.actu.fr/acheter/le-courrier-de-mantes-le-courrier-de-mantes_2c168721-d2c7-4c6e-9e80-76fd6f429573
-  59. https://moncompte.actu.fr/kiosque/le-courrier-de-mantes-le-courrier-de-mantes_2c168721-d2c7-4c6e-9e80-76fd6f429573
-  60. https://moncompte.actu.fr/acheter/toutes-les-nouvelles-toutes-les-nouvelles-ed-rambouillet_953ca447-dc2a-444d-b75c-751982fb0f53
-  61. https://moncompte.actu.fr/kiosque/toutes-les-nouvelles-toutes-les-nouvelles-ed-rambouillet_953ca447-dc2a-444d-b75c-751982fb0f53
-  62. https://moncompte.actu.fr/acheter/le-courrier-des-yvelines-courrier-des-yvelines-ed-poissy-maisons_a17b034b-798b-4545-b2b5-065e37992a39
-  63. https://moncompte.actu.fr/kiosque/le-courrier-des-yvelines-courrier-des-yvelines-ed-poissy-maisons_a17b034b-798b-4545-b2b5-065e37992a39
-  64. https://actu.fr/societe/enquete-naufrages-de-la-fibre-optique-je-n-ai-plus-internet-depuis-14-mois_60360884.html
-  65. https://actu.fr/economie/jour-de-chance-le-calendrier-de-l-avent-de-la-fdj-a-40-euros-est-il-vraiment-interessant_60366291.html
-  66. https://actu.fr/normandie/rouen_76540/rouen-les-demembreuses-condamnes-a-22-et-20-annees-de-prison_60374842.html
-  67. https://actu.fr/ile-de-france/villiers-le-bel_95680/val-d-oise-un-enfant-chute-du-4e-etage-sa-mere-en-garde-a-vue-pour-delaissement-de-mineurs_60377747.html
-  68. https://actu.fr/occitanie/toulouse_31555/peripherique-a-toulouse-des-accidents-et-10-kilometres-de-bouchon-pour-finir-la-semaine-desastreuse_60379412.html
-  69. https://actu.fr/top
-  70. https://actu.fr/newsletter/#78actu
-  71. https://actu.fr/
-  72. https://actu.fr/78actu/edito
-  73. https://actu.fr/78actu/edito/#contacter-redaction
-  74. https://moncompte.actu.fr/kiosque/le-courrier-des-yvelines-edition-saint-germain_928dbb97-a1aa-40a4-ab61-dbfac8015643
-  75. https://actu.fr/
-  76. https://fr-fr.facebook.com/actu.fr/
-  77. https://twitter.com/actufr
-  78. https://actu.fr/rss.xml
-  79. https://www.dailymotion.com/actufr
-  80. https://actu.fr/qui-sommes-nous
-  81. https://actu.fr/nos-departements
-  82. https://actu.fr/contact
-  83. https://actu.fr/mentions-legales
-  84. https://actu.fr/conditions-generales-d-utilisation
-  85. https://actu.fr/donnees-personnelles-et-cookies
-  86. javascript:Didomi.preferences.show()
-  87. https://static.actu.fr/content/conditions-generales-de-vente-publihebdos.pdf
-  88. https://actu.fr/archives/
-  89. https://actu.fr/newsletter/
-  90. https://annonces-legales.actu.fr/
-  91. https://infolocale.actu.fr/
-  92. https://examens.actu.fr/
-  93. https://elections.actu.fr/
-  94. https://www.publihebdos.com/
-  95. https://agence-apei.com/
-  96. https://www.hebdoscom.com/
-  97. https://www.ouest-france.fr/
-  98. https://www.ouest-france.fr/autres-sites/
-  99. https://actu.fr/auvergne-rhone-alpes
- 100. https://actu.fr/centre-val-de-loire
- 101. https://actu.fr/bretagne
- 102. https://actu.fr/bourgogne-franche-comte
- 103. https://actu.fr/grand-est
- 104. https://actu.fr/hauts-de-france
- 105. https://actu.fr/ile-de-france
- 106. https://actu.fr/normandie
- 107. https://actu.fr/nouvelle-aquitaine
- 108. https://actu.fr/nouvelle-aquitaine
- 109. https://actu.fr/occitanie
- 110. https://actu.fr/pays-de-la-loire
- 111. https://actu.fr/provence-alpes-cote-d-azur
- 112. https://actu.fr/corse
- 113. https://actu.fr/hauts-de-france/amiens_80021
- 114. https://actu.fr/nouvelle-aquitaine/bordeaux_33063
- 115. https://actu.fr/bretagne/brest_29019
- 116. https://actu.fr/normandie/caen_14118
- 117. https://actu.fr/normandie/le-havre_76351
- 118. https://actu.fr/hauts-de-france/lille_59350
- 119. https://actu.fr/bretagne/lorient_56121
- 120. https://actu.fr/auvergne-rhone-alpes/lyon_69123
- 121. https://actu.fr/pays-de-la-loire/le-mans_72181
- 122. https://actu.fr/provence-alpes-cote-d-azur/marseille_13055
- 123. https://actu.fr/grand-est/metz_57463
- 124. https://actu.fr/occitanie/montpellier_34172
- 125. https://actu.fr/grand-est/nancy_54395
- 126. https://actu.fr/pays-de-la-loire/nantes_44109
- 127. https://actu.fr/ile-de-france/paris_75056
- 128. https://actu.fr/grand-est/reims_51454
- 129. https://actu.fr/bretagne/rennes_35238
- 130. https://actu.fr/normandie/rouen_76540
- 131. https://actu.fr/grand-est/strasbourg_67482
- 132. https://actu.fr/occitanie/toulouse_31555
- 133. https://www.group-dis.com/
- 134. https://datagif.fr/
- 135. https://actu.fr/

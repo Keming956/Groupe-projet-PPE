@@ -1,14 +1,14 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-TQCGXTB
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TQCGXTB
 
-   [2]logo
-     * [3]Corrigés des exercices
-     * [4]Fiches
-     * [5]Fiches de lecture
-     * [6]Demandez au professeur
-     * [7]Nos offres
-     * [8]Notre équipe
-     * [9]FAQ
-     * [10]Se connecter
+   logo
+     * Corrigés des exercices
+     * Fiches
+     * Fiches de lecture
+     * Demandez au professeur
+     * Nos offres
+     * Notre équipe
+     * FAQ
+     * Se connecter
 
 Soyez toujours prêt pour aller en cours.
 Découvrez la réussite scolaire.
@@ -16,7 +16,7 @@ Découvrez la réussite scolaire.
    Vérifiez vos réponses grâce à la base de corrigés des exercices de vos
    manuels, révisez avec les fiches et demandez de l’aide aux devoirs à
    nos professeurs. Gagnez du temps et soyez efficace.
-   [11]S'inscrire gratuitement [12]En savoir plus
+   S'inscrire gratuitement En savoir plus
    fox_owl
    fox_owl
 
@@ -25,8 +25,8 @@ Créés par des enseignants en conformité avec le programme.
 
 Ils parlent de nous
 
-   [13][Le Figaro Etudiant-2.jpg]
-   [14][Le Monde Logo-2.png]
+   [Le Figaro Etudiant-2.jpg]
+   [Le Monde Logo-2.png]
    [box_1.jpg]
 
 100%
@@ -77,7 +77,7 @@ Trouvez votre réponse
 
 3. Sélectionnez l'éditeur
 
-   [15]Trouvez votre exercice
+   Trouvez votre exercice
 
 Exemples de corrigés
 
@@ -123,7 +123,7 @@ Trouvez votre fiche
 
 2. Choisissez la matière
 
-   [16]Rechercher
+   Rechercher
 
 Exemples
 
@@ -151,7 +151,7 @@ au professeur
 
    3x
    moins cher qu'un cours particulier
-   [17]Demandez au professeur
+   Demandez au professeur
 
 Nos offres
 
@@ -169,7 +169,7 @@ Corrigés des exercices
 
    Personnalisez votre plan d'apprentissage avec les options
    complémentaires Fiches et Demandez au professeur.r
-   [18]Choisir
+   Choisir
 
 Avis
 
@@ -265,15 +265,15 @@ Qui sommes-nous?
 
    Follow nous
 
-   [19]Instagram [20]Tiktok
-   [21]logo
-   [22]Concours 2023
-   [23]Concours Rentrée 2023
-   [24]FAQ
-   [25]Contact
-   [26]Politique de confidentialité
-   [27]C.G.U.
-   [28]Nos manuels
+   Instagram Tiktok
+   logo
+   Concours 2023
+   Concours Rentrée 2023
+   FAQ
+   Contact
+   Politique de confidentialité
+   C.G.U.
+   Nos manuels
 
    2023 - DevoirRendu ®
 
@@ -283,41 +283,4 @@ Qui sommes-nous?
    Participez et gangez
 
    Ce site utilise des cookies pour vous garantir la meilleure qualité
-   possible. Savoir plus. [29]En savoir plus (BUTTON) J'accepte
-
-Références
-
-   Liens visibles :
-   1. https://www.googletagmanager.com/ns.html?id=GTM-TQCGXTB
-   2. https://devoirrendu.fr/
-   3. https://devoirrendu.fr/Books/
-   4. https://devoirrendu.fr/Fiches/
-   5. https://devoirrendu.fr/Fiches?searchClass=6&searchSubject=6
-   6. https://devoirrendu.fr/Forums/
-   7. https://devoirrendu.fr/Subscriptions
-   8. https://devoirrendu.fr/Home/OurTeam
-   9. https://devoirrendu.fr/Home/FAQ
-  10. https://devoirrendu.fr/Session/SignIn
-  11. https://devoirrendu.fr/Session/SignIn
-  12. https://devoirrendu.fr/#below
-  13. https://etudiant.lefigaro.fr/article/rentree-2023-comment-demarrer-l-annee-avec-succes_6768c51c-47e4-11ee-829e-fa1a5c1997f6/
-  14. https://www.lemonde.fr/le-soutien-scolaire/article/2023/09/04/devoir-rendu-service-recu_6187774_381.html
-  15. https://devoirrendu.fr/Books?searchClass={{selectedClass.uniqueID}}&searchSubject={{selectSubject.subject.uniqueID}}&publisher={{selectedPublisher.uniqueID}}
-  16. https://devoirrendu.fr/Fiches?searchClass={{selectedClass.uniqueID}}&searchSubject={{selectSubject.subject.uniqueID}}
-  17. https://devoirrendu.fr/Forums
-  18. https://devoirrendu.fr/Subscriptions
-  19. https://www.instagram.com/devoirrendu.fr/
-  20. https://www.tiktok.com/@devoirrendu
-  21. https://devoirrendu.fr/
-  22. https://devoirrendu.fr/Home/Concours
-  23. https://devoirrendu.fr/pdf/Concours_Rentree_2023.pdf
-  24. https://devoirrendu.fr/Home/FAQ
-  25. https://devoirrendu.fr/Home/Contact
-  26. https://devoirrendu.fr/Home/Privacy
-  27. https://devoirrendu.fr/Home/TermsOfUse
-  28. https://devoirrendu.fr/Books/BookList
-  29. https://devoirrendu.fr/Home/Privacy
-
-   Liens cachés :
-  31. https://www.tiktok.com/@devoirrendu
-  32. https://www.instagram.com/devoirrendu.fr/
+   possible. Savoir plus. En savoir plus (BUTTON) J'accepte

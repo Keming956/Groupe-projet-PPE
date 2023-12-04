@@ -1,120 +1,121 @@
-    #[1]alternate [2]Groupe AFNOR » Flux [3]alternate [4]alternate
-   [5]alternate [6]Français
+    #alternate Groupe AFNOR » Flux alternate alternate alternate Français
 
-   IFRAME: [7]https://www.googletagmanager.com/ns.html?id=GTM-NS28QF6
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NS28QF6
 
-   [8]FR | [9]EN
-   [10]Logo Logo Logo Logo Logo
+   FR | EN
+   Logo Logo Logo Logo Logo
    ____________________ Rechercher Submit
-   [11]Newsletter
+   Newsletter
 
-     * [12]Actualités
-     * [13]Événements
-     * [14]Thèmes & marchés
-          + [15]Achats responsables
-          + [16]Confiance numérique
-          + [17]Développement durable
-          + [18]Dispositifs médicaux
-          + [19]Energie et carbone
-          + [20]Environnement
-          + [21]Formation professionnelle
-          + [22]Industrie du futur
-          + [23]Performance publique
-          + [24]Qualité
-          + [25]RSE
-          + [26]Sécurité des aliments
-          + [27]SST
-     * [28]Solutions
-          + [29]Adhérer à l’association
-          + [30]Participer à la normalisation
-          + [31]Acheter les normes
-          + [32]Veiller et s’informer
-          + [33]Monter en compétences
-          + [34]Se faire certifier
-          + [35]Excellence EFQM
-     * [36]Le groupe
-          + [37]Qui sommes-nous
-          + [38]Organisation & Gouvernance
-          + [39]Adhérer à l’association
-          + [40]Découvrir les normes
-               o [41]FAQ
-               o [42]Les normes volontaires
-               o [43]En une définition
-               o [44]La normalisation en France
-               o [45]Enseigner la normalisation
-               o [46]Trophées Or Normes
-          + [47]Politique RSE
-          + [48]Nous trouver
-     * [49]Nous rejoindre
-          + [50]Offres d’emploi
-          + [51]Offres de missions
-          + [52]Travailler chez AFNOR
-     * [53]La newsletter du groupe AFNOR
+     * Actualités
+     * Événements
+     * Thèmes & marchés
+          + Achats responsables
+          + Confiance numérique
+          + Développement durable
+          + Dispositifs médicaux
+          + Energie et carbone
+          + Environnement
+          + Formation professionnelle
+          + Industrie du futur
+          + Performance publique
+          + Qualité
+          + RSE
+          + Sécurité des aliments
+          + SST
+     * Solutions
+          + Adhérer à l’association
+          + Participer à la normalisation
+          + Acheter les normes
+          + Veiller et s’informer
+          + Monter en compétences
+          + Se faire certifier
+          + Excellence EFQM
+     * Le groupe
+          + Qui sommes-nous
+          + Organisation & Gouvernance
+          + Adhérer à l’association
+          + Découvrir les normes
+               o FAQ
+               o Les normes volontaires
+               o En une définition
+               o La normalisation en France
+               o Enseigner la normalisation
+               o Trophées Or Normes
+          + Politique RSE
+          + Nous trouver
+     * Nous rejoindre
+          + Travailler chez AFNOR
+          + Offres d’emploi
+          + Offres de missions
+          + Des métiers insoupçonnés
+     * La newsletter du groupe AFNOR
 
-   [54]FR | [55]EN
+   FR | EN
 
-     * [56]Actualités
-     * [57]Événements
-     * [58]Thèmes & marchés
-          + [59]Achats responsables
-          + [60]Confiance numérique
-          + [61]Développement durable
-          + [62]Dispositifs médicaux
-          + [63]Energie et carbone
-          + [64]Environnement
-          + [65]Formation professionnelle
-          + [66]Industrie du futur
-          + [67]Performance publique
-          + [68]Qualité
-          + [69]RSE
-          + [70]Sécurité des aliments
-          + [71]SST
-     * [72]Solutions
-          + [73]Adhérer à l’association
-          + [74]Participer à la normalisation
-          + [75]Acheter les normes
-          + [76]Veiller et s’informer
-          + [77]Monter en compétences
-          + [78]Se faire certifier
-          + [79]Excellence EFQM
-     * [80]Le groupe
-          + [81]Qui sommes-nous
-          + [82]Organisation & Gouvernance
-          + [83]Adhérer à l’association
-          + [84]Découvrir les normes
-               o [85]FAQ
-               o [86]Les normes volontaires
-               o [87]En une définition
-               o [88]La normalisation en France
-               o [89]Enseigner la normalisation
-               o [90]Trophées Or Normes
-          + [91]Politique RSE
-          + [92]Nous trouver
-     * [93]Nous rejoindre
-          + [94]Offres d’emploi
-          + [95]Offres de missions
-          + [96]Travailler chez AFNOR
-     * [97]La newsletter du groupe AFNOR
+     * Actualités
+     * Événements
+     * Thèmes & marchés
+          + Achats responsables
+          + Confiance numérique
+          + Développement durable
+          + Dispositifs médicaux
+          + Energie et carbone
+          + Environnement
+          + Formation professionnelle
+          + Industrie du futur
+          + Performance publique
+          + Qualité
+          + RSE
+          + Sécurité des aliments
+          + SST
+     * Solutions
+          + Adhérer à l’association
+          + Participer à la normalisation
+          + Acheter les normes
+          + Veiller et s’informer
+          + Monter en compétences
+          + Se faire certifier
+          + Excellence EFQM
+     * Le groupe
+          + Qui sommes-nous
+          + Organisation & Gouvernance
+          + Adhérer à l’association
+          + Découvrir les normes
+               o FAQ
+               o Les normes volontaires
+               o En une définition
+               o La normalisation en France
+               o Enseigner la normalisation
+               o Trophées Or Normes
+          + Politique RSE
+          + Nous trouver
+     * Nous rejoindre
+          + Travailler chez AFNOR
+          + Offres d’emploi
+          + Offres de missions
+          + Des métiers insoupçonnés
+     * La newsletter du groupe AFNOR
 
-     * [98]Accueil
+     * Accueil
 
-     [99]Achats responsables et risques fournisseurs
+     Achats responsables et risques fournisseurs
 
-     [100]FAQ Achats/Risques fournisseurs
+     FAQ Achats/Risques fournisseurs
 
-     [101]FAQ Devoir de vigilance – Qu’est-ce que le devoir de vigilance ?
+     FAQ Devoir de vigilance – Qu’est-ce que le devoir de vigilance ?
 
-     * [102]Qu'est-ce que le devoir de vigilance ?
-     * [103]Comment appliquer la loi Sapin 2 sur l'anti-corruption
-     * [104]Qu'est-ce que le risque fournisseurs en une définition ?
-     * [105]Comment sécuriser sa supply chain ?
-     * [106]Pourquoi cartographier le risque fournisseurs ?
-     * [107]Quelle est la définition d’un achat responsable ?
-     * [108]Comment acheter éthique ?
-     * [109]Qu’est-ce que le risque de réputation et d’e-réputation ?
-     * [110]Quelles sont les catégories d’achats de la cartographie des
+     * Qu'est-ce que le devoir de vigilance ?
+     * Comment appliquer la loi Sapin 2 sur l'anti-corruption
+     * Qu'est-ce que le risque fournisseurs en une définition ?
+     * Comment sécuriser sa supply chain ?
+     * Pourquoi cartographier le risque fournisseurs ?
+     * Quelle est la définition d’un achat responsable ?
+     * Comment acheter éthique ?
+     * Qu’est-ce que le risque de réputation et d’e-réputation ?
+     * Quelles sont les catégories d’achats de la cartographie des
        risques ?
-     * [111]Quelles sont les questions que soulève la RSE ?
+     * Quelles sont les questions que soulève la RSE ?
 
 Qu’est-ce que le devoir de vigilance ?
 
@@ -124,15 +125,15 @@ Qu’est-ce que le devoir de vigilance ?
    fournisseurs de grandes marques textiles européennes, lesquelles
    cautionnaient ainsi (car pas assez vigilantes) les conditions de
    travail dangereuses et déplorables sur les chaînes de production. Un an
-   après la [112]loi Sapin 2 sur l’anti-corruption, la loi sur le devoir
-   de vigilance donne davantage corps à la notion de « compliance »
+   après la loi Sapin 2 sur l’anti-corruption, la loi sur le devoir de
+   vigilance donne davantage corps à la notion de « compliance »
    (conformité, en français), qui peut être comprise comme le souci d’agir
    avec éthique et responsabilité. Le devoir de vigilance rejoint ainsi la
-   [113]thématique RSE.
+   thématique RSE.
 
 Que dit la loi sur l’obligation de vigilance ?
 
-   La [114]loi sur le devoir de vigilance du 27 mars 2017 renforce la
+   La loi sur le devoir de vigilance du 27 mars 2017 renforce la
    responsabilité sociétale des grandes entreprises françaises en
    instituant un « réflexe probité ». Réflexe gravé dans le marbre du code
    du commerce, dans son article L.225-102-4. En tant que donneuses
@@ -162,7 +163,7 @@ Quelles entreprises sont concernées par le devoir de vigilance ?
 Quelles sont les mesures prévues par la loi concernant le plan de vigilance ?
 
    Le plan de vigilance demandé par la loi prévoit 5 mesures :
-     * une [115]cartographie des risques ;
+     * une cartographie des risques ;
      * des procédures d’évaluation régulière de la situation des filiales,
        sous-traitants ou fournisseurs ;
      * des actions d’atténuation des risques ou de prévention des
@@ -201,11 +202,11 @@ Est-ce que la loi sur le devoir de vigilance est utile ?
    nouveaux risques. Car le simple fait de ne pas les avoir identifiés
    peut engendrer sa condamnation à des dommages et intérêts. En tant que
    responsable des achats, au siège ou en filiale, vous êtes la vigie de
-   ce nouveau dispositif ! Vous pouvez vous aider de [116]lanceurs
-   d’alerte en interne. L’enjeu est grand : un dommage qui aurait
-   raisonnablement pu être évité peut engager la responsabilité civile de
-   votre entreprise. À la clé, des sanctions financières pouvant atteindre
-   10 000 euros. On n’est jamais trop prudent quand on est vigilant !
+   ce nouveau dispositif ! Vous pouvez vous aider de lanceurs d’alerte en
+   interne. L’enjeu est grand : un dommage qui aurait raisonnablement pu
+   être évité peut engager la responsabilité civile de votre entreprise. À
+   la clé, des sanctions financières pouvant atteindre 10 000 euros. On
+   n’est jamais trop prudent quand on est vigilant !
 
 Y a-t-il un devoir de vigilance européen ?
 
@@ -213,10 +214,10 @@ Y a-t-il un devoir de vigilance européen ?
    projet de directive européenne, dite CS3D (Corporate Sustainability Due
    Diligence Directive), est à l’étude pour dupliquer la mesure aux 27
    pays de l’UE, en abaissant les seuils d’assujettissement et en lien
-   avec la directive sur le [117]reporting de durabilité (CSRD). Un
-   premier texte est sur la table en 2023.
-   [118]Lire le dossier complet
-   [119]Demander une cartographie des risques
+   avec la directive sur le reporting de durabilité (CSRD). Un premier
+   texte est sur la table en 2023.
+   Lire le dossier complet
+   Demander une cartographie des risques
 
      * Groupe AFNOR
      * 11 rue Francis de Pressensé
@@ -225,179 +226,31 @@ Y a-t-il un devoir de vigilance européen ?
 
 Sites métiers
 
-     * [120]AFNOR Normalisation
-     * [121]AFNOR Certification
-     * [122]AFNOR Editions
-     * [123]AFNOR Compétences
-     * [124]AFNOR International
+     * AFNOR Normalisation
+     * AFNOR Certification
+     * AFNOR Editions
+     * AFNOR Compétences
+     * AFNOR International
 
 Liens utiles
 
-     * [125]Espace presse
-     * [126]Espace fournisseurs
-     * [127]Espaces privés
-     * [128]Nous contacter
-     * [129]Mentions légales
-     * [130]Plan du site
-     * [131]Dispositif d'alertes professionnelles
+     * Nos offres d'emploi
+     * Espace presse
+     * Espace fournisseurs
+     * Espaces privés
+     * Nous contacter
+     * Mentions légales
+     * Plan du site
+     * Dispositif d'alertes professionnelles
 
-   [132]compte X d'AFNOR [133]compte linkedin d'AFNOR [134]compte Youtube
-   d'AFNOR [135]compte facebook d'AFNOR
+   compte X d'AFNOR compte linkedin d'AFNOR compte Youtube d'AFNOR compte
+   facebook d'AFNOR
 
 Newsletter
 
    Je reste informé des actualités de mon marché
-   [136]Je m'abonne
-   [137]Charte RGPD - [138]Gérer mes consentements cookies
+   Je m'abonne
+   Charte RGPD - Gérer mes consentements cookies
 
 Par mesure de sécurité, nos emails sont masqués.
 Pour les afficher, complétez le captcha ci-dessous
-
-Références
-
-   Liens visibles :
-   1. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
-   2. https://www.afnor.org/feed/
-   3. https://www.afnor.org/wp-json/wp/v2/pages/38211
-   4. https://www.afnor.org/wp-json/oembed/1.0/embed?url=https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
-   5. https://www.afnor.org/wp-json/oembed/1.0/embed?url=https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/&format=xml
-   6. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
-   7. https://www.googletagmanager.com/ns.html?id=GTM-NS28QF6
-   8. https://www.afnor.org/
-   9. https://www.afnor.org/en/
-  10. https://www.afnor.org/
-  11. https://www.afnor.org/newsletter/
-  12. https://www.afnor.org/actualites/
-  13. https://www.afnor.org/evenements/
-  14. https://www.afnor.org/dossiers-thematiques/
-  15. https://www.afnor.org/achats/
-  16. https://www.afnor.org/numerique/
-  17. https://www.afnor.org/developpement-durable/
-  18. https://www.afnor.org/dispositifs-medicaux/
-  19. https://www.afnor.org/energie/
-  20. https://www.afnor.org/environnement/
-  21. https://www.afnor.org/formation-professionnelle/
-  22. https://www.afnor.org/industrie/
-  23. https://www.afnor.org/secteur-public/
-  24. https://www.afnor.org/qualite/
-  25. https://www.afnor.org/responsabilite-societale/
-  26. https://www.afnor.org/agroalimentaire/
-  27. https://www.afnor.org/sante-securite-travail/
-  28. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
-  29. https://www.afnor.org/le-groupe/adherer-association/
-  30. https://normalisation.afnor.org/
-  31. https://www.afnor.org/acheter-une-norme/
-  32. https://www.afnor.org/veiller-et-sinformer/
-  33. https://www.afnor.org/monter-en-competences/
-  34. https://www.afnor.org/se-faire-certifier/
-  35. https://www.afnor.org/excellence-efqm/
-  36. https://www.afnor.org/le-groupe/
-  37. https://www.afnor.org/le-groupe/qui-sommes-nous/
-  38. https://www.afnor.org/le-groupe/organisation-gouvernance/
-  39. https://www.afnor.org/le-groupe/adherer-association/
-  40. https://www.afnor.org/normes/
-  41. https://www.afnor.org/normes/faq/
-  42. https://www.afnor.org/normes/tous-volontaires/
-  43. https://www.afnor.org/normes/normes-definition/
-  44. https://www.afnor.org/normes/normalisation-en-france/
-  45. https://www.afnor.org/normes/enseigner-la-normalisation/
-  46. https://www.afnor.org/normes/trophees-or-normes/
-  47. https://www.afnor.org/le-groupe/politique-rse/
-  48. https://www.afnor.org/le-groupe/nous-trouver/
-  49. https://www.afnor.org/nous-rejoindre/
-  50. https://www.afnor.org/nous-rejoindre/offres-emploi/
-  51. https://www.afnor.org/nous-rejoindre/offres-de-missions/
-  52. https://www.afnor.org/nous-rejoindre/travailler-chez-afnor/
-  53. https://www.afnor.org/newsletter/
-  54. https://www.afnor.org/
-  55. https://www.afnor.org/en
-  56. https://www.afnor.org/actualites/
-  57. https://www.afnor.org/evenements/
-  58. https://www.afnor.org/dossiers-thematiques/
-  59. https://www.afnor.org/achats/
-  60. https://www.afnor.org/numerique/
-  61. https://www.afnor.org/developpement-durable/
-  62. https://www.afnor.org/dispositifs-medicaux/
-  63. https://www.afnor.org/energie/
-  64. https://www.afnor.org/environnement/
-  65. https://www.afnor.org/formation-professionnelle/
-  66. https://www.afnor.org/industrie/
-  67. https://www.afnor.org/secteur-public/
-  68. https://www.afnor.org/qualite/
-  69. https://www.afnor.org/responsabilite-societale/
-  70. https://www.afnor.org/agroalimentaire/
-  71. https://www.afnor.org/sante-securite-travail/
-  72. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
-  73. https://www.afnor.org/le-groupe/adherer-association/
-  74. https://normalisation.afnor.org/
-  75. https://www.afnor.org/acheter-une-norme/
-  76. https://www.afnor.org/veiller-et-sinformer/
-  77. https://www.afnor.org/monter-en-competences/
-  78. https://www.afnor.org/se-faire-certifier/
-  79. https://www.afnor.org/excellence-efqm/
-  80. https://www.afnor.org/le-groupe/
-  81. https://www.afnor.org/le-groupe/qui-sommes-nous/
-  82. https://www.afnor.org/le-groupe/organisation-gouvernance/
-  83. https://www.afnor.org/le-groupe/adherer-association/
-  84. https://www.afnor.org/normes/
-  85. https://www.afnor.org/normes/faq/
-  86. https://www.afnor.org/normes/tous-volontaires/
-  87. https://www.afnor.org/normes/normes-definition/
-  88. https://www.afnor.org/normes/normalisation-en-france/
-  89. https://www.afnor.org/normes/enseigner-la-normalisation/
-  90. https://www.afnor.org/normes/trophees-or-normes/
-  91. https://www.afnor.org/le-groupe/politique-rse/
-  92. https://www.afnor.org/le-groupe/nous-trouver/
-  93. https://www.afnor.org/nous-rejoindre/
-  94. https://www.afnor.org/nous-rejoindre/offres-emploi/
-  95. https://www.afnor.org/nous-rejoindre/offres-de-missions/
-  96. https://www.afnor.org/nous-rejoindre/travailler-chez-afnor/
-  97. https://www.afnor.org/newsletter/
-  98. https://www.afnor.org/
-  99. https://www.afnor.org/achats/
- 100. https://www.afnor.org/achats/faq/
- 101. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
- 102. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/
- 103. https://www.afnor.org/achats/faq/comment-appliquer-loi-sapin-2-anti-corruption/
- 104. https://www.afnor.org/achats/faq/quest-ce-que-le-risque-fournisseurs-definition/
- 105. https://www.afnor.org/achats/faq//comment-securiser-sa-supply-chain/
- 106. https://www.afnor.org/achats/faq/pourquoi-cartographier-le-risque-fournisseurs/
- 107. https://www.afnor.org/achats/faq/quelle-est-la-definition-achat-responsable/
- 108. https://www.afnor.org/achats/faq/comment-acheter-ethique/
- 109. https://www.afnor.org/achats/faq/le-risque-reputation-e-reputation/
- 110. https://www.afnor.org/achats/faq/cartographie-risques-categories-achats/
- 111. https://www.afnor.org/achats/faq/quelles-sont-les-questions-que-souleve-la-rse/
- 112. https://www.afnor.org/achats/faq/comment-appliquer-loi-sapin-2-anti-corruption/
- 113. https://www.afnor.org/responsabilite-societale/
- 114. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034290626/
- 115. https://www.afnor.org/achats/cartographie-des-risques/
- 116. https://www.afnor.org/achats/faq/comment-appliquer-loi-sapin-2-anti-corruption/
- 117. https://www.afnor.org/developpement-durable/odd-construction-reporting/
- 118. https://www.afnor.org/achats/
- 119. https://www.afnor.org/achats/cartographie-des-risques/
- 120. https://normalisation.afnor.org/
- 121. https://certification.afnor.org/
- 122. https://www.boutique.afnor.org/
- 123. https://competences.afnor.org/
- 124. https://international.afnor.com/
- 125. https://www.afnor.org/espace-presse/
- 126. https://www.afnor.org/espace-fournisseurs/
- 127. https://www.afnor.org/espaces-prives/
- 128. https://www.afnor.org/contact/
- 129. https://www.afnor.org/mentions-legales/
- 130. https://www.afnor.org/plan-du-site/
- 131. https://www.afnor.org/alertes-professionnelles/
- 132. https://twitter.com/afnor
- 133. https://fr.linkedin.com/company/afnor
- 134. https://www.youtube.com/@afnor
- 135. https://www.facebook.com/GroupeAFNOR/
- 136. https://www.afnor.org/newsletter/
- 137. https://afnorpass.afnor.org/charte?code=GROUPE_AFNOR
- 138. javascript:Didomi.preferences.show()
-
-   Liens cachés :
- 140. https://twitter.com/AFNOR
- 141. https://www.facebook.com/GroupeAFNOR/
- 142. https://fr.linkedin.com/company/afnor
- 143. https://www.youtube.com/channel/UCwGYgFi4GrFSfrRZqZwwASQ
- 144. https://www.afnor.org/achats/faq/quest-ce-que-le-devoir-de-vigilance/

@@ -1,166 +1,167 @@
-   [1]Aller à l'en-tête [2]Aller au menu principal [3]Aller au contenu
-   [4]Aller au pied de page
+   Aller à l'en-tête Aller au menu principal Aller au contenu Aller au
+   pied de page
 
-   [5]Aller au contenu principal
+   Aller au contenu principal
 
-     * [6]FR
-     * [7]EN
+     * FR
+     * EN
 
-   [8]Accueil
+   Accueil
    ____________________ OK
-     * [9]Université
-          + [10]Actualités
-          + [11]Temps forts
-          + [12]L'institution
-               o [13]Organisation
-               o [14]Histoire
-               o [15]Chiffres clés
-               o [16]Conventions et partenariats
-          + [17]Contacts
-               o [18]Enseignants-chercheurs
-               o [19]Administration générale
-               o [20]Écoles et instituts
-               o [21]Implantations
-          + [22]Fondation
-               o [23]Projets soutenus par la fondation
-          + [24]Engagements
-               o [25]Égalité des chances
-               o [26]#RéagirAssas
-               o [27]Environnement
-          + [28]Assas Alumni
-          + [29]Classements
-          + [30]Communication
-          + [31]Recrutements
-               o [32]Administration
-               o [33]Enseignement
-               o [34]Vacations administratives
-               o [35]Vacations pédagogiques
-          + [36]Concours
-               o [37]Concours ITRF organisés par l'université
-               o [38]Concours ITRF postes ouverts à l'université
-               o [39]Examens professionnels exceptionnels - Postes ouverts
-                 à l'université
-          + [40]Marchés publics
-     * [41]Formations
-          + [42]Actualités
-          + [43]Offre de formation
-               o [44]Droit
-               o [45]Science politique
-               o [46]Économie
-               o [47]Gestion
-               o [48]Information Communication
-               o [49]Efrei
-               o [50]ISIT
-               o [51]CFJ
-               o [52]École W
-               o [53]Formations internationales
-               o [54]Doctorats
-               o [55]Formation continue et VAE
-               o [56]Préparations aux concours et examens professionnels
-          + [57]E-learning et MOOC
-          + [58]Candidatures
-               o [59]Licence
-               o [60]Licences numériques
-               o [61]Masters
-               o [62]Doctorat
-               o [63]Autres formations & auditeurs libres
-               o [64]Transferts et équivalences
-          + [65]Inscriptions
-               o [66]Inscription administrative
-               o [67]Inscription pédagogique
-               o [68]Droits d'inscription
-               o [69]FAQ Inscriptions
-               o [70]Année de césure
-               o [71]Points Bonus
-          + [72]Calendrier universitaire
-               o [73]Emploi du temps
-          + [74]Examens
-          + [75]Résumés de cours
-          + [76]Pôle Langues
-               o [77]Organisation
-               o [78]Activités scientifiques
-               o [79]Langues enseignées
-               o [80]Inscriptions en langues
-               o [81]Certifications
-               o [82]FAQ / Liens utiles
-          + [83]Enseignements cliniques
-               o [84]Maison du droit
-               o [85]Ateliers de professionnalisation
-               o [86]Current Legal Issues
-          + [87]Orientation et insertion
-               o [88]Unités d’expérience professionnelle
-               o [89]Job Fair d'Assas
-               o [90]Stage en entreprise
-               o [91]Mentorat
-          + [92]Taxe d'apprentissage
-     * [93]Recherche
-          + [94]Actualités
-          + [95]Focus
-          + [96]Soutenances de thèses
-          + [97]Écoles doctorales
-          + [98]Centres de recherche
-          + [99]Docteurs Honoris Causa
-          + [100]Bibliothèque
-          + [101]Éditions Panthéon-Assas
-          + [102]Publications
-     * [103]International
-          + [104]Actualités
-          + [105]4EU+
-          + [106]Partir étudier à l'étranger
-               o [107]En double diplôme / Cursus intégré
-               o [108]En programme d'échange (Erasmus+, etc.)
-          + [109]Venir étudier à l'université
-               o [110]Dans un diplôme
-               o [111]En programme d'échange (Erasmus+, etc.)
-          + [112]Campus internationaux
-               o [113]Dubaï
-               o [114]Maurice | Mauritius
-               o [115]Paris
-               o [116]Singapour | Singapore
-          + [117]Formations à l'étranger
-          + [118]Financements
-          + [119]Universités partenaires
-               o [120]Afrique
-               o [121]Amériques
-               o [122]Asie - Océanie
-               o [123]Europe
-               o [124]Proche et Moyen-Orient
-     * [125]Campus
-          + [126]Actualités
-          + [127]Bibliothèque
-          + [128]Campus pratique
-          + [129]Mission Orientation-Emploi
-          + [130]Incubateur Assas Lab'
-          + [131]Sport
-          + [132]Associations
-          + [133]Santé
-          + [134]Handicap
-          + [135]Bourses
-          + [136]Aides financières et sociales
-          + [137]Engagement étudiant
+     * Université
+          + Actualités
+          + Temps forts
+          + L'institution
+               o Organisation
+               o Histoire
+               o Chiffres clés
+               o Conventions et partenariats
+          + Contacts
+               o Enseignants-chercheurs
+               o Administration générale
+               o Écoles et instituts
+               o Implantations
+          + Fondation
+               o Projets soutenus par la fondation
+          + Engagements
+               o Égalité des chances
+               o #RéagirAssas
+               o Environnement
+          + Assas Alumni
+          + Classements
+          + Communication
+          + Recrutements
+               o Administration
+               o Enseignement
+               o Vacations administratives
+               o Vacations pédagogiques
+          + Concours
+               o Concours ITRF organisés par l'université
+               o Recrutement sans concours à l’université
+               o Concours ITRF postes ouverts à l'université
+               o Examens professionnels exceptionnels - Postes ouverts à
+                 l'université
+          + Marchés publics
+     * Formations
+          + Actualités
+          + Offre de formation
+               o Droit
+               o Science politique
+               o Économie
+               o Gestion
+               o Information Communication
+               o Efrei
+               o ISIT
+               o CFJ
+               o École W
+               o Formations internationales
+               o Doctorats
+               o Formation continue et VAE
+               o Préparations aux concours et examens professionnels
+          + E-learning et MOOC
+          + Candidatures
+               o Licence
+               o Licences numériques
+               o Masters
+               o Doctorat
+               o Autres formations & auditeurs libres
+               o Transferts et équivalences
+          + Inscriptions
+               o Inscription administrative
+               o Inscription pédagogique
+               o Droits d'inscription
+               o FAQ Inscriptions
+               o Année de césure
+               o Points Bonus
+          + Calendrier universitaire
+               o Emploi du temps
+          + Examens
+          + Résumés de cours
+          + Pôle Langues
+               o Organisation
+               o Activités scientifiques
+               o Langues enseignées
+               o Inscriptions en langues
+               o Certifications
+               o FAQ / Liens utiles
+          + Enseignements cliniques
+               o Maison du droit
+               o Ateliers de professionnalisation
+               o Current Legal Issues
+          + Orientation et insertion
+               o Unités d’expérience professionnelle
+               o Job Fair d'Assas
+               o Stage en entreprise
+               o Mentorat
+          + Taxe d'apprentissage
+     * Recherche
+          + Actualités
+          + Focus
+          + Soutenances de thèses
+          + Écoles doctorales
+          + Centres de recherche
+          + Docteurs Honoris Causa
+          + Bibliothèque
+          + Éditions Panthéon-Assas
+          + Publications
+     * International
+          + Actualités
+          + 4EU+
+          + Partir étudier à l'étranger
+               o En double diplôme / Cursus intégré
+               o En programme d'échange (Erasmus+, etc.)
+          + Venir étudier à l'université
+               o Dans un diplôme
+               o En programme d'échange (Erasmus+, etc.)
+          + Campus internationaux
+               o Dubaï
+               o Maurice | Mauritius
+               o Paris
+               o Singapour | Singapore
+          + Formations à l'étranger
+          + Financements
+          + Universités partenaires
+               o Afrique
+               o Amériques
+               o Asie - Océanie
+               o Europe
+               o Proche et Moyen-Orient
+     * Campus
+          + Actualités
+          + Bibliothèque
+          + Campus pratique
+          + Mission Orientation-Emploi
+          + Incubateur Assas Lab'
+          + Sport
+          + Associations
+          + Santé
+          + Handicap
+          + Bourses
+          + Aides financières et sociales
+          + Engagement étudiant
 
    ____________________ OK
 
 Vous êtes
 
-     * [138]Etudiants
-     * [139]Futur étudiant
-     * [140]Diplômé
-     * [141]Publics internationaux
-     * [142]Entreprise
-     * [143]Presse
-     * [144]Personnel
+     * Etudiants
+     * Futur étudiant
+     * Diplômé
+     * Publics internationaux
+     * Entreprise
+     * Presse
+     * Personnel
 
 Nos établissements
 
-     * [145]Centre Assas
-     * [146]Centre Melun
-     * [147]Centre Panthéon
-     * [148]Centre Vaugirard I
-     * [149]Autres centres
+     * Centre Assas
+     * Centre Melun
+     * Centre Panthéon
+     * Centre Vaugirard I
+     * Autres centres
 
-   [150]Accueil - La distinction de l’obligation et du devoir en droit
-   privé vient de paraître
+   Accueil - La distinction de l’obligation et du devoir en droit privé
+   vient de paraître
 
 La distinction de l’obligation et du devoir en droit privé vient de paraître
 
@@ -169,8 +170,8 @@ La distinction de l’obligation et du devoir en droit privé vient de paraître
    paraître
    Photo d'illustration, ouvrages des Editions Panthéon-Assas
    Rubrique recherche:
-   [151]EPA Actualités
-     * [152]Share this
+   EPA Actualités
+     * Share this
 
    Dernière parution des Éditions Panthéon-Assas
 
@@ -236,222 +237,38 @@ Biographie
 
 Suivez nous
 
-     * [153]Instagram
-     * [154]Lkin
-     * [155]Youtube
-     * [156]Facebook
-     * [157]Twitter
+     * Instagram
+     * Lkin
+     * Youtube
+     * Facebook
+     * Twitter
 
    Logo université Paris 2 Panthéon-Assas
 
    Logo 4EUplus
-     * [158]Université
-     * [159]Formations
-     * [160]Recherche
+     * Université
+     * Formations
+     * Recherche
 
-     * [161]International
-     * [162]Campus
+     * International
+     * Campus
 
-     * [163]AGORASSAS
-     * [164]ENT
-     * [165]HAL Panthéon-Assas Université
+     * AGORASSAS
+     * ENT
+     * HAL Panthéon-Assas Université
 
-   [166]Gestion des cookies
-     * [167]Sitemap
-     * [168]Glossaire
-     * [169]Mentions légales
-     * [170]Données personnelles
-     * [171]Cookies
-     * [172]Accessibilité
+   Gestion des cookies
+     * Sitemap
+     * Glossaire
+     * Mentions légales
+     * Données personnelles
+     * Cookies
+     * Accessibilité
 
-     * [173]Instagram
-     * [174]Lkin
-     * [175]Youtube
-     * [176]Facebook
-     * [177]Twitter
+     * Instagram
+     * Lkin
+     * Youtube
+     * Facebook
+     * Twitter
 
    Université Paris-Panthéon-Assas
-
-Références
-
-   Liens visibles :
-   1. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#header
-   2. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#block-system-main-menu
-   3. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#page
-   4. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#footer_wrapper
-   5. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#main-content
-   6. https://www.u-paris2.fr/fr
-   7. https://www.u-paris2.fr/en
-   8. https://www.u-paris2.fr/fr
-   9. https://www.u-paris2.fr/fr/universite
-  10. https://www.u-paris2.fr/fr/universite/actualites?title=&theme=19
-  11. https://www.u-paris2.fr/fr/universite/communication/temps-forts
-  12. https://www.u-paris2.fr/fr/universite/linstitution
-  13. https://www.u-paris2.fr/fr/universite/linstitution/organisation
-  14. https://www.u-paris2.fr/fr/universite/linstitution/histoire
-  15. https://www.u-paris2.fr/fr/universite/linstitution/chiffres-cles
-  16. https://www.u-paris2.fr/fr/universite/linstitution/conventions-partenariats
-  17. https://www.u-paris2.fr/fr/universite/contact-universite
-  18. https://www.u-paris2.fr/fr/universite/enseignants-chercheurs
-  19. https://www.u-paris2.fr/fr/universite/contact-universite/administration-generale
-  20. https://www.u-paris2.fr/fr/universite/linstitution/organisation/ecoles-et-instituts
-  21. https://www.u-paris2.fr/fr/universite/linstitution/implantations
-  22. https://www.u-paris2.fr/fr/universite/la-fondation-pantheon-assas
-  23. https://www.u-paris2.fr/fr/universite/fondation/projets-soutenus
-  24. https://www.u-paris2.fr/fr/universite/engagements
-  25. https://www.u-paris2.fr/fr/universite/engagements/egalite-des-chances
-  26. https://www.u-paris2.fr/fr/universite/engagements/reagirassas
-  27. https://www.u-paris2.fr/fr/universite/engagements/environnement
-  28. https://assas-alumni.com/
-  29. https://www.u-paris2.fr/fr/luniversite-paris-pantheon-assas-lhonneur-dans-les-classements
-  30. https://www.u-paris2.fr/fr/universite/communication
-  31. https://www.u-paris2.fr/fr/universite/recrutements
-  32. https://www.u-paris2.fr/fr/universite/recrutements/administration
-  33. https://www.u-paris2.fr/fr/universite/recrutements/enseignement
-  34. https://www.u-paris2.fr/fr/universite/recrutements/vacations-administratives
-  35. https://www.u-paris2.fr/fr/universite/recrutements/vacations-pedagogiques
-  36. https://www.u-paris2.fr/fr/universite/concours
-  37. https://www.u-paris2.fr/fr/universite/concours/concours-itrf-organises-par-luniversite
-  38. https://www.u-paris2.fr/fr/universite/concours/concours-itrf-postes-ouverts-luniversite
-  39. https://www.u-paris2.fr/fr/universite/concours/examens-professionnels-exceptionnels-postes-ouverts-luniversite
-  40. https://www.u-paris2.fr/fr/marches-publics
-  41. https://www.u-paris2.fr/fr/formations
-  42. https://www.u-paris2.fr/fr/universite/actualites?title=&theme=17
-  43. https://www.u-paris2.fr/fr/formations/offre-de-formation
-  44. https://www.u-paris2.fr/fr/formations/offre-de-formation/formations-en-droit
-  45. https://www.u-paris2.fr/fr/formations/offre-de-formation/formations-en-science-politique
-  46. https://www.u-paris2.fr/fr/formations/offre-de-formation/formations-en-economie
-  47. https://www.u-paris2.fr/fr/formations/offre-de-formation/formations-en-gestion
-  48. https://www.u-paris2.fr/fr/formations/offre-de-formation/formations-en-information-communication
-  49. https://www.u-paris2.fr/fr/formations/offre-de-formation/efrei
-  50. https://www.u-paris2.fr/fr/formations/offre-de-formation/isit
-  51. https://www.u-paris2.fr/fr/formations/offre-de-formation/cfj
-  52. https://www.u-paris2.fr/fr/formations/offre-de-formation/ecole-w
-  53. https://www.u-paris2.fr/fr/formations/offre-formation/formations-internationales
-  54. https://www.u-paris2.fr/fr/formations/offre-de-formation/doctorats
-  55. https://cfp.u-paris2.fr/fr/formations-cfp
-  56. https://www.u-paris2.fr/fr/formations/offre-de-formation/preparations-aux-concours-et-examens-professionnels
-  57. https://www.u-paris2.fr/fr/formations/e-learning-et-mooc
-  58. https://www.u-paris2.fr/fr/formations/candidatures
-  59. https://www.u-paris2.fr/fr/formations/candidatures/inscriptions-en-licence
-  60. https://www.u-paris2.fr/fr/formations/candidatures/licences-numeriques
-  61. https://www.u-paris2.fr/fr/formations/candidatures/masters
-  62. https://www.u-paris2.fr/fr/formations/candidatures/inscription-et-reinscription-en-doctorat
-  63. https://www.u-paris2.fr/fr/formations/candidatures/autres-formations-auditeurs-libres
-  64. https://www.u-paris2.fr/fr/formations/candidatures/transferts-et-equivalences
-  65. https://www.u-paris2.fr/fr/formations/inscriptions
-  66. https://www.u-paris2.fr/fr/formations/inscriptions/inscription-administrative
-  67. https://www.u-paris2.fr/fr/formations/inscriptions/inscription-pedagogique
-  68. https://www.u-paris2.fr/fr/formations/inscriptions/droits-dinscription
-  69. https://www.u-paris2.fr/fr/formations/inscriptions/faq-inscriptions
-  70. https://www.u-paris2.fr/fr/formations/inscriptions/annee-de-cesure
-  71. https://www.u-paris2.fr/fr/formations/inscriptions/points-bonus
-  72. https://www.u-paris2.fr/fr/formations/calendrier-universitaire
-  73. https://www.u-paris2.fr/fr/formations/calendrier-universitaire/emploi-temps
-  74. https://www.u-paris2.fr/fr/formations/examens
-  75. https://www.u-paris2.fr/fr/formations/resumes-de-cours
-  76. https://www.u-paris2.fr/fr/formations/pole-langues
-  77. https://www.u-paris2.fr/fr/formations/pole-langues/organisation-du-pole-langues
-  78. https://www.u-paris2.fr/fr/formations/pole-langues/activites-scientifiques-du-pole-langues
-  79. https://www.u-paris2.fr/fr/formations/pole-langues/langues-enseignees
-  80. https://www.u-paris2.fr/fr/formations/pole-langues/inscriptions-en-langues
-  81. https://www.u-paris2.fr/fr/formations/pole-langues/certifications
-  82. https://www.u-paris2.fr/fr/formations/pole-langues/faq-liens-utiles
-  83. https://www.u-paris2.fr/fr/formations/enseignements-cliniques
-  84. https://www.u-paris2.fr/fr/formations/enseignements-cliniques/maison-droit
-  85. https://www.u-paris2.fr/fr/formations/enseignements-cliniques/ateliers-de-professionnalisation
-  86. https://www.u-paris2.fr/fr/formations/enseignements-cliniques/current-legal-issues
-  87. https://www.u-paris2.fr/fr/formations/orientation-et-insertion
-  88. https://www.u-paris2.fr/fr/formations/orientation-et-insertion/unites-dexperience-professionnelle-uep
-  89. https://www.u-paris2.fr/fr/formations/orientation-et-insertion/job-fair-dassas
-  90. https://www.u-paris2.fr/fr/formations/orientation-et-insertion/stage-en-entreprise
-  91. https://www.u-paris2.fr/fr/mentorat
-  92. https://www.u-paris2.fr/fr/formations/taxe-dapprentissage
-  93. https://www.u-paris2.fr/fr/recherche
-  94. https://www.u-paris2.fr/fr/universite/actualites?title=&theme=16
-  95. https://www.u-paris2.fr/fr/recherche/focus
-  96. https://www.u-paris2.fr/fr/recherche/soutenances-de-theses
-  97. https://www.u-paris2.fr/fr/recherche/ecoles-doctorales
-  98. https://www.u-paris2.fr/fr/recherche/centres-de-recherche
-  99. https://www.u-paris2.fr/fr/recherche/docteurs-honoris-causa
- 100. https://bibliotheques.u-paris2.fr/
- 101. https://www.u-paris2.fr/fr/recherche/editions-pantheon-assas
- 102. https://www.u-paris2.fr/fr/recherche/publications
- 103. https://www.u-paris2.fr/fr/international
- 104. https://www.u-paris2.fr/fr/universite/actualites?title=&theme=18
- 105. https://www.u-paris2.fr/fr/luniversite-paris-pantheon-assas-rejoint-lalliance-4euplus
- 106. https://www.u-paris2.fr/fr/international/partir-etudier-letranger
- 107. https://www.u-paris2.fr/fr/international/partir-etudier-letranger/partir-etudier-letranger-en-double-diplomecursus-integre
- 108. https://www.u-paris2.fr/fr/international/partir-etudier-letranger/partir-etudier-letranger-en-programme-dechange
- 109. https://www.u-paris2.fr/fr/international/venir-etudier-paris-2
- 110. https://www.u-paris2.fr/fr/international/venir-etudier-paris-2/venir-etudier-paris-2-dans-un-diplome
- 111. https://www.u-paris2.fr/fr/international/venir-etudier-paris-2/venir-etudier-paris-2-en-programme-dechange
- 112. https://www.u-paris2.fr/fr/international/campus-internationaux
- 113. https://www.u-paris2.fr/fr/international/campus-internationaux/dubai-dubai
- 114. https://www.u-paris2.fr/fr/international/campus-internationaux/maurice-mauritius
- 115. https://www.u-paris2.fr/fr/international/campus-internationaux/paris
- 116. https://www.u-paris2.fr/fr/international/campus-internationaux/singapour-singapore
- 117. https://www.u-paris2.fr/fr/international/formations-letranger
- 118. https://www.u-paris2.fr/fr/international/bourses-de-mobilite-encadree-et-individuelle
- 119. https://www.u-paris2.fr/fr/universites-partenaires
- 120. https://www.u-paris2.fr/fr/international/universites-partenaires/afrique
- 121. https://www.u-paris2.fr/fr/international/universites-partenaires/ameriques
- 122. https://www.u-paris2.fr/fr/international/universites-partenaires/asie-oceanie
- 123. https://www.u-paris2.fr/fr/international/universites-partenaires/europe
- 124. https://www.u-paris2.fr/fr/international/universites-partenaires/proche-et-moyen-orient
- 125. https://www.u-paris2.fr/fr/campus
- 126. https://www.u-paris2.fr/fr/universite/actualites?title=&theme=14
- 127. https://bibliotheques.u-paris2.fr/
- 128. https://www.u-paris2.fr/fr/campus/campus-pratique
- 129. https://cio-baip.u-paris2.fr/fr
- 130. https://assaslab.u-paris2.fr/fr
- 131. https://www.u-paris2.fr/fr/campus/sport
- 132. https://www.u-paris2.fr/fr/campus/associations
- 133. https://www.u-paris2.fr/fr/campus/sante
- 134. https://www.u-paris2.fr/fr/campus/bienvenue-au-relais-handicap-sante
- 135. https://www.u-paris2.fr/fr/campus/bourses
- 136. https://www.u-paris2.fr/fr/campus/aides-financieres-et-sociales
- 137. https://www.u-paris2.fr/fr/campus/engagement-etudiant
- 138. https://www.u-paris2.fr/fr/vous-etes/etudiants
- 139. https://www.u-paris2.fr/fr/vous-etes/futur-etudiant
- 140. https://www.u-paris2.fr/fr/vous-etes/diplome
- 141. https://www.u-paris2.fr/fr/vous-etes/publics-internationaux
- 142. https://www.u-paris2.fr/fr/vous-etes/entreprise
- 143. https://www.u-paris2.fr/fr/vous-etes/presse
- 144. https://www.u-paris2.fr/fr/vous-etes/personnel
- 145. https://www.u-paris2.fr/fr/nos-etablissements/centre-assas
- 146. https://www.u-paris2.fr/fr/nos-etablissements/centre-melun
- 147. https://www.u-paris2.fr/fr/nos-etablissements/centre-pantheon
- 148. https://www.u-paris2.fr/fr/nos-etablissements/centre-vaugirard-i
- 149. https://www.u-paris2.fr/fr/nos-etablissements/autres-centres
- 150. https://www.u-paris2.fr/fr
- 151. https://www.u-paris2.fr/fr/rubrique-recherche/epa-actualites
- 152. https://www.addtoany.com/share#url=https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre&title=La distinction de l’obligation et du devoir en droit privé vient de paraître
- 153. https://www.instagram.com/assasuniversite/
- 154. https://www.linkedin.com/company/assasuniversite
- 155. https://www.youtube.com/channel/UCc-91lrX_M1DBkcS_fJ5nZg
- 156. https://www.facebook.com/AssasUniversite/
- 157. https://twitter.com/assasuniversite
- 158. https://www.u-paris2.fr/fr/universite
- 159. https://www.u-paris2.fr/fr/formations
- 160. https://www.u-paris2.fr/fr/recherche
- 161. https://www.u-paris2.fr/fr/international
- 162. https://www.u-paris2.fr/fr/campus
- 163. http://www.agorassas.fr/
- 164. https://ent.u-paris2.fr/uPortal/f/accueil-invites/normal/render.uP
- 165. https://univ-pantheon-assas.hal.science/
- 166. https://www.u-paris2.fr/fr/la-distinction-de-lobligation-et-du-devoir-en-droit-prive-vient-de-paraitre#rgpd
- 167. https://www.u-paris2.fr/fr/sitemap
- 168. https://www.u-paris2.fr/fr/glossaire
- 169. https://www.u-paris2.fr/fr/mentions-legales
- 170. https://www.u-paris2.fr/fr/donnees-personnelles
- 171. https://www.u-paris2.fr/fr/informations-sur-les-cookies
- 172. https://www.u-paris2.fr/fr/accessibilite
- 173. https://www.instagram.com/assasuniversite/
- 174. https://www.linkedin.com/company/assasuniversite
- 175. https://www.youtube.com/channel/UCc-91lrX_M1DBkcS_fJ5nZg
- 176. https://www.facebook.com/AssasUniversite/
- 177. https://twitter.com/assasuniversite
-
-   Liens cachés :
- 179. https://www.addtoany.com/share_save

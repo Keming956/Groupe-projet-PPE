@@ -18,7 +18,8 @@
         id: null,
         category: null
       };
-    </script><div class="fr-header"><div class="fr-header__body"><div class="fr-container"><div class="fr-header__body-row"><div class="fr-header__brand fr-enlarge-link"><div class="fr-header__brand-top"><div class="fr-header__logo"><p class="sp-print-only"><img src="https://www.service-public.fr/resources/v-303c571ce1/assets/img/logo-rf-top.svg" alt="" width="50"></p><p class="fr-logo fr-logo--lg">
+    </script><div class="sp-crisis-bg sp-no-print"><div class="fr-container"><div id="fr-alert-crisis" role="alert" class="sp-crisis fr-mb-1w fr-alert fr-alert--warning"><p data-test="bloc-crise-message-part">En raison d&#39;activités de maintenance planifiées, le site sera inaccessible cette nuit de 23h à 4h. &nbsp;
+                  </p></div></div></div><div class="fr-header"><div class="fr-header__body"><div class="fr-container"><div class="fr-header__body-row"><div class="fr-header__brand fr-enlarge-link"><div class="fr-header__brand-top"><div class="fr-header__logo"><p class="sp-print-only"><img src="https://www.service-public.fr/resources/v-303c571ce1/assets/img/logo-rf-top.svg" alt="" width="50"></p><p class="fr-logo fr-logo--lg">
                     République <br>Française
                   </p><p class="sp-print-only"><img src="https://www.service-public.fr/resources/v-303c571ce1/assets/img/logo-rf-bottom.svg" alt="" width="80"></p></div><div class="fr-header__navbar" id="header-search-mobile"><button type="button" class="fr-btn--search fr-btn" data-fr-opened="false" aria-controls="header-search"
                           title="Ouvrir la recherche" id="fr-btn-header-search-mobile">
@@ -56,7 +57,7 @@
             type="submit"
             title="Rechercher"><span>
             Rechercher
-            </span></button></form></div></div></div></div></div></div></div><div class="fr-header__menu fr-modal" id="header-navigation" data-_csrf="de8e398b-5448-41e5-bc47-fd3bb27df603" data-_csrf_header="X-CSRF-TOKEN"><div class="fr-container"><button type="button" class="fr-link--close fr-link" aria-controls="header-navigation" title="Fermer le menu">
+            </span></button></form></div></div></div></div></div></div></div><div class="fr-header__menu fr-modal" id="header-navigation" data-_csrf="dc07a05f-990a-4482-b077-3077c8d38d6b" data-_csrf_header="X-CSRF-TOKEN"><div class="fr-container"><button type="button" class="fr-link--close fr-link" aria-controls="header-navigation" title="Fermer le menu">
             Fermer
           </button><div class="fr-header__menu-links"></div><nav class="fr-nav sp-nav" id="navigation-869" role="navigation" aria-label="Menu principal"><ul class="fr-nav__list"><li class="fr-nav__item"><a class="fr-nav__link"
          href="https://www.service-public.fr/particuliers"
@@ -201,7 +202,7 @@
       ><svg aria-hidden="true" focusable="false" class=" fr-mr-1w  sp-icon  sp-icon-ri-notification-line " viewBox="0 0 24 24" width="16" height="16"><path d="M22 20H2v-2h1v-6.969C3 6.043 7.03 2 12 2s9 4.043 9 9.031V18h1v2zM5 18h14v-6.969C19 7.148 15.866 4 12 4s-7 3.148-7 7.031V18zm4.5 3h5a2.5 2.5 0 1 1-5 0z"></path></svg><span> S’abonner </span></a></div><!-- .sp-text-center --></div><div id="subscription_warning_alert_asso" class="alert alert-bloc alert-warning alert-dismissible fade in rs_skip"
        hidden="hidden" aria-hidden="true" role="alert" tabindex="-1"><p>Pour vous abonner aux mises à jour des pages service-public.fr, <strong class="h6">vous devez activer votre
       espace personnel</strong>.</p><p>Vous serez <strong>alerté(e) par courriel</strong> dès que la page « <strong>Devoirs de réserve, de discrétion, de neutralité et secret professionnels dans la fonction publique</strong> » sera mise à jour significativement.
-    </p><form action="https://www.service-public.fr/compte/ajouter-un-espace-personnel" method="post"><input type="hidden" name="_csrf" value="c7f2c7a0-34d6-4e6a-9504-a1aa79152d2a"/><input type="hidden" name="abonnementFicheUrl"
+    </p><form action="https://www.service-public.fr/compte/ajouter-un-espace-personnel" method="post"><input type="hidden" name="_csrf" value="b7fe434f-692c-475e-9032-4303df3ba8e9"/><input type="hidden" name="abonnementFicheUrl"
              value="https://www.service-public.fr/particuliers/vosdroits/F530/abonnement"/><p class="submit in-alert-bloc"><button type="submit" class="btn btn-primary btn-part" data-xiti-name="Particuliers::Vos_droits::Abonnement::activer_mon_espace_personnel" data-xiti-type="action">
           ACTIVER MON ESPACE PERSONNEL
         </button></p></form></div><div id="share_succeeded_alert" role="alert" class=" fr-mb-4w  fr-alert fr-alert--success rs_skip"
@@ -637,7 +638,7 @@
 </script><script>
     requirejs(['domReady', 'barometre/barometre'], function (domReady, barometre) {
       domReady(function () {
-        var randomNumber = barometre.getRandomNumber("100");
+        var randomNumber = barometre.getRandomNumber("50");
         barometre.showModalOfBarometre(randomNumber, "60");
         barometre.hideModalOfBarometre();
       });

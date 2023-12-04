@@ -5,20 +5,12 @@
    qu'il soit activé.
    Comment activer le JavaScript ?
    Chrome
-   [1]https://support.google.com/chrome
+   https://support.google.com/chrome
    Mozilla Firefox
-   [2]https://support.mozilla.org/fr/home
+   https://support.mozilla.org/fr/home
    Safari
-   [3]https://www.apple.com/support/safari/
+   https://www.apple.com/support/safari/
    Opera
-   [4]https://support.google.com/adsense/answer/12654?hl=fr
+   https://support.google.com/adsense/answer/12654?hl=fr
    Internet Explorer
-   [5]https://support.microsoft.com/product/internet-explorer
-
-Références
-
-   1. https://support.google.com/chrome
-   2. https://support.mozilla.org/fr/home
-   3. https://www.apple.com/support/safari/
-   4. https://support.google.com/adsense/answer/12654?hl=fr
-   5. https://support.microsoft.com/product/internet-explorer
+   https://support.microsoft.com/product/internet-explorer
