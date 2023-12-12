@@ -392,7 +392,7 @@
        用于检测情绪、文本等内容的各种自定义模型和预训练模型。
 
      * Contact Center AI
-       可与客户交流并协助人工客服人员的 AI 模型
+       可与客户交流并协助人工客服人员的 AI 模型。
 
      * 没有看到您需要的内容？
      * 查看所有 AI 和机器学习产品
@@ -559,14 +559,14 @@
      * Cloud Source Repositories
        用于存储、管理和跟踪代码的私有 Git 代码库。
 
-     * Cloud Tasks
-       用于异步执行任务的任务管理服务。
+     * Infrastructure Manager
+       使用 Terraform 自动管理基础设施。
 
      * Cloud Workstations
        安全的代管式云端开发环境。
 
-     * Tools for PowerShell
-       通过 Windows PowerShell 全面控制云端。
+     * Duet AI
+       AI 赋能的协作平台，可在 Google Cloud 和 IDE 中使用。
 
      * 没有看到您需要的内容？
      * 查看所有开发者工具
@@ -598,9 +598,6 @@
 
      * 运维
        监控、日志记录和应用性能套件。
-
-     * Anthos
-       用于对现有应用进行现代化改造以及构建新应用的平台。
 
      * Google Distributed Cloud
        适用于边缘和数据中心的全代管式解决方案。
@@ -799,7 +796,7 @@
        保护 VPC 与各服务之间的连接。
 
      * 没有看到您需要的内容？
-     * 查看所有网络产品。
+     * 查看所有网络产品
 
      * 运维
 
@@ -813,7 +810,7 @@
        识别和分析应用错误。
 
      * Cloud Debugger
-       用于实时检查应用状态以及在生产环境中进行调试。
+       实时检查应用状态以及在生产环境中进行调试。
 
      * Cloud Trace
        用于从应用中收集延迟数据的跟踪系统。
@@ -861,14 +858,14 @@
      * Security Command Center
        用于保护 Google Cloud 资产免遭安全威胁的平台。
 
-     * Cloud Data Loss Prevention
-       用于检查、分类和隐去敏感数据的平台。
+     * 敏感数据保护
+       帮助您发现、分类和保护宝贵的数据资产。
 
      * Mandiant 产品和服务
        来自一线的信息安全技术和专业知识。
 
-     * Chronicle SIEM
-       从安全遥测数据中提取信号，即时发现威胁。
+     * reCAPTCHA Enterprise
+       保护您的网站免受欺诈活动、垃圾内容和滥用行为的侵扰。
 
      * Chronicle Security Operations
        检测、调查和应对网络威胁。
@@ -876,8 +873,8 @@
      * Secret Manager
        存储 API 密钥、密码、证书和其他敏感数据。
 
-     * BeyondCorp Enterprise
-       面向内部 Web 应用的零信任访问控制机制。
+     * Cloud Identity
+       IT 管理员用于管理用户设备和应用的统一平台。
 
      * 没有看到您需要的内容？
      * 查看所有安全和身份产品
@@ -921,6 +918,12 @@
 
      * Storage Transfer Service
        用于将数据从在线和本地来源转移到 Cloud Storage 的服务。
+
+     * Parallelstore
+       高性能代管式并行文件服务。
+
+     * Google Cloud NetApp Volumes
+       适用于 NFS、SMB 和多协议环境的文件存储服务。
 
      * Web3
 
@@ -968,7 +971,7 @@
        阅读我们最新的产品资讯和案例。
 
      * 学习中心
-       通过基于角色的学习发展您的职业生涯。
+       通过基于角色的学习发展您的职业生涯
      * 训练
        注册参加自助式培训或课堂培训。
      * 认证
@@ -1322,9 +1325,9 @@
      * Cloud SDK
      * Cloud Scheduler
      * Cloud Source Repositories
-     * Cloud Tasks
+     * Infrastructure Manager
      * Cloud Workstations
-     * Tools for PowerShell
+     * Duet AI
      * 查看所有开发者工具
      * 分布式云
      * Google Distributed Cloud Edge
@@ -1336,7 +1339,6 @@
      * Traffic Director
      * Cloud Build
      * 运维
-     * Anthos
      * Google Distributed Cloud
      * 针对特定行业
      * 反洗钱 AI
@@ -1405,7 +1407,7 @@
      * Network Service Tiers
      * 虚拟私有云
      * Private Service Connect
-     * 查看所有网络产品。
+     * 查看所有网络产品
      * 运维
      * Cloud Logging
      * Cloud Monitoring
@@ -1427,12 +1429,12 @@
      * Cloud Key Management
      * 机密计算
      * Security Command Center
-     * Cloud Data Loss Prevention
+     * 敏感数据保护
      * Mandiant 产品和服务
-     * Chronicle SIEM
+     * reCAPTCHA Enterprise
      * Chronicle Security Operations
      * Secret Manager
-     * BeyondCorp Enterprise
+     * Cloud Identity
      * 查看所有安全和身份产品
      * 无服务器
      * Cloud Run
@@ -1448,6 +1450,8 @@
      * Cloud Storage for Firebase
      * 本地 SSD
      * Storage Transfer Service
+     * Parallelstore
+     * Google Cloud NetApp Volumes
      * Web3
      * Blockchain Node Engine
 

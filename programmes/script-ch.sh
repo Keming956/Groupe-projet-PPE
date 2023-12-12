@@ -61,7 +61,7 @@ do
 				    </tr>
 	    " > ../concordances/${lang}-$lineno.html
 
-		ggrep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)(负责)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/">>"../concordances/${lang}-$lineno.html"
+		ggrep -E -T -i "$CIBLE" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)($CIBLE)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-$lineno.html"
 
 		    echo "
                 </table>
