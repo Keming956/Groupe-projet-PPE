@@ -14,7 +14,7 @@ then
 	exit
 fi
 
-CIBLE="负责"
+CIBLE="责任"
 
 echo "<html>
 	<head>
@@ -40,9 +40,9 @@ do
 	TEXTFILE="RIEN"
 	if [ $response == "200" ]
 	then
-        lynx -dump -assume_charset=utf-8 -display_charset=utf-8 -nolist ../aspirations/${lang}-${lineno}.html > ../dumps-text/${lang}-${lineno}.txt
+		w3m $URL > ../dumps-text/${lang}-${lineno}.txt
         TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
-        compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "责任" -c) >> ../tableaux/ch.html
+        compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "$CIBLE" -c) >> ../tableaux/ch.html
         contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
         	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
 

@@ -1,66 +1,385 @@
-   #alternate alternate alternate
+You are using Internet Explorer; our website is not optimized for this browser
+which does not respect the web standards. For the best experience we recommend
+that you use a different browser.
++
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M49LDWQ
+  •  
+  • Find a GEODIS agency
+  • 中国 - 中文
+            选择一个国家/地区
+              ○ [globe] Global
+                Français English
+            A
+              ○ [dz] Algeria
+              ○ [ar] Argentina
+              ○ [au] Australia
+            B
+              ○ [bh] Bahrain
+              ○ [bd] Bangladesh
+              ○ [be] Belgium
+                Français English
+              ○ [br] Brazil
+                Portugues English
+            C
+              ○ [cm] Cameroon
+              ○ [ca] Canada
+                Français English
+              ○ [td] Chad
+              ○ [cl] Chile
+              ○ [cn] China
+                汉语 English
+              ○ [co] Colombia
+              ○ [cz] Czech Republic
+            D
+              ○ [dk] Denmark
+            F
+              ○ [fr] France
+            G
+              ○ [de] Germany
+                English Deutsch
+              ○ [gb] Great Britain
+              ○ [gr] Greece
+            H
+              ○ [hk] Hong Kong
+              ○ [hu] Hungary
+            I
+              ○ [in] India
+              ○ [id] Indonesia
+              ○ [ie] Ireland
+              ○ [it] Italy
+                Italiano English
+            J
+              ○ [jp] Japan
+                Japanese English
+            K
+              ○ [kr] Korea
+                한국어 English
+            M
+              ○ [my] Malaysia
+              ○ [mx] Mexico
+                English Español
+              ○ [ma] Morocco
+                Français English
+            N
+              ○ [nl] Netherlands
+              ○ [nz] New Zealand
+              ○ [no] Norway
+            P
+              ○ [pe] Peru
+              ○ [pl] Poland
+                English Polski
+              ○ [pt] Portugal
+            Q
+              ○ [qa] Qatar
+            R
+              ○ [ro] Romania
+            S
+              ○ [sa] Saudi Arabia
+              ○ [sg] Singapore
+              ○ [sk] Slovakia
+              ○ [za] South Africa
+              ○ [es] Spain
+                Español English
+              ○ [se] Sweden
+            T
+              ○ [tw] Taiwan
+              ○ [th] Thailand
+              ○ [tn] Tunisia
+                Français English
+              ○ [tr] Turkey
+                English Türkçe
+            U
+              ○ [ae] UAE
+              ○ [us] USA
+            V
+              ○ [vn] Vietnam
+            A
+            B
+            C
+            D
+            F
+            G
+            H
+            I
+            J
+            K
+            M
+            N
+            P
+            Q
+            R
+            S
+            T
+            U
+            V
+    Accueil [ ]
+      □ 乔达集团
+          ☆ 探索乔达
+              ○ 探索乔达
+                  ■ 乔达中国
+                  ■ 关于我们
+                  ■ 企业社会责任
+                  ■ 新闻办公室
+                  ■ 在乔达工作
+          ☆ 位置
+              ○ 位置
+                  ■ 查阅我们的全球办事处目录，了解离您最近的本地办事处
+          ☆ 关注我们
 
-   Majorel
-   (BUTTON)
-     * ____________________ (BUTTON)
-     * 官网首页 Homepage
-     * 公司介绍 Explore Majorel
-          + Majorel员工准则
-          + Majorel 供应商行为准则
-     * 企业责任 CORPORATE RESPONSIBILITY
-     * 新闻动态 What's new
-     * 加入我们 JOIN US
-     * 联系我们 Get in touch
+            Twitter
+            Linkedin
+            WeChat
+      □ 寻找您的解决方案
+          ☆ 按纵向市场
+              ○ 按纵向市场
+                  ■ 零售
+                  ■ 快速消费品
+                  ■ 工业
+                  ■ 汽车行业与移动出行
+                  ■ 医疗保健
+                  ■ 高科技
+                  ■ 航空与国防
+          ☆ 按运输方式
+              ○ 按运输方式
+                  ■ 快件和包裹递送
+                  ■ 陆路运输
+                  ■ 空运和海运
+                  ■ 工业项目
+                  ■ 合同物流
+                  ■ 供应链优化
+                  ■ 清关与对外贸易
+          ☆ 关注我们
 
-     * Majorel.com
+            Twitter
+            Linkedin
+            WeChat
+      □ 博客见解
+      □ 求职招聘
+      □ 联系我们
+      □ Rechercher [                    ] X
+    1 of 1
+    Beware of Scams Beware of Scams Impersonating GEODIS Officers and False
+    Employment Offers Made Through Unofficial Channels
+     1. GEODIS China
+     2. 乔达集团
+     3. 探索乔达
+     4. 企业社会责任
+     5. 报告与方法
 
-     * cn
+    探索乔达
 
-     *
-     *
-     *
-     *
+      □ 乔达中国
+      □ 关于我们
+      □ 企业社会责任
+          ☆ 企业社会责任政策
+          ☆ 环境
+          ☆ 社会
+          ☆ 以负责的方式行动
+          ☆ 推动企业社会责任业绩
+          ☆ 推动二氧化碳减排
+          ☆ 
+            报告与方法
+          ☆ 计算您的排放量
+      □ 新闻办公室
+      □ 在乔达工作
 
-    1. 企业责任
+     
 
-企业责任
+     
 
-   Corporate Responsibility
+    Réunion autour d'un écran de reporting de données et d'évaluation
+    Back to GEODIS
 
-   作为一家成功的国际化企业，迈睿高度重视对我们员工、社会和环境的责任。这些都体现在迈睿企业责任（CR）四大支柱法中。
+    有关环境、社会和经济指标的企业社会责任报告
 
-多元化与包容性
+    2009年以来，乔达编制了针对所有利益相关方的报告。此报告从2009至2012年采用可
+    持续发展报告的形式。从2013至2018年变为企业社会责任报告。2019年又有了新的改
+    变。集团发布了其首个业务及企业社会责任报告。
 
-   迈睿高度的多元化是公司DNA不可或缺的一部分。我们始终尊重并着力培养多元化。我们致力于打造可促进并推崇多元化的工作环境和流程。
-   我们深知，作为一家公司、一个团队，员工的多元化程度越高，我们就越具有竞争力，也越有能力获得更好的发展。
+     
 
-环境与当地社区
+     
 
-   每项业务都会对环境产生影响，因此，通过回收利用、清洁能源等地方性倡议保护自然资源至关重要。无论是投身教育计划，还是支持慈善和公益事业，每个员工
-   都应肩负起对当地所在社区和社会大众的责任。
+    企业社会责任报告
 
-员工权利与公平的工作环境
+    [COVER]
+    2022 年企业社会责任报告
+    [csr]
+    2021 年企业社会责任报告
+    [csr]
+    2020 年企业社会责任报告
+    [csr]
+    2019 年企业社会责任报告
+    [GB_GEODIS_]
+    2018 年企业社会责任报告
+    [en]
+    2017 年企业社会责任报告
+    2017 年企业社会责任指标
+    [couv_csr_7]
+    2016 年企业社会责任报告
+    2017 年企业社会责任指标
+    [csr]
+    2015 年企业社会责任报告
+    [en]
+    2014 年企业社会责任报告
+    [csr-cover-]
+    2013 年企业社会责任报告
+    [couverture]
+    2012 年企业社会责任报告
+    [geodis-sd-]
+    2011 年企业社会责任报告
+    [geodis-sd-]
+    2010 年企业社会责任报告
+    [geodis-sd-]
+    2009 年企业社会责任报告
+    [geodis-sd-]
+    2008 年企业社会责任报告
 
-   根据当地法律环境，尊重和保障员工权利，是公司进行人才管理的天然基石。我们的行动往往以共同的价值观为依据，如尊严、公平、平等、尊重和独立。公平的
-   工作环境包括关注员工工作时长、身体状况、法律权利和责任。
+     
 
-福利与韧性
+    2022 方法说明
 
-   我们有责任保障员工福利，建立员工韧性。监督和支持内容审核人员便是其中一个重点。我们创造有归属感的工作环境，鼓舞员工，将员工视为家人。从而，我们
-   得以构建支持网络，建立韧性。
+    2022 保证报告
 
-     *
-     *
-     *
-     *
+    Réunion autour d'un écran de reporting de données et d'évaluation
+      □ GEOflow GEOflow
+        GEOflow
+      □ 报价报价
+        报价
+      □ 电子服务电子服务
+        电子服务
+      □ 位置位置
+        位置
+    Contact
+   
+    博客见解
 
-     * 隐私政策和COOKIES政策
-     * 法律声明
-     * 员工准则
+     
+    man customs check
 
-     * Policy badge icon 沪公网安备 31010602006359号
-     * 沪ICP备17012480号-3
+    中国知识产权 (IPR)：在海关保护条例下如何避开法律雷区及如何避免侵权
 
-     * © 2021 迈睿中国 All Rights Reserved
+    Previous
+    Next
+
+    Tag
+    # services des douanes
+    # 海关
+
+    Body
+    在中国，知识产权侵权是贸易和投资的主要障碍，而懂得如何利用海关保护条例的公
+    司将获得竞争优势。
+    阅读文章
+     
+    transport management vaccin
+
+    区块链：运输疫苗的物流创新
+
+    Previous
+    Next
+
+    Body
+    了解区块链已如何提高疫苗运输的可追溯性和响应能力
+    阅读文章
+     
+    The challenges of investing in warehouse automation
+
+    投资仓库自动化的挑战
+
+    Previous
+    Next
+
+    Tag
+    # Warehouse
+    # technologie logistique
+
+    Body
+    在大步跨越之前，您如何降低风险？
+    阅读文章
+
+    乔达的更新
+
+    了解更多
+     
+    GEODIS strengthens its capabilities for air freight temperature-controlled
+    pharmaceutical shipments across Asia Pacific and Middle East
+     
+    GEODIS 乔达加强其在亚太和中东地区的温控药品空运能力
+     
+    GEODIS honored by Arkema China at its Annual Carrier Conference
+     
+    GEODIS 乔达于 Arkema 阿科玛中国年度承运商大会获殊荣
+     
+    GEODIS expands offering to retail sector with new lease on multi-user
+    facility in Shanghai’s Minhang District
+     
+    GEODIS 乔达在上海闵行区租仓，投建全新多用户设施，进一步扩大对零售市场的服务
+
+    需要帮助?
+
+     
+    Body
+    我们的专家随时愿意为您服务，为您解答问题，帮助您找到合适的解决方案。
+    联系我们
+
+    敬请关注
+
+    [linkedin]
+    [wechat]
+    [twitter]
+    Fermer
+    谨防诈骗
+
+    一些不良企图者利用乔达的企业形象和名称，伪造乔达公章，在社交媒体平台和网络
+    上从事非法诈骗活动。
+
+    乔达及其关联公司对诈骗分子的行为不承担任何责任。乔达将与地方当局积极配合，
+    以便诈骗分子得到指认和制裁。
+
+    请务必提高警惕，如果您或您的利益相关者遇到欺诈行为，请向中国当地警方报警。
+
+    top
+    探索乔达
+      □ 关于我们
+      □ 企业社会责任
+      □ 位置
+      □ 在乔达工作
+      □ 新闻办公室
+    按纵向市场
+      □ 零售
+      □ 快速消费品
+      □ 工业
+      □ 汽车行业与移动出行
+      □ 医疗保健
+      □ 高科技
+      □ 航空与国防
+    实用信息
+      □ 联系我们
+      □ 您的工作区
+      □ 排放量计算器
+    关注我们
+      □ LinkedIn
+      □ Twitter
+      □ WeChat
+    求职招聘
+      □ 在乔达工作
+    按活动
+      □ 快件和包裹递送
+      □ 陆路运输
+      □ 空运和海运
+      □ 工业项目
+      □ 合同物流
+      □ 供应链优化
+      □ 清关与对外贸易
+    专业技能
+      □ 博客见解
+    ©2023 GEODIS - 年保留所有权利
+      □ Gestion des cookies
+      □ Privacy policy
+      □ 法律信息
+      □ 隶属于  
+    ×
+
+    搜索
+
+    [                    ] Rechercher
