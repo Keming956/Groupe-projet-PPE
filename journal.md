@@ -8,10 +8,10 @@ Nous avons fait beaucoup de recherches sur les designs des pages webs aujourd'hu
 --- 01/12/23 ---
 Conception du site :
 
-La première chose à faire a été d'élaborer la conception du site comment on l'imaginait. Vu que notre mot est "devoir" le design d'un cahier de devoir pour notre page d'index nous a paru être une évidence. 
-Nous allons concevoir un header et un footer puisque cela est une norme sur tous les sites web aujourd'hui. 
+La première chose à faire a été d'élaborer la conception du site comment on l'imaginait. Vu que notre mot est "devoir" le design d'un cahier de devoir pour notre page d'index nous a paru être une évidence.
+Nous allons concevoir un header et un footer puisque cela est une norme sur tous les sites web aujourd'hui.
 
-Les informations que nous mettrons dans le header : 
+Les informations que nous mettrons dans le header :
 - une icone (moyen de retourner sur la page d'index),
 - un onglet méthode (qui expliquera pourquoi ce mot, les langues sur lesquelles nous allons travailler), notre hypothèse, l'étymologie du mot...
 - un onglet analyse dans lequels on mettra notre analyse itrameur
@@ -31,7 +31,7 @@ Très peu de frameworks ont été utilisé car j'ai appris à utilisé le css su
 Toutes les pages html sont rangés dans le dossier vue, il y'a le dossier PPE dans lequel on retrouve toutes nos aspirations, nos concordanciers, le dossier css dans lequels toutes les pages css se trouvent.
 
 --- 13/12/23 ---
-PAGE INDEX : 
+PAGE INDEX :
 
 - Le premier obstacle auquel nous avons été confronté est l'incorporation du header et du footer dans toutes les pages. En effet lorsque, je développais des sites j'avais pour habitude de coder mon header et mon footer dans un fichier
 php ou encore js et de l'appeler dans mes pages html. Malheureusement, je n'ai pas reussi à reproduire cette technique car il semblerait que l'hebergeur github ne prennent pas en charge les fichiers js où php incorporés dans un html.
@@ -53,7 +53,7 @@ d'inclure l'API google traduction via un script js. Cela n'a malheureusement pas
 
 
 --- 26/12/23 ---
-PAGE ANALYSE : 
+PAGE ANALYSE :
 
 Cette page est probablement celle qui nous a posé le plus de problèmes.
 
@@ -61,12 +61,13 @@ En effet, pour rendre notre page interactive nous avons voulu mettre des key fra
 La partie la plus dure à géré a été
 
 --- 26/12/23 ---
-Qui sommes nous : (page dans le footer), une des pages dont nous sommes les plus fiers. Nous avons importé Leaflet (afin d'afficher une map interactive). Je ne sais pas pourquoi il y'a des losanges et que l'affiche se fait sur des ronds, j'ai eu beau 
-regarder la documentation de leaflet je n'ai pas trouvé pourquoi nous avions ce problème d'affichage. J'ai écris un script js que j'ai incorporé dans la page. Pour faire ce script, je me suis servi de la docummentation leaflet https://leafletjs.com/. J'ai mis les points de coordonnées de nos trois universités. Même si l'affichage de la carte n'est parfait nous avons bien aimé la fonctionnalité et avond décidé de la garder.
+Qui sommes nous : (page dans le footer), une des pages dont nous sommes les plus fiers. Nous avons importé Leaflet (afin d'afficher une map interactive). Je ne sais pas pourquoi il y'a des losanges et que l'affiche se fait sur des ronds, j'ai eu beau regarder la documentation de leaflet je n'ai pas trouvé pourquoi nous avions ce problème d'affichage. J'ai écris un script js que j'ai incorporé dans la page. Pour faire ce script, je me suis servi de la docummentation leaflet https://leafletjs.com/. J'ai mis les points de coordonnées de nos trois universités. Même si l'affichage de la carte n'est parfait nous avons bien aimé la fonctionnalité et avond décidé de la garder.
 
 --- 28/12/23 ---
 PAGE TABLEAUX :
 
+Des animations ont aussi été faites pour faire apparaître les tableaux par le biais de key frames. Le css associé est tableaux.css.
 
 
 ------------Baptiste-------------------------------------------
+
