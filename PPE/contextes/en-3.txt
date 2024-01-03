@@ -1,0 +1,223 @@
+                    # Changing GST Accounting Periods
+                    # Advance Ruling System for GST
+          + Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Stamp Duty
+               o Stamp Duty
+               o For Property (BUTTON) Go to next level
+                    # (BUTTON) For Property
+                    # For Property
+                    # Basics of Stamp Duty for Property
+                    # Buying or Acquiring Property
+                    # Selling or Disposing Property
+                    # Renting a Property
+                    # Paying Stamp Duty
+                    # Appeals, Refunds, Reliefs and Remissions
+                    # Getting it right
+--
+                    # (BUTTON) For Property-Holding Entities ('PHE')
+                    # For Property-Holding Entities ('PHE')
+                    # Basics of Stamp Duty for Property-Holding Entities
+                    # Buying or Acquiring Property-Holding Entities
+                    # Selling or Disposing Property-Holding Entities
+                    # Paying Stamp Duty
+                    # Claiming Refunds
+                    # Getting it right
+--
+                    # (BUTTON) For Shares
+                    # For Shares
+                    # Basics of Stamp Duty for Shares
+                    # Mortgaging Shares
+                    # Buying or Acquiring Shares
+                    # Paying Stamp Duty
+                    # Claiming Refunds, Reliefs and Remissions
+                    # Getting it right
+--
+                    # Filing Estate/ Trust Income Tax (Form T)
+                    # Paying Estate/ Trust Income Tax
+               o Gambling Duties (BUTTON) Go to next level
+                    # (BUTTON) Gambling Duties
+                    # Gambling Duties
+                    # Basics of Gambling Duties
+                    # Betting, Lotteries and Sweepstakes
+                    # Gaming Machines, Tombola, Continuous Lucky Draw and
+--
+                    # Paying Taxes or Claiming Refunds
+                    # FAQs
+               o Estate Duty (BUTTON) Go to next level
+                    # (BUTTON) Estate Duty
+                    # Estate Duty
+                    # Estate Duty
+                    # Estate Duty Glossary
+                    # FAQs
+                    # Estate Duty Forms
+                    # Getting Estate Duty Clearance
+                    # How to Calculate Estate Duty
+                    # Late Payment or Non-Payment of Estate Duty
+                    # Trust (including income from Estates)
+                    # How to Pay
+--
+               o Update GST Contact Details
+               o View more
+          + Stamp Duty (BUTTON) Go to next level
+               o (BUTTON) Digital Services for Stamp Duty
+               o Digital Services for Stamp Duty
+               o Stamping: Lease/ Tenancy
+               o Stamping: Mortgage
+--
+               o Stamping: Others - Declaration of Trust/ Trust Deed
+               o Requests: Apply for Assessment/ Appeal/ Remission
+               o Stamping: Additional Stamp Duty
+               o Stamping: Exemptions & Remissions - Transfer of HDB Flat
+                 within Family
+               o Stamping: Others - Other Transfer (Dutiable documents)
+               o Requests: Object to an Assessment
+               o Stamp Duty Chatbot
+               o View more
+          + Withholding Tax (BUTTON) Go to next level
+--
+     * Home
+     * Taxes
+     * Stamp Duty
+     * For Property
+     * Buying or Acquiring Property
+     * Buyer's Stamp Duty (BSD)
+
+Buying or Acquiring Property
+
+     * Definition of Residential Property
+     * Buyer's Stamp Duty (BSD)
+     * Additional Buyer's Stamp Duty (ABSD)
+     * Mortgage Duty
+
+Buyer's Stamp Duty (BSD)
+
+   Share:
+--
+Manner of acquisitions
+
+   Examples of property acquisition in which ad valorem stamp duty (i.e.
+   BSD, ABSD and SSD, whichever applicable) is payable:
+    1. By way of purchase e.g. acceptance to option to purchase, sale and
+--
+       settlement
+          + Declaration of Trust / Trust Deed:
+               o A fixed duty of $10 is payable on the Declaration of
+                 Trust/Trust deed which does not result in a change in
+                 beneficial interest in the property.
+               o Where there is a change in beneficial interest in the
+                 property, ad valorem stamp duty will be payable on the
+                 Declaration of Trust / Trust Deed.
+    3. By way of distribution in specie upon the winding up of a company*
+--
+   Where any beneficiary renounces his interest in a residential property
+   that is transferred to be held on bare trust on or after 10 May 2022,
+   the settlor will need to pay stamp duty i.e. BSD and ABSD on the
+   transfer of the share of the residential property back to him, under
+   Section 22C of the Stamp Duties Act.
+   You can refer to Renunciation of Interest in Trust over residential
+   property by Beneficial Owner (Section 22C) for more information.
+--
+   purchaser upon execution of the document (and not later), the amount of
+   discount may be deducted from the purchase price to determine the
+   consideration for stamp duty purpose. This is provided that the nett
+   price is still reflective of market value.
+
+--
+   (e.g. furniture voucher, rental guarantee, car or lucky draw), the
+   value of benefit is not deductible from the purchase price for stamp
+   duty purpose.
+
+   If the cash or non- cash benefit is not stated in the document to be
+   stamped, the value of the benefit is also not deductible from the
+   purchase price for stamp duty purpose.
+
+   The first instrument executed relating to a sale and purchase is liable
+   to ad valorem duty (i.e. full duty). Subsequent document(s) relating to
+   the same sale transaction are not liable to stamp duty.
+
+Acquisition of property through an en-bloc purchase or “block” purchase
+
+   Where multiple properties are acquired collectively, stamp duty will be
+   calculated on the total purchase price of the multiple properties if:
+    1. There is a single contract for the purchase of the multiple
+--
+       conditional on one another.
+
+Stamp duty on a single contract for multiple properties
+
+   Where there is a single contract for the purchase of multiple
+   properties followed by individual documents for the purchase of each
+   property, the single contract should be stamped at ad valorem duty
+   based on the total purchase price.
+
+Stamp duty on multiple documents
+
+   Where there are multiple documents (with purchases which are dependent
+   and conditional on one another), only one of the documents is required
+   to be stamped at ad valorem duty, based on the total purchase price of
+   all the related properties.
+
+--
+   Next $1,500,000 5% 5%
+   Remaining amount 6%
+   ^BSD is rounded down to the nearest dollar, subject to a minimum duty
+   of $1.
+   From 20 Feb 2018 to 14 Feb 2023
+--
+   3%
+   Remaining amount 4%
+   ^BSD is rounded down to the nearest dollar, subject to a minimum duty
+   of $1.
+                     Before 20 Feb 2018
+--
+            or
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    5. Pay to the COSD as a debt due to the Singapore Government an amount
+--
+         2. TOP or CSC issued by BCA; and
+         3. Any other documents or information that the Commissioner of
+            Stamp Duties (“COSD”) may require in relation to the
+            undertaking;
+    4. Pay to the COSD as a debt due to the Singapore Government an amount
+--
+
+Can the contracting parties change the date of instrument to avoid paying
+higher duty?
+
+   No. The Commissioner of Stamp Duties takes a serious view of any
+   attempt to evade or reduce the incidence of duties. Evasion of duties
+   is an offence under section 62 of the Stamp Duties Act. Any person
+   guilty of such an offence shall be liable on conviction to a fine of up
+   to $10,000 or to imprisonment for a term of up to 3 years or to both.
+   The Commissioner of Stamp Duties may also disregard or vary any
+   arrangements meant to evade or reduce the incidence of duty, and impose
+   the duty (including late stamping penalties, if applicable) which would
+   otherwise be payable.
+
+Can I pay BSD using my Central Provident Fund (CPF) money?
+
+   Using CPF funds to pay stamp duty is subject to the terms and
+   conditions under the Private Properties and Public Housing Schemes. You
+   may wish to check with CPF Board for more details.
+--
+   Pages
+
+Stamp Duty
+
+   Pages
+
+Who Should Pay Stamp Duty
+
+   Pages
+
+When to Pay Stamp Duty
+
+   Pages
+--
+   Useful Links
+
+Stamp Duty Calculator
+
+Inland Revenue Authority of Singapore
