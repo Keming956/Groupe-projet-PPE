@@ -14,7 +14,7 @@ then
 	exit
 fi
 
-CIBLE="devoir(s)"
+CIBLE="devoir(s)?"
 
 echo "<html>
 	<head>
@@ -61,7 +61,10 @@ do
 				    </tr>
 	    " > ../concordances/${lang}-$lineno.html
 
-		grep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)([dD]evoir(s))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\4<\/td><\/tr>/">>"../concordances/${lang}-$lineno.html"
+		
+        grep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E 's/(.*)([dD]evoir(s)?)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\4<\/td><\/tr>/' >> "../concordances/${lang}-$lineno.html"
+        #grep -E -T -i "(\w+\W+){0,5}\b${CIBLE}\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E 's/(.*)([dD]evoir(s)?)\b(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-$lineno.html"
+        
 
 		    echo "
                 </table>
@@ -92,3 +95,6 @@ echo "	     </table>
 	</body>
 </html>"
 >>../tableaux/tableau-fr.html
+ 
+
+
