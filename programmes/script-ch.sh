@@ -42,8 +42,10 @@ do
 	then
 		w3m $URL > ../dumps-text/${lang}-${lineno}.txt
         TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
+        python -m thulac ${TEXTFILE} ../dumps-text/${lang}-${lineno}_token.txt -seg_only
+        TEXTFILE=../dumps-text/${lang}-${lineno}_token.txt
         compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -o "$CIBLE" -c) >> ../tableaux/ch.html
-        contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
+        contexte=$(cat ../dumps-text/${lang}-${lineno}_token.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
         	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
 
 
