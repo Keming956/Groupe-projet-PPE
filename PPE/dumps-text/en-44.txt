@@ -1,0 +1,851 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+     * Donate
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Languages
+   Language links are at the top of the page across from the title.
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1Gameplay
+     * 2Campaign
+       (BUTTON) Toggle Campaign subsection
+          + 2.1American campaign
+          + 2.2British campaign
+          + 2.3Soviet campaign
+     * 3Development
+     * 4Reception
+       (BUTTON) Toggle Reception subsection
+          + 4.1Critical reception
+          + 4.2Sales
+     * 5Franchise
+     * 6Ports
+     * 7References
+     * 8External links
+
+   [ ] Toggle the table of contents
+
+Call of Duty (video game)
+
+   [ ] 40 languages
+     * العربية
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * فارسی
+     * Français
+     * Frysk
+     * 한국어
+     * Հայերեն
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * ქართული
+     * Ladin
+     * Lietuvių
+     * Magyar
+     * Македонски
+     * مصرى
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Slovenščina
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Suomi
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Wikidata item
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+
+   From Wikipedia, the free encyclopedia
+   2003 video game
+
+   2003 video game
+   Call of Duty
+   [220px-Call_of_Duty_%282003%29_cover.jpg]
+   Developer(s) Infinity Ward
+   Aspyr (COD Classic)
+   Publisher(s)
+     * WW: Activision
+     * NA: Aspyr (Mac OS X)
+
+   Director(s) Ken Turner
+   Producer(s) Vince Zampella
+   Designer(s) Zied Rieke
+   Programmer(s) Jason West
+   Artist(s) Justin Thomas
+   Writer(s) Michael Schiffer
+   Composer(s) Michael Giacchino
+   Series Call of Duty
+   Engine id Tech 3^[2]
+   Platform(s)
+     * Microsoft Windows
+     * Mac OS X
+     * N-Gage
+     * PlayStation 3
+     * Xbox 360
+
+   Release
+   October 29, 2003
+     * Microsoft Windows
+
+     * NA: October 29, 2003
+     * EU: November 7, 2003
+
+   Mac OS X
+     * NA: May 10, 2004^[1]
+
+   N-Gage
+     * EU: November 10, 2004
+     * NA: November 23, 2004
+
+   Call of Duty Classic
+   PlayStation 3, Xbox 360
+     * WW: December 2, 2009
+
+   Genre(s) First-person shooter
+   Mode(s) Single-player, multiplayer
+
+   Call of Duty is a 2003 first-person shooter game developed by Infinity
+   Ward and published by Activision. It is the first installment in the
+   Call of Duty franchise,^[3] released on October 29, 2003, for Microsoft
+   Windows. The game simulates infantry and combined arms warfare of World
+   War II using a modified version of the id Tech 3 engine. Much of its
+   theme and gameplay is similar to the Medal of Honor series; however,
+   Call of Duty showcases multiple viewpoints staged in the American,
+   British, and Soviet theaters of World War II.
+
+   The game introduced a new take on AI-controlled allies who support the
+   player during missions and react to situational changes during
+   gameplay. This led to a greater emphasis on squad-based play as opposed
+   to the "lone wolf" approach often portrayed in earlier first-person
+   shooter games. Much of Infinity Ward's development team consisted of
+   members who helped develop Medal of Honor: Allied Assault. The game
+   received critical acclaim and won several Game of the Year awards from
+   reviewers.
+
+   In September 2004, an expansion pack called Call of Duty: United
+   Offensive, which was produced by Activision and developed by Gray
+   Matter Studios and Pi Studios, was released. At the same time the
+   N-Gage Version got an Arena Pack with 3 new Levels.^[4] An enhanced
+   port of Call of Duty for the PlayStation 3 and Xbox 360, titled Call of
+   Duty: Classic, developed by Aspyr, was released worldwide in November
+   2009 with the release of Call of Duty: Modern Warfare 2, being
+   available via redemption codes included with the "Hardened" and
+   "Prestige" editions of the game.^[5]
+
+Gameplay[edit]
+
+   [210px-CallDuty1PC.jpg] In-game screenshot of Call of Duty on PC
+
+   As a first-person shooter, Call of Duty places the player in control of
+   an infantry soldier who makes use of various authentic World War II
+   firearms in combat. Each mission features a series of objectives that
+   are marked on the heads-up display's compass; the player must complete
+   all objectives to advance to the next mission. The player can save and
+   load at any time, rather than the checkpoint system utilized in later
+   Call of Duty games.
+
+   The player has two primary weapon slots, a handgun slot, and can carry
+   up to ten grenades. Weapons may be exchanged with those found on the
+   battlefield dropped by dead soldiers. Unlike later Call of Duty games,
+   the first allows the player to toggle between different firing modes
+   (single shot or automatic fire). Call of Duty was one of the early
+   first-person shooters to feature iron sights in game play; by pressing
+   the corresponding key the player aims down the gun's actual sights for
+   increased accuracy. In addition to weapons carried by the player,
+   mounted machine guns and other fixed weapon emplacements are
+   controllable by the player.
+
+   The game uses a standard health points system, with a limited amount of
+   health reflected by a health bar. Medkits scattered throughout the
+   levels or dropped by some foes are used to restore health when the
+   player is injured.
+
+   Call of Duty also featured "shellshock" (not to be confused with the
+   psychological condition of the same name): when there is an explosion
+   near the player, he momentarily experiences simulated tinnitus,
+   appropriate sound "muffling" effects, blurred vision, and also results
+   in the player slowing down, unable to sprint.
+
+   As the focus of the game is on simulation of the actual battlefield,
+   the gameplay differed from many single-player shooters of the time. The
+   player moves in conjunction with allied soldiers rather than alone;
+   allied soldiers will assist the player in defeating enemy soldiers and
+   advancing; however, the player is given charge of completing certain
+   objectives. The game places heavy emphasis on usage of cover,
+   suppressive fire, and grenades. AI-controlled soldiers will take cover
+   behind walls, barricades, and other obstacles when available.
+
+Campaign[edit]
+
+  American campaign[edit]
+
+   The American campaign begins in August 1942 with Private Martin, a
+   newly enlisted member of the 506th Parachute Infantry Regiment,
+   completing basic training at Camp Toccoa. In June 1944, Martin
+   establishes a landing zone for soldiers participating in Operation
+   Overlord. The paratroopers are scattered, leaving Martin in a mixed
+   unit formed from various companies led by his CO Cpt. Foley, who seize
+   a nearby town from Germans. Martin and his unit are sent to force the
+   remaining Germans from Sainte-Mère-Église and disable several
+   Flakpanzers (anti-aircraft tanks) as D-Day begins. Martin's unit
+   destroys German artillery positions attacking the landing force at Utah
+   Beach. Afterwards, Martin learns that his unit has been assigned to
+   participate in an attack on a Bavarian manor to rescue two British
+   officers, Captain Price and Major Ingram. He learns from Price that
+   Ingram had already been moved to a more secure POW camp for
+   interrogation; Martin and Price infiltrate the camp and rescue Ingram.
+   Martin's unit later takes part in the Battle of the Bulge, successfully
+   securing top-secret documents and stopping an attempt by the Germans to
+   call in tanks.
+
+  British campaign[edit]
+
+   The British campaign starts with Sergeant Jack Evans and a unit from
+   2nd Ox and Bucks of the 6th Airborne Division taking part in Operation
+   Tonga. The unit is dropped in Horsa gliders near Pegasus Bridge,
+   Bénouville. Led by Captain Price, Evans and his troops clear the bridge
+   of German soldiers. The unit holds out against an attempt by a German
+   battalion to retake the bridge with the help of the 7th Parachute
+   Battalion.
+
+   By September, Evans has been transferred to the SAS. He takes part in a
+   mission to sabotage the Eder Dam, restored after being destroyed by the
+   No. 617 Squadron RAF during Operation Chastise, destroying the
+   anti-aircraft guns protecting it. Following extraction, Evans helps to
+   cut off pursuing German troops. Reaching a German airport to escape,
+   Evans uses an anti-air gun to cover Price and Waters from German Stuka
+   dive-bombers as they procure and flee in a Fw.200. Evans and Price then
+   pose as German naval officers and sailors to infiltrate the battleship
+   Tirpitz, disable its defenses, and steals information for the RAF to
+   attack the ship. Price sacrifices himself to buy time for Evans, who
+   escapes with Waters by boat. Later, Evans, Waters and their squad
+   arrive near Burgsteinfurt, Germany, to assist the impending Allied
+   assault on the city. Discovering plans to launch V-2 rockets at the
+   Allied forces, the unit destroys them before joining the rest of the
+   army.
+
+  Soviet campaign[edit]
+
+   The Soviet campaign begins during the Battle of Stalingrad in September
+   1942. Corporal Alexei Ivanovich Voronin and his fellow recruits are
+   sent across the Volga River, many of whom are killed when the Luftwaffe
+   launch an attack. Once across, they call in an artillery strike that
+   forces the Germans back. At Red Square with Soviet officers killing
+   soldiers who retreat, Voronin kills several German officer and
+   soldiers, disrupting the German offense long enough for Soviet
+   artillery to destroy their tanks. Voronin links up with surviving
+   allies in a train station and guides them to Major Zubov of the 13th
+   Guards Rifle Division; Voronin is promoted to Junior Sergeant. In
+   November, Voronin rendezvous with a unit led by Sergeant Pavlov, tasked
+   with retaking an apartment building in German hands. The unit assaults
+   and clears the building, and defends it from a German counterattack.
+
+   In January 1945, Voronin, now a full Sergeant, serves with the 150th
+   Rifle Division of the 3rd Shock Army. The unit secures a makeshift
+   German tank repair facility in Warsaw during the Vistula–Oder
+   Offensive, and regroup with the 4th Guards Tank Army. Due to shortages
+   in experienced soldiers, Voronin commands a T-34-85 tank for the 2nd
+   Guards Tank Army, and helps the Soviets capture a town near the Oder
+   River. In April, Sergeant Voronin is returned to his old unit, the
+   150th Rifle Division. He and a small group of soldiers storm the
+   Reichstag building and raise the Victory Banner atop the roof, ending
+   the European war.
+
+Development[edit]
+
+   [220px-E3_2003_%28343111642%29.jpg] Promotion at E3 2003
+
+   Call of Duty was developed by Infinity Ward, a new studio formed in
+   2002 originally consisting of 21 employees, many of whom were project
+   lead developers of the successful Medal of Honor: Allied Assault
+   released the same year. Led by Chief Creative Officer Vince Zampella,
+   development began in April 2002, and the team grew to 27 members by May
+   2003. At its beginning, the project was nicknamed "Medal of Honor
+   Killer".^[6] Using an enhanced version of the id Tech 3 game engine
+   developed for Quake III Arena and an in-house skeletal animation system
+   called "Ares", Infinity Ward set out to develop a new World War II-era
+   video game that, unlike many of its predecessors, placed more emphasis
+   on squad-based play with intelligent assistance from teammates during
+   large-scale battles. The team also extensively researched weapons,
+   artillery, and vehicles from World War II to enhance the authenticity
+   of animation and sounds used throughout the game.^[7] The game's budget
+   was $4.5 million.^[8]
+
+   Another area the development team focused on was their artificial
+   intelligence (AI) pathfinding component dubbed "Conduit". The ability
+   to suppress the enemy with cover fire and clear obstacles, such as
+   fences and windows, was tightly integrated into the squad-based aspect
+   of the single-player campaigns. The AI in the game was designed to
+   flank the opponent, bank grenades, and move from one cover point to
+   another.^[2] Lead animation director Michael Boon explained that
+   actions which would have normally been scripted in past games were
+   moved to a dynamic AI environment, in order to help create a different
+   experience each time levels are replayed.^[9] While the campaigns were
+   the primary focus, development of the multiplayer modes were tailored
+   to please modders. Zied Rieke, a lead designer, clarified that gameplay
+   and modes were written in script making it "extremely easy for players
+   to make their own modifications to Call of Duty multiplayer".^[9]
+
+Reception[edit]
+
+   Reception
+
+   CAPTION: Aggregate score
+
+   Aggregator    Score
+   Metacritic 91/100^[10]
+
+   CAPTION: Review scores
+
+   Publication    Score
+   Edge        7/10^[11]
+   GamePro     ^[12]
+   GameSpot    9.0/10^[13]
+   IGN         9.3/10^[14]
+   X-Play      ^[15]
+
+  Critical reception[edit]
+
+   Call of Duty received "critical acclaim", according to review
+   aggregator Metacritic.^[10] It won several "Game of the Year" awards
+   for 2003 from several reviewers.
+
+   During the 7th Annual Interactive Achievement Awards (now known as the
+   D.I.C.E. Awards), Call of Duty was honored "Game of the Year" of 2003
+   by the Academy of Interactive Arts & Sciences; it also won awards for
+   "Computer Game of the Year" and "Computer First Person Action Game of
+   the Year", along with nominations for "Outstanding Innovation in
+   Computer Gaming", "Outstanding Achievement in Original Music
+   Composition", and "Outstanding Achievement in Sound Design".^[16]
+
+   GameSpot named it the best computer game of October 2003.^[17]
+
+   Computer Games Magazine named Call of Duty the sixth-best computer game
+   of 2003, and the editors wrote, "This game ups the ante in the WWII
+   shooter arena, and makes everything that has come before it seem as
+   outdated as France's army."^[18] The editors of Computer Gaming World
+   presented Call of Duty with their 2003 "Shooter of the Year" award.
+   They remarked, "Call of Duty won this category without a shot
+   fired—there simply was no debate."^[19] It was also nominated for "Best
+   Game" at the 2004 Game Developers Choice Awards. While it did not
+   receive that award, it did win Infinity Ward the "Rookie Studio of the
+   Year". Chuck Russom was also presented with the "Excellence in Audio"
+   award for his work on the game.^[20]
+
+   IGN rated the game 9.3/10, with reviewer Dan Adams saying "You have to
+   love a game that glues you to your seat and keeps you interested... A
+   thrilling piece of software that action fans should grab a hold of and
+   love fiercely." His only negative critique was on the short length of
+   the game, which many reviewers pointed out.^[21]
+
+   The N-Gage version got "mixed or average reviews" on the site
+   Metacritic.^[22]
+
+  Sales[edit]
+
+   The NPD Group named Call of Duty the eighth-best-selling computer game
+   of 2003.^[23] It maintained this position on NPD's computer game sales
+   rankings for the following year.^[24] In the United States alone, Call
+   of Duty sold 790,000 copies and earned $29.6 million (~$41.5 million in
+   2022) by August 2006. At the time, this led Edge to declare it the
+   country's 13th-best-selling computer game released since January
+   2000.^[25]
+
+   In the United Kingdom, Call of Duty sold 95,000 copies by the end of
+   2003, which made it 88th-biggest seller across all platforms that
+   year.^[26] Discussing this performance, Kristan Reed of
+   GamesIndustry.biz wrote that "Activision will be pleased that it
+   managed to interrupt the Sims party" with the game's release.^[27] Call
+   of Duty ultimately received a "Silver" sales award from the
+   Entertainment and Leisure Software Publishers Association (ELSPA),^[28]
+   indicating sales of at least 100,000 copies in the United Kingdom.^[29]
+
+   Call of Duty ultimately sold 4.5 million copies worldwide by 2013.^[30]
+
+Franchise[edit]
+
+   Main article: Call of Duty
+
+   Call of Duty spawned numerous spin-offs and sequels, part of the Call
+   of Duty series. Its expansion pack - Call of Duty: United Offensive was
+   developed by Gray Matter Studios and released September 14, 2004. Call
+   of Duty 2 was also developed by Infinity Ward and was released in
+   October 2005. Some Call of Duty spinoffs were developed for consoles,
+   such as Call of Duty: Finest Hour by Spark Unlimited and Call of Duty
+   2: Big Red One by Gray Matter Studios (merged into Treyarch). The
+   franchise eventually had over fifteen more sequels and spin offs.
+
+Ports[edit]
+
+   Call of Duty Classic is a downloadable version of Call of Duty for Xbox
+   360 and PlayStation 3, featuring HD resolutions.^[31] Tokens to
+   download the game ahead of its release were sold along with special
+   "Hardened" and "Prestige" editions of Call of Duty: Modern Warfare
+   2,^[31] and the game was publicly released on December 2, 2009.
+
+   IGN rated this version 7.5, citing it as not well adapted to the
+   consoles, as well as criticizing the multiplayer for only supporting up
+   to eight players.^[32]
+
+References[edit]
+
+    1. ^ "Aspyr announces CSI game, ships Call of Duty". Macworld.
+       Archived from the original on May 13, 2023. Retrieved May 13, 2023.
+    2. ^ ^a ^b Stead, Chris (July 15, 2009). "The 10 Best Game Engines of
+       This Generation". IGN. Archived from the original on August 31,
+       2012. Retrieved March 3, 2016.
+    3. ^ "GameSpot - Call of Duty". Archived from the original on October
+       1, 2009. Retrieved September 23, 2007.
+    4. ^ "Nokia N-Gage | New Unlockable Content For N-Gage Games With
+       N-Gage Arena Packs". December 18, 2005. Archived from the original
+       on December 18, 2005. Retrieved May 8, 2021.
+    5. ^ "Modern Warfare 2's 'Prestige Edition' Is Insane". IGN. July 13,
+       2009. Archived from the original on July 14, 2009. Retrieved July
+       13, 2009.
+    6. ^ Keza MacDonald (November 1, 2013). "Call of Duty's Original
+       Codename Was "Medal of Honor Killer"". IGN. Archived from the
+       original on December 27, 2022. Retrieved December 27, 2022.
+    7. ^ "Call of Duty Q&A". GameSpot. May 1, 2003. Archived from the
+       original on March 3, 2016. Retrieved March 3, 2016.
+    8. ^ Davidson, Neil (November 9, 2005). "Game's success sparks
+       company's growth". North Bay Nugget. p. 25. Archived from the
+       original on January 19, 2022. Retrieved January 19, 2022 – via
+       Newspapers.com.
+    9. ^ ^a ^b Blevins, Tal (May 14, 2003). "E3 2003: Call of Duty". IGN.
+       Archived from the original on March 3, 2016. Retrieved March 3,
+       2016.
+   10. ^ ^a ^b "Call of Duty". Metacritic. Fandom, Inc. Retrieved February
+       15, 2021.
+   11. ^ "EDGE magazine review score archive". Archived from the original
+       on September 11, 2017. Retrieved December 1, 2017.
+   12. ^ "Review: Call of Duty for PC on GamePro.com". GamePro. Archived
+       from the original on July 24, 2008. Retrieved May 15, 2008.
+   13. ^ "Call of Duty for PC Review - PC Call of Duty Review". GameSpot.
+       Archived from the original on August 20, 2011. Retrieved May 15,
+       2008.
+   14. ^ "IGN: Call of Duty Review". IGN. Archived from the original on
+       January 19, 2012. Retrieved May 19, 2008.
+   15. ^ "X-Play review Call of Duty PC - PC Call of Duty review". X-Play.
+       Archived from the original on April 9, 2017. Retrieved March 13,
+       2009.
+   16. ^ "7th Annual Interactive Achievement Awards". Academy of
+       Interactive Arts & Sciences. Archived from the original on August
+       11, 2014. Retrieved August 26, 2014.
+   17. ^ Staff (October 31, 2003). "GameSpot's Month in Review for October
+       2003". GameSpot. Archived from the original on December 7, 2003.
+   18. ^ Staff (March 2004). "Best of 2003; The 13th Annual Awards".
+       Computer Games Magazine (160): 58–62.
+   19. ^ Editors of CGW (March 2004). "Computer Gaming World's 2003 Games
+       of the Year". Computer Gaming World. No. 236. pp. 57–60, 62–69.
+   20. ^ "4th Annual Game Developer Choice Awards". Game Developers Choice
+       Awards. Archived from the original on August 7, 2007. Retrieved
+       September 23, 2007.
+   21. ^ "Call of Duty Review". Dan Adams. IGN. Archived from the original
+       on March 24, 2007. Retrieved September 23, 2007.
+   22. ^ "Call of Duty (Ngage) reviews at Metacritic.com".
+       www.metacritic.com. Archived from the original on December 14,
+       2009. Retrieved January 11, 2022.
+   23. ^ Essential Facts about the Computer and Video Game Industry: 2004
+       Sales, Demographics and Usage Data (PDF) (Report). Entertainment
+       Software Association. May 12, 2004. p. 5. Archived from the
+       original (PDF) on December 5, 2004. Retrieved November 17, 2018.
+   24. ^ Essential Facts about the Computer and Video Game Industry; 2005
+       Sales, Demographics and Usage Data (PDF) (Report). Entertainment
+       Software Association. May 18, 2005. p. 5. Archived from the
+       original (PDF) on November 4, 2005.
+   25. ^ Edge Staff (August 25, 2006). "The Top 100 PC Games of the 21st
+       Century". Edge. Archived from the original on October 17, 2012.
+   26. ^ Reed, Kristan (March 11, 2004). "UK Charts 2003: Smash Hits".
+       GamesIndustry.biz. Archived from the original on April 7, 2004.
+       Retrieved June 20, 2019.
+   27. ^ Reed, Kristan (March 1, 2004). "UK Charts: 2003 Annual Report
+       Round Up". Eurogamer. Archived from the original on January 21,
+       2019.
+   28. ^ "ELSPA Sales Awards: Silver". Entertainment and Leisure Software
+       Publishers Association. Archived from the original on February 21,
+       2009.
+   29. ^ Caoili, Eric (November 26, 2008). "ELSPA: Wii Fit, Mario Kart
+       Reach Diamond Status In UK". Gamasutra. Archived from the original
+       on September 18, 2017.
+   30. ^ "Call of Duty: A Short History". IGN. Ziff Davis. November 2013.
+       Archived from the original on March 3, 2016. Retrieved February 23,
+       2014.
+   31. ^ ^a ^b Reilly, Jim (July 30, 2009). "Call of Duty Classic Coming
+       To PSN, XBLA 'Eventually'". IGN. IGN Entertainment, Inc. Archived
+       from the original on August 3, 2009. Retrieved October 17, 2009.
+   32. ^ "Call of Duty Classic Review – Xbox 360 Review at IGN". Archived
+       from the original on December 7, 2009. Retrieved December 9, 2009.
+
+External links[edit]
+
+     * Official website
+     * Call of Duty at IMDb
+
+     * v
+     * t
+     * e
+
+   Call of Duty
+
+   Activision
+
+   World War II series
+
+   Main series
+     * Call of Duty
+          + United Offensive
+     * 2
+     * 3
+     * WWII
+     * Vanguard
+
+   Spin-offs
+     * Finest Hour
+     * 2: Big Red One
+     * Roads to Victory
+
+   Modern Warfare
+
+   Original series
+     * 4: Modern Warfare
+          + Remastered
+     * Modern Warfare 2
+     * Modern Warfare 3
+
+   Reboot series
+     * Modern Warfare (2019)
+     * Modern Warfare II (2022)
+     * Modern Warfare III (2023)
+
+   Spin-offs
+     * 4: Modern Warfare (Nintendo DS)
+     * Modern Warfare – Mobilized
+     * Modern Warfare 3 – Defiance
+
+   Black Ops
+
+   Main series
+     * World at War
+     * Black Ops
+     * Black Ops II
+     * Black Ops III
+     * Black Ops 4
+     * Black Ops Cold War
+
+     Zombies
+     * World at War – Zombies
+     * Black Ops – Zombies
+
+   Spin-offs
+     * World at War (Nintendo DS)
+     * World at War – Final Fronts
+     * Black Ops – Declassified
+     * Strike Team
+
+   Warzone
+
+     * Warzone
+     * Warzone 2.0
+
+   Other games
+
+     * Online
+     * Ghosts
+     * Advanced Warfare
+     * Heroes
+     * Infinite Warfare
+     * Mobile
+
+   Individual levels
+
+     * "All Ghillied Up"
+     * "No Russian"
+     * "Nuketown"
+
+   Other media
+
+     * Modern Warfare 2: Ghost
+     * Find Makarov: Operation Kingfish
+     * "Nightmare"
+     * "Shepherd of Fire"
+     * "Survival"
+     * Black Reign
+          + "Not Ready to Die"
+          + "Carry On"
+          + "Mad Hatter"
+
+   Technology
+
+     * id Tech 3
+     * IW engine
+
+   Esports
+
+     * Championship
+     * World League
+     * League
+
+   Main developers
+
+     * Infinity Ward
+     * Treyarch
+     * Sledgehammer Games
+     * Raven Software
+
+   Related
+
+     * Battle.net
+     * Elite
+     * Experience 2011
+     * Experience 2016
+     * Endowment
+     * "Press F to pay respects"
+     * 2017 Wichita swatting
+
+     * Category
+
+     * v
+     * t
+     * e
+
+   BAFTA Interactive Entertainment Awards and BAFTA Games Award for Best
+   Game
+
+   1990s
+
+     * GoldenEye 007 (1998)
+     * The Legend of Zelda: Ocarina of Time (1999)
+
+   2000s
+
+     * Deus Ex, MediEvil II, Pokémon Yellow, Sydney 2000 (2000)
+     * Gran Turismo 3: A-Spec, ISS Pro Evolution 2, Max Payne, Phantasy
+       Star Online, Tony Hawk's Pro Skater 2 (2001)
+     * Grand Prix 4, Halo: Combat Evolved, Neverwinter Nights, SMS Chess
+       (2002)
+     * Call of Duty (2003)
+     * Half-Life 2 (2004)
+     * Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+     * BioShock (2007)
+     * Super Mario Galaxy (2008)
+     * Batman: Arkham Asylum (2009)
+
+   2010s
+
+     * Mass Effect 2 (2010)
+     * Portal 2 (2011)
+     * Dishonored (2012)
+     * The Last of Us (2013)
+     * Destiny (2014)
+     * Fallout 4 (2015)
+     * Uncharted 4: A Thief's End (2016)
+     * What Remains of Edith Finch (2017)
+     * God of War (2018)
+     * Outer Wilds (2019)
+
+   2020s
+
+     * Hades (2020)
+     * Returnal (2021)
+     * Vampire Survivors (2022)
+
+     * v
+     * t
+     * e
+
+   D.I.C.E. Awards' Game of the Year
+
+     * GoldenEye 007 (1997/1998)
+     * The Legend of Zelda: Ocarina of Time (1998/1999)
+     * The Sims (1999/2000)
+     * Diablo II (2000)
+     * Halo: Combat Evolved (2001)
+     * Battlefield 1942 (2002)
+     * Call of Duty (2003)
+     * Half-Life 2 (2004)
+     * God of War (2005)
+     * Gears of War (2006)
+     * Call of Duty 4: Modern Warfare (2007)
+     * LittleBigPlanet (2008)
+     * Uncharted 2: Among Thieves (2009)
+     * Mass Effect 2 (2010)
+     * The Elder Scrolls V: Skyrim (2011)
+     * Journey (2012)
+     * The Last of Us (2013)
+     * Dragon Age: Inquisition (2014)
+     * Fallout 4 (2015)
+     * Overwatch (2016)
+     * The Legend of Zelda: Breath of the Wild (2017)
+     * God of War (2018)
+     * Untitled Goose Game (2019)
+     * Hades (2020)
+     * It Takes Two (2021)
+     * Elden Ring (2022)
+
+   Authority control databases Edit this at Wikidata
+   National
+     * France
+     * BnF data
+
+    Other
+     * MusicBrainz release group
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&o
+   ldid=1183788715"
+
+   Categories:
+     * 2003 video games
+     * Activision games
+     * Call of Duty
+     * MacOS games
+     * Multiplayer online games
+     * N-Gage games
+     * PlayStation Network games
+     * Video games about the Special Air Service
+     * Video games scored by Michael Giacchino
+     * Video games set in Georgia (U.S. state)
+     * Video games set in Austria
+     * Video games set in Belgium
+     * Video games set in Berlin
+     * Video games set in France
+     * Video games set in Germany
+     * Video games set in Norway
+     * Video games set in Poland
+     * Video games set in the Soviet Union
+     * Video games set in Russia
+     * Video games with expansion packs
+     * Windows games
+     * Xbox 360 Live Arcade games
+     * Id Tech games
+     * War video games set in the British Empire
+     * War video games set in the United States
+     * British Academy Games Award for Best Game winners
+     * Infinity Ward games
+     * Aspyr games
+     * Multiplayer and single-player video games
+     * Video games developed in the United States
+     * Works about the Battle of Stalingrad
+     * Operation Overlord video games
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * Use mdy dates from June 2020
+     * Articles using Infobox video game using locally defined parameters
+     * Articles using Wikidata infoboxes with locally defined images
+     * Articles using Video game reviews template in single platform mode
+     * Official website different in Wikidata and Wikipedia
+     * IMDb ID same as Wikidata
+     * Articles with BNF identifiers
+     * Articles with BNFdata identifiers
+     * Articles with MusicBrainz release group identifiers
+
+     * This page was last edited on 6 November 2023, at 14:29 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License 4.0; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Toggle limited content width

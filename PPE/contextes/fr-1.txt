@@ -1,0 +1,154 @@
+    Devoir
+
+   Pour saisir les notes, vous créez un devoir auquel les notes sont
+   associées. Un service de notation doit avoir été créé pour la matière
+   et la classe à noter (Service de notation).
+
+   Les paramètres renseignés pour le devoir, tels que le barème et le
+   coefficient, permettent à PRONOTE de calculer automatiquement la
+   moyenne des élèves (Moyenne). Les notes sont publiées sur l’Espace
+--
+   Paramétrage
+
+   Définir les droits liés aux devoirs pour les professeurs  ModeAdmin.jpg
+
+   1. Rendez-vous dans l’onglet Ressources > Professeurs >
+--
+   3. Dans la catégorie Services et notations, cochez les actions
+   autorisées.
+   Devoir_Autorisations.jpg
+
+   Création et saisie des notes
+
+   Créer un devoir et saisir les notes  ModeAdmin.jpg ModeProf.jpg
+
+    Prérequis  Les périodes de notation ne sont pas clôturées.
+--
+   4. Sélectionnez une période dans le menu déroulant en haut à droite.
+
+   5. Cliquez sur le bouton Créer un devoir.
+   Devoir_CreerUnDevoir.jpg
+
+   6. Dans la fenêtre qui s’affiche, renseignez les paramètres du devoir :
+
+   lpour noter les élèves sur un QCM préalablement créé (QCM), cliquez sur
+   le bouton  Btn_3PointsSuspension.jpg en face d’Associer un QCM ;
+
+   lla date du devoir ;
+
+   lla date à laquelle les notes seront publiées sur les Espaces ; il est
+--
+   > Parents >  Aff_Saisie.jpg . Dans l’arborescence, cochez Les notes et
+   sélectionnez ensuite l’une des 3 options proposées.
+   Devoir_DecalerLaPublicationDesNotesSurLEspaceParents.jpg
+
+   ljoignez éventuellement un sujet et/ou un corrigé, qui sera publié sur
+   les Espaces en même temps que les notes ;
+
+   lla ou les périodes où le devoir doit être comptabilisé dans la
+   moyenne ; si une période d'examen blanc a été définie (Bac blanc
+   (brevet blanc, etc.)), le devoir peut compter à la fois pour l'examen
+   et le trimestre ;
+
+   ldéfinissez le mode de notation (barème, coefficient et, si le devoir
+   est facultatif, s’il doit être compté comme un bonus ou comme une
+   note) ;
+
+   lla catégorie du devoir, si vous souhaitez pouvoir facilement trier la
+   liste des devoirs ;
+
+   lpour créer une évaluation de compétences en même temps, cochez Créer
+--
+   pouvez saisir les notes. Il est également possible de saisir des
+   annotations pour indiquer que l’élève était absent, dispensé, n’a pas
+   rendu le devoir, etc. : pour en connaître le détail, cliquez sur le
+   bouton  Btn_Information.jpg  en haut à droite de l’affichage.
+
+   Remarque : les professeurs peuvent également créer un devoir sur table
+   depuis le cahier de texte, en faisant clic droit sur le cours où doit
+   avoir lieu le DS et en choisissant Programmer un devoir sur table.
+
+   Importer les notes depuis un tableur  ModeAdmin.jpg ModeProf.jpg
+--
+   1. Depuis le tableur, sélectionnez et copiez vos notes. Elles doivent
+   avoir été saisies avec les élèves dans l’ordre alphabétique.
+   Devoir_ImporterNotesFichierExcel.jpg
+
+   2. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Liste.jpg
+    Liste.
+
+   3. Sélectionnez le devoir dans la liste et cliquez sur le bouton
+   Btn_RecupererNotesDepuisPressePapier.jpg  en haut à droite du tableau
+   de notes pour coller les données saisies.
+--
+   Manipulations
+
+   Modifier un devoir  ModeAdmin.jpg ModeProf.jpg
+
+   1. Rendez-vous dans l’onglet Notes > Saisie des notes >  Aff_Saisie.jpg
+    Saisie.
+
+   2. Double-cliquez sur la date du devoir pour ouvrir la fenêtre de
+   modification.
+   Devoir_ModifierUnDevoir.jpg
+
+   Modifier plusieurs devoirs en même temps  ModeAdmin.jpg ModeProf.jpg
+
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+--
+    Liste.
+
+   2. Sélectionnez les devoirs à modifier, faites un clic droit et
+   choisissez l’élément à changer dans Modifier les devoirs sélectionnés.
+
+   Changer un devoir de service de notation  ModeAdmin.jpg ModeProf.jpg
+
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+--
+    Liste.
+
+   2. Sélectionnez le devoir, faites un clic droit et choisissez Changer
+   de service le devoir sélectionné.
+
+   3. Dans la fenêtre qui s’affiche, sélectionnez le nouveau service et
+   validez.
+
+   Verrouiller des devoirs  ModeAdmin.jpg ModeProf.jpg
+
+    Prérequis  Il faut être un professeur ou un utilisateur du groupe
+--
+    Liste.
+
+   2. Sélectionnez les devoirs qui ne doivent plus être modifiés, faites
+   un clic droit et choisissez Verrouiller les devoirs sélectionnés.
+
+   Remarque : vous pouvez également cocher Devoir verrouillé depuis la
+   fenêtre de modification du devoir dans l’onglet Notes > Saisie des
+   notes >  Aff_Saisie.jpg  Saisie.
+
+   Trier les devoirs par catégorie  ModeAdmin.jpg ModeProf.jpg
+
+   Pour retrouver plus rapidement un devoir, vous pouvez lui attribuer une
+   catégorie.
+
+   1. Dans la fenêtre de création ou de modification des devoirs,
+   sélectionnez une catégorie dans le menu déroulant.
+
+--
+   saisies par un enseignant sont visibles par tous les enseignants : pour
+   réduire la liste, cochez Uniquement mes catégories et celles affectées
+   à mes devoirs. Il est également possible de retirer le droit de
+   création aux enseignants depuis leur profil.
+   Devoir_Categorie_Creer.jpg
+
+   3. Les devoirs s’affichent avec une bande de couleur correspondant à
+   leur catégorie dans le tableau de notes.
+   Devoir_Categorie_TableauDeNotes.jpg
+
+   4. Pour trier les devoirs, rendez-vous dans l’onglet Notes > Saisie des
+   notes >  Aff_Liste.jpg  Liste. Cliquez sur le bouton
+   Btn_3PointsSuspension.jpg Catégories et, dans la fenêtre qui s’affiche,
+   décochez les catégories de devoirs à ne pas afficher.
+   Devoir_Categorie_Trier.jpg
+
+   Voir aussi

@@ -1,0 +1,401 @@
+    (BUTTON) logo digischool logo digischool
+   Lycée Lycée (BUTTON)
+   ____________________
+   (BUTTON)
+   04 78 53 26 11(appel gratuit)
+     * (BUTTON) Se connecterS'abonner
+
+     * [education.svg] Éducation
+          + PrimaireDu CP au CM2Du CP au CM2, tous les programmes de
+            primaire
+          + CollègeDe la 6e à la 3eDe la 6e à la 3e, tous les programmes
+            officiels
+          + LycéeDe la 2nd à la TerminaleDe la 2nd à la Terminale, tous
+            les programmes officiels
+          + BTSPrépare-toi aux principaux BTSPrépare-toi aux principaux
+            BTS avec les programmes officiels
+
+     * [orientation.svg] Orientation
+          + OrientationTrouve ton école en 2 minLa solution pour préparer
+            son parcours d’orientation et choisir sa voie
+          + AlternanceDes milliers d'offresLe site n°1 de l’alternance
+            avec des milliers d’offres disponibles
+
+     * [code.svg] Code
+          + Code auto92% de réussite92% de réussite au code de la route.
+            Réserve ton passage d'examen officiel
+          + Code moto92% de réussite92% de réussite au code de la route.
+            Réserve ton passage d'examen officiel
+          + Code bateaudes centaines de questionsPrépare-toi au code
+            bateau (option côtière) avec des centaines de questions.
+
+     * [langue.svg] Langues
+          + MosalinguaApprendre 8 languesApprendre une langue n’a jamais
+            été aussi facile avec la méthode MOSA Learning®
+          + TOEIC®Assurer un bon scoreL’application officielle pour se
+            préparer et s’entraîner au TOEIC®
+          + FLEApprends le francaisApprends le francais et prépare-toi au
+            DELF et TCF
+          + OrthographeProgresse en orthographeProgresse en orthographe et
+            passe un certificat
+
+     * [prepa.svg] Prépa
+          + ConcoursPrépare tes concours de la fonction publiquePrépare
+            tes concours de la fonction publique
+          + Culture Gé.Prépare-toi aux épreuvesPrépare ton épreuve de
+            Culture générale pour réussir ton concours
+          + CléA NumériqueCertifie tes savoirsL’application pour maîtriser
+            les bonnes pratiques du numérique dans son quotidien personnel
+            et professionnel
+
+     * Accueil
+     * Activer un code
+     * (BUTTON) Révisions
+          + Seconde : cours et quiz de révision
+               o Français
+               o Histoire-Géographie
+               o SES
+               o SVT
+               o Physique-chimie
+               o Mathematiques
+               o SNT
+          + Première : cours et quiz de révision
+               o Première générale
+               o Première STMG
+               o Première STI2D
+               o Première STL
+               o Première ST2S
+          + Terminale : cours et quiz de révision
+               o Terminale générale
+               o Terminale STMG
+               o Terminale STI2D
+               o Terminale STL
+               o Terminale ST2S
+          + Bac pro : cours et quiz de révision
+               o PSE
+               o Économie et droit
+               o Économie et gestion
+               o Physique-chimie
+               o Français
+               o Histoire-géographie
+               o Anglais
+               o Mathématiques
+     * Academy
+          + Rejoins la communauté !
+               o Voir les devoirs
+               o Pose une question
+               o Poste une ressource
+     * Annales
+          + Première
+               o Première générale
+               o Première STMG
+               o Première STI2D
+               o Première STL
+               o Première ST2S
+          + Terminale
+               o Terminale générale
+               o Terminale STMG
+               o Terminale STI2D
+               o Terminale STL
+               o Terminale ST2S
+          + Bac pro
+               o Économie et droit
+               o Économie et gestion
+     * (BUTTON) Outils
+          + Simulateurs de notes
+               o Bac général
+               o Bac technologique
+          + Dates d'examen
+               o Bac général
+               o Bac technologique
+          + Aide au calcul
+               o Calculer un pourcentage
+               o Calculer un taux d'évolution
+               o Calculer le perimètre
+               o Calculer l'aire
+               o Calculer le volume
+               o Calculer la moyenne pondérée
+               o Calculer équation second degré
+               o Calculer la masse molaire
+               o Convertisseurs d'unité de mesure
+          + Anglais
+               o Verbes irréguliers
+     * Articles
+          + Actualités pour le lycée
+               o Fonctionnement du contrôle continu au bac
+               o Orientation après la seconde : que choisir ?
+               o Débouchés de chaque spécialité
+               o Faire une demande de bourse au lycée
+               o Calendrier vacances scolaires 2022-2023
+     * Mes statistiques
+
+   (BUTTON)
+   ____________________
+     * Accueil
+     * Activer un code
+     * Révisions
+          + Seconde : cours et quiz de révision
+               o Français
+               o Histoire-Géographie
+               o SES
+               o SVT
+               o Physique-chimie
+               o Mathematiques
+               o SNT
+          + Première : cours et quiz de révision
+               o Première générale
+               o Première STMG
+               o Première STI2D
+               o Première STL
+               o Première ST2S
+          + Terminale : cours et quiz de révision
+               o Terminale générale
+               o Terminale STMG
+               o Terminale STI2D
+               o Terminale STL
+               o Terminale ST2S
+          + Bac pro : cours et quiz de révision
+               o PSE
+               o Économie et droit
+               o Économie et gestion
+               o Physique-chimie
+               o Français
+               o Histoire-géographie
+               o Anglais
+               o Mathématiques
+     * Academy
+          + Rejoins la communauté !
+               o Voir les devoirs
+               o Pose une question
+               o Poste une ressource
+     * Annales
+          + Première
+               o Première générale
+               o Première STMG
+               o Première STI2D
+               o Première STL
+               o Première ST2S
+          + Terminale
+               o Terminale générale
+               o Terminale STMG
+               o Terminale STI2D
+               o Terminale STL
+               o Terminale ST2S
+          + Bac pro
+               o Économie et droit
+               o Économie et gestion
+     * Outils
+          + Simulateurs de notes
+               o Bac général
+               o Bac technologique
+          + Dates d'examen
+               o Bac général
+               o Bac technologique
+          + Aide au calcul
+               o Calculer un pourcentage
+               o Calculer un taux d'évolution
+               o Calculer le perimètre
+               o Calculer l'aire
+               o Calculer le volume
+               o Calculer la moyenne pondérée
+               o Calculer équation second degré
+               o Calculer la masse molaire
+               o Convertisseurs d'unité de mesure
+          + Anglais
+               o Verbes irréguliers
+     * Articles
+          + Actualités pour le lycée
+               o Fonctionnement du contrôle continu au bac
+               o Orientation après la seconde : que choisir ?
+               o Débouchés de chaque spécialité
+               o Faire une demande de bourse au lycée
+               o Calendrier vacances scolaires 2022-2023
+     * Mes statistiques
+
+   04 78 53 26 11(appel gratuit)
+   (BUTTON)
+     * (BUTTON) Se connecterS'abonner
+
+     * Lycee
+     * Terminale generale
+     * Philosophie
+     * Le devoir est-il une contrainte ou une obligation ?
+
+Le devoir est-il une contrainte ou une obligation ?
+
+   icône de pdf
+   (BUTTON) Télécharger le PDF de ce cours
+   Signaler
+
+   IFRAME:
+   https://www.youtube.com/embed/mqva1jNMhxo?autoplay=0&muted=0&controls=2
+   &modestbranding=1
+
+   Le devoir présente une ambiguïté : « Je dois toujours dire la vérité »
+   n’a pas le même sens que « la comète de Halley doit repasser tous
+   les 76 ans. » Dans le premier cas, il s’agit d’un devoir moral, l’acte
+   d’une volonté libre déterminée par la seule idée du bien ou de la loi.
+   Dans le second cas, il s’agit d’une anticipation, d’un phénomène à
+   venir soumis à la nécessité.
+
+I) Le devoir comme contrainte
+
+1)  Une contrainte sociale
+
+   Le devoir est généralement vécu comme une contrainte
+   institutionnalisée : l’élève doit faire ses devoirs avant d’aller
+   jouer ; le salarié doit travailler pour gagner sa vie ; le commerçant
+   doit voyager pour trouver des clients.
+
+   Mot-clé
+
+   Une contrainte désigne l’exercice d’une force extérieure qui impose
+   ou empêche une action ou un mouvement.
+
+2)  Une contrainte physique
+
+   Le devoir désigne ici une nécessité : c’est une contrainte objective
+   qui s’impose à moi. Je suis matériellement déterminé, tout comme une
+   pierre jetée en l’air doit retomber. Dans cette perspective, le devoir
+   n’a aucun sens moral. C’est ce que Kant nomme l’hétéronomie,
+   c’est-à-dire le fait d’obéir à une loi extérieure à sa volonté.
+
+II) Le devoir comme obligation morale
+
+   Tandis qu’on se soumet à une contrainte, on obéit librement à une
+   obligation. Dans le second cas, le devoir résulte d’un libre choix.
+   C’est ce que Kant nomme l’autonomie – du grec auto (« soi ») et nomos
+   (« loi ») –, qui désigne l’obéissance à sa propre loi.
+
+   Le verbe « devoir » vient du latin debere (« être en dette »), ce qui
+   inscrit le devoir dans un échange et une rétribution. Faire son devoir
+   exige d’aller contre ses désirs égoïstes et ses sentiments intéressés.
+   Le devoir implique souvent l’idée de sacrifice au nom d’un idéal
+   supérieur, du bien ou d’une loi universelle. C’est pourquoi Nietzsche
+   dit du devoir kantien que « l’impératif catégorique a un relent de
+   cruauté ». Il y voit l’origine de la culpabilité et de la faute en
+   morale.
+
+   À noter
+
+   7368956f-855b-476f-9e5e-02904230ce38
+
+   Sartre présente le cas d’un jeune homme qui veut, sous l’Occupation,
+   rejoindre la Résistance, ce qui l’oblige à abandonner sa vieille mère.
+
+   Il en ressort que le devoir moral doit être distingué des contraintes
+   matérielles ou sociales ; qu’il s’oppose au plaisir et qu’il suppose un
+   libre choix de la volonté.
+
+III) Le devoir moral comme résistance au désir
+
+1 ) L’homme n’est ni ange ni bête
+
+   Le devoir moral suppose une résistance à un désir. Il est une mise à
+   l’épreuve de la volonté et quelqu’un sans tentation ni désir ignorerait
+   tout du devoir, donc de la moralité.
+
+   L’animal ne connaît pas le devoir moral non plus, car il a bien des
+   instincts, mais qui ne sont limités que par la nécessité extérieure (un
+   rival plus fort par exemple), et non par une volonté libre intérieure.
+
+2 ) Le devoir exprime un conflit intérieur
+
+   L’épreuve du devoir suppose une double nature humaine, un conflit
+   intérieur entre une volonté raisonnable et des désirs honteux, entre ce
+   que Kant appelle une nature intelligible d’une part et une nature
+   pathologique d’autre part, laquelle subit les passions.
+
+   L’expérience du devoir passe par le sentiment de honte, qui signale ce
+   qu’on ne doit pas faire. À l’inverse, l’absence de honte signale
+   l’absence de tout sens moral, supprimant toute limite et tout interdit
+   à l’action et conduisant à l’amoralité. Cette dernière signifie une
+   indifférence au bien et au mal, qu’il ne faut pas confondre avec
+   l’immoralité, qui désigne le choix de violer les devoirs moraux.
+   Faire le quiz associé
+   Leçon suivante
+   Le devoir est-il absolu ou relatif ?
+     * digiSchool Éducation
+          + Nos sites internet
+               o Site Primaire
+               o Site Collège
+               o Site Lycée
+               o Site BTS
+          + Nos applications
+               o Application Android Éducation
+               o Application iOS Éducation
+          + Nos chaînes youtube
+               o Chaîne Youtube Brevet
+               o Chaîne Youtube Bac
+     * digiSchool Orientation
+          + Nos sites internet
+               o Site Orientation
+               o Site Alternance
+          + Nos applications
+               o Application Android Pitangoo
+               o Application iOS Pitangoo
+          + Notre chaîne Youtube
+               o Chaîne Youtube Orientation
+     * digiSchool Code
+          + Nos sites internet
+               o Site Code auto
+               o Site Code moto
+               o Site Code bateau
+          + Nos applications
+               o Application Android Code de la route
+               o Application iOS Code de la route
+          + Notre chaîne Youtube
+               o Chaîne Youtube Code de la route
+     * digiSchool Langues
+          + Nos sites internet
+               o Site Mosalingua
+               o Site TOEIC®
+               o Site Orthographe
+               o Site FLE
+          + Nos applications
+               o Application Android Mosalingua
+               o Application iOS Mosalingua
+               o Application Android TOEIC®
+               o Application iOS TOEIC®
+               o Application Android FLE
+               o Application iOS FLE
+               o Application Android Orthographe
+               o Application iOS Orthographe
+          + Nos chaînes youtube
+               o Chaîne Youtube Mosalingua
+               o Chaîne Youtube Orthographe
+     * digiSchool Prépa
+          + Nos sites internet
+               o Site Concours
+               o Site Culture Gé.
+               o Site CléA Numérique
+          + Nos applications
+               o Application Android Concours
+               o Application iOS Concours
+               o Application Android Cléa Numérique
+               o Application iOS Cléa Numérique
+               o Application Android Secours
+               o Application iOS Secours
+          + Notre chaîne Youtube
+               o Chaîne Youtube Secours
+
+   Logo digiSchool
+     * Cookies
+     * •
+     * Charte communauté
+     * •
+     * Politique de protection des données
+     * •
+     * C.G.U
+     * •
+     * C.G.V
+     * •
+     * Offre Pro
+     * •
+     * Crédits
+     * •
+     * Contact
+     * •
+     * Tous droits réservés 2011-2023
+
+   Logo d'accessibilité

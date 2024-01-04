@@ -1,0 +1,1390 @@
+   [1]CAIRN.INFO : Matières à réflexion [2]CAIRN.INFO : Matières à
+   réflexion
+     * [3]search
+       ____________________ [4]search
+          + [5]Recherche avancée
+          + [6]help_outline Aide à la recherche
+     * [7]person_outline Connexion
+       Compte personnel Cairn.info
+       ____________________
+       ____________________
+       [X] Rester connecté
+       [8]Mot de passe oublié ?
+       Se connecter
+       Pas encore enregistré ?
+       [9]Créer un compte
+       Accès institution
+       Vous n’êtes actuellement pas connecté(e) en institution.
+       [10]Authentifiez-vous
+     * [11]language
+       You might also want to visit our [12]Cairn International Edition.
+       [13]SWITCH TO ENGLISH
+       Tal vez desee visitar también nuestros contenidos en español en
+       [14]Cairn Mundo.
+       [15]CAMBIAR A ESPAÑOL
+     * Toggle navigation menu
+
+     * [16]Revues
+     * [17]Ouvrages
+     * [18]Que sais-je ? / Repères
+     * [19]Magazines
+     * [20]Mon cairn.info
+
+   CAIRN.INFO : Matières à réflexion
+
+    1. [21]Accueil
+    2. [22]Revues
+    3. [23]Langue française
+    4. [24]Numéro 2012/1 (n°173)
+    5. Devoir et pouvoir, des marqueurs...
+
+   [25][LF_173.jpg?fallback=true]
+   2012/1
+     * Devoir et pouvoir, des marqueurs modaux ou évidentiels ?
+     * [26]Suivre cet auteur [27]Cécile Barbet
+     * Dans [28]Langue française [29]2012/1 (n°173), pages 49 à 63
+
+   [30]format_quote Citer ou exporter [31]Ajouter à une liste [32]Suivre
+   cette revue
+   [33]Précédent [34]Suivant
+
+     * [35]Article
+     * [36]Résumé
+     * [37]Plan
+     * [38]Bibliographie
+     * [39]Auteur
+     * [40]Cité par
+     * [41]Sur un sujet proche
+     * [42]file_downloadTélécharger
+     * [43]Article
+          + [44]Article
+          + [45]Résumé
+          + [46]Plan
+          + [47]Bibliographie
+          + [48]Auteur
+          + [49]Cité par
+          + [50]Sur un sujet proche
+          + [51]file_downloadTélécharger
+
+Article
+
+1. INTRODUCTION [52][1]
+
+   [53]1 Virtuellement toutes les positions théoriques sont représentées
+   dans la littérature concernant le lien existant entre la modalité
+   exprimée par devoir et pouvoir et l’évidentialité : traditionnellement,
+   ces verbes sont dits modaux (Sueur 1979, 1983 ; Le Querler 1996, 2001 ;
+   Vetters 2004) ; on les a également décrits comme « mixtes », i.e.
+   évidentio-modaux (Kronning 1996, 2001, 2003) ; ou évidentiels en ce qui
+   concerne leurs emplois épistémiques (Dendale 1994 ; Tasmowski &
+   Dendale 1994 ; Dendale & De Mulder 1996 ; Desclés & Guentchéva 2001)
+   et, récemment, C. Rossari et al. (2007) ont fait de devoir un marqueur
+   fondamentalement évidentiel.
+
+   [54]2 Après un bref rappel des différentes interprétations possibles
+   des deux verbes, et des différentes positions théoriques concernant
+   leur caractère modal ou évidentiel, nous défendrons l’hypothèse que
+   devoir et pouvoir sont bien des marqueurs modaux et non des
+   évidentiels. Cependant, nous tirerons parti des approches
+   « évidentialisantes » notamment en montrant que le caractère partagé ou
+   non des evidences [55][2] permet de rendre compte de la différence
+   entre interprétations épistémiques dites subjectives et interprétations
+   épistémiques dites objectives.
+
+   [56]3 Dans la littérature, c’est devoir qui a surtout fait l’objet
+   d’analyses en termes d’évidentialité, pouvoir fait un peu figure de
+   parent pauvre à cet égard. La brèche « évidentielle » ouverte par L.
+   Tasmowski et P. Dendale (1994) et, dans une moindre mesure, par H.
+   Kronning (1996), concernant pouvoir est restée non exploitée. Nous
+   analyserons conjointement dans cet article devoir et pouvoir.
+
+   [57]4 De même, ce sont presque exclusivement les marqueurs épistémiques
+   qui ont fait l’objet d’analyses évidentielles ; nous prendrons au
+   sérieux les propositions d’H. Kronning (1996) ou de C. Rossari et al.
+   (2007), qui expliquent également une partie (Kronning) ou la totalité
+   (Rossari et al.) du sémantisme des emplois radicaux en termes
+   d’évidentialité.
+
+2. INTERPRÉTATIONS DE DEVOIR ET POUVOIR
+
+   [58]5 Selon le contexte d’emploi, les verbes modaux du français, comme
+   les modaux des autres langues, peuvent recevoir différentes
+   interprétations. On s’accorde ordinairement pour distinguer, sur la
+   base de critères sémantiques et syntaxiques, deux grandes catégories
+   d’interprétations : les radicales et les épistémiques. Les premières
+   communiquent une nécessité ou une possibilité de faire, tandis que les
+   secondes communiquent une nécessité ou une possibilité qu’un état de
+   chose soit le cas. Nous concentrant sur les emplois proprement modaux,
+   nous laissons de côté dans cet article les emplois dits « post-modaux »
+   (van der Auwera & Plungian 1998) ou l’emploi aspectuel « sporadique »
+   de pouvoir (Kleiber 1983) qui nécessitent des études spécifiques
+   (Vetters & Barbet 2006 ; Barbet & Vetters 2012 ; Vetters 2007 ; Barbet
+   & Saussure sous presse ; Vetters ce volume).
+
+2.1. Interprétations radicales
+
+   [59]6 On distingue différentes interprétations radicales. Ainsi,
+   pouvoir peut exprimer, selon les termes notamment de N. Le Querler
+   (1996, 2001), une capacité (1), une permission (2) ou une possibilité
+   matérielle (3) :
+
+   [60]7
+   (1)
+   En quittant son domicile Dupont n’était pas mort, il pouvait même
+   marcher tant bien que mal – le docteur était forcé de le signaler, pour
+   ne pas être contredit par la gouvernante. (Robbe-Grillet, Les Gommes,
+   1952)
+
+   [61]8
+   (2)
+   La vieille a demandé si elle pouvait téléphoner. Bien sûr qu’elle
+   pouvait ; le patron lui a indiqué l’appareil accroché au mur. (ibid.)
+
+   [62]9
+   (3)
+   Elle finit par convaincre l’obstination de l’avocat et se retrouva
+   bientôt dans la rue avec le sentiment fort agréable de pouvoir dépenser
+   sans compter et échafauder tous les projets qu’elle voudrait.
+   (Christie, Le Train bleu, 1991)
+
+   [63]10 Dans le premier cas, l’origine de la possibilité réside dans les
+   qualités inhérentes au sujet ; dans le deuxième, elle correspond à un
+   être animé humain ou à des lois sociales ou éthiques ; dans le dernier,
+   elle demeure dans les conditions matérielles extérieures au sujet.
+
+   [64]11 Devoir radical, quant à lui, peut communiquer ce que H. Kronning
+   (1996) nomme une obligation théorique (4) ou une obligation pratique
+   (5) :
+
+   [65]12
+   (4)
+   Ne faut-il pas de toute manière qu’il le retrouve ? Il en a reçu
+   l’ordre. C’est cela qu’il doit faire. (Robbe-Grillet, Les Gommes, 1952)
+
+   [66]13
+   (5)
+   Ils entraient partout pour faire leurs manigances et n’écoutaient même
+   pas ce qu’on leur disait. Elle a dû les observer de près, de peur
+   qu’ils n’emportent quelque chose, car leurs mines n’inspiraient guère
+   confiance. (ibid.)
+
+   [67]14 L’obligation pratique se caractérise par sa composante
+   téléologique : devoir établit un lien de nécessité entre une fin et les
+   moyens d’y parvenir (nécessité d’observer de près les visiteurs en (5)
+   pour que rien ne soit volé). L’inférence pratique (Kronning, 1996 :
+   112-113) dont procède l’interprétation pratique distingue cette
+   dernière de l’obligation théorique, qui est quant à elle le résultat
+   d’une inférence théorique (sans composante téléologique, mais avec une
+   prémisse nomique, i.e. une norme sociale, religieuse, légale, morale,
+   etc., Kronning, op. cit. : 34-35). Dans l’optique de H. Kronning, les
+   emplois épistémiques ne sont donc pas les seuls à résulter d’une
+   inférence. Nous développerons ce point au § 4.2, où nous discuterons
+   également la pertinence et la possible application d’une telle analyse
+   « inférentielle » des interprétations radicales à pouvoir.
+
+2.2. Interprétations épistémiques
+
+   [68]15 Les emplois épistémiques expriment, quant à eux, qu’un état de
+   choses soit le cas est possible – avec pouvoir – ou probable – avec
+   devoir (6) :
+
+   [69]16
+   (6)
+   D’ailleurs, comme, au bout du compte, une affaire pour laquelle se
+   dérangeaient vingt-cinq ou trente citoyens pouvait et même devait être
+   une affaire importante, il ordonna que ceux qui désiraient lui parler
+   fussent introduits. (Dumas, La Comtesse de Charny, 1990)
+
+   [70]17 Nous discutons plus en détails infra (§ 3-4) le lien entre
+   évidentialité inférentielle et modalité épistémique, mais notons déjà
+   qu’étant donné que le locuteur semble poser une éventualité avec
+   pouvoir ou une probabilité avec devoir, au terme d’un raisonnement
+   inférentiel (de type abductif en (6)), certains auteurs considèrent que
+   les emplois épistémiques des modaux sont des emplois fondamentalement
+   évidentiels (inférentiels) et non modaux.
+
+   [71]18 Selon notamment H. Kronning (1996, 2001), devoir et pouvoir
+   radicaux expriment, respectivement, une nécessité et une possibilité
+   « de faire être » véridicibles, i.e. justiciables d’une appréciation en
+   termes de vérité ou de fausseté ; tandis que les modaux épistémiques
+   expriment une nécessité ou une possibilité « d’être » non véridicibles,
+   ou “externally inscrutable” [72][3] chez A. Papafragou (2006) à propos
+   des modaux anglais may et must en emploi épistémique (dit subjectif,
+   § 2.4), c’est-à-dire exprimant une pensée privée en tant que telle et
+   ne pouvant donc être questionnée par l’interlocuteur. La différence
+   entre modalité radicale véridicible et modalité épistémique
+   (subjective) non véridicible/externally inscrutable explique par
+   exemple qu’un modal épistémique (subjectif), contrairement à un modal
+   radical, ne peut se trouver dans les interrogations partielles ou les
+   subordonnées en puisque, dont le contenu est présupposé, donc présenté
+   comme vrai préalablement à l’énonciation (Kronning 1996, 2001), cf. (7)
+   vs (8) :
+
+   [73]19
+   (7)
+   Combien de fruits et légumes doit-on manger par jour pour être en
+   forme ?
+
+   [74]20
+   (8)
+   ?? Quel jour devait-il être midi quand tu es arrivé ? [75][4]
+
+   [76]21 D’autres caractéristiques différencient les interprétations
+   épistémiques des radicales [77][5], cependant seul le caractère
+   véridicible ou non des interprétations sera directement pertinent dans
+   le cadre de cet article. Il justifie également en partie la proposition
+   de H. Kronning de reconnaître une troisième catégorie d’interprétations
+   à devoir.
+
+2.3. Interprétations aléthiques
+
+   [78]22 À la bipartition consensuelle, radical vs épistémique, H.
+   Kronning (1996, 2001) ajoute une troisième catégorie d’emplois :
+   l’aléthique. Devoir exprimerait dans ce cas une « nécessité d’être »
+   comme devoir épistémique, mais à la différence de ce dernier,
+   véridicible. De plus, devoir aléthique exprimerait une nécessité
+   « absolue » (Kronning, 2001 : 72), cf. (9), quand devoir épistémique
+   dénoterait, quant à lui, une probabilité.
+
+   [79]23
+   (9)
+   Le langage ainsi défini, il faut chercher quel est le caractère logique
+   général commun à tous les parlers possibles. Ce caractère doit être
+   contenu dans le français même que nous parlons, car il doit imprégner
+   toute phrase, la plus simple comme la plus complexe. (Damourette &
+   Pichon 1911-1940, cités par Kronning 1996 : 115)
+
+   [80]24 Tout concourt à susciter l’adhésion en faveur de l’existence de
+   cette catégorie particulière d’emplois, en particulier car bien que
+   devoir aléthique soit marginal en langue et exprime toujours un
+   jugement du locuteur (comme le soulignent J. van der Auwera et V.
+   Plungian (1998), E. Sweetser (1990) ou F. Palmer (1986), qui s’opposent
+   à une telle distinction), ce jugement n’est pas présenté comme un
+   jugement personnel, ce qui a pour conséquence que devoir aléthique est
+   véridicible – cf. (10) – et donc compatible avec les constructions qui
+   sont réfractaires aux modaux épistémiques (dits subjectifs, § 2.4),
+   telles que les interrogatives partielles illustrées en (11).
+
+   [81]25
+   (10)
+   Tous les hommes doivent mourir. (Furetière 1690, Féraud 1787,
+   Littré 1878, cités par Kronning, 2001 : 78)
+   Il est vrai que tous les hommes doivent mourir.
+
+   [82]26
+   (11)
+   Que doivent être l’homme et le monde pour que le rapport soit possible
+   entre eux ? (Sartre 1943, cité par Kronning, 1996 : 115 & 2001 : 73)
+
+   [83]27 Or, le caractère véridicible ou non d’un énoncé est, selon J.
+   Nuyts (2001), le lieu où se noue le lien entre modalité épistémique et
+   évidentialité (inférentielle). Nous lui accorderons donc une attention
+   particulière (§ 4.1).
+
+2.4. Interprétations épistémiques subjectives et objectives
+
+   [84]28 Une longue tradition, depuis J. Lyons (1977), distingue
+   interprétations épistémiques subjectives et objectives (cf. Papafragou
+   (2000, 2006) concernant les modaux anglais ; Vetters (2004, 2007) sur
+   le français). La distinction rend compte du fait qu’un énoncé tel que
+   (12) peut communiquer l’incertitude du locuteur à propos d’un fait
+   hypothétique (qu’il pleuve demain) ou le fait qu’il y a des chances
+   (mesurables) qu’il pleuve demain.
+
+   [85]29
+   (12)
+   Il peut pleuvoir demain. (d’après Papafragou, 2006 : 1691)
+
+   [86]30 Pour A. Papafragou (2006), dans sa lecture subjective, (12)
+   exprime l’avis de quelqu’un qui raisonne sur la base d’indices
+   personnels (et peut-être faillibles et incomplets), tandis que dans sa
+   lecture objective, cet énoncé sert à formuler une conclusion basée sur
+   des données scientifiques et des mesures (plus fiables et plus
+   complètes) [87][6]. Nous suggèrerons (§ 4.1) que ce n’est pas tant la
+   fiabilité des indices qui provoque une lecture objective ou subjective
+   que le caractère partagé ou non de ces indices ou evidences. En effet,
+   un modal épistémique sera interprété comme objectif si et seulement si
+   ces indices sont partagés, peu importe leur fiabilité. Ceci explique
+   que les modaux épistémiques objectifs sont véridicibles : si les
+   evidences ne sont pas partagés, ils restent “externally inscrutable”,
+   non-véridicibles, donc subjectifs.
+
+   [88]31 Que pouvoir (ou may) communique une possibilité épistémique
+   objective ou subjective – cf. (12) –, il communique toujours une
+   possibilité (ou éventualité – Sueur 1979, 1983 ; Le Querler 1996,
+   2001). Cependant, dans le cas d’une interprétation objective
+   (véridicible), l’interlocuteur pourra confirmer ou réfuter cette
+   éventualité même (« C’est vrai/faux qu’il peut pleuvoir ») tandis qu’il
+   ne le pourra pas dans le cas d’une interprétation subjective (non
+   véridicible/externally inscrutable, i.e. dont les evidences ne sont pas
+   partagés, § 4.1).
+
+   [89]32 Devoir aléthique et devoir épistémique objectif étant tous deux
+   véridicibles, la différence entre les deux reste que le premier sera
+   interprété comme exprimant une nécessité absolue tandis que le second
+   dénotera une probabilité. L’interprétation aléthique ou épistémique
+   objective dépendra de la force de la prémisse majeure (§ 4.1).
+
+   [90]33 Nous nous intéresserons désormais exclusivement au lien entre
+   évidentialité inférentielle et modalité exprimée par devoir et pouvoir.
+
+3. LES VERBES MODAUX, DES MARQUEURS MODAUX OU ÉVIDENTIELS ?
+
+   [91]34 On peut considérer devoir et pouvoir soit (i) comme des
+   marqueurs modaux, soit (ii) comme des marqueurs évidentio-modaux, soit
+   (iii) comme ayant une valeur de base évidentielle au moins en ce qui
+   concerne leurs emplois épistémiques, soit encore (iv) comme des
+   marqueurs fondamentalement évidentiels. Avant de discuter ces
+   différentes options, et de défendre que devoir et pouvoir sont avant
+   tout des marqueurs modaux, il convient d’apporter les éléments
+   principaux qui motivent la position que nous adopterons, selon laquelle
+   il est pertinent de distinguer conceptuellement évidentialité
+   inférentielle et modalité épistémique.
+
+3.1. De la pertinence de distinguer évidentialité inférentielle et modalité
+épistémique
+
+   [92]35 Depuis les premières études sur l’évidentialité, évidentialité
+   inférentielle et modalité épistémique sont plus ou moins confondues
+   (Dendale & Tasmowski 1994, 2001) ; et, selon F. Palmer (1986 : 70), il
+   serait même futile d’essayer de les distinguer. Si modalité épistémique
+   et évidentialité inférentielle sont souvent imbriquées, nous pensons
+   qu’il est pertinent de distinguer les deux notions afin de rendre
+   compte des emplois de certains marqueurs (cf. aussi de Haan 1999,
+   2001 ; Cornillie 2009). Ainsi par exemple, moeten en néerlandais
+   connaît deux emplois, l’un épistémique (13) et l’autre évidentiel
+   d’emprunt (14), n’indiquant rien du degré de certitude avec lequel le
+   locuteur entretient l’information communiquée :
+
+   [93]36
+   (13)
+   Ik denk dat hij thuis moet zijn. (oral, cité par Cornillie, 2009 : 56)
+   ‘Je pense qu’il doit être à la maison.’ [94][7]
+
+   [95]37
+   (14)
+   Naar verluidt moet minister Stevaert ooit tijdens een losse babbel de
+   volgende gevleugelde uitpraak hebben gedaan. (Uitweg n°25, cité par
+   Cornillie, 2009 : 56)
+   ‘D’après ce qu’on dit, le ministre Stevaert aurait un jour prononcé
+   dans une discussion à bâtons rompus, les paroles historiques
+   suivantes’ [96][8]
+
+   [97]38 On a proposé plusieurs définitions de l’évidentialité, et
+   notamment une « large » et une « étroite » (Willett 1988 ; Dendale &
+   Tasmowski 2001). Dans une conception étroite, l’évidentialité se
+   restreint au marquage par le locuteur de la source de l’information
+   qu’il transmet, et exclut donc a priori la modalité ; tandis que dans
+   un sens large, l’évidentialité est considérée comme un hyperonyme de la
+   modalité épistémique : incluant et l’indication de la source de
+   l’information et l’attitude du locuteur vis-à-vis de cette information.
+   Selon B. Cornillie (2009), la seconde conception est le résultat d’une
+   confusion conceptuelle et terminologique, le lien entre modalité
+   épistémique et évidentialité inférentielle n’étant pas nécessaire.
+   Notamment, comme il le souligne, ainsi que V. Plungian (2001), s’il y a
+   toujours une part d’évidentialité dans le marquage épistémique,
+   l’inverse n’est pas vrai. Ainsi, en (15) par exemple, le conditionnel
+   indique que la source de l’information est quelqu’un d’autre que le
+   locuteur, mais le locuteur ne signale par là rien de son degré de
+   certitude concernant cette information [98][9] (comme en (14) avec
+   moeten). De plus, si intuitivement, un lien existe entre (fiabilité de
+   la) source de l’information et degré de certitude du locuteur (on
+   s’attend en effet à ce qu’il entretienne avec plus de certitude une
+   information obtenue d’une source fiable ou déduite de prémisses sûres),
+   ce lien n’est pas causal (de Haan 2001 ; Cornillie 2009). Autrement, on
+   ne saurait expliquer pourquoi différents modaux épistémiques peuvent
+   être utilisés pour un même indice (cf. (16) et (17)) :
+
+   [99]39
+   (15)
+   Une grande partie de la Libye serait tombée. (libération.fr, consulté
+   le 26 février 2011)
+
+   [100]40
+   (16)
+   John doit être à la maison. Les lumières sont allumées.
+
+   [101]41
+   (17)
+   John peut être à la maison. Les lumières sont allumées. [102][10]
+
+   [103]42 Si nous partons du principe qu’il est pertinent de distinguer
+   source et plausibilité de l’information, nous n’en convenons pas moins
+   que, fondamentalement, les valeurs modales de nécessité et de
+   possibilité ne peuvent être dissociées de l’inférence (Kronning 1996),
+   et donc d’une certaine manière de l’évidentialité : ce n’est qu’au
+   terme d’un raisonnement que l’on peut poser la possibilité ou la
+   nécessité d’un fait. Cependant, nous suggérerons que le lien entre
+   évidentialité et modalité est plus pragmatique que sémantique, et
+   contrairement à H. Kronning (1996), nous ne ferons pas entrer
+   l’évidentialité dans le sémantisme des modaux (§ 3.4). Par contre, la
+   prise en compte des evidences impliqués rendra notamment compte de la
+   différence entre modalité épistémique objective et modalité épistémique
+   subjective (§ 4.1).
+
+   [104]43 Avant de développer cette analyse, nous discuterons brièvement
+   les hypothèses de P. Dendale (1994) et L. Tasmowski et P. Dendale
+   (1994) qui défendent une valeur de base évidentielle pour devoir et
+   pouvoir épistémiques, l’analyse de devoir comme marqueur évidentiel de
+   C. Rossari et al. (2007), et enfin l’analyse en termes de « marqueurs
+   mixtes » de H. Kronning (1996, 2003).
+
+3.2. Devoir et pouvoir épistémiques comme marqueurs évidentiels
+
+   [105]44 P. Dendale et L. Tasmowski (1994) et P. Dendale (1994)
+   défendent que devoir et pouvoir épistémiques sont des marqueurs
+   évidentiels et non modaux. Notamment, selon P. Dendale, étant donné que
+   la valeur modale de devoir épistémique n’est pas stable (parce qu’elle
+   varie de la nécessité à la probabilité), la valeur de base de devoir
+   épistémique ne peut être une valeur modale. Il propose (1994 : 34) les
+   exemples suivants qui exhiberaient, respectivement, une « nécessité »,
+   une « (quasi-) certitude » et une « probabilité » [106][11] :
+
+   [107]45
+   (18)
+   Cette figure doit être un cercle puisque la distance de chaque point de
+   la circonférence au centre est partout identique.
+
+   [108]46
+   (19)
+   Cette jeune fille a dû avoir des rapports sexuels avec un séropositif
+   ou avoir été en contact avec du sang contaminé puisqu’elle est
+   séropositive.
+
+   [109]47
+   (20)
+   Oui, l’enfer doit être ainsi : des rues à enseignes et pas moyen de
+   s’expliquer (Camus, cité par Dendale 1994 : 34)
+
+   [110]48 Le fait que le modal puisse avoir ces différentes valeurs
+   « épistémiques » amène P. Dendale à postuler qu’il « n’a pas de valeur
+   modale propre » (1994 : 34), et que sa valeur modale doit donc être
+   conditionnée par sa valeur évidentielle. Plus qu’une nécessité
+   empirique, cette conclusion est une conséquence du présupposé qui veut
+   qu’à une expression linguistique corresponde un signifié univoque et
+   déterminé [111][12], d’où le choix de l’évidentialité qui remplirait ce
+   rôle.
+
+   [112]49 Quoiqu’il en soit, l’analyse de P. Dendale est rendue possible
+   par une conception large de l’évidentialité définie comme
+   « l’expression du mode de création et/ou de récolte de
+   l’information » [113][13] (Tasmowski & Dendale, 1994 : 4) qui inclut
+   une étape finale d’évaluation des conclusions obtenues par inférence,
+   i.e. une évaluation des chances que ces conclusions soient correctes.
+   Cette dernière étape de l’opération « évidentielle » de création de
+   l’information permet de discriminer devoir et pouvoir épistémiques :
+   quand au terme de son raisonnement inférentiel, le locuteur ne retient
+   qu’une seule hypothèse avec devoir, avec pouvoir, il montrerait qu’il
+   n’exclut pas d’autres conclusions. Cependant, si l’on considère que
+   l’évidentialité se restreint au marquage de la source de l’information,
+   la dernière étape n’est pas évidentielle. Et si la différence entre les
+   deux verbes modaux se situe bien au niveau de l’évaluation du locuteur
+   (seule conclusion possible vs une des conclusions possibles), elle se
+   situe donc au niveau de la quantification modale (universalité vs.
+   existence mondaine, cf. Kronning (1996, 2003), i.e. vrai dans tous les
+   mondes possibles vs vrai dans au moins un monde possible, § 3.4).
+
+   [114]50 La conception de P. Dendale et L. Tasmowski implique,
+   paradoxalement, une forte polysémie de devoir et pouvoir puisque la
+   valeur de base évidentielle n’y semble concerner que les emplois
+   épistémiques, les emplois radicaux resteraient, quant à eux, modaux.
+   Cette polysémie, proche d’un cas d’homonymie, peut être réduite en
+   considérant avec H. Kronning (1996) que les modaux, dans leurs emplois
+   épistémiques comme radicaux, sont des marqueurs mixtes évidentio-modaux
+   (§ 3.4). Une autre position, qui offre elle aussi une alternative à une
+   approche « trop » polysémique, est celle, monosémique dans les faits,
+   défendue par C. Rossari et al. (2007).
+
+3.3. Devoir fondamentalement évidentiel
+
+   [115]51 À la différence de P. Dendale (1994), C. Rossari et al. (2007)
+   posent que si devoir est évidentiel, il n’est pas inférentiel ; et que
+   si devoir épistémique est évidentiel, devoir radical l’est aussi. En
+   effet, la valeur évidentielle du modal serait le renvoi à une source,
+   qui consisterait en une règle dans les emplois radicaux, et un fait
+   dans les emplois épistémiques. Elles proposent les exemples suivants,
+   avec une interprétation déontique (obligation théorique) en (21) et une
+   interprétation épistémique en (22) :
+
+   [116]52
+   (21)
+   Paul doit se laver les dents.
+   Règle : Toute personne qui a de l’hygiène se lave les dents. (Rossari
+   et al., 2007 : 3)
+
+   [117]53
+   (22)
+   Avec cette chaleur, tu dois être fatigué.
+   Fait mentionné dans le discours : la chaleur
+   Conclusion : le destinataire est fatigué. (ibid.)
+
+   [118]54 La référence à un fait dans le cas des interprétations
+   épistémiques déclencherait un raisonnement dont la conclusion serait
+   l’énoncé modalisé. Aucun raisonnement n’interviendrait dans le cas des
+   interprétations radicales, serait simplement appliquée dans ce cas une
+   règle à un objet de discours, tel que Paul en (21).
+
+   [119]55 Leur analyse a le mérite de réduire la polysémie du modal à une
+   signification unique évidentielle, cependant, elle soulève plusieurs
+   questions. Premièrement, la source dans le cas des déontiques pourrait
+   aussi s’analyser comme déclenchant un raisonnement comme dans le cas
+   des épistémiques. En effet, leur règle peut s’interpréter comme la
+   prémisse majeure d’un raisonnement (dont l’énoncé modalisé serait la
+   conclusion, § 4.2). Parallèlement, si la nature de la source (fait ou
+   règle) est facilement identifiable contextuellement, la récupération
+   d’un raisonnement uniquement dans le cas des interprétations
+   épistémiques est moins évidente. Enfin, tout comme avec les analyses de
+   P. Dendale et L. Tasmowski (§ 2.2 supra), si l’on applique leur analyse
+   à pouvoir, on n’arrive plus à distinguer les deux verbes modaux en
+   emploi épistémique sans un recours à des caractéristiques non
+   évidentielles : dans une perspective à la Rossari et al., pouvoir
+   encoderait comme devoir le renvoi à une source, à savoir un fait dans
+   le cas des épistémiques, duquel on dériverait par raisonnement le sens
+   pertinent. En d’autres termes, pouvoir épistémique aurait à cet égard
+   la même « sémantique » que devoir épistémique. Une alternative serait
+   de considérer devoir comme un évidentiel et pouvoir comme un modal,
+   hypothèse que nous n’avons pas la place d’explorer ici, mais qui
+   suscite encore d’autres difficultés.
+
+3.4. Devoir et pouvoir comme marqueurs « mixtes »
+
+   [120]56 Selon H. Kronning, toutes les « significations » de devoir
+   participent d’une seule et même « nécessité apodictique » qu’il définit
+   comme « le produit d’une composition inférentielle qui dénote
+   l’universalité mondaine (« dans tous les mondes possibles ») dans un
+   certain univers modal U[M ]» (1996 : 29-30). Dans cette définition,
+   toutes les interprétations – épistémiques comme radicales – du modal
+   sont de nature et modale et (évidentielle) inférentielle. De la même
+   façon, toutes les « significations » de pouvoir ressortissent à la
+   « problématicité » définie, tout comme l’apodicticité, en termes
+   d’inférence, mais contrairement à cette dernière, en termes d’existence
+   mondaine (« dans au moins un monde possible ») (op. cit. : 32-33).
+   Ainsi, un énoncé tel que (23) peut être paraphrasé par (24), et un
+   énoncé tel que (25) par (26) :
+
+   [121]57
+   (23)
+   Aaron a dû l’étrangler. (Kronning, 1996 : 31)
+
+   [122]58
+   (24)
+   Dans tous les mondes possibles (?m) d’un certain univers modal UM,
+   l’état de choses p (‘Aaron l’avoir étranglé(e)’) est le cas. (ibid.)
+
+   [123]59
+   (25)
+   Aaron a pu l’étrangler. (d’après Kronning, 1996 : 31)
+
+   [124]60
+   (26)
+   Dans au moins un monde possible (?m) d’un certain univers modal UM,
+   l’état de choses p (‘Aaron l’avoir étranglé(e)’) est le cas.
+
+   [125]61 L’universalité mondaine (nécessité) dénotée par devoir et
+   l’existence mondaine (possibilité) dénotée par pouvoir étant toutes
+   deux le produit d’une inférence, le caractère évidentiel des modaux ne
+   constitue pas ici non plus un critère discriminatoire (Kronning, 2003 :
+   141).
+
+4. POUR UNE SÉMANTIQUE MODALE ET UNE PRAGMATIQUE « INFÉRENTIELLE » DES VERBES
+MODAUX
+
+   [126]62 Si nous partageons la conception de H. Kronning selon laquelle
+   les modaux se distinguent en termes de quantification modale et non en
+   termes d’évidentialité, il nous semble qu’un trait « évidentialité »
+   n’a pas besoin d’entrer dans la sémantique de devoir ou pouvoir
+   puisqu’il ne constitue pas un trait discriminant. Nous ne considérons
+   donc pas les verbes modaux comme des marqueurs mixtes : ils restent
+   simplement modaux, communiquant une nécessité ou une possibilité. Leur
+   caractère « évidentiel » n’intervient que secondairement dans le
+   processus interprétatif : le destinataire décode une possibilité ou une
+   nécessité, et dérive telle ou telle interprétation en considérant,
+   entre autres, les evidences qu’il a pu récupérer (ou non, dans le cas
+   des interprétations épistémiques subjectives) co (n) textuellement.
+   Nous proposerons donc infra une analyse pour laquelle les verbes modaux
+   suscitent des inférences évidentielles au niveau pragmatique.
+
+4.1. Interprétations épistémiques objectives vs subjectives et inférence
+
+   [127]63 Dans la conception de J. Lyons (1977), un énoncé tel que (27)
+   sera interprété comme objectif si dans le contexte est accessible par
+   exemple l’information selon laquelle Alfred appartient à un groupe de
+   personnes dont la plupart est célibataire. Si une telle information
+   n’est pas accessible, l’énoncé sera interprété comme communiquant une
+   probabilité subjective.
+
+   [128]64
+   (27)
+   Alfred doit être célibataire. (d’après Lyons, 1997 : 797, notre
+   traduction)
+
+   [129]65 Ainsi, c’est le fait que des indices ou prémisses soient
+   accessibles au destinataire qui permettra une interprétation objective
+   d’un modal épistémique [130][14]. J. Nuyts (2001), qui développe cette
+   idée, préfère pour cette raison l’appellation « intersubjective » à
+   l’appellation « objective » : la modalité épistémique sera objective si
+   et seulement si les evidences sont partagés. Si les evidences ne sont
+   pas partagés, l’interlocuteur ne peut savoir sur quelles bases le
+   locuteur raisonne, et la modalité exprimée reste “externally
+   inscrutable” (Papafragou 2006 et supra § 2.2), donc subjective.
+
+   [131]66 Concernant l’interprétation aléthique de devoir (qui ne se
+   distingue pas toujours facilement de l’épistémique objectif, cf.
+   Lyons 1977), l’accès aux evidences est ici aussi déterminant. S’il est
+   vrai par exemple que les propositions analytiques sont vraies par
+   définition (cf. note 11), (28) ne sera pas interprété comme aléthique,
+   exprimant une nécessité absolue, si le destinataire n’a absolument
+   aucune connaissance de géométrie (quoique le destinataire « ignorant »
+   inférera certainement la majeure manquante).
+
+   [132]67
+   (28)
+   Cette figure doit être un cercle puisque la distance de chaque point de
+   la circonférence au centre est partout identique. (Dendale, 1994 : 34)
+
+   [133]68 Devoir aléthique et épistémique objectif, tous deux
+   véridicibles (§ 2.4), se discriminent cependant par la force de la
+   prémisse majeure, qui souffre d’exception en (27), mais pas en (28),
+   toute courbe plane fermée dont tous les points sont à égale distance
+   d’un centre étant un cercle.
+
+4.2. Le rôle de l’inférence dans les interprétations radicales
+
+   [134]69 L’universalité mondaine (nécessité) dénotée par devoir et
+   l’existence mondaine (possibilité) dénotée par pouvoir sont toutes deux
+   le produit d’une inférence (cf. Kronning 1996 ; § 3.4). De nombreux
+   auteurs (Dendale 1994 ; Tasmowski & Dendale 1994 ; Dendale & De
+   Mulder 1996 ; Desclés & Guentchéva 2001, entre autres) ont montré
+   l’importance du caractère inférentiel de devoir et pouvoir
+   épistémiques. H. Kronning (1996) ou C. Rossari et al. (2007) étendent
+   l’analyse « évidentielle » aux emplois radicaux. Par exemple, (29) est
+   le produit de la composition inférentielle (30) selon H. Kronning :
+
+   [135]70
+   (29)
+   Louis XIV doit être honoré. (Kronning, 1996 : 31)
+
+   [136]71
+   (30)
+   Les Rois doivent être honorés :
+   Louis XIV est Roi ;
+   Donc Louis XIV. doit être honoré. (ibid.)
+
+   [137]72 La reconnaissance du raisonnement inférentiel dont procède le
+   modal en emploi radical permet de distinguer les différents effets de
+   sens (§ 2.1). Ainsi, devoir communique une obligation théorique quand
+   il procède d’une inférence théorique (dont la prémisse majeure est une
+   norme morale, légale, religieuse, etc.) – cf. (29) ou (4) § 2.1 –, et
+   une obligation pratique quand il procède d’une inférence pratique – cf.
+   (31) ou (5) § 2.1 :
+
+   [138]73
+   (31)
+   Pour atteindre le boulevard Montparnasse, j’ai dû me frayer un chemin à
+   travers les couples dansants.
+   But : Je veux atteindre le boulevard Montparnasse.
+   Moyen : Je considère que je n’atteindrai pas le boulevard Montparnasse
+   sans me frayer un chemin à travers les couples dansants.
+   Conclusion : Je dois me frayer un chemin à travers les couples
+   dansants. (Kronning, 1996 : 112)
+
+   [139]74 On peut étendre l’analyse « évidentielle » à pouvoir déontique
+   et retrouver de la même façon l’inférence théorique dont procède une
+   occurrence de pouvoir de permission :
+
+   [140]75
+   (32)
+   L’agent spécial ne peut pas continuer d’agir seul maintenant qu’il y a
+   un cadavre. (Robbe-Grillet, Les Gommes, 1952)
+   Les agents spéciaux peuvent/sont autorisés à mener leurs enquêtes seuls
+   tant qu’il n’y a pas de meurtre
+   Il y a eu un meurtre ;
+   Donc l’agent spécial ne peut pas continuer d’agir seul.
+
+   [141]76 Concernant la capacité ou la possibilité matérielle (§ 2.1), la
+   récupération d’un raisonnement inférentiel est peut-être moins
+   évidente. Certes, certaines occurrences de pouvoir de possibilité
+   matérielle semblent clairement être le résultat d’une inférence
+   pratique, cf. (33), cependant, dans le cas de (34) par exemple, la
+   chose est moins évidente :
+
+   [142]77
+   (33)
+   Pas de problème : pour venir chez moi, tu peux atterrir sur la piste de
+   Nizas. Elle est assez longue, mais en herbe. Si tu viens en hélico, tu
+   peux te poser devant la maison. (Google)
+
+   [143]78
+   (34)
+   Il n’a pas pu prendre de petit déjeuner ce matin : pas de café avant
+   huit heures dans ce bistrot où il a trouvé une chambre. (Robbe-Grillet,
+   Les Gommes, 1952)
+
+   [144]79 De plus, faut-il considérer que l’énoncé (1) avec pouvoir de
+   capacité Dupont n’était pas mort, il pouvait même marcher tant bien que
+   mal est le résultat qu’un raisonnement tel que Quand on n’est pas mort,
+   on peut/est capable de marcher, Dupont n’était pas mort, donc il
+   pouvait marcher ?
+
+   [145]80 L’analyse des inférences à la base des interprétations
+   radicales mériterait d’être approfondie, cependant, on remarque
+   immédiatement qu’une telle conception « inférentielle » des emplois
+   radicaux des modaux soulève une difficulté que note lui-même H.
+   Kronning (1996) : elle peut donner lieu à une régression à l’infini.
+   Ainsi, par exemple, la loi en (30) Les rois doivent être honorés (ou la
+   prémisse en (32) ou celle au paragraphe précédent concernant (1)) est
+   elle-même modalisée, procède donc également d’un raisonnement
+   inférentiel, qui comporte peut-être lui aussi une loi modalisée,
+   résultat d’un raisonnement inférentiel, et ainsi de suite. Cette
+   difficulté constitue un élément supplémentaire pour ne pas considérer
+   les verbes modaux comme fondamentalement inférentiels.
+
+   [146]81 Une conclusion semble donc s’imposer, qui confirme notre
+   hypothèse : les composantes évidentielles du sens sont produites sur la
+   base de la dérivation première d’une composante modale, et n’entrent
+   donc pas dans la détermination de cette composante fondamentale. Qui
+   plus est, alors que les composantes modales semblent intuitivement très
+   fortement présentes et bien circonscrites, les composantes
+   évidentielles inférentielles ne sont pas sans soulever des problèmes de
+   délimitation, notamment du fait que tout énoncé est virtuellement une
+   représentation évidentielle d’inférences.
+
+5. CONCLUSION
+
+   [147]82 Dans la littérature, on a successivement considéré les verbes
+   devoir et pouvoir comme essentiellement modaux ; évidentiels en ce qui
+   concerne leurs emplois épistémiques (§ 3.2) ; évidentio-modaux dans
+   tous leurs emplois (§ 3.4) ; ou encore, en ce qui concerne devoir,
+   comme fondamentalement évidentiel (§ 3.3). Dans cet article, nous avons
+   défendu une approche finalement assez traditionnelle : les verbes
+   modaux sont fondamentalement modaux. Faire de devoir et pouvoir des
+   marqueurs évidentiels conduit à une impasse en ce qu’on n’a plus dès
+   lors de caractéristique discriminatoire : les deux verbes se retrouvent
+   avec la même sémantique si on ne fait intervenir des caractéristiques
+   non évidentielles (au sens restreint). En faire des marqueurs mixtes
+   nous semble inutile en ce que leur part « évidentielle » peut être
+   dérivée de leur sémantique modale et du contexte. Cependant, nous avons
+   tiré profit des études modernes « évidentialisantes » en montrant
+   l’importance que peut revêtir dans le processus interprétatif la
+   récupération des evidences sur lesquels le locuteur s’est fondé pour
+   énoncer une possibilité ou une nécessité exprimée, respectivement, par
+   pouvoir ou devoir.
+
+Notes
+
+     * [148][1]
+       Cette étude bénéficie du soutien du Fond National Suisse pour la
+       recherche scientifique (subside PBNEP1- 134420).
+     * [149][2]
+       Nous garderons dans l’article l’anglais “evidence” dont la
+       traduction en français est mal aisée.
+     * [150][3]
+       Soit quelque chose comme « insondable de l’extérieur », mais nous
+       garderons l’expression anglaise.
+     * [151][4]
+       L’énoncé est acceptable dans le cas d’une interprétation échoïque
+       (Quel jour dis-tu qu’il devait être midi quand tu es arrivé ?).
+     * [152][5]
+       Notamment le fait que les dernières seraient agentives (Huot 1974 ;
+       Roulet 1980 ; Vetters 2004 ; Vetters & Barbet 2006 ; et pour une
+       discussion : Barbet 2010) ou que le syntagme infinitival suivant
+       les premières ne serait pas pronominalisable en le
+       (Tasmowski 1988 ; Guimier 1989 ; Kronning 1996 ; Vetters 2004 ;
+       Busquets & Denis 2001 ; Barbet 2012).
+     * [153][6]
+       “[...] on its subjective reading, [the sentence] expresses the view
+       of someone who reasons on the basis of personal (and perhaps
+       fallible and incomplete) evidence ; on its objective reading, [it]
+       is used to state a conclusion based on (more reliable and complete)
+       scientific data and measurements.” (Papafragou, 2006 : 1691)
+     * [154][7]
+       Notre traduction, d’après la traduction anglaise donnée par
+       Cornillie (2009 : 56).
+     * [155][8]
+       Traduction de Carl Vetters, que nous remercions.
+     * [156][9]
+       À moins de considérer avec Kronning (2003) que le conditionnel
+       « journalistique » a aussi une valeur de modalisation « zéro » (qui
+       n’équivaut pas à une absence de modalisation) et communique ainsi
+       une attitude modale de non prise en charge. Cependant, il nous
+       semble que si l’on peut dériver pragmatiquement de la valeur
+       évidentielle d’emprunt la valeur de non prise en charge (c’est ce
+       que nous pensons, et non l’inverse comme Abouda 2001), il n’est pas
+       nécessaire de lui ajouter une valeur sémantique modale. Nous
+       appliquerons ce genre de principe économique aux verbes modaux.
+     * [157][10]
+       Exemples utilisés par De Haan (2001) et Cornillie (2009).
+       Traduction sous notre responsabilité.
+     * [158][11]
+       Selon nous, le modal est aléthique en (18) comme en (19), et ces
+       énoncés expriment tous deux une nécessité (ou une certitude si l’on
+       veut), simplement en (18) la nécessité est analytique (la
+       proposition est vraie par définition, i.e. en vertu de sa
+       signification), tandis qu’elle est synthétique (vraie en vertu de
+       l’expérience) en (19) (Kronning 1996, 2001).
+     * [159][12]
+       Cf. Saussure (ce volume) pour une position contraire : selon lui,
+       devoir n’encoderait qu’un contenu sémantique sous-déterminé bien
+       que conceptuellement clair (la nécessité).
+     * [160][13]
+       « L’opération de création d’information qui sous-tend l’emploi de
+       devoirE [est] une opération mentale complexe, qui consiste : (i) À
+       générer ou à activer une série de prémisses (majeures et mineures)
+       en fonction de la situation extra-linguistique donnée, (ii) À
+       inférer de ces prémisses une ou plusieurs conclusions virtuelles et
+       (iii) À évaluer ces conclusions – éventuellement à la lumière
+       d’autres prémisses que le locuteur aura cherchées – sur les chances
+       qu’il y a à ses yeux que ces conclusions soient correctes et à
+       rejeter toutes les conclusions inférées, sauf une, qui est
+       présentée par lui comme la seule conclusion valable (au moment de
+       l’énonciation), si les prémisses activées sont correctes. »
+       (Dendale, 1994 : 27)
+     * [161][14]
+       Le même raisonnement vaut pour pouvoir épistémique subjectif vs.
+       objectif.
+
+Résumé
+
+   English
+
+The French modal verbs ‘devoir’ and ‘pouvoir’, modals or evidentials ?
+
+   Several hypotheses have been proposed regarding the link between
+   modality as expressed by the so- called modal verbs devoir or pouvoir
+   in French and evidentiality (mainly inferential evidentiality) : (i)
+   traditionally these verbs are considered modal ; (ii) more recently
+   they have been thought of as “mixed” (evidential-modal) or (iii)
+   basically evidential for what concerns their epistemic uses. Finally
+   devoir has been presented as fundamentally evidential, without
+   distinction of its various readings. It is argued here that an analysis
+   exclusively made in terms of evidentiality is not conclusive and that
+   modal verbs do indeed have modality as their semantic basis.
+   Nevertheless, we draw upon findings from “evidentiality-oriented”
+   studies and point out that the interpretation of devoir and pouvoir,
+   notably for what concerns their subjective vs objective epistemic
+   readings, depends on the contextual retrieval by the hearer of the
+   evidences involved.
+
+Keywords
+
+     * modality
+     * evidentiality
+     * modal verbs
+     * inference
+     * epistemic objective modality
+     * epistemic objective modality
+
+   Français
+
+   Plusieurs positions sont représentées dans la littérature concernant le
+   lien entre la modalité telle qu’exprimée par devoir ou pouvoir et
+   l’évidentialité (inférentielle notamment) : traditionnellement, ces
+   verbes sont considérés comme modaux ; on les a également décrits comme
+   « mixtes », i.e. évidentio-modaux ; ou encore évidentiels en ce qui
+   concerne leurs emplois épistémiques ; et, récemment, on a défendu que
+   devoir était un marqueur fondamentalement évidentiel, sans distinction
+   de ses différents emplois. Nous défendons, dans cet article, que devoir
+   et pouvoir sont sémantiquement modaux, une analyse exclusivement en
+   termes d’évidentialité menant à une impasse. Cependant, nous tirons
+   profit des analyses « évidentialisantes » en montrant que la
+   récupération contextuelle par le destinataire des “evidences” est
+   déterminante notamment en ce qui concerne leurs interprétations
+   épistémiques subjectives vs objectives.
+
+Mots-clefs
+
+     * modalité
+     * évidentialité
+     * verbes modaux
+     * inférence
+     * modalité épistémique objective
+     * modalité épistémique subjective
+     * véridicibilité
+
+Plan
+
+    1. [162]1. INTRODUCTION1
+    2. [163]2. INTERPRÉTATIONS DE DEVOIR ET POUVOIR
+    3.
+         1. [164]2.1. Interprétations radicales
+         2. [165]2.2. Interprétations épistémiques
+         3. [166]2.3. Interprétations aléthiques
+         4. [167]2.4. Interprétations épistémiques subjectives et
+            objectives
+    4. [168]3. LES VERBES MODAUX, DES MARQUEURS MODAUX OU ÉVIDENTIELS ?
+    5.
+         1. [169]3.1. De la pertinence de distinguer évidentialité
+            inférentielle et modalité épistémique
+         2. [170]3.2. Devoir et pouvoir épistémiques comme marqueurs
+            évidentiels
+         3. [171]3.3. Devoir fondamentalement évidentiel
+         4. [172]3.4. Devoir et pouvoir comme marqueurs « mixtes »
+    6. [173]4. POUR UNE SÉMANTIQUE MODALE ET UNE PRAGMATIQUE
+       « INFÉRENTIELLE » DES VERBES MODAUX
+    7.
+         1. [174]4.1. Interprétations épistémiques objectives vs
+            subjectives et inférence
+         2. [175]4.2. Le rôle de l’inférence dans les interprétations
+            radicales
+    8. [176]5. CONCLUSION
+
+Bibliographie
+
+Références bibliographiques
+
+     * ABOUDA L. (2001), « Les emplois journalistique, polémique, et
+       atténuatif du conditionnel. Un traitement unitaire », in P. Dendale
+       & L. Tasmowski (éds), Le conditionnel en français, Paris :
+       Klincksieck, 277-294.
+     * AUWERA J. van der & PLUNGIAN V.A. (1998), “Modality’s semantic
+       map”, Linguistic Typology 2, 79-124.
+     * BARBET C. (2010), « Le verbe modal devoir en français médiéval et
+       contemporain : hypothèses pragmatiques sur le changement
+       sémantique », in B. Combettes, C. Guillot & E. Oppermann-Marsaux
+       (éds), Le changement en français : études de linguistique
+       diachronique, Bern : Peter Lang, 19-40.
+     * BARBET C. (2012), « Ça peut être bon à ce prix-là : une ironie par
+       anti-phrase », in L. de Saussure & A. Rihs (éds), Études de
+       sémantique et pragmatique françaises, Bern : Peter Lang.
+     * BARBET C. & SAUSSURE L. DE (sous presse), “Sporadic aspect as a
+       pragmatic enrichment of dynamic root modality”, Cahiers Chronos.
+     * BARBET C. & VETTERS C. (2012), « Pour une étude diachronique du
+       verbe modal pouvoir en français. Les emplois postmodaux » (à par.
+       dans Cahiers Chronos).
+     * BUSQUETS J. & DENIS P. (2001), « L’Ellipse modale en français »,
+       Cahiers de grammaire 26, 55-74.
+     * CORNILLIE B. (2009), “Evidentiality and epistemic modality : On the
+       close relationship of two different categories”, Functions of
+       Language 16 (1), 44-62.
+     * DE HAAN F. (1999), “Evidentiality and epistemic modality : Setting
+       boundaries”, Southwest Journal of Linguistics 18, 83-101.
+     * DE HAAN F. (2001), “The relation between modality and
+       evidentiality”, in R. Müller & M. Reis (eds), Modalität und
+       Modalverben im Deutschen, Hamburg : Helmut Buske, 201-216.
+     * [177]En ligne DENDALE P. (1994), « Devoir épistémique, marqueur
+       modal ou évidentiel ? », Langue française 102, 24-40.
+     * DENDALE P. & DE MULDER W. (1996), « Déduction ou abduction : le cas
+       de devoir inférentiel », in Z. Guentchéva (éd.), L’énonciation
+       médiatisée, Louvain/Paris : Peeters, 305-318.
+     * DENDALE P. & TASMOWSKI L. (1994), « Présentation. L’évidentialité
+       ou le marquage des sources du savoir », Langue française 102, 3-7.
+     * DENDALE P. & TASMOWSKI L. (2001), “Introduction : Evidentiality and
+       related notions”, Journal of Pragmatics 33, 339-348.
+     * [178]En ligne DESCLÉS J.-P. & GUENTCHÉVA Z. (2001), « La notion
+       d’abduction et le verbe devoir ‘épistémique’ », Cahiers Chronos 8,
+       103-122.
+     * [179]En ligne GUIMIER C. (1989), « Constructions syntaxiques et
+       interprétations de pouvoir », Langue française 84, 9-23.
+     * HUOT H. (1974), Le verbe ‘devoir’. Étude synchronique et
+       diachronique, Paris : Klincksieck.
+     * KLEIBER G. (1983), « L’emploi ‘sporadique’ du verbe pouvoir en
+       français », in J. David & G. Kleiber (éds), La notion
+       sémantico-logique de modalité, Paris : Klincksieck, 183-203.
+     * KRONNING H. (1996), Modalité, cognition et polysémie : sémantique
+       du verbe modal ‘devoir’, Uppsala/Stockholm : Almqvist & Wiksell
+       International.
+     * [180]En ligne KRONNING H. (2001), « Pour une tripartition des
+       emplois du modal devoir », Cahiers Chronos 8, 67-84.
+     * KRONNING H. (2003), « Modalité et évidentialité », in M. Birkelund,
+       G. Boysen & P.S. Kjærsgaard (éds), Aspects de la modalité,
+       Tübingen : Max Niemeyer, 131-151.
+     * LE QUERLER N. (1996), Typologie des modalités, Caen : Presses
+       Universitaires de Caen.
+     * [181]En ligne LE QUERLER N. (2001), « La place du verbe modal
+       pouvoir dans une typologie des modalités », Cahiers Chronos 8,
+       17-32.
+     * LYONS J. (1977), Semantics, Cambridge : Cambridge University Press.
+     * NUYTS J. (2001), “Subjectivity as an evidential dimension in
+       epistemic modal expressions”, Journal of Pragmatics 33, 383-400.
+     * PALMER F. (1986), Mood and modality, Cambridge : Cambridge
+       University Press.
+     * PAPAFRAGOU A. (2000), Modality : Issues in the Semantics-Pragmatics
+       interface, Amsterdam : Elsevier.
+     * PAPAFRAGOU A. (2006), “Epistemic modality and truth conditions”,
+       Lingua 116, 1688-1702.
+     * PLUNGIAN V.A. (2001), “The place of evidentiality within the
+       universal grammatical space”, Journal of Pragmatics 33, 349-357.
+     * Rossari C. et al. (2007), « Devoir et l’évidentialité en français
+       et en roumain », Discours 1 [http://discours.revues.org/116].
+     * [182]En ligne ROULET E. (1980), « Modalité et illocution, pouvoir
+       et devoir dans les actes de permission et de requête »,
+       Communications 32, 216-239.
+     * [183]En ligne SAUSSURE L. DE (2012), « Modalité épistémique,
+       évidentialité et dépendance contextuelle », Langue française 173,
+       Paris : Armand Colin (ce volume).
+     * SUEUR J.-P. (1979), « Une analyse sémantique des verbes devoir et
+       pouvoir », Le français moderne 47 (2), 97-120.
+     * SUEUR J.-P. (1983), « Les verbes modaux sont-ils ambigus ? », in J.
+       David & G. Kleiber (éds), La notion sémantico-logique de modalité,
+       Paris : Klincksieck, 165-182.
+     * SWEETSER E. (1990), From etymology to pragmatics : metaphorical and
+       cultural aspects of semantic structure, Cambridge : Cambridge
+       University Press.
+     * TASMOWSKI L. (1988), « Un devoir opérateur », Travaux de
+       linguistique 7, 43-58.
+     * [184]En ligne TASMOWSKI L. & DENDALE P. (1994), « PouvoirE, un
+       marqueur d’évidentialité », Langue française 102, 41-55.
+     * [185]En ligne VETTERS C. (2004), « Les verbes modaux pouvoir et
+       devoir en français », Revue Belge de Philologie et d’Histoire 82,
+       657-671.
+     * VETTERS C. (2007), « Pouvoir sporadique est-il aléthique ? »,
+       Cahiers Chronos 19, 63-78.
+     * [186]En ligne VETTERS C. (2012), « Modalité et évidentialité dans
+       pouvoir et devoir : typologie et discussions », Langue
+       française 173, Paris : Armand Colin (ce volume).
+     * [187]En ligne VETTERS C. & BARBET C. (2006), « Les emplois
+       temporels des verbes modaux en français : le cas de devoir »,
+       Cahiers de praxématique 47, 191-214.
+     * WILLETT T. (1988), “A Cross-Linguistic Survey of the
+       Grammaticization of Evidentiality”, Studies in language 12, 51-97.
+
+Auteur
+
+   Cécile Barbet
+   Université de Cambridge – Université de Neuchâtel – Université du
+   Littoral – Côte d’Opale & Laboratoire HLLI (EA 4030)
+   Dernière publication diffusée sur Cairn.info ou sur un portail
+   partenaire
+   [188][SS_016.jpg?fallback=true]
+     * [189]Les verbes modaux sont-ils polysémiques ? Données d’eye
+       tracking en lecture
+     * Dans [190]Syntaxe & Sémantique [191]2015/1 (N° 16)
+
+   [192]Résumé[193] Consulter[194]file_download Télécharger
+
+Cité par
+
+   [loading.gif]
+
+Sur un sujet proche
+
+          Mis en ligne sur Cairn.info le 07/05/2012
+          [195]https://doi.org/10.3917/lf.173.0049
+
+   [196]Précédent [197]Suivant
+
+   [198]Ajouter [199]Suivre
+
+   (BUTTON) clear
+
+Citer cet article [200]Français
+
+   ISO 690 FR [201]Copier BARBET Cécile, « Devoir et pouvoir, des
+   marqueurs modaux ou évidentiels ? », Langue française, 2012/1 (n°173),
+   p. 49-63. DOI : 10.3917/lf.173.0049. URL :
+   https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm
+   MLA FR [202]Copier Barbet, Cécile. « Devoir et pouvoir, des marqueurs
+   modaux ou évidentiels ? », Langue française, vol. 173, no. 1, 2012, pp.
+   49-63.
+   APA FR [203]Copier Barbet, C. (2012). Devoir et pouvoir, des marqueurs
+   modaux ou évidentiels ?. Langue française, 173, 49-63.
+   [204]https://doi.org/10.3917/lf.173.0049
+   DOI [205]Copier [206]https://doi.org/10.3917/lf.173.0049
+
+Exporter la citation
+
+   [207]file_downloadZotero (.ris) [208]file_downloadEndNote (.enw)
+   [209]open_in_new RefWorks
+
+   Pour citer cet article
+
+   Distribution électronique Cairn.info pour Armand Colin © Armand Colin.
+   Tous droits réservés pour tous pays. Il est interdit, sauf accord
+   préalable et écrit de l’éditeur, de reproduire (notamment par
+   photocopie) partiellement ou totalement le présent article, de le
+   stocker dans une banque de données ou de le communiquer au public sous
+   quelque forme et de quelque manière que ce soit.
+
+   (BUTTON) clear
+
+Mon Cairn.info
+
+   Aujourd’hui, Cairn diffuse plus de 400 000 articles de revues et en
+   ajoute 2 500 nouveaux tous les mois. Comment repérer l’essentiel ?
+   Comment ne rien laisser passer ?
+
+   CAIRN.INFO : Matières à réflexion CAIRN.INFO : Matières à réflexion
+   Avec le soutien du Avec leur soutien [210]CNL [211]CNRS
+     * [212]À propos
+     * [213]Éditeurs
+     * [214]Particuliers
+     * [215]Bibliothèques
+     * [216]Organisations
+
+     * [217]Abonnement Cairn Pro
+     * [218]Listes publiques
+     * [219]Dossiers
+     * [220]Rencontres
+     * [221]Contact
+
+     * [222]Cairn International (English)
+     * [223]Cairn Mundo (Español)
+     * [224]Cairn Sciences (Français)
+     * [225]Authentification hors campus
+     * [226]Aide
+
+   © Cairn.info 2023 | [227]Conditions générales d’utilisation |
+   [228]Conditions générales de vente | [229]Politique de confidentialité
+
+   Cairn.info
+
+   [230]keyboard_arrow_up
+
+   (BUTTON) clear
+
+Connexion fermée
+
+   Vous avez été déconnecté car votre compte est utilisé à partir d'un
+   autre appareil.
+
+   Chargement
+   Chargement en cours.
+   Veuillez patienter...
+
+   [about.php?cairn_guest=2023112717011157762013]
+
+   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas à un
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear le mot de passe saisi ne correspond pas au
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear erreur à l'authentification.
+
+Références
+
+   Liens visibles :
+   1. https://www.cairn.info/
+   2. https://www.cairn.info/
+   3. javascript:void(0);
+   4. javascript:void(0);
+   5. https://www.cairn.info/recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
+   6. https://aide.cairn.info/article/113-comment-optimiser-mes-recherches-sur-cairn-info
+   7. javascript:void(0);
+   8. https://www.cairn.info/mdp_oublie.php
+   9. https://www.cairn.info/creer_compte.php
+  10. https://www.cairn.info/acces_hors.php?redirectOnSuccess=pIDHUeLtG0b597RJsDPMnA==_gNopdCvaOBrNv1/udk97nCPLaUlpo5hY73XkDOkoRIV+9b522Uk0e6pUgl2tY61h
+  11. javascript:void(0);
+  12. https://www.cairn-int.info/
+  13. https://www.cairn-int.info/
+  14. https://www.cairn-mundo.info/
+  15. https://www.cairn-mundo.info/
+  16. https://www.cairn.info/Accueil_Revues.php
+  17. https://www.cairn.info/ouvrages.php
+  18. https://www.cairn.info/que-sais-je-et-reperes.php
+  19. https://www.cairn.info/magazines.php
+  20. https://www.cairn.info/mon_cairn.php
+  21. https://www.cairn.info/
+  22. https://www.cairn.info/Accueil_Revues.php
+  23. https://www.cairn.info/revue-langue-francaise.htm
+  24. https://www.cairn.info/revue-langue-francaise-2012-1.htm
+  25. https://www.cairn.info/revue-langue-francaise-2012-1.htm
+  26. https://www.cairn.info/connexion.php?from=suivre&type=publication-auteur-article&id=85104
+  27. https://www.cairn.info/publications-de-Cécile-Barbet--85104.htm
+  28. https://www.cairn.info/revue-langue-francaise.htm
+  29. https://www.cairn.info/revue-langue-francaise-2012-1.htm
+  30. javascript:void(0);
+  31. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=LF_173_0049&type=biblio
+  32. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=LF
+  33. https://www.cairn.info/revue-langue-francaise-2012-1-page-31.htm
+  34. https://www.cairn.info/revue-langue-francaise-2012-1-page-65.htm
+  35. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#article
+  36. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#resume
+  37. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#plan
+  38. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#bibliographie
+  39. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#auteur
+  40. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#citepar
+  41. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#sujetproche
+  42. javascript:void(0);
+  43. javascript:void(0);
+  44. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#article
+  45. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#resume
+  46. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#plan
+  47. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#bibliographie
+  48. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#auteur
+  49. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#citepar
+  50. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#sujetproche
+  51. javascript:void(0);
+  52. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no24
+  53. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa1
+  54. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa2
+  55. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no25
+  56. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa3
+  57. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa4
+  58. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa5
+  59. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa6
+  60. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa7
+  61. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa8
+  62. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa9
+  63. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa10
+  64. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa11
+  65. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa12
+  66. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa13
+  67. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa14
+  68. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa15
+  69. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa16
+  70. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa17
+  71. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa18
+  72. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no26
+  73. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa19
+  74. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa20
+  75. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no27
+  76. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa21
+  77. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no28
+  78. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa22
+  79. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa23
+  80. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa24
+  81. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa25
+  82. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa26
+  83. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa27
+  84. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa28
+  85. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa29
+  86. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa30
+  87. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no29
+  88. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa31
+  89. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa32
+  90. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa33
+  91. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa34
+  92. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa35
+  93. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa36
+  94. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no30
+  95. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa37
+  96. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no31
+  97. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa38
+  98. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no32
+  99. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa39
+ 100. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa40
+ 101. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa41
+ 102. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no33
+ 103. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa42
+ 104. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa43
+ 105. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa44
+ 106. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no34
+ 107. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa45
+ 108. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa46
+ 109. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa47
+ 110. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa48
+ 111. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no35
+ 112. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa49
+ 113. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no36
+ 114. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa50
+ 115. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa51
+ 116. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa52
+ 117. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa53
+ 118. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa54
+ 119. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa55
+ 120. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa56
+ 121. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa57
+ 122. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa58
+ 123. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa59
+ 124. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa60
+ 125. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa61
+ 126. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa62
+ 127. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa63
+ 128. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa64
+ 129. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa65
+ 130. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#no37
+ 131. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa66
+ 132. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa67
+ 133. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa68
+ 134. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa69
+ 135. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa70
+ 136. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa71
+ 137. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa72
+ 138. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa73
+ 139. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa74
+ 140. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa75
+ 141. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa76
+ 142. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa77
+ 143. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa78
+ 144. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa79
+ 145. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa80
+ 146. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa81
+ 147. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#pa82
+ 148. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re1no24
+ 149. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re2no25
+ 150. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re3no26
+ 151. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re4no27
+ 152. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re5no28
+ 153. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re6no29
+ 154. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re7no30
+ 155. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re8no31
+ 156. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re9no32
+ 157. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re10no33
+ 158. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re11no34
+ 159. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re12no35
+ 160. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re13no36
+ 161. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#re14no37
+ 162. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s1n1
+ 163. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s1n2
+ 164. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n1
+ 165. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n2
+ 166. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n3
+ 167. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n4
+ 168. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s1n3
+ 169. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n5
+ 170. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n6
+ 171. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n7
+ 172. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n8
+ 173. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s1n4
+ 174. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n9
+ 175. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s2n10
+ 176. https://www.cairn.info/revue-langue-francaise-2012-1-page-49.htm#s1n5
+ 177. https://doi.org/10.3406/lfr.1994.5712
+ 178. https://doi.org/10.1163/9789004488021_009
+ 179. https://doi.org/10.3406/lfr.1989.4782
+ 180. https://doi.org/10.1163/9789004488021_007
+ 181. https://doi.org/10.1163/9789004488021_004
+ 182. https://doi.org/10.3406/comm.1980.1486
+ 183. https://doi.org/10.3917/lf.173.0131
+ 184. https://doi.org/10.3406/lfr.1994.5713
+ 185. https://doi.org/10.3406/rbph.2004.4851
+ 186. https://doi.org/10.3917/lf.173.0031
+ 187. https://doi.org/10.4000/praxematique.2824
+ 188. https://www.cairn.info/revue-syntaxe-et-semantique-2015-1-page-173.htm
+ 189. https://www.cairn.info/revue-syntaxe-et-semantique-2015-1-page-173.htm
+ 190. https://www.cairn.info/revue-syntaxe-et-semantique.htm
+ 191. https://www.cairn.info/revue-syntaxe-et-semantique-2015-1.htm
+ 192. https://www.cairn.info/revue-syntaxe-et-semantique-2015-1-page-173.htm?contenu=resume
+ 193. https://www.cairn.info/revue-syntaxe-et-semantique-2015-1-page-173.htm
+ 194. javascript:void(0);
+ 195. https://doi.org/10.3917/lf.173.0049
+ 196. https://www.cairn.info/revue-langue-francaise-2012-1-page-31.htm
+ 197. https://www.cairn.info/revue-langue-francaise-2012-1-page-65.htm
+ 198. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=LF_173_0049&type=biblio
+ 199. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=LF
+ 200. javascript:void(0);
+ 201. javascript:void(0);
+ 202. javascript:void(0);
+ 203. javascript:void(0);
+ 204. https://doi.org/10.3917/lf.173.0049
+ 205. javascript:void(0);
+ 206. https://doi.org/10.3917/lf.173.0049
+ 207. https://www.cairn.info//Tools/exports/export-zotero.php?ID_ARTICLE=LF_173_0049
+ 208. https://www.cairn.info//Tools/exports/export-endnote.php?ID_ARTICLE=LF_173_0049
+ 209. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=LF_173_0049
+ 210. http://www.centrenationaldulivre.fr/
+ 211. http://www.cnrs.fr/
+ 212. https://www.cairn.info/a-propos.php
+ 213. https://www.cairn.info/services-aux-editeurs.php
+ 214. https://www.cairn.info/services-aux-particuliers.php
+ 215. https://www.cairn.info/services-aux-institutions.php
+ 216. https://www.cairn.info/services-aux-organisations.php
+ 217. https://www.cairn.info/pro
+ 218. https://www.cairn.info/listes-publiques.php
+ 219. https://www.cairn.info/dossiers.php
+ 220. https://www.cairn.info/rencontres.php
+ 221. https://www.cairn.info/contact.php
+ 222. https://www.cairn-int.info/
+ 223. https://www.cairn-mundo.info/
+ 224. https://www.cairn-sciences.info/
+ 225. https://www.cairn.info/acces_hors.php?redirectOnSuccess=pIDHUeLtG0b597RJsDPMnA==_gNopdCvaOBrNv1/udk97nCPLaUlpo5hY73XkDOkoRIV+9b522Uk0e6pUgl2tY61h
+ 226. https://aide.cairn.info/
+ 227. https://www.cairn.info/conditions.php
+ 228. https://www.cairn.info/conditions-generales-de-vente.php
+ 229. https://www.cairn.info/vie-privee.php
+ 230. javascript:void(0);
+
+   Liens cachés :
+ 232. javascript:void(0);
+ 233. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=SS_016_0173&type=biblio
