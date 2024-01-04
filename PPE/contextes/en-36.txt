@@ -1,0 +1,35 @@
+          + Value added tax (VAT)
+          + VAT and Administrative Cooperation
+          + Excise duties
+          + Tax Co-operation and control
+          + Economic analysis of taxation
+--
+          + AEO (Authorised Economic Operator)
+          + Prohibitions and Restrictions
+          + Calculation of customs duties
+          + Customs controls
+          + Customs Laboratories
+--
+    2. (BUTTON) …
+    3. Customs
+    4. Calculation of customs duties
+    5. Customs Tariff
+    6. EU Customs Tariff (TARIC)
+--
+
+     * Tariff measures
+          + "Third country duty”, customs duty applicable to all imports
+            originating in a non-EU country/territory, as defined in the
+            Combined Nomenclature
+--
+     * Agricultural measures
+          + Agricultural components
+          + Additional duties on sugar, on sugar content and on flour
+            content
+          + Representative prices for poultry
+--
+            vegetables
+     * Trade Defence instruments
+          + Antidumping duties and countervailing duties
+          + Safeguard measures
+     * Prohibitions and restrictions to import and export

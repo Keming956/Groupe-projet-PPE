@@ -1,0 +1,465 @@
+    #Page d'accueil Page d'accueil Page d'accueil Recherche
+
+     * Aller directement à la navigation
+     * Aller directement au contenu
+     * Aller directement à la recherche
+
+   (BUTTON) MENU
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   (BUTTON) voir plus
+   (BUTTON) ZH
+     * FR
+     * EN
+     * DE
+     * ES
+     * AR
+     * ZH
+
+   Ministère de la culture
+     * (BUTTON) 新闻
+          + (BUTTON) fermer le menu
+            新闻 (BUTTON) Retour
+               o 新闻
+               o À la Une
+               o (BUTTON) Dossiers
+                 Dossiers
+                    # 203.文化部的预算
+                    # Ma bibliothèque : le monde à portée de main
+                    # 文化奥林匹克，文化与体育之间的对话
+                    # 支持文化乌克兰:文化部动员
+                    # 264 projets pour des Mondes nouveaux
+                    # 文化和创意产业加速战略
+                    # France Relance : Redynamiser notre modèle culturel
+                    # États généraux des festivals : un modèle �
+                      réinventer
+               o 国家活动
+     * (BUTTON) 了解我们
+          + (BUTTON) fermer le menu
+            了解我们 (BUTTON) Retour
+               o 了解我们
+               o Rima Abdul Malak,文化部长
+               o 部长办公室
+               o (BUTTON) 了解部门
+                 了解部门
+                    # Organisation du ministère
+                    # Histoire du ministère
+                    # 国家活动
+                    # 保护，标签和名称
+                    # 203.文化部的预算
+               o (BUTTON) 就业和培训
+                 就业和培训
+                    # 就业-学徒
+                    # 竞赛和专业考试
+                    # 贸易指南
+                    # 警察作证
+                    # Service civique
+                    # 职业培训
+     * (BUTTON) 辅助和程序
+          + (BUTTON) fermer le menu
+            辅助和程序 (BUTTON) Retour
+               o 辅助和程序
+               o Aides, démarches et subventions
+               o (BUTTON) Appels à projets et à candidatures
+                 Appels à projets et à candidatures
+                    # Appels à projets du ministère de la Culture
+                    # Appels à projets des partenaires (opérateurs,
+                      organismes labellisés ou subventionnés)
+               o 公共采购
+               o 保护，标签和名称
+     * (BUTTON) 文档
+          + (BUTTON) fermer le menu
+            文档 (BUTTON) Retour
+               o 文档
+               o Rechercher une publication
+               o 数据库
+               o Sites internet et multimédias
+               o 信息资源清单
+     * (BUTTON) 区域
+          + (BUTTON) fermer le menu
+            (BUTTON) 区域
+               o DRAC Auvergne - Rhône ó n-Alpes.
+               o DRAC Bourgogne-Franche-Comt é
+               o DRAC Bretagne.
+               o DRAC Center-Val de Loire
+               o DRAC Corse
+               o DRAC Grand Est
+               o DAC瓜德罗普岛
+               o DCJS Guyana.
+               o DRAC上法兰西岛
+               o DRAC Île è s-de-France.
+               o DAC马提尼克岛
+               o DAC马约特
+               o DRAC Normandie
+               o DRAC Nouvelle-Aquitaine
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
+               o Drac Occitanie
+               o Dac of Reunion Island
+               o DRAC Pays de la Loire.
+               o Mission aux affaires culturelles de Polynésie Française
+               o Drac Provence-Alpes-Côte d'Azur
+               o Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) 专题
+          + (BUTTON) fermer le menu
+            (BUTTON) 专题
+               o (BUTTON) 行业和企业
+                    # 体系结构
+                    # 存档
+                    # 2019年：考古学
+                    # 塑料艺术
+                    # 视听
+                    # 电影院
+                    # 舞蹈
+                    # 设计
+                    # 文化和创意产业
+                    # 书籍和阅读
+                    # 模式
+                    # 纪念碑和遗址
+                    # 音乐
+                    # 博物馆
+                    # 工艺品
+                    # 摄影
+                    # 打印介质
+                    # 剧院，表演
+               o (BUTTON) 公共政策
+                    # 文化物品的流动
+                    # 保护-恢复
+                    # 文化和领土
+                    # 文化发展
+                    # 艺术和文化教育
+                    # 媒体和信息素养
+                    # 平等和多样性
+                    # 高等教育和研究
+                    # 法国民族学
+                    # 研究和统计
+                    # 欧洲和国�
+                    # 数字创新
+                    # 法语和法国语言
+                    # 赞助
+                    # 非物质文化遗产
+                    # 遗产科学
+                    # 安全-安全
+     *
+          + Facebook
+          + X
+          + Instagram
+          + Youtube
+          + Soundcloud
+          + Linkedin
+          + Flux de dépêches
+
+     * (BUTTON) 区域
+          + (BUTTON) fermer le menu
+               o DRAC Auvergne - Rhône ó n-Alpes.
+               o DRAC Center-Val de Loire
+               o DAC瓜德罗普岛
+               o DRAC Île è s-de-France.
+               o DRAC Normandie
+               o Drac Occitanie
+               o Mission aux affaires culturelles de Polynésie Française
+               o DRAC Bourgogne-Franche-Comt é
+               o DRAC Corse
+               o DCJS Guyana.
+               o DAC马提尼克岛
+               o DRAC Nouvelle-Aquitaine
+               o Dac of Reunion Island
+               o Drac Provence-Alpes-Côte d'Azur
+               o DRAC Bretagne.
+               o DRAC Grand Est
+               o DRAC上法兰西岛
+               o DAC马约特
+               o Mission aux affaires culturelles de Nouvelle-Calédonie
+               o DRAC Pays de la Loire.
+               o Mission aux Affaires Culturelles de
+                 Saint-Pierre-et-Miquelon
+     * (BUTTON) 专题
+          + (BUTTON) fermer le menu
+               o (BUTTON) 行业和企业
+               o (BUTTON) 公共政策
+               o 体系结构
+               o 存档
+               o 2019年：考古学
+               o 塑料艺术
+               o 视听
+               o 电影院
+               o 舞蹈
+               o 设计
+               o 文化和创意产业
+               o 书籍和阅读
+               o 模式
+               o 纪念碑和遗址
+               o 音乐
+               o 博物馆
+               o 工艺品
+               o 摄影
+               o 打印介质
+               o 剧院，表演
+            (BUTTON) Voir plus
+               o 文化物品的流动
+               o 保护-恢复
+               o 文化和领土
+               o 文化发展
+               o 艺术和文化教育
+               o 媒体和信息素养
+               o 平等和多样性
+               o 高等教育和研究
+               o 法国民族学
+               o 研究和统计
+               o 欧洲和国�
+               o 数字创新
+               o 法语和法国语言
+               o 赞助
+               o 非物质文化遗产
+               o 遗产科学
+               o 安全-安全
+            (BUTTON) Voir plus
+
+   Chargement
+
+   剧院，表演
+
+   适用于专业人士
+
+   剧院，表演
+
+   适用于专业人士
+   (BUTTON) Rubriques
+
+   (BUTTON) Fermer le menu
+   Rubriques
+   (BUTTON) 在法国的戏剧和演出
+     * (BUTTON) fermer le menu
+       在法国的戏剧和演出 (BUTTON) Fermer le menu
+       Retour
+          + 在法国的戏剧和演出
+               o 国家剧院
+               o 国家戏剧中心
+               o 国家场景
+               o 国家利益的会议场景
+               o 国家马戏团波兰(PNC)
+               o 国家街头艺术和公共空间中心(CNAREP)
+               o 国家木偶中心(CNMA)
+
+   教育，培训和贸易
+   (BUTTON) 适用于专业人士
+     * (BUTTON) fermer le menu
+       适用于专业人士 (BUTTON) Fermer le menu
+       Retour
+          + 适用于专业人士
+               o 条例，援助计划
+               o 表演艺术企业家平台(PLATESV)
+               o SIBIL (Système d’Information BILletterie)
+               o Crédit d’impôt en faveur des représentations théâtrales
+                 d’œuvres dramatiques
+               o 现场和录制娱乐活动中的风险预防和安全
+               o Appels à projets, résidences et concours
+               o Publications / Documentation
+
+   Actualités du théâtre
+
+    1. 剧院，表演
+
+     适用于专业人士
+
+     现场和录制娱乐活动中的风险预防和安全
+
+     风险预防的组织：雇主和雇员的责任
+
+                                风险预防的组织：雇主和雇员的责任
+
+   (BUTTON) Partager
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Linkedin
+     * Plus...
+
+   Écouter
+
+     * 剧院
+     * (BUTTON)
+
+   1.雇主的责任：原则，工具，支助2. 员工责任
+
+   为解决工作场所安全问题，必须解决劳动法问题：
+   娱乐界人员的安全没有自己的条例，《劳工法》与其他地方一样适用于他们，其中规定了有关工人健康和安全的义务。
+
+   这些义务涉及雇主，
+   该机构有义务确保其雇员的健康和安全，必须执行预防职业风险的一般原则，并根据《劳动法》规定的有关工作中个人安全的核心案文进行风险评估。
+
+   它也涉及到员工。
+
+
+1.赔偿责任  雇主： 原则，工具，支持
+
+   T 雇主必须采取措施，确保工人的安全和保护他们的身心健康 (《劳动法》L.4121-2条，见表格  预防的一般原则  ")。
+
+   这些措施包括：
+
+   防止职业风险和使其难以工作的措施；
+
+   －宣传和培训措施；
+
+   －建立适当的组织和手段。
+
+   雇主应确保对这些措施进行调整，以适应不断变化的情况，并改善现有的情况。
+
+
+   注意：雇主有结果义务，如果违反其健康和安全义务，则可能承担其刑事和/或民事责任。 违规可以描述为  不可原谅的故障
+   如果雇主已经意识到或应该意识到这种危险(包括通过风险评估)，则由法官负责。
+
+   但是，最近的判例法 ^1.
+   (另见"一般预防原则"一页)(另见"一般预防原则"一页)表明，在某些情况下，雇主如果证明根据劳动法采取的措施是合理的，在履行了他的经济义务之后
+   ，可以在一定程度上免除其责任。
+
+   因此，首先，雇主的责任在于根据《劳动法》的规定采取预防措施。 此应用程序需要了解风险，危险和责任，并在公司内进行集体预防和意识工作。
+
+   对于 履行其义务， 雇主有不同的工具  ：
+
+   单一风险评估文档 (DUER) [ 指向DUER表单的超链接 ]  ：雇主必须为每个"工作单位"制定和实施一份单一的文件(.
+   第R.4121-1条
+   )这使得有可能查明，分类，确定所有风险的优先次序和确定其优先次序，从而使预防方案成为基础，没有这种基础，DUER方法将成为一纸空文。
+
+   信息  雇主必须组织和向工人提供有关健康和安全风险以及为补救这些风险而采取的措施的信息(L.4141-1条)。
+
+   培训  雇主亦须为雇员提供所需的实用及适当的安全训练 第L.4121-1条 ， 第R.4141-1条 参见第111页)。
+
+   预防计划  组织一场演出的特点是多位专业人士的合作，以及不同公司的工人在同一工作场所的合作。
+   如果该项目涉及不同公司的服务提供者，雇主应通过制定与外部伙伴公司合作制定的预防计划，采取具体的预防办法(《劳动法》第R4512-12条及其后各
+   条)。 根据这一计划，外部企业确定对其雇员的个人保护手段，命令企业提供的集体保护手段。
+
+
+   雇主  也可以信赖 并伴有  预防的行为者 ：
+
+
+2.员工责任
+
+   《劳动法》规定了雇员的义务。 员工必须：
+
+   －穿戴必要的个人防护装备；
+
+   更一般地说，根据他所受的培训和他的可能性，照顾他本人以及因他在工作中的作为或不作为而受到影响的其他人的健康和安全(第L.4122-1条及其后各
+   条)。
+
+   －不危害他人或他人；
+
+   －如有严重及迫在眉睫的危险，应提醒雇主。
+
+   注：这些义务并不免除雇主的责任，即使可能要求雇员承担责任。
+
+
+   警报和撤销权
+
+   根据L4131-1条的规定，员工应承担责任 报告 立即«
+   员工有合理理由认为对其生命或健康构成严重和直接危险的任何工作情况，以及员工保护系统的任何故障 »。
+   严重危险的定义是：雇员外部的危险(机器，工作环境等)或因其健康状况而造成的危险(与职业医生的保留相反的工作条件)。
+
+   在这种情况下，雇员享有退出权，但他不得为他人造成严重和紧迫危险的新情况 。 一 L有义务通知雇主，但没有事先授权。
+
+   例如，员工不得在大风中爬回起重机；但如果这会导致起重机坠落到一群儿童身上，而这些儿童将从机器底部经过，则他不能离开起重机。
+
+   培训是雇员了解其义务以及他们可能遇到的风险的一个主要工具。
+
+   注意：
+
+   -警告和退出权不授予停止机器的权利。
+
+   雇主必须采取一切必要措施，结束这种危险。 如果受害者是受害者，如果雇主得到了有关情况的提醒，则不可原谅的过失将被保留。
+
+
+   _________________
+
+   1. «
+   考虑到《劳工法》L.1152-1，L.4121-1和L.4121-2条；尽管该条并未忽视采取必要措施确保工人安全和保护其身心健康的法律义务，特
+   别是在精神骚扰的情况下，
+   雇主证明采取了《劳动法》L.4121-1条和L.4121-2条规定的所有预防措施是合理的，并告知存在可能构成精神骚扰的事实，
+   立即采取行动阻止它  (…)  ”(Cass. Sock. 1) ^呃 2016年6月，否 14-02-19702)。
+
+   '  不违反其采取必要措施确保工人(雇主)安全和保护其身心健康的法律义务
+   说明采取《劳动法》L.4121-1和L.4121-2条规定的措施的理由 » (Cass. Sock.
+   2016年9月22日，第15-14005号)。
+
+     * FR
+     * EN
+     * DE
+     * ES
+     * AR
+     * ZH
+
+   Nous suivre
+     * Facebook
+     * X
+     * Instagram
+     * Youtube
+     * Soundcloud
+     * Linkedin
+     * Flux de dépêches
+
+   S'inscrire à nos Infolettres
+
+Contact
+
+   Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+   Ministère de la Culture
+
+
+    182, rue Saint-Honoré - 75001 Paris
+
+   T. 01 40 15 80 00
+   Acceo, accessibilité téléphonique aux personnes sourdes et
+   malentendantes
+     * 请在剧院与代表团联系
+     * Foire aux questions
+     * Presse
+
+   Nous suivre
+     * Facebook
+     * X
+     * Instagram
+     * Youtube
+     * Soundcloud
+     * Linkedin
+     * Flux de dépêches
+
+在法国的戏剧和演出
+
+     * 国家剧院
+     * 国家戏剧中心
+     * 国家场景
+     * 国家利益的会议场景
+     * 国家马戏团波兰(PNC)
+     * 国家街头艺术和公共空间中心(CNAREP)
+     * 国家木偶中心(CNMA)
+
+适用于专业人士
+
+     * 条例，援助计划
+     * 表演艺术企业家平台(PLATESV)
+     * SIBIL (Système d’Information BILletterie)
+     * Crédit d’impôt en faveur des représentations théâtrales d’œuvres
+       dramatiques
+     * 现场和录制娱乐活动中的风险预防和安全
+     * Appels à projets, résidences et concours
+     * Publications / Documentation
+
+教育，培训和贸易
+
+Actualités du théâtre
+
+     * 公共service.fr
+     * legifrance.gouv.fr
+     * government.fr
+
+   (BUTTON) Liens utiles
+     * 免责声明
+     * 可访问性：部分合规
+     * 个人数据和Cookie
+     * Plan du site
+     * © Ministère de la Culture
