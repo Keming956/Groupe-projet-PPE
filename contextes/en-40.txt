@@ -69,7 +69,7 @@
 
 Call of Duty
 
-   [ ] 58 languages
+   [ ] 59 languages
 --
    Video game franchise
    This article is about the franchise. For the first installment, see
@@ -80,10 +80,10 @@ Call of Duty
    Call of Duty
    [250px-Call_of_Duty_logo_2023.svg.png]
    Genre(s) First-person shooter
-   Developer(s) Primary
+   Developer(s)
 --
-   BlackBerry
-   J2ME
+   Xbox One
+   Xbox Series X/S
    First release Call of Duty
    October 29, 2003
    Latest release Call of Duty: Modern Warfare III
@@ -150,6 +150,95 @@ Main series
    Infinity Ward
    Call of Duty: Modern Warfare III 2023 Windows, PS4, PS5, XONE, XSXS
    Sledgehammer Games
+
+--
+
+   Game Year Metacritic
+   Call of Duty Edit this on Wikidata 2003 PC: 91/100^[2]
+   PS3: 78/100^[3]
+   X360: 72/100^[4]
+   Call of Duty 2 Edit this on Wikidata 2005 PC: 86/100^[5]
+   X360: 89/100^[6]
+   Call of Duty 3 Edit this on Wikidata 2006 PS2: 82/100^[7]
+   PS3: 80/100^[8]
+   Wii: 69/100^[9]
+   X360: 82/100^[10]
+   XBOX: 83/100^[11]
+   Call of Duty 4: Modern Warfare Edit this on Wikidata 2007 DS:
+   75/100^[12]
+   PC: 92/100^[13]
+--
+   Wii: 76/100^[15]
+   X360: 94/100^[16]
+   Call of Duty: World at War Edit this on Wikidata 2008 DS: 75/100^[56]
+   PC: 83/100^[57]
+   PS3: 85/100^[58]
+   Wii: 83/100^[59]
+   X360: 84/100^[60]
+   Call of Duty: Modern Warfare 2 Edit this on Wikidata 2009 DS:
+   73/100^[17]
+   PC: 86/100^[18]
+   PS3: 94/100^[19]
+   X360: 94/100^[20]
+   Call of Duty: Black Ops Edit this on Wikidata 2010 DS: 74/100^[21]
+   PC: 81/100^[22]
+   PS3: 88/100^[23]
+   Wii: 80/100^[24]
+   X360: 87/100^[25]
+   Call of Duty: Modern Warfare 3 Edit this on Wikidata 2011 DS:
+   57/100^[26]
+   PC: 78/100^[27]
+--
+   Wii: 70/100^[29]
+   X360: 88/100^[30]
+   Call of Duty: Black Ops II Edit this on Wikidata 2012 PC: 74/100^[31]
+   PS3: 83/100^[32]
+   WiiU: 81/100^[33]
+   X360: 83/100^[34]
+   Call of Duty: Ghosts Edit this on Wikidata 2013 PC: 68/100^[35]
+   PS3: 71/100^[36]
+   PS4: 78/100^[37]
+--
+   X360: 73/100^[39]
+   XONE: 78/100^[40]
+   Call of Duty: Advanced Warfare Edit this on Wikidata 2014 PC:
+   78/100^[41]
+   PS4: 83/100^[42]
+   XONE: 81/100^[43]
+   Call of Duty: Black Ops III Edit this on Wikidata 2015 PC: 73/100^[44]
+   PS4: 81/100^[45]
+   XONE: 81/100^[46]
+   Call of Duty: Modern Warfare Remastered Edit this on Wikidata 2016 PC:
+   86/100^[50]
+   PS4: 83/100^[51]
+   XONE: 89/100^[52]
+   Call of Duty: Infinite Warfare Edit this on Wikidata 2016 PC:
+   73/100^[47]
+   PS4: 77/100^[48]
+   XONE: 78/100^[49]
+   Call of Duty: WWII Edit this on Wikidata 2017 PC: 73/100^[53]
+   PS4: 79/100^[54]
+   XONE: 80/100^[55]
+   Call of Duty: Black Ops 4 Edit this on Wikidata 2018 PC: 83/100^[61]
+   PS4: 83/100^[62]
+   XONE: 85/100^[63]
+   Call of Duty: Mobile Edit this on Wikidata 2019 81/100^[64]
+   Call of Duty: Modern Warfare Edit this on Wikidata 2019 PC: 81/100^[65]
+   PS4: 80/100^[66]
+   XONE: 81/100^[67]
+   Call of Duty: Modern Warfare 2 Campaign Remastered Edit this on
+   Wikidata 2020 PC: 71/100
+   PS4: 71/100
+   Call of Duty: Black Ops Cold War Edit this on Wikidata 2020 PC: 76/100
+   PS4: 76/100
+   PS5: 76/100
+   XSX/S: 76/100
+   Call of Duty: Vanguard Edit this on Wikidata 2021 PC: 72/100
+   PS5: 73/100
+   XSX/S: 74/100
+   Call of Duty: Modern Warfare II Edit this on Wikidata 2022 PC: 79/100
+   PS5: 76/100
+   XSX/S: 77/100
    [170px-CallofDutyLogo.svg.png] A variation of the original Call of Duty
    logo font used by the franchise until 2023
 
@@ -162,7 +251,7 @@ Call of Duty
    Call of Duty is a first-person shooter video game based on id Tech 3,
    and was released on October 29, 2003. The game was developed by
    Infinity Ward and published by Activision. The game simulates the
-   infantry and combined arms warfare of World War II.^[2] An expansion
+   infantry and combined arms warfare of World War II.^[68] An expansion
    pack, Call of Duty: United Offensive, was developed by Gray Matter
    Studios with contributions from Pi Studios and produced by Activision.
    The game follows American and British paratroopers and the Red Army.
@@ -171,8 +260,9 @@ Call of Duty
    United Offensive expansion and soundtrack; in Europe the soundtrack was
    not included). On September 22, 2006, Call of Duty, United Offensive,
    and Call of Duty 2 were released together as Call of Duty: War Chest
-   for PC.^[3] Since November 12, 2007, Call of Duty games have been
-   available for purchase via Valve's content delivery platform Steam.^[4]
+   for PC.^[69] Since November 12, 2007, Call of Duty games have been
+   available for purchase via Valve's content delivery platform
+   Steam.^[70]
 
 Call of Duty 2
 
@@ -194,17 +284,17 @@ Call of Duty 3
    game was developed by Treyarch, and was the first major installment in
    the Call of Duty series not to be developed by Infinity Ward. It was
    also the first not to be released on the PC platform. It was released
-   on the PlayStation 2, PlayStation 3, Wii, Xbox, and Xbox 360.^[5]
+   on the PlayStation 2, PlayStation 3, Wii, Xbox, and Xbox 360.^[71]
 
 Call of Duty: WWII
 
    Main article: Call of Duty: WWII
 
    Call of Duty: WWII is the fourteenth game in the series and was
-   developed by Sledgehammer Games.^[6] It was released worldwide on
-   November 3, 2017, for Windows, PlayStation 4 and Xbox One.^[7] The game
+   developed by Sledgehammer Games.^[72] It was released worldwide on
+   November 3, 2017, for Windows, PlayStation 4 and Xbox One.^[73] The
 --
-   and set mainly in the historical events of Operation Overlord.
+   Front, and set mainly in the historical events of Operation Overlord.
 
 Call of Duty: Vanguard
 
@@ -227,7 +317,7 @@ Call of Duty 4: Modern Warfare
    PlayStation 3, and Xbox 360 on November 7, 2007. Download and retail
    versions for Mac OS X were released by Aspyr in September 2008. As of
    May 2009, Call of Duty 4: Modern Warfare has sold over 13 million
-   copies.^[8]
+   copies.^[74]
 
     Call of Duty: Modern Warfare Remastered
 
@@ -237,9 +327,9 @@ Call of Duty 4: Modern Warfare
    of Duty 4: Modern Warfare that was released alongside the Legacy
    Edition, Legacy Pro Edition and Digital Deluxe Edition of Call of Duty:
    Infinite Warfare on November 4, 2016, for PlayStation 4, Xbox One, and
-   PC.^[9] It was later released standalone on June 27, 2017, for PS4, and
+   PC.^[75] It was later released standalone on June 27, 2017, for PS4,
 --
-   Raven Software and executive produced by Infinity Ward.^[11]^[12]
+   Raven Software and executive produced by Infinity Ward.^[77]^[78]
 
     Call of Duty: Modern Warfare 2
 
@@ -247,16 +337,16 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Modern Warfare 2 is the sixth installment of the main
    series, and the second game in the Modern Warfare timeline. It was
-   developed by Infinity Ward and published by Activision.^[13]^[14]
+   developed by Infinity Ward and published by Activision.^[79]^[80]
 --
-   2009.^[15]^[16] The game was released worldwide on November 10, 2009,
-   for the Xbox 360, PlayStation 3 and Windows.^[13] A Nintendo DS
+   2009.^[81]^[82] The game was released worldwide on November 10, 2009,
+   for the Xbox 360, PlayStation 3 and Windows.^[79] A Nintendo DS
    iteration of the game, titled Call of Duty: Modern Warfare: Mobilized,
    was released alongside the game and the Wii port of Call of Duty:
-   Modern Warfare.^[17]^[18] Modern Warfare 2 is the direct sequel to Call
+   Modern Warfare.^[83]^[84] Modern Warfare 2 is the direct sequel to Call
    of Duty 4 and continues the same storyline, taking place five years
    after the first game and featuring several returning characters
-   including Captain Price and "Soap" MacTavish.^[19]
+   including Captain Price and "Soap" MacTavish.^[85]
 
     Call of Duty: Modern Warfare 2 Campaign Remastered
 
@@ -265,9 +355,9 @@ Call of Duty 4: Modern Warfare
    A visually updated version of the original, it was released for
 --
    30, 2020. It only includes the campaign mode with no multiplayer and
-   Spec Ops components. When purchased players can unlock various cosmetic
-   items in 2019's Call of Duty: Modern Warfare and 2020's Call of Duty:
-   Warzone.
+   Spec Ops components. When purchased, players can unlock various
+   cosmetic items in 2019's Call of Duty: Modern Warfare and 2020's Call
+   of Duty: Warzone.
 
     Call of Duty: Modern Warfare 3
 
@@ -279,11 +369,11 @@ Call of Duty 4: Modern Warfare
    the game's publisher Activision and the former co-executives of
 --
    game, while Raven Software was brought in to make cosmetic changes to
-   the menus of the game.^[21] The game was said to have been in
+   the menus of the game.^[87] The game was said to have been in
    development since only two weeks after the release of Call of Duty:
-   Modern Warfare 2.^[21] Sledgehammer was aiming for a "bug free" first
+   Modern Warfare 2.^[87] Sledgehammer was aiming for a "bug free" first
    outing in the Call of Duty franchise, and had also set a goal for
-   Metacritic review scores above 95 percent.^[22]
+   Metacritic review scores above 95 percent.^[88]
 
    The game continues the story from the point at which it ended in the
    Call of Duty: Modern Warfare 2 and continues the fictional battle story
@@ -297,7 +387,7 @@ Call of Duty 4: Modern Warfare
    Call of Duty: Modern Warfare is the sixteenth entry in the Call of Duty
    series and is also a reboot of the Modern Warfare series. The story has
    been described to be darker and more realistic than previous Call of
-   Duty games. It is set in the Black Ops timeline,^[23] separate from the
+   Duty games. It is set in the Black Ops timeline,^[89] separate from the
    other Modern Warfare games (however, characters such as Captain Price
    and other fan favorites from the series make a return). The game was
    officially revealed on May 30, 2019, and released on October 25, 2019.
@@ -305,23 +395,23 @@ Call of Duty 4: Modern Warfare
    The second main battle royale installment in the Call of Duty
    franchise, titled Call of Duty: Warzone, was released in March 2020, as
    a part of the Call of Duty: Modern Warfare video game but does not
-   require purchase of it.^[24] The title exceeded 50 million players in
-   the first month after release.^[25]
+   require purchase of it.^[90] The title exceeded 50 million players in
+   the first month after release.^[91]
 
     Call of Duty: Modern Warfare II
 
    Main article: Call of Duty: Modern Warfare II (2022 video game)
 
    Activision confirmed a sequel to the 2019 Modern Warfare game on
-   February 11, 2022, to be developed by Infinity Ward.^[26] The game's
-   logo and title was revealed on April 28, 2022.^[27] During Activision's
+   February 11, 2022, to be developed by Infinity Ward.^[92] The game's
+   logo and title was revealed on April 28, 2022.^[93] During Activision's
    'Call of Duty NEXT' broadcast on September 15, 2022, the game's
    multiplayer was fully revealed, along with details on the next version
    of Warzone and a mobile version of Warzone, both set to launch slightly
-   after Modern Warfare II's launch.^[28]^[29]
+   after Modern Warfare II's launch.^[94]^[95]
 
    Call of Duty: Modern Warfare II was released on October 28, with
-   Campaign Early Access for pre-orders on October 20.^[30]
+   Campaign Early Access for pre-orders on October 20.^[96]
 
     Call of Duty: Modern Warfare III
 
@@ -335,25 +425,25 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: World at War, developed by Treyarch, is the fifth
    installment of the main series. Released after Modern Warfare, it
-   returns to the World War II setting of earlier titles,^[31] featuring
+   returns to the World War II setting of earlier titles,^[97] featuring
    the Pacific theater and Eastern front. The game uses the same
    proprietary game engine as Call of Duty 4 and was released for the PC,
    PlayStation 3, Wii, Xbox 360 consoles and the Nintendo DS handheld in
    North America on November 11, 2008, and November 14, 2008, in Europe.
    As of June 2009, Call of Duty: World at War has sold over 11 million
-   copies.^[32] It acts as a prologue for Treyarch's next game, Black Ops,
+   copies.^[98] It acts as a prologue for Treyarch's next game, Black Ops,
    which is in the same universe, sharing characters and story
-   references.^[33]^[34]
+   references.^[99]^[100]
 
     Call of Duty: Black Ops
 
    Main article: Call of Duty: Black Ops
 
    Call of Duty: Black Ops is the seventh installment in the
-   series,^[35]^[36]^[37] the third developed by Treyarch and was
+   series,^[101]^[102]^[103] the third developed by Treyarch and was
    published by Activision for release on November 9, 2010. It is the
 --
-   Wii as well as the Nintendo DS.^[38]
+   Wii as well as the Nintendo DS.^[104]
 
     Call of Duty: Black Ops II
 
@@ -361,7 +451,7 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Black Ops II is the ninth main installment in the series,
    developed by Treyarch and published by Activision. The game was
-   revealed on May 1, 2012.^[39]^[40] It was the first game in the series
+   revealed on May 1, 2012.^[105]^[106] It was the first game in the
 --
    endings. It was later released on November 12, 2012.
 
@@ -371,7 +461,7 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Black Ops III is the twelfth main installment in the
    series, developed by Treyarch and published by Activision. The game was
-   released on November 6, 2015.^[41]
+   released on November 6, 2015.^[107]
 
     Call of Duty: Black Ops 4
 
@@ -379,22 +469,22 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Black Ops 4 is the fifteenth main installment in the
    series. It was developed by Treyarch and published by Activision. The
-   game was released on October 12, 2018.^[42] It was the first featured
+   game was released on October 12, 2018.^[108] It was the first featured
    Call of Duty game to forgo a single-player campaign game mode, focusing
    only at the multiplayer aspect of the game. The game also introduced an
    entirely new battle royale game mode, called Blackout, in addition to
-   multiplayer and zombies co-op mode.^[43]
+   multiplayer and zombies co-op mode.^[109]
 
     Call of Duty: Black Ops Cold War
 
    Main article: Call of Duty: Black Ops Cold War
 
    Call of Duty: Black Ops Cold War is the seventeenth main installment in
-   the series. It was developed by Treyarch and Raven Software,and
+   the series. It was developed by Treyarch and Raven Software, and
    published by Activision. The game was released on November 13, 2020.
    Set during the 1980s and focusing on Soviet and American espionage
    during the Cold War, the game is chronologically set between Call of
-   Duty: Black Ops and Black Ops II.^[44]
+   Duty: Black Ops and Black Ops II.^[110]
 
   Standalone games
 
@@ -404,8 +494,8 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Ghosts is the tenth main installment in the series and
    was developed by Infinity Ward. The game was released on November 5,
-   2013.^[45]^[46] It was the first game to be developed for eighth-gen
-   consoles such as PlayStation 4 and Xbox One.^[47]
+   2013.^[111]^[112] It was the first game to be developed for eighth-gen
+   consoles such as PlayStation 4 and Xbox One.^[113]
 
     Call of Duty: Advanced Warfare
 
@@ -413,9 +503,9 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Advanced Warfare is the eleventh main installment in the
    series, developed by Sledgehammer Games with assistance from Raven
-   Software and High Moon Studios. It was released in November 2014.^[48]
+   Software and High Moon Studios. It was released in November 2014.^[114]
 --
-   movements, such as double jump and boost slide.^[49]
+   movements, such as double jump and boost slide.^[115]
 
     Call of Duty: Infinite Warfare
 
@@ -423,7 +513,7 @@ Call of Duty 4: Modern Warfare
 
    Call of Duty: Infinite Warfare is the thirteenth main installment in
    the series, developed by Infinity Ward, and was published by
-   Activision. The game was released on November 4, 2016.^[50]
+   Activision. The game was released on November 4, 2016.^[116]
 --
 Primary developer rotation
 
@@ -434,7 +524,7 @@ Primary developer rotation
    This game was postponed in order to help Infinity Ward produce Modern
    Warfare 3. In 2014, it was confirmed that Sledgehammer Games would
    produce the 2014 title, Call of Duty: Advanced Warfare, and the studios
-   would begin a three-year rotation.^[51]^[52] After Sledgehammer
+   would begin a three-year rotation.^[117]^[118] After Sledgehammer
    developed Call of Duty: WWII (2017), they began developing a new Call
    of Duty entry alongside Raven Software due for release in 2020.
    However, there were conflicts of interest between the two, which
@@ -469,14 +559,14 @@ Primary developer rotation
 
    Call of Duty: The War Collection is a boxed set compilation of Call of
    Duty 2, Call of Duty 3 and Call of Duty: World at War. It was released
-   for the Xbox 360 on June 1, 2010.^[54]
+   for the Xbox 360 on June 1, 2010.^[120]
 
   Handheld titles
 
     Call of Duty: Roads to Victory
 
    Call of Duty: Roads to Victory is a PSP game which is a portable
-   spin-off of Call of Duty 3.^[55]
+   spin-off of Call of Duty 3.^[121]
 
     Call of Duty: Modern Warfare: Mobilized
 
@@ -491,12 +581,12 @@ Primary developer rotation
    Call of Duty: Black Ops DS is the Nintendo DS companion game for Black
    Ops. Developed by n-Space, the game takes place in the same setting as
    the main console game, but follows a different storyline and cast of
-   characters.^[56]^[57]
+   characters.^[122]^[123]
 
     Call of Duty: Black Ops: Declassified
 
    Call of Duty: Black Ops: Declassified is a PlayStation Vita Call of
-   Duty game.^[58]
+   Duty game.^[124]
 
   Free-to-play titles
 
@@ -516,11 +606,11 @@ Primary developer rotation
 
    Main article: Call of Duty: Warzone
 
-   Call of Duty: Warzone is an online battle royale game developed by
+   Call of Duty: Warzone was an online battle royale game developed by
    Infinity Ward and Raven Software and released by Activision. The game
    was released on March 10, 2020, as part of Modern Warfare (2019), but
 --
-   development, slated to be released sometime in the future.^[59]
+   sometime in the future.^[126]
 
     Call of Duty: Warzone 2.0
 
@@ -535,8 +625,8 @@ Primary developer rotation
     Call of Duty: Modern Warfare 2: Force Recon
 
    Call of Duty: Modern Warfare 2: Force Recon is the J2ME mobile version
-   of Modern Warfare 2. Developed by Glu Mobile, the game takes place
-   after 5 years Modern Warfare in Mexico.
+   of Modern Warfare 2. Developed by Glu Mobile, the game takes place in
+   Mexico five years after Modern Warfare.
 
     Call of Duty: World at War – Zombies and Call of Duty: Black Ops – Zombies
 
@@ -569,9 +659,9 @@ Primary developer rotation
 
    Call of Duty: Mobile is the franchise's mobile title for iOS and
    Android developed by Tencent Games' TiMi Studios. It was released on
-   October 1, 2019.^[60] Previously, it was first announced on March 18,
+   October 1, 2019.^[127] Previously, it was first announced on March 18,
 --
-   2019, the game has surpassed over 35 million downloads worldwide.^[62]
+   2019, the game has surpassed over 35 million downloads worldwide.^[129]
 
     Call of Duty: Warzone Mobile
 
@@ -590,13 +680,13 @@ Canceled titles
    multiple legal issues that arose between Spark Unlimited, Electronic
    Arts, and Activision as well as other production problems, the game's
 --
-   contract with Spark Unlimited shortly after.^[63]
+   contract with Spark Unlimited shortly after.^[130]
 
   Call of Duty: Devil's Brigade
 
    Call of Duty: Devil's Brigade was a canceled first-person shooter for
    the Xbox 360 developed by Underground Entertainment. The game was set
-   in World War II, mainly focusing on the Italian Campaign.^[64]
+   in World War II, mainly focusing on the Italian Campaign.^[131]
 
   Call of Duty: Vietnam
 
@@ -604,7 +694,7 @@ Canceled titles
    War. It was in development for at least six to eight months at
    Sledgehammer Games. The development was stopped because Infinity Ward
    needed help finishing Call of Duty: Modern Warfare 3 due to the
-   employee firings and departures in 2010.^[65]^[66]
+   employee firings and departures in 2010.^[132]^[133]
 
   Call of Duty: Roman Wars
 
@@ -613,7 +703,7 @@ Canceled titles
    and allowed players to take control of famous historical figure Julius
    Caesar, along with "low grunts", and officers of the Tenth Legion. It
    was eventually canceled, as Activision had uncertainties about branding
-   it as a Call of Duty title.^[67]
+   it as a Call of Duty title.^[134]
 
 Other media
 --
@@ -622,7 +712,7 @@ Other media
    Call of Duty: Modern Warfare 2. The storyline focuses on the backstory
    of the character Simon "Ghost" Riley. The series is published by
    WildStorm and the first issue was released on November 10, 2009,
-   alongside the game.^[68]
+   alongside the game.^[135]
 
    Call of Duty: Zombies is a six-part comic book series published by Dark
    Horse Comics. The series ties in with the Zombies game mode of the
@@ -631,15 +721,15 @@ Other media
   Merchandise
 
    The Call of Duty Real-Time Card Game was announced by card manufacturer
-   Upper Deck.^[70]
+   Upper Deck.^[137]
 
    In 2004, Activision, in cooperation with the companies Plan-B Toys and
    Radioactive Clown, released the "Call of Duty: Series 1" line of action
    figures, which included three American soldiers and three German
-   soldiers from the World War II era.^[71] While the American G.I. action
-   figure was made in 2004,^[72] Plan-B Toys later discontinued a
+   soldiers from the World War II era.^[138] While the American G.I.
+   action figure was made in 2004,^[139] Plan-B Toys later discontinued a
    controversial Nazi SS Guard action figure based on the Nazi Totenkopf
-   officer seen in Call of Duty.^[73]
+   officer seen in Call of Duty.^[140]
 
    In 2008, McFarlane Toys announced their partnership with Activision to
    produce action figures for the Call of Duty series. McFarlane Toys'
@@ -650,7 +740,7 @@ Other media
 
    Find Makarov is a fan-made film that was well received by Call of Duty
    publishers, Activision, who contacted We Can Pretend and subsequently
-   produced a second short film, Operation Kingfish.^[75]
+   produced a second short film, Operation Kingfish.^[142]
 
    Find Makarov: Operation Kingfish is a fan-made prequel to Call of Duty:
    Modern Warfare 2 and was first shown at Call of Duty XP. The video was
@@ -659,7 +749,7 @@ Other media
 --
    Reporter reported that Activision Blizzard launched a production studio
    called Activision Blizzard Studios and are planning a live action Call
-   of Duty cinematic universe in 2019.^[76] On February 16, 2018, it was
+   of Duty cinematic universe in 2019.^[143] On February 16, 2018, it was
    announced that Stefano Sollima will direct the film. Days later, he
    told Metro UK that he is considering having both Tom Hardy and Chris
 --
@@ -667,7 +757,7 @@ Esports
 
    The Call of Duty games were used in esports, starting in 2006,
    alongside the game released at the time, Call of Duty 4: Modern
-   Warfare.^[83] Over the years, the series has extended with releases
+   Warfare.^[150] Over the years, the series has extended with releases
    such as Call of Duty: World at War, Call of Duty: Modern Warfare 2,
    Call of Duty: Black Ops, Call of Duty: Modern Warfare 3, Call of Duty:
    Black Ops II, Call of Duty: Ghosts, and Call of Duty: Mobile. Games are
@@ -677,11 +767,11 @@ Esports
    registered and saved on the player's profile if/when they win a
    tournament, and the prize money is deposited into his or her bank
    account. Call of Duty: Ghosts was the most competitively played game in
-   2014, with an average of 15,000 teams participating every season.^[85]
+   2014, with an average of 15,000 teams participating every season.^[152]
 
    For the past 6 seasons in competitive Call of Duty, Full Sail
    University has hosted a prize giveaway, giving $2,500 to the top team
-   each season.^[86] The other ladders give out credits and medals
+   each season.^[153] The other ladders give out credits and medals
    registered on players' profiles. Tournaments hosted on the Call of
    Duty: Ghosts's Arena give cost from 15 to 30 credits, thus averaging at
    a cost of about $18.75 per tournament. If the player competes with a
@@ -691,17 +781,17 @@ Esports
 
    The biggest Call of Duty tournament hosted was Call of Duty: Experience
    2011, a tournament that began when Call of Duty: Modern Warfare 3 was
-   released.^[87]
+   released.^[154]
 
    Playing Call of Duty competitively is most popular in Europe and North
    America, with users who participate in tournaments and ladder matches
-   daily.^[88]
+   daily.^[155]
 
    Activision launched a 12 team Call of Duty League, following a similar
    city-based franchise structure as the Overwatch League, in January
    2020. The league's teams include those from Atlanta, Chicago, Dallas,
 --
-   Angeles Thieves) and Los Angeles Guerrillas.^[89]
+   Angeles Thieves) and Los Angeles Guerrillas.^[156]
 
 Call of Duty Endowment
 
@@ -710,10 +800,10 @@ Call of Duty Endowment
    The first donation, consisting of $125,000, was presented to the
 --
    encourage gamers to donate money to and get involved in organizations
-   that provide veterans with services.^[94] As of 2015^[update], the Call
-   of Duty Endowment had provided around $12 million in grants to
+   that provide veterans with services.^[161] As of 2015^[update], the
+   Call of Duty Endowment had provided around $12 million in grants to
    veterans' organizations in the United States, which has helped find
-   jobs for 14,700 veterans.^[95]
+   jobs for 14,700 veterans.^[162]
 
    On March 30, 2010, CODE presented 3,000 copies of Call of Duty: Modern
    Warfare 2, approximately $180,000 in value, to the U.S. Navy. The
@@ -733,7 +823,7 @@ Call of Duty Endowment
 --
 
    AM General, the manufacturer of the Humvee, sued Activision in 2017 for
-   using the Humvee in multiple Call of Duty games.^[97] A federal
+   using the Humvee in multiple Call of Duty games.^[164] A federal
    district judge gave Activision a summary motion in its favor to dismiss
    the case in April 2020, stating that the purpose of the use of the
 --
@@ -742,276 +832,367 @@ References
     1. ^ [1]. "TWO INCREDIBLE MILESTONES: CALL OF DUTY®: WARZONE™ REACHES
        100 MILLION PLAYERS, PREMIUM CALL OF DUTY® GAME SALES ECLIPSES 400
        MILLION." April 2021.
-    2. ^ "Gamespot – Call of Duty". Archived from the original on October
+    2. ^ "Call of Duty for PC Reviews". Metacritic.
+    3. ^ "Call of Duty Classic for PlayStation 3 Reviews". Metacritic.
+    4. ^ "Call of Duty Classic for Xbox 360 Reviews". Metacritic.
+    5. ^ "Call of Duty 2 for PC Reviews". Metacritic.
+    6. ^ "Call of Duty 2 for Xbox 360 Reviews". Metacritic.
+    7. ^ "Call of Duty 3 for PlayStation 2 Reviews". Metacritic.
+    8. ^ "Call of Duty 3 for PlayStation 3 Reviews". Metacritic.
+    9. ^ "Call of Duty 3 for Wii Reviews". Metacritic.
+   10. ^ "Call of Duty 3 for Xbox 360 Reviews". Metacritic.
+   11. ^ "Call of Duty 3 for Xbox Reviews". Metacritic.
+   12. ^ "Call of Duty 4: Modern Warfare for DS Reviews". Metacritic.
+   13. ^ "Call of Duty 4: Modern Warfare for PC Reviews". Metacritic.
+   14. ^ "Call of Duty 4: Modern Warfare for PlayStation 3 Reviews".
+       Metacritic.
+   15. ^ "Call of Duty: Modern Warfare - Reflex Edition for Wii Reviews".
+       Metacritic.
+   16. ^ "Call of Duty 4: Modern Warfare for Xbox 360 Reviews".
+       Metacritic.
+   17. ^ "Call of Duty: Modern Warfare - Mobilized for DS Reviews".
+       Metacritic.
+   18. ^ "Call of Duty: Modern Warfare 2 for PC Reviews". Metacritic.
+   19. ^ "Call of Duty: Modern Warfare 2 for PlayStation 3 Reviews".
+       Metacritic.
+   20. ^ "Call of Duty: Modern Warfare 2 for Xbox 360 Reviews".
+       Metacritic.
+   21. ^ "Call of Duty: Black Ops for DS Reviews". Metacritic.
+   22. ^ "Call of Duty: Black Ops for PC Reviews". Metacritic.
+   23. ^ "Call of Duty: Black Ops for PlayStation 3 Reviews". Metacritic.
+   24. ^ "Call of Duty: Black Ops for Wii Reviews". Metacritic.
+   25. ^ "Call of Duty: Black Ops for Xbox 360 Reviews". Metacritic.
+   26. ^ "Call of Duty: Modern Warfare 3 - Defiance for DS Reviews".
+       Metacritic.
+   27. ^ "Call of Duty: Modern Warfare 3 for PC Reviews". Metacritic.
+   28. ^ "Call of Duty: Modern Warfare 3 for PlayStation 3 Reviews".
+       Metacritic.
+   29. ^ "Call of Duty: Modern Warfare 3 for Wii Reviews". Metacritic.
+   30. ^ "Call of Duty: Modern Warfare 3 for Xbox 360 Reviews".
+       Metacritic.
+   31. ^ "Call of Duty: Black Ops II for PC Reviews". Metacritic.
+   32. ^ "Call of Duty: Black Ops II for PlayStation 3 Reviews".
+       Metacritic.
+   33. ^ "Call of Duty: Black Ops II for Wii U Reviews". Metacritic.
+   34. ^ "Call of Duty: Black Ops II for Xbox 360 Reviews". Metacritic.
+   35. ^ "Call of Duty: Ghosts for PC Reviews". Metacritic.
+   36. ^ "Call of Duty: Ghosts for PlayStation 3 Reviews". Metacritic.
+   37. ^ "Call of Duty: Ghosts for PlayStation 4 Reviews". Metacritic.
+   38. ^ "Call of Duty: Ghosts for Wii U Reviews". Metacritic.
+   39. ^ "Call of Duty: Ghosts for Xbox 360 Reviews". Metacritic.
+   40. ^ "Call of Duty: Ghosts for Xbox One Reviews". Metacritic.
+   41. ^ "Call of Duty: Advanced Warfare for PC Reviews". Metacritic.
+   42. ^ "Call of Duty: Advanced Warfare for PlayStation 4 Reviews".
+       Metacritic.
+   43. ^ "Call of Duty: Advanced Warfare for Xbox One Reviews".
+       Metacritic.
+   44. ^ "Call of Duty: Black Ops III for PC Reviews". Metacritic.
+   45. ^ "Call of Duty: Black Ops III for PlayStation 4 Reviews".
+       Metacritic.
+   46. ^ "Call of Duty: Black Ops III for Xbox One Reviews". Metacritic.
+   47. ^ "Call of Duty: Infinite Warfare for PC Reviews". Metacritic.
+       Retrieved February 14, 2019.
+   48. ^ "Call of Duty: Infinite Warfare for PlayStation 4 Reviews".
+       Metacritic. Retrieved February 14, 2019.
+   49. ^ "Call of Duty: Infinite Warfare for Xbox One Reviews".
+       Metacritic. Retrieved February 14, 2019.
+   50. ^ "Call of Duty: Modern Warfare Remastered for PC Reviews".
+       Metacritic. Retrieved March 11, 2017.
+   51. ^ "Call of Duty: Modern Warfare Remastered for PlayStation 4
+       Reviews". Metacritic. Retrieved March 11, 2017.
+   52. ^ "Call of Duty: Modern Warfare Remastered for Xbox One Reviews".
+       Metacritic. Retrieved March 11, 2017.
+   53. ^ "Call of Duty: WWII for PC Reviews". Metacritic.
+   54. ^ "Call of Duty: WWII for PlayStation 4 Reviews". Metacritic.
+   55. ^ "Call of Duty: WWII for Xbox One Reviews". Metacritic.
+   56. ^ "Call of Duty: World at War for DS Reviews". Metacritic.
+   57. ^ "Call of Duty: World at War for PC Reviews". Metacritic.
+   58. ^ "Call of Duty: World at War for PlayStation 3 Reviews".
+       Metacritic.
+   59. ^ "Call of Duty: World at War for Wii Reviews". Metacritic.
+   60. ^ "Call of Duty: World at War for Xbox 360 Reviews". Metacritic.
+   61. ^ "Call of Duty: Black Ops 4 for PC Reviews". Metacritic.
+   62. ^ "Call of Duty: Black Ops 4 for PlayStation 4 Reviews".
+       Metacritic.
+   63. ^ "Call of Duty: Black Ops 4 for Xbox One Reviews". Metacritic.
+   64. ^ "Call of Duty: Mobile Reviews". Metacritic.
+   65. ^ "Call of Duty: Modern Warfare for PC Reviews". Metacritic.
+   66. ^ "Call of Duty: Modern Warfare for PlayStation 4 Reviews".
+       Metacritic.
+   67. ^ "Call of Duty: Modern Warfare for Xbox One Reviews". Metacritic.
+   68. ^ "Gamespot – Call of Duty". Archived from the original on October
        1, 2009. Retrieved September 23, 2007.
-    3. ^ "Call of Duty: Warchest — PC — GameSpy". Pc.gamespy.com.
+   69. ^ "Call of Duty: Warchest — PC — GameSpy". Pc.gamespy.com.
        September 22, 2006. Archived from the original on November 1, 2012.
        Retrieved November 26, 2012.
-    4. ^ "Activision Adds GUN, Call of Duty to Steam". 1up.com. Archived
+   70. ^ "Activision Adds GUN, Call of Duty to Steam". 1up.com. Archived
        from the original on July 22, 2012. Retrieved October 18, 2007.
-    5. ^ "New Call of Duty skipping PC – Xbox 360 News at GameSpot".
+   71. ^ "New Call of Duty skipping PC – Xbox 360 News at GameSpot".
        Gamespot.com. November 7, 2006. Archived from the original on July
        20, 2011. Retrieved November 26, 2012.
-    6. ^ Campbell, Colin (April 21, 2017). "Call of Duty: WWII confirmed,
+   72. ^ Campbell, Colin (April 21, 2017). "Call of Duty: WWII confirmed,
        full reveal next week". Polygon. Archived from the original on
        November 25, 2017. Retrieved September 12, 2017.
-    7. ^ Martindale, Jon (April 26, 2017). "Watch the just-unveiled 'Call
+   73. ^ Martindale, Jon (April 26, 2017). "Watch the just-unveiled 'Call
        of Duty WWII' trailer right here". Digital Trends. Archived from
        the original on April 26, 2017. Retrieved April 26, 2017.
-    8. ^ Breckon, Nick (May 7, 2009). "Call of Duty 4 Sales Pass 13
+   74. ^ Breckon, Nick (May 7, 2009). "Call of Duty 4 Sales Pass 13
        Million Mark". Shacknews. Archived from the original on November 5,
        2013. Retrieved April 12, 2011.
-    9. ^ Cryer, Hirun (June 26, 2017). "Call of Duty: Modern Warfare
+   75. ^ Cryer, Hirun (June 26, 2017). "Call of Duty: Modern Warfare
        Remastered - Release Date, Price, Platforms, Maps - Everything We
        Know". USGamer. Archived from the original on May 25, 2018.
        Retrieved May 25, 2018.
-   10. ^ "Call of Duty: Modern Warfare Remastered. Tráiler de lanzamiento
+   76. ^ "Call of Duty: Modern Warfare Remastered. Tráiler de lanzamiento
        2017". IGN (in Spanish). Ziff Davis, LLC. June 23, 2017. Archived
        from the original on May 25, 2018. Retrieved May 25, 2018.
-   11. ^ Sledge, Kyle (2016). "Former Call of Duty Dev Has Message for
+   77. ^ Sledge, Kyle (2016). "Former Call of Duty Dev Has Message for
        Modern Warfare Remastered Team". GameRant. Archived from the
        original on May 25, 2018. Retrieved May 25, 2018.
-   12. ^ Keshav (March 21, 2018). "Sources: Call of Duty: Modern Warfare 2
+   78. ^ Keshav (March 21, 2018). "Sources: Call of Duty: Modern Warfare 2
        Remastered has no MP, not developed by Raven". Charlie INTEL.
        Archived from the original on May 25, 2018. Retrieved May 25, 2018.
 --
        Publishing, Inc. March 26, 2009. Archived from the original on May
        21, 2013. Retrieved March 26, 2009.
-   14. ^ "Infinity Ward enlisted for Call of Duty 6". Uk.gamespot.com.
+   80. ^ "Infinity Ward enlisted for Call of Duty 6". Uk.gamespot.com.
        November 10, 2009. Archived from the original on September 20,
        2011. Retrieved November 26, 2012.
-   15. ^ Ocampo, Jason (February 11, 2009). "Call of Duty: Modern Warfare
+   81. ^ Ocampo, Jason (February 11, 2009). "Call of Duty: Modern Warfare
        2 This Holiday". IGN. Archived from the original on January 20,
        2012. Retrieved February 11, 2009.
-   16. ^ "Activision Announces 'Guitar Hero 5,' New 'Tony Hawk,' 'Call of
+   82. ^ "Activision Announces 'Guitar Hero 5,' New 'Tony Hawk,' 'Call of
        Duty: Modern Warfare 3,' More At In-Game Ad Conference".
        Multiplayerblog.mtv.com. December 3, 2008. Archived from the
        original on December 5, 2008. Retrieved November 26, 2012.
-   17. ^ "Call of Duty: Modern Warfare2: Mobilized in Development for
+   83. ^ "Call of Duty: Modern Warfare2: Mobilized in Development for
        Nintendo DS". IGN. August 3, 2009. Archived from the original on
        August 8, 2009. Retrieved August 3, 2009.
-   18. ^ "Call of Duty: Modern Warfare Coming to Nintendo Wii". IGN.
+   84. ^ "Call of Duty: Modern Warfare Coming to Nintendo Wii". IGN.
        August 5, 2009. Archived from the original on August 8, 2009.
        Retrieved August 5, 2009.
 --
        on May 24, 2012. Retrieved February 6, 2011.
-   21. ^ ^a ^b Fritz, Ben (January 20, 2011). "Activision calls in
+   87. ^ ^a ^b Fritz, Ben (January 20, 2011). "Activision calls in
        reinforcements for next Call of Duty game". Los Angeles Times.
        Archived from the original on October 26, 2013. Retrieved February
        6, 2011.
-   22. ^ Pakinkis, Tom (February 14, 2011). "Call of Duty 8 dev targets
+   88. ^ Pakinkis, Tom (February 14, 2011). "Call of Duty 8 dev targets
        'bug free' game". Computerandvideogames.com. Archived from the
        original on July 8, 2011. Retrieved November 26, 2012.
-   23. ^ Yin-Poole, Wesley (February 6, 2021). "For the first time, the
+   89. ^ Yin-Poole, Wesley (February 6, 2021). "For the first time, the
        Call of Duty: Warzone, Black Ops, Zombies and Modern Warfare
        storylines are all connected". Eurogamer. Archived from the
        original on October 23, 2021. Retrieved March 16, 2021.
-   24. ^ "Call of Duty: Warzone confirmed as a standalone, free-to-play
+   90. ^ "Call of Duty: Warzone confirmed as a standalone, free-to-play
        battle royale". PCGamesN. March 9, 2020. Archived from the original
        on October 23, 2021. Retrieved April 21, 2020.
-   25. ^ McWhertor, Michael (April 10, 2020). "Call of Duty: Warzone hits
+   91. ^ McWhertor, Michael (April 10, 2020). "Call of Duty: Warzone hits
        50M players in first month". Polygon. Archived from the original on
        October 23, 2021. Retrieved April 21, 2020.
-   26. ^ "Call of Duty® Community Update: A Warzone™ Special Briefing for
+   92. ^ "Call of Duty® Community Update: A Warzone™ Special Briefing for
        Our Players". Callofduty.com. February 11, 2022. Retrieved February
        11, 2022.
-   27. ^ Scullion, Chris (April 28, 2022). "Call of Duty: Modern Warfare
+   93. ^ Scullion, Chris (April 28, 2022). "Call of Duty: Modern Warfare
        2's title and logo have been officially confirmed - VGC". Video
        Games Chronicle. Retrieved April 29, 2022.
-   28. ^ "Announcing Call of Duty®: Next, the Franchise Showcase Event,
+   94. ^ "Announcing Call of Duty®: Next, the Franchise Showcase Event,
        and Open Beta date times for Call of Duty®: Modern Warfare® II".
        www.callofduty.com. Retrieved August 31, 2022.
-   29. ^ Goslin, Austen (September 15, 2022). "Call of Duty Warzone 2.0
+   95. ^ Goslin, Austen (September 15, 2022). "Call of Duty Warzone 2.0
        and the other big announcements from Call of Duty Next". Polygon.
        Retrieved September 23, 2022.
-   30. ^ "Call of Duty®: Modern Warfare® II Editions, Benefits Detailed".
+   96. ^ "Call of Duty®: Modern Warfare® II Editions, Benefits Detailed".
        www.callofduty.com. Retrieved August 31, 2022.
-   31. ^ Robinson, Andy (June 9, 2008). "Call of Duty: World at War –
+   97. ^ Robinson, Andy (June 9, 2008). "Call of Duty: World at War –
        first details in OXM". Computerandvideogames.com. Archived from the
        original on November 7, 2012. Retrieved November 26, 2012.
-   32. ^ McWhertor, Michael (June 15, 2009). "Call of Duty: World At War
+   98. ^ McWhertor, Michael (June 15, 2009). "Call of Duty: World At War
        Tops 11 Million". Kotaku. Archived from the original on September
        5, 2009. Retrieved November 10, 2009.
-   33. ^ Gerstmann, Jeff (November 9, 2010). "Call of Duty: Black Ops
+   99. ^ Gerstmann, Jeff (November 9, 2010). "Call of Duty: Black Ops
        Review". Giant Bomb. Archived from the original on August 22, 2017.
        Retrieved February 2, 2018.
-   34. ^ Irvine, Nathan (November 9, 2010). "Call of Duty: Black Ops Super
-       Review". Games Radar. Archived from the original on February 2,
-       2018. Retrieved February 2, 2018.
-   35. ^ Luke Plunkett (April 30, 2010). "Next Call Of Duty Game Named,
+   100. ^ Irvine, Nathan (November 9, 2010). "Call of Duty: Black Ops
+       Super Review". Games Radar. Archived from the original on February
+       2, 2018. Retrieved February 2, 2018.
+   101. ^ Luke Plunkett (April 30, 2010). "Next Call Of Duty Game Named,
        And It's Not Vietnam". Kotaku. Archived from the original on May 9,
        2013. Retrieved April 28, 2010.
-   36. ^ "Call of Duty: Black Ops Home". Activision. Archived from the
+   102. ^ "Call of Duty: Black Ops Home". Activision. Archived from the
        original on July 25, 2013. Retrieved April 30, 2010.
-   37. ^ Brian Crecente (April 30, 2010). "New Treyarch Developed Call of
+   103. ^ Brian Crecente (April 30, 2010). "New Treyarch Developed Call of
        Duty Hits may 24 With Likely Modern Setting". Kotaku. Archived from
        the original on October 15, 2012. Retrieved April 28, 2010.
-   38. ^ Oli Welsh (May 13, 2010). "COD: Black Ops for Wii confirmed".
+   104. ^ Oli Welsh (May 13, 2010). "COD: Black Ops for Wii confirmed".
 --
        Computerandvideogames.com. Archived from the original on May 3,
        2012. Retrieved May 1, 2012.
-   41. ^ Kain, Erik (April 23, 2015). "Check Out The 'Call Of Duty: Black
+   107. ^ Kain, Erik (April 23, 2015). "Check Out The 'Call Of Duty: Black
        Ops 3' Ember Teaser". Forbes. Archived from the original on April
        27, 2015. Retrieved April 27, 2015.
-   42. ^ Takahashi, Dean (March 8, 2018). "Call of Duty: Black Ops 4 is
+   108. ^ Takahashi, Dean (March 8, 2018). "Call of Duty: Black Ops 4 is
        coming from Treyarch this year, Activision confirms". Venture Beat.
        Archived from the original on March 8, 2018. Retrieved March 8,
        2018.
-   43. ^ Hurley, Leon (May 17, 2018). "Yep, Call of Duty Black Ops 4 has
+   109. ^ Hurley, Leon (May 17, 2018). "Yep, Call of Duty Black Ops 4 has
        no single player. Here's what you're getting instead". Games Radar.
        Archived from the original on October 23, 2021. Retrieved June 28,
        2019.
-   44. ^ Coombes, Lloyd; October 2020, Vic Hood 07. "Call of Duty: Black
+   110. ^ Coombes, Lloyd; October 2020, Vic Hood 07. "Call of Duty: Black
        Ops Cold War release date, trailers and news". TechRadar. Archived
        from the original on October 23, 2021. Retrieved October 15,
        2020.{{cite web}}: CS1 maint: numeric names: authors list (link)
-   45. ^ "Call of Duty Ghosts officially revealed". May 2013. Archived
+   111. ^ "Call of Duty Ghosts officially revealed". May 2013. Archived
        from the original on May 18, 2015. Retrieved May 10, 2015.
-   46. ^ "Call of Duty: Ghosts announced". Archived from the original on
+   112. ^ "Call of Duty: Ghosts announced". Archived from the original on
        November 9, 2013. Retrieved May 2, 2013.
-   47. ^ D'Orazio, Dante (May 1, 2013). "'Call of Duty: Ghosts' set for
+   113. ^ D'Orazio, Dante (May 1, 2013). "'Call of Duty: Ghosts' set for
        November release, will be available on next-generation consoles".
        The Verge. Archived from the original on October 23, 2021.
        Retrieved June 28, 2019.
-   48. ^ Sliva, Marty (November 8, 2013). "Activision Confirms New Call of
-       Duty and Skylander Games for 2014". IGN. Archived from the original
-       on April 25, 2014. Retrieved June 2, 2014.
-   49. ^ Humphries, Matthew (August 11, 2014). "CoD: Advanced Warfare
+   114. ^ Sliva, Marty (November 8, 2013). "Activision Confirms New Call
+       of Duty and Skylander Games for 2014". IGN. Archived from the
+       original on April 25, 2014. Retrieved June 2, 2014.
+   115. ^ Humphries, Matthew (August 11, 2014). "CoD: Advanced Warfare
 --
        28, 2019.
-   50. ^ Phillips, Tom (April 28, 2016). "It looks like this year's COD is
-       named Call of Duty: Infinite Warfare". Eurogamer. Archived from the
-       original on April 29, 2016. Retrieved May 1, 2016.
-   51. ^ Makuch, Eddie (March 20, 2014). "2014's Call of Duty described as
-       the "best ever created"". Archived from the original on September
-       7, 2015. Retrieved May 2, 2016.
-   52. ^ "Activision confirms 3 year dev cycle for the Call of Duty
+   116. ^ Phillips, Tom (April 28, 2016). "It looks like this year's COD
+       is named Call of Duty: Infinite Warfare". Eurogamer. Archived from
+       the original on April 29, 2016. Retrieved May 1, 2016.
+   117. ^ Makuch, Eddie (March 20, 2014). "2014's Call of Duty described
+       as the "best ever created"". Archived from the original on
+       September 7, 2015. Retrieved May 2, 2016.
+   118. ^ "Activision confirms 3 year dev cycle for the Call of Duty
        franchise; SHGames game coming in 2014". February 6, 2014. Archived
        from the original on April 20, 2015. Retrieved April 27, 2015.
-   53. ^ Schreier, Jason (May 18, 2019). "Sources: Call of Duty 2020 In
+   119. ^ Schreier, Jason (May 18, 2019). "Sources: Call of Duty 2020 In
        Upheaval As Treyarch Takes Over, Plans Black Ops 5". Kotaku.
        Archived from the original on October 23, 2021. Retrieved May 23,
        2019.
-   54. ^ Reilly, Jim (May 7, 2010). "Retailers List Call of Duty: The War
+   120. ^ Reilly, Jim (May 7, 2010). "Retailers List Call of Duty: The War
        Collection". IGN. Archived from the original on January 2, 2017.
        Retrieved January 1, 2017.
 --
        Retrieved November 17, 2017.
-   56. ^ Crecente, Brian (August 26, 2010). "Hands Cramping On with Call
+   122. ^ Crecente, Brian (August 26, 2010). "Hands Cramping On with Call
        of Duty: Black Ops DS". Kotaku. Archived from the original on
        September 24, 2010. Retrieved August 30, 2010.
-   57. ^ Harris, Craig (July 27, 2010). "Bringing Black Ops to the
+   123. ^ Harris, Craig (July 27, 2010). "Bringing Black Ops to the
        Handheld". IGN. Archived from the original on July 30, 2010.
        Retrieved August 25, 2010.
-   58. ^ Dring, Christopher (November 14, 2012). "SONY: Call of Duty:
+   124. ^ Dring, Christopher (November 14, 2012). "SONY: Call of Duty:
        Black Ops Declassified comes to Vita this year | Games industry
        news | MCV". Mcvuk.com. Archived from the original on June 10,
        2012. Retrieved November 26, 2012.
-   59. ^ "'Call of Duty Warzone' is coming to mobile according to
+   125. ^ "An Update on Call of Duty: Warzone Caldera". Call of Duty. June
+       22, 2023. Retrieved December 28, 2023.{{cite web}}: CS1 maint:
+       url-status (link)
+   126. ^ "'Call of Duty Warzone' is coming to mobile according to
        reports". NME. December 7, 2021. Retrieved January 9, 2022.
-   60. ^ Jordan Valinsky (October 2019). "'Call of Duty: Mobile' is
+   127. ^ Jordan Valinsky (October 2019). "'Call of Duty: Mobile' is
        released". CNN. Archived from the original on October 6, 2019.
        Retrieved October 7, 2019.
-   61. ^ Porter, Jon (March 19, 2019). "Call of Duty: Mobile is a
+   128. ^ Porter, Jon (March 19, 2019). "Call of Duty: Mobile is a
        free-to-play tour of the franchise's greatest hits". The Verge.
        Archived from the original on March 31, 2019. Retrieved March 19,
        2019.
-   62. ^ Lyles, Taylor (October 4, 2019). "Call of Duty: Mobile reaches 35
-       million downloads 3 days after its release". Digital Trends.
+   129. ^ Lyles, Taylor (October 4, 2019). "Call of Duty: Mobile reaches
+       35 million downloads 3 days after its release". Digital Trends.
        Archived from the original on October 23, 2021. Retrieved October
 --
-   63. ^ "www.gamasutra.com [7]". Gamasutra.com. Archived from the
+   130. ^ "www.gamasutra.com [7]". Gamasutra.com. Archived from the
        original on November 9, 2012. Retrieved November 26, 2012.
-   64. ^ "Call of Duty: Devil's Brigade Revealed". The Verge. February 12,
-       2012. Archived from the original on February 22, 2012. Retrieved
-       February 12, 2012.
-   65. ^ "Sledgehammer Games Call of Duty and CoD MMOG". Archived from the
-       original on June 14, 2011. Retrieved June 19, 2011.
-   66. ^ Phillips, Tom (May 15, 2014). "There was a canned third-person
+   131. ^ "Call of Duty: Devil's Brigade Revealed". The Verge. February
+       12, 2012. Archived from the original on February 22, 2012.
+       Retrieved February 12, 2012.
+   132. ^ "Sledgehammer Games Call of Duty and CoD MMOG". Archived from
+       the original on June 14, 2011. Retrieved June 19, 2011.
+   133. ^ Phillips, Tom (May 15, 2014). "There was a canned third-person
        Call of Duty game set in Vietnam". Eurogamer. Gamer Network.
        Archived from the original on May 17, 2014. Retrieved May 15, 2014.
-   67. ^ "The incredible story of Roman Wars: The lost Call of Duty game".
-       gamesradar+. July 5, 2016. Archived from the original on July 6,
-       2016. Retrieved July 5, 2016.
+   134. ^ "The incredible story of Roman Wars: The lost Call of Duty
+       game". gamesradar+. July 5, 2016. Archived from the original on
+       July 6, 2016. Retrieved July 5, 2016.
 --
-   69. ^ "Activision Games Blog - Home". Activision Games Blog. Archived
+   136. ^ "Activision Games Blog - Home". Activision Games Blog. Archived
        from the original on March 31, 2019. Retrieved March 31, 2019.
-   70. ^ "Call of Duty Card Game". Upper Deck. Archived from the original
+   137. ^ "Call of Duty Card Game". Upper Deck. Archived from the original
        on March 28, 2009.
-   71. ^ "Activision, Plan-B Toys, Radioactive Clown Enlist for 'Call of
+   138. ^ "Activision, Plan-B Toys, Radioactive Clown Enlist for 'Call of
        Duty'". GameZone. April 6, 2004. Archived from the original on June
        16, 2011. Retrieved April 25, 2008.
-   72. ^ Cunningham, James (September 24, 2004). "TNL Show and Tell: Call
+   139. ^ Cunningham, James (September 24, 2004). "TNL Show and Tell: Call
        of Duty Action Figure". The Next Level. Archived from the original
        on May 9, 2008. Retrieved April 25, 2008.
-   73. ^ "Call of Duty Nazi action figure discontinued". Kotaku. Archived
+   140. ^ "Call of Duty Nazi action figure discontinued". Kotaku. Archived
        from the original on July 4, 2007. Retrieved April 25, 2008.
-   74. ^ "MacFarlane Toys Call of Duty Action Figures at Spawn.com".
+   141. ^ "MacFarlane Toys Call of Duty Action Figures at Spawn.com".
        Spawn.com. Archived from the original on December 24, 2008.
        Retrieved December 30, 2008.
 --
-       on October 25, 2011. Retrieved May 25, 2012.
-   76. ^ Kit, Borys (November 6, 2015). "Activision Blizzard Launches
+       original on October 25, 2011. Retrieved May 25, 2012.
+   143. ^ Kit, Borys (November 6, 2015). "Activision Blizzard Launches
        Studio, Plans 'Call of Duty' Cinematic Universe". The Hollywood
        Reporter. Archived from the original on October 23, 2021.
-   77. ^ Kroll, Justin (February 13, 2018). "'Sicario 2' Director Tapped
+   144. ^ Kroll, Justin (February 13, 2018). "'Sicario 2' Director Tapped
        to Helm 'Call of Duty' Film (EXCLUSIVE)". Variety. Archived from
        the original on October 23, 2021. Retrieved February 13, 2018.
-   78. ^ Nattrass, JJ (February 15, 2018). "Tom Hardy and Chris Pine could
-       be the leading men in Call of Duty movie if Sicario 2 director gets
-       his way". Metro UK. Archived from the original on October 23, 2021.
-       Retrieved February 15, 2018.
-   79. ^ Topel, Fred (June 14, 2018). "'Call of Duty' Will be a "Soldier
+   145. ^ Nattrass, JJ (February 15, 2018). "Tom Hardy and Chris Pine
+       could be the leading men in Call of Duty movie if Sicario 2
+       director gets his way". Metro UK. Archived from the original on
+       October 23, 2021. Retrieved February 15, 2018.
+   146. ^ Topel, Fred (June 14, 2018). "'Call of Duty' Will be a "Soldier
        Movie," Not a War Movie [Exclusive]". Film Slash. Archived from the
        original on October 23, 2021. Retrieved June 14, 2018.
-   80. ^ Kroll, Justin (November 27, 2018). "'Black Panther' Scribe Joe
+   147. ^ Kroll, Justin (November 27, 2018). "'Black Panther' Scribe Joe
        Robert Cole to Write 'Call of Duty' Movie Sequel (EXCLUSIVE)".
        Variety. Archived from the original on November 28, 2018. Retrieved
        November 28, 2018.
-   81. ^ Sobczak, Bartek (October 29, 2018). "Stefano Sollima's CALL OF
+   148. ^ Sobczak, Bartek (October 29, 2018). "Stefano Sollima's CALL OF
        DUTY Adaptation Is Reportedly Eyeing 2020 Or 2021 Release Date".
        Variety. Archived from the original on October 23, 2021. Retrieved
        October 29, 2018.
-   82. ^ Burwick, Kevin (February 14, 2020). "Call of Duty Movie
+   149. ^ Burwick, Kevin (February 14, 2020). "Call of Duty Movie
        Indefinitely Delayed by Activision". MovieWeb. Archived from the
        original on October 23, 2021. Retrieved February 16, 2020.
 --
-   85. ^ Goldberg, K. "Ghosts Team Ladder". Gamebattles. Archived from the
-       original on March 25, 2014. Retrieved April 1, 2014.
-   86. ^ Goldberg, K. "Full Sail University: Call of Duty". Gamebattles.
+   152. ^ Goldberg, K. "Ghosts Team Ladder". Gamebattles. Archived from
+       the original on March 25, 2014. Retrieved April 1, 2014.
+   153. ^ Goldberg, K. "Full Sail University: Call of Duty". Gamebattles.
        Archived from the original on August 22, 2013. Retrieved April 1,
        2014.
-   87. ^ "Travel Overview". Call of Duty®. Activision. Archived from the
+   154. ^ "Travel Overview". Call of Duty®. Activision. Archived from the
        original on January 2, 2012. Retrieved April 1, 2014.
-   88. ^ Goldberg, K. "StarCraft II Team Standings - Singles Ladder Spring
-       Season 2014". Gamebattles. Archived from the original on August 23,
-       2013. Retrieved April 1, 2014.
-   89. ^ Hume, Mike (September 25, 2019). "New Call of Duty esports league
-       will begin play in home markets in 2020, start with 12 teams". The
-       Washington Post. Archived from the original on September 28, 2019.
-       Retrieved September 28, 2019.
-   90. ^ O'Keefe, Ed (November 9, 2009). "Game developer's newest 'Call of
-       Duty' helps veterans find jobs". The Washington Post. Archived from
-       the original on February 17, 2011. Retrieved April 28, 2010.
-   91. ^ "General James L. Jones". Archived from the original on October
+   155. ^ Goldberg, K. "StarCraft II Team Standings - Singles Ladder
+       Spring Season 2014". Gamebattles. Archived from the original on
+       August 23, 2013. Retrieved April 1, 2014.
+   156. ^ Hume, Mike (September 25, 2019). "New Call of Duty esports
+       league will begin play in home markets in 2020, start with 12
+       teams". The Washington Post. Archived from the original on
+       September 28, 2019. Retrieved September 28, 2019.
+   157. ^ O'Keefe, Ed (November 9, 2009). "Game developer's newest 'Call
+       of Duty' helps veterans find jobs". The Washington Post. Archived
+       from the original on February 17, 2011. Retrieved April 28, 2010.
+   158. ^ "General James L. Jones". Archived from the original on October
        28, 2015. Retrieved December 30, 2016.
-   92. ^ "Call of Duty Endowment Home Page". Archived from the original on
-       December 20, 2009.
-   93. ^ "Activision's Call of Duty™ Endowment Announces Seven Recipients
+   159. ^ "Call of Duty Endowment Home Page". Archived from the original
+       on December 20, 2009.
+   160. ^ "Activision's Call of Duty™ Endowment Announces Seven Recipients
        of 2014 "Seal of Distinction" Awards". Activision (BusinessWire).
        November 6, 2014. Archived from the original on November 12, 2015.
        Retrieved August 29, 2015.
-   94. ^ "Call of Duty® Gamers Join "Race to 1,000 Jobs" Campaign
+   161. ^ "Call of Duty® Gamers Join "Race to 1,000 Jobs" Campaign
        (#1000Vets) to Place 1,000 Military Veterans in High-Quality
        Careers by Raising $1 Million". Activision (BusinessWire). October
        29, 2014. Archived from the original on December 21, 2014.
        Retrieved August 29, 2015.
-   95. ^ "Overview". callofdutyendowment.org. Archived from the original
+   162. ^ "Overview". callofdutyendowment.org. Archived from the original
        on August 23, 2015. Retrieved August 29, 2015.
-   96. ^ Marchese, Dean (March 30, 2010). "$180,000 Worth Of Modern
+   163. ^ Marchese, Dean (March 30, 2010). "$180,000 Worth Of Modern
 --
        26, 2012.
-   97. ^ Batchelor, James (November 7, 2017). "Humvee maker suing
+   164. ^ Batchelor, James (November 7, 2017). "Humvee maker suing
        Activision over trademark infringement in Call of Duty".
        GamesIndustry.biz. Archived from the original on October 23, 2021.
        Retrieved April 1, 2020.
@@ -1019,8 +1200,8 @@ References
 External links
 
    Call of Duty at Wikipedia's sister projects
+
      * Media from Commons
-     * Quotations from Wikiquote
 --
      * e
 
@@ -1074,8 +1255,8 @@ External links
 --
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Call_of_Duty&oldid=11877089
-   28"
+   "https://en.wikipedia.org/w/index.php?title=Call_of_Duty&oldid=11933009
+   67"
 
    Categories:
      * Call of Duty

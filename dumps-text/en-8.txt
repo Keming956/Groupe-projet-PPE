@@ -5,7 +5,7 @@
    (BUTTON)
    (BUTTON)
    Home
-   Elections 2023
+   DH Changemakers
    India
    Karnataka
    Opinion
@@ -21,7 +21,7 @@
    Trending
    Brandspot
    Photos
-   DH Specials
+   Newsletters
    Home
    News Shots
    Trending
@@ -108,27 +108,33 @@ Follow us on
    DH on Sunday
    DH on Saturday
    Explainers
-     * Explained | How climate change is making the world sick
-     * Explained | COP28 climate summit just approved a ‘loss and damage’
-       fund. What does this mean?
-     * Explained | What is PM Modi's Green Credits initiative?
-     * Explained | How will countries measure climate action at COP28?
+     * Explained | Why Arsenal will wear all-white home kit in Liverpool
+       FA Cup clash
+     * Explained | Why Ukraine is considering change in mobilisation rules
+       as war with Russia drags on
+     * Explained | Square Kilometre Array project, world’s largest radio
+       telescope, and India's role in it
+     * Explained | All you need to know about Adani vs Hindenburg Research
 
    What's Brewing
-     * Odisha deploys rescue teams as cyclone approaches Andhra coast
-     * Heavy rain alerts issued as 'Michaung' intensifies into a severe
-       cyclonic storm
-     * Congress MLAs in Telangana resolve to authorise AICC chief
-       Mallikarjun Kharge to appoint CLP leader
-     * Ethics panel report on Mahua Moitra listed for today but not tabled
-       in LS yet
+     * Vaishnaw to inaugurate rail projects, flag off trains during 3-day
+       visit to Odisha
+     * Delhi health minister welcomes CBI probe into supply of substandard
+       drugs in govt hospitals
+     * 4 of Dawood Ibrahim's properties up for bidding today at just Rs 19
+       lakh
+     * Centre orders CBI probe into substandard medicines in Delhi govt
+       hospitals
 
    Latest News
-     * The meaning of love
-     * Highest-ever monthly freight revenue for Bengaluru rail division
-     * One more nurse arrested over illegal abortion racket case in
-       Bengaluru
-     * Manipal Hospitals launches adult vaccination programme in Bengaluru
+     * News Now | Five accused in Parliament security breach consent to
+       polygraph test
+     * UP court sentences man to 25 years in jail for abducting, raping
+       girl
+     * China launches anti-dumping investigation on brandy imported from
+       the EU
+     * India Political Updates | Bengal not a 'banana republic', says
+       Governor Bose over attack on ED officials
 
    The Printers Mysore Ltd
    Prajavani

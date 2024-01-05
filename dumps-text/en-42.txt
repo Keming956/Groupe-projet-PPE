@@ -73,7 +73,7 @@
           + All Trading Courses
           + View All
 
-   Live
+   Trade
      * (BUTTON)
        Search ____________________ (BUTTON) Search (BUTTON)
        Please fill out this field. (BUTTON)
@@ -302,14 +302,20 @@ Special Considerations
        Accessed Feb. 26, 2021.
 
    Related Terms
+   Deadweight Loss of Taxation: Definition, How It Works, and Example
+   Deadweight loss of taxation is a measurement of the economic loss that
+   can be caused by a tax due to its damaging effects on supply and
+   demand.
+   more
+   What Does Duty of Care Mean in Business and Financial Services?
+   Duty of care is a fiduciary responsibility that requires company
+   directors to make decisions in good faith and in a reasonably prudent
+   manner.
+   more
    Quota
    A quota or protectionism is a government-imposed trade restriction
    limiting the number or value of goods a nation imports or exports
    during a specific time.
-   more
-   What Is a Tariff and Why Are They Important?
-   A tariff is a tax imposed by one country on the goods and services
-   imported from another country.
    more
    Fiduciary Definition: Examples and Why They Are Important
    A fiduciary is a person or organization that acts on behalf of a person
@@ -319,28 +325,25 @@ Special Considerations
    A certificate of origin is a document declaring in which country a
    commodity or good was manufactured.
    more
-   What Is Market Access in International Trade?
-   Market access refers to the ability of a company or country to sell
-   goods and services across borders.
-   more
-   Consumption Tax: Definition, Types, vs. Income Tax
-   A consumption tax is a tax on the purchase of a good or service. It can
-   also be a system taxing based on consumption rather than on added value
-   to the economy (income tax).
+   Gross Domestic Product (GDP): Formula and How to Use It
+   Gross domestic product is the monetary value of all finished goods and
+   services made within a country during a specific period.
    more
    Related Articles
+   Composite of U.S. and China flags Composite of U.S. and China flags
+   What Are Tariffs, and How Do They Affect You?
+   Defined Defined
+   Deadweight Loss of Taxation: Definition, How It Works, and Example
+   [13368794123_7a15a37820_o-7d33ce5a488d4b0cb80e6230e6d98615.jpg]
+   3 Ways Tax Haven Governments Make Money
+   Hands holding Fiduciary duty in an court. Hands holding Fiduciary duty
+   in an court.
+   What Is a Fiduciary Duty? Examples and Types Explained
+   Different people pointing fingers at young guy. Different people
+   pointing fingers at young guy.
+   What Does Duty of Care Mean in Business and Financial Services?
    Quota Quota
    Quota
-   [quota.asp-Final-858c89e1689c4841b547ee7e2d4ea95d.jpg]
-   3 Ways Tax Haven Governments Make Money
-   Tariff Tariff
-   What Is a Tariff and Why Are They Important?
-   Fiduciary Fiduciary
-   Fiduciary Definition: Examples and Why They Are Important
-   Certificate of Origin (CO) Certificate of Origin (CO)
-   Certificate of Origin (CO): Definition, Types, and How to Get One
-   [Certificate-of-origin_final-375c7da3cb3d4ef48e22afc352093d49.png]
-   How the IRS Works: Functions and Audits
    Partner Links
 
      *

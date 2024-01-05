@@ -33,7 +33,7 @@ Customs Duty
    Type and value of goods Customs Duty
    Non-excise goods worth £135 or less No charge
    Gifts and goods above £135 The rate depends on the type of goods and
-   where they came from - call the helpline
+   where they came from - use the Trade Tariff service to check duty rates
 
    You pay Customs Duty on excise goods of any value.
 
@@ -49,7 +49,7 @@ Excise Duty
 --
 
    If you receive large amounts of alcohol or tobacco for your business,
-   use the Trade Tariff to check duty rates.
+   use the Trade Tariff service to check duty rates.
 
    Your goods can also be seized if they’re:
      * spirits over 35 centilitres without a UK duty stamp

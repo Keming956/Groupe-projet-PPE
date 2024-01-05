@@ -22,7 +22,7 @@
      * Upload file
 
    Languages
-   Language links are at the top of the page across from the title.
+   Language links are at the top of the page.
    Wikipedia The Free Encyclopedia
    Search
    ____________________
@@ -453,14 +453,14 @@ Franchise[edit]
 
    Main article: Call of Duty
 
-   Call of Duty spawned numerous spin-offs and sequels, part of the Call
-   of Duty series. Its expansion pack - Call of Duty: United Offensive was
-   developed by Gray Matter Studios and released September 14, 2004. Call
-   of Duty 2 was also developed by Infinity Ward and was released in
-   October 2005. Some Call of Duty spinoffs were developed for consoles,
-   such as Call of Duty: Finest Hour by Spark Unlimited and Call of Duty
-   2: Big Red One by Gray Matter Studios (merged into Treyarch). The
-   franchise eventually had over fifteen more sequels and spin offs.
+   Call of Duty spawned numerous spin-offs and sequels, as part of the
+   Call of Duty series. Its expansion pack - Call of Duty: United
+   Offensive was developed by Gray Matter Studios and released September
+   14, 2004. Call of Duty 2 was also developed by Infinity Ward and was
+   released in October 2005. Some Call of Duty spinoffs were developed for
+   consoles, such as Call of Duty: Finest Hour by Spark Unlimited and Call
+   of Duty 2: Big Red One by Gray Matter Studios (merged into Treyarch).
+   The franchise eventually had over fifteen more sequels and spin offs.
 
 Ports[edit]
 
@@ -566,7 +566,7 @@ References[edit]
 External links[edit]
 
      * Official website
-     * Call of Duty at IMDb
+     * Call of Duty at IMDb Edit this at Wikidata
 
      * v
      * t
@@ -779,7 +779,7 @@ External links[edit]
 
    Retrieved from
    "https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&o
-   ldid=1183788715"
+   ldid=1190551128"
 
    Categories:
      * 2003 video games
@@ -823,12 +823,11 @@ External links[edit]
      * Articles using Wikidata infoboxes with locally defined images
      * Articles using Video game reviews template in single platform mode
      * Official website different in Wikidata and Wikipedia
-     * IMDb ID same as Wikidata
      * Articles with BNF identifiers
      * Articles with BNFdata identifiers
      * Articles with MusicBrainz release group identifiers
 
-     * This page was last edited on 6 November 2023, at 14:29 (UTC).
+     * This page was last edited on 18 December 2023, at 14:57 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

@@ -5,9 +5,6 @@
      * Search
      * Footer
 
-   En raison d'activités de maintenance planifiées, le site sera
-   inaccessible cette nuit de 23h à 4h.
-
    République
    Française
 
@@ -21,7 +18,7 @@
      * Accéder au site pour les entreprises
 
    (BUTTON) Fermer
-   Recherche ____________________ (BUTTON) Rechercher
+   Recherche ____________________ (BUTTON) Rechercher sur le site
    (BUTTON) Fermer
      * Accueil
      * Actualité
@@ -76,9 +73,10 @@
      * (BUTTON) (BUTTON)
      * (BUTTON) Focus
 
-   Selecting a language will automatically trigger the translation of the
-   page content.
-   [English__]
+   (BUTTON) EN - English
+     * EN - English
+     * FR - Français
+
    (BUTTON)
 
    Share the page
@@ -574,16 +572,18 @@ FAQ
 
 (BUTTON) Additional topics
 
-     * Customs: What products are prohibited from being brought to
-       France?Service-Public.fr
-     * Bring tobacco from the foreignerService-Public.fr
-     * Bring alcohol from the foreignerService-Public.fr
-     * Import a vehicle purchased abroadDirectorate General of Customs and
-       Indirect Taxes
-     * Travel outside the EU: free movement card for your goodsMinistry of
-       Finance
-     * On import or export: an obligation, declare its goodsMinistry of
-       Finance
+     * Customs: What products are prohibited from being brought to France?
+       Service-Public.fr
+     * Bring tobacco from the foreigner
+       Service-Public.fr
+     * Bring alcohol from the foreigner
+       Service-Public.fr
+     * Import a vehicle purchased abroad
+       Directorate General of Customs and Indirect Taxes
+     * Travel outside the EU: free movement card for your goods
+       Ministry of Finance
+     * On import or export: an obligation, declare its goods
+       Ministry of Finance
 
 EU :
 
@@ -664,16 +664,3 @@ sur les réseaux sociaux
 
    Sauf mention contraire, tous les contenus de ce site sont sous licence
    etalab-2.0
-
-   (BUTTON) Fermer
-
-Baromètre
-
-Votre avis nous intéresse !
-
-   Quelle est votre expérience du site service-public.fr ?
-
-   Aidez-nous à concevoir un site adapté à vos besoins en répondant à
-   notre questionnaire.
-     * (BUTTON) Fermer
-     * Je donne mon avis

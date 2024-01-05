@@ -132,15 +132,15 @@ Franchise[edit]
 
    Main article: Call of Duty
 
-   Call of Duty spawned numerous spin-offs and sequels, part of the Call
-   of Duty series. Its expansion pack - Call of Duty: United Offensive was
-   developed by Gray Matter Studios and released September 14, 2004. Call
-   of Duty 2 was also developed by Infinity Ward and was released in
-   October 2005. Some Call of Duty spinoffs were developed for consoles,
-   such as Call of Duty: Finest Hour by Spark Unlimited and Call of Duty
-   2: Big Red One by Gray Matter Studios (merged into Treyarch). The
-   franchise eventually had over fifteen more sequels and spin offs.
---
+   Call of Duty spawned numerous spin-offs and sequels, as part of the
+   Call of Duty series. Its expansion pack - Call of Duty: United
+   Offensive was developed by Gray Matter Studios and released September
+   14, 2004. Call of Duty 2 was also developed by Infinity Ward and was
+   released in October 2005. Some Call of Duty spinoffs were developed for
+   consoles, such as Call of Duty: Finest Hour by Spark Unlimited and Call
+   of Duty 2: Big Red One by Gray Matter Studios (merged into Treyarch).
+   The franchise eventually had over fifteen more sequels and spin offs.
+
 Ports[edit]
 
    Call of Duty Classic is a downloadable version of Call of Duty for Xbox
@@ -212,7 +212,7 @@ References[edit]
 --
 
      * Official website
-     * Call of Duty at IMDb
+     * Call of Duty at IMDb Edit this at Wikidata
 
      * v
 --
@@ -247,7 +247,7 @@ References[edit]
 
    Retrieved from
    "https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&o
-   ldid=1183788715"
+   ldid=1190551128"
 
 --
      * 2003 video games

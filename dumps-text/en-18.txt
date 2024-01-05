@@ -92,7 +92,7 @@ Prevent duty guidance: England and Wales (2023)
           12 March 2015
 
    Last updated
-          18 October 2023 — See all updates
+          31 December 2023 — See all updates
 
    (BUTTON) Get emails about this page
 
@@ -134,8 +134,8 @@ Details
 
    This is statutory guidance for England and Wales, issued on 7 September
    2023 under Section 29 of the Counter-Terrorism and Security Act 2015.
-   Subject to Parliamentary approval, it comes into force on 31 December
-   2023.
+   It came into force on 31 December 2023, replacing the 2015 guidance
+   which came into force in July 2015.
 
    There is separate guidance for Scotland.
 
@@ -163,8 +163,10 @@ Details
      * Prevent duty guidance: for higher education institutions in England
        and Wales 2015 (updated in April 2021)
 
-   Specified authorities in England and Wales must continue to have regard
-   to the 2015 guidance until the new guidance comes into force.
+   Specified authorities in England and Wales were required to have regard
+   to the 2015 guidance until the 2023 guidance came into force on 31
+   December 2023. The 2023 guidance replaces the 2015 guidance, and
+   specified authorities must have regard to the new guidance.
 
    A glossary of terms used in the Prevent duty guidance.
 
@@ -173,23 +175,26 @@ Details
 
    Read more about our accessible documents policy.
    Published 12 March 2015
-   Last updated 18 October 2023 + show all updates
-    1. 18 October 2023
+   Last updated 31 December 2023 + show all updates
+    1. 31 December 2023
+       Updated wording to show the new guidance came into force on 31
+       December.
+    2. 18 October 2023
        Welsh version added.
-    2. 14 September 2023
+    3. 14 September 2023
        Accessible version added.
-    3. 7 September 2023
+    4. 7 September 2023
        Added Prevent duty guidance 2023 and glossary of terms.
-    4. 1 April 2021
+    5. 1 April 2021
        Link to list of further and higher education Prevent coordinators
        updated.
-    5. 10 April 2019
+    6. 10 April 2019
        Update on Court of Appeal judgment of 8 March 2019.
-    6. 23 March 2016
+    7. 23 March 2016
        Information about Prevent e-learning training package published.
-    7. 18 September 2015
+    8. 18 September 2015
        updated documents
-    8. 12 March 2015
+    9. 12 March 2015
        First published.
 
    (BUTTON) Get emails about this page

@@ -916,10 +916,6 @@
                o Singpass Foreign user Account (SFA) for Foreign
                  Individuals
                o myTax Portal Technical FAQ
-               o View Corporate Tax Notices (for Companies)
-               o View Partnership Tax Notices (for Partnerships)
-               o View Individual Tax Notices (for Sole-Proprietors)
-               o View Individual Tax Notices
                o Download Donation Application & Submit Records
                o CVS (Previously known as BIPS) Service Giving Declaration
                  Form Submission
@@ -1011,7 +1007,7 @@ Manner of acquisitions
                  Declaration of Trust / Trust Deed.
     3. By way of distribution in specie upon the winding up of a company*
     4. By way of distribution from the estate of a deceased that is not in
-       accordance to the Will, Intestate Succession Act or Muslim Law of
+       accordance with the Will, Intestate Succession Act or Muslim Law of
        Inheritance.
     5. By way of resulting trust pursuant to a renunciation of interest in
        residential property held under a bare trust
@@ -1437,6 +1433,6 @@ Inland Revenue Authority of Singapore
 
 
 
-   © 2023, Government of Singapore
+   © 2024, Government of Singapore
 
-   Last updated on 24 October 2023
+   Last updated on 27 December 2023

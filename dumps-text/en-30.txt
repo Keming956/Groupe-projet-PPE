@@ -126,7 +126,7 @@ Exemptions
 Related information
 
      * Transferring or cancelling vehicle registrationeast
-     * Order personalised, reserve or replace number plateseast
+     * Order, reserve or replace number plateseast
 
    Fees concessions and forms
      * Vehicle registration fees
@@ -167,7 +167,6 @@ Departments
      * Customer Service
      * Communities and Justice
      * Education
-     * Enterprise, Investment and Trade
      * Health
      * Planning and Environment
      * Premier's Department
@@ -190,4 +189,4 @@ NSW Government
    We pay respect to the Traditional Custodians and First Peoples of NSW,
    and acknowledge their continued connection to their country and
    culture.
-   Copyright © 2023
+   Copyright © 2024

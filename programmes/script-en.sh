@@ -16,13 +16,32 @@ fi
 
 CIBLE="dut(y|ies)"
 
+
 echo "<html>
 	<head>
 		<meta charset=\"UTF-8\">
+		<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css\">
+        <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\"></script>
+        <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js\"></script>
+        <script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js\"></script>
 	</head>
 	<body>
-	<table>
-		<tr><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>compte</th><th>dump-html</th><th>dump-txt</th><th>contexte</th><th>condordanciers</th></tr>" > ../tableaux/en.html
+	<table class=\"table table-striped table-hover\">
+		<thead>
+		<tr>
+			<th scope=\"col\">ligne</th>
+			<th scope=\"col\">URL</th>
+			<th scope=\"col\">code HTTP</th>
+			<th scope=\"col\">encodage</th>
+			<th scope=\"col\">compte</th>
+			<th scope=\"col\">dump-html</th>
+			<th scope=\"col\">dump-txt</th>
+			<th scope=\"col\">contexte</th>
+			<th scope=\"col\">condordanciers</th>
+		</tr>
+		</thead>
+		<tbody>
+		" > ../tableaux/en.html
 
 lineno=0
 while read -r URL
@@ -30,21 +49,25 @@ do
     lineno=$(expr $lineno + 1)
 	lang=$(basename $URLS .txt)
 	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
-	#URL 2, 21, 37, 50 code 403
 	dump_html=$(curl $URL > "../aspirations/${lang}-${lineno}.html")
-	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1 | tr '[:lower:]' '[:upper:]')
 	concordance_table=$(echo -e "<html><table><tr><th>contexte gauche</th><th>CIBLE</th><th>contexte droit</th></tr></table></html>" > "../concordances/${lang}-${lineno}.html")
 
 
 	COUNT=0
-	TEXTFILE="RIEN"
-	if [ $response == "200" ]
+	if [ $response -eq 200 ]
 	then
-        lynx -dump -nolist ../aspirations/${lang}-${lineno}.html > ../dumps-text/${lang}-${lineno}.txt
-        TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
+
+		if [ ! $encoding == "UTF-8" ]
+			then iconv -f "$encoding" -t "UTF-8" -o "/tmp/recode_${lineno}.html" "../aspirations/${lang}-${lineno}.html"
+			mv "/tmp/recode_${lineno}.html" "../aspirations/${lang}-${lineno}.html"
+		fi
+		lynx -assume_charset UTF-8 -dump -nolist ../aspirations/${lang}-${lineno}.html > ../dumps-text/${lang}-${lineno}.txt
+		cellule_html="<a href=../aspirations/${lang}-${lineno}.html>html</a>"
+		cellule_text="<a href=../dumps-text/${lang}-${lineno}.txt>txt</a>"
         compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -o "$CIBLE" | wc -l) >> ../tableaux/en.html
         contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
-        	#-A NUM pour grep lignes d'après et -B NUM pour lignes d'avant
+        cellule_contextes="<a href="../contextes/${lang}-${lineno}.txt">"contextes"</a>"
 
 
         echo "
@@ -61,7 +84,9 @@ do
 				    </tr>
 	    " > ../concordances/${lang}-$lineno.html
 
-		grep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)([dD]ut(y|ies))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\4<\/td><\/tr>/">>"../concordances/${lang}-$lineno.html"
+		grep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E "s/(.*)([dD]ut(y|ies)|(DUT(Y|IES)))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\6<\/td><\/tr>/" >>"../concordances/${lang}-$lineno.html"
+		#cellule_concord="../concordances/${lang}-$lineno.html"
+		cellule_concord="<a href=../concordances/${lang}-$lineno.html>tableau</a>"
 
 		    echo "
                 </table>
@@ -70,25 +95,37 @@ do
         " >> ../concordances/${lang}-$lineno.html
 
 
-		CONCORD="../concordances/${lang}-${lineno}.html"
+
+	elif [ ! $response == "200" ]
+	then
+
+		cellule_text="indisponible"
+		cellule_contextes="indisponible"
+		cellule_concord="indisponible"
+		compte="indisponible"
+		cellule_html="indisponible"
+
     fi
 
-	echo -e "<tr>
-            <td>$lineno</td>
+echo -e "<tr>
+            <th scope=\"row\">$lineno</th>
             <td>$URL</td>
             <td>$response</td>
             <td>$encoding</td>
             <td>$compte</td>
-            <td><a href=../aspirations/${lang}-${lineno}.html>html</a></td>
-            <td><a href=$TEXTFILE>txt</a></td>
-            <td><a href=../contextes/${lang}-${lineno}.txt>contextes</a></td>
-            <td><a href=$CONCORD>tableau</a></td>
-        </tr>" >> ../tableaux/en.html
+            <td>$cellule_html</td>
+            <td>$cellule_text</td>
+            <td>$cellule_contextes</td>
+            <td>$cellule_concord</td>
+        </tr>
+		" >> ../tableaux/en.html
 
 
 done < "$URLS"
 
-echo "	     </table>
-	</body>
-</html>"
->>../tableaux/en.html
+echo "
+</tbody>
+</table>
+</body>
+</html> " >> ../tableaux/en.html
+

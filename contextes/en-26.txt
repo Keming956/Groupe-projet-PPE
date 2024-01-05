@@ -18,7 +18,7 @@ What is Duty of Care?
 --
    Wellbeing
 
-Duty of Care by definition
+Duty of Care by Definition
 
    First referenced in the landmark case of Donoghue v Stevenson in 1932,
    Duty of Care has historically been connected to legal negligence. Over
@@ -38,18 +38,17 @@ Duty of Care by definition
    incidents may undermine an employee’s health and security and
    compromise the organisation’s performance.
 
-The impact of overlooking your Duty of Care responsibilities
+The Impact of Overlooking your Duty of Care Responsibilities
 
-   Legal ramifications have historically accounted for the primary concern
-   of overlooking Duty of Care responsibilities. In a broader sense, the
-   lack of demonstration to protect employees has also resulted in
-   reputational damage, loss of productivity, increased employee turnover
---
+   Legal ramifications have historically motivated the concern of
+   overlooking Duty of Care responsibilities. The lack of action to
+   protect employees has can result in reputational damage, loss of
+   productivity, increased employee turnover as well as overall cost.
 
-   As negligent cases take over the headlines of global news networks, the
-   awareness of Duty of Care has been made apparent on a global scale. The
-   COVID-19 pandemic played an important part in this heightened
-   awareness, especially from the viewpoint of employees. Growing concerns
+   As negligent cases emerge in headlines of global news networks, the
+   awareness of Duty of Care has increased on a global scale. The pandemic
+   played an important part in this heightened awareness, especially from
+   the viewpoint of employees. Growing concerns and expectations from
 --
 
    As an organisation that employs a workforce operating in varying
@@ -57,7 +56,7 @@ The impact of overlooking your Duty of Care responsibilities
    be at the core of your corporate policies.
    Although the legal specifications may vary based on location, size and
    industry, our experts have outlined the critical responsibilities
-   employers need to consider in 2023:
+   employers need to consider:
      * Taking ownership of the concept of Duty of Care: A solid
        understanding of the theory around Duty of Care is essential.
        Nevertheless, for an effective and viable implementation within
@@ -65,11 +64,11 @@ The impact of overlooking your Duty of Care responsibilities
        of Duty of Care. To do so, they must consider their organisation’s
        specificities for a bespoke application. These will help determine
        the scope of Duty of Care.
-     * Know the typology of your organisation (SME, MNC, NGO, etc.) - know
+     * Know the typology of your organisation (SME, MNC, NGO, etc.) - Know
        your human, tangible, and intangible assets, your footprint around
 --
        digital nomads are fully covered and integrated in your policies.
-     * Map and navigate the various internal stakeholders that will
+     * Map and navigate the various internal stakeholders: That will
        inevitably engage with Duty of Care considerations (employees,
        direct managers, security managers, HR, international mobility,
        legal, purchasing, risk manager, insurance, etc.).
@@ -95,7 +94,7 @@ The impact of overlooking your Duty of Care responsibilities
        framework as your workforce, operations and global environment of
        operations change.
 
-The future of Duty of Care
+The Future of Duty of Care
 
    As the risks to employees evolve, so too will the Duty of Care
    responsibilities of employers. As pandemics, global security incidents
@@ -108,7 +107,7 @@ The future of Duty of Care
 --
        vulnerable employees in times of crisis.
 
-Talk to our experts about Duty of Care
+Talk to our Experts About Duty of Care
 
    For almost four decades, our security, health, logistics and digital
    experts have been supporting over 11,000 global organisations uphold
