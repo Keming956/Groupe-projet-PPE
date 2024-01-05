@@ -1,16 +1,66 @@
-    [logo.svg]
-   Le JavaScript n'est pas activé sur votre navigateur.
-   Le JavaScript n'est pas activé sur votre navigateur. Pour vous
-   permettre de naviguer correctement sur notre site, il est nécessaire
-   qu'il soit activé.
-   Comment activer le JavaScript ?
-   Chrome
-   https://support.google.com/chrome
-   Mozilla Firefox
-   https://support.mozilla.org/fr/home
-   Safari
-   https://www.apple.com/support/safari/
-   Opera
-   https://support.google.com/adsense/answer/12654?hl=fr
-   Internet Explorer
-   https://support.microsoft.com/product/internet-explorer
+   Dictionnaire
+   devoir______________ [btn-recherche-vocal.jpg]-Submit [Dictionnaire]
+   [btn-recherche.png]-Submit
+
+Définition devoir
+
+   Citations Conjugaison Synonymes Définition
+   Devoir (Verbe)
+   [də.vwaʁ] / Transitif, 3e groupe
+     * Avoir à payer une somme d’argent, à rendre ou à donner quelque
+       chose que ce soit.
+     * Être obligé à quelque chose par la morale, par la loi, par sa
+       condition, par l’honneur, par la bienséance, etc.
+     * Être dans la nécessité de. — Note : Il est alors suivi d'un
+       infinitif.
+     * Être redevable à, tenir de.
+     * Il se dit aussi pour marquer qu’il y a une espèce de justice, de
+       raison, de nécessité, etc., qu’une chose soit.
+     * Être inévitable.
+     * Suivi d’un infinitif, il joue aussi en quelque sorte le rôle d’un
+       auxiliaire et se dit de ce qui paraît vraisemblable, probable, plus
+       ou moins certain.
+     * Il se dit de ce qu’on croit, ou qu’on présume, ou qu’on suppose qui
+       arrivera.
+     * À l’imparfait du subjonctif, et en tête de la phrase, il s’emploie
+       dans le sens de quand même.
+     * Il se dit aussi pour marquer l’intention qu’on a de faire quelque
+       chose.
+
+   Se devoir à (Verbe)
+   [sə də.vwaʁ a] / Transitif
+     * Se dit spécialement pour être dans l’obligation morale de se
+       donner, de se dévouer à sa famille, à sa patrie, à ses amis.
+
+   Devoir (Nom commun)
+   [də.vwaʁ] / Masculin
+     * Ce à quoi on est obligé par la raison, par la morale, par la loi,
+       par sa condition, par la bienséance, etc.
+     * Exercices scolaires qu’ont à faire les élèves dans un lycée, un
+       collège, une école.
+
+   Informations complémentaires
+   Le mot "devoir" est un terme polyvalent qui revêt plusieurs
+   significations et usages en fonction du contexte. Fondamentalement, il
+   se réfère à une obligation ou à une responsabilité morale, légale ou
+   sociale. Par exemple, dans un contexte éducatif, le "devoir" peut
+   signifier une tâche ou un travail assigné à un élève par un enseignant,
+   qui doit être accompli dans le cadre de son apprentissage. De même,
+   dans le contexte professionnel, un "devoir" peut désigner les
+   responsabilités et les tâches spécifiques qui incombent à un employé
+   dans le cadre de son travail. En outre, le mot "devoir" peut également
+   se référer à un concept éthique ou moral, soulignant ce qui est jugé
+   comme étant dû ou approprié. Par exemple, l'idée de "devoir moral"
+   implique que les individus ont une obligation morale envers certaines
+   actions ou comportements, qu'il s'agisse de respecter les droits des
+   autres, d'aider ceux dans le besoin, ou de respecter les lois et les
+   normes sociales. En somme, le terme "devoir" englobe des notions
+   d'obligation, de responsabilité et d'éthique, et son sens précis dépend
+   du contexte dans lequel il est utilisé.
+   [INS: :INS]
+
+   Dictionnaire > Définition > devoir
+   Navigation alphabétique | Informations & définitions | Annuaire de
+   dictionnaires
+   Copyright © Dictionnaire de définitions et synonymes Tous droits
+   réservés.
