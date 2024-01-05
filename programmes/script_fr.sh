@@ -44,6 +44,10 @@ do
         TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
         compte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -o "$CIBLE" | wc -l) >> ../tableaux/tableau-fr.html
         contexte=$(cat ../dumps-text/${lang}-${lineno}.txt | egrep -i -A 2 -B 2 "$CIBLE" > "../contextes/${lang}-${lineno}.txt")
+		cellule_html="<a href=../aspirations/${lang}-${lineno}.html>html</a>"
+		cellule_text="<a href=../dumps-text/${lang}-${lineno}.txt>txt</a>"
+		cellule_contextes="<a href="../contextes/${lang}-${lineno}.txt">"contextes"</a>"
+
         	#-A NUM pour grep lignes d'aprÃ¨s et -B NUM pour lignes d'avant
 
 
@@ -61,10 +65,10 @@ do
 				    </tr>
 	    " > ../concordances/${lang}-$lineno.html
 
-		
+
         grep -E -T -i "(\w+\W+){0,5}\b$CIBLE\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E 's/(.*)([dD]evoir(s)?)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\4<\/td><\/tr>/' >> "../concordances/${lang}-$lineno.html"
         #grep -E -T -i "(\w+\W+){0,5}\b${CIBLE}\b(\W+\w+){0,5}" ../contextes/${lang}-$lineno.txt | sed -E 's/(.*)([dD]evoir(s)?)\b(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-$lineno.html"
-        
+
 
 		    echo "
                 </table>
@@ -74,7 +78,24 @@ do
 
 
 		CONCORD="../concordances/${lang}-${lineno}.html"
+		cellule_concord="<a href=../concordances/${lang}-$lineno.html>tableau</a>"
+
+	elif [ ! $response == "200" ]
+	then
+
+		cellule_text="indisponible"
+		cellule_contextes="indisponible"
+		cellule_concord="indisponible"
+		compte="indisponible"
+		cellule_html="indisponible"
+
     fi
+
+
+
+
+
+
 
 	echo -e "<tr>
             <td>$lineno</td>
@@ -82,10 +103,10 @@ do
             <td>$response</td>
             <td>$encoding</td>
             <td>$compte</td>
-            <td><a href=../aspirations/${lang}-${lineno}.html>html</a></td>
-            <td><a href=$TEXTFILE>txt</a></td>
-            <td><a href=../contextes/${lang}-${lineno}.txt>contextes</a></td>
-            <td><a href=$CONCORD>tableau</a></td>
+            <td>$cellule_html</td>
+            <td>$cellule_text</td>
+            <td>$cellule_contextes</td>
+            <td>$cellule_concord</td>
         </tr>" >> ../tableaux/tableau-fr.html
 
 
@@ -95,6 +116,5 @@ echo "	     </table>
 	</body>
 </html>"
 >>../tableaux/tableau-fr.html
- 
 
 
