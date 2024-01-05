@@ -19,10 +19,28 @@ CIBLE="责任"
 echo "<html>
 	<head>
 		<meta charset=\"UTF-8\">
+		<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css\">
+        <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\"></script>
+        <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js\"></script>
+        <script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js\"></script>
 	</head>
 	<body>
-	<table>
-		<tr><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>compte</th><th>dump-html</th><th>dump-txt</th><th>contexte</th><th>condordanciers</th></tr>" > ../tableaux/ch.html
+	<table class=\"table table-striped table-hover\">
+		<thead>
+		<tr>
+			<th scope=\"col\">ligne</th>
+			<th scope=\"col\">URL</th>
+			<th scope=\"col\">code HTTP</th>
+			<th scope=\"col\">encodage</th>
+			<th scope=\"col\">compte</th>
+			<th scope=\"col\">dump-html</th>
+			<th scope=\"col\">dump-txt</th>
+			<th scope=\"col\">contexte</th>
+			<th scope=\"col\">condordanciers</th>
+		</tr>
+		</thead>
+		<tbody> 
+		" > ../tableaux/ch.html
 
 lineno=0
 while read -r URL
@@ -75,8 +93,8 @@ do
 		CONCORD="../concordances/${lang}-${lineno}.html"
     fi
 
-	echo -e "<tr>
-            <td>$lineno</td>
+echo -e "<tr>
+            <th scope=\"row\">$lineno</th>
             <td>$URL</td>
             <td>$response</td>
             <td>$encoding</td>
@@ -85,12 +103,14 @@ do
             <td><a href=$TEXTFILE>txt</a></td>
             <td><a href=../contextes/${lang}-${lineno}.txt>contextes</a></td>
             <td><a href=$CONCORD>tableau</a></td>
-        </tr>" >> ../tableaux/ch.html
+        </tr>
+		" >> ../tableaux/ch.html
 
 
 done < "$URLS"
 
-echo "	     </table>
-	</body>
-</html>"
->>../tableaux/ch.html
+echo "	    
+</tbody>
+</table>
+</body>
+</html> " >> ../tableaux/ch.html
