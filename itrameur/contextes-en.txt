@@ -3,60 +3,60 @@
 <text>
                o [59]Homelessness (16/17 year olds)
                o [60]Locating a child
-               o [61]Local Authorities’ duties in relation to Looked After
+               o [61]Local Authorities’ duty in relation to Looked After
                  Children
                o [62]Parental responsibility
 --
                o [81]Homelessness (16/17 year olds)
                o [82]Legal position relating to unborn children
-               o [83]Local Authorities’ duties in relation to Looked After
+               o [83]Local Authorities’ duty in relation to Looked After
                  Children
                o [84]Locating a child
 --
                          @ [232]Kinship care
                          @ [233]Homelessness (16/17 year olds)
-                         @ [234]Local Authorities’ duties in relation to
+                         @ [234]Local Authorities’ duty in relation to
                            Looked After Children
                     #
 --
                          @ [253]Homelessness (16/17 year olds)
                          @ [254]Legal position relating to unborn children
-                         @ [255]Local Authorities’ duties in relation to
+                         @ [255]Local Authorities’ duty in relation to
                            Looked After Children
                          @ [256]Locating a child
 --
 young people (16-18 years old) in education, employment or training. This
 includes the various options available to young people to ensure
-participation and the duties of the Local Authority to encourage
+participation and the duty of the Local Authority to encourage
 participation.
 
 --
    ([362]Section 2 Education and Skills Act 2008)
 
-What are the duties of the Local Authority?
+What are the duty of the Local Authority?
 
-   The Local Authority has broad duties to encourage, enable and assist
+   The Local Authority has broad duty to encourage, enable and assist
    young people, between the ages of 16-18, to participate in education,
    employment or training.
 --
    strategic support organisations which govern this particular
 
-In so far as meeting these duties, Local Authorities are expected to:
+In so far as meeting these duty, Local Authorities are expected to:
 
      * Provide strategic leadership in their communities to ensure that
 --
        given academic year is entitled to an offer of a suitable place, by
        the end of September, to continue in education or training the
-       following year. However, there is not the same duties on the Local
+       following year. However, there is not the same duty on the Local
        Authority to offer the young person a place to continue their
        education or training; the duty is on the young person to apply to
        relevant education or training providers in order to obtain a
        place.
 
-What are the duties of education providers?
+What are the duty of education providers?
 
    [366]The Education and Skills Act 2008 placed two Raising Participation
-   Age related duties on education providers with regard to 16 and 17 year
+   Age related duty on education providers with regard to 16 and 17 year
    olds:
      * [367]Section 11 places a duty on education providers to promote
        good attendance to enable young people to meet their duty to
@@ -71,19 +71,19 @@ What are the duties of education providers?
 --
   59. https://childlawadvice.org.uk/information-pages/homelessness/
   60. https://childlawadvice.org.uk/information-pages/locating-a-child/
-  61. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
+  61. https://childlawadvice.org.uk/information-pages/local-authority-duty-to-looked-after-children/
   62. https://childlawadvice.org.uk/information-pages/parental-responsibility/
   63. https://childlawadvice.org.uk/information-pages/private-fostering/
 --
   67. https://childlawadvice.org.uk/information-pages/testamentary-guardianship/
   68. https://childlawadvice.org.uk/information-pages/wardship/
-  69. https://childlawadvice.org.uk/family/duties-of-childrens-services/
+  69. https://childlawadvice.org.uk/family/duty-of-childrens-services/
   70. https://childlawadvice.org.uk/information-pages/advocacy/
   71. https://childlawadvice.org.uk/information-pages/care-orders/
 --
   81. https://childlawadvice.org.uk/information-pages/homelessness/
   82. https://childlawadvice.org.uk/information-pages/legal-position-relating-to-unborn-children/
-  83. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
+  83. https://childlawadvice.org.uk/information-pages/local-authority-duty-to-looked-after-children/
   84. https://childlawadvice.org.uk/information-pages/locating-a-child/
   85. https://childlawadvice.org.uk/information-pages/police-powers-of-protection-emergency-protection-orders/
 --
@@ -95,13 +95,13 @@ What are the duties of education providers?
 --
  232. https://childlawadvice.org.uk/information-pages/family-and-friends-care/
  233. https://childlawadvice.org.uk/information-pages/homelessness/
- 234. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
+ 234. https://childlawadvice.org.uk/information-pages/local-authority-duty-to-looked-after-children/
  235. https://childlawadvice.org.uk/information-pages/parental-responsibility/
  236. https://childlawadvice.org.uk/information-pages/private-fostering/
 --
  253. https://childlawadvice.org.uk/information-pages/homelessness/
  254. https://childlawadvice.org.uk/information-pages/legal-position-relating-to-unborn-children/
- 255. https://childlawadvice.org.uk/information-pages/local-authority-duties-to-looked-after-children/
+ 255. https://childlawadvice.org.uk/information-pages/local-authority-duty-to-looked-after-children/
  256. https://childlawadvice.org.uk/information-pages/locating-a-child/
  257. https://childlawadvice.org.uk/information-pages/police-powers-of-protection-emergency-protection-orders/
 --
@@ -115,7 +115,7 @@ What are the duties of education providers?
 <page="en-10">
 <text>
 
-   If you have any queries about Public Sector Duty, please send an email
+   If you have any queries about Public Sector duty, please send an email
    to [26]publicsectorduty@ihrec.ie
 
    If you have queries about our eLearning module, please
@@ -180,7 +180,7 @@ What are the duties of education providers?
             contracts
           + [36]Fair work and procurement
           + [37]Community benefits in procurement
-          + [38]Procurement equality duties
+          + [38]Procurement equality duty
           + [39]Procurement and climate change
 
    Policy actions  6 of 11
@@ -233,13 +233,13 @@ Sustainable procurement duty
 --
   36. https://www.gov.scot/policies/public-sector-procurement/fair-work-in-procurement/
   37. https://www.gov.scot/policies/public-sector-procurement/community-benefits-in-procurement/
-  38. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duties/
+  38. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duty/
   39. https://www.gov.scot/policies/public-sector-procurement/procurement-and-climate-change/
   40. https://www.gov.scot/publications/independent-review-scotlands-journey-achieving-sustainable-procurement-outcomes-2002-2022/
 --
   42. http://nationalperformance.gov.scot/
   43. http://www.legislation.gov.uk/asp/2014/12/section/9
-  44. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duties/
+  44. https://www.gov.scot/policies/public-sector-procurement/procurement-equality-duty/
   45. https://www.gov.scot/policies/public-sector-procurement/sme-access-to-public-contracts/
   46. https://www.gov.scot/publications/public-procurement-strategy-scotland-2023-2028/
 --
@@ -261,7 +261,7 @@ UK Trade Tariff: duty suspensions and autonomous tariff quotas
 
 --
 
-    1. [45]Duty suspensions and autonomous tariff quotas
+    1. [45]duty suspensions and autonomous tariff quotas
     2. [46]Current duty suspensions
     3. [47]Apply for a new duty suspension
     4. [48]How we will assess applications in 2023
@@ -269,15 +269,15 @@ UK Trade Tariff: duty suspensions and autonomous tariff quotas
     6. [50]Coronavirus (COVID-19) critical products
     7. [51]Sunflower-seed oil
 --
-   Duty suspensions are designed to help UK and Crown Dependency
+   duty suspensions are designed to help UK and Crown Dependency
    (Guernsey, the Isle of Man and Jersey) businesses remain competitive in
-   the global marketplace. They do this by suspending import duties on
+   the global marketplace. They do this by suspending import duty on
    certain goods, normally those used in domestic production.
 
-   These suspensions do not apply to other duties that may be chargeable
+   These suspensions do not apply to other duty that may be chargeable
    like VAT or trade remedies duty, such as anti-dumping duty.
 
-   Duty suspensions allow unlimited quantities to be imported into the UK
+   duty suspensions allow unlimited quantities to be imported into the UK
 --
 
    Read guidance on [57]declaring goods ‘not at risk’ of moving to the EU
@@ -310,7 +310,7 @@ Apply for a new duty suspension
 --
    businesses remain competitive in the global marketplace. They do this
    by suspending, either in whole or in part, UK Global Tariff import
-   duties on certain goods, normally those used as inputs into domestic
+   duty on certain goods, normally those used as inputs into domestic
    production processes.
 
 --
@@ -328,7 +328,7 @@ Outcome of the 2021 duty suspension window
 --
    The UK government implemented tariff suspensions on a number of medical
    items critical in the response to COVID-19 on 1 January 2021. The
-   government has extended the suspension of import duties for the
+   government has extended the suspension of import duty for the
    majority of these products until 31 December 2023. Three suspensions
    were expired for goods where there have been no imports under the
 --
@@ -396,19 +396,19 @@ Outcome of the 2021 duty suspension window
        Updated guidance about the 2021 duty suspension application
        process.
    24. 28 March 2022
-       Linked to more detailed guidance on additional duties on imports
+       Linked to more detailed guidance on additional duty on imports
        from Russia and Belarus
    25. 24 March 2022
-       Additional duties on Russian and Belarusian imports to be entered
+       Additional duty on Russian and Belarusian imports to be entered
        into force on 25 March, with amended product list
    26. 15 March 2022
-       Additional duties on Russian and Belarusian imports
+       Additional duty on Russian and Belarusian imports
    27. 21 December 2021
        Update on ATQ review of fish and raw cane sugar products.
 --
        tariff quotas'.
    29. 28 October 2021
-       Extension of the suspension of import duties on coronavirus
+       Extension of the suspension of import duty on coronavirus
        (COVID-19) critical products.
    30. 27 August 2021
 --
@@ -480,7 +480,7 @@ References
 <page="en-13">
 <text>
     1. [4]Home /
-    2. [5]Duties /
+    2. [5]duty /
     3. Conveyance duty
 
 Conveyance duty
@@ -542,7 +542,7 @@ Calculating your duty
    If you’re buying a home, land or both, you may be eligible for a stamp
    duty concession through one of the following:
      * [13]Home Buyer Concession Scheme,
-     * [14]Pensioner Duty Concession Scheme,
+     * [14]Pensioner duty Concession Scheme,
 --
 
    Under certain circumstances, you may also be eligible to [16]defer your
@@ -554,7 +554,7 @@ Calculating your duty
 
 Paying duty
 
-   Duty is payable 14 days after when the title to your property is
+   duty is payable 14 days after when the title to your property is
 --
      * the parties to the transaction
      * details of the transaction
@@ -584,28 +584,28 @@ Transactions before 18 September 2017
 --
    2. https://www.revenue.act.gov.au/
    3. https://www.revenue.act.gov.au/contact-us
-   4. https://www.revenue.act.gov.au/duties/conveyance-duty
-   5. https://www.revenue.act.gov.au/duties
-   6. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=1
-   7. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=2
-   8. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=3
-   9. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=4
-  10. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=5
-  11. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=6
-  12. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=7
+   4. https://www.revenue.act.gov.au/duty/conveyance-duty
+   5. https://www.revenue.act.gov.au/duty
+   6. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=1
+   7. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=2
+   8. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=3
+   9. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=4
+  10. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=5
+  11. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=6
+  12. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=7
   13. https://www.revenue.act.gov.au/home-buyer-assistance/home-buyer-concession-scheme
   14. https://www.revenue.act.gov.au/home-buyer-assistance/pensioner-duty-concession
   15. https://www.revenue.act.gov.au/home-buyer-assistance/disability-duty-concession-scheme
   16. https://www.revenue.act.gov.au/home-buyer-assistance/deferred-duty
-  17. https://www.revenue.act.gov.au/duties/conveyance-duty/conveyance-duty-exemptions
+  17. https://www.revenue.act.gov.au/duty/conveyance-duty/conveyance-duty-exemptions
   18. https://actlis.act.gov.au/verificationFormLanding/buyer
   19. https://www.border.gov.au/Trav/Refu/Immi
 --
   22. https://www.revenue.act.gov.au/self-assessment-tools-and-forms/codes-and-supporting-documents
   23. https://www.revenue.act.gov.au/rights-and-obligations/interest-and-penalty-tax
-  24. https://www.revenue.act.gov.au/duties/conveyance-duty/transactions-before-18-september-2017
-  25. https://www.revenue.act.gov.au/duties/conveyance-duty
-  26. https://www.revenue.act.gov.au/duties/conveyance-duty?result_1060955_result_page=2
+  24. https://www.revenue.act.gov.au/duty/conveyance-duty/transactions-before-18-september-2017
+  25. https://www.revenue.act.gov.au/duty/conveyance-duty
+  26. https://www.revenue.act.gov.au/duty/conveyance-duty?result_1060955_result_page=2
   27. https://www.facebook.com/ACTGov
   28. https://www.linkedin.com/company/act-government
 </text>
@@ -614,25 +614,25 @@ Transactions before 18 September 2017
 <text>
           + [40]Value added tax (VAT)
           + [41]VAT and Administrative Cooperation
-          + [42]Excise duties
+          + [42]Excise duty
           + [43]Tax Co-operation and control
           + [44]Economic analysis of taxation
 --
           + [54]AEO (Authorised Economic Operator)
           + [55]Prohibitions and Restrictions
-          + [56]Calculation of customs duties
+          + [56]Calculation of customs duty
           + [57]Customs controls
           + [58]Customs Laboratories
 --
    checkout. However, consumers should be aware that ordering goods online
    that are located outside the EU at the time of sale, will result in a
-   customs declaration being made and may result in customs duties and
+   customs declaration being made and may result in customs duty and
    handling fees being incurred. Furthermore, import VAT may be charged to
    the consumer on delivery if the seller of the goods has not already
 --
    When you buy a product from a non-EU country, VAT is payable on your
    purchase irrespective of the value of the goods. In addition to VAT,
-   you may also have to pay customs duties for goods above €150 and excise
+   you may also have to pay customs duty for goods above €150 and excise
    duty for specific goods. If the terms of sale do not specify another
    arrangement, the goods can be held by the customs authority at entry,
    pending the payment of duty and tax, amongst other reasons (if the
@@ -641,19 +641,19 @@ Transactions before 18 September 2017
 --
    from you on delivery.
 
-   Information on the VAT, customs duties and other charges due should be
+   Information on the VAT, customs duty and other charges due should be
    clearly explained on the website, and if they cannot be calculated in
    advance, you must be informed that additional charges may be payable.
 --
    charge you a customs clearance fee for complying with the necessary
    formalities.  The permission is proof that all applicable customs
-   formalities have been completed, including the payment of duties, and
+   formalities have been completed, including the payment of duty, and
    the shipment is free to be used or consumed.
 
 --
    of June 2022 is available [80]here.
 
-   Goods for which you do not have to pay customs duties (e.g. with total
+   Goods for which you do not have to pay customs duty (e.g. with total
    value lower than €150) are also subject to customs clearance.
 
 --
@@ -662,14 +662,14 @@ Transactions before 18 September 2017
      * check the Customs Declaration to determine if customs duty, excise
        duty and/or Import VAT are chargeable.
 
-Excise duties
+Excise duty
 
    Depending on the goods you order, you may receive an invoice for excise
-   duties from the customs authorities, your postal operator or the
+   duty from the customs authorities, your postal operator or the
    courier. This invoice must be paid before the goods are handed over to
    you.
 
-   See [81]how excise duties are  calculated in the EU Member States.
+   See [81]how excise duty are  calculated in the EU Member States.
 
 Warning
 --
@@ -681,7 +681,7 @@ Warning
 --
 
    The VAT taxable amount is made up of the customs value plus taxes,
-   duties, levies and other charges, such as shipping and insurance costs.
+   duty, levies and other charges, such as shipping and insurance costs.
    Remember: the import VAT may either be included in the overall delivery
    price or not.
 --
@@ -692,7 +692,7 @@ Customs duty in detail
    On the basis of the data provided in the customs declaration, the
    supporting documents that accompany it and any information which they
    may request, the competent customs officers determine, impose and
-   collect Customs duties that are due.
+   collect Customs duty that are due.
 
    Customs duty is typically calculated as a percentage of the customs
    value of the goods:
@@ -706,7 +706,7 @@ Customs duty in detail
    tobacco or tobacco products and alcoholic products which are subject to
    special duty-free limits on the quantity provided.
 
-   In some cases, additional duties may be charged, depending on the
+   In some cases, additional duty may be charged, depending on the
    country of manufacture of the goods. The [86]TARIC database covers all
    measures relating to tariff, commercial and agricultural legislation.
 --
@@ -714,7 +714,7 @@ Customs duty in detail
 
 Excise duty in detail
 
-   Excise duties are indirect taxes on the sale or use of specific
+   Excise duty are indirect taxes on the sale or use of specific
    products, such as alcohol and tobacco, and are payable on these goods
    on entry into the EU. EU legislation sets out only minimum levels of
    excise duty above which individual Member States are free to set their
@@ -730,13 +730,13 @@ Excise duty in detail
 --
   40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
   41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
-  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
   43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
   44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
 --
   54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
   55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
-  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty_en
   57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
   58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
 </text>
@@ -745,33 +745,33 @@ Excise duty in detail
 <text>
           + [40]Value added tax (VAT)
           + [41]VAT and Administrative Cooperation
-          + [42]Excise duties
+          + [42]Excise duty
           + [43]Tax Co-operation and control
           + [44]Economic analysis of taxation
 --
           + [54]AEO (Authorised Economic Operator)
           + [55]Prohibitions and Restrictions
-          + [56]Calculation of customs duties
+          + [56]Calculation of customs duty
           + [57]Customs controls
           + [58]Customs Laboratories
 --
     1. [77]Home
     2. [78]Taxation
-    3. Excise duties
+    3. Excise duty
 
-Excise duties on alcohol, tobacco and energy
+Excise duty on alcohol, tobacco and energy
 
-   Excise duties are indirect taxes on the sale or use of specific
+   Excise duty are indirect taxes on the sale or use of specific
    products, such as alcohol, tobacco and energy. The revenue from these
-   excise duties goes entirely to the country to which they are paid.
+   excise duty goes entirely to the country to which they are paid.
 
-   EU countries agreed on common EU rules to make sure that excise duties
+   EU countries agreed on common EU rules to make sure that excise duty
    are applied in the same way and to the same products everywhere in the
    Union.
 --
 
    In addition, EU law sets out [79]common provisions, which apply to all
-   products subject to excise duties. These common provisions include the
+   products subject to excise duty. These common provisions include the
    framework for the [80]Excise Monitoring and Control System (EMCS), an
    IT system for monitoring the movement of excise goods within the EU.
 --
@@ -779,23 +779,23 @@ Excise duties on alcohol, tobacco and energy
      * [81]Council Directive (EU) 2020/262 laying down the general
        arrangements for excise duty (recast)
      * [82]Council Regulation (EU) No 389/2012 on administrative
-       cooperation in the field of excise duties as regards the content of
+       cooperation in the field of excise duty as regards the content of
        electronic registers (subsequently amended by Council Regulations
        2020/263, 2021/774 and 2023/246)
 --
-[86]Excise Duty on Alcohol
+[86]Excise duty on Alcohol
 
-   EU legislation on excise duties on alcohol covers excise duties on
+   EU legislation on excise duty on alcohol covers excise duty on
    alcoholic beverages, specific provisions for locally produced products
    and alcohol not intended for human consumption
 --
-[87]Excise Duties on Tobacco
+[87]Excise duty on Tobacco
 
-   EU legislation on excise duties for manufactured tobacco defines the
+   EU legislation on excise duty for manufactured tobacco defines the
    categories of manufactured tobacco products, the principles of
    taxation, and the minimum rates and structures to be applied
 --
-[88]Excise Duty on Energy
+[88]Excise duty on Energy
 
    EU excise duty rules cover all energy products used for heating and
    transport, as well as electricity
@@ -809,68 +809,68 @@ Excise duties on alcohol, tobacco and energy
 --
 References
 
-   1. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
-   2. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
-   3. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
-   4. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en#main-content
+   1. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_de
+   2. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
+   3. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_fr
+   4. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en#main-content
    5. https://commission.europa.eu/index_en
-   6. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
-   7. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_bg
-   8. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_es
-   9. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_cs
-  10. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_da
-  11. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_de
-  12. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_et
-  13. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_el
-  14. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
-  15. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fr
-  16. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ga
-  17. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hr
-  18. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_it
-  19. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lv
-  20. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_lt
-  21. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_hu
-  22. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_mt
-  23. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_nl
-  24. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pl
-  25. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_pt
-  26. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_ro
-  27. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sk
-  28. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sl
-  29. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_fi
-  30. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_sv
-  31. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+   6. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
+   7. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_bg
+   8. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_es
+   9. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_cs
+  10. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_da
+  11. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_de
+  12. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_et
+  13. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_el
+  14. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
+  15. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_fr
+  16. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_ga
+  17. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_hr
+  18. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_it
+  19. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_lv
+  20. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_lt
+  21. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_hu
+  22. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_mt
+  23. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_nl
+  24. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_pl
+  25. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_pt
+  26. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_ro
+  27. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_sk
+  28. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_sl
+  29. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_fi
+  30. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_sv
+  31. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
   32. https://commission.europa.eu/business-economy-euro_en
-  33. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  33. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
   34. https://taxation-customs.ec.europa.eu/index_en
   35. https://taxation-customs.ec.europa.eu/taxation-1_en
 --
   40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
   41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
-  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
   43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
   44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
 --
   54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
   55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
-  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty_en
   57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
   58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
 --
   77. https://taxation-customs.ec.europa.eu/index_en
   78. https://taxation-customs.ec.europa.eu/taxation-1_en
-  79. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
-  80. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  79. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/common-excise-duty-provisions_en
+  80. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/excise-movement-control-system_en
   81. https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020L0262&amp;from=EN
   82. https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32012R0389
   83. https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32020D0263
   84. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation/economic-studies_en
-  85. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/common-excise-duty-provisions_en
-  86. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-alcohol_en
-  87. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duties-tobacco_en
-  88. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-duty-energy_en
-  89. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/review-energy-taxation-directive-proposal_en
-  90. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties/excise-movement-control-system_en
+  85. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/common-excise-duty-provisions_en
+  86. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/excise-duty-alcohol_en
+  87. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/excise-duty-tobacco_en
+  88. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/excise-duty-energy_en
+  89. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/review-energy-taxation-directive-proposal_en
+  90. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty/excise-movement-control-system_en
   91. https://taxation-customs.ec.europa.eu/index_en
   92. https://taxation-customs.ec.europa.eu/contact-us_en
 </text>
@@ -1010,7 +1010,7 @@ Documents
 Collection
 
      * [57]Prevent duty guidance
-     * [58]The Prevent Duty in higher education (HE): training and
+     * [58]The Prevent duty in higher education (HE): training and
        guidance for practitioners
 --
 
@@ -1023,9 +1023,9 @@ Collection
   39. https://www.gov.uk/government/organisations/home-office
   40. https://www.gov.uk/government/publications/prevent-duty-guidance#full-publication-update-history
   41. https://www.gov.uk/government/publications/prevent-duty-guidance/prevent-duty-guidance-for-england-and-wales-accessible
-  42. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_Duty_Guidance_v5c.pdf
+  42. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_duty_Guidance_v5c.pdf
   43. https://www.gov.uk/government/publications/prevent-duty-guidance/glossary-of-terms
-  44. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_Duty_Guidance_v5c_Final_for_translation.pdf
+  44. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_duty_Guidance_v5c_Final_for_translation.pdf
   45. mailto:alternativeformats@homeoffice.gov.uk
   46. https://www.legislation.gov.uk/ukpga/2015/6/section/29
   47. https://www.gov.uk/government/publications/prevent-duty-guidance-england-scotland-and-wales-2015
@@ -1046,9 +1046,9 @@ Collection
 
    Hidden links:
   98. https://www.gov.uk/government/publications/prevent-duty-guidance/prevent-duty-guidance-for-england-and-wales-accessible
-  99. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_Duty_Guidance_v5c.pdf
+  99. https://assets.publishing.service.gov.uk/media/64f8498efdc5d10014fce6d1/14.258_HO_Prevent_duty_Guidance_v5c.pdf
  100. https://www.gov.uk/government/publications/prevent-duty-guidance/glossary-of-terms
- 101. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_Duty_Guidance_v5c_Final_for_translation.pdf
+ 101. https://assets.publishing.service.gov.uk/media/652ff9c892895c000ddcb9f4/14.258_HO_Prevent_duty_Guidance_v5c_Final_for_translation.pdf
 </text>
 </page> §
 <page="en-19">
@@ -1083,18 +1083,18 @@ Overview
 <text>
    REFRESH(375 sec):
    [1]https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors
-   /good-medical-practice/duties-of-a-doctor
+   /good-medical-practice/duty-of-a-doctor
 
    Enable JavaScript and cookies to continue
 --
 References
 
-   1. https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice/duties-of-a-doctor
+   1. https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice/duty-of-a-doctor
 </text>
 </page> §
 <page="en-20">
 <text>
-     * [68]8. Duty to accommodate
+     * [68]8. duty to accommodate
      * [69]9. Undue hardship
      * [70]10. Other limits on the duty to accommodate
      * [71]11. Preventing and responding to discrimination
@@ -1121,7 +1121,7 @@ Page content
      accommodate the employee's characteristics. The employer does not
      have a duty to change working conditions in a fundamental way, but
      does have a duty, if it can do so without undue hardship, to arrange
-     the employee's workplace or duties to enable the employee to do his
+     the employee's workplace or duty to enable the employee to do his
      or her work.^[78][120]
 
 --
@@ -1168,34 +1168,34 @@ Page content
 --
    expensive or less disruptive to the organization.^[108][150]
 
-8.3.1 Essential duties and requirements
+8.3.1 Essential duty and requirements
 
    Section 17 of the Code says that the right to be free from
    discrimination is not infringed if the person with a disability is
-   incapable of performing or fulfilling the essential duties or
+   incapable of performing or fulfilling the essential duty or
    requirements attending the exercise of the right.
 
-   In employment, essential duties are the “vital” or “indispensable”
-   aspects of someone’s job. In housing, the essential duties or
+   In employment, essential duty are the “vital” or “indispensable”
+   aspects of someone’s job. In housing, the essential duty or
    requirements of being a tenant may include paying rent, maintaining
    one’s unit so it does not violate health and safety laws, and allowing
    other people to reasonably enjoy their premises. In the case of
-   services, the “essential duties or requirements” of using a service
+   services, the “essential duty or requirements” of using a service
    will vary depending on the circumstances.
 
    Section 17 means that someone cannot be judged incapable of performing
-   the essential duties of a job, or the essential requirements of being a
+   the essential duty of a job, or the essential requirements of being a
    tenant or taking part in a service, unless it can be shown that the
    person’s needs cannot be accommodated
 
    without undue hardship. An organization should not conclude that a
-   person is unable to perform the essential duties without actually
+   person is unable to perform the essential duty without actually
    giving the person an opportunity to demonstrate their ability.
 
 --
 
      Example: After coming back from a disability-related leave, a man
-     returned to modified duties. Even though his doctor cleared him to
+     returned to modified duty. Even though his doctor cleared him to
      go back to work full-time, his employer placed him in a lower,
      part-time position at a lower pay rate. He was eventually terminated
      from his employment. The HRTO found that the employer failed to meet
@@ -1206,28 +1206,28 @@ Page content
    necessary.^[112][154]
 
    The duty to accommodate does not require exempting a person from
-   performing the essential duties of the job,^[113][155] requirements of
+   performing the essential duty of the job,^[113][155] requirements of
    the service, etc. In the context of employment, the duty to accommodate
    does not require an employer to fundamentally change the working
-   conditions of employees, assign the essential duties of an employee
-   with a disability to other employees or change the essential duties and
+   conditions of employees, assign the essential duty of an employee
+   with a disability to other employees or change the essential duty and
    requirements of a position.^[114][156] In these cases, a next-best
    solution, such as alternative work, may need to be found.
 
-     Example: A delivery truck driver’s duties included loading skids of
+     Example: A delivery truck driver’s duty included loading skids of
      product onto a truck, and unloading them at his destination. He
      worked for a small operation whose staff consisted of the owner and
      his wife, a warehouse employee and the delivery truck driver. Due to
      a back injury, the driver was not able to load and unload the truck,
-     an essential duty of his job. He requested light duties, preferably
+     an essential duty of his job. He requested light duty, preferably
      office work, or relief from loading and unloading the truck. The
-     employer denied this request because there were no light duties
+     employer denied this request because there were no light duty
      available, and he could not hire an additional person to help the
      driver. The HRTO found that the duty to accommodate does not require
-     an employer to assign the essential duties of an employee with a
+     an employer to assign the essential duty of an employee with a
      disability to other employees or to hire another employee to perform
      them in the employee's place. An employer is also not required to
-     change the essential duties and requirements of a position so that
+     change the essential duty and requirements of a position so that
      an employee can meet them.^[115][157]
 
 --
@@ -1250,7 +1250,7 @@ Page content
 --
      positions available at the company. He is generally qualified for
      one of these positions, but does not know how to use a computer
-     program that is required to do the essential duties of this job. The
+     program that is required to do the essential duty of this job. The
      employer sends the person on a training course to learn the computer
      program. The employee is then qualified for the position.
 
@@ -1263,9 +1263,9 @@ Page content
 --
 
    The right of people with disabilities to return to work exists if the
-   worker can fulfil the essential duties of the job after accommodation
+   worker can fulfil the essential duty of the job after accommodation
    short of undue hardship.^[133][175] If a person cannot fulfil the
-   essential duties of the pre-disability job, despite the employer's
+   essential duty of the pre-disability job, despite the employer's
    effort to accommodate short of undue hardship, the employer still has
    an obligation to canvass alternative work possibilities, as outlined
 --
@@ -1273,7 +1273,7 @@ Page content
    Under the Code, there is no fixed rule as to how long an employee with
    a disability may be absent before the duty to accommodate has been met.
    This will depend on the ability of the employee to perform the
-   essential duties of the job considering the unique circumstances of
+   essential duty of the job considering the unique circumstances of
    every absence and the nature of the employee’s condition, as well as
    circumstances in the workplace.^[134][176] Also important is the
 --
@@ -1294,7 +1294,7 @@ Page content
 --
    Employment
      * allowing a flexible work schedule^[143][185]
-     * modifying job duties^[144][186]
+     * modifying job duty^[144][186]
      * modifying policies
      * making changes to the building (for example, installing ramps, hand
 --
@@ -1312,11 +1312,11 @@ Page content
 --
    the co-operation of the person seeking accommodation. After
    accommodation is provided, the person receiving the accommodation is
-   expected to fulfil the essential duties or requirements of the job,
+   expected to fulfil the essential duty or requirements of the job,
    tenancy, or taking part in a service.
 
 --
-8.6.1 Duty to inquire about accommodation needs
+8.6.1 duty to inquire about accommodation needs
 
    In general, the duty to accommodate a disability exists for needs that
    are known or ought to be known. Organizations and persons responsible
@@ -1333,7 +1333,7 @@ Page content
 
    Where an organization is aware, or reasonably ought to be aware, that
    there may be a relationship between a disability and someone’s job
-   performance, or their abilities to fulfil their duties as a tenant or
+   performance, or their abilities to fulfil their duty as a tenant or
    service user, the organization has a “duty to inquire” into that
    possible relationship before making a decision that would affect the
    person adversely.^[174][216] This includes providing a meaningful
@@ -1346,7 +1346,7 @@ Page content
 --
    and tenants that a disability-related assessment (such as a medical
    assessment) or accommodation can be provided as an option to address
-   job performance issues or issues relating to fulfilling one’s duties as
+   job performance issues or issues relating to fulfilling one’s duty as
    a tenant or a service user.
 
 --
@@ -1370,11 +1370,11 @@ Page content
 --
      * that the person has a disability
      * the limitations or needs associated with the disability
-     * whether the person can perform the essential duties or requirements
+     * whether the person can perform the essential duty or requirements
        of the job^[180][222], of being a tenant, or of being a service
        user, with or without accommodation
      * the type of accommodation(s) that may be needed to allow the person
-       to fulfill the essential duties or requirements of the job, of
+       to fulfill the essential duty or requirements of the job, of
        being a tenant, or of being a service user, etc.
      * in employment, regular updates about when the person expects to
 --
@@ -1419,7 +1419,7 @@ Page content
 --
    ^[170] The Code does not require an employer to schedule a second
    employee during time that an employee would normally be working alone
-   where there is a need to perform duties that the employee is incapable
+   where there is a need to perform duty that the employee is incapable
    of performing due to a disability: Pourasadi , supra note
    155; Perron, supra note 155; Lee, supra note 122; Re Hamilton Health
 --
@@ -1437,17 +1437,17 @@ Page content
 --
    The central issue in determining whether or how performance standards
    should be modified is whether the standards in question are essential
-   duties or requirements within the meaning of section 17 of the Code. If
+   duty or requirements within the meaning of section 17 of the Code. If
    the person is unable to perform the standard, but the standard is not
    considered an essential part of the job, it can be changed or the
 --
    that maximize organizational objectives. Organizations should be guided
    by objective evidence when developing or assessing qualification
-   standards that they consider are essential duties or requirements. If
+   standards that they consider are essential duty or requirements. If
    an employer is considering a standard that will be widely adopted, it
-   should consider the job duties of employees in different settings that
+   should consider the job duty of employees in different settings that
    are or would be subject to the standard and whether there is a link
-   between the standard and the duties of employees: Lauzon v. Ontario
+   between the standard and the duty of employees: Lauzon v. Ontario
    Provincial Police, 2011 HRTO 1404 (CanLII).
 
 --
@@ -1477,7 +1477,7 @@ Page content
 --
      generally the focus should be on the functional limitations of the
      employee’s condition (capacities and symptoms) and how those
-     functional aspects interact with the workplace duties and
+     functional aspects interact with the workplace duty and
      environment. Consequently, an employer need not be informed of the
      specific cause of the employee’s condition or the exact diagnosis in
 --
@@ -1674,13 +1674,13 @@ Page content
 <text>
    REFRESH(375 sec):
    [1]https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors
-   /good-medical-practice/duties-of-a-doctor
+   /good-medical-practice/duty-of-a-doctor
 
    Enable JavaScript and cookies to continue
 --
 References
 
-   1. https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice/duties-of-a-doctor
+   1. https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice/duty-of-a-doctor
 </text>
 </page> §
 <page="en-22">
@@ -1692,14 +1692,14 @@ References
 <text>
 
     1. [36]Home
-    2. [37]Alcohol duties
-    3. [38]UK Trade Tariff: excise duties, reliefs, drawbacks and
+    2. [37]Alcohol duty
+    3. [38]UK Trade Tariff: excise duty, reliefs, drawbacks and
        allowances
 
 --
    Guidance
 
-UK Trade Tariff: excise duties, reliefs, drawbacks and allowances on or
+UK Trade Tariff: excise duty, reliefs, drawbacks and allowances on or
 before 31 July 2023
 
 --
@@ -1711,7 +1711,7 @@ before 31 July 2023
 --
    This publication is available at
    https://www.gov.uk/government/publications/uk-trade-tariff-excise-dutie
-   s-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-relief
+   s-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-relief
    s-drawbacks-and-allowances
 
 1. Introduction
@@ -1851,7 +1851,7 @@ before 31 July 2023
 7. Imported composite goods containing alcohol
 
    Goods containing ingredients liable to excise duty are chargeable with:
-     * Customs Duty where appropriate on the goods as a whole
+     * Customs duty where appropriate on the goods as a whole
      * excise duty on the ingredient
 
    The tax type codes and excise duty rates are the same as for the type
@@ -1876,7 +1876,7 @@ before 31 July 2023
    applicable
 --
 
-   The Hydrocarbon Oil Duties Act 1979 (HODA) specifies full rates of
+   The Hydrocarbon Oil duty Act 1979 (HODA) specifies full rates of
    excise duty on mineral oils and rebates of duty. The effect of applying
    a rebate of duty to a full rate is to create a lower rate of duty.
    These lower rates are known as rebated rates. This mechanism increases
@@ -1896,13 +1896,13 @@ before 31 July 2023
 --
    Other (unmarked) 0.5295 0.5295 570 Nil
 
-9.3 For the purpose of these duties
+9.3 For the purpose of these duty
 
    ‘Hydrocarbon oil’ means petroleum oils, coal tar, and oils produced
 --
 
    ‘Rebated oil’ means oil which has been delivered for home use on
-   allowance of a rebate of excise duty under the Hydrocarbon Oil Duties
+   allowance of a rebate of excise duty under the Hydrocarbon Oil duty
    Act 1979, sections 11 and 14.
 
    Supplementary information about the duty on hydrocarbon oil.
@@ -1966,7 +1966,7 @@ before 31 July 2023
 --
    ratios of each.
 
-   For the purpose of these duties:
+   For the purpose of these duty:
 
    ‘Biodiesel’ is a diesel quality liquid fuel produced from biomass or
 --
@@ -1976,9 +1976,9 @@ before 31 July 2023
 
 13.1 General
 
-   The following reliefs relate only to excise duties and do not extend to
-   any customs duties to which imported goods may be liable. For a list of
-   the reliefs from customs duties allowable in respect of imported goods
+   The following reliefs relate only to excise duty and do not extend to
+   any customs duty to which imported goods may be liable. For a list of
+   the reliefs from customs duty allowable in respect of imported goods
    (which in some circumstances may extend to excise as well as import
    duty).
 
@@ -1991,30 +1991,30 @@ Nature and conditions of relief
    [80]Excise Notice 226).
 --
    Contained in an article, imported or delivered from warehouse,
-   recognised as being used for medical purposes (Alcoholic Liquor Duties
+   recognised as being used for medical purposes (Alcoholic Liquor duty
    Act 1979, section 7). Free of duty (see [81]Excise Notice 47).
    Proved to the satisfaction of the Commissioners of Revenue and Customs
    to have been used for scientific purposes or used solely in the
    manufacture or preparation of articles recognized by them as being used
-   for medical purposes. (Alcoholic Liquor Duties Act 1979, section 8).
+   for medical purposes. (Alcoholic Liquor duty Act 1979, section 8).
    Spirits for these purposes can be used for received duty free, from an
    excise warehouse by trades as properly authorized (see [82]Excise
    Notice 47).
    Delivered from excise warehouse for use in the conditions manufacture
-   of denatured alcohol. (Alcoholic Liquor Duties Act 1979, section 75).
+   of denatured alcohol. (Alcoholic Liquor duty Act 1979, section 75).
    Free of spirits duty subject to such as the Commissioners see fit to
    impose (see [83]Excise Notice 473).
    Delivered from excise warehouse to authorised persons for use in any
 --
    satisfied that the use of denatured alcohol is unsuitable or
-   detrimental (Alcoholic Liquor Duties Act 1979, section 10). Free of
+   detrimental (Alcoholic Liquor duty Act 1979, section 10). Free of
    duty subject to such conditions as the Commissioners see fit to impose
    (see [84]Excise Notice 47).
-   Contained in goods not for human consumption (Alcoholic Liquor Duties
+   Contained in goods not for human consumption (Alcoholic Liquor duty
    Act 1979, section 11). Free of duty, subject to certain conditions (see
    [85]Excise Notice 64).
    Used in warehouse in specified proportions to fortify made-wine or wine
-   (Alcoholic Liquor Duties Act 1979, sections 57 and 68). Free of spirits
+   (Alcoholic Liquor duty Act 1979, sections 57 and 68). Free of spirits
    duty subject to such conditions as the Commissioners see fit to impose.
 
 13.5 Tobacco products
@@ -2026,24 +2026,24 @@ Nature and conditions of relief
 
 --
    Used on board vessels including hovercraft but not pleasure craft
-   engaged on marine voyages (Hydrocarbon Oil Duties Act (Marine Voyager
+   engaged on marine voyages (Hydrocarbon Oil duty Act (Marine Voyager
    Reliefs) Regulations 1996). Light oil — repayment of duty paid.
    Heavy oil — shipment duty-free or repayment of duty paid (see
    [87]Excise Notice 263).
    Consumed in premises approved by the Commissioners of Revenue and
    Customs as a refinery in a process of chemical conversion into
-   substances other than hydrocarbon oil. (Hydrocarbon Oil Duties Act
+   substances other than hydrocarbon oil. (Hydrocarbon Oil duty Act
    1979, section 6). Free of duty (see [88]Excise Notice 179).
-   Heavy oil used in horticulture. (Hydrocarbon Oil Duties Act 1979,
+   Heavy oil used in horticulture. (Hydrocarbon Oil duty Act 1979,
    section 17). Repayment of duty (see [89]Excise Notice 183).
    Delivered to a person approved by the Commissioners for use other than
    as motor fuel (including as extender or additive to motor fuel) or as
-   heating fuel. (Hydrocarbon Oil Duties Act 1979, section 9). Delivery or
+   heating fuel. (Hydrocarbon Oil duty Act 1979, section 9). Delivery or
    importation free of duty or repayment of any excise duty paid (see
    [90]Excise Notice 184A).
    Rebated oil used as fuel in power plants producing energy for the
    treatment or production of oil at refineries or producers’ premises.
-   (Hydrocarbon Oil Duties Act 1979, sections 19A and 27(1)). Free of
+   (Hydrocarbon Oil duty Act 1979, sections 19A and 27(1)). Free of
    excise duty if eligible for full relief, repayment of excise duty if
    eligible for partial relief (see [91]Excise Notice 179, Appendix K).
 
@@ -2070,48 +2070,48 @@ Conditions and rates — hydrocarbon oil
 --
 References
 
-   1. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#content
+   1. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#content
    2. https://www.gov.uk/help/cookies
    3. https://www.gov.uk/help/cookies
 --
   35. https://www.gov.uk/check-mot-history
   36. https://www.gov.uk/
-  37. https://www.gov.uk/topic/business-tax/alcohol-duties
-  38. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances
+  37. https://www.gov.uk/topic/business-tax/alcohol-duty
+  38. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances
   39. https://www.gov.uk/government/organisations/hm-revenue-customs
-  40. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#introduction
-  41. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine-and-made-wine
-  42. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  43. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#cider-and-perry
-  44. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#spirits
-  45. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#low-alcohol-beverages
-  46. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-alcohol
-  47. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
-  48. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hydrocarbon-oil
-  49. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-mineral-oils
-  50. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#climate-change-levy
-  51. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#biofuels
-  52. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#reliefs-from-excise-duty
-  53. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#excise-drawbacks-and-allowances
+  40. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#introduction
+  41. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#wine-and-made-wine
+  42. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#beer
+  43. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#cider-and-perry
+  44. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#spirits
+  45. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#low-alcohol-beverages
+  46. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-alcohol
+  47. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#tobacco-products
+  48. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#hydrocarbon-oil
+  49. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#imported-composite-goods-containing-mineral-oils
+  50. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#climate-change-levy
+  51. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#biofuels
+  52. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#reliefs-from-excise-duty
+  53. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#excise-drawbacks-and-allowances
   54. https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
   55. mailto:psi@nationalarchives.gov.uk
   56. https://www.gov.uk/trade-tariff
-  57. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
+  57. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#winemade
   58. https://www.gov.uk/government/publications/uk-trade-tariff-box-47a-tax-type-codes
-  59. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  60. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#wine
-  61. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#lab
-  62. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#winemade
-  63. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#candd
-  64. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
+  59. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#lab
+  60. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#wine
+  61. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#lab
+  62. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#winemade
+  63. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#candd
+  64. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#beer
   65. https://www.gov.uk/government/publications/excise-notice-47-duty-free-spirits-use-in-manufacture-or-for-medical-or-scientific-purposes
   66. https://www.gov.uk/government/publications/excise-notice-64-spirits-in-imported-goods-remission-of-excise-duty
-  67. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#tobacco-products
+  67. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#tobacco-products
   68. https://www.gov.uk/guidance/get-relief-for-mineral-oil-put-to-certain-uses-excise-notice-184a#general-information-about-the-approved-distributor-and-user-scheme
-  69. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#light-oil
+  69. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#light-oil
   70. https://www.gov.uk/government/publications/excise-notice-75-fuel-for-road-vehicles
   71. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
-  72. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#unleaded-petrol
+  72. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#unleaded-petrol
   73. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
   74. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
   75. https://www.gov.uk/government/publications/excise-notice-179-motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vat
@@ -2131,10 +2131,10 @@ References
   89. https://www.gov.uk/government/publications/excise-notice-183-repayment-of-excise-duty-on-heavy-oil-used-by-growers-of-horticultural-produce
   90. https://www.gov.uk/government/publications/excise-notice-184a-mineral-oil-put-to-certain-use-excise-duty-relief
   91. https://www.gov.uk/guidance/motor-and-heating-fuels-general-information-and-accounting-for-excise-duty-and-vatexcise-notice-179#appendix-k
-  92. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#beer
-  93. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#hoil
+  92. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#beer
+  93. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#hoil
   94. https://www.gov.uk/government/publications/excise-notice-172-excise-duty-drawback-ships-and-aircraft-stores
-  95. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duties-reliefs-drawbacks-and-allowances#contents
+  95. https://www.gov.uk/government/publications/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances/uk-trade-tariff-excise-duty-reliefs-drawbacks-and-allowances#contents
   96. https://www.gov.uk/contact/govuk
   97. https://www.gov.uk/browse/benefits
 </text>
@@ -2143,40 +2143,40 @@ References
 <text>
           We are guided by the principles of justice. We employ the
           highest ethical standard, we demand accountability, consistency,
-          fairness and honesty in the performance of our duties.
+          fairness and honesty in the performance of our duty.
 
    PROFESSIONALISM
 --
           Maintain a mental and moral strength to resist opposition and
           fairness of mind. Always stand by your fellow officers in the
-          face of danger or extreme difficulty. Position duties are
+          face of danger or extreme difficulty. Position duty are
           inclusive of all required tasks. Employees perform other related
           work as required.
 --
      * Arrest and processes criminals
      * Testifies in court
-     * Emergency duties required during adverse weather conditions
+     * Emergency duty required during adverse weather conditions
      * Ability to exercise judgment in determining when to use force and
        to what degree
 --
 
    1. https://police.unc.edu/wp-json/wp/v2/pages/1946
-   2. https://police.unc.edu/wp-json/oembed/1.0/embed?url=https://police.unc.edu/recruitment/officer-expectations-duties/
-   3. https://police.unc.edu/wp-json/oembed/1.0/embed?url=https://police.unc.edu/recruitment/officer-expectations-duties/&amp;format=xml
+   2. https://police.unc.edu/wp-json/oembed/1.0/embed?url=https://police.unc.edu/recruitment/officer-expectations-duty/
+   3. https://police.unc.edu/wp-json/oembed/1.0/embed?url=https://police.unc.edu/recruitment/officer-expectations-duty/&amp;format=xml
    4. https://police.unc.edu/feed/
-   5. https://police.unc.edu/recruitment/officer-expectations-duties/#maincontent
+   5. https://police.unc.edu/recruitment/officer-expectations-duty/#maincontent
    6. https://police.unc.edu/
    7. https://police.unc.edu/
 --
   18. https://police.unc.edu/recruitment/application-process/
   19. https://police.unc.edu/recruitment/benefits/
-  20. https://police.unc.edu/recruitment/officer-expectations-duties/
+  20. https://police.unc.edu/recruitment/officer-expectations-duty/
   21. https://police.unc.edu/recruitment/interested-applicant-form/
   22. https://police.unc.edu/recruitment/faqs/
 --
   28. https://iirm.unc.edu/
   29. https://police.unc.edu/about/role/
-  30. https://police.unc.edu/recruitment/officer-expectations-duties/
+  30. https://police.unc.edu/recruitment/officer-expectations-duty/
   31. https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131872
   32. https://www.ncdot.gov/divisions/aviation/uas/Pages/default.aspx
 </text>
@@ -2184,7 +2184,7 @@ References
 <page="en-25">
 <text>
     3. [38]Business tax
-    4. [39]Tobacco Products Duty
+    4. [39]Tobacco Products duty
     5. [40]Changes to tobacco duty rates from 22 November 2023
 
      * [41]HM Revenue
@@ -2204,14 +2204,14 @@ Increases to tobacco duty rates from 22 November 2023
 --
 General description of the measure
 
-   This measure sets out how tobacco duties will increase on 22 November
+   This measure sets out how tobacco duty will increase on 22 November
    2023.
 
 Policy objective
 
    The government is committed to maintaining high tobacco duty rates.
    This is an established tool to reduce smoking prevalence and ensure
-   that tobacco duties continue to contribute to government revenues.
+   that tobacco duty continue to contribute to government revenues.
 
    The ‘tobacco duty escalator’, which increases duty in line with the
    Retail Price Index (RPI) +2% at each Budget, was extended at Budget
@@ -2235,7 +2235,7 @@ Operative date
 Current law
 
    The table of duty rates on tobacco products is in Schedule 1 to the
-   Tobacco Products Duty Act 1979 (TPDA).
+   Tobacco Products duty Act 1979 (TPDA).
 
 --
 
@@ -2246,7 +2246,7 @@ Current law
 --
 Equalities impacts
 
-   Due to differences in tobacco consumption, any change to tobacco duties
+   Due to differences in tobacco consumption, any change to tobacco duty
    will have equalities impacts. Men (14.6%)  are slightly more likely to
    smoke than women (11.2%).
 --
@@ -2383,7 +2383,7 @@ Related links
     2. [37]Money
     3. [38]Business tax
     4. [39]Stamp duty and other tax on property
-    5. [40]Growth market exemption for Stamp Duty and Stamp Duty Reserve
+    5. [40]Growth market exemption for Stamp duty and Stamp duty Reserve
        Tax
 --
    This publication is available at
@@ -2448,8 +2448,8 @@ References
  123. https://www.fca.org.uk/consumers/your-rights-financial-services
  124. https://www.fca.org.uk/consumers/how-complain
  125. https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services/printable/print
- 126. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services&amp;title=Consumer Duty sets higher standards for financial services customers&amp;summary=&amp;source=FCA
- 127. https://twitter.com/share?url=https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services&amp;text=Consumer Duty sets higher standards for financial services customers&amp;summary=&amp;source=FCA
+ 126. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services&amp;title=Consumer duty sets higher standards for financial services customers&amp;summary=&amp;source=FCA
+ 127. https://twitter.com/share?url=https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services&amp;text=Consumer duty sets higher standards for financial services customers&amp;summary=&amp;source=FCA
  128. https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services#relatedContentCollapse
  129. https://www.fca.org.uk/consumers/your-rights-financial-services
  130. https://www.fca.org.uk/consumers/how-complain
@@ -2498,7 +2498,7 @@ Manner of acquisitions
    that is transferred to be held on bare trust on or after 10 May 2022,
    the settlor will need to pay stamp duty i.e. BSD and ABSD on the
    transfer of the share of the residential property back to him, under
-   Section 22C of the Stamp Duties Act.
+   Section 22C of the Stamp duty Act.
 --
    purchaser upon execution of the document (and not later), the amount of
    discount may be deducted from the purchase price to determine the
@@ -2557,12 +2557,12 @@ Stamp duty on multiple documents
 Can the contracting parties change the date of instrument to avoid paying
 higher duty?
 
-   No. The Commissioner of Stamp Duties takes a serious view of any
-   attempt to evade or reduce the incidence of duties. Evasion of duties
-   is an offence under section 62 of the Stamp Duties Act. Any person
+   No. The Commissioner of Stamp duty takes a serious view of any
+   attempt to evade or reduce the incidence of duty. Evasion of duty
+   is an offence under section 62 of the Stamp duty Act. Any person
    guilty of such an offence shall be liable on conviction to a fine of up
    to $10,000 or to imprisonment for a term of up to 3 years or to both.
-   The Commissioner of Stamp Duties may also disregard or vary any
+   The Commissioner of Stamp duty may also disregard or vary any
    arrangements meant to evade or reduce the incidence of duty, and impose
    the duty (including late stamping penalties, if applicable) which would
    otherwise be payable.
@@ -2611,11 +2611,11 @@ Can I pay BSD using my Central Provident Fund (CPF) money?
 --
  470. https://www.iras.gov.sg/taxes/other-taxes/trusts/filing-estate-trust-income-tax-(form-t)
  471. https://www.iras.gov.sg/taxes/other-taxes/trusts/paying-estate-trust-income-tax
- 472. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
- 473. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties
- 474. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/basics-of-gambling-duties
- 475. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Betting-Lotteries-and-Sweepstakes
- 476. https://www.iras.gov.sg/taxes/other-taxes/gambling-duties/Gaming-Machines-Tombola-Continuous-Lucky-Draw-and-Single-Scheduled-Lottery
+ 472. https://www.iras.gov.sg/taxes/other-taxes/gambling-duty
+ 473. https://www.iras.gov.sg/taxes/other-taxes/gambling-duty
+ 474. https://www.iras.gov.sg/taxes/other-taxes/gambling-duty/basics-of-gambling-duty
+ 475. https://www.iras.gov.sg/taxes/other-taxes/gambling-duty/Betting-Lotteries-and-Sweepstakes
+ 476. https://www.iras.gov.sg/taxes/other-taxes/gambling-duty/Gaming-Machines-Tombola-Continuous-Lucky-Draw-and-Single-Scheduled-Lottery
  477. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
  478. https://www.iras.gov.sg/taxes/other-taxes/casino-tax
 --
@@ -2767,7 +2767,7 @@ References
   74. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle
   75. https://www.apps08.osr.nsw.gov.au/erevenue/calculators/motorsimple.php
   76. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals
-  77. https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty
+  77. https://www.revenue.nsw.gov.au/taxes-duty-levies-royalties/motor-vehicle-duty
   78. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration
   79. https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/vehicle-number-plates/order-personalised-reserve-or-replace-number-plates
 --
@@ -2788,18 +2788,18 @@ References
 <text>
     2. [37]Money - Taxes - Consumption
     3. [38]Customs
-    4. Moving from the foreigner to settle in France: what customs duties?
+    4. Moving from the foreigner to settle in France: what customs duty?
 
    This page has been automatically translated. Please refer to the page
 --
 Le lien vers cette page a été envoyé avec succès aux destinataires.
 
-Moving from the foreigner to settle in France: what customs duties?
+Moving from the foreigner to settle in France: what customs duty?
 
    Verified 29 June 2022 - Directorate for Legal and Administrative
    Information (Prime Minister)
 
-   What are the formalities and customs duties when you move your personal
+   What are the formalities and customs duty when you move your personal
    property in Metropolitan France from a foreigner country?
 
    If you come from a EU Member State, you do not have to pay anything or
@@ -2812,7 +2812,7 @@ Moving from the foreigner to settle in France: what customs duties?
 
 (BUTTON) Conditions for entitlement to the relief from customs duty
 
-   To benefit from the exemption of customs duties for goods entering
+   To benefit from the exemption of customs duty for goods entering
    France, you must complete the following conditions :
      * You reside in a non-EU country since 1 year minimum
 --
@@ -2824,9 +2824,9 @@ Moving from the foreigner to settle in France: what customs duties?
 --
      * On your request, a [49]free movement card
 
-(BUTTON) Goods subject to customs duties
+(BUTTON) Goods subject to customs duty
 
-   You must pay customs duties on the following products:
+   You must pay customs duty on the following products:
      * [50]Alcohol
      * [51]Tobacco
 --
@@ -2856,11 +2856,11 @@ Moving from the foreigner to settle in France: what customs duties?
 --
      * On your request, a [62]free movement card
 
-(BUTTON) Goods subject to customs duties
+(BUTTON) Goods subject to customs duty
 
    Some goods do not benefit from the duty-free allowance.
 
-   You have to pay customs duties for their entry into France during
+   You have to pay customs duty for their entry into France during
    customs clearance.
 
 --
@@ -2884,11 +2884,11 @@ Moving from the foreigner to settle in France: what customs duties?
 --
      * On your request, a [74]free movement card
 
-(BUTTON) Goods subject to customs duties
+(BUTTON) Goods subject to customs duty
 
    Some of your property is excluded from the duty-free allowance.
 
-   You must to pay duties during your customs clearance.
+   You must to pay duty during your customs clearance.
 
    These goods are:
 --
@@ -2900,21 +2900,21 @@ Moving from the foreigner to settle in France: what customs duties?
 --
 
      * [83]Inheritance received abroad: which goods are exempt from
-       customs duties?
+       customs duty?
      * [84]Customs: how does the traveler's check go?
 
 --
   38. https://www.service-public.fr/particuliers/vosdroits/N230?lang=en
   39. https://www.facebook.com/sharer/sharer.php?u=https://www.service-public.fr/particuliers/vosdroits/F492
-  40. https://twitter.com/intent/tweet?text=Moving from the foreigner to settle in France: what customs duties?&amp;url=https://www.service-public.fr/particuliers/vosdroits/F492
-  41. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.service-public.fr/particuliers/vosdroits/F492&amp;title=Moving from the foreigner to settle in France: what customs duties?
+  40. https://twitter.com/intent/tweet?text=Moving from the foreigner to settle in France: what customs duty?&amp;url=https://www.service-public.fr/particuliers/vosdroits/F492
+  41. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.service-public.fr/particuliers/vosdroits/F492&amp;title=Moving from the foreigner to settle in France: what customs duty?
   42. https://www.service-public.fr/particuliers/vosdroits/F492/partager-par-courriel
   43. https://www.service-public.fr/particuliers/vosdroits/F3161?lang=en
 </text>
 </page> §
 <page="en-32">
 <text>
-   The Montgomery GI Bill Active Duty (MGIB-AD) can help you pay for
+   The Montgomery GI Bill Active duty (MGIB-AD) can help you pay for
    education and training programs. If you’ve served at least 2 years on
    active duty, find out if you qualify for the MGIB-AD program.
 
@@ -2994,7 +2994,7 @@ Category II
 <text>
    [redbulle.gif] actions taken against dumping (selling at an unfairly
    low price)
-   [redbulle.gif] subsidies and special countervailing duties to offset
+   [redbulle.gif] subsidies and special countervailing duty to offset
    the subsidies
    [redbulle.gif] emergency measures to limit imports temporarily,
 --
@@ -3045,7 +3045,7 @@ Category II
 --
 
    Dumping and subsidies together with anti-dumping (AD) measures and
-   countervailing duties (CVD) share a number of similarities. Many
+   countervailing duty (CVD) share a number of similarities. Many
    countries handle the two under a single law, apply a similar process to
    deal with them and give a single authority responsibility for
 --
@@ -3093,7 +3093,7 @@ Who must comply with the biodiversity duty
    as a:
      * [52]government department or public body
      * local authority or local planning authority
-     * statutory undertaker – a business that has public authority duties
+     * statutory undertaker – a business that has public authority duty
        for their land and delivers something of public importance
 
 When to meet your biodiversity duty
@@ -3301,19 +3301,19 @@ Related pages
 <text>
           + [40]Value added tax (VAT)
           + [41]VAT and Administrative Cooperation
-          + [42]Excise duties
+          + [42]Excise duty
           + [43]Tax Co-operation and control
           + [44]Economic analysis of taxation
 --
           + [54]AEO (Authorised Economic Operator)
           + [55]Prohibitions and Restrictions
-          + [56]Calculation of customs duties
+          + [56]Calculation of customs duty
           + [57]Customs controls
           + [58]Customs Laboratories
 --
     2. (BUTTON) …
     3. [78]Customs
-    4. [79]Calculation of customs duties
+    4. [79]Calculation of customs duty
     5. [80]Customs Tariff
     6. EU Customs Tariff (TARIC)
 --
@@ -3325,76 +3325,76 @@ Related pages
 --
      * Agricultural measures
           + Agricultural components
-          + Additional duties on sugar, on sugar content and on flour
+          + Additional duty on sugar, on sugar content and on flour
             content
           + Representative prices for poultry
 --
             vegetables
      * Trade Defence instruments
-          + Antidumping duties and countervailing duties
+          + Antidumping duty and countervailing duty
           + Safeguard measures
      * Prohibitions and restrictions to import and export
 --
 References
 
-   1. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_de
-   2. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-   3. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fr
-   4. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en#main-content
+   1. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_de
+   2. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en
+   3. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_fr
+   4. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en#main-content
    5. https://commission.europa.eu/index_en
-   6. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-   7. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_bg
-   8. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_es
-   9. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_cs
-  10. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_da
-  11. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_de
-  12. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_et
-  13. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_el
-  14. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
-  15. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fr
-  16. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_ga
-  17. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_hr
-  18. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_it
-  19. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_lv
-  20. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_lt
-  21. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_hu
-  22. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_mt
-  23. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_nl
-  24. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_pl
-  25. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_pt
-  26. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_ro
-  27. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sk
-  28. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sl
-  29. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_fi
-  30. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_sv
-  31. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
+   6. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en
+   7. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_bg
+   8. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_es
+   9. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_cs
+  10. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_da
+  11. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_de
+  12. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_et
+  13. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_el
+  14. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en
+  15. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_fr
+  16. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_ga
+  17. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_hr
+  18. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_it
+  19. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_lv
+  20. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_lt
+  21. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_hu
+  22. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_mt
+  23. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_nl
+  24. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_pl
+  25. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_pt
+  26. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_ro
+  27. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_sk
+  28. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_sl
+  29. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_fi
+  30. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_sv
+  31. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en
   32. https://commission.europa.eu/business-economy-euro_en
-  33. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en
+  33. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/eu-customs-tariff-taric_en
   34. https://taxation-customs.ec.europa.eu/index_en
   35. https://taxation-customs.ec.europa.eu/taxation-1_en
 --
   40. https://taxation-customs.ec.europa.eu/taxation-1/value-added-tax-vat_en
   41. https://taxation-customs.ec.europa.eu/taxation-1/vat-and-administrative-cooperation_en
-  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duties_en
+  42. https://taxation-customs.ec.europa.eu/taxation-1/excise-duty_en
   43. https://taxation-customs.ec.europa.eu/taxation-1/tax-co-operation-and-control_en
   44. https://taxation-customs.ec.europa.eu/taxation-1/economic-analysis-taxation_en
 --
   54. https://taxation-customs.ec.europa.eu/customs-4/aeo-authorised-economic-operator_en
   55. https://taxation-customs.ec.europa.eu/customs-4/prohibitions-and-restrictions_en
-  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
+  56. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty_en
   57. https://taxation-customs.ec.europa.eu/customs-4/customs-controls_en
   58. https://taxation-customs.ec.europa.eu/customs-4/customs-laboratories_en
 --
   77. https://taxation-customs.ec.europa.eu/index_en
   78. https://taxation-customs.ec.europa.eu/customs-4_en
-  79. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties_en
-  80. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff_en
+  79. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty_en
+  80. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff_en
   81. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp
   82. http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en
   83. http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2658:en:NOT
-  84. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/combined-nomenclature_en
-  85. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/suspensions-autonomous-tariff-suspensions_en
-  86. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/quota-tariff-quotas-and-ceilings_en
+  84. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/combined-nomenclature_en
+  85. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/suspensions-autonomous-tariff-suspensions_en
+  86. https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duty/customs-tariff/quota-tariff-quotas-and-ceilings_en
   87. http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32012R1106:EN:NOT
   88. https://circabc.europa.eu/w/browse/0e5f18c2-4b2f-42e9-aed4-dfe50ae1263b
 </text>
@@ -3409,18 +3409,18 @@ duty
 --
    [10]IPA guide
 
-   Other forms: duties
+   Other forms: duty
 
    When you've done your duty, you've done what you're supposed to and met
    your responsibilities. Your sense of duty as a citizen might compel you
    to vote; it might also keep you from voting twice.
 
-   A duty is an obligation, and we get new duties with new positions in
+   A duty is an obligation, and we get new duty with new positions in
    life, like taking a job, or becoming a parent. You didn't realize one
-   of your duties as club president would be cleaning up after meetings. A
+   of your duty as club president would be cleaning up after meetings. A
    police officer or cab driver can be on-duty or off-duty. As an off-duty
    police officer, you might still feel it's your duty to stop a robbery.
-   Duty also means "tax," which is why people like shopping duty-free at
+   duty also means "tax," which is why people like shopping duty-free at
    the airport.
    Definitions of duty
     1. noun
@@ -3466,7 +3466,7 @@ duty
 --
     2. noun
        work that you are obliged to perform for moral or legal reasons
-       “the duties of the job”
+       “the duty of the job”
        [46]see moresee less
 
 --
@@ -3505,7 +3505,7 @@ duty
 --
     3. noun
        a government tax on imports or exports
-       “they signed a treaty to lower duties on trade between their
+       “they signed a treaty to lower duty on trade between their
        countries”
 
 --
@@ -3650,7 +3650,7 @@ Trade Tariff: look up commodity codes, duty and VAT rates
      * find out about suspensions or reductions
 
    You’ll need a commodity code when you fill in a customs declaration
-   form, so you pay the correct amount of tax and duties.
+   form, so you pay the correct amount of tax and duty.
 
    [40]Start now
 </text>
@@ -3843,7 +3843,7 @@ References
 <text>
    protecting our Nation’s embassies abroad, recruiting the next
    generation of United States Marines, or even serving the United States
-   Special Operations Command as a MARSOC Raider. These duties are earned
+   Special Operations Command as a MARSOC Raider. These duty are earned
    by Marines who have proven their exceptional ability to fight and win
    in the primary [56]Military Occupational Specialties (MOSs).
 --
@@ -3853,7 +3853,7 @@ References
    advanced opportunities are called “B” Billets, a designation separate
    from a Marine’s primary MOS. Explore these critical but atypical roles
 --
-RECRUITING DUTY
+RECRUITING duty
 
    Recruiting duty is a vital assignment in the Marine Corps, as it puts
    Marines in the position of ensuring the standards of our Corps remain
@@ -3882,7 +3882,7 @@ SECURITY FORCES
 --
   17. https://www.marines.com/about-the-marine-corps/marine-corps-structure/innovation.html
   18. https://www.marines.com/about-the-marine-corps/marine-corps-structure/weapons-vehicles-aircraft-gear.html
-  19. https://www.marines.com/about-the-marine-corps/marine-corps-structure/special-duties-other-assignments.html
+  19. https://www.marines.com/about-the-marine-corps/marine-corps-structure/special-duty-other-assignments.html
   20. https://www.marines.com/about-the-marine-corps/marine-corps-structure/marine-corps-reserve.html
   21. https://www.marines.com/life-as-a-marine.html
 </text>
@@ -3890,20 +3890,20 @@ SECURITY FORCES
 <page="en-40">
 <text>
        [703]the original on October 23, 2021. Retrieved April 21, 2020.
-   26. [704]^ [705]"Call of Duty® Community Update: A Warzone™ Special
+   26. [704]^ [705]"Call of duty® Community Update: A Warzone™ Special
        Briefing for Our Players". Callofduty.com. February 11, 2022.
        Retrieved February 11, 2022.
-   27. [706]^ Scullion, Chris (April 28, 2022). [707]"Call of Duty: Modern
+   27. [706]^ Scullion, Chris (April 28, 2022). [707]"Call of duty: Modern
 --
-   28. [708]^ [709]"Announcing Call of Duty®: Next, the Franchise Showcase
-       Event, and Open Beta date times for Call of Duty®: Modern Warfare®
+   28. [708]^ [709]"Announcing Call of duty®: Next, the Franchise Showcase
+       Event, and Open Beta date times for Call of duty®: Modern Warfare®
        II". www.callofduty.com. Retrieved August 31, 2022.
-   29. [710]^ Goslin, Austen (September 15, 2022). [711]"Call of Duty
-       Warzone 2.0 and the other big announcements from Call of Duty
+   29. [710]^ Goslin, Austen (September 15, 2022). [711]"Call of duty
+       Warzone 2.0 and the other big announcements from Call of duty
        Next". Polygon. Retrieved September 23, 2022.
-   30. [712]^ [713]"Call of Duty®: Modern Warfare® II Editions, Benefits
+   30. [712]^ [713]"Call of duty®: Modern Warfare® II Editions, Benefits
        Detailed". www.callofduty.com. Retrieved August 31, 2022.
-   31. [714]^ Robinson, Andy (June 9, 2008). [715]"Call of Duty: World at
+   31. [714]^ Robinson, Andy (June 9, 2008). [715]"Call of duty: World at
        War – first details in OXM". Computerandvideogames.com. Archived
 --
        ([917]BusinessWire). October 29, 2014. [918]Archived from the
@@ -3912,289 +3912,289 @@ SECURITY FORCES
        the original on August 23, 2015. Retrieved August 29, 2015.
    96. [922]^ Marchese, Dean (March 30, 2010). [923]"$180,000 Worth Of
 --
- 622. https://en.wikipedia.org/wiki/Call_of_Duty#cite_note-98
- 623. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-1
+ 622. https://en.wikipedia.org/wiki/Call_of_duty#cite_note-98
+ 623. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-1
  624. https://www.callofduty.com/blog/2021/04/Incredible-Warzone-and-Game-Sales-Milestones
- 625. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-CoD1_2-0
+ 625. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-CoD1_2-0
  626. https://web.archive.org/web/20091001145956/http://au.gamespot.com/features/6081710/index.html?tag=gameguide;title;1
  627. http://au.gamespot.com/features/6081710/index.html?tag=gameguide;title;1
- 628. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-3
+ 628. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-3
  629. http://pc.gamespy.com/pc/call-of-duty-war-chest/
  630. https://web.archive.org/web/20121101113011/http://pc.gamespy.com/pc/call-of-duty-war-chest/
- 631. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-4
+ 631. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-4
  632. https://archive.today/20120722082211/http://www.1up.com/news/activision-adds-gun-call-duty
  633. http://www.1up.com/news/activision-adds-gun-call-duty
- 634. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-5
+ 634. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-5
  635. https://web.archive.org/web/20110720222146/http://www.gamespot.com/xbox360/action/callofduty3/news.html?sid=6149040
  636. http://www.gamespot.com/xbox360/action/callofduty3/news.html?sid=6149040
- 637. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-6
+ 637. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-6
  638. https://www.polygon.com/2017/4/21/15376524/call-of-duty-wwii-announced-ps4-xbox-one-pc
  639. https://web.archive.org/web/20171125145120/https://www.polygon.com/2017/4/21/15376524/call-of-duty-wwii-announced-ps4-xbox-one-pc
- 640. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-7
+ 640. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-7
  641. http://www.digitaltrends.com/gaming/call-of-duty-ww2-reveal-trailer/
  642. https://web.archive.org/web/20170426194848/http://www.digitaltrends.com/gaming/call-of-duty-ww2-reveal-trailer/
- 643. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-8
+ 643. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-8
  644. http://www.shacknews.com/article/58537/call-of-duty-4-sales
  645. https://web.archive.org/web/20131105035355/http://www.shacknews.com/article/58537/call-of-duty-4-sales
- 646. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-9
+ 646. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-9
  647. https://www.usgamer.net/articles/26-06-2017-call-of-duty-modern-warfare-remastered-release-date-price-platforms-everything-we-know
  648. https://en.wikipedia.org/wiki/USGamer
  649. https://web.archive.org/web/20180525133005/https://www.usgamer.net/articles/26-06-2017-call-of-duty-modern-warfare-remastered-release-date-price-platforms-everything-we-know
- 650. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-10
+ 650. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-10
  651. http://es.ign.com/call-of-duty-modern-warfare-remastered-ps4/120267/trailer/call-of-duty-modern-warfare-remastered-trailer-de-lanzamient
  652. https://en.wikipedia.org/wiki/IGN
  653. https://en.wikipedia.org/wiki/Ziff_Davis,_LLC
  654. https://web.archive.org/web/20180525134020/http://es.ign.com/call-of-duty-modern-warfare-remastered-ps4/120267/trailer/call-of-duty-modern-warfare-remastered-trailer-de-lanzamient
- 655. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-11
+ 655. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-11
  656. https://gamerant.com/call-of-duty-former-dev-message-modern-warfare-remastered/
  657. https://web.archive.org/web/20180525132918/https://gamerant.com/call-of-duty-former-dev-message-modern-warfare-remastered/
- 658. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-12
+ 658. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-12
  659. https://charlieintel.com/2018/03/21/sources-call-of-duty-modern-warfare-2-remastered-has-no-mp-not-developed-by-raven/
  660. https://web.archive.org/web/20180525132845/https://charlieintel.com/2018/03/21/sources-call-of-duty-modern-warfare-2-remastered-has-no-mp-not-developed-by-raven/
- 661. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-GDC_Trailer,_Title_Cut_13-0
- 662. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-GDC_Trailer,_Title_Cut_13-1
+ 661. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-GDC_Trailer,_Title_Cut_13-0
+ 662. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-GDC_Trailer,_Title_Cut_13-1
 --
  670. https://web.archive.org/web/20120120041054/http://pc.ign.com/articles/953/953538p1.html
- 671. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-ModWar2_16-0
+ 671. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-ModWar2_16-0
  672. https://web.archive.org/web/20081205011423/http://multiplayerblog.mtv.com/2008/12/03/activision-announces-guitar-hero-5-new-tony-hawk-call-of-duty-modern-warfare-2-more-at-in-game-ad-conference/
  673. http://multiplayerblog.mtv.com/2008/12/03/activision-announces-guitar-hero-5-new-tony-hawk-call-of-duty-modern-warfare-2-more-at-in-game-ad-conference/
- 674. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-17
+ 674. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-17
  675. https://web.archive.org/web/20090808073345/http://ds.ign.com/articles/101/1010028p1.html
 --
- 687. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-latimes_21-0
- 688. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-latimes_21-1
+ 687. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-latimes_21-0
+ 688. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-latimes_21-1
  689. http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/01/activision-calls-in-reinforcements-for-next-call-of-duty-following-infinity-ward-meltdown.html
  690. https://en.wikipedia.org/wiki/Los_Angeles_Times
  691. https://web.archive.org/web/20131026234810/http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/01/activision-calls-in-reinforcements-for-next-call-of-duty-following-infinity-ward-meltdown.html
- 692. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-22
+ 692. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-22
  693. https://web.archive.org/web/20110708192540/http://www.computerandvideogames.com/288796/news/call-of-duty-8-dev-targets-bug-free-game/
  694. http://www.computerandvideogames.com/288796/news/call-of-duty-8-dev-targets-bug-free-game/
- 695. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-23
+ 695. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-23
  696. https://ghostarchive.org/archive/20211023/https://www.eurogamer.net/articles/2021-02-06-for-the-first-time-the-call-of-duty-warzone-black-ops-zombies-and-modern-warfare-storylines-are-all-connected
  697. https://www.eurogamer.net/articles/2021-02-06-for-the-first-time-the-call-of-duty-warzone-black-ops-zombies-and-modern-warfare-storylines-are-all-connected
- 698. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-24
+ 698. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-24
  699. https://ghostarchive.org/archive/20211023/https://www.pcgamesn.com/call-of-duty-warzone/free-to-play
  700. https://www.pcgamesn.com/call-of-duty-warzone/free-to-play
- 701. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-25
+ 701. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-25
  702. https://ghostarchive.org/archive/20211023/https://www.polygon.com/2020/4/10/21216734/call-of-duty-warzone-50-million-player-count
  703. https://www.polygon.com/2020/4/10/21216734/call-of-duty-warzone-50-million-player-count
- 704. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-COD2022_26-0
+ 704. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-COD2022_26-0
  705. https://www.callofduty.com/blog/2022/02/call-of-duty-warzone-special-briefing-community-update
- 706. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Scullion_2022_27-0
+ 706. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Scullion_2022_27-0
  707. https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-2s-title-and-logo-have-been-officially-confirmed/
- 708. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-28
+ 708. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-28
  709. https://www.callofduty.com/blog/2022/08/call-of-duty-modern-warfare-II-next-franchise-showcase-event-beta
- 710. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-29
+ 710. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-29
  711. https://www.polygon.com/call-of-duty/23353842/warzone-2-release-date-call-of-duty-modern-warfare-2-cod-next
- 712. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-30
+ 712. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-30
  713. https://www.callofduty.com/blog/2022/06/call-of-duty-modern-warfare-II-preorder-benefits-details
- 714. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-31
+ 714. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-31
  715. https://web.archive.org/web/20121107214540/http://www.computerandvideogames.com/190547/call-of-duty-world-at-war-first-details-in-oxm/?site=cvg
  716. http://www.computerandvideogames.com/190547/news/call-of-duty-world-at-war-first-details-in-oxm/
- 717. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-32
+ 717. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-32
  718. https://kotaku.com/5291547/
  719. https://web.archive.org/web/20090905040116/http://kotaku.com/5291547/
- 720. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-33
+ 720. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-33
  721. https://www.giantbomb.com/reviews/call-of-duty-black-ops-review/1900-341/
  722. https://en.wikipedia.org/wiki/Giant_Bomb
  723. https://web.archive.org/web/20170822050907/https://www.giantbomb.com/reviews/call-of-duty-black-ops-review/1900-341/
- 724. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-34
+ 724. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-34
  725. http://www.gamesradar.com/call-of-duty-black-ops-review/
  726. https://en.wikipedia.org/wiki/Games_Radar
  727. https://web.archive.org/web/20180202190331/http://www.gamesradar.com/call-of-duty-black-ops-review/
- 728. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-SiteRevealed_35-0
+ 728. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-SiteRevealed_35-0
  729. https://kotaku.com/5527932/next-call-of-duty-game-named-and-its-not-vietnam
  730. https://web.archive.org/web/20130509064627/http://kotaku.com/5527932/next-call-of-duty-game-named-and-its-not-vietnam
- 731. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-36
+ 731. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-36
  732. http://www.callofduty.com/blackops/
  733. https://en.wikipedia.org/wiki/Activision
  734. https://web.archive.org/web/20130725004452/http://www.callofduty.com/blackops/
- 735. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Press_37-0
+ 735. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Press_37-0
  736. https://kotaku.com/5528033/new-treyarch-developed-call-of-duty-hits-may-14th-with-likely-modern-setting
  737. https://web.archive.org/web/20121015053907/http://kotaku.com/5528033/new-treyarch-developed-call-of-duty-hits-may-14th-with-likely-modern-setting
- 738. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Wii_confirmed_38-0
+ 738. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Wii_confirmed_38-0
  739. http://www.eurogamer.net/articles/cod-black-ops-for-wii-confirmed
 --
  741. https://web.archive.org/web/20120511100412/http://www.eurogamer.net/articles/cod-black-ops-for-wii-confirmed
- 742. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Kelly_39-0
+ 742. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Kelly_39-0
  743. https://www.videogamer.com/xbox360/call_of_duty_black_ops_2/news/black_ops_2_officially_confirmed_by_activision.html
  744. https://web.archive.org/web/20120510150039/http://www.videogamer.com/xbox360/call_of_duty_black_ops_2/news/black_ops_2_officially_confirmed_by_activision.html
- 745. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Ivan_40-0
+ 745. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Ivan_40-0
  746. http://www.computerandvideogames.com/345943/black-ops-2-site-goes-live-confirms-release-date-21st-century-cold-war-setting/
  747. https://web.archive.org/web/20120503034341/http://www.computerandvideogames.com/345943/black-ops-2-site-goes-live-confirms-release-date-21st-century-cold-war-setting/
- 748. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-41
+ 748. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-41
  749. https://www.forbes.com/sites/erikkain/2015/04/23/check-out-the-call-of-duty-black-ops-3-ember-teaser/
  750. https://en.wikipedia.org/wiki/Forbes
  751. https://web.archive.org/web/20150427014527/http://www.forbes.com/sites/erikkain/2015/04/23/check-out-the-call-of-duty-black-ops-3-ember-teaser/
- 752. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-42
+ 752. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-42
  753. https://venturebeat.com/2018/03/08/call-of-duty-black-ops-4-is-coming-from-treyarch-this-year-activision-confirms/
  754. https://en.wikipedia.org/wiki/Venture_Beat
  755. https://web.archive.org/web/20180308230241/https://venturebeat.com/2018/03/08/call-of-duty-black-ops-4-is-coming-from-treyarch-this-year-activision-confirms/
- 756. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-43
+ 756. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-43
  757. https://ghostarchive.org/archive/20211023/https://www.gamesradar.com/call-of-duty-black-ops-4-single-player-isnt-happening/
  758. https://www.gamesradar.com/call-of-duty-black-ops-4-single-player-isnt-happening/
- 759. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-44
+ 759. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-44
  760. https://ghostarchive.org/archive/20211023/https://www.techradar.com/news/new-call-of-duty
  761. https://www.techradar.com/news/new-call-of-duty
  762. https://en.wikipedia.org/wiki/Template:Cite_web
  763. https://en.wikipedia.org/wiki/Category:CS1_maint:_numeric_names:_authors_list
- 764. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-45
+ 764. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-45
  765. http://www.ign.com/articles/2013/05/01/call-of-duty-ghosts-officially-revealed?abthid=518149dca121ab926e000006
  766. https://web.archive.org/web/20150518090647/http://www.ign.com/articles/2013/05/01/call-of-duty-ghosts-officially-revealed?abthid=518149dca121ab926e000006
- 767. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-46
- 768. https://web.archive.org/web/20131109031054/http://www.3news.co.nz/Call-of-Duty-Ghosts-announced/tabid/418/articleID/296270/Default.aspx
- 769. http://www.3news.co.nz/Call-of-Duty-Ghosts-announced/tabid/418/articleID/296270/Default.aspx
- 770. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-47
+ 767. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-46
+ 768. https://web.archive.org/web/20131109031054/http://www.3news.co.nz/Call-of-duty-Ghosts-announced/tabid/418/articleID/296270/Default.aspx
+ 769. http://www.3news.co.nz/Call-of-duty-Ghosts-announced/tabid/418/articleID/296270/Default.aspx
+ 770. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-47
  771. https://ghostarchive.org/archive/20211023/https://www.theverge.com/2013/5/1/4290408/call-of-duty-ghosts-official-release-date-next-generation-consoles
  772. https://www.theverge.com/2013/5/1/4290408/call-of-duty-ghosts-official-release-date-next-generation-consoles
- 773. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-48
+ 773. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-48
  774. http://www.ign.com/articles/2013/11/08/activision-confims-new-call-of-duty-and-skylander-games-for-2014
  775. https://web.archive.org/web/20140425105022/http://www.ign.com/articles/2013/11/08/activision-confims-new-call-of-duty-and-skylander-games-for-2014
- 776. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-49
+ 776. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-49
  777. https://web.archive.org/web/20191002053357/https://www.geek.com/games/cod-advanced-warfare-multiplayer-trailer-demos-exoskeletons-as-a-gameplay-mechanic-1601744/
  778. https://www.geek.com/games/cod-advanced-warfare-multiplayer-trailer-demos-exoskeletons-as-a-gameplay-mechanic-1601744/
- 779. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-50
+ 779. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-50
  780. http://www.eurogamer.net/articles/2016-04-26-this-years-cod-is-named-call-of-duty-infinite-warfare
  781. https://en.wikipedia.org/wiki/Eurogamer
  782. https://web.archive.org/web/20160429093715/http://www.eurogamer.net/articles/2016-04-26-this-years-cod-is-named-call-of-duty-infinite-warfare
- 783. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-51
+ 783. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-51
  784. http://www.gamespot.com/articles/2014-s-call-of-duty-described-as-the-best-ever-created/1100-6417578/
  785. https://web.archive.org/web/20150907172315/http://www.gamespot.com/articles/2014-s-call-of-duty-described-as-the-best-ever-created/1100-6417578/
- 786. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-52
+ 786. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-52
  787. http://www.charlieintel.com/2014/02/06/activision-confirms-3-dev-cycle-for-the-call-of-duty-franchise-shgames-game-coming-in-2014/
  788. https://web.archive.org/web/20150420183547/http://charlieintel.com/2014/02/06/activision-confirms-3-dev-cycle-for-the-call-of-duty-franchise-shgames-game-coming-in-2014/
- 789. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-53
+ 789. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-53
  790. https://ghostarchive.org/archive/20211023/https://kotaku.com/sources-call-of-duty-2020-in-upheaval-as-treyarch-take-1834858368
  791. https://en.wikipedia.org/wiki/Kotaku
  792. https://kotaku.com/sources-call-of-duty-2020-in-upheaval-as-treyarch-take-1834858368
- 793. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-54
+ 793. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-54
  794. http://ign.com/articles/2010/05/07/retailers-list-call-of-duty-the-war-collection
  795. https://web.archive.org/web/20170102173434/http://www.ign.com/articles/2010/05/07/retailers-list-call-of-duty-the-war-collection
- 796. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-55
+ 796. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-55
  797. https://books.google.com/books?id=AYhYAAAAYAAJ
- 798. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-DSpreviewKotaku_56-0
+ 798. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-DSpreviewKotaku_56-0
  799. https://kotaku.com/5622482/hands-cramping-on-with-call-of-duty-black-ops-ds
  800. https://web.archive.org/web/20100924164453/http://kotaku.com/5622482/hands-cramping-on-with-call-of-duty-black-ops-ds
- 801. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-DS_57-0
+ 801. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-DS_57-0
  802. http://uk.ds.ign.com/articles/110/1108711p1.html
  803. https://web.archive.org/web/20100730095232/http://uk.ds.ign.com/articles/110/1108711p1.html
- 804. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-58
+ 804. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-58
  805. https://web.archive.org/web/20120610204520/http://www.mcvuk.com/news/read/sony-call-of-duty-black-ops-ii-declassified-comes-to-vita-this-year/097329
  806. http://www.mcvuk.com/news/read/sony-call-of-duty-black-ops-ii-declassified-comes-to-vita-this-year/097329
- 807. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-59
+ 807. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-59
  808. https://www.nme.com/news/call-of-duty-warzone-is-coming-to-mobile-according-to-reports-3113274
- 809. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-60
+ 809. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-60
  810. https://web.archive.org/web/20191006022929/https://www.cnn.com/2019/10/01/tech/call-of-duty-mobile-trnd/index.html
  811. https://www.cnn.com/2019/10/01/tech/call-of-duty-mobile-trnd/index.html
- 812. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-61
+ 812. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-61
  813. https://www.theverge.com/2019/3/19/18272449/call-of-duty-mobile-release-date-news-features-ios-android
  814. https://web.archive.org/web/20190331065459/https://www.theverge.com/2019/3/19/18272449/call-of-duty-mobile-release-date-news-features-ios-android
- 815. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-62
+ 815. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-62
  816. https://www.digitaltrends.com/gaming/call-of-duty-mobile-reaches-over-35-million-downloads-in-three-days/
  817. https://en.wikipedia.org/wiki/Digital_Trends
  818. https://ghostarchive.org/archive/20211023/https://www.digitaltrends.com/gaming/call-of-duty-mobile-reaches-over-35-million-downloads-in-three-days/
- 819. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-63
+ 819. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-63
  820. https://web.archive.org/web/20121109203912/http://www.gamasutra.com/view/feature/130125/call_of_duty_the_lawsuit.php
  821. http://www.gamasutra.com/view/feature/130125/call_of_duty_the_lawsuit.php
- 822. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-64
+ 822. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-64
  823. https://www.theverge.com/gaming/2012/2/21/2806837/call-of-duty-devils-brigade-unreleased
  824. https://web.archive.org/web/20120222220048/http://www.theverge.com/gaming/2012/2/21/2806837/call-of-duty-devils-brigade-unreleased
- 825. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-65
+ 825. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-65
  826. https://web.archive.org/web/20110614002518/http://www.gamespot.com/news/6252764/2011-call-of-duty-not-sledgehammer-action-adventure
  827. http://www.gamespot.com/news/6252764/2011-call-of-duty-not-sledgehammer-action-adventure
- 828. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-66
+ 828. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-66
  829. http://www.eurogamer.net/articles/2014-05-15-there-was-a-canned-third-person-call-of-duty-game-set-in-vietnam
  830. https://en.wikipedia.org/wiki/Eurogamer
  831. https://web.archive.org/web/20140517120348/http://www.eurogamer.net/articles/2014-05-15-there-was-a-canned-third-person-call-of-duty-game-set-in-vietnam
- 832. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-67
+ 832. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-67
  833. http://www.gamesradar.com/the-incredible-story-of-roman-wars-the-lost-call-of-duty-game/
  834. https://web.archive.org/web/20160706162341/http://www.gamesradar.com/the-incredible-story-of-roman-wars-the-lost-call-of-duty-game/
- 835. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-Comic_68-0
+ 835. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-Comic_68-0
  836. https://web.archive.org/web/20090817220441/http://www.joystiq.com/2009/08/16/wildstorm-publishing-modern-warfare-2-comic-mini-series/
 --
  843. http://entertainment.upperdeck.com/cod/en/
- 844. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-71
+ 844. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-71
  845. https://web.archive.org/web/20110616212637/http://www.gamezone.com/news/item/call_of_duty_action_figures_announced
  846. http://www.gamezone.com/news/item/call_of_duty_action_figures_announced
- 847. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-72
+ 847. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-72
  848. http://www.the-nextlevel.com/features/promos/call-duty-figure/
  849. https://web.archive.org/web/20080509142551/http://www.the-nextlevel.com/features/promos/call-duty-figure/
- 850. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-73
+ 850. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-73
  851. https://web.archive.org/web/20070704185016/http://www.kotaku.com/gaming/oddities/call-of-duty-nazi-action-figure-discontinued-25245.php
  852. https://kotaku.com/gaming/oddities/call-of-duty-nazi-action-figure-discontinued-25245.php
- 853. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-74
+ 853. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-74
  854. https://web.archive.org/web/20081224234121/http://www.spawn.com/toys/series.aspx?series=427
 --
  861. http://hollywoodreporter.com/heat-vision/activision-blizzard-lauches-studio-plans-837647
- 862. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-77
+ 862. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-77
  863. https://ghostarchive.org/archive/20211023/https://variety.com/2018/film/news/sicario-2-call-of-duty-pic-activision-studios-exclusive-1202697515/
  864. https://variety.com/2018/film/news/sicario-2-call-of-duty-pic-activision-studios-exclusive-1202697515/
- 865. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-78
+ 865. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-78
  866. https://ghostarchive.org/archive/20211023/https://metro.co.uk/2018/02/15/tom-hardy-and-chris-pine-could-be-the-leading-men-in-call-of-duty-movie-if-sicario-2-director-gets-his-way-7315184/
  867. https://metro.co.uk/2018/02/15/tom-hardy-and-chris-pine-could-be-the-leading-men-in-call-of-duty-movie-if-sicario-2-director-gets-his-way-7315184/
- 868. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-79
+ 868. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-79
  869. https://ghostarchive.org/archive/20211023/https://www.slashfilm.com/call-of-duty-movie-details/
  870. https://www.slashfilm.com/call-of-duty-movie-details/
- 871. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-80
+ 871. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-80
  872. https://variety.com/2018/film/news/call-of-duty-movie-sequel-joe-robert-cole-1203038126/
  873. https://web.archive.org/web/20181128120335/https://variety.com/2018/film/news/call-of-duty-movie-sequel-joe-robert-cole-1203038126/
- 874. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-81
+ 874. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-81
  875. https://ghostarchive.org/archive/20211023/https://gamefragger.com/multiplatform/first_person_shooter/call_of_duty_ghosts/stefano-sollimas-call-of-duty-adaptation-is-reportedly-eyeing-2020-or-2021-release-date-a11804
  876. https://gamefragger.com/multiplatform/first_person_shooter/call_of_duty_ghosts/stefano-sollimas-call-of-duty-adaptation-is-reportedly-eyeing-2020-or-2021-release-date-a11804
- 877. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-82
+ 877. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-82
  878. https://ghostarchive.org/archive/20211023/https://movieweb.com/call-of-duty-on-hold-activision/
  879. https://movieweb.com/call-of-duty-on-hold-activision/
- 880. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-83
+ 880. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-83
  881. https://gamebattles.majorleaguegaming.com/profile/polira
 --
  885. https://web.archive.org/web/20140224100109/http://www.majorleaguegaming.com/mlg/about
- 886. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-85
+ 886. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-85
  887. http://gamebattles.majorleaguegaming.com/xbox360/call-of-duty-ghosts/ladder/team/standings
  888. https://web.archive.org/web/20140325234140/http://gamebattles.majorleaguegaming.com/xbox360/call-of-duty-ghosts/ladder/team/standings
- 889. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-86
+ 889. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-86
  890. http://gamebattles.majorleaguegaming.com/news/2191-Full-Sail-Summer-Ladders-8-000-in-Prizes
  891. https://web.archive.org/web/20130822035826/http://gamebattles.majorleaguegaming.com/news/2191-Full-Sail-Summer-Ladders-8-000-in-Prizes
- 892. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-87
+ 892. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-87
  893. https://web.archive.org/web/20120102064249/http://www.callofduty.com/xp/travel
  894. http://www.callofduty.com/xp/travel
- 895. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-88
+ 895. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-88
  896. http://gamebattles.majorleaguegaming.com/pc/starcraft-ii-wings-of-liberty/ladder/singles/standings
  897. https://web.archive.org/web/20130823170631/http://gamebattles.majorleaguegaming.com/pc/starcraft-ii-wings-of-liberty/ladder/singles/standings
- 898. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-89
+ 898. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-89
  899. https://web.archive.org/web/20190928190228/https://www.washingtonpost.com/sports/2019/09/25/new-call-duty-esports-league-will-begin-play-home-markets-start-with-teams/
  900. https://en.wikipedia.org/wiki/The_Washington_Post
  901. https://www.washingtonpost.com/sports/2019/09/25/new-call-duty-esports-league-will-begin-play-home-markets-start-with-teams/
- 902. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-90
+ 902. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-90
  903. https://www.washingtonpost.com/wp-dyn/content/article/2009/11/08/AR2009110817897.html
  904. https://web.archive.org/web/20110217013252/http://www.washingtonpost.com/wp-dyn/content/article/2009/11/08/AR2009110817897.html
- 905. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-91
+ 905. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-91
  906. https://web.archive.org/web/20151028174628/http://www.callofdutyendowment.org/who/leadership/james-jones
  907. http://www.callofdutyendowment.org/who/leadership/james-jones
- 908. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-CODE_92-0
+ 908. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-CODE_92-0
  909. https://web.archive.org/web/20091220152753/http://www.callofdutyendowment.org/about-us/about-code/
  910. http://www.callofdutyendowment.org/about-us/about-code/
- 911. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-BKdannouncesreci_93-0
- 912. http://www.businesswire.com/news/home/20141106005164/en/Activision’s-Call-Duty™-Endowment-Announces-Recipients-2014
+ 911. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-BKdannouncesreci_93-0
+ 912. http://www.businesswire.com/news/home/20141106005164/en/Activision’s-Call-duty™-Endowment-Announces-Recipients-2014
 --
- 918. https://web.archive.org/web/20141221080910/http://www.businesswire.com/news/home/20141029005236/en/Call-Duty®-Gamers-Join-“Race-1000-Jobs”
- 919. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-callofendowment_95-0
+ 918. https://web.archive.org/web/20141221080910/http://www.businesswire.com/news/home/20141029005236/en/Call-duty®-Gamers-Join-“Race-1000-Jobs”
+ 919. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-callofendowment_95-0
  920. http://www.callofdutyendowment.org/
  921. https://web.archive.org/web/20150823001431/http://www.callofdutyendowment.org/
- 922. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-96
+ 922. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-96
  923. http://gameinformer.com/b/news/archive/2010/03/30/180K-MW2-Presented-To-Navy.aspx
  924. https://web.archive.org/web/20121007074119/http://www.gameinformer.com/b/news/archive/2010/03/30/180k-mw2-presented-to-navy.aspx
- 925. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-97
+ 925. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-97
  926. https://ghostarchive.org/archive/20211023/https://www.gamesindustry.biz/articles/2017-11-09-humvee-maker-suing-activision-over-trademark-infringement-in-call-of-duty
  927. https://en.wikipedia.org/wiki/GamesIndustry.biz
  928. https://www.gamesindustry.biz/articles/2017-11-09-humvee-maker-suing-activision-over-trademark-infringement-in-call-of-duty
- 929. https://en.wikipedia.org/wiki/Call_of_Duty#cite_ref-98
+ 929. https://en.wikipedia.org/wiki/Call_of_duty#cite_ref-98
  930. https://ghostarchive.org/archive/20211023/https://www.gamesindustry.biz/articles/2020-04-01-us-court-dismisses-humvee-trademark-infringement-suit-against-activision
 --
- 935. https://en.wikiquote.org/wiki/Call_of_Duty_(series)
+ 935. https://en.wikiquote.org/wiki/Call_of_duty_(series)
  936. https://www.wikidata.org/wiki/Q192156
  937. https://www.callofduty.com/
  938. https://www.wikidata.org/wiki/Q192156#P856
- 939. https://en.wikipedia.org/wiki/Template:Call_of_Duty_series
+ 939. https://en.wikipedia.org/wiki/Template:Call_of_duty_series
 </text>
 </page> §
 <page="en-41">
@@ -4218,7 +4218,7 @@ Cookies on Prevent duty training
 Prevent duty training: Learn how to support people susceptible to
 radicalisation
 
-   Prevent sits alongside long-established safeguarding duties on
+   Prevent sits alongside long-established safeguarding duty on
    professionals to protect people from a range of other harms such as
    substance abuse, involvement in gangs and physical and sexual
 --
@@ -4266,30 +4266,30 @@ Prevent duty courses
 </page> §
 <page="en-42">
 <text>
-What Is a Duty?
+What Is a duty?
 
    The term "duty" refers to a form of taxation levied on certain goods,
    services, or other transactions. People and [157]corporations may be
    required to pay levies on [158]imports and exports by governments in
-   the form of customs duties and other taxes. This is done in order to
-   collect revenue and to satisfy other economic reasons. Duties are
+   the form of customs duty and other taxes. This is done in order to
+   collect revenue and to satisfy other economic reasons. duty are
    enforceable by law and may be imposed on [159]commodities or financial
 --
 Key Takeaways
 
      * A duty is a form of taxation levied on certain goods, services, or
        other transactions that are imported and exported.
-     * Duty rates are a percentage determined by the total value of the
+     * duty rates are a percentage determined by the total value of the
 --
        the environment, and other interests by controlling the influx and
        outflow of merchandise.
      * A duty may also be someone's moral or fiduciary responsibility.
 
-Understanding a Duty
+Understanding a duty
 --
    receive shipments internationally. These levies must be paid before
    [161]delivery can be made. These levies are called customs or
-   [162]import duties. These are [163]tariffs or taxes imposed on goods
+   [162]import duty. These are [163]tariffs or taxes imposed on goods
    transported across international borders.
 
    Customs duty rates are a percentage determined by the total value of
@@ -4301,11 +4301,11 @@ Understanding a Duty
    The intent of this form of duty is to provide a form of [164]commerce
    protection for each country's jobs, [165]economy, environment, and
    other interests by controlling the influx and outflow of merchandise.
-   Duties may be imposed on restrictive and prohibited goods that are
+   duty may be imposed on restrictive and prohibited goods that are
    shipped in and out of a country. The imposition and collection of
-   duties also help contribute to a nation's revenue pool.
+   duty also help contribute to a nation's revenue pool.
 
-Duties When Traveling
+duty When Traveling
 
    This form of duty can be revoked in certain situations such as an
    airport's [166]duty-free shop. When customers patronize a duty-free
@@ -4327,7 +4327,7 @@ Duties When Traveling
    be imposed on the purchases.
 
    The U.S. Customs and Border Protection will outline the details
-   regarding duties on a variety of products. Specific details are
+   regarding duty on a variety of products. Specific details are
    outlined for tobacco and alcoholic products as well as items being
    brought in from Cuba.﻿﻿
 --
@@ -4422,8 +4422,8 @@ Special Considerations
  143. https://www.fca.org.uk/firms/consumer-duty-information-firms#expandable1231301
  144. https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/direct-marketing-and-regulatory-communications/
  145. https://www.fca.org.uk/firms/consumer-duty-information-firms/printable/print
- 146. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/firms/consumer-duty-information-firms&amp;title=Consumer Duty – information for firms&amp;summary=&amp;source=FCA
- 147. https://twitter.com/share?url=https://www.fca.org.uk/firms/consumer-duty-information-firms&amp;text=Consumer Duty – information for firms&amp;summary=&amp;source=FCA
+ 146. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/firms/consumer-duty-information-firms&amp;title=Consumer duty – information for firms&amp;summary=&amp;source=FCA
+ 147. https://twitter.com/share?url=https://www.fca.org.uk/firms/consumer-duty-information-firms&amp;text=Consumer duty – information for firms&amp;summary=&amp;source=FCA
  148. https://www.fca.org.uk/firms/consumer-duty/resources
  149. https://www.fca.org.uk/firms/consumer-duty/how-using-duty
  150. https://www.fca.org.uk/firms/consumer-duty-information-firms#relatedContentCollapse
@@ -4460,52 +4460,52 @@ Special Considerations
 <page="en-44">
 <text>
  331. https://web.archive.org/web/20090714112305/http://xbox360.ign.com/articles/100/1003351p1.html
- 332. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-6
+ 332. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-6
  333. https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
  334. https://en.wikipedia.org/wiki/IGN
  335. https://web.archive.org/web/20221227140710/https://www.ign.com/articles/2013/11/01/call-of-dutys-original-codename-was-medal-of-honor-killer
- 336. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-Development_Q&amp;A_-_GameSpot_7-0
+ 336. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-Development_Q&amp;A_-_GameSpot_7-0
  337. http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
  338. https://web.archive.org/web/20160303101157/http://www.gamespot.com/articles/call-of-duty-qanda/1100-6026083/
- 339. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-8
+ 339. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-8
  340. https://www.newspapers.com/clip/92938870/north-bay-nugget/
 --
- 344. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-0
- 345. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-E3_2003_-_IGN_9-1
+ 344. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-E3_2003_-_IGN_9-0
+ 345. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-E3_2003_-_IGN_9-1
  346. http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
  347. https://web.archive.org/web/20160303154122/http://www.ign.com/articles/2003/05/15/e3-2003-call-of-duty
- 348. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-0
- 349. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-MC_10-1
+ 348. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-MC_10-0
+ 349. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-MC_10-1
  350. https://www.metacritic.com/game/pc/call-of-duty
  351. https://en.wikipedia.org/wiki/Metacritic
  352. https://en.wikipedia.org/wiki/Fandom,_Inc.
 --
  359. http://www.gamepro.com/computer/pc/games/reviews/31578.shtml
- 360. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-GameSpot_13-0
+ 360. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-GameSpot_13-0
  361. http://www.gamespot.com/pc/action/callofduty/review.html
  362. https://en.wikipedia.org/wiki/GameSpot
  363. https://web.archive.org/web/20110820143439/http://www.gamespot.com/pc/action/callofduty/review.html
- 364. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNreview_14-0
+ 364. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-IGNreview_14-0
  365. https://web.archive.org/web/20120119212720/http://pc.ign.com/articles/456/456776p1.html
 --
  389. http://au.pc.ign.com/articles/456/456776p1.html
- 390. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-22
+ 390. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-22
  391. https://web.archive.org/web/20091214082725/http://www.metacritic.com/games/platforms/ngage/callofduty
  392. https://www.metacritic.com/games/platforms/ngage/callofduty
- 393. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-npd2003_23-0
+ 393. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-npd2003_23-0
  394. https://web.archive.org/web/20041205111002/http://www.theesa.com/EFBrochure.pdf
 --
  420. https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php
- 421. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-ign-history_30-0
+ 421. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-ign-history_30-0
  422. http://microsites.ign.com/call-of-duty-a-short-history/
  423. https://en.wikipedia.org/wiki/IGN
  424. https://en.wikipedia.org/wiki/Ziff_Davis
  425. https://web.archive.org/web/20160303172825/http://microsites.ign.com/call-of-duty-a-short-history/
- 426. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-0
- 427. https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)#cite_ref-IGNthing_31-1
+ 426. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-IGNthing_31-0
+ 427. https://en.wikipedia.org/wiki/Call_of_duty_(video_game)#cite_ref-IGNthing_31-1
 --
  432. http://uk.xboxlive.ign.com/articles/105/1051550p1.html
- 433. https://en.wikipedia.org/w/index.php?title=Call_of_Duty_(video_game)&amp;action=edit&amp;section=13
+ 433. https://en.wikipedia.org/w/index.php?title=Call_of_duty_(video_game)&amp;action=edit&amp;section=13
  434. http://www.callofduty.com/
  435. https://www.imdb.com/title/tt0382590/
  436. https://en.wikipedia.org/wiki/IMDb_(identifier)
@@ -4535,10 +4535,10 @@ Special Considerations
   38. https://www.gov.uk/government/organisations/home-office
   39. https://www.gov.uk/government/publications/serious-violence-duty#full-publication-update-history
   40. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-accessible
-  41. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022.pdf
+  41. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_duty_Statutory_Guidance_-_December_2022.pdf
   42. mailto:alternativeformats@homeoffice.gov.uk
   43. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-welsh-accessible
-  44. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
+  44. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
   45. mailto:alternativeformats@homeoffice.gov.uk
   46. https://www.gov.uk/government/publications/serious-violence-duty#full-history
   47. https://www.gov.uk/government/publications/operation-soteria-year-one-report
@@ -4547,14 +4547,14 @@ Special Considerations
 
    Hidden links:
   89. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-accessible
-  90. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022.pdf
+  90. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1125001/Final_Serious_Violence_duty_Statutory_Guidance_-_December_2022.pdf
   91. https://www.gov.uk/government/publications/serious-violence-duty/serious-violence-duty-welsh-accessible
-  92. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_Duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
+  92. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128355/Final_Serious_Violence_duty_Statutory_Guidance_-_December_2022__Welsh__.pdf
 </text>
 </page> §
 <page="en-46">
 <text>
-   [130]CP21/36: A new Consumer Duty: feedback to CP21/13 and further
+   [130]CP21/36: A new Consumer duty: feedback to CP21/13 and further
    consultation
    [131]CP21/13: A new consumer duty
    [132]DP18/5: Discussion Paper on a duty of care and potential
@@ -4587,8 +4587,8 @@ Special Considerations
  122. https://www.fca.org.uk/publication/finalised-guidance/fg22-5.pdf
  123. https://www.fca.org.uk/sign-consumer-duty-email-updates
  124. https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty/printable/print
- 125. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty&amp;title=PS22/9: A new Consumer Duty&amp;summary=&amp;source=FCA
- 126. https://twitter.com/share?url=https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty&amp;text=PS22/9: A new Consumer Duty&amp;summary=&amp;source=FCA
+ 125. https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty&amp;title=PS22/9: A new Consumer duty&amp;summary=&amp;source=FCA
+ 126. https://twitter.com/share?url=https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty&amp;text=PS22/9: A new Consumer duty&amp;summary=&amp;source=FCA
  127. https://www.fca.org.uk/publications/policy-statements/ps22-9-new-consumer-duty#relatedContentCollapse
  128. https://www.fca.org.uk/sign-consumer-duty-email-updates
  129. https://www.fca.org.uk/news/press-releases/fca-consumer-duty-major-shift-financial-services
@@ -4618,20 +4618,20 @@ Special Considerations
 <text>
    as long as it is made within 3 years of the importation date and
    accompanied with a valid proof of origin. In those circumstances any
-   duties would be repaid to the importer.
+   duty would be repaid to the importer.
 
    You can claim preference for different goods on the same document.
 --
    requirement is that those goods are clearly indicated.
 
-   In the UK, a [47]claim for duties to be repaid is made using C285,
+   In the UK, a [47]claim for duty to be repaid is made using C285,
    however there are different ways to claim the preferential rate of duty
    depending on which system you’re using to make your import declaration.
 
 --
      * the import declaration in respect of the originating products is
        accepted by the customs authorities
-     * an application for repayment or remission of customs duties is
+     * an application for repayment or remission of customs duty is
        submitted
 
 --
@@ -4670,12 +4670,12 @@ References
 </page> §
 <page="en-48">
 <text>
-What Is a Fiduciary Duty?
+What Is a Fiduciary duty?
 
    Fiduciary duty refers to the relationship between a fiduciary and the
    principal or beneficiary on whose behalf the fiduciary acts.
 
-   The fiduciary accepts legal responsibility for duties of care, loyalty,
+   The fiduciary accepts legal responsibility for duty of care, loyalty,
    good faith, confidentiality, and more when serving the best interests
    of a beneficiary. Strict care must be taken to ensure that
 --
@@ -4685,7 +4685,7 @@ Key Takeaways
        another person or entity.
      * Fiduciary duty describes the relationship between an attorney and a
        client or a guardian and a ward.
-     * Fiduciary duties include duty of care, loyalty, good faith,
+     * Fiduciary duty include duty of care, loyalty, good faith,
        confidentiality, prudence, and disclosure.
      * It has been successfully argued that an employee may have a
        fiduciary duty of loyalty to an employer.
@@ -4707,33 +4707,33 @@ Key Takeaways
 --
    on behalf of the client.
 
-   Attorneys can be sued for breaches of their fiduciary duties by
+   Attorneys can be sued for breaches of their fiduciary duty by
    clients. They are accountable to the court in which a client is
    represented when a breach occurs.
 --
 Controlling Stockholder/Company
 
-   In certain circumstances, fiduciary duties may be required of a
+   In certain circumstances, fiduciary duty may be required of a
    stockholder who possesses a majority interest in a corporation or who
    exercises control over its activities. A breach of fiduciary duty may
    result in personal legal liability for the controlling shareholder as
    well as directors and officers.
 --
-Types of Fiduciary Duties
+Types of Fiduciary duty
 
-   Fiduciary duties may differ depending on the type of beneficiary that a
+   Fiduciary duty may differ depending on the type of beneficiary that a
    fiduciary serves. However, in general, the legal and ethical
    obligations related to protecting the interests of beneficiaries
-   include the following duties.
+   include the following duty.
 
-Duty of Care
+duty of Care
 --
    This pertains to acting in the best interest of the beneficiary at all
    times, putting their well-being first and foremost. It includes the
    duty of the fiduciary to excuse themself from taking actions when
    there's a conflict of interest with the beneficiary's welfare.
 
-Duty of Good Faith
+duty of Good Faith
 
    This duty pertains to always acting within the law to advance the
    interests of the beneficiary. At no time should the fiduciary take
@@ -4741,12 +4741,12 @@ Duty of Good Faith
 --
    Fiduciaries must engage in completely forthright behavior, disclosing
    any and all relevant information that could have an impact on their
-   ability to carry out their duties as fiduciary and/or on the well-being
+   ability to carry out their duty as fiduciary and/or on the well-being
    of a beneficiary's interests.
 
-Breaches in Fiduciary Duty
+Breaches in Fiduciary duty
 
-   Fiduciary duties are taken on by individuals and entities for various
+   Fiduciary duty are taken on by individuals and entities for various
    types of beneficiaries. Such relationships include, among others,
    lawyers acting for clients, company executives acting for stockholders,
 --
@@ -4758,7 +4758,7 @@ Breaches in Fiduciary Duty
 --
    from a competitor.
 
-   These expectations may not be actual fiduciary duties but they may be
+   These expectations may not be actual fiduciary duty but they may be
    spelled out in an employee handbook or contract clause.
 
    Case law indicates that breaches of fiduciary duty most often happen
@@ -4790,7 +4790,7 @@ Elements of a Fiduciary Breach Claim
    are essential if a plaintiff is to prevail in a breach of fiduciary
    duty claim.
 
-A Duty Existed
+A duty Existed
 
    The plaintiff must show that a legal fiduciary duty existed. Many
    professionals are obligated, legally and ethically, to conduct their
@@ -4832,7 +4832,7 @@ Causation Was Proved
    or both. If your adviser has a professional certification, you can also
    notify the entity that provided the credential.
 --
-A Duty of Loyalty
+A duty of Loyalty
 
    One example of a breach in fiduciary duty case went to the Virginia
    Supreme Court in 2007.
@@ -4864,15 +4864,15 @@ A Menswear Store vs. Ex-Employees
    fiduciary duty, an individual or entity accepts a legal commitment to
    act in the best interests of a beneficiary.
 
-What Are the Main Fiduciary Duties?
+What Are the Main Fiduciary duty?
 
-   There are several types of fiduciary duties. One is the duty of loyalty
+   There are several types of fiduciary duty. One is the duty of loyalty
    which implies that the fiduciary will always act in the best interests
-   of the beneficiary or principal. Duty of care is another. It means that
+   of the beneficiary or principal. duty of care is another. It means that
 --
    regarding a beneficiary's well-being. No conflicting interest will be
    permitted to influence the fiduciary's actions on behalf of the client.
-   Duty to disclose is a third. It refers to the duty a fiduciary has to
+   duty to disclose is a third. It refers to the duty a fiduciary has to
    disclose any conflict of interest they may have when acting on behalf
    of a beneficiary.
 --
@@ -4886,18 +4886,18 @@ What Are the Main Fiduciary Duties?
 --
 The Bottom Line
 
-   Fiduciary duties refer to the ways that a fiduciary is legally
+   Fiduciary duty refer to the ways that a fiduciary is legally
    committed to act for a principal or beneficiary. They include a duty of
    loyalty, a duty of care, a duty of prudence, a duty of confidentiality,
    and more.
 
-   Fiduciary duties are meant to ensure that the fiduciary acts only in
+   Fiduciary duty are meant to ensure that the fiduciary acts only in
    the best interests of a principal or beneficiary. What's more, the
    fiduciary must act diligently to protect those interests.
 --
    fiduciary, you can protect yourself by understanding the rights that
    this relationship grants you and the responsibilities that are [180]not
-   part of a fiduciary's duties.
+   part of a fiduciary's duty.
 
    Article Sources
 --
@@ -4905,7 +4905,7 @@ The Bottom Line
  150. about:blank
  151. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-what-is-a-fiduciary-duty
  152. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-examples-of-fiduciary-relationships
- 153. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-types-of-fiduciary-duties
+ 153. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-types-of-fiduciary-duty
  154. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-breaches-in-fiduciary-duty
  155. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-consequences-of-a-fiduciary-breach
  156. https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp#toc-elements-of-a-fiduciary-breach-claim
@@ -4957,34 +4957,34 @@ The Bottom Line
 --
    when it is carrying out a public function.
 
-Specific duties
+Specific duty
 
-   The Equality Act 2010 (Specific Duties) Regulations 2011 came into
+   The Equality Act 2010 (Specific duty) Regulations 2011 came into
    force on 10 September 2011.
 
-   The specific duties require public bodies to publish relevant,
-   proportionate information showing compliance with the Equality Duty,
+   The specific duty require public bodies to publish relevant,
+   proportionate information showing compliance with the Equality duty,
    and to set equality objectives.
 --
    The Government Equalities Office has published 2 quick-start guides to
-   help public bodies understand the Equality Duty and the specific
-   duties:
-     * [61]Quick start guide: public sector Equality Duty
-     * [62]Quick start guide: Specific duties
+   help public bodies understand the Equality duty and the specific
+   duty:
+     * [61]Quick start guide: public sector Equality duty
+     * [62]Quick start guide: Specific duty
 
    The [63]Equality and Human Rights Commission is the statutory body
 --
 
    Section 153 of the act enables the Welsh and Scottish ministers to
-   impose specific duties on certain Welsh and Scottish public bodies
+   impose specific duty on certain Welsh and Scottish public bodies
    through secondary legislation. For Welsh and cross-border Welsh public
-   bodies, specific duties have been finalised by the Welsh Assembly
+   bodies, specific duty have been finalised by the Welsh Assembly
    government and came into force on 6 April 2011.
 
 --
 
    For Scottish public bodies, the Scottish government launched a
-   consultation on revised draft Regulations for specific duties on 9
+   consultation on revised draft Regulations for specific duty on 9
    September 2011. The consultation closed on 25 November 2011.
 
 --
@@ -4997,7 +4997,7 @@ Specific duties
   59. http://www.legislation.gov.uk/ukpga/2010/15/section/149
   60. https://www.gov.uk/government/publications/equality-act-2010-schedule-19-consolidated-april-2011
   61. https://www.gov.uk/government/publications/public-sector-quick-start-guide-to-the-public-sector-equality-duty
-  62. https://www.gov.uk/government/publications/public-sector-quick-start-guide-to-the-specific-duties
+  62. https://www.gov.uk/government/publications/public-sector-quick-start-guide-to-the-specific-duty
   63. http://www.equalityhumanrights.com/
   64. https://www.equalityhumanrights.com/en/publication-download/essential-guide-public-sector-equality-duty
   65. https://www.equalityhumanrights.com/en/publication-download/meeting-equality-duty-policy-and-decision-making-england-and-non-devolved
@@ -5006,7 +5006,7 @@ Specific duties
   68. https://www.equalityhumanrights.com/en/publication-download/equality-information-and-equality-duty-guide-public-authorities
   69. https://www.equalityhumanrights.com/en/publication-download/technical-guidance-public-sector-equality-duty-england
   70. http://www.legislation.gov.uk/wsi/2011/1064/pdfs/wsi_20111064_mi.pdf
-  71. http://www.scotland.gov.uk/Topics/People/Equality/PublicEqualityDuties
+  71. http://www.scotland.gov.uk/Topics/People/Equality/PublicEqualityduty
   72. http://www.equalityhumanrights.com/advice-and-guidance/public-sector-equality-duty/
   73. http://www.legislation.gov.uk/ukpga/2010/15/contents
   74. http://www.legislation.gov.uk/ukpga/2010/15/notes/contents
@@ -5016,34 +5016,34 @@ Specific duties
 <text>
 
      ABSTRACT: The public life of political servants is characterized by
-     other duties and obligations than private life. Conflicts can even
-     arise between a person's public and private duties. The central
-     point of this paper is to examine whether this difference of duties
+     other duty and obligations than private life. Conflicts can even
+     arise between a person's public and private duty. The central
+     point of this paper is to examine whether this difference of duty
      can be regarded as an effect of different forms of obligation. Can
      we speak of a particular form of political obligation in the same
 --
    All modern societies in some way accept the distinction between legal
    and ethical obligation. The former constitutes an exterior sphere of
-   norms and rules, including duties which citizens can be compelled to
+   norms and rules, including duty which citizens can be compelled to
    perform by the threat of punishment or other legal consequences, the
    latter concerns the interior sphere of a person's conscience and
 --
    change in morals': the evolution of a separate subjective sphere of
    morality within the public ethical life. (1) Legal and moral law oblige
-   in different ways and also contain different duties. In modern society,
-   legal duties usually take the form of commands and rules. The
-   distinguishing characteristic of legal duties and corresponding rights
+   in different ways and also contain different duty. In modern society,
+   legal duty usually take the form of commands and rules. The
+   distinguishing characteristic of legal duty and corresponding rights
    is that they can be enforced by an appeal to the law. For the sake of
    certainty and to avoid arbitrariness, the legal system strives to
-   formulate duties as unambiguously, completely and consistently as
+   formulate duty as unambiguously, completely and consistently as
    possible, and to determine the rules for their enforcement precisely.
    Thus, the question of what a legal obligation is and how the subjects
    under obligation must behave is virtually answered by the legal system
    itself. How to fulfill a moral duty, on the other hand, is considered a
    matter of ethical obligation and left to the conscience of private
-   persons. Immanuel Kant thought that the domain of duties could be
-   adequately divided into duties that can be the object of legal
-   obligation, on the one hand, and duties that only can be the object of
+   persons. Immanuel Kant thought that the domain of duty could be
+   adequately divided into duty that can be the object of legal
+   obligation, on the one hand, and duty that only can be the object of
    ethical obligation, on the other. The latter pertains to intentions;
    the former, to external aspects of the action. I think, however, that
 --
@@ -5055,10 +5055,10 @@ Specific duties
 --
    is morally good and wrong are the same for both public and private life
    and these domains are not governed by different moral principles, the
-   public life of political servants is characterised by other duties than
+   public life of political servants is characterised by other duty than
    those of the individual in private life. There can even be particular
-   conflicts between a person's public and private duties. Can this
-   difference of duties be regarded as an effect of different forms of
+   conflicts between a person's public and private duty. Can this
+   difference of duty be regarded as an effect of different forms of
    obligation?
 
    There is an analytical connection between duty and obligation.
@@ -5089,7 +5089,7 @@ Specific duties
    not ask of its citizens an extraordinary readiness to make sacrifices
    or to take special responsibilities. But political obligation is also
    associated with a duty to defend your country, to fight for justice
-   and, particularly in war, even to risk your own life. These duties
+   and, particularly in war, even to risk your own life. These duty
    cannot always be seen as supererogatory, because under particular
    circumstances citizens and politicians are forced to behave in
 --
@@ -5107,13 +5107,13 @@ Specific duties
 --
 
    Thus, political obligation seems to be a kind of obligation concerning
-   the duties of political leaders and citizens together who, as a
+   the duty of political leaders and citizens together who, as a
    collectivity, are responsible for the political system as a whole. The
    domain of political obligation is situated between ethics and law. The
 --
    political leader with a great sense of responsibility for national
    interests and the safety of the state will feel obliged to do things
-   that go far beyond the moral duties and rights of private persons in
+   that go far beyond the moral duty and rights of private persons in
    daily life. Taking great responsibilities is a praiseworthy thing in
    people who have the capacities to take them. Political merit
 --
@@ -5123,7 +5123,7 @@ Specific duties
    system wants. They have this duty insofar as they themselves are a
    functional part of the system. This functional relationship is not
    characterised by what I would call a lien of political obligation,
-   because its duties are defined by formal rules and legal obligation.
+   because its duty are defined by formal rules and legal obligation.
    The duty to perform their tasks in a formally prescribed impersonal and
    detached manner relieves civil servants of too many burdensome moral
    worries. But an excessive devotion to formal duty can also make
@@ -5163,8 +5163,8 @@ References
  121. https://www.fca.org.uk/publications
  122. https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans/printable/print
  123. https://www.fca.org.uk/cdn-cgi/l/email-protection#17284462757d7274632a54787964627a72653225275362636e3225277e7a677b727a72796376637e7879322527677b767964322527322527766332252751545631767a672c5578736e2a5e322527647660322527637f7e643225277879322527637f72322527515456322527607275647e6372322527767973322527637f7862707f633225276e78623225277a7e707f6332252775723225277e7963726572646372733225273227567f636367643224563838606060397174763978657039627c3838797873723826272f272321
- 124. http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;title=Consumer Duty implementation plans &amp;summary=&amp;source=FCA
- 125. http://twitter.com/share?url=https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;text=Consumer Duty implementation plans &amp;summary=&amp;source=FCA
+ 124. http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;title=Consumer duty implementation plans &amp;summary=&amp;source=FCA
+ 125. http://twitter.com/share?url=https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;text=Consumer duty implementation plans &amp;summary=&amp;source=FCA
  126. https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans#lf-chapter-id-why-we-conducted-this-review
  127. https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans#lf-chapter-id-who-this-applies-to
  128. https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans#lf-chapter-id-what-we-did
@@ -5274,7 +5274,7 @@ References
 <text>
 
    HKSAR is a free port and does not levy any Customs tariff on imports
-   and exports. Excise duties are levied only on four types of dutiable
+   and exports. Excise duty are levied only on four types of dutiable
    commodities, namely:
      * [1]Liquor
 --
@@ -5380,7 +5380,7 @@ PM security breach: SP Gurbinder Singh suspended for dereliction of duty
 <text>
    Last updated on November 23, 2019 by [14]Surbhi S
 
-   [15]duty vs responsibility Duty and Responsibility are wider terms,
+   [15]duty vs responsibility duty and Responsibility are wider terms,
    which are used in a number of contexts, say in the field of law,
    management, education, ethics and so forth. These are commonly used
    with one another, but they are two different terms, wherein the duty is
@@ -5389,13 +5389,13 @@ PM security breach: SP Gurbinder Singh suspended for dereliction of duty
 --
    accountable for or blamed for its performance and completion or
    non-completion. In this article we are going to talk about the
-   difference between duties and responsibilities, have a look.
+   difference between duty and responsibilities, have a look.
 
-Content: Duty Vs Responsibility
+Content: duty Vs Responsibility
 --
    the normal course of action in general or in specific circumstances.
 
-   The law governing the country has specified certain duties which must
+   The law governing the country has specified certain duty which must
    be followed by every citizen. It exhibits an invisible force which
    binds a person to do something which is considered right in the eyes of
 --
@@ -5411,48 +5411,48 @@ Content: Duty Vs Responsibility
 
    The points given below are substantial so far as the difference between
    duty and responsibility is concerned:
-    1. Duty refers to the legal or moral obligation, or commitment towards
+    1. duty refers to the legal or moral obligation, or commitment towards
        certain work, which you are expected to perform, in general, or
 --
-    5. Duties are imputed on a person, either naturally or out of the
+    5. duty are imputed on a person, either naturally or out of the
        role/position he occupies. On the other hand, responsibility is
-       nothing but demanded duties, which are shouldered on a person who
+       nothing but demanded duty, which are shouldered on a person who
        is competent and conscientious enough to handle it.
 
 Conclusion
 
-   Duty brings responsibility, i.e. when you say it is your duty, it
+   duty brings responsibility, i.e. when you say it is your duty, it
    indicates that you ought to do that because you are responsible for
    that act if it is not done properly, within the reasonable time. It
    requires allegiance on the part of the concerned individual, for the
-   discharge of duties and responsibilities successfully.
+   discharge of duty and responsibilities successfully.
    [INS: :INS]
 
 --
 
    1. https://keydifferences.com/wp-json/wp/v2/posts/20501
-   2. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html
-   3. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duties-and-responsibilities.html&amp;format=xml
+   2. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duty-and-responsibilities.html
+   3. https://keydifferences.com/wp-json/oembed/1.0/embed?url=https://keydifferences.com/difference-between-duty-and-responsibilities.html&amp;format=xml
    4. https://keydifferences.com/category/business
    5. https://keydifferences.com/category/finance
 --
   13. https://keydifferences.com/
   14. https://keydifferences.com/author/surbhi
   15. https://keydifferences.com/wp-content/uploads/2019/11/duty-vs-responsibility.jpg
-  16. https://keydifferences.com/difference-between-duties-and-responsibilities.html#ComparisonChart
-  17. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Definition
-  18. https://keydifferences.com/difference-between-duties-and-responsibilities.html#KeyDifferences
-  19. https://keydifferences.com/difference-between-duties-and-responsibilities.html#Conclusion
+  16. https://keydifferences.com/difference-between-duty-and-responsibilities.html#ComparisonChart
+  17. https://keydifferences.com/difference-between-duty-and-responsibilities.html#Definition
+  18. https://keydifferences.com/difference-between-duty-and-responsibilities.html#KeyDifferences
+  19. https://keydifferences.com/difference-between-duty-and-responsibilities.html#Conclusion
   20. https://keydifferences.com/difference-between-revenue-profit-and-income.html
   21. https://keydifferences.com/difference-between-principal-and-principle.html
 --
   29. https://keydifferences.com/difference-between-employee-and-independent-contractor.html
   30. https://keydifferences.com/difference-between-job-description-and-job-specification.html
-  31. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  32. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-130388
-  33. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  34. https://keydifferences.com/difference-between-duties-and-responsibilities.html#comment-178642
-  35. https://keydifferences.com/difference-between-duties-and-responsibilities.html#respond
+  31. https://keydifferences.com/difference-between-duty-and-responsibilities.html#comment-130388
+  32. https://keydifferences.com/difference-between-duty-and-responsibilities.html#comment-130388
+  33. https://keydifferences.com/difference-between-duty-and-responsibilities.html#comment-178642
+  34. https://keydifferences.com/difference-between-duty-and-responsibilities.html#comment-178642
+  35. https://keydifferences.com/difference-between-duty-and-responsibilities.html#respond
   36. https://keydifferences.com/difference-between-pert-and-cpm.html
   37. https://keydifferences.com/difference-between-microeconomics-and-macroeconomics.html
 </text>
