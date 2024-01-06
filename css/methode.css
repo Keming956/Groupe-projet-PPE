@@ -66,13 +66,6 @@
   
 
   
-
-
-
-
-
-
-
 /* 2eme bloc choix des langues */
 
 
@@ -279,6 +272,21 @@
 .texte_methodologie h1{
     color: white;
     margin-top: -180%;
+    text-align: center;
+}
+
+
+.informations_methodologie p{
+  text-align: center ;
+  color: white;
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.informations_methodologie li{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height :25px;
 }
 
 
@@ -320,9 +328,11 @@
     }
 
     .texte_choix_des_langues h1{
-      margin-top: -135%;
+      margin-top: -125%;
   }
-
+    .texte_methodologie h1 {
+      margin-top: -60%
+    }
    }
 
   
@@ -361,5 +371,9 @@
     text-align: center;
     font-size: 15px;
 
+}
+
+.texte_methodologie h2 {
+  margin-top:80%
 }
 }
