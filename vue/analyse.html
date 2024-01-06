@@ -34,14 +34,14 @@
 
 <div class="precision"> 
   <p> Notre analyse a été faite avec l'outil en ligne <a href="https://itrameur.clillac-arp.univ-paris-diderot.fr/" target="_blank">itrameur</a>. Lors de notre analyse nous avons tenu compte de la morphologie flexionnelle des mots,
-  duty/duties, devoir/devoirs. L'outil itrameur ne permet que de faire une recherche sur un mot. Il a donc fallu concevoir des scripts pour unifier notre recherche et que les mots au pluriel soient transformés au singulier. Vous pouvez retrouver ces scripts sur notre github.</p>
+  duty/duties, devoir/devoirs. L'outil itrameur ne permet que de faire une recherche sur un mot. Il a donc fallu concevoir des scripts pour unifier notre recherche et que les mots au pluriel soient transformés au singulier ainsi que les mots en majuscules soient en minuscules. Vous pouvez retrouver ces scripts sur notre github.</p>
 </div>
 
 
 <div class="conteneur_anglais">
   <h2>Anglais</h2>
     <div class="img_anglais1">
-      <img src="../images/anglais.png" alt="tableau_frequence" style="margin-top: 3%; margin-left: 40%; width: 20%; height: 40vh; ">
+      <img src="../images/anglais.png" alt="dic" style="margin-top: 3%; margin-left: 40%; width: 20%; height: 40vh; ">
     </div>
     <div class="img_anglais1_description">
       <p>Le mot duty est le sujet de notre étude et il a été volontaire de remplacer toutes les variations et flexions du mot par une seule forme. De plus, il s’agit du fichier contextes-en.txt donc le fichier est construit sur la base de ce mot. Pour le reste, rien d’étonnant puisqu’après vérification, le fichier contexte contient beaucoup de liens donc il n’est pas surprenant de trouver https ou www dans les résultats les plus fréquents.</p>
@@ -52,12 +52,38 @@
       </div>
       <p>La répartition du mot duty sur toutes les pages est la suivante (au-dessus) : Cela peut nous donner une piste pour observer la fréquence des cooccurrents de duty dans les différentes url récupérées.</p>
       <div class="img_anglais4">
-        <img src="../images/anglais3.png" alt="tableau_frequence" style="margin-top: 3%; margin-left: 40%; width: 25%; height: 40vh; ">
+        <img src="../images/anglais3.png" alt="tableau_frequence" style="margin-top: 3%; margin-left: 37%; width: 30%; height: 50vh; ">
       </div>
 </div> 
 
 
-<!-- <div class="footer">
+
+<div class="conteneur_francais">
+  <h2>Français</h2>
+    <div class="img_francais">
+      <img src="../images/francais.png" alt="dic" style="margin-top: 3%; margin-left: 40%; width: 20%; height: 40vh; ">
+    </div>
+    <div class="img_anglais1_description">
+      <p>Après unification des différentes formes du mot devoir avec le script, le traitement itrameur nous indique que dans le fichier contexte-fr.txt il y a 511 occurences du mot. Cela semble peu mais mais peut s'expliquer par notre choix semantique. En effet, le mot 'devoir' peut également être interprété comme un verbe, mais notre analyse s'est limitée à la signification du mot en tant que substantif. Nous excluons, les différentes formes de morphologie flexionnelle de la conjugaison. Nul doute que cela aurait rajouté un grand nombre d'occurences. Nous pouvons voir également que dans le dictionnaire itrameur les mots qui reviennent souvent sont des articles ce qui semble logique puisque ces articles sont les mots les plus utilisés dans notre langue.
+        Il va être intéressant de voir les coocurents du mot "devoir" afin d'observer les mots qui gravitent autour de lui et de pouvoir en déduire si des contextes se détachent</p>
+    </div>
+      <div class="img_anglais2_et_3">
+        <img src="../images/francais1.png" alt="tableau_frequence" style="margin-top: 3%; margin-left: 15%; width: 30%; height: 30vh; ">
+        <img src="../images/francais2.png" alt="tableau_frequence" style="margin-top: 3%; margin-right: 10%; width: 30%; height: 30vh; ">
+      </div>
+      <p>Observation de la répartition du mot devoir sur l'ensemble des pages</p>
+      <div class="img_anglais4">
+        <img src="../images/francais3.png" alt="tableau_frequence" style="margin-top: 3%; margin-left: 37%; width: 30%; height: 50vh; ">
+      </div>
+      <p>L'analyse détaillée révèle que le terme le plus fréquemment associé à "devoir" est "vigilance", avec un indice de spécificité (IndSPe) notable de 40. Cette corrélation peut s'expliquer par le choix ciblé des URLs dans notre corpus. En effet, le concept du "devoir de vigilance" ressortait fréquemment au cours de nos recherches, et par conséquent, de nombreux liens dans notre corpus traitent spécifiquement de cette thématique. La fréquence élevée de cette association peut également être attribuée au fait que certains sites se focalisant sur le "devoir de vigilance" utilisent abondamment le mot "devoir" dans leur contenu.
+        Nous observons aussi un fort indspe pour les articles "Le" et "de". En effet lorsque le mot devoir est utilisé, il n'est jamais seul et est souvent entouré par ces articles. Comme dans le devoir de mémoire, le devoir de vigilance. En plus du domaine juridique, nous retrouvons d'autres notions comme l'éthique avec le devoir moral ou encore, l'historique avec le devoir de mémoire.</p>
+      <h2>Conclusion</h2>
+      <p>Cette analyse permet de confirmer notre hypothèse faite pour le français. Le mot "devoir" sur internet en français renvoit surtout au champ lexical du droit. Cela met en évidence une connexion étroite entre le mot "devoir" et le contexte juridique du "devoir de vigilance" ou la notion de "privé" dans notre ensemble de données. Cependant comme dit précedemment, il est important de contextualiser ces données car notre ensemble d'URLs contient beaucoup d'informations axées sur le domaine juridique.</p>
+</div> 
+
+
+
+<div class="footer">
   <div class="footer-dark">
     <div class="col item social">
       <a href="mailto:projetPPE2023BMK@gmail.com"><i class="fa-solid fa-envelope"></i></a>
@@ -72,7 +98,7 @@
     <a href="./index.html"><h3><h3>Conditions de confidentialités</h3></a>
             <p class="copyright">Dev by ©Batouuuuu, ©Marie, ©Keming</p>
   </div>
-</div> -->
+</div>
 
 
 </body>
