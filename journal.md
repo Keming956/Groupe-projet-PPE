@@ -83,3 +83,11 @@ Keming :
 Keming :
 
 1. J'ai ajouté le page "nuage de mots" avec Bootstrap dans le site.
+
+
+Marie :
+- modification du script python pour le stopwords anglais (retirer les indicateurs d'url comme http, org...) car ces formes ne sont pas pertinentes et bouchent le nuage de mots ainsi que l'analyse par itrameur
+- pour analyse itrameur : script d'uniformisation des formes 'duty, duties...' par duty pour l'anglais et uniformisation des formes 'devoir, Devoir...' par devoir pour le français
+- modification du script pour obtenir un tableau qui gère lorsque le code n'est pas 200 (afficher indisponible)
+- guide sur analyse itrameur (mais analyse individuelle)
+- création du nuage de mots pour l'anglais (problèmes au niveau du mask : nous voulions prendre une image de livre ouvert mais impossible d'obtenir un nuage qui suit cette forme, peu importe l'image choisie)
