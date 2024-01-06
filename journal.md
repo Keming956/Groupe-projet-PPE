@@ -75,5 +75,11 @@ Des animations ont aussi été faites pour faire apparaître les tableaux par le
 
 Keming :
 
-1. J'ai modifié le script générant le tableau, surtout dans la partie d'affichage, en insérant directement la bibliothèque "Bootstrap", avec des fonctions "table hover striped"
+1. J'ai modifié le script générant le tableau, surtout dans la partie d'affichage, en insérant directement la bibliothèque "Bootstrap", avec des fonctions "table hover striped", ainsi on peut générer direcetement un tableau avec des paramètres.
 2. Après avoir tokenizé les textes en chinois, je les ai mis dans l'Itrameur, cependant, les mots les plus fréquentés sont des mots insignificatifs ou des ponctuations, donc j'ai dû écrire un programme python pour traiter les textes avec l'aide de "stopwords" en chinois trouvé sur Github (https://github.com/goto456/stopwords/blob/master/cn_stopwords.txt). Et puis, avec le textes filtrés, l'analyse sera plus précis, aussi le nuage des mots.
+
+--- 06/01/24 ---
+
+Keming :
+
+1. J'ai ajouté le page "nuage de mots" avec Bootstrap dans le site.
