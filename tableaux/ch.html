@@ -1,591 +1,630 @@
-<!DOCTYPE html>
-<html lang="fr" style="height: 100%">
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">   <!-- lien du site font awesome pour pouvoir importer des logos-->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"> <!-- importation de bulma -->
-  <link rel="stylesheet" href="../css/tableaux.css">
-  <link rel="stylesheet" href="../../css/header.css">
-  <link rel="stylesheet" href="../../css/footer.css">
-  <link rel="icon" type="image/png" href="../../images/logo.ico"> 
-  <title>Projet PPE</title>
-</head>
-
-<body style="margin: 0; padding: 0;">
-
-        <div class="header">
-            <div class="onglets">
-              <a href="../index.html">
-                <i class="fa-solid fa-book-open fa-xl"></i></a>
-              <a href="../../vue/methode.html">Méthode</a>
-              <a href="../../vue/tableaux.html">Tableaux</a>
-              <a href="../../vue/analyse.html">Analyse</a>
-              <a href="../../vue/mots.html">Nuage de mots</a>
-              <a href="https://github.com/Keming956/Groupe-projet-PPE" target="_blank">
-                <i class="fab fa-github fa-xl"></i></a>
-            </div>
-          </div>
-
-	<table style="margin-top: 8%;" class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-		<tr><th>ligne</th><th>URL</th><th>code HTTP</th><th>encodage</th><th>compte</th><th>dump-html</th><th>dump-txt</th><th>contexte</th><th>condordanciers</th></tr>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+	</head>
+	<body>
+	<table class="table table-striped table-hover">
+		<thead>
+		<tr>
+			<th scope="col">ligne</th>
+			<th scope="col">URL</th>
+			<th scope="col">code HTTP</th>
+			<th scope="col">encodage</th>
+			<th scope="col">compte</th>
+			<th scope="col">dump-html</th>
+			<th scope="col">dump-txt</th>
+			<th scope="col">contexte</th>
+			<th scope="col">condordanciers</th>
+		</tr>
+		</thead>
+		<tbody> 
+		
 <tr>
-            <td>1</td>
+            <th scope="row">1</th>
+            <td>https://consumer.huawei.com/cn/sustainability/corporate-responsibility/</td>
+            <td>200</td>
+            <td>UTF-8</td>
+            <td>21</td>
+            <td><a href=../aspirations/ch-1.html>html</a></td>
+            <td><a href=../dumps-text/ch-1_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-1.txt>contextes</a></td>
+            <td><a href=../concordances/ch-1.html>tableau</a></td>
+        </tr>
+		
+<tr>
+            <th scope="row">2</th>
+            <td>https://www.aetnagroup.com/zh/commitment/corporate-social-responsibility</td>
+            <td>200</td>
+            <td>UTF-8</td>
+            <td>8</td>
+            <td><a href=../aspirations/ch-2.html>html</a></td>
+            <td><a href=../dumps-text/ch-2_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-2.txt>contextes</a></td>
+            <td><a href=../concordances/ch-2.html>tableau</a></td>
+        </tr>
+		
+<tr>
+            <th scope="row">3</th>
+            <td>https://www.sumitomo-chem.co.jp/chinese/sustainability/responsiblecare/</td>
+            <td>200</td>
+            <td>UTF-8</td>
+            <td>11</td>
+            <td><a href=../aspirations/ch-3.html>html</a></td>
+            <td><a href=../dumps-text/ch-3_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-3.txt>contextes</a></td>
+            <td><a href=../concordances/ch-3.html>tableau</a></td>
+        </tr>
+		
+<tr>
+            <th scope="row">4</th>
+            <td>https://www.sedex.com/zh/blog/什么是负责任的采购/</td>
+            <td>200</td>
+            <td>UTF-8</td>
+            <td>16</td>
+            <td><a href=../aspirations/ch-4.html>html</a></td>
+            <td><a href=../dumps-text/ch-4_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-4.txt>contextes</a></td>
+            <td><a href=../concordances/ch-4.html>tableau</a></td>
+        </tr>
+		
+<tr>
+            <th scope="row">5</th>
+            <td>http://www.xinhuanet.com/2021-07/24/c_1127690541.htm</td>
+            <td>200</td>
+            <td>utf-8</td>
+            <td>4</td>
+            <td><a href=../aspirations/ch-5.html>html</a></td>
+            <td><a href=../dumps-text/ch-5_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-5.txt>contextes</a></td>
+            <td><a href=../concordances/ch-5.html>tableau</a></td>
+        </tr>
+		
+<tr>
+            <th scope="row">6</th>
             <td>https://zh.wikipedia.org/wiki/责任</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>20</td>
-            <td><a href=../../PPE/aspirations/ch-1.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-1.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-1.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-1.html>tableau</a></td>
+            <td><a href=../aspirations/ch-6.html>html</a></td>
+            <td><a href=../dumps-text/ch-6_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-6.txt>contextes</a></td>
+            <td><a href=../concordances/ch-6.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>2</td>
+            <th scope="row">7</th>
             <td>https://www.ecocert.com/zh-CN/专业知识/企业社会责任</td>
             <td>200</td>
             <td>utf-8</td>
             <td>17</td>
-            <td><a href=../../PPE/aspirations/ch-2.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-2.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-2.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-2.html>tableau</a></td>
+            <td><a href=../aspirations/ch-7.html>html</a></td>
+            <td><a href=../dumps-text/ch-7_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-7.txt>contextes</a></td>
+            <td><a href=../concordances/ch-7.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>3</td>
+            <th scope="row">8</th>
             <td>https://www.apple.com.cn/environment/</td>
             <td>200</td>
             <td>utf-8</td>
             <td>17</td>
-            <td><a href=../../PPE/aspirations/ch-3.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-3.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-3.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-3.html>tableau</a></td>
+            <td><a href=../aspirations/ch-8.html>html</a></td>
+            <td><a href=../dumps-text/ch-8_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-8.txt>contextes</a></td>
+            <td><a href=../concordances/ch-8.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>4</td>
+            <th scope="row">9</th>
             <td>http://www.hb.xinhuanet.com/20231127/32d35ecf1b5348b18289726dfa93cf15/c.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>9</td>
-            <td><a href=../../PPE/aspirations/ch-4.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-4.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-4.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-4.html>tableau</a></td>
+            <td><a href=../aspirations/ch-9.html>html</a></td>
+            <td><a href=../dumps-text/ch-9_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-9.txt>contextes</a></td>
+            <td><a href=../concordances/ch-9.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>5</td>
+            <th scope="row">10</th>
             <td>https://companies.caixin.com/2023-11-25/102139516.html</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>3</td>
-            <td><a href=../../PPE/aspirations/ch-5.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-5.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-5.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-5.html>tableau</a></td>
+            <td><a href=../aspirations/ch-10.html>html</a></td>
+            <td><a href=../dumps-text/ch-10_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-10.txt>contextes</a></td>
+            <td><a href=../concordances/ch-10.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>6</td>
+            <th scope="row">11</th>
             <td>https://news.un.org/zh/story/2023/09/1122147</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-6.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-6.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-6.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-6.html>tableau</a></td>
+            <td><a href=../aspirations/ch-11.html>html</a></td>
+            <td><a href=../dumps-text/ch-11_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-11.txt>contextes</a></td>
+            <td><a href=../concordances/ch-11.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>7</td>
+            <th scope="row">12</th>
             <td>http://www.shangbaoindonesia.com/read/2023/11/26/financial-1701003755</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-7.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-7.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-7.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-7.html>tableau</a></td>
+            <td><a href=../aspirations/ch-12.html>html</a></td>
+            <td><a href=../dumps-text/ch-12_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-12.txt>contextes</a></td>
+            <td><a href=../concordances/ch-12.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>8</td>
+            <th scope="row">13</th>
             <td>https://news.un.org/zh/story/2023/09/1121912</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>4</td>
-            <td><a href=../../PPE/aspirations/ch-8.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-8.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-8.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-8.html>tableau</a></td>
+            <td><a href=../aspirations/ch-13.html>html</a></td>
+            <td><a href=../dumps-text/ch-13_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-13.txt>contextes</a></td>
+            <td><a href=../concordances/ch-13.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>9</td>
+            <th scope="row">14</th>
             <td>https://www.zaobao.com.sg/news/singapore/story20231124-1452137</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>3</td>
-            <td><a href=../../PPE/aspirations/ch-9.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-9.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-9.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-9.html>tableau</a></td>
+            <td><a href=../aspirations/ch-14.html>html</a></td>
+            <td><a href=../dumps-text/ch-14_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-14.txt>contextes</a></td>
+            <td><a href=../concordances/ch-14.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>10</td>
+            <th scope="row">15</th>
             <td>https://news.un.org/zh/story/2023/03/1116242</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>5</td>
-            <td><a href=../../PPE/aspirations/ch-10.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-10.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-10.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-10.html>tableau</a></td>
+            <td><a href=../aspirations/ch-15.html>html</a></td>
+            <td><a href=../dumps-text/ch-15_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-15.txt>contextes</a></td>
+            <td><a href=../concordances/ch-15.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>11</td>
+            <th scope="row">16</th>
             <td>https://punchpowertrain.com/zh-hans/news/企业社会责任是公司战略的关键组成部分/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>17</td>
-            <td><a href=../../PPE/aspirations/ch-11.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-11.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-11.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-11.html>tableau</a></td>
+            <td><a href=../aspirations/ch-16.html>html</a></td>
+            <td><a href=../dumps-text/ch-16_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-16.txt>contextes</a></td>
+            <td><a href=../concordances/ch-16.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>12</td>
+            <th scope="row">17</th>
             <td>http://www.news.cn/sports/2023-10/07/c_1212284539.htm</td>
             <td>200</td>
             <td>utf-8</td>
             <td>9</td>
-            <td><a href=../../PPE/aspirations/ch-12.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-12.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-12.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-12.html>tableau</a></td>
+            <td><a href=../aspirations/ch-17.html>html</a></td>
+            <td><a href=../dumps-text/ch-17_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-17.txt>contextes</a></td>
+            <td><a href=../concordances/ch-17.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>13</td>
+            <th scope="row">18</th>
             <td>http://www.stdaily.com/index/kejixinwen/202311/cd786d443f8f4dd4b439b81fc29912f9.shtml</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>12</td>
-            <td><a href=../../PPE/aspirations/ch-13.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-13.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-13.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-13.html>tableau</a></td>
+            <td><a href=../aspirations/ch-18.html>html</a></td>
+            <td><a href=../dumps-text/ch-18_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-18.txt>contextes</a></td>
+            <td><a href=../concordances/ch-18.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>14</td>
-            <td>https://www.199it.com/archives/1661915.html</td>
-            <td>200</td>
-            <td>UTF-8</td>
-            <td>2</td>
-            <td><a href=../../PPE/aspirations/ch-14.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-14.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-14.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-14.html>tableau</a></td>
-        </tr>
-<tr>
-            <td>15</td>
+            <th scope="row">19</th>
             <td>http://www.news.cn/politics/2023-06/20/c_1129708580.htm</td>
             <td>200</td>
             <td>utf-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-15.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-15.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-15.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-15.html>tableau</a></td>
+            <td><a href=../aspirations/ch-19.html>html</a></td>
+            <td><a href=../dumps-text/ch-19_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-19.txt>contextes</a></td>
+            <td><a href=../concordances/ch-19.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>16</td>
+            <th scope="row">20</th>
             <td>https://hn.rednet.cn/content/646755/57/13256575.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>2</td>
-            <td><a href=../../PPE/aspirations/ch-16.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-16.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-16.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-16.html>tableau</a></td>
+            <td><a href=../aspirations/ch-20.html>html</a></td>
+            <td><a href=../dumps-text/ch-20_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-20.txt>contextes</a></td>
+            <td><a href=../concordances/ch-20.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>17</td>
+            <th scope="row">21</th>
             <td>http://www.news.cn/politics/2023-09/23/c_1129879216.htm</td>
             <td>200</td>
             <td>utf-8</td>
             <td>3</td>
-            <td><a href=../../PPE/aspirations/ch-17.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-17.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-17.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-17.html>tableau</a></td>
+            <td><a href=../aspirations/ch-21.html>html</a></td>
+            <td><a href=../dumps-text/ch-21_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-21.txt>contextes</a></td>
+            <td><a href=../concordances/ch-21.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>18</td>
+            <th scope="row">22</th>
             <td>http://www.xinhuanet.com/house/20230926/810d255ffb3a435c8b8a741416b0d5f3/c.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>5</td>
-            <td><a href=../../PPE/aspirations/ch-18.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-18.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-18.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-18.html>tableau</a></td>
+            <td><a href=../aspirations/ch-22.html>html</a></td>
+            <td><a href=../dumps-text/ch-22_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-22.txt>contextes</a></td>
+            <td><a href=../concordances/ch-22.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>19</td>
+            <th scope="row">23</th>
             <td>http://yjgl.sz.gov.cn/zwgk/xxgkml/qt/xzzfgs/sxgk/yjxx/content/post_8689652.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>25</td>
-            <td><a href=../../PPE/aspirations/ch-19.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-19.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-19.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-19.html>tableau</a></td>
+            <td><a href=../aspirations/ch-23.html>html</a></td>
+            <td><a href=../dumps-text/ch-23_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-23.txt>contextes</a></td>
+            <td><a href=../concordances/ch-23.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>20</td>
+            <th scope="row">24</th>
             <td>https://www.culture.gouv.fr/zh/19/1/7/1/3</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>11</td>
-            <td><a href=../../PPE/aspirations/ch-20.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-20.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-20.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-20.html>tableau</a></td>
+            <td><a href=../aspirations/ch-24.html>html</a></td>
+            <td><a href=../dumps-text/ch-24_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-24.txt>contextes</a></td>
+            <td><a href=../concordances/ch-24.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>21</td>
+            <th scope="row">25</th>
             <td>https://sfj.beijing.gov.cn/sfj/sfdt/jssp/436241213/index.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>25</td>
-            <td><a href=../../PPE/aspirations/ch-21.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-21.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-21.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-21.html>tableau</a></td>
+            <td><a href=../aspirations/ch-25.html>html</a></td>
+            <td><a href=../dumps-text/ch-25_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-25.txt>contextes</a></td>
+            <td><a href=../concordances/ch-25.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>22</td>
+            <th scope="row">26</th>
             <td>https://aws.amazon.com/cn/compliance/shared-responsibility-model/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>12</td>
-            <td><a href=../../PPE/aspirations/ch-22.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-22.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-22.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-22.html>tableau</a></td>
+            <td><a href=../aspirations/ch-26.html>html</a></td>
+            <td><a href=../dumps-text/ch-26_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-26.txt>contextes</a></td>
+            <td><a href=../concordances/ch-26.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>23</td>
+            <th scope="row">27</th>
             <td>https://www.upmchina.com/responsiblefibre/</td>
             <td>200</td>
             <td>utf-8</td>
             <td>20</td>
-            <td><a href=../../PPE/aspirations/ch-23.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-23.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-23.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-23.html>tableau</a></td>
+            <td><a href=../aspirations/ch-27.html>html</a></td>
+            <td><a href=../dumps-text/ch-27_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-27.txt>contextes</a></td>
+            <td><a href=../concordances/ch-27.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>24</td>
+            <th scope="row">28</th>
             <td>https://www.unepfi.org/regions/asia-pacific/china/prb-china/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>8</td>
-            <td><a href=../../PPE/aspirations/ch-24.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-24.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-24.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-24.html>tableau</a></td>
+            <td><a href=../aspirations/ch-28.html>html</a></td>
+            <td><a href=../dumps-text/ch-28_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-28.txt>contextes</a></td>
+            <td><a href=../concordances/ch-28.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>25</td>
+            <th scope="row">29</th>
             <td>https://www.nestle.com.cn/about_nestle/responsible-sourcing</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>12</td>
-            <td><a href=../../PPE/aspirations/ch-25.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-25.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-25.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-25.html>tableau</a></td>
+            <td><a href=../aspirations/ch-29.html>html</a></td>
+            <td><a href=../dumps-text/ch-29_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-29.txt>contextes</a></td>
+            <td><a href=../concordances/ch-29.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>26</td>
+            <th scope="row">30</th>
             <td>https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate?hl=zh-cn</td>
             <td>200</td>
             <td>utf-8</td>
             <td>33</td>
-            <td><a href=../../PPE/aspirations/ch-26.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-26.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-26.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-26.html>tableau</a></td>
+            <td><a href=../aspirations/ch-30.html>html</a></td>
+            <td><a href=../dumps-text/ch-30_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-30.txt>contextes</a></td>
+            <td><a href=../concordances/ch-30.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>27</td>
+            <th scope="row">31</th>
             <td>https://www.zhanjiang.gov.cn/zjsfw/bmdh/yjglj/zwgk/aqscsnzzxdfazl/content/post_1292781.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>20</td>
-            <td><a href=../../PPE/aspirations/ch-27.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-27.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-27.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-27.html>tableau</a></td>
+            <td><a href=../aspirations/ch-31.html>html</a></td>
+            <td><a href=../dumps-text/ch-31_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-31.txt>contextes</a></td>
+            <td><a href=../concordances/ch-31.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>28</td>
+            <th scope="row">32</th>
             <td>http://ydyl.china.com.cn/2023-11/24/content_116837126.shtml</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>10</td>
-            <td><a href=../../PPE/aspirations/ch-28.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-28.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-28.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-28.html>tableau</a></td>
+            <td><a href=../aspirations/ch-32.html>html</a></td>
+            <td><a href=../dumps-text/ch-32_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-32.txt>contextes</a></td>
+            <td><a href=../concordances/ch-32.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>29</td>
+            <th scope="row">33</th>
             <td>https://www.cas.cn/xw/zjsd/200906/t20090608_644803.shtml</td>
             <td>200</td>
             <td>utf-8</td>
             <td>87</td>
-            <td><a href=../../PPE/aspirations/ch-29.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-29.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-29.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-29.html>tableau</a></td>
+            <td><a href=../aspirations/ch-33.html>html</a></td>
+            <td><a href=../dumps-text/ch-33_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-33.txt>contextes</a></td>
+            <td><a href=../concordances/ch-33.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>30</td>
+            <th scope="row">34</th>
             <td>http://fjnews.fjsen.com/2023-11/25/content_31465427.htm</td>
             <td>200</td>
             <td>utf-8</td>
             <td>5</td>
-            <td><a href=../../PPE/aspirations/ch-30.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-30.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-30.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-30.html>tableau</a></td>
+            <td><a href=../aspirations/ch-34.html>html</a></td>
+            <td><a href=../dumps-text/ch-34_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-34.txt>contextes</a></td>
+            <td><a href=../concordances/ch-34.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>31</td>
+            <th scope="row">35</th>
             <td>https://cn.sodexo.com/corporate-responsibility/corporate-responsibility/growing-responsibly.html</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>19</td>
-            <td><a href=../../PPE/aspirations/ch-31.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-31.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-31.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-31.html>tableau</a></td>
+            <td><a href=../aspirations/ch-35.html>html</a></td>
+            <td><a href=../dumps-text/ch-35_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-35.txt>contextes</a></td>
+            <td><a href=../concordances/ch-35.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>32</td>
-            <td>https://www.gm.com.cn/zh/home/commitments/sustainability.html</td>
-            <td>200</td>
-            <td>UTF-8</td>
-            <td>0</td>
-            <td><a href=../../PPE/aspirations/ch-32.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-32.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-32.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-32.html>tableau</a></td>
-        </tr>
-<tr>
-            <td>33</td>
+            <th scope="row">36</th>
             <td>https://goldwin-avocats.com/zh/question/什么是医生责任？/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>9</td>
-            <td><a href=../../PPE/aspirations/ch-33.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-33.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-33.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-33.html>tableau</a></td>
+            <td><a href=../aspirations/ch-36.html>html</a></td>
+            <td><a href=../dumps-text/ch-36_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-36.txt>contextes</a></td>
+            <td><a href=../concordances/ch-36.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>34</td>
+            <th scope="row">37</th>
             <td>https://www.future-motion.eu/zh/corporate-social-responsability</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-34.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-34.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-34.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-34.html>tableau</a></td>
+            <td><a href=../aspirations/ch-37.html>html</a></td>
+            <td><a href=../dumps-text/ch-37_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-37.txt>contextes</a></td>
+            <td><a href=../concordances/ch-37.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>35</td>
+            <th scope="row">38</th>
             <td>https://www.volvogroup.com/cn/sustainability/social-responsibility/business-ethics.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>13</td>
-            <td><a href=../../PPE/aspirations/ch-35.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-35.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-35.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-35.html>tableau</a></td>
+            <td><a href=../aspirations/ch-38.html>html</a></td>
+            <td><a href=../dumps-text/ch-38_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-38.txt>contextes</a></td>
+            <td><a href=../concordances/ch-38.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>36</td>
+            <th scope="row">39</th>
             <td>https://www.who.int/zh/about/ethics/code-of-conduct-for-responsible-research</td>
             <td>200</td>
             <td>utf-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-36.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-36.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-36.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-36.html>tableau</a></td>
+            <td><a href=../aspirations/ch-39.html>html</a></td>
+            <td><a href=../dumps-text/ch-39_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-39.txt>contextes</a></td>
+            <td><a href=../concordances/ch-39.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>37</td>
+            <th scope="row">40</th>
             <td>https://www.g4s.com/zh-cn/social-responsibility</td>
             <td>200</td>
             <td>utf-8</td>
             <td>7</td>
-            <td><a href=../../PPE/aspirations/ch-37.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-37.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-37.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-37.html>tableau</a></td>
+            <td><a href=../aspirations/ch-40.html>html</a></td>
+            <td><a href=../dumps-text/ch-40_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-40.txt>contextes</a></td>
+            <td><a href=../concordances/ch-40.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>38</td>
+            <th scope="row">41</th>
             <td>https://www.basf.com/cn/zh/who-we-are/sustainability/we-source-responsibly.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>8</td>
-            <td><a href=../../PPE/aspirations/ch-38.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-38.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-38.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-38.html>tableau</a></td>
+            <td><a href=../aspirations/ch-41.html>html</a></td>
+            <td><a href=../dumps-text/ch-41_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-41.txt>contextes</a></td>
+            <td><a href=../concordances/ch-41.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>39</td>
+            <th scope="row">42</th>
             <td>http://www.xinhuanet.com//politics/2017-05/18/c_129606929.htm</td>
             <td>200</td>
             <td>utf-8</td>
             <td>38</td>
-            <td><a href=../../PPE/aspirations/ch-39.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-39.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-39.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-39.html>tableau</a></td>
+            <td><a href=../aspirations/ch-42.html>html</a></td>
+            <td><a href=../dumps-text/ch-42_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-42.txt>contextes</a></td>
+            <td><a href=../concordances/ch-42.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>40</td>
+            <th scope="row">43</th>
             <td>https://ethique.rexel.com/zh/实践中的道德指南/蓝格赛：负责任的雇主和员工/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>3</td>
-            <td><a href=../../PPE/aspirations/ch-40.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-40.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-40.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-40.html>tableau</a></td>
+            <td><a href=../aspirations/ch-43.html>html</a></td>
+            <td><a href=../dumps-text/ch-43_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-43.txt>contextes</a></td>
+            <td><a href=../concordances/ch-43.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>41</td>
+            <th scope="row">44</th>
             <td>https://www.lundbeck.com/cn/cn/sustainability/Responsible-business-conduct</td>
             <td>200</td>
             <td>utf-8</td>
             <td>6</td>
-            <td><a href=../../PPE/aspirations/ch-41.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-41.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-41.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-41.html>tableau</a></td>
+            <td><a href=../aspirations/ch-44.html>html</a></td>
+            <td><a href=../dumps-text/ch-44_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-44.txt>contextes</a></td>
+            <td><a href=../concordances/ch-44.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>42</td>
+            <th scope="row">45</th>
             <td>https://sustainability.ferragamo.com/ch</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>1</td>
-            <td><a href=../../PPE/aspirations/ch-42.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-42.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-42.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-42.html>tableau</a></td>
+            <td><a href=../aspirations/ch-45.html>html</a></td>
+            <td><a href=../dumps-text/ch-45_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-45.txt>contextes</a></td>
+            <td><a href=../concordances/ch-45.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>43</td>
-            <td>https://www.mycwt.com/cn/zh/why-choose-us/responsible-business/</td>
-            <td>200</td>
-            <td>utf-8</td>
-            <td>21</td>
-            <td><a href=../../PPE/aspirations/ch-43.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-43.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-43.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-43.html>tableau</a></td>
-        </tr>
-<tr>
-            <td>44</td>
+            <th scope="row">46</th>
             <td>https://www.ezviz.com/cn/social-responsibility.html</td>
             <td>200</td>
             <td>UTF-8</td>
-            <td>2</td>
-            <td><a href=../../PPE/aspirations/ch-44.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-44.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-44.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-44.html>tableau</a></td>
+            <td>1</td>
+            <td><a href=../aspirations/ch-46.html>html</a></td>
+            <td><a href=../dumps-text/ch-46_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-46.txt>contextes</a></td>
+            <td><a href=../concordances/ch-46.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>45</td>
+            <th scope="row">47</th>
             <td>http://www.bmw-brilliance.cn/cn/zh/csr/index.html</td>
             <td>200</td>
             <td>utf-8</td>
             <td>18</td>
-            <td><a href=../../PPE/aspirations/ch-45.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-45.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-45.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-45.html>tableau</a></td>
+            <td><a href=../aspirations/ch-47.html>html</a></td>
+            <td><a href=../dumps-text/ch-47_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-47.txt>contextes</a></td>
+            <td><a href=../concordances/ch-47.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>46</td>
+            <th scope="row">48</th>
             <td>https://majorel.cn/企业责任-corporate-responsibility/</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>8</td>
-            <td><a href=../../PPE/aspirations/ch-46.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-46.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-46.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-46.html>tableau</a></td>
+            <td><a href=../aspirations/ch-48.html>html</a></td>
+            <td><a href=../dumps-text/ch-48_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-48.txt>contextes</a></td>
+            <td><a href=../concordances/ch-48.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>47</td>
+            <th scope="row">49</th>
             <td>https://geodis.com/cn/qiyeshehuizerenchengnuo/csr-reports-and-methodology</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>28</td>
-            <td><a href=../../PPE/aspirations/ch-47.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-47.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-47.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-47.html>tableau</a></td>
+            <td><a href=../aspirations/ch-49.html>html</a></td>
+            <td><a href=../dumps-text/ch-49_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-49.txt>contextes</a></td>
+            <td><a href=../concordances/ch-49.html>tableau</a></td>
         </tr>
+		
 <tr>
-            <td>48</td>
-            <td>https://www.sohu.com/a/654088058_121643019</td>
-            <td>200</td>
-            <td>UTF-8</td>
-            <td>0</td>
-            <td><a href=../../PPE/aspirations/ch-48.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-48.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-48.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-48.html>tableau</a></td>
-        </tr>
-<tr>
-            <td>49</td>
+            <th scope="row">50</th>
             <td>https://www.zaobao.com.sg/realtime/china/story20231204-1453978</td>
             <td>200</td>
             <td>UTF-8</td>
             <td>5</td>
-            <td><a href=../../PPE/aspirations/ch-49.html>html</a></td>
-            <td><a href=../../PPE/dumps-text/ch-49.txt>txt</a></td>
-            <td><a href=../../PPE/contextes/ch-49.txt>contextes</a></td>
-            <td><a href=../../PPE/concordances/ch-49.html>tableau</a></td>
+            <td><a href=../aspirations/ch-50.html>html</a></td>
+            <td><a href=../dumps-text/ch-50_token.txt>txt</a></td>
+            <td><a href=../contextes/ch-50.txt>contextes</a></td>
+            <td><a href=../concordances/ch-50.html>tableau</a></td>
         </tr>
-    </table>
-
-    <div class="footer">
-        <div class="footer-dark">
-          <div class="col item social">
-            <a href="mailto:projetPPE2023BMK@gmail.com"><i class="fa-solid fa-envelope"></i></a>
-            <a href="https://twitter.com"  target="_blank"><i class="fa-brands fa-twitter"></i></a>
-            <a href="https://facebook.com"  target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-            <a href="https://fr.linkedin.com/"  target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-          </div>
-          <p class="copyright">--- Projet fait dans le cadre du projet programmation et projet encadré par la promo de TAL en 2023 ---</p>
-          <a href="../footer/nous.html"><h3>Qui sommes nous ?</h3></a>
-          <a href="../../index.html"><h3>Documentation</h3></a>
-          <a href="../../index.html"><h3>Gestion des cookies</h3></a> 
-          <a href="../../index.html"><h3><h3>Conditions de confidentialités</h3></a>
-                  <p class="copyright">Dev by ©Batouuuuu, ©Marie, ©Keming</p>
-        </div>
-      </div>
-
-
-    </body>
-</html>
+		
+	    
+</tbody>
+</table>
+</body>
+</html> 

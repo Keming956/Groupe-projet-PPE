@@ -34,7 +34,7 @@
 .conteneur_anglais {
     background-color: rgb(63, 58, 58);
     width: 90%;
-    height: 240vh;
+    height: 210vh;
     margin-top: 5%;
     margin-left: 5%;
     margin-right: 5%;
@@ -87,7 +87,7 @@
 .conteneur_francais {
     background-color: rgb(107, 99, 89);
     width: 90%;
-    height: 240vh;
+    height: 260vh;
     margin-top: 5%;
     margin-left: 5%;
     margin-right: 5%;
@@ -110,31 +110,3 @@
 }
 
 
-/* Bloc chinois */
-
-
-.conteneur_chinois {
-    background-color: rgb(131, 129, 128);
-    width: 90%;
-    height: 240vh;
-    margin-top: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-    border-radius: 10px;
-}
-
-.conteneur_chinois p {
-    text-align: center;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-}
-
-
-.conteneur_chinois h2 {
-    text-align: center;
-    font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white
-}
