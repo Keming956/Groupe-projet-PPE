@@ -1,6 +1,9 @@
 
 .container.my-4 {
     margin: auto; 
-    max-width: 40%; 
+    max-width: 32%; 
   }
-  
+
+  .carousel-inner {
+    margin-top: 20%;
+  }
