@@ -1,9 +1,15 @@
-
 .container.my-4 {
     margin: auto; 
     max-width: 32%; 
   }
 
   .carousel-inner {
-    margin-top: 20%;
+    margin-top: 10%;
+  }
+
+  .titre {
+    margin-top: 5%;
+    border-bottom: 3px solid #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
   }
