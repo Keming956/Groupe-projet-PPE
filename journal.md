@@ -110,6 +110,8 @@ Marie :
 - modification du script pour obtenir un tableau qui gère lorsque le code n'est pas 200 (afficher indisponible)
 - guide sur analyse itrameur (mais analyse individuelle)
 - création du nuage de mots pour l'anglais (problèmes au niveau du mask : nous voulions prendre une image de livre ouvert mais impossible d'obtenir un nuage qui suit cette forme, peu importe l'image choisie)
+- analyse du nuage de mots (après avoir utilisé un stopwords)
+- quelques problèmes de dernière minute quant à l'affichage de certaines pages, qui ont finalement été réglés
 
 --- 07/01/24 ---
 
