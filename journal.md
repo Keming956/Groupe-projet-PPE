@@ -91,3 +91,18 @@ Marie :
 - modification du script pour obtenir un tableau qui gère lorsque le code n'est pas 200 (afficher indisponible)
 - guide sur analyse itrameur (mais analyse individuelle)
 - création du nuage de mots pour l'anglais (problèmes au niveau du mask : nous voulions prendre une image de livre ouvert mais impossible d'obtenir un nuage qui suit cette forme, peu importe l'image choisie)
+
+--- 07/01/24 ---
+
+Keming :
+
+Au dernier moment, on a décrouvert les tableaux avec Boostrap ne marche pas sur la version du site Github, sur le controleur du site ça indique : 
+
+`[Error] Failed to load resource: the server responded with a status of 404 () (popper.min.js, line 0)
+[Error] Failed to load resource: the server responded with a status of 404 () (bootstrap.min.js, line 0)
+[Error] Failed to load resource: the server responded with a status of 404 () (jquery-3.3.1.slim.min.js, line 0)
+[Error] Failed to load resource: the server responded with a status of 404 () (tableaux.css, line 0)
+[Error] Failed to load resource: the server responded with a status of 404 () (bootstrap.min.css, line 0)
+[Error] Failed to load resource: the server responded with a status of 404 () (all.min.css, line 0)`
+
+Mais dans nos fichiers locaux, ça a bien marché, donc on ne sait pas comment faire, mais finalement, Baptise a remplacé Bootstrap avec Bulma. Mais sur le page de nuage de mots, je l'ai fait avec Bootstrap aussi et ça a bien marché.
