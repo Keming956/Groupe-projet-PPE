@@ -1,0 +1,338 @@
+   #alternate
+
+   (BUTTON) (BUTTON)
+   logo header
+   Facebook Twitter Facebook (BUTTON)
+   (BUTTON) Rechercher
+
+     * Actualités
+          + Informatique
+               o Ordinateurs
+               o Portables Gaming
+               o Processeurs
+               o Cartes graphiques
+               o SSD
+               o Cartes mères
+               o Mémoires
+               o Alimentations
+               o Boitiers
+               o Refroidissement
+          + Périphériques
+               o Ecrans
+               o Claviers
+               o Souris
+               o Manettes
+               o Casques
+          + Gaming
+               o Consoles
+               o Jeux-vidéo
+               o Overclocking
+               o Cloud Gaming
+               o RV et RA
+          + Logiciels
+               o Pilotes (Drivers)
+               o Applications
+               o Linux
+               o Android
+               o Windows
+               o iOS et MacOS
+          + Objets connectés
+               o Montres connectées
+               o Domotique
+               o TV
+          + Mobilité
+               o Automobile
+               o Smartphones
+               o Tablettes
+               o APN
+          + Entreprises
+               o Développement
+               o IA
+               o Internet & Telecom
+               o R&D
+               o Sécurité
+     * Tests
+     * Guides d’achat
+     * Vpn
+     * Dossiers
+     * Tutos
+     * Forum
+
+   Facebook Twitter Facebook (BUTTON)
+     * Contact
+
+   Recherchez
+   ____________________ (BUTTON) Lancer la recherche
+   <
+
+   Thèmes :
+     * Nintendo Switch 2
+     * AMD Ryzen
+     * Counter-Strike 2
+     * Bons plans
+
+   >
+
+     * Tomshardware.fr
+
+     Mobilité
+
+     Smartphones
+
+     Le Touch ID va devoir se réinventer, ou disparaître complètement
+
+Le Touch ID va devoir se réinventer, ou disparaître complètement
+
+   Rémi Bouvet Rémi Bouvet
+   Rémi Bouvet , le 23 novembre 2023
+   0 Commentaires
+   Facebook Twitter Whatsapp Reddit
+
+   Le Touch ID, abandonné depuis quelques séries pour les iPhone non-SE,
+   ne ferait pas son retour sur les iPhone 16. Apple envisagerait de
+   définitivement remiser ce système d’authentification, ou de le faire
+   évoluer pour l’intégrer sous l’écran.
+   Apple touch id(1) Apple touch id(1) © Apple
+
+   Apple a délaissé son système d’authentification Touch ID sur ses iPhone
+   standards depuis plusieurs années, et n’aurait pas l’intention de le
+   faire renaître avec ses iPhone 16, attendus en 2024. De fait, la marque
+   a la pomme aurait cessé la production des puces utilisées par le
+   processus.
+
+   Depuis l’iPhone X de 2017, Apple a abandonné l’authentification via
+   Touch ID sur ses séries de smartphones haut et milieu de gammes.
+   Désormais, parmi les modèles proposés à la vente sur le site de la
+   marque, seul l’iPhone SE de 2022 armé d’une puce Bionic A15 exploite
+   toujours ce bouton dédié.
+
+Une intégration sous l’écran pour assurer le salut ?
+
+   Pour ceux qui n’ont jamais eu un produit Apple entre les mains,
+   précisons que Touch ID est un système de lecture d’empreinte digitale
+   qui sert au déverrouillage, au autorisation d’achats ou encore à la
+   connexion d’applications tierces via un bouton spécifique. Certains
+   appareils l’utilisent encore ; outre l’iPhone SE, citons l’iPad Air ou
+   encore l’iPad mini 6.
+
+   Depuis la série des iPhone 11, le système authentification a été
+   remplacé par Face ID, une technologie de reconnaissance faciale.
+   Celle-ci est toujours à l’œuvre sur les iPhone 15 lancés récemment.
+
+   Des rumeurs suggéraient toutefois un possible retour du Touch ID avec
+   les iPhone 16. Cette allégation a été démentie par un utilisateur Weibo
+   a priori bien renseigné puisqu’il avait partagé des informations
+   confidentielles au sujet des iPhone 14 par le passé. De fait, même
+   l’iPhone SE 4 actuellement en préparation délaisserait le Touch ID au
+   profit du Face ID.
+
+   Pour l’avenir, les principales préoccupations d’Apple seraient plutôt
+   d’intégrer sa reconnaisse faciale directement via des capteurs
+   TrueDepth sous l’écran. L’objectif est bien sûr de maximiser la la
+   surface de l’écran en réduisant la place accordée à l’encoche. Ce
+   projet pourrait être concrétisé l’année prochaine avec les iPhone 16,
+   et plus spécifiquement avec les modèles Pro, lesquels hériteraient
+   également de l’objectif photo de l’iPhone 15 Pro Max.
+
+   D’autres sources estiment néanmoins que les ingénieurs d’Apple
+   planchent sur une intégration similaire pour un retour du Touch ID à
+   l’avenir, avec un système d’identification directement sous l’écran, à
+   l’instar de ce que proposent de nombreux smartphones Android depuis
+   maintenant plusieurs années.
+
+   Bref, en l’état, la seule quasi-certitude est que le Touch ID intégré à
+   un bouton semble définitivement appartenir au passé.
+
+   Source : Weibo
+
+   Topics : Apple
+
+   👉 Vous utilisez Google News ? Ajoutez Tom's Hardware sur Google News
+   pour ne rater aucune actualité importante de notre site.
+   Rémi Bouvet Rémi Bouvet
+   Rémi Bouvet
+   LinkedIn
+
+   Pas du tout convaincu que "c'était mieux avant", je préfère
+   m'intéresser à demain plutôt que fantasmer hier.
+
+La rédaction vous conseille aussi...
+
+     * Galaxy s23 ultra Galaxy s23 ultra
+       Galaxy S24 : pour utiliser l’IA, la mémoire de stockage va devoir
+       évoluer
+     * samsung exynos samsung exynos
+       L’Exynos 2400 enterre complètement la puce précédente de Samsung
+     * iphone 14 pro max iphone 14 pro max
+       L’iPhone 16 Pro Max aurait un appareil photo révolutionnaire
+     * Iphone_15_Pro_Pro_Max Iphone_15_Pro_Pro_Max
+       Une mise à jour protège l’iPhone 15 du chargeur des BMW
+     * iPhone_14_Pro iPhone_14_Pro
+       Pas de 5G maison pour l’iPhone 17, Apple aurait toujours besoin de
+       Qualcomm
+     * MacBook 5G 2028 Apple(1) MacBook 5G 2028 Apple(1)
+       N’espérez pas de MacBook 5G avant la fin de la décennie
+
+   Facebook Messenger Twitter Linkedin Whatsapp Reddit Share
+   Veuillez laisser ce champ vide ____________________
+
+Votre Newsletter Tom's Hardware
+
+   📣 📣 Souscrivez à notre newsletter pour recevoir par email nos dernières
+   actualités !
+   Adresse e-mail * ____________________
+   Je m’abonne !
+   Politique de confidentialité
+
+   Vérifiez votre boite de réception ou votre répertoire d’indésirables
+   pour confirmer votre abonnement.
+
+   Suivre la discussion
+   M'alerter des
+   [nouveaux commentaires__________________]
+   ____________________
+   ›
+   guest guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Nom*
+   ____________________ E-mail*
+   ____________________ Site Web
+   [ ] Publier un commentaire
+   guest guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Nom*
+   ____________________ E-mail*
+   ____________________ Site Web
+   [ ] Publier un commentaire
+   0 Commentaires
+   Inline Feedbacks
+   View all comments
+       Les derniers articles
+          + Siri IA intelligente(1) Siri IA intelligente(1)
+            Apple veut injecter de l’IA dans Siri pour la rendre plus
+            intelligente
+            5 janvier 2024 15:15
+          + M3 Ultra Apple M3 Ultra Apple
+            Apple M3 Ultra : le Mac Studio serait le seul à recevoir la
+            puce dès mi-2024
+            5 janvier 2024 11:05
+          + iPhone 16 gamme iPhone 16 gamme
+            iPhone 16 : caractéristiques, nouveautés et améliorations, à
+            quoi s’attendre pour le prochain smartphone Apple ?
+            3 janvier 2024 13:03
+          + Ferret Model Apple couv Ferret Model Apple couv
+            Apple Ferret, l’IA open-source qui veut rendre les iPhone plus
+            intelligents
+            29 décembre 2023 17:35
+          + Vision Pro Apple lancement fin janvier(1) Vision Pro Apple
+            lancement fin janvier(1)
+            Vision Pro : vous pourriez enfiler le casque de réalité mixte
+            d’Apple avant la fin de l’hiver
+            28 décembre 2023 19:30
+          + vision pro sortie fevrier 2024 vision pro sortie fevrier 2024
+            Apple hâte la production du Vision Pro pour un lancement avant
+            la fin de l’hiver
+            21 décembre 2023 10:50
+          + AppStore abonnements conditionnels AppStore abonnements
+            conditionnels
+            Apple teste une réduction conditionnelle du prix des
+            abonnements sur l’App Store
+            18 décembre 2023 11:03
+          + ipad pliant apple(1) ipad pliant apple(1)
+            Apple veut un iPad pliant, mais sans se ruiner dans les
+            réparations
+            15 décembre 2023 15:20
+          + spotify couv taxe(1) spotify couv taxe(1)
+            Spotify et Deezer seront taxés en 2024, vers une hausse du
+            prix des abonnements ?
+            14 décembre 2023 13:05
+          + Apple vs UE Spotify Apple vs UE Spotify
+            Apple pourrait perdre sa bataille contre Spotify et risque de
+            payer une amende record
+            14 décembre 2023 11:22
+       chargement des articles chargement des articles
+
+   👉 Vous utilisez Google News ? Ajoutez Tom's Hardware sur Google News
+   pour ne rater aucune actualité importante de notre site.
+   🔥 Les Tendances
+     * Nintendo Switch 2
+     * Assassin's Creed : Nexus
+     * Samsung Galaxy S24
+     * Call of Duty : Modern Warfare III moins cher
+     * Meilleurs smartphones Google en 2023
+     * Meilleur PC pour jouer en 2023
+     * Windows 11
+     * Google Pixel 8 Pro
+     * Apple iPhone 15
+
+   Veuillez laisser ce champ vide ____________________
+
+   📣 📣 Newsletter
+
+   Abonnez-vous à notre newsletter pour recevoir nos dernières actus par
+   mail !
+   Adresse e-mail * ____________________
+   Je m’abonne !
+   Politique de confidentialité
+
+   Vérifiez votre boite de réception ou votre répertoire d’indésirables
+   pour confirmer votre abonnement.
+
+   Suivez-nous
+   Facebook Twitter Youtube RSS Newsletter
+
+   Entreprise
+     * Confidentialité et Cookies
+     * Mentions légales et CGU
+     * Préférences Cookies
+     * Qui sommes nous
+
+   À propos
+   Archives
+     * Contact
+
+   Tom's Hardware © 2023 Galaxie Media Tous droits réservés
+       Tom's Guide
+          + Windows 12 sera à mi-chemin entre le cloud et le local, tease
+            Microsoft Windows 12 sera à mi-chemin entre le cloud et le
+            local, tease Microsoft
+            05/01 Windows 12 sera à mi-chemin entre le cloud et le local,
+            tease Microsoft
+          + iOS 17.3 : ce qui va changer sur votre iPhone en janvier iOS
+            17.3 : ce qui va changer sur votre iPhone en janvier
+            05/01 iOS 17.3 : ce qui va changer sur votre iPhone en janvier
+          + Netflix : les meilleures séries et films à regarder ce
+            week-end (6 au 7 janvier) Netflix : les meilleures séries et
+            films à regarder ce week-end (6 au 7 janvier)
+            05/01 Netflix : les meilleures séries et films à regarder ce
+            week-end (6 au 7 janvier)
+          + Galaxy S24 : deux nouveaux chargeurs attendus, une puissance
+            maximale décevante ? Galaxy S24 : deux nouveaux chargeurs
+            attendus, une puissance maximale décevante ?
+            05/01 Galaxy S24 : deux nouveaux chargeurs attendus, une
+            puissance maximale décevante ?
+
+   wpDiscuz
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Insert
+
+   >

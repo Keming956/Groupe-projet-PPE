@@ -1,0 +1,1776 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" /><script type="171119c5897e6ff409aae191-text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1bdb6f7fb8",applicationID:"1114563801"};;/*! For license information please see nr-loader-rum-1.249.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var D=r(385),k=r(6818);const E={buildEnv:k.Re,customTransaction:void 0,disabled:!1,distMethod:k.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(D._A?.performance?.timeOrigin||D._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+D._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof D._A.XMLHttpRequest?.prototype?.addEventListener,version:k.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,E);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.249.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,++i).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,oD:()=>i});const n="NRBA",i=144e5,a=18e5},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.249.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.249.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-HcXyAuaRbdfES7GuZJPwimpBfHQYAggUt+9f7v0xmtqSP1pSPK/chshT+kmNNfPfvD1QbPyikVNC4frs8IQYkw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.249.0.PROD"]=self["webpackChunk:NRBA-1.249.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class N extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,N],loaderType:"lite"})})()})();</script>
+<meta name="description" content="The Consumer Duty will set higher and clearer standards of consumer protection across financial services and require firms to act to deliver good outcomes for customers. The FCA sets out here the findings from their review of firms’ plans to embed the Duty within businesses." />
+<link rel="canonical" href="https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans" />
+<meta property="og:site_name" content="FCA" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans" />
+<meta property="og:title" content="Consumer Duty implementation plans" />
+<meta property="og:description" content="The Consumer Duty will set higher and clearer standards of consumer protection across financial services and require firms to act to deliver good outcomes for customers. We set out here the findings from our review of firms’ plans to embed the Duty within their businesses. " />
+<meta property="og:updated_time" content="2023-01-25T08:59:43+00:00" />
+<meta property="article:published_time" content="2023-01-18T11:25:15+00:00" />
+<meta property="article:modified_time" content="2023-01-25T08:59:43+00:00" />
+<meta property="funnelback:pub-end-date" content="2023-01-18T10:56:27+0000" />
+<meta property="funnelback:published-date" content="2023/01/25" />
+<meta property="funnelback:content-type" content="Publication Longform" />
+<meta property="funnelback:nid" content="108046" />
+<meta property="funnelback:category" content="Firms" />
+<meta property="funnelback:type" content="Focus areas,Multi-firm reviews" />
+<meta property="funnelback:published-year" content="2023" />
+<meta property="funnelback:published-int-date" content="20230125" />
+<meta property="funnelback:date-of-release-year" content="2023" />
+<meta property="funnelback:created-date" content="18/01/2023" />
+<meta property="funnelback:modified-date" content="25/01/2023" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Consumer Duty implementation plans" />
+<meta name="twitter:description" content="The Consumer Duty will set higher and clearer standards of consumer protection across financial services and require firms to act to deliver good outcomes for customers. We set out here the findings from our review of firms’ plans to embed the Duty within their businesses. " />
+<meta name="twitter:site" content="@TheFCA" />
+<meta name="twitter:site:id" content="169431716" />
+<meta name="twitter:image" content="https://www.fca.org.uk/sites/default/files/images/fca-logo-social-media.jpg" />
+<meta name="theme-color" content="#fff" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #6C1D45} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}#sliding-popup.sliding-popup-top { position: fixed; }</style>
+<meta name="theme-color" content="#6c1d45" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.fca.org.uk/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Publications ",
+                "item": "https://www.fca.org.uk/publications"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Consumer Duty implementation plans "
+            }
+        ]
+    }
+}</script>
+<link rel="icon" href="/themes/custom/fca/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans" />
+<script src="/sites/default/files/eu_cookie_compliance/eu_cookie_compliance.script.js?s6ml1w" defer type="171119c5897e6ff409aae191-text/javascript"></script>
+
+    <title>Consumer Duty implementation plans | FCA</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_x3UyoYCGp_JmPWuRNINxJbK4IMiIeCK4qqy5q95exEY.css?delta=0&amp;language=en&amp;theme=fca&amp;include=eJyVUluS3CAMvBA2R6IEljFljCgkNpnbBxiPd5J4K5sPG9Ho0TTtdlyCUDEhLZjERnK7fotVphj1UmqGOPd4iiHtrBgjOgmUDG9QsOgLmAawKH6w4KEtMCpHBc8manWgfSQLcWJ5tG5e4U_pXV9jzu2zipJDhdU4oj1gW44cAzRQ34FmwRVqlGdtSIIltY61Xahwx5QlEpYC-TXtAt6OMmX6wPLOe17QUu1kfqBdqRz6XOf--wtsahxNw1YlECLPDB-_yTBDSvft_qwU8j5il82cKayPdibg-cviA5nBjyqdW2BWxMWC280t2y4gcZCv2VDub8sqQwHfJNr4MsWFNJlztTHw1p6_T-6cHUWqhcfeUX6YLfgttk-eSWaUOBheipT8GP8KZpbg9sd3El_--0YuMKM8Kd0ljg5rTQljl0x_hhNUoeE2FLyu-HluGKG4zVxdmpHqsFPNk21P3jz1b3r5fLkbz9-i_5NrvAxmmskFiL8A32mRFw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_rkXGS5XHoUYnrH2LveA_9x1Qg-sPHMJLPKT_mhFWNz8.css?delta=1&amp;language=en&amp;theme=fca&amp;include=eJyVUluS3CAMvBA2R6IEljFljCgkNpnbBxiPd5J4K5sPG9Ho0TTtdlyCUDEhLZjERnK7fotVphj1UmqGOPd4iiHtrBgjOgmUDG9QsOgLmAawKH6w4KEtMCpHBc8manWgfSQLcWJ5tG5e4U_pXV9jzu2zipJDhdU4oj1gW44cAzRQ34FmwRVqlGdtSIIltY61Xahwx5QlEpYC-TXtAt6OMmX6wPLOe17QUu1kfqBdqRz6XOf--wtsahxNw1YlECLPDB-_yTBDSvft_qwU8j5il82cKayPdibg-cviA5nBjyqdW2BWxMWC280t2y4gcZCv2VDub8sqQwHfJNr4MsWFNJlztTHw1p6_T-6cHUWqhcfeUX6YLfgttk-eSWaUOBheipT8GP8KZpbg9sd3El_--0YuMKM8Kd0ljg5rTQljl0x_hhNUoeE2FLyu-HluGKG4zVxdmpHqsFPNk21P3jz1b3r5fLkbz9-i_5NrvAxmmskFiL8A32mRFw" />
+
+    <link rel=preload href="/themes/custom/fca/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.woff2" as="font" crossorigin>
+    <meta name="google-site-verification" content="UMTpd8qXqUbCGtkijm3SkFV2lRJQM2lIIkMKmJg8jMk" />
+    <meta name="msvalidate.01" content="57E38F6BD7138599EBD7F7F4FF496957" />
+    
+</head>
+<body class="node-type-publication-longform page-node-108046 node-bg-6c1d45 logged-out">
+<div class="skip-links">
+  <a href="#main-content" id="skip-main-content" class="visually-hidden sr-only-focusable focusable" tab-index="1">Skip to main content</a>
+  <a href="#edit-search-term" class="visually-hidden focusable skip-to-search">Skip to search box</a>
+          <a href="#rhn" class="visually-hidden focusable skip-to-search">Skip to right hand navigation</a>
+  </div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCC62S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+                          <header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-4 header__logo-col">
+        <a class="header__logo navbar-btn pull-left" href="/" title="Home">
+          <img src="/themes/custom/fca/images/logo.png" alt="Home" width="210" height="66">
+        </a>
+      </div>
+
+      <div class="col-md-8 col-sm-8 header__nav-col">
+        <div class="row header__nav-search">
+          <div id="block-fca-funnelback-fca-funnelback-search-box"
+            class="block block-fca-funnelback clearfix col-xs-12 col-md-6 header__nav-search-block">
+            <section class="fca-funnelback-search-form block block-fca-funnelback block-funnelback-search-block clearfix" data-drupal-selector="fca-funnelback-search-form" novalidate="novalidate" id="block-funnelbacksearchblock">
+  
+    
+
+      <form action="/publications/multi-firm-reviews/consumer-duty-implementation-plans" method="post" id="fca-funnelback-search-form" accept-charset="UTF-8">
+  <div class="input-group search-input-group">
+  <label class="sr-only" for="edit-search-term">
+    Search
+  </label>
+  <input title="Search" placeholder="Search" class="funnelback-query form-text form-control" data-drupal-selector="edit-search-term" type="text" id="edit-search-term" name="search_term" value="" size="60" maxlength="128" />
+  <span class="input-group-btn">
+    <button aria-label="Submit" title="Submit" class="form-submit btn--search text-hide button js-form-submit form-submit btn-primary btn icon-before" id="edit-submit--funnelback_search_form" data-drupal-selector="edit-submit" type="submit" name="op" value="Search"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Search</button>
+  </span>
+</div>
+
+<input autocomplete="off" data-drupal-selector="form-7is1t2szxotzdymwc8mgzfv9ypeibvynt2lgaougtak" type="hidden" name="form_build_id" value="form-7iS1t2SZXOtzDYMwC8MGZfv9yPeIBVyNt2lgAOuGTak" /><input data-drupal-selector="edit-fca-funnelback-search-form" type="hidden" name="form_id" value="fca_funnelback_search_form" />
+
+</form>
+
+  </section>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-10 header__nav-col header__nav-menu">
+        <div class="row header__nav-wrapper">
+          <nav class="navbar navbar-default header__nav-navigation" aria-labelledby="navbar-collapse">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle menu-icon" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+                          </div>
+            <div class="navbar-collapse collapse" id="navbar-collapse">
+              <section class="block-tb-megamenu-main-menu">
+                <div class="tb-megamenu tb-megamenu-main-menu">
+                  <nav aria-labelledby="block-fca-main-menu-menu" id="block-fca-main-menu">
+            <h2 class="sr-only" id="block-fca-main-menu-menu">Main navigation</h2>
+
+      
+<div class="always-show">
+        <ul class="tb-megamenu-nav nav level-0 items-6 list-inline mega-menu">
+                                  <li class="first tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__about-us">
+                                                                         <a href="/about" class="dropdown-toggle mega-menu__level-one-link" data-drupal-link-system-path="node/98011">About us</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            <div class="views-element-container form-group"><div class="megamenu-promo view view-megamenu-promo-content view-id-megamenu_promo_content view-display-id-block js-view-dom-id-76acb1870d5c167012aa824d56d508d6d28424a0ca338b7f6de7127a35bbb77b">
+  
+    
+      
+            <h3 class="promo-block__title heading__underline">Contact us</h3>
+      <div class="view-content">
+                    <div class="views-row"><div class="promo-block__copy"><p>Get in touch by phone, via our online form, or by post:</p>
+<p> </p>
+<p>Financial Conduct Authority<br />
+12 Endeavour Square<br />
+London E20 1JN</p>
+<p> </p>
+</div><a href="/contact" class="promo-block__read-more btn btn--arrow-right" aria-label="Contact us - Contact us">Contact us</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <div class="megamenu-categories">
+                  <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">What we do</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-c2cdca122b21391e7587b544086c3d8b85c7c1b3b19c766403f50efc93b30326">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/about/what-we-do/the-fca" hreflang="en">About the FCA</a></li>
+          <li class="menu--item"><a href="/about/what-we-do/enhancing-market-integrity" hreflang="en">Enhancing market integrity</a></li>
+          <li class="menu--item"><a href="/about/how-we-work-menu" hreflang="en">How we work</a></li>
+          <li class="menu--item"><a href="/about/what-we-do/promoting-competition" hreflang="en">Promoting competition</a></li>
+          <li class="menu--item"><a href="/about/what-we-do/protecting-consumers" hreflang="en">Protecting consumers</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">How we regulate</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-28c65c44fe527f00ff27addcfc52cc6fecbbfd218cbbd3bfc283322f34e2dcb0">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/authorisation-menu" hreflang="en">Authorisation</a></li>
+          <li class="menu--item"><a href="/about/how-we-regulate/enforcement" hreflang="en">Enforcement</a></li>
+          <li class="menu--item"><a href="/about/how-we-regulate/handbook" hreflang="en">Handbook of rules and guidance</a></li>
+          <li class="menu--item"><a href="/about/how-we-regulate/international-standards-regulations" hreflang="en">International standards and regulations</a></li>
+          <li class="menu--item"><a href="/about/how-we-regulate/supervision" hreflang="en">Supervision</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">How we operate</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-b0bd9f70f09267d3ee1def964177e324a8fa0ae5739e1d957386966a9c7f67b9">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/about/how-we-operate/complain-about-regulators" hreflang="en">Complain about us, the PRA or the Bank of England (the regulators)</a></li>
+          <li class="menu--item"><a href="/about/how-we-operate/corporate-responsibility" hreflang="en">Corporate responsibility</a></li>
+          <li class="menu--item"><a href="/about/how-we-operate/diversity-equity-inclusion" hreflang="en">Diversity, equity and inclusion</a></li>
+          <li class="menu--item"><a href="/about/how-we-operate/environmental-sustainability" hreflang="en">Environmental sustainability</a></li>
+          <li class="menu--item"><a href="/about/how-we-operate/who-work-with" hreflang="en">Who we work with</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Who we are</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-0228fc3af033648e6233dd4378670b143dc26b5d20575206707e43ceb73b4cab">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/about/who-we-are/chair" hreflang="en">Chair</a></li>
+          <li class="menu--item"><a href="/about/who-we-are/chief-executive" hreflang="en">Chief Executive</a></li>
+          <li class="menu--item"><a href="/about/who-we-are/committees" hreflang="en">Committees</a></li>
+          <li class="menu--item"><a href="/about/who-we-are/executive-committees" hreflang="en">Executive committees</a></li>
+          <li class="menu--item"><a href="/about/who-we-are/fca-board" hreflang="en">FCA Board</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Join us</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-9bd6735ea194e3734e3a6f166ae38355d4f695ed9fb53d9a7663a2bb11a7e27c">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/careers-home" hreflang="en">Careers home</a></li>
+          <li class="menu--item"><a href="/careers/early-careers" hreflang="en">Early careers</a></li>
+          <li class="menu--item"><a href="/careers/experienced-professionals" hreflang="en">Experienced professionals</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+
+            </div>
+            <div class="views-element-container form-group"><div class="megamenu-footer view view-megamenu-footer view-id-megamenu_footer view-display-id-block js-view-dom-id-b9baa4bcb312e64bccbc30a7a83faf8e80255d300ab96def206b349c03196d66">
+  
+    
+      
+        
+          </div>
+</div>
+
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+
+              </li>
+                                  <li class="tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__firms">
+                                                                         <a href="/firms" class="dropdown-toggle mega-menu__level-one-link" data-drupal-link-system-path="node/2886">Firms</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            <div class="views-element-container form-group"><div class="megamenu-promo view view-megamenu-promo-content view-id-megamenu_promo_content view-display-id-block js-view-dom-id-a4635190ca7a7ca9af4ff50ec31fc99802c808d8e283f29a0b7704f7dca19114">
+  
+    
+      
+            <h3 class="promo-block__title heading__underline">Firms overview</h3>
+      <div class="view-content">
+                    <div class="views-row"><div class="promo-block__copy"><p>Go to our dedicated section to see support for firms and our latest policy updates.</p>
+<p> </p>
+</div><a href="/firms" class="promo-block__read-more btn btn--arrow-right" aria-label="Firms overview - Find out more">Find out more</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <div class="megamenu-categories">
+                  <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/firms/authorisation" hreflang="en">Firm authorisation</a></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-83889900676085e80a01b81bd7d588d8c33470c82cbe779e5266a9b1e4a68a85">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/firms/authorisation" hreflang="en">Authorisation</a></li>
+          <li class="menu--item"><a href="/firms/authorisation/cancel" hreflang="en">Cancelling an authorisation or registration</a></li>
+          <li class="menu--item"><a href="/firms/check-if-firm-authorised" hreflang="en">Check if a firm is authorised</a></li>
+          <li class="menu--item"><a href="/firms/authorisation/apply" hreflang="en">How to apply for authorisation or registration</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Regulated firms</span></h4><div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_firms_types js-view-dom-id-1b8d7ae66ee6b4785b4b7dc5336e7bf3f0607a8b411d43a5e7dba3db0c127048 dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            
+            <div class="megamenu-categories">
+              <div class="item-list firms-types">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/firms" hreflang="en">All firms</a></li>
+          <li class="menu--item"><a href="/firms/claims-management-companies" hreflang="en">Claims management companies</a></li>
+          <li class="menu--item"><a href="/firms/consumer-credit" hreflang="en">Consumer credit firms</a></li>
+          <li class="menu--item"><a href="/firms/electronic-money-payment-institutions" hreflang="en">Electronic money and payment institutions</a></li>
+          <li class="menu--item"><a href="/firms/funeral-plan-providers-intermediaries" hreflang="en">Funeral plan providers and intermediaries</a></li>
+          <li class="menu--item"><a href="/firms/innovation" hreflang="en">Innovation Hub</a></li>
+          <li class="menu--item"><a href="/firms/mutual-societies" hreflang="en">Mutual societies</a></li>
+    
+  </ul>
+
+</div>
+
+            </div>
+            
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Tasks for firms</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-7bfc3ce8bf89f0eb06a92a2799d505b9d414085daacaf0aa85d8c68b6a63b94c">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/firms/approved-persons" hreflang="en">Approved persons</a></li>
+          <li class="menu--item"><a href="/firms/change-control" hreflang="en">Change in control</a></li>
+          <li class="menu--item"><a href="/firms/fees" hreflang="en">Fees and levies</a></li>
+          <li class="menu--item"><a href="/firms/firm-details" hreflang="en">Keeping your firm&#039;s details up to date</a></li>
+          <li class="menu--item"><a href="/firms/appointed-representatives-principals" hreflang="en">Principals and appointed representatives  </a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/firms/consumer-duty" hreflang="en">Focus areas</a></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-af3dc180ef3f56b20557fe7d5975e201dddcd8cba4a3cc1f45361e37b4af3214">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/firms/consumer-duty" hreflang="en">Consumer Duty</a></li>
+          <li class="menu--item"><a href="/firms/cost-living-firm-information" hreflang="en">Cost of living: firm information</a></li>
+          <li class="menu--item"><a href="/firms/access-to-cash" hreflang="en">Helping people access cash</a></li>
+          <li class="menu--item"><a href="/firms/regulatory-framework-reforms" hreflang="en">Regulatory framework reforms</a></li>
+          <li class="menu--item"><a href="/firms/senior-managers-certification-regime" hreflang="en">Senior Managers and Certification Regime </a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+
+            </div>
+            <div class="views-element-container form-group"><div class="megamenu-footer view view-megamenu-footer view-id-megamenu_footer view-display-id-block js-view-dom-id-5888773fbe8ccae08bbf2c495d8eeba832503136c54254129efc90c28c0acfdd">
+  
+    
+      
+            <div class="view-content">
+                  <div style="background-image: url(https://www.fca.org.uk/sites/default/files/styles/no_style/public/media/images/megamenu-banner-consumer-duty-350_78.jpg?itok=5eIJffZC);" class="megamenu-footer__image" >
+          </div>
+                    <div class="views-row"><div class="megamenu-footer__copy"><p class="megamenu-footer__title">Consumer Duty </p>
+<p>We're hosting events to help firms prepare for the new rules. Sign up to hear about these and related communications.</p>
+</div><a href="/sign-consumer-duty-email-updates" class="megamenu-footer__read-more btn btn--arrow-right" aria-label="Consumer Duty - Sign up">Sign up</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+
+              </li>
+                                  <li class="tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__markets">
+                                                                         <a href="/markets" class="dropdown-toggle mega-menu__level-one-link" data-drupal-link-system-path="node/2891">Markets</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            <div class="views-element-container form-group"><div class="view view-megamenu-promo-content view-id-megamenu_promo_content view-display-id-block js-view-dom-id-5fab783c42c8e940345cbb2fd10c8f494df33ce558986f1abde69a47a376e11c">
+  
+    
+      
+        
+          </div>
+</div>
+
+            <div class="megamenu-categories">
+                  <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Primary markets</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-1d54a1d5146a0c2973f197f9e65272770e0dfe33d08e6c3c2f53e5eb7194a214">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/ukla/regulatory-disclosures" hreflang="en">Regulatory Disclosures</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Markets policy</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-6ae07e9489ae53008d41f36ebd26a7b82bf2fd6d322ff2a7127aa4077414af71">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/libor-transition" hreflang="en">About LIBOR transition</a></li>
+          <li class="menu--item"><a href="/markets/data-reporting-services-providers-drsps" hreflang="en">Data reporting services providers</a></li>
+          <li class="menu--item"><a href="/markets/securitisation" hreflang="en">Securitisation</a></li>
+          <li class="menu--item"><a href="/markets/uk-emir" hreflang="en">UK EMIR</a></li>
+          <li class="menu--item"><a href="/markets/sftr" hreflang="en">UK Securities Financing Transactions Regulation (UK SFTR)</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Regulated markets</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-ebcdb65cb8aa1326a9808407619e3e8ab4ccc66b59b1cfc7d45dc8e472190223">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/benchmarks" hreflang="en">Benchmarks</a></li>
+          <li class="menu--item"><a href="/markets/central-securities-depositories" hreflang="en">Central securities depositories</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Market abuse</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-070e45f593bb21b137217409efb9a38b265dbe0e9761dd1da47fcdfd916df898">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/market-abuse/how-report-suspected-market-abuse-firm-or-trading-venue" hreflang="en">How to report suspected market abuse as a firm or trading venue</a></li>
+          <li class="menu--item"><a href="/markets/market-abuse/how-report-suspected-market-abuse-individual" hreflang="en">How to report suspected market abuse as an individual</a></li>
+          <li class="menu--item"><a href="/markets/market-abuse/regulation" hreflang="en">Market Abuse Regulation</a></li>
+          <li class="menu--item"><a href="/markets/market-abuse/polling-and-market-abuse-regulation" hreflang="en">Polling and Market Abuse Regulation</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Short selling</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-70b9b8b696736d2d09d473ef3621e33c171599fe0148156a756b4cd7d8df9303">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/short-selling/exemptions-requirements" hreflang="en">Exemptions from short-selling requirements</a></li>
+          <li class="menu--item"><a href="/markets/short-selling/notification-disclosure-net-short-positions" hreflang="en">Notification and disclosure of net short positions</a></li>
+          <li class="menu--item"><a href="/markets/short-selling" hreflang="en">Short selling</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Transaction reporting</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-7bd06d9e82a622d0eb74ef87da7e1b2e3ca08baaa3156466f0cc62024a986cb0">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/markets/transaction-reporting/instrument-reference-data" hreflang="en">Instrument Reference Data</a></li>
+          <li class="menu--item"><a href="/markets/transaction-reporting/reportable-instruments" hreflang="en">Reportable instruments</a></li>
+          <li class="menu--item"><a href="/markets/transaction-reporting" hreflang="en">Transaction reporting</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+
+            </div>
+            <div class="views-element-container form-group"><div class="megamenu-footer view view-megamenu-footer view-id-megamenu_footer view-display-id-block js-view-dom-id-c67f96b7a0669e52b62389353536aa42311b7485887b7ddeec16f7946042683a">
+  
+    
+      
+        
+          </div>
+</div>
+
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+
+              </li>
+                                  <li class="tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__consumers">
+                                                                         <a href="/consumers" class="dropdown-toggle mega-menu__level-one-link" data-drupal-link-system-path="node/2901">Consumers</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            <div class="views-element-container form-group"><div class="megamenu-promo view view-megamenu-promo-content view-id-megamenu_promo_content view-display-id-block js-view-dom-id-7befc66fd9f321d48b7b00c6242f452f50dabc1eefcf6ec604b9dbaf4f8980ed">
+  
+    
+      
+            <h3 class="promo-block__title heading__underline">Our Consumer section</h3>
+      <div class="view-content">
+                  <div style="background-image: url(https://www.fca.org.uk/sites/default/files/styles/no_style/public/media/images/megamenu-promo-consumers-326_151.jpg?itok=TUo8zN9W);" class="megamenu-promo__image" >
+          </div>
+                    <div class="views-row"><div class="promo-block__copy"><p>See our dedicated section to help you stay up-to-date with financial services in the UK.</p>
+<p> </p>
+</div><a href="/consumers" class="promo-block__read-more btn btn--arrow-right" aria-label="Our Consumer section - Find out more">Find out more</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <div class="megamenu-categories">
+                  <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Your rights</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-466ca7e7d2af2eb2c69a74c044c3f5d98d6bb43096d332709e03aec4c9662edb">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/consumers/check-if-firm-fca-authorised" hreflang="en">Check if a firm is authorised</a></li>
+          <li class="menu--item"><a href="/consumers/pension-transfer-defined-benefit" hreflang="en">Considering a defined benefit pension transfer</a></li>
+          <li class="menu--item"><a href="/consumers/high-risk-investments" hreflang="en">High risk investments</a></li>
+          <li class="menu--item"><a href="/consumers/information-victims-financial-crime" hreflang="en">Information for victims of financial crime</a></li>
+          <li class="menu--item"><a href="/consumers/using-financial-services-register" hreflang="en">Using the Financial Services Register</a></li>
+          <li class="menu--item"><a href="/consumers/your-rights-financial-services" hreflang="en">Your rights with financial services</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Complaints</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-ddc2d529e597f94a74fc26aa76e190061b4e95d6e935be7bbb09a80868cfd1b8">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/consumers/complain-about-regulator" hreflang="en">Complain about a regulator</a></li>
+          <li class="menu--item"><a href="/consumers/claim-compensation-firm-fails" hreflang="en">How to claim compensation if a firm fails</a></li>
+          <li class="menu--item"><a href="/consumers/how-complain" hreflang="en">How to complain</a></li>
+          <li class="menu--item"><a href="/consumers/using-claims-management-companies" hreflang="en">Using claims management companies</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Scams</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-fa7711d8c64e8061489b240a50e4244251a54785bff615fb68ceb40388bd414d">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/consumers/crypto-investment-scams" hreflang="en">Crypto investment scams</a></li>
+          <li class="menu--item"><a href="/consumers/fake-fca-communications" hreflang="en">Fake FCA communications</a></li>
+          <li class="menu--item"><a href="/consumers/loan-fee-fraud" hreflang="en">Loan fee fraud</a></li>
+          <li class="menu--item"><a href="/consumers/pension-scams" hreflang="en">Pension scams</a></li>
+          <li class="menu--item"><a href="/consumers/protect-yourself-scams" hreflang="en">Protect yourself from scams</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Report a firm</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-224aa0ef6c3d0b9777872cfaefc4bc183c5e5d6f37f65773ab58444fd0035f11">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/consumers/misleading-financial-promotions" hreflang="en">Misleading financial promotions</a></li>
+          <li class="menu--item"><a href="/consumers/how-complain/report-payment-services-e-money-firm" hreflang="en">Report a payment services or e-money firm</a></li>
+          <li class="menu--item"><a href="/consumers/report-scam" hreflang="en">Report a scam</a></li>
+          <li class="menu--item"><a href="/consumers/unfair-contracts" hreflang="en">Unfair contracts</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+
+            </div>
+            <div class="views-element-container form-group"><div class="megamenu-footer view view-megamenu-footer view-id-megamenu_footer view-display-id-block js-view-dom-id-2fec8238c46adbaf4c349ecb843ff500f820ae6abc8891b021d0e46e07322f15">
+  
+    
+      
+            <div class="view-content">
+                  <div style="background-image: url(https://www.fca.org.uk/sites/default/files/styles/no_style/public/media/images/megamenu-banner-warnings-350_78.jpg?itok=w6yre39y);" class="megamenu-footer__image" >
+          </div>
+                    <div class="views-row"><div class="megamenu-footer__copy"><p class="megamenu-footer__title">FCA Warning List </p>
+<p>Find our most up-to-date warnings of firms and individuals running scams or operating without authorisation.</p>
+</div><a href="/consumers/warning-list-unauthorised-firms" class="megamenu-footer__read-more btn btn--arrow-right" aria-label="FCA Warning List - Read more">Read more</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+
+              </li>
+                                  <li class="tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__news">
+                                                                         <a href="/news" class="dropdown-toggle mega-menu__level-one-link" data-drupal-link-system-path="node/11876">News</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  
+    
+      
+            <div class="view-content">
+        <div class="container">
+          <div class="row">
+            <div class="views-element-container form-group"><div class="megamenu-promo view view-megamenu-promo-content view-id-megamenu_promo_content view-display-id-block js-view-dom-id-290b562905cf17390667adc7e89273ef41b568924998f11e4ad9b27267bc60be">
+  
+    
+      
+            <h3 class="promo-block__title heading__underline">Sign up to receive daily alerts on the warnings we issue</h3>
+      <div class="view-content">
+                    <div class="views-row"><div class="promo-block__copy"><p>Receive new and updated warnings in a daily email.</p>
+<p> </p>
+</div><a href="/sign-fca-warnings-list-daily-alerts" class="promo-block__read-more btn btn--arrow-right" aria-label="Sign up to receive daily alerts on the warnings we issue - Sign up">Sign up</a></div>
+
+      </div>
+      
+          </div>
+</div>
+
+            <div class="megamenu-categories">
+                  <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/news" hreflang="en">News</a></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-60fd15ffc897c095bda2d5c15cd14d4b3a21f5817ec5649eb5cd49ff000f84b1">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/news/blogs/blogs" hreflang="en">Blogs</a></li>
+          <li class="menu--item"><a href="/news/news-stories/news-stories" hreflang="en">News stories</a></li>
+          <li class="menu--item"><a href="/news/newsletters/newsletters" hreflang="en">Newsletters</a></li>
+          <li class="menu--item"><a href="/news/press-releases/press-releases" hreflang="en">Press releases</a></li>
+          <li class="menu--item"><a href="/news/speeches/speeches" hreflang="en">Speeches</a></li>
+          <li class="menu--item"><a href="/news/statements/statements" hreflang="en">Statements</a></li>
+          <li class="menu--item"><a href="/news/warnings/warnings" hreflang="en">Warnings</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><span class="no-link">Media centre</span></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-e7911af0b78171d065a48f6feeb3e3750329ba6807ac0a3aaf9e5a60bfba34bf">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/news/news-stories/inside-fca-podcasts" hreflang="en">Inside FCA podcasts</a></li>
+          <li class="menu--item"><a href="/news/news-stories/media-library" hreflang="en">Media library</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+    <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/events" hreflang="en">Events</a></h4><div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default js-view-dom-id-febae9dd635b9e83d1d2d80ddede9532e9ce30c4ed3eb0f8bda61939fa334720">
+  
+    
+      
+            <div class="view-content">
+        <div class="item-list">
+  
+  <ul>
+
+          <li class="menu--item"><a href="/news/news-stories/see-all-fca-events" hreflang="en">See all FCA events</a></li>
+    
+  </ul>
+
+</div>
+
+      </div>
+      
+          </div>
+</div>
+
+            </div>
+            <div class="views-element-container form-group"><div class="megamenu-footer view view-megamenu-footer view-id-megamenu_footer view-display-id-block js-view-dom-id-54c88c3f7c0973604016a97921151bf26b7e77b11e3cb54955f6b8f947b54e4e">
+  
+    
+      
+        
+          </div>
+</div>
+
+            <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+          </div>
+        </div>
+      </div>
+      </div>
+
+              </li>
+                                  <li class="active active-trail last tb-megamenu-item level-1 mega dropdown col-xs-12 col-sm-2 mega-menu__level-one-item mega-menu__publications">
+                                                                         <a href="/publications" class="dropdown-toggle mega-menu__level-one-link active-trail" data-drupal-link-system-path="node/6011">Publications</a>
+                                            <div class="megamenu__menu view view-megamenu-block view-id-megamenu_block view-display-id-megamenu_block_contextual dropdown-menu mega-menu__level-two-wrapper">
+  <div class="view-content">
+    <div class="container">
+      <div class="row">
+        <div class="megamenu-categories">
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/publications/search-results?p_search_term=%20&amp;category=policy%20and%20guidance%2Cpolicy%20and%20guidance-policy%20statements%2Cpolicy%20and%20guidance-finalised%20guidance%2Cpolicy%20and%20guidance-consultation%20papers%2Cpolicy%20and%20guidance-guidance%20consultations%2Cpolicy%20and%20guidance-feedback%20statements%2Cpolicy%20and%20guidance-discussion%20papers%2Cpolicy%20and%20guidance-calls%20for%20input%2Cpolicy%20and%20guidance-newsletters%2Cpolicy%20and%20guidance-handbook&amp;sort_by=dmetaZ" hreflang="en">Policy and guidance</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/publications/search-results?category=corporate%20documents%2Ccorporate%20documents-annual%20reports%2Ccorporate%20documents-business%20plans%2Ccorporate%20documents-corporate%20documents%2Ccorporate%20documents-impact%20assessments%2Ccorporate%20documents-memorandums%20of%20understanding%2Ccorporate%20documents-correspondence%2Ccorporate%20documents-foi%20releases%2Ccorporate%20documents-meeting%20minutes&amp;start=1" hreflang="en">Corporate documents</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/publications/search-results?p_search_term=&amp;category=notices%20and%20decisions-decision%20notices%2Cnotices%20and%20decisions-libor%20notices%2Cnotices%20and%20decisions-final%20notices%2Cnotices%20and%20decisions-warning%20notices%2Cnotices%20and%20decisions-supervisory%20notices%2Cnotices%20and%20decisions-cancellation%20notices%2Cnotices%20and%20decisions-requirement%20notices%2Cnotices%20and%20decisions-temporary%20product%20interventions%2Cnotices%20and%20decisions-undertakings%2Cnotices%20and%20decisions-waivers%20and%20crr%20notices" hreflang="en">Notices and decisions</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/data" hreflang="en">Data</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/research" hreflang="en">Research</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                      <div class="megamenu-category col-sm-4 col-lg-4"><h4 class="menu__heading heading__underline"><a href="/publications/search-results?start=1&amp;category=forms" hreflang="en">Forms</a></h4>
+              <div class="view view-megamenu-block-items view-id-megamenu_block_items view-display-id-default">
+  <div class="view-content">
+    <div class="item-list">
+          </div>
+  </div>
+</div>
+
+            </div>
+                  </div>
+        <button tabindex="0" aria-label="Close menu link" class="megamenu__close btn--close text-hide hidden-xs js-megamenu-close">Close menu</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </li>
+        </ul>
+  
+</div>
+
+  </nav>
+
+                  
+                </div>
+              </section>
+            </div>
+          </nav>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</header>
+
+<!-- Breadcrumb -->
+    <div class="container" role="banner" aria-labelledby="breadcrumb">
+    <div id ="breadcrumb" class="breadcrumb-wrapper">
+      <ol class="breadcrumb">
+                  <li><a href="/">Home</a></li>
+                  <li><a href="/publications">Publications </a></li>
+                  <li class="active">Consumer Duty implementation plans </li>
+              </ol>
+    </div>
+  </div>
+
+
+  
+  <div role="main" class="main-container js-quickedit-main-content">
+        
+        
+            <section>
+
+                              <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+              
+            
+            
+              
+  <a id="main-content"></a>
+    <div class="region region-content">
+      
+
+
+<header id="ar-top" class="article-header publication-longform-heading article-header--publication-ar header-bg-003c71 header-bg-foundation header-bg-grey">
+  <div class="container ar-title">
+    <h1 class="page-header">Consumer Duty implementation plans </h1>
+  </div>
+  <div class="ar-meta">
+    <div class="container">
+              <span class="pubtype"><span class="ar-meta__category">Multi-firm reviews</span></span>
+      
+              <span class="pubdate"><span class="pubdate__label">Published: </span><span
+                  class="date">25/01/2023</span></span>
+                    <span class="pubdate updated"><span
+                  class="pubdate__label">Last updated: </span><span
+                  class="date">25/01/2023</span></span>
+                          <div class="article-header__links">
+                      <a href="/publications/multi-firm-reviews/consumer-duty-implementation-plans/printable/print" class="btn btn-primary btn--print hidden-xs">Print this publication<span class="lf-print-icon"></span></a>
+                  </div>
+          </div>
+  </div>
+</header>
+
+<div class="container container--reduced-margin">
+  <div class="row">
+    <div class="col-xs-12 visible-xs">
+      <div class="publication-longform-intro-mobile">
+        										
+
+<section class="copy-highlighted copy-block component fca-colour--6c1d45 default">
+  <div class="container">
+          						<p>The Consumer Duty will set higher and clearer standards of consumer protection across financial services and require firms to act to deliver good outcomes for customers. We set out here the findings from our review of firms’ plans to embed the Duty within their businesses. </p>
+
+			
+      </div>
+</section>
+
+						
+      </div>
+    </div>
+
+    <div class="article-sidebar col-xs-12 col-md-4 col-md-push-8">
+      <div class="rhn" id="rhn">
+                  <div class="chapters-nav-wrapper js-chapters-nav-wrapper">
+  <div class="social-rhn-links clearfix">
+    <h2 class="social-rhn-links__title">Share</h2>
+    <ul class="menu nav">
+      <li class="social-rhn-links__item social-rhn-links__item--email"><a href="/cdn-cgi/l/email-protection#8cb3dff9eee6e9eff8b1cfe3e2fff9e1e9fea9bebcc8f9f8f5a9bebce5e1fce0e9e1e9e2f8edf8e5e3e2a9bebcfce0ede2ffa9bebca9bebcedf8a9bebccacfcdaaede1fcb7cee3e8f5b1c5a9bebcffedfba9bebcf8e4e5ffa9bebce3e2a9bebcf8e4e9a9bebccacfcda9bebcfbe9eeffe5f8e9a9bebcede2e8a9bebcf8e4e3f9ebe4f8a9bebcf5e3f9a9bebce1e5ebe4f8a9bebceee9a9bebce5e2f8e9fee9fff8e9e8a9bebca9bccde4f8f8fcffa9bfcda3a3fbfbfba2eaefeda2e3feeba2f9e7a3a3e2e3e8e9a3bdbcb4bcb8ba" class="about-link" title="Share via email"><span class="sr-only">Share via email</span></a>
+      <li class="social-rhn-links__item social-rhn-links__item--linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;title=Consumer%20Duty%20implementation%20plans%20&amp;summary=&amp;source=FCA"><span class="sr-only">Publish this post to LinkedIn</span></a></li>
+      <li class="social-rhn-links__item social-rhn-links__item--twitter"><a href="http://twitter.com/share?url=https%3A//www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans&amp;text=Consumer%20Duty%20implementation%20plans%20&amp;summary=&amp;source=FCA"><span class="sr-only">Share this on Twitter</span></a></li>
+    </ul>
+  </div>
+  <div class="social-rhn-links__text">
+    <div><strong>Quick tip</strong></div>
+    Highlight content for instant share
+  </div>
+    <div class="chapters-nav js-chapters-nav">
+        <h3 accesskey="n" tabindex="0" class="rhn__header--title">Chapters</h3><span class="sr-only">Use the access key N at any time to return to this navigation</span><ul class="nav nav-no-sub"><li class="first"><a href="#lf-chapter-id-why-we-conducted-this-review" id="lf-1" data="lf-1">1. Why we conducted this review</a></li>
+<li><a href="#lf-chapter-id-who-this-applies-to" id="lf-2" data="lf-2">2. Who this applies to</a></li>
+<li class="nav"><a href="#lf-chapter-id-what-we-did" id="lf-3" data="lf-3">3. What we did</a><ul class="nav"><li class="first"><a href="#lf-chapter-id-what-we-did-the-firms-in-our-review" id="lf-3-1" data="lf-3-1">3.1. The firms in our review</a></li>
+<li class="last"><a href="#lf-chapter-id-what-we-did-what-we-sought-to-establish" id="lf-3-2" data="lf-3-2">3.2. What we sought to establish</a></li>
+</ul></li>
+<li class="nav"><a href="#lf-chapter-id-what-we-found" id="lf-4" data="lf-4">4. What we found</a><ul class="nav"><li class="first last"><a href="#lf-chapter-id-what-we-found-summary-of-findings-and-implications-for-firms" id="lf-4-1" data="lf-4-1">4.1. Summary of findings and implications for firms</a></li>
+</ul></li>
+<li><a href="#lf-chapter-id-next-steps" id="lf-5" data="lf-5">5. Next steps</a></li>
+<li class="nav last"><a href="#lf-chapter-id-key-findings" id="lf-6" data="lf-6">6. Key findings</a><ul class="nav"><li class="first"><a href="#lf-chapter-id-key-findings-governance-and-oversight" id="lf-6-1" data="lf-6-1">6.1. Governance and oversight</a></li>
+<li><a href="#lf-chapter-id-key-findings-culture-and-people" id="lf-6-2" data="lf-6-2">6.2. Culture and people</a></li>
+<li><a href="#lf-chapter-id-key-findings-deliverability" id="lf-6-3" data="lf-6-3">6.3. Deliverability</a></li>
+<li><a href="#lf-chapter-id-key-findings-third-parties" id="lf-6-4" data="lf-6-4">6.4. Third parties</a></li>
+<li><a href="#lf-chapter-id-key-findings-the-four-outcomes" id="lf-6-5" data="lf-6-5">6.5. The four outcomes</a></li>
+<li class="last"><a href="#lf-chapter-id-key-findings-data-strategies" id="lf-6-6" data="lf-6-6">6.6. Data strategies</a></li>
+</ul></li>
+</ul>
+      </div>
+  </div>
+
+              </div>
+    </div>
+
+    <article data-history-node-id="108046" class="lf-bg-003c71 node node-publication-longform col-sm-12 clearfix four-step-limit col-xs-12 col-md-8 col-md-pull-4 js-has-sidebar--sticky" about="/publications/multi-firm-reviews/consumer-duty-implementation-plans">
+      <div class="node-content__wrapper node-content__wrapper--border">
+        <div class="hidden-xs">
+          										
+
+<section class="copy-highlighted copy-block component fca-colour--6c1d45 default">
+  <div class="container">
+          						<p>The Consumer Duty will set higher and clearer standards of consumer protection across financial services and require firms to act to deliver good outcomes for customers. We set out here the findings from our review of firms’ plans to embed the Duty within their businesses. </p>
+
+			
+      </div>
+</section>
+
+						
+        </div>
+        <div class="chapters">
+          										<section class="component chapter"  id="lf-chapter-id-why-we-conducted-this-review">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">1. Why we conducted this review</h2></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>In July 2022, we set out the <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="03937ef4-ecec-47f0-8b7f-75b9e48579ce" href="/publication/policy/ps22-9.pdf" title="PS22/9">final rules</a> and <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">guidance</a> for a new Consumer Duty. The Consumer Duty is a cornerstone of our three-year strategy and a key element of our work to set and test higher standards. </p>
+<p>The rules and guidance we are introducing come into force on a phased basis: </p>
+<ul><li>for new and existing products or services that are open to sale or renewal the rules come into force on <strong>31 July 2023</strong>   </li>
+<li>for closed products or services, the rules come into force on <strong>31 July 2024 </strong></li>
+</ul><p>In our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="03937ef4-ecec-47f0-8b7f-75b9e48579ce" href="/publication/policy/ps22-9.pdf" title="PS22/9">Policy Statement</a>, we said we want firms to make full use of the implementation period to embed the Duty effectively. We also said we would support firms’ work by feeding back useful insights on what we see in the market. We set out our expectation that by the end of October 2022, firms’ boards (or equivalent management body) should have agreed their plans for implementing the Duty and be able to evidence they have scrutinised and challenged their plans to ensure they are deliverable and robust enough to meet the new standards. </p>
+<p>We have reviewed the implementation plans of larger ‘fixed’ firms, which have a dedicated supervision team at the FCA, where we believe they are substantially in scope of the Duty. We did this to better understand firms’ approach to embedding the Duty within their businesses. As well as engaging with individual firms directly, we are publishing findings from this review to help all firms understand our expectations and implement the Duty more effectively.  </p>
+
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter"  id="lf-chapter-id-who-this-applies-to">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">2. Who this applies to</h2></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>The findings from this review are likely to interest: </p>
+<ul><li>regulated firms preparing for the Consumer Duty to come into force  </li>
+<li>industry groups/trade bodies  </li>
+<li>industry experts and commentators </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter"  id="lf-chapter-id-what-we-did">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">3. What we did</h2></div>
+  </div>
+										<section class="component chapter sub-chapter"  id="lf-chapter-id-what-we-did-the-firms-in-our-review">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">3.1. The firms in our review</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>After the end of October 2022 milestone, we requested the Consumer Duty implementation plans from larger fixed firms with a dedicated FCA supervision team, who primarily operate in retail financial services markets. These are the firms with the greatest potential impact on consumers and markets. </p>
+<p>Whilst our findings are primarily drawn from our reading of these plans, in some cases our views are supplemented by what we have learned from discussing the plans with firms or by asking questions during the course of our regular supervisory engagement. </p>
+
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-what-we-did-what-we-sought-to-establish">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">3.2. What we sought to establish</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>We reviewed these implementation plans to better understand firms’ approach to embedding the Duty within their businesses. We considered a range of different factors, including: </p>
+<ul><li>Firms’ approach to governance and arrangements for ongoing oversight of their implementation work. </li>
+<li>The deliverability of firms’ plans, and their ability to meet the implementation deadline. </li>
+<li>Assessing firms’ understanding of, and engagement with, third party providers where firms are dependent on third parties to implement their plans.  </li>
+<li>How far plans address the substantive requirements of the Duty as set out in our final rules and guidance. This includes the four outcome areas involving products and services, price and value, consumer understanding and consumer support. </li>
+<li>Firms’ data strategies to ensure they will be able to identify, monitor, evidence and stand behind the outcomes their customers experience. </li>
+<li>Firms’ culture and people strategies to ensure their business will be focused on delivering good outcomes for consumers and that all staff understand their responsibilities under the Duty. </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter"  id="lf-chapter-id-what-we-found">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">4. What we found</h2></div>
+  </div>
+										<section class="component chapter sub-chapter"  id="lf-chapter-id-what-we-found-summary-of-findings-and-implications-for-firms">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">4.1. Summary of findings and implications for firms</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>We welcome all firms’ efforts to respond to the Consumer Duty and make the changes needed to meet the new standards within the implementation period. This review adds to our understanding of the progress that the industry is making as a whole. </p>
+<p>Many of the plans we reviewed showed that firms have understood and embraced the shift to focus on consumer outcomes, established extensive programmes of work to embed the Duty, and are engaging with the substantive requirements, including the four outcome areas. We are convinced this will bring benefits for both consumers and firms. </p>
+<p>However, we did also identify plans that suggested some firms may be further behind in their thinking and planning for the Duty. This brings a risk that they may not be ready in time, or they may struggle to embed the Duty effectively throughout their business. </p>
+<p>We know that the plans we reviewed can only give us a snapshot of firms’ planning at one point of time. Many firms will have work in place that was not reflected in these high-level plans or will have progressed their work further since then. However, this review gives us an important overview of progress in large firms, and a benchmark for our ongoing engagement with those firms as we work to ensure they embed the Duty effectively. </p>
+<p>Through our review we have identified many examples of good practice, and also examples where firms may need to improve their implementation approach. We think all firms will find these examples useful, as they will help them better understand our expectations and recalibrate and improve their embedding work where necessary.   </p>
+<p>Our review has highlighted three key areas where firms should particularly focus their attention during the second half of the implementation period (to 31 July 2023): </p>
+<ul><li><strong>Effective prioritisation:</strong> We saw some plans where it was not clear what the basis was for prioritising some implementation work ahead of other aspects. Firms should make sure they are prioritising appropriately, focusing on reducing the risk of poor consumer outcomes and assessing where they are likely to be furthest away from the requirements of the Duty.   </li>
+<li><strong>Embedding the substantive requirements:</strong> We recognise plans were likely to be high level given the early stage at which we reviewed them. Nevertheless, we saw some plans that suggested firms may have considered the requirements superficially or are over-confident that their existing policies and processes will be adequate. We urge firms to carefully consider the substantive requirements of the Duty, as set out in our final rules and guidance. Firms should ensure that, when they are reviewing their products and services, communications and customer journeys, they identify and make the changes needed to meet the new standards. </li>
+<li><strong>Working with other firms:</strong> To implement the Duty on time, many firms need to work and share information with other firms in the distribution chain. However, we found some plans which gave little focus to this area. This suggests some firms may need to accelerate their work on this important aspect of implementation. </li>
+</ul><p>As they oversee the implementation of the Duty, firms’ boards and management bodies will want to particularly focus and provide challenge in the three areas above, as well as the wider points in the ‘key findings’ section below.  </p>
+
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter"  id="lf-chapter-id-next-steps">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">5. Next steps</h2></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>As set out above, firms should consider the findings from our review, and develop their implementation plans and approach in line with good practice where appropriate.   </p>
+<p>We will continue our work to support firms’ embedding activities in the run-up to the July 2023 implementation deadline for new and existing products and services: </p>
+<ul><li>We will continue to engage with fixed firms where we have questions about their plans or approach, and to monitor the progress they are making in embedding the Duty. We will also be working with and supporting board champions at some larger firms. </li>
+<li>We will soon be sending a survey to a sample of firms to help us understand the progress they are making in implementing the Duty and will carry out targeted engagement with smaller firms. </li>
+<li>We will shortly be issuing letters to firms, highlighting our key expectations on implementing the Duty and some of the key risks and consumer harms we are concerned about in their sectors.  </li>
+<li>Our programme of communications on the Duty will continue, for example, with further updates to our dedicated <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e5bb7759-5280-47dd-9a7d-b841fc98f00d" href="/firms/consumer-duty" title="Consumer Duty">webpages</a> and a series of <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2078ff9f-5d2b-4548-93a6-3c10b9444155" href="/firms/consumer-duty-events" title="Consumer Duty events">regional in-person events</a> for specific groups of small and medium-sized firms. </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter"  id="lf-chapter-id-key-findings">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h2 data-ar-header="h2">6. Key findings</h2></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>We set out further detail on our findings below. Where we reference good practice on this page, these are positive examples we have found from our review work. Under the heading ‘areas for improvement’, we cite practices and examples we identified in our review where firms may need to develop their approach further to ensure they meet expectations under the Duty when it comes into force. Our supervisors are also providing feedback to individual firms, where appropriate. </p>
+
+			
+  </div>
+</section>
+
+																<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-governance-and-oversight">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.1. Governance and oversight</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>Under the Duty, we will be holding firms – including their senior managers and boards – accountable for delivering good outcomes for consumers. We want to see senior leaders in firms driving the changes needed to meet the Duty standard.  </p>
+<p>We have set an expectation that firms appoint a Consumer Duty champion at board or equivalent level. This is not a ‘prescribed responsibility’ under the Senior Managers &amp; Certification Regime (SM&amp;CR). Instead, this champion role is to support the Chair and CEO in raising the Duty in all relevant discussions and to challenge the firm’s management on how it is embedding the Duty and focusing on consumer outcomes. Our rules also make clear that we expect customer outcomes to be a key focus for important areas, such as risk and internal audit functions. </p>
+<p>Chapter 10 of our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">Finalised Guidance</a> gives more information on our expectations in this area. </p>
+<h3>Good practice </h3>
+<ul><li>Many firms have developed robust governance frameworks for their implementation work, with clear executive accountability for delivery and board oversight. </li>
+<li>We identified evidence that plans had been scrutinised and challenged by firms’ boards, executives and their audit and risk functions. For example, through questioning resource requirements and interaction with other ongoing project work. In one example, a firm is delivering one-to-one deep dive sessions with board members on plan deliverables.  </li>
+<li>Most firms have appointed a Consumer Duty board champion at an appropriate level to ensure that the Duty is discussed in a meaningful way. We identified an example where a firm with a large group structure has appointed two champions to reflect the diversity of its different regulated entities. </li>
+<li>Many plans detailed clear arrangements for ongoing scrutiny of their firm’s implementation work by the board, executive and their audit and risk functions. For example, by making the Duty a standing agenda item at key governance forums and through plans for independent reviews of implementation work by risk and compliance or internal audit functions. </li>
+<li>We also saw evidence of firms involving risk and compliance and internal audit teams in a timely way. This included: 
+<ul><li>frank assessments by these teams of current risks to successful and timely delivery </li>
+<li>assurance of the effectiveness of controls in place over Duty implementation </li>
+<li>planned assurance work before the deadline on implementation, with immediate and further assurance work planned after the deadline </li>
+</ul></li>
+<li>Some firms have established central coordinating forums to drive consistency in interpreting the Duty across different business functions, or for coordinating required changes to systems and technology across workstreams.        </li>
+</ul><h3>Areas for improvement </h3>
+<ul><li>We identified plans that gave little detail on who is leading the overall implementation programme and is responsible for it, or who is leading the various workstreams within the programme. </li>
+<li>In some cases, there was more limited evidence that firms’ boards and committees had properly scrutinised and challenged plans. In one example, there was no evidence of engagement with the firm’s Chair or other non-executive directors, and the board only asked one question before approving the plan. In another example, board minutes showed that the plan was approved without discussion. </li>
+<li>Some plans gave no timings, even tentatively, for when progress updates on the implementation programme would be provided to key governance bodies, including the board. </li>
+<li>Some firms have been slow to appoint a Consumer Duty board champion. In one example, a champion was proposed who did not appear sufficiently senior to provide confidence they would be able to effectively challenge the firm’s approach to implementing the Duty. </li>
+<li>A small number of firms did not propose an individual champion or champions but suggested that the role be shared across the entire board or executive. While we have not been prescriptive on the champion role, as we want firms to implement this in a way that is effective for their business, this is not what we intended and our view is this will not be an effective approach given the extent it is likely to dilute the role. </li>
+<li>Some firms did not include a summary opinion from risk and compliance or internal audit teams on their implementation plan and its risks or chances of meeting the deadline. </li>
+<li>Some plans suggested firms need to further develop their approach on how they will engage with the board and executive post-implementation to provide ongoing assurance that they are meeting expectations under the Duty.  </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-culture-and-people">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.2. Culture and people</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>The higher standards of the Duty and the shift to focusing on consumer outcomes will require a significant change in many firms’ culture. </p>
+<p>Firms should ensure that the interests of their customers are central to their culture and purpose and that this is embedded throughout the organisation. This means strategies, leadership and people policies (including incentives at all levels) lead to good outcomes for customers. Individual accountability and high standards of personal conduct in firms will ensure that firms are meeting their obligations under the Duty. </p>
+<p>Chapter 10 of our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">Finalised Guidance</a> gives more information on our expectations in this area. </p>
+<h3>Good practice </h3>
+<ul><li>Some plans set out a clear people and training approach to ensure all staff understand their responsibilities under the Duty. Different approaches were proposed to engage staff, including all-staff and role-tailored training, internal communications campaigns and awareness-raising through company town hall meetings. One firm noted that it had delivered interactive training on the Duty to its board.   </li>
+<li>One firm set out plans to explain its purpose and values in a way aligned with delivering good consumer outcomes, updating internal cultural and training materials to reflect this as appropriate. Another firm detailed how it will embed the Duty in its strategy, governance structure and decision making. </li>
+<li>Some plans confirmed firms will review reward and incentive structures and performance management frameworks at all levels to ensure they reflect the Duty. One firm noted it plans to incorporate the Duty within the design of its staff performance scorecard. Others explained that their SMCR regime will be updated to include the Duty, with senior leaders expected to lead the cultural change needed. </li>
+</ul><h3>Areas for improvement </h3>
+<ul><li>Other plans were lacking in detail in this area, with limited information about how the Duty will be embedded in firms’ culture and people approach.  </li>
+<li>In some cases, plans recognised the importance of a culture focused on delivering good customer outcomes but provided little explanation of tangible action the firm needs to take to ensure this is the case. These plans gave no evidence of any consideration of how far their firm’s current purpose, culture and values do, or do not, align with the Duty, or how improvements in those would be made.   </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-deliverability">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.3. Deliverability</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>Embedding the Duty is a complex task. We recognised this in extending and phasing the implementation period. So, it is essential that firms continue to develop and monitor robust implementation plans to make the changes needed to meet our expectations when the Duty comes into force. </p>
+<p>We expect firms to have carried out analysis for all relevant areas of their business to scope the work required, set out clear workstreams and milestones with appropriate resource and documented key risks, mitigation strategies and dependences.   </p>
+<h3>Good practice </h3>
+<ul><li>Most firms have effectively set out key workstreams, with some clearly mapping the milestones they need to meet to have a realistic prospect of meeting the implementation deadline. In one example, a firm had allocated specific workstreams based on the structure of the Duty and its requirements as set out in our final rules and guidance. Each workstream included a clear breakdown of deliverables, milestones, and target completion dates with a framework for tracking progress. </li>
+<li>It was typical to see firms break down their implementation programmes into workstreams aimed directly at the Duty’s four outcomes and closely related considerations like vulnerability. Other workstreams were aimed at key ‘enablers’ such as policies and standards, consumer journeys and processes, data and monitoring, and cultural embedding and training. </li>
+<li>Some plans gave a clear account of how the implementation programme and its workstreams range across, and are being taken forward in, different parts of the business, or entities within the firm or group structure.     </li>
+<li>Some firms have clearly committed resource that matches the scale of uplift and challenges presented by implementing the Duty. We noted examples where firms have identified early, and in detail, any resource shortfalls for timely implementation – especially in areas like technology – and have a commitment and plan to address this. Some firms are investing sensibly in support and advice from external experts where this assists and adds value.   </li>
+<li>Some firms had considered how their Consumer Duty implementation work aligns with other ongoing change initiatives or strategic programmes. They considered alignment and differences, as well as highlighting any dependencies and bottlenecks of timing or resource. </li>
+<li>Many firms had set out key delivery risks. The most effective examples of this provided an adequate explanation of the risk, proposed mitigation strategies, assigned owners and confirmed plans to track these in relevant governance forums and committees. </li>
+<li>Some firms set out a sensible approach to prioritise or triage implementation work. This approach was based on an initial assessment of where they believe they have most work to do to meet the Duty standard and there is greatest potential for poor consumer outcomes. For example, we saw plans that recognised where certain parts of the business may be starting from further back in their journey towards implementing the Duty. Others identified and ranked in a reasoned and consistent way the products or services, customer journeys and communications which present higher risk of harm under the Duty. They then prioritised these for detailed review or gap analysis against the Duty outcomes. </li>
+<li>We found evidence of firms seeking to pragmatically meet the challenge of timely implementation by taking more agile or flexible approaches. For example, by progressing workstreams in parallel rather than sequentially, or by pressing ahead with partial fixes on a ‘no regrets’ basis, where potential improvements have been identified, even if the whole picture is still unclear. Some firms have a clear view of what may require tactical fixes by the deadline and what may need fuller strategic solutions subsequently. </li>
+</ul><h3>Areas for improvement </h3>
+<ul><li>Some firms’ implementation work appears to be less progressed than others with gap analyses at an earlier stage and project requirements yet to be fully scoped. We identified examples where timelines seemed unclear, or sequencing confused. Some did not give any indication of the number or proportion of products, services, communications and customer journeys covered by their work plan, or of their respective assessment of risks or priorities. </li>
+<li>Some firms’ approach to prioritising implementation work seemed less clearly based on an assessment of the potential for poor consumer outcomes. In one example, a firm said it intended to focus on ‘signature actions’ but it was unclear what these were or how they were decided. Another plan noted that the firm would only be able to address material findings by the deadline but gave no account of what it would regard or define as material in that context. </li>
+<li>In some cases, risks and internal and external dependencies were not clearly set out, with apparently little thought given to mitigation strategies. Some firms may need to give further consideration to their resource planning, as they provided limited information in this area. In one example, a firm noted resource is stretched but did not provide clear ways of managing this. In another example, most implementation work appeared to be allocated to staff on top of their existing roles with limited dedicated resource. Other plans noted a shortfall in budget or technology resource but without setting out plans for addressing this.  </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-third-parties">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.4. Third parties</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>The Duty applies to all firms with a key role in delivering retail customer outcomes, including those with no direct customer relationship. It will be essential for firms to work together across distribution chains to deliver good outcomes for the end retail customer. </p>
+<p>Firms should therefore be considering where and how they work with third parties to deliver products and services to customers, and make sure these arrangements will meet expectations under the Duty. This includes other firms in the distribution chain and where firms outsource the delivery of services to other parties. In particular, manufacturers and distributors will need to work together and share information. To help ensure this happens, we have set a milestone for the end of April 2023 for manufacturers to complete all reviews necessary to meet the four outcome rules and share information with distributors to allow them to meet their obligations.  </p>
+<p>Chapter 2 of our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">Finalised Guidance</a> explains how the Duty applies across the distribution chain. Chapter 6 gives examples of the type of information we would expect to be shared between firms, where appropriate. </p>
+<h3>Good practice </h3>
+<ul><li>Some firms appeared to have a good understanding of implementation dependencies with third party providers and had allocated time in their plan for this work. We identified one example where a firm had set a cross-outcome objective to work with partners in a transparent way to ensure cooperation and that Duty requirements are met. Other examples included: 
+<ul><li>a firm working with a key supplier on a framework for engagement on the Duty </li>
+<li>detail of a firm’s extensive engagement with a critical supplier to shape its plan </li>
+<li>face-to-face workshops arranged by one firm with its third party agents to design their approach </li>
+<li>a firm that included a workstream to assess relevant contracts and plans so they could embed change requirements into renegotiations at the earliest opportunity </li>
+</ul></li>
+</ul><h3>Areas for improvement </h3>
+<ul><li>Other firms’ work appeared less developed in this area. Some recognised that they do work with third parties – and that they would need to consider this – but did not specifically identify key third party relationships or the nature of any dependency. In some cases, it was also unclear what, if any, engagement had taken place or was planned with relevant third parties. Some firms showed limited consideration in their plan timetable of the need to engage and, where appropriate, exchange information with third parties in a timely way.   <br />
+	 </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-the-four-outcomes">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.5. The four outcomes</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>We expect the Consumer Duty to improve outcomes for consumers in all areas of business between firms and customers. The Duty’s four outcomes cover the key elements of the firm-consumer relationship. </p>
+<p>The Duty means consumers should get communications they can understand, products and services that meet their needs and offer fair value, and they get the customer support they need, when they need it. </p>
+<p>Firms should carefully consider the substantive requirements set out in our final rules and guidance (including Chapters 4 to 9 of our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">Finalised Guidance</a>), identify where they fall short, and make the changes necessary to their products, communications, systems and processes to meet the Duty standard.  </p>
+<h3>Good practice </h3>
+<p>Some plans were clearer than others that firms had engaged with the substantive requirements of the Duty and considered what these mean for their businesses and the changes they will likely need to make. The most effective plans in this area attempted to define good customer outcomes in the context of their business and considered how to deliver these through improvements to their products and services, communications and the support they provide. Firms set out plans to build on and uplift existing frameworks around product governance, product value assessments and the clarity of communications as appropriate. For example: </p>
+<h4>Products &amp; Services  </h4>
+<ul><li>Some firms had clearly identified the number of open and closed products that they hold and carried out an initial exercise to prioritise for review those with greatest risk of causing consumer harm. For example, one firm identified several specific products in its range that present a risk of poor outcomes to a certain group of customers and has prioritised these, with a clear path for making the required improvements. </li>
+<li>Some firms had identified where they will need to build on existing product governance and assessment frameworks to meet the new requirements under the Duty. For example, one firm acknowledged that it needs to collect greater granularity of information to ensure the design and management of its products and services is aligned to the needs, objectives and characteristics of customers in the target market. Another firm explained it is developing a product level management dashboard with metrics to monitor the performance of its products.  </li>
+</ul><h4>Price &amp; Value  </h4>
+<ul><li>It was clear that some firms are considering what fair value means in the context of their business models, products, services and customers. For example, one firm noted that a full value chain analysis is in progress, and it has identified areas where value can be improved. A different firm explained it is giving particular focus to making sure there are no hidden or unexpected costs for customers.   </li>
+<li>Several firms explained they are considering how their current approach needs to change to deliver good outcomes for consumers. For example, one firm noted it has a fair value framework, but this needs to evolve to better consider non-price factors and ensure there is a reasonable relationship between costs and benefits to meet Duty requirements. Another firm noted that it has new pricing models under development. Similarly, one firm recognised that its product pricing structure may need to change to address an issue it has identified in relation to high fees. </li>
+<li>We identified plans where clearer consideration is being given to whether products and services offer fair value to different groups of customers, including those with characteristics of vulnerability or with protected characteristics. </li>
+</ul><h4>Consumer Understanding  </h4>
+<ul><li>Some plans showed firms are carefully considering how to give customers the information they need, at the right time, and presented in a way they can understand to make effective decisions. In one example, a firm explained that it is developing new communication standards, including consideration of reading age, comprehensibility, visual accessibility and layout. Some plans specified actions firms are taking, including ensuring product terms and conditions are explained in simple language and available in other languages, and websites clearly set out cancellation rights and how to make a complaint.  </li>
+<li>It was clearer in some plans that firms are considering their different communications channels. For example, one firm noted it is making improvements to its call centre scripts to better support customers with the information it provides. Another firm noted its intention to review the consistency of information provided to customers by its distributors. </li>
+<li>Some firms noted they are developing greater communications testing capability to support good customer outcomes. For example, one firm set out plans to carry out testing of communications pre-release, post-release and on existing content. Another firm explained it has developed a range of options for suitable testing depending on different risk factors. Similarly, one firm recognised that differences in the complexity of products means that a more tailored approach could be appropriate in some areas.   </li>
+<li>A number of plans detailed metrics firms will use to measure consumer understanding. For example, one firm noted it will incorporate marketing data and customer behaviour into its ongoing monitoring activity. Other firms cited different metrics they plan to capture going forward, including the percentage of customer facing content being tested and the percentage of customers who take the expected action after communication. </li>
+</ul><h4>Consumer Support </h4>
+<ul><li>Some plans more clearly set out the customer outcomes they want their support processes to deliver, with firms making commitments including to ensure call waiting times are not unreasonably long and the quality of support provided is monitored.   </li>
+<li>Some firms identified specific customer journeys that need to be improved to better support customers in vulnerable circumstances, including new mechanisms for customers to notify the firm of any additional needs or vulnerability. For example, one firm explained it is giving particular focus to bereavement, fraud and complaints processes. </li>
+<li>It was clear that some firms are considering their support channel approach. For example, one firm set out plans to provide information to customers via their channel of choice and in ways that better support good decision-making. Another firm noted it is planning new and expanded support channels for its customers. </li>
+<li>Some firms explained they are considering steps in their support processes and whether these help or hinder the delivery of good customer outcomes. For example, one firm explained that work has started to review customer journeys and improvements have already been made impacting several of its product lines. The firm has prioritised remaining journeys using a risk-based approach, with further improvements planned where any barriers to good customer outcomes are identified. </li>
+<li>Several firms cited different metrics they will collect to monitor they are delivering the support their customers need, including call waiting times, resolution times, first contact resolution rates, call transfer accuracy metrics and quality and complaints themes.         </li>
+</ul><h3>Areas for improvement </h3>
+<ul><li>Given the high-level nature of many plans at time of review, there was more limited evidence in some plans of how firms have engaged with the substantive requirements of the Duty. For example, plans included high-level actions such as ‘review customer-focused policies and procedures to ensure they capture and reference the requirements of the Duty’ and ‘assess whether existing products deliver fair value’. This type of task-based description gave no indication of how firms have interpreted the Duty’s requirements and considered the challenges of how they will apply them to their businesses, or the consumer outcomes they are aiming to deliver. </li>
+<li>Other plans seemed rather complacent about past improvements, initiatives or current frameworks, and their adequacy for meeting the Duty or for putting the firm in a good position to do so. </li>
+<li>In several cases, it was unclear exactly what methodology or approach the firm will use in its reviews or gap analyses of products, services, communications and customer journeys against the Duty outcomes. Similarly, it was unclear how some firms will amend and uplift existing assessment frameworks to meet the Duty standard. If firms are behind in their thinking about how exactly to conduct these reviews and gap exercises effectively, they risk being behind in their planning of how long such exercises will likely take.  <br />
+	 </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+												<section class="component chapter sub-chapter"  id="lf-chapter-id-key-findings-data-strategies">
+  <div class="container">
+    <div class="">
+        <div class="field-item"><h3 data-ar-header="h3">6.6. Data strategies</h3></div>
+  </div>
+										
+
+
+<section class="copy-block default">
+  <div class="container">
+        						<p>A key part of the Duty is that firms assess, test, understand and evidence the outcomes their customers are receiving. Without this, it will be impossible for firms to know that they are meeting the requirements set out in the Consumer Duty. </p>
+<p>The type of information firms will use will vary depending on factors like size, client base and the types of products and services they offer. </p>
+<p> Firms will need to use their judgement to identify data sources as evidence against the outcomes of the Duty. Chapter 11 of our <a data-entity-substitution="canonical" data-entity-type="media" data-entity-uuid="cebd40a1-e5fa-4921-a4c5-eac7970ab491" href="/publication/finalised-guidance/fg22-5.pdf" title="FG22/5">Finalised Guidance</a> gives examples of the types of data firms could collect. </p>
+<h3>Good practice </h3>
+<ul><li>Firms that had considered the consumer outcomes they are aiming to deliver also tended to have considered the data they need to measure and monitor the delivery of these outcomes. </li>
+<li>Some firms had clearly carried out exploratory work to understand the data and metrics available across their businesses and set out plans to bring these together, as well as any remaining gaps in their Consumer Duty data requirements. </li>
+<li>Some firms set out longer-term strategic aims to advance the functionality of their systems and data collection, but also shorter-term solutions to evidence and monitor that Duty requirements are being met and customers are receiving good outcomes. </li>
+</ul><h3>Areas for improvement</h3>
+<ul><li>Not all plans clearly explained the data required to monitor compliance with the Duty. Some plans offered more limited detail of firms’ in-depth consideration of their data requirements under the Duty and how they will source, package, monitor, govern, and act upon these.  </li>
+<li>In some cases, firms’ data strategies seemed to be largely based on repackaging existing data, with limited consideration of gaps or the outcomes it is intended to monitor. If firms assume they can ‘get by’ largely with repackaging or supplementing existing data, then they risk not thinking deeply or afresh about the types and granularity of data that they will actually need to monitor and evidence outcomes under the Duty effectively. </li>
+<li>In some plans there appeared to be more limited consideration of how firms will monitor outcomes for different groups of customers, including those in vulnerable circumstances. </li>
+</ul>
+			
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+						
+  </div>
+</section>
+
+						
+        </div>
+                          <div id="revisions" class="page-revisions container">
+                      </div>
+                          
+          <div class="page-feedback container">
+                          
+<form class="webform-submission-form webform-submission-add-form webform-submission-page-feedback-form-form webform-submission-page-feedback-form-add-form webform-submission-page-feedback-form-node-108046-form webform-submission-page-feedback-form-node-108046-add-form js-webform-details-toggle webform-details-toggle webform-client-form webform-client-form- feedback-form fca-custom-form webform-conditional-processed" data-drupal-selector="webform-submission-page-feedback-form-node-108046-add-form" novalidate="novalidate" action="/publications/multi-firm-reviews/consumer-duty-implementation-plans#webform-submission-page-feedback-form-node-108046-add-form" method="post" id="webform-submission-page-feedback-form-node-108046-add-form" accept-charset="UTF-8">
+  
+  <div id="edit-processed-text" class="form-item js-form-item form-type-processed-text js-form-type-processed-text form-item- js-form-item- form-no-label form-group">
+  
+  
+  <h3>Was this page helpful?</h3>
+
+
+  
+  
+  </div>
+<fieldset data-drupal-selector="edit-radios" class="radios--wrapper fieldgroup form-composite webform-composite-hidden-title js-webform-type-radios webform-type-radios js-form-item form-item js-form-wrapper form-wrapper" id="edit-radios--wrapper">
+      <legend id="edit-radios--wrapper-legend">
+    <span class="visually-hidden fieldset-legend">radios</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-radios" class="js-webform-radios webform-options-display-side-by-side"><div class="form-item js-form-item form-type-radio js-form-type-radio form-item-radios js-form-item-radios radio">
+  
+  
+  
+
+      <label for="edit-radios-yes" class="control-label option"><input data-drupal-selector="edit-radios-yes" class="form-radio" type="radio" id="edit-radios-yes" name="radios" value="Yes" /><span class="fca-custom-label">Yes </span></label>
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-radio js-form-type-radio form-item-radios js-form-item-radios radio">
+  
+  
+  
+
+      <label for="edit-radios-no" class="control-label option"><input data-drupal-selector="edit-radios-no" class="form-radio" type="radio" id="edit-radios-no" name="radios" value="No" /><span class="fca-custom-label">No </span></label>
+  
+  
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-webform-states-hidden form-item js-form-item form-type-textarea js-form-type-textarea form-item-what-can-we-do-to-improve-pages-like-this- js-form-item-what-can-we-do-to-improve-pages-like-this- form-group">
+      <label for="edit-what-can-we-do-to-improve-pages-like-this-" class="control-label">What can we do to improve pages like this?	</label>
+  
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-what-can-we-do-to-improve-pages-like-this-" class="form-textarea form-control resize-vertical" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-page-feedback-form-node-108046-add-form :input[name=\u0022radios\u0022]&quot;:{&quot;value&quot;:&quot;No&quot;}}}" id="edit-what-can-we-do-to-improve-pages-like-this-" name="what_can_we_do_to_improve_pages_like_this_" rows="5" cols="60"></textarea>
+</div>
+
+
+  
+  
+  </div>
+<div class="js-webform-states-hidden form-item js-form-item form-type-textarea js-form-type-textarea form-item-what-did-you-find-helpful- js-form-item-what-did-you-find-helpful- form-group">
+      <label for="edit-what-did-you-find-helpful-" class="control-label">What did you find helpful?</label>
+  
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-what-did-you-find-helpful-" class="form-textarea form-control resize-vertical" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-page-feedback-form-node-108046-add-form :input[name=\u0022radios\u0022]&quot;:{&quot;value&quot;:&quot;Yes&quot;}}}" id="edit-what-did-you-find-helpful-" name="what_did_you_find_helpful_" rows="5" cols="60"></textarea>
+</div>
+
+
+  
+  
+  </div>
+<input data-drupal-selector="edit-page-title" type="hidden" name="page_title" value="Consumer Duty implementation plans " /><input data-drupal-selector="edit-page-url" type="hidden" name="page_url" value="https://www.fca.org.uk/publications/multi-firm-reviews/consumer-duty-implementation-plans	" /><div class="js-webform-states-hidden form-actions webform-actions clearfix fca-form-submit form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" data-drupal-states="{&quot;visible&quot;:{&quot;.webform-submission-page-feedback-form-node-108046-add-form :input[name=\u0022radios\u0022]&quot;:{&quot;checked&quot;:true}}}" id="edit-actions"><button class="webform-button--submit button button--primary js-form-submit form-submit btn-primary btn" data-drupal-selector="edit-actions-submit" type="submit" id="edit-actions-submit" name="op" value="Submit Feedback">Submit Feedback</button>
+</div>
+<input autocomplete="off" data-drupal-selector="form-7ng0c-f7hzplhsjeojfia3h-g2-1n39xnpm8yd4nnqu" type="hidden" name="form_build_id" value="form-7Ng0C-F7hzPlhSJEOJfia3H-g2_1n39xNPm8yd4NnqU" /><input data-drupal-selector="edit-webform-submission-page-feedback-form-node-108046-add-form" type="hidden" name="form_id" value="webform_submission_page_feedback_form_node_108046_add_form" /><div class="url_hp-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url-hp js-form-item-url-hp form-group">
+      <label for="edit-url-hp" class="control-label">Leave this field blank</label>
+  
+  
+  <input autocomplete="off" data-drupal-selector="edit-url-hp" class="form-text form-control" type="text" id="edit-url-hp" name="url_hp" value="" size="20" maxlength="128" />
+
+  
+  
+  </div>
+</div>
+
+
+  
+</form>
+                      </div>
+                        
+      </div>
+    </article>
+  </div>
+</div>
+
+<div class="page-archive container">
+  </div>
+
+  </div>
+</div>
+
+
+
+
+
+
+
+  </div>
+
+    </section>
+
+          </div>
+
+      <footer class="footer">
+      <div class="footer-main">
+        <div class="container">
+          <div class="row">
+              <div class="region region-footer">
+    
+
+
+  <section  id="block-menu-menu-onsite-links" class="block block-menu clearfix footer-main__column footer-main__column--no-title">
+  
+  
+  <ul class="menu nav">
+        <li class="leaf">
+      <a href="/accessibility">Accessibility</a>
+    </li>
+        <li class="leaf">
+      <a href="/about/how-we-operate/complain-about-regulators">Complain about us</a>
+    </li>
+        <li class="leaf">
+      <a href="/legal">Copyright notice</a>
+    </li>
+        <li class="leaf">
+      <a href="/about/how-we-operate/corporate-responsibility">Corporate responsibility</a>
+    </li>
+        <li class="leaf">
+      <a href="/about/cymraeg">Cymraeg</a>
+    </li>
+        <li class="leaf">
+      <a href="/freedom-information">Freedom of information</a>
+    </li>
+        <li class="leaf">
+      <a href="/about/how-we-operate/corporate-responsibility#section-modern-slavery-and-human-trafficking-statement">Modern Slavery and Human Trafficking Statement</a>
+    </li>
+        <li class="leaf">
+      <a href="/privacy">Privacy</a>
+    </li>
+        <li class="leaf">
+      <a href="/sitemap">Sitemap</a>
+    </li>
+        <li class="leaf">
+      <a href="/translated-pages">Translated languages</a>
+    </li>
+      </ul>
+</section>
+
+
+
+
+  <section  id="block-menu-menu-social" class="block block-menu contextual-links-region clearfix footer-main__column footer-main__column--social">
+  
+      <h3 class="block block-menu contextual-links-region footer-main__menu-title">Social</h3>
+    
+  <ul class="menu nav">
+          <li class="leaf social-footer-links__item social-footer-links__item--linkedin">
+                  <a href="https://www.linkedin.com/company/financial-conduct-authority" aria-label="LinkedIn" title ="Publish this post to LinkedIn" class="linkedin" target="_blank" rel="noopener noreferrer">
+            <span class="visually-hidden">LinkedIn</span>
+            <span class="social-footer-links__item__icon"></span>
+          </a>
+              </li>
+          <li class="leaf social-footer-links__item social-footer-links__item--rss feed">
+                  <a href="/news/rss.xml" aria-label="RSS Feed" title ="Subscribe to our RSS feed" class="rss feed" target="_blank" rel="noopener noreferrer">
+            <span class="visually-hidden">RSS Feed</span>
+            <span class="social-footer-links__item__icon"></span>
+          </a>
+              </li>
+          <li class="leaf social-footer-links__item social-footer-links__item--twitter">
+                  <a href="https://twitter.com/thefca" aria-label="Twitter" title ="Share this on Twitter" class="twitter" target="_blank" rel="noopener noreferrer">
+            <span class="visually-hidden">Twitter</span>
+            <span class="social-footer-links__item__icon"></span>
+          </a>
+              </li>
+      </ul>
+
+</section>
+
+
+
+
+  <section  id="block-menu-menu-systems" class="block block-menu clearfix footer-main__column">
+
+      <h3 id="footerSystemsList" class="block block-menu footer-main__menu-title">
+      <a class="overlay-link collapsed" role="button" data-toggle="collapse" href="#footerSystems" aria-expanded="false" aria-controls="footerSystems">Registers and Systems</a>
+      <span class="hidden-md hidden-lg footer-section-collapse" aria-hidden="true"></span>
+    </h3>
+    <div id="footerSystems" class="collapse" aria-hidden="true">
+    <ul class="menu nav">
+            <li class="leaf">
+        <a href="/firms/connect">Connect</a>
+      </li>
+            <li class="leaf">
+        <a href="/about/how-we-regulate/handbook">FCA Handbook</a>
+      </li>
+            <li class="leaf">
+        <a href="/firms/financial-services-register">Financial Services Register</a>
+      </li>
+            <li class="leaf">
+        <a href="/firms/regdata">RegData</a>
+      </li>
+          </ul>
+  </div>
+
+</section>
+
+
+
+
+  <section  id="block-menu-menu-careers" class="block block-menu clearfix footer-main__column">
+      <h3 id="carrersList" class="block block-menu footer-main__menu-title">
+    <a class="overlay-link collapsed" role="button" data-toggle="collapse" href="#footerCareers" aria-expanded="false" aria-controls="footerCareers">Careers</a>
+    <span class="hidden-md hidden-lg footer-section-collapse" aria-hidden="true"></span>
+    </h3>
+    <div id="footerCareers" class="collapse" aria-hidden="true">
+    <ul class="menu nav">
+              <li class="leaf">
+          <a href="/careers">Careers home</a>
+        </li>
+              <li class="leaf">
+          <a href="/careers/early-careers">Early careers</a>
+        </li>
+              <li class="leaf">
+          <a href="/careers/experienced-professionals">Experienced professionals</a>
+        </li>
+          </ul>
+  </div>
+</section>
+
+
+
+<section  id="block-block-1" class="block block-block clearfix footer-main__column">
+      <h3 id="contactInfo" class="block block-block footer-main__menu-title">
+      <a class="overlay-link collapsed" role="button" data-toggle="collapse" href="#footerContact" aria-expanded="false" aria-controls="footerContact">Contact</a>
+      <span class="hidden-md hidden-lg footer-section-collapse" aria-hidden="true"></span>
+    </h3>
+    <div id="footerContact" class="footer-main__content-wrapper collapse" aria-hidden="true">
+    						<p>FCA Head Office</p>
+<p>12 Endeavour Square</p>
+<p>London E20 1JN</p>
+<p><a class="btn btn-primary" href="/contact">Contact us</a></p>
+
+			
+  </div>
+</section>
+
+  </div>
+
+          </div>
+          <div class="footer__plain-text-logo">
+            <a href="https://www.clearest.co.uk/gold-standard" title="Clear English Gold Standard Award Logo" class="" target="_blank">
+              <span class="visually-hidden">Plain Language Commission Gold Award</span>
+              <img class="plain-text-logo__img" src="/themes/custom/fca/images/PLC_CES_GOLD.png" alt="Clear English Gold Standard Award Logo" width="62" height="79">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-8 col-sm-4 footer-bottom__column">
+              <p class="footer-bottom__copyright">Copyright © 2024 FCA. All rights reserved.</p>
+            </div>
+            <div class="col-xs-4 col-sm-4 footer-bottom__column">
+              <div class="footer-bottom__back-to-top">
+                <a href="#">
+                  <span class="glyphicon glyphicon-menu-up" aria-hidden="true"></span>
+                  <p>Back to top</p>
+                </a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 footer-bottom__column">
+              <p class="footer-bottom__company-number">Company no. 01920623</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+  </div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/108046","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"multiselect":{"widths":250},"selection_sharer":{"jquery_selectors":[".node-publication-longform div",".node-publication-longform h1",".node-publication-longform h2",".node-publication-longform h3",".node-publication-longform h4",".node-publication-longform h5",".node-publication-longform h6",".node-publication-longform p"]},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"(fca\\.org\\.uk)|(fsa\\.gov\\.uk)|(fcatest\\.org\\.uk)","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":true,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022banner\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv class=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EWe use cookies to improve your online experience. Some cookies are necessary to make the site work. We\u2019d like to set additional cookies to understand how the website is used. These are optional. All cookie data is anonymised. View \u003Ca data-entity-substitution=\u0022canonical\u0022 data-entity-type=\u0022node\u0022 data-entity-uuid=\u0022e112e960-2a79-48ce-9cd3-8537356a784a\u0022 href=\u0022\/privacy\/our-use-cookies\u0022 title=\u0022Our use of cookies\u0022\u003Ecookies\u003C\/a\u003E.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n        \u003Cul id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories list-inline list-unstyled hidden\u0022\u003E\n                  \u003Cli       class=\u0022eu-cookie-compliance-category\u0022\u003E\n      \u003Cdiv\u003E\n        \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional\u0022\n               value=\u0022functional\u0022 \u003E\n        \u003Clabel for=\u0022cookie-category-functional\u0022\u003EFunctional\u003C\/label\u003E\n      \u003C\/div\u003E\n\n            \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies are necessary for the operation of the FCA.org.uk web site\u003C\/div\u003E\n            \u003C\/li\u003E\n                  \u003Cli       class=\u0022eu-cookie-compliance-category\u0022\u003E\n      \u003Cdiv\u003E\n        \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-tracking_ad\u0022\n               value=\u0022tracking_ad\u0022 \u003E\n        \u003Clabel for=\u0022cookie-category-tracking_ad\u0022\u003ENon-functional\u003C\/label\u003E\n      \u003C\/div\u003E\n\n            \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EAccept analytics and campaign advertising cookies\u003C\/div\u003E\n            \u003C\/li\u003E\n                \u003C\/ul\u003E\n      \u003Cdiv class=\u0022eu-cookie-compliance-category-fca-custom\u0022\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022btn agree\u0022\u003EAccept additional cookies\u003C\/button\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022btn dont-agree\u0022\u003EReject additional cookies\u003C\/button\u003E\n      \u003C\/div\u003E\n      \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022banner\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv class=\u0022popup-text\u0022\u003E\n      \n    \u003C\/div\u003E\n        \u003Cul id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories list-inline list-unstyled hidden\u0022\u003E\n                  \u003Cli       class=\u0022eu-cookie-compliance-category\u0022\u003E\n      \u003Cdiv\u003E\n        \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional\u0022\n               value=\u0022functional\u0022 \u003E\n        \u003Clabel for=\u0022cookie-category-functional\u0022\u003EFunctional\u003C\/label\u003E\n      \u003C\/div\u003E\n\n            \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies are necessary for the operation of the FCA.org.uk web site\u003C\/div\u003E\n            \u003C\/li\u003E\n                  \u003Cli       class=\u0022eu-cookie-compliance-category\u0022\u003E\n      \u003Cdiv\u003E\n        \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-tracking_ad\u0022\n               value=\u0022tracking_ad\u0022 \u003E\n        \u003Clabel for=\u0022cookie-category-tracking_ad\u0022\u003ENon-functional\u003C\/label\u003E\n      \u003C\/div\u003E\n\n            \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EAccept analytics and campaign advertising cookies\u003C\/div\u003E\n            \u003C\/li\u003E\n                \u003C\/ul\u003E\n      \u003Cdiv class=\u0022eu-cookie-compliance-category-fca-custom\u0022\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022btn agree\u0022\u003EAccept additional cookies\u003C\/button\u003E\n        \u003Cbutton type=\u0022button\u0022 class=\u0022btn dont-agree\u0022\u003EReject additional cookies\u003C\/button\u003E\n      \u003C\/div\u003E\n      \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":0,"popup_link":"\/privacy","popup_link_new_window":true,"popup_position":true,"fixed_top_position":true,"popup_language":"en","store_consent":true,"better_support_for_screen_readers":false,"cookie_name":"fca-cookie-agreed","reload_page":false,"domain":"","domain_all_sites":true,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["functional","tracking_ad"],"cookie_categories_details":{"functional":{"uuid":"fb668dca-4dd1-4440-a59b-c9d1e9fadac3","langcode":"en","status":true,"dependencies":[],"_core":{"default_config_hash":"D36tcirS9rFdab-vbBsKvs8J4M5hJ92XFL2hzdzE49I"},"id":"functional","label":"Functional","description":"These cookies are necessary for the operation of the FCA.org.uk web site","checkbox_default_state":"required","weight":-9},"tracking_ad":{"uuid":"5465d273-1c80-4a6e-aad2-dbba16b67955","langcode":"en","status":true,"dependencies":[],"_core":{"default_config_hash":"PgmYhbjZvqPNFf00v-fm0sr1Osx9rNtzn--g1g1ILtI"},"id":"tracking_ad","label":"Non-functional","description":"Accept analytics and campaign advertising cookies","checkbox_default_state":"unchecked","weight":-8}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"simpleautologout":{"popup":1500000},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM#webform-submission-page-feedback-form-node-108046-add-form":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"scope":"footer","weight":"1000","fcaFunnelback":{"funnelbackCollection":"fca-push-prod","profiles":{"header":"_default"}},"disable_all_popups":1,"global_popup":{"popup_global_enabled":1,"popup_global_title":"Global popup banner test","popup_global_text":"\u003Cp\u003Etest content\u0026nbsp;test content\u0026nbsp;test content\u0026nbsp;test content\u0026nbsp;test content\u0026nbsp;test content\u0026nbsp;test content.\u003C\/p\u003E\r\n","popup_config_button":"Continue"},"lf_arrow_position":"hide","lf_url":"https:\/\/www.fca.org.uk\/publications\/multi-firm-reviews\/consumer-duty-implementation-plans","sticky_sidebar":true,"user":{"uid":0,"permissionsHash":"05882c199361ff9481c4de3fd741b9e8a001d1b77175f88d98bac74364eda963"}}</script>
+<script src="/sites/default/files/js/js_-7tQT1hhqmBvO6gExcZwdMkNKizuAZ5JPjOufpbtyvs.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=fca&amp;include=eJyVUluS3CAMvBA2R6IEljFljCgkNpnbBxiPd5J4K5sPG9Ho0TTtdlyCUDEhLZjERnK7fotVphj1UmqGOPd4iiHtrBgjOgmUDG9QsOgLmAawKH6w4KEtMCpHBc8manWgfSQLcWJ5tG5e4U_pXV9jzu2zipJDhdU4oj1gW44cAzRQ34FmwRVqlGdtSIIltY61Xahwx5QlEpYC-TXtAt6OMmX6wPLOe17QUu1kfqBdqRz6XOf--wtsahxNw1YlECLPDB-_yTBDSvft_qwU8j5il82cKayPdibg-cviA5nBjyqdW2BWxMWC280t2y4gcZCv2VDub8sqQwHfJNr4MsWFNJlztTHw1p6_T-6cHUWqhcfeUX6YLfgttk-eSWaUOBheipT8GP8KZpbg9sd3El_--0YuMKM8Kd0ljg5rTQljl0x_hhNUoeE2FLyu-HluGKG4zVxdmpHqsFPNk21P3jz1b3r5fLkbz9-i_5NrvAxmmskFiL8A32mRFw" type="171119c5897e6ff409aae191-text/javascript"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.1.6" defer type="171119c5897e6ff409aae191-text/javascript"></script>
+<script src="/sites/default/files/js/js_Ii8KiEAN1h_DH2fE612Bze5yVJSGh8DIZ-WUKEGmXuw.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=fca&amp;include=eJyVUluS3CAMvBA2R6IEljFljCgkNpnbBxiPd5J4K5sPG9Ho0TTtdlyCUDEhLZjERnK7fotVphj1UmqGOPd4iiHtrBgjOgmUDG9QsOgLmAawKH6w4KEtMCpHBc8manWgfSQLcWJ5tG5e4U_pXV9jzu2zipJDhdU4oj1gW44cAzRQ34FmwRVqlGdtSIIltY61Xahwx5QlEpYC-TXtAt6OMmX6wPLOe17QUu1kfqBdqRz6XOf--wtsahxNw1YlECLPDB-_yTBDSvft_qwU8j5il82cKayPdibg-cviA5nBjyqdW2BWxMWC280t2y4gcZCv2VDub8sqQwHfJNr4MsWFNJlztTHw1p6_T-6cHUWqhcfeUX6YLfgttk-eSWaUOBheipT8GP8KZpbg9sd3El_--0YuMKM8Kd0ljg5rTQljl0x_hhNUoeE2FLyu-HluGKG4zVxdmpHqsFPNk21P3jz1b3r5fLkbz9-i_5NrvAxmmskFiL8A32mRFw" type="171119c5897e6ff409aae191-text/javascript"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js" type="171119c5897e6ff409aae191-text/javascript"></script>
+<script src="/sites/default/files/js/js_HQaGYuAVU01ATz3st0cqiNSuTvfNr4AEAapGzWJYL5Y.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=fca&amp;include=eJyVUluS3CAMvBA2R6IEljFljCgkNpnbBxiPd5J4K5sPG9Ho0TTtdlyCUDEhLZjERnK7fotVphj1UmqGOPd4iiHtrBgjOgmUDG9QsOgLmAawKH6w4KEtMCpHBc8manWgfSQLcWJ5tG5e4U_pXV9jzu2zipJDhdU4oj1gW44cAzRQ34FmwRVqlGdtSIIltY61Xahwx5QlEpYC-TXtAt6OMmX6wPLOe17QUu1kfqBdqRz6XOf--wtsahxNw1YlECLPDB-_yTBDSvft_qwU8j5il82cKayPdibg-cviA5nBjyqdW2BWxMWC280t2y4gcZCv2VDub8sqQwHfJNr4MsWFNJlztTHw1p6_T-6cHUWqhcfeUX6YLfgttk-eSWaUOBheipT8GP8KZpbg9sd3El_--0YuMKM8Kd0ljg5rTQljl0x_hhNUoeE2FLyu-HluGKG4zVxdmpHqsFPNk21P3jz1b3r5fLkbz9-i_5NrvAxmmskFiL8A32mRFw" type="171119c5897e6ff409aae191-text/javascript"></script>
+
+<script type="171119c5897e6ff409aae191-text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1bdb6f7fb8","applicationID":"1114563801","transactionName":"M11RYUQDWUVTVEcPDAoXclZCC1hYHXNBExMFVG9bWQZSanFYXRIRC1RfUEQ+eVlWUmUPBhN7XFtCEFhaXlJBS10SUVZC","queueTime":13,"applicationTime":1844,"atts":"HxpGFwwZShoQVhFcGBlF","errorBeacon":"bam.nr-data.net","agent":""}</script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="171119c5897e6ff409aae191-|49" defer></script></body>
+</html>

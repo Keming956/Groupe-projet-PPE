@@ -1,0 +1,170 @@
+    4. Transport
+    5. Road transport: Reducing CO₂ emissions from vehicles
+    6. Reducing CO₂ emissions from heavy-duty vehicles
+
+Reducing CO₂ emissions from heavy-duty vehicles
+
+   Page contents
+--
+
+   In 2023, the Commission proposed a revision of the Regulation on CO[2]
+   emission standards for heavy-duty vehicles. If adopted, the proposal
+   would introduce new, stronger CO[2] emission standards for heavy-duty
+   vehicles from 2030 onwards, and extend the scope of the Regulation to
+   cover smaller trucks, city buses, long-distance buses and trailers.
+--
+
+   The new targets build on those adopted in 2019, which were the
+   first-ever EU-wide CO[2] emission standards for heavy-duty vehicles.
+
+   To enter into force, the Commission’s proposal now needs to be adopted
+--
+   the EU and create new jobs
+
+Regulation on CO₂ emission standards for heavy-duty vehicles
+
+   Until the revision is adopted, the Regulation on CO2 emission standards
+   for heavy-duty vehicles applies. This Regulation entered into force on
+   14 August 2019.
+
+--
+
+   As a first step, the CO[2] emission standards cover large lorries,
+   which account for over 73% of all CO[2] emissions from heavy-duty
+   vehicles.
+
+--
+
+   As a result, the average specific CO[2] emissions of a manufacturer are
+   adjusted downwards if the share of ZLEV in its entire new heavy-duty
+   vehicles fleet exceeds the 2% benchmark, out of which at least 0.75
+   percentage points have to be vehicles subject to the CO[2] targets,
+--
+       gCO[2]/tkm in 2025 and 6,800 euro per gCO[2]/tkm in 2030.
+
+Monitoring and reporting of CO₂ emissions from heavy-duty vehicles
+
+   The following measures enable the implementation of the emission
+--
+   onwards): :
+     * Member States monitor and report to the Commission information on
+       the heavy-duty vehicles registered for the first time in the Union;
+     * Lorry manufacturers monitor and report to the Commission CO[2]
+       emission and fuel consumption data as determined pursuant to the
+--
+   VECTO is a simulation software that can be used cost-efficiently and
+   reliably to measure the CO[2] emissions and fuel consumption of
+   heavy-duty vehicles for specific loads, fuels and mission profiles
+   (e.g. long haul, regional delivery, urban delivery, etc.), based on
+   input data from relevant vehicle components.
+--
+   Click on the + signs for more information.
+
+(BUTTON) CO₂ emission targets for new heavy-duty vehicles
+
+     * CO[2] emission standards for heavy-duty vehicles – a slideshow
+     * 25/07/2019 - Regulation (EU) 2019/1242 - setting CO[2] emission
+       performance standards for new heavy-duty vehicles
+     * 03/07/2018 - COM/2018/284 - Proposal for a regulation setting CO[2]
+       emission performance standards for new heavy-duty vehicles (main
+       text + annexes)
+     * 17/05/2018 - SWD/2018/185 - Impact assessment (main text + annexes)
+          + SWD/2018/186 - Executive summary of the impact assessment
+     * 17/05/2018 - Q&A on proposal for CO[2] emission standards for heavy
+       duty vehicles
+     * 17/05/2018 - Europe on the Move III: Europe on the Move: Commission
+       completes its agenda for safe, clean and connected mobility
+--
+     * 17/05/2018 - All documents on Europe on the Move III
+
+(BUTTON) Monitoring and reporting of CO₂ emissions from new heavy-duty
+vehicles
+
+     * 05/08/2022 - Regulation 2022/1362 – Energy efficiency determination
+       of heavy-duty trailers
+     * 28/06/2018 - Regulation 2018/956 - Monitoring and reporting of
+       CO[2]emissions from and fuel consumption of new heavy-duty vehicles
+     * 12/12/2017 - Regulation 2017/2400 - Determination of the CO[2]
+       emissions and fuel consumption of heavy-duty vehicles
+     * 31/05/2017 - COM/2017/0279 - Proposal on the monitoring and
+       reporting of CO[2] emissions from and fuel consumption of new
+       heavy-duty vehicles
+     * 13/03/2019 - Commission Delegated Regulation (EU) 2018/956 -
+       amending Annex I to Regulation (EU) 2018/956 as regards the data on
+       new heavy-duty vehicles to be monitored and reported by Member
+       States and by manufacturers
+     * Guidance documents and reporting formats
+
+(BUTTON) Commission strategy for reducing CO₂ emissions from heavy-duty
+vehicles
+
+     * 21/05/2014 - COM (2014) 285 - Communication: Strategy for reducing
+       Heavy-Duty Vehicles' fuel consumption and CO[2] emissions
+     * 21/05/2014 - SWD (2014) 160 - Impact Assessment accompanying the
+       document Strategy for Reducing Heavy-Duty Vehicles Fuel Consumption
+       and CO[2] Emissions
+          + SWD (2014) 159 - Executive summary
+--
+       strategy to curb CO[2] emissions from trucks, buses and coaches
+     * 21/05/2014 - MEMO/2014/366 - Questions and Answers on the
+       Commission strategy for reducing Heavy-Duty Vehicles' (HDVs) fuel
+       consumption and CO[2] emissions
+
+--
+
+     * 26/07/2023 - Final report - Support for aerodynamic modelling of
+       heavy-duty trailers
+     * 26/07/2023 - Validation report of the computational fluid dynamics
+       simulation method according to Annex V of Regulation (EU) 2022/1362
+--
+       CO[2] emissions determination procedure
+     * 10/2019 - Preparation for collection and monitoring of real-world
+       fuel consumption data for light-duty and heavy-duty vehicles
+     * 09/2018 - Support for preparation of the impact assessment for
+       CO[2]emissions standards for Heavy Duty Vehicles
+     * 08/2017 - Analysis of fuel economy and GHG emission reduction
+       measures from Heavy Duty Vehicles in other countries and of options
+       for the EU
+     * 12/2017 - LOT 4 report: "VECTO tool development: Completion of
+       methodology to simulate Heavy Duty Vehicles' fuel consumption and
+       CO[2] emissions. Upgrades to the existing version of VECTO and
+       completion of certification methodology to be incorporated into a
+       Commission legislative proposal"
+     * 12/2017 - Final report: "Feasibility assessment regarding the
+       development of VECTO for hybrid heavy-duty vehicles"
+     * 03/2016 - Monitoring heavy-duty vehicles’ CO[2] emissions and their
+       costs: An assessment
+     * 27/03/2015 - Light weighting as a means of improving Heavy Duty
+       Vehicles’ energy efficiency and overall CO[2] emissions
+     * 26/01/2015 - Final report: Cost-benefit analysis of options for
+       certification, validation, monitoring and reporting of heavy-duty
+       vehicle fuel consumption and CO[2] emissions
+     * 08/01/2015 - Data gathering and analysis to improve understanding
+--
+       vehicles
+     * 08/09/2014 - Cost-benefit analysis of options for certification,
+       validation, monitoring and reporting of heavy-duty vehicle fuel
+       consumption and CO[2] emissions (Interim report)
+     * 15/05/2014 - Development and validation of a methodology for
+       monitoring and certification of greenhouse gas emissions from heavy
+       duty vehicles through vehicle simulation
+          + Draft certification methodology
+          + Technical annex
+--
+       methodology for HDV - Proof of concept report
+     * 29/07/2013 - Tyre Pressure Monitoring Systems (TPMS) as a means to
+       reduce Light- Commercial and Heavy-Duty Vehicles fuel consumption
+       and CO[2] emissions
+     * 18/09/2012 - Final report on HDV CO[2] emission abatement cost
+       curves
+     * 09/01/2012 - Reduction and Testing of Greenhouse Gas Emissions from
+       Heavy-Duty Vehicles - Lot 2: Development and testing of a
+       certification procedure for CO[2] emissions and fuel consumption of
+       HDV
+     * 23/12/2011 - European Union Greenhouse Gas Reduction Potential for
+       Heavy-Duty Vehicles
+     * 22/02/2011 - Reduction and Testing of Greenhouse Gas Emissions from
+       Heavy-Duty Vehicles – Lot 1: Strategy
+     * 03/2008 - Reducing Greenhouse Gas Emissions from Heavy-Duty
+       Vehicles
+

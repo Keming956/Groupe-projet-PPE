@@ -1,0 +1,53 @@
+.header{
+    height: 10%;
+    top :0;
+    width: 100%;
+    background-color: rgb(109, 107, 107);
+    border-bottom: solid black 1px;
+    display: flex;
+    align-items: center;
+    position : fixed;
+    justify-content: center;
+    z-index: 999;
+    }
+
+.onglets {
+    margin-top: 2%;
+    display: flex;
+    align-items: center; /* Centre les onglets horizontalement */
+  }
+
+.onglets a{
+    text-decoration: none;
+    font-size: 180%;
+    color : white;
+    margin: 0 20px;
+}
+
+.onglets a:hover {
+  color: #dcb20e;
+  text-decoration: underline;
+}
+
+.onglets i:hover {
+  transform: scale(1.1); /* Agrandit l'icône au survol */
+  transition: transform 0.3s; 
+}
+
+
+
+
+
+
+
+
+
+
+
+#cahier {
+  position: absolute;
+  top: 25%;
+  left: 30%;
+  z-index:3
+
+}

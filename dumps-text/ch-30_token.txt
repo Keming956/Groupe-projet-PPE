@@ -1,0 +1,2228 @@
+Google Cloud
+
+•
+
+概览
+close
+
+• 加快 数字化 转型 的 速度
+• 在 数字化 转型 之 旅 中 ， 无论 您 的 企业 是 处于 早期 阶段 还是 已 初见成效 ， Google Cloud
+都 可以 帮助 解决 最 棘手 的 难题 。
+•
+了 解详 情
+
+• 主要 优势
+•
+为什 么 选择 Google Cloud
+企业 选择 我们 的 首要 原因 。
+•
+AI 和 机器 学习
+获取 企业 级 AI 。
+•
+多 云端
+在 您 需要 的 任何 位置 运行 您 的 应用 。
+•
+全球 基础 架构
+在 Google 自用 的 基础 架构 上 构建 应用 。
+
+•
+数据云
+根据 统一 数据 做出 更 明智 的 决策 。
+•
+开放 的 云
+利用 开放 、 灵活 的 技术 扩展 规模 。
+•
+信任 与 安全
+确保 数据 的 安全性 和 合规性 。
+•
+工作 效率 与 协作
+将 团队 与 基于 AI 的 应用 联系 起 来 。
+
+• 报告 和 数据洞 见
+•
+高管 数据洞 见
+高管 观点 精选 。
+•
+分析 机构 报告
+阅读 并 了 解 行业 分析师 对 我们 的 看法 。
+•
+白皮书
+浏览 并 下载 热门 白皮书 。
+•
+客户 案例
+浏览 案例 研究 和 视频 。
+
+解决 方案
+close
+
+•
+[ forward ]
+行业 解决 方案
+降低 费用 、 提高 运营 敏捷性 并 抓住 新 的 市场 机遇 。
+
+•
+[ retail ]
+零售
+面向 零售业 价 值链 的 分析 工具 和 协作 工具 。
+
+•
+[ cpg ]
+快速 消费品
+适用 于 快速 消费品 数字 转型 与 品牌 成长 的 解决 方案 。
+
+•
+[ finance ]
+金融 服务
+面向 金融 服务业 的 计算 、 数据 管理 和 分析 工具 。
+
+•
+[ hcls ]
+医疗 保健 和 生命 科学
+推进 大规模 的 研究 并 推动 医疗 保健 创新 。
+
+•
+[ media ]
+媒体 和 娱乐
+用于 内容 制作 和 分发 运营 的 各种 解决 方案 。
+
+•
+[ telecomm un ]
+电信
+用于 部署 5 G 并 通过 5 G 创收 的 各种 混合云 和 多 云端 服务 。
+
+•
+[ gaming ]
+游戏
+帮助 您 更 快 地 构建 游戏 并 为 其 扩容 的 各种 AI 驱动型 解决 方案 。
+
+•
+[ manufactur ]
+制造
+可 优化 制造业 价 值链 的 各种 迁移 工具 和 AI 工具 。
+
+•
+[ supply - cha ]
+供应链 与 物流
+跨 供应链 和 物流 运营 实现 可 持续 、 高效 且 有 弹性 的 以 数据 为 依据 的 操作 。
+
+•
+[ government ]
+政府
+面向 政府 机构 的 数据 存储 、 AI 和 分析 解决 方案 。
+
+•
+[ icon - sprit ]
+教育
+可 提供 更 具 吸引力 的 学习 体验 的 各种 教学 工具 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 行业 解决 方案
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 解决 方案
+
+•
+[ forward ]
+应用 现代化 改造
+评估 、 规划 、 实施 和 衡量 软件 做法 与 功能 ， 以 对 贵 组织 的 业务 应用 组合 进行 现代化 改
+造 和 简化 。
+
+•
+CAMP
+使用 DORA 改进 软件 交付 功能 的 计划 。
+
+•
+对 传统 应用 进行 现代化 改造
+对 传统 工作 负载 进行 分析 和 分类 ， 并 开始 进行 云 迁移 。
+
+•
+从 PaaS 迁移 ： Cloud Foundry 或 Opens hift
+可 帮助 您 将 现有 容器 迁移 到 Google 的 代管式 容器 服务 的 工具 。
+
+•
+从 大型 主机 迁移
+可 帮助 您 将 大型 主机 应用 迁移 到 云端 的 自动化 工具 和 规范性 指南 。
+
+•
+对 软件 交付 进行 现代化 改造
+软件 供应链 最佳 实践 - 内部 循环 效率 、 CI / CD 和 S 3 C 。
+
+•
+DevOps 最佳 实践
+可 帮助 您 在 组织 中 实施 DevOps 的 各种 流程 和 资源 。
+
+•
+SRE 原 则
+可 帮助 您 在 组织 中 采用 SRE 的 工具 和 资源 。
+
+•
+GKE 的 投产 后 运维
+可 帮助 您 高效 地 管理 和 监控 GKE 的 工具 和 指南 。
+
+•
+FinOps 和 GKE 优化
+在 GKE 上 运行 可靠 、 高性能 且 经济 实惠 的 应用 的 最佳 实践 。
+
+•
+在 边缘 运行 应用
+可 帮助 您 使用 Google 不 依赖 于 硬件 的 边缘 解决 方案 来 部署 本地化 且 低 延迟 的 应用 的
+指南 。
+
+•
+设计 适合 多云 环境 的 架构
+使用 一致 的 平台 跨 多 个 云 管理 工作 负载 。
+
+•
+无 服务 器化
+用于 开发 、 部署 和 扩缩 应用 的 全 代管式 环境 。
+
+•
+[ forward ]
+人工智能
+借助 AI 和 机器 学习 技术 ， 让 您 的 企业 更加 智能 高效 。
+
+•
+Cont act Center AI
+可 与 客户 交流 并 协助 人工 客服 人员 的 AI 模型 。
+
+•
+Document AI
+大规模 自动 处理 文档 并 捕获 数据 。
+
+•
+产品 发现
+面向 零售商 的 Google 品质 的 搜索 和 产品 推荐 功能 。
+
+•
+[ forward ]
+API 和 应用
+使用 API 、 应用 和 自动化 功能 ， 加速 创新 而 无 需 编写 代码 。
+
+•
+使用 API 开拓 新 的 业务 渠道
+吸引 开发者 与 合作 伙伴 形成 生态 系统 ， 并 为 他们 提供 支持 。
+
+•
+使用 API 发掘 旧式 应用 的 潜力
+用于 对 旧式 应用 进行 扩展 和 现代化 改造 的 各种 云 服务 。
+
+•
+Open Banking API x
+更 简单 、 更 快速 地 安全 交付 符合 Open Banking 要求 的 API 。
+
+•
+[ forward ]
+数据库
+借助 具备 安全性 、 可靠性 和 高 可用性 的 全 代管式 数据 服务 ， 迁移 和 管理 企业 数据 。
+
+•
+数据库 迁移
+有助于 简化 数据库 迁移 生命 周期 的 各种 指南 和 工具 。
+
+•
+数据库 现代化 改造
+可 对 您 的 运营 数据库 基础 架构 进行 现代化 改造 的 各种 升级 服务 。
+
+•
+游戏 数据库
+利用 Google Cloud 数据库 构建 全球 实时 游戏 。
+
+•
+Google Cloud 数据库
+用于 对 数据 进行 迁移 、 管理 和 现代化 改造 的 各种 数据库 服务 。
+
+•
+将 Oracle 工作 负载 迁移 到 Google Cloud
+重新 托管 您 的 Oracle 工作 负载 ， 为 其 更换 平台 或者 重 写 代码 。
+
+•
+开源 数据库
+附带 企业级 支持 服务 的 全代 管式 开源 数据库 。
+
+•
+SQL Server on Google Cloud
+用于 在 Google Cloud 上 运行 SQL Server 虚拟机 的 各种 方案 。
+
+•
+[ forward ]
+数据云
+借助 开放 、 简化 的 数据 驱动型 转换 方法 整合 整个 组织 中 的 数据 ， 该 方法 在 内建 了 AI
+的 情况 下 在 速度 、 规模 和 安全性 方面 拥有 较 强 的 优势 。
+
+•
+数据库 解决 方案
+借助 具备 安全性 、 可靠性 和 高 可用性 的 全 代管式 数据 服务 ， 迁移 和 管理 企业 数据 。
+
+•
+智能 分析 解决 方案
+借助 可 大幅 简化 分析 过程 的 全代管式 无 服务器 分析 平台 ， 即时 从 任何 规模 的 数据 中 发
+掘 分析 洞见 。
+
+•
+AI 解决 方案
+借助 AI 和 机器 学习 技术 ， 让 您 的 企业 更加 智能 高效 。
+
+•
+面向 独立 软件 供应商 ( ISV ) 的 数据 云
+使用 Google 的 数据 和 机器 学习 解决 方案 （ 如 BigQuery 、 Looker 、 Spanner 和
+Vertex AI ） 进行 创新 、 优化 和 扩大 SaaS 应用 。
+
+•
+数据云 联盟
+一 项 旨在 确保 全球 企业 可以 无缝 访问 并 深入 了 解 数字化 转型 所 需 的 数据 的 计划 。
+
+• 数字化 转型
+• 借助 支持 混合云 和 多 云端 环境 、 可 生成 智能 数据 洞见 并 让 员工 保持 联络 的 解决 方案 ，
+加快 业务 恢复 速度 并 迎 来 更 美好 的 未 来 。
+
+•
+数字化 创新
+重新 构想 运营 方式 并 发掘 新 机遇 。
+
+•
+运营 效率
+确定 各项 投资 的 优先 级 并 优化 费用 。
+
+•
+新型 冠状 病毒 肺炎 ( COVID - 19 ) 解决 方案
+更 安全 地 完成 工作 。
+
+•
+面向 医疗 保健 行业 的 新型 冠状 病毒 肺炎 ( COVID - 19 ) 解决 方案
+Google 如何 帮助 医疗 保健 机构 应 对 非同寻常 的 挑战 。
+
+•
+[ forward ]
+基础 架构 现代化 改造
+借助 适用 于 SAP 、 VMware 、 Windows 、 Oracle 和 其他 工作 负载 的 解决 方案 ， 快速 完成
+迁移 工作 。
+
+•
+应用 迁移
+可 帮助 您 迁移 到 云端 的 各种 发现 和 分析 工具 。
+
+•
+SAP on Google Cloud
+有助于 您 运行 SAP 应用 和 SAP HANA 的 各种 认证 。
+
+•
+高性能 计算
+可 支持 任何 工作 负载 的 各种 计算 、 存储 和 网络 方案 。
+
+•
+Windows on Google Cloud
+可 协助 您 运行 Windows 工作 负载 的 工具 和 合作 伙伴 。
+
+•
+数据 中心 迁移
+适用 于 虚拟机 、 应用 和 数据库 等 的 迁移 解决 方案 。
+
+•
+Active Assis t
+提供 自动 云端 资源 优化 功能 和 更 高 的 安全性 。
+
+•
+虚拟 桌面
+适用 于 桌面 和 应用 （ VDI 和 DaaS ） 的 远程 工作 解决 方案 。
+
+•
+快速 迁移 计划 ( RaMP )
+用于 简化云 迁移 路径 的 端 到 端 迁移 计划 。
+
+•
+备份 和 灾难 恢复
+确保 满足 您 的 业务 连 续性 需求 。
+
+•
+[ forward ]
+工作 效率 与 协作
+借助 直观 易用 且 极 具 成效 的 解决 方案 ， 改变 团队 的 工作 方式 。
+
+•
+Google Workspace
+面向 企业 的 协作 和 办公 工具 。
+
+•
+Google Workspace 基本 功能 版
+为 团队 提供 安全 的 视频 会议 功能 和 现代化 协作 功能 。
+
+•
+Cloud Identity
+IT 管理员 用于 管理 用户 设备 和 应用 的 统一 平台 。
+
+•
+Chrome 企业 版
+专 为 企业 打造 的 ChromeOS 、 Chrome 浏览器 和 Chrome 设备 。
+
+•
+Cloud Search
+可 帮助 员工 快速 找到 公司 信息 的 企业 搜索 服务 。
+
+•
+[ forward ]
+安全
+检测 、 调查 和 应对 在线 威胁 ， 帮助 保护 您 的 企业 。
+
+•
+安全 分析 与 运营
+用于 分析 PB 级 安全 遥测 数据 的 解决 方案 。
+
+•
+Web 应用 和 API 保护
+适用 于 Web 应用 和 API 的 威胁 和 欺诈 防护 。
+
+•
+安全 和 弹性 框架
+适用 于 安全 和 弹性 生命 周期 各个 阶段 的 解决 方案 。
+
+•
+风险 和 合规 即 代码 ( RCaC )
+通过 自动化 对 治理 、 风险 与 合规性 功能 进行 现代化 改造 的 解决 方案 。
+
+•
+软件 供应链 安全
+用于 提高 端 到 端 软件 供应链 安全性 的 解决 方案 。
+
+•
+Security Foundation
+可 帮助 您 实现 可靠 安全 状况 的 推荐 产品 。
+
+•
+[ forward ]
+智能 分析
+借助 可 大幅 简化 分析 过程 的 全代管式 无 服务器 分析 平台 ， 即时 从 任何 规模 的 数据 中 发
+掘 分析 洞见 。
+
+•
+数据 仓库 现代化 改造
+可 帮助 您 快速 启动 迁移 过程 并 发掘 数据 洞见 的 数据 仓库 服务 。
+
+•
+数据湖 现代化 改造
+用于 数据湖 构建 和 现代化 改造 的 各种 服务 。
+
+•
+Google Cloud 上 的 Spark
+在 您 需要 的 位置 编写 和 运行 Spark 作业 ， 无 服务器 并 与 Google 产品 集成 。
+
+•
+数据流 分析
+通过 提取 、 处理 和 分析 事件 流 发掘 数据 洞见 。
+
+•
+商业 智能
+用于 对 B I 栈 进行 现代化 改造 和 打造 丰富 数据 体验 的 解决 方案 。
+
+•
+数据 科学
+在 Google Cloud 上 借助 数据 科学 产品 充分 利用 您 的 数据 。
+
+•
+营销 分析
+用于 收集 、 分析 和 利用 客户 数据 的 各种 解决 方案 。
+
+•
+地理 空间 分析 和 AI
+用于 打造 更 繁荣 且 可 持续 发展 的 业务 的 解决 方案 。
+
+•
+数据 集
+来 自 Google 、 公共 来 源 的 和 商业 提供商 的 数据 ， 可 充实 您 的 分析 和 AI 计划 。
+
+•
+[ forward ]
+初创 企业 和 中小型 企业
+借助量 身定制 的 解决 方案 和 计划 加快 初创 企业 和 中小型 企业 的 发展 。
+
+•
+初创 公司 解决 方案
+利用 Google 成熟 的 技术 帮助 您 的 初创 公司 发展 壮大 并 解决 最 棘手 的 难题 。
+
+•
+初创 公司 计划
+获得 财务 、 业务 和 技术 支持 ， 让 您 的 初创 公司 迈 上 新 台阶 。
+
+•
+中小型 企业
+探索 网站 托管 、 应用 开发 、 AI 和 分析 领域 的 解决 方案 。
+
+•
+软件 即 服务
+构建 更 出色 的 SaaS 产品 、 高效 扩缩 并 推动 业务 增长 。
+
+产品
+close
+
+• 精选 产品
+
+•
+[ icons ]
+Compute Engine
+在 Google 的 数据 中心 运行 的 虚拟机 。
+
+•
+[ icons ]
+Cloud Storage
+安全 、 耐用 且 可 伸缩 的 对象 存储 服务 。
+
+•
+[ icons ]
+BigQuery
+可 助力 实现 业务 敏捷性 并 提供 数据 洞见 的 数据 仓库 。
+
+•
+[ icons ]
+Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+•
+[ icons ]
+Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+•
+[ vertex - a i ]
+Vertex AI Platform
+用于 机器 学习 模型 和 生成式 AI 的 统一 平台 。
+
+•
+[ cloud - look ]
+Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+•
+[ icons ]
+Apigee API Management
+随时随地 以 直观 且 可 掌控 的 方式 来 管理 API 的 整个 生命 周期 。
+
+•
+[ icons ]
+Cloud SQL
+适用 于 MySQL 、 PostgreSQL 和 SQL Server 的 关系型 数据库 服务 。
+
+•
+[ icons ]
+Cloud SDK
+适用 于 Google Cloud 的 命令 行 工具 和 库 。
+
+•
+[ icons ]
+Cloud CDN
+用于 分发 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 产品 （ 100 多 款 ）
+
+•
+[ forward ]
+AI 和 机器 学习
+
+•
+Vertex AI Platform
+用于 机器 学习 模型 和 生成式 AI 的 统一 平台 。
+
+•
+Vertex AI 上 的 生成式 AI
+在 Vertex AI 上 构建 、 调整 和 部署 基础 模型 。
+
+•
+Vertex AI Search and Conversation
+用于 搜索 和 对话式 AI 的 生成式 AI 应用 。
+
+•
+Dialogflow
+采用 先进 的 虚拟 客服 技术 打造 逼真 的 对话 AI 。
+
+•
+Natural Language AI
+对 非 结构化 文本 进行 情感 分析 和 分类 。
+
+•
+Speech - t o - Text
+支持 125 种 语言 的 语音 识别 和 转录 服务 。
+
+•
+Text - t o - Speech
+支持 220 多种 语音 和 40 多种 语言 的 语音 合成 服务 。
+
+•
+Translation AI
+提供 语言 检测 、 翻译 和 术语库 支持 。
+
+•
+Document AI
+大规模 自动 处理 文档 并 捕获 数据 。
+
+•
+Vision AI
+用于 检测 情绪 、 文本 等 内容 的 各种 自 定义 模型 和 预训练 模型 。
+
+•
+Cont act Center AI
+可 与 客户 交流 并 协助 人工 客服 人员 的 AI 模型 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 AI 和 机器 学习 产品
+
+• 商业 智能
+
+•
+Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+•
+Looker Studio
+用于 信息 汇总 、 报告 和 分析 的 交互式 数据 套件 。
+
+•
+[ forward ]
+计算
+
+•
+Compute Engine
+在 Google 的 数据 中心 运行 的 虚拟机 。
+
+•
+App Engine
+适用 于 应用 和 后端 的 无 服务器 应用 平台 。
+
+•
+Cloud GPU
+可 助力 机器 学习 、 科学 计算 和 3 D 可视化 的 GPU 。
+
+•
+Migrate t o Virtual Machines
+用于 将 服务器 和 虚拟机 迁移 到 Compute Engine 。
+
+•
+Spot 虚拟机
+适用 于 批量 作业 和 容错 工作 负载 的 计算 实例 。
+
+•
+Batch
+用于 安排 批量 作业 的 全代管式 服务 。
+
+•
+单租户 节点
+满足 合规性 、 许可 及 管理 需求 的 专用 硬件 。
+
+•
+Bare Metal
+用于 在 Google Cloud 上 运行 特殊 工作 负载 的 基础 架构 。
+
+•
+Recommender
+针对 Google Cloud 产品 和 服务 的 使用 建议 。
+
+•
+VMware Engine
+全 代管式 原生 VMware Cloud Foundation 软件 栈 。
+
+•
+Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 计算 产品
+
+•
+[ forward ]
+容器
+
+•
+Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+•
+Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+•
+Cloud Build
+用于 在 Docker 容器 中 运行 构建 步骤 的 解决 方案 。
+
+•
+Artifact Registry
+构建 工件 和 依赖 项 的 软件 包 管理器 。
+
+•
+Cloud Code
+可 提供 IDE 支持 ， 帮助 您 编写 、 运行 和 调试 Kubernetes 应用 。
+
+•
+Cloud Deploy
+以 全 代管式 方式 持续 交付 到 GKE 和 Cloud Run 。
+
+•
+Migrate t o Containers
+用于 将 虚拟机 迁移 到 GKE 上 的 系统 容器 的 各种 组件 。
+
+•
+Deep Learning Containers
+具有 各种 数据 科学 框架 、 库 和 工具 的 容器 。
+
+•
+Knative
+用于 构建 Kubernetes 原生云 软件 的 组件 。
+
+•
+[ forward ]
+数据 分析
+
+•
+BigQuery
+可 实现 业务 敏捷性 并 提供 数据 洞见 的 数据 仓库 。
+
+•
+Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+•
+Dataflow
+用于 流式 处理 和 批量 处理 的 流式 分析 服务 。
+
+•
+Pub / Sub
+用于 提取 和 传送 事件 的 消息 传递 服务 。
+
+•
+Dataproc
+用于 运行 Apache Spark 集群 和 Apache Hadoop 集群 的 服务 。
+
+•
+Cloud Data Fusion
+用于 构建 和 管理 数据 流水线 的 数据 集成 服务 。
+
+•
+Cloud Composer
+基于 Apache Airflow 构建 的 工作流 编排 服务 。
+
+•
+Dataprep
+用于 准备 数据 以 供 分析 和 机器 学习 的 服务 。
+
+•
+Dataplex
+用于 跨 孤岛 统一 数据 管理 的 智能 数据 结构 。
+
+•
+Dataform
+在 BigQuery 中 对 SQL 工作 流 进行 构建 、 版本 控制 和 部署 。
+
+•
+Analytics Hub
+用于 安全 高效 地 交换 数据 分析 资产 的 服务 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 数据 分析 产品
+
+•
+[ forward ]
+数据库
+
+•
+Alloy DB for PostgreSQL
+与 PostgreSQL 兼容 的 全代管式 数据库 ， 适用 于 企业 工作 负载 。
+
+•
+Cloud SQL
+面向 MySQL 、 PostgreSQL 和 SQL Server 的 全代管式 数据库 。
+
+•
+Firestore
+用于 构建 丰富 的 移动 、 Web 和 IoT 应用 的 云原生 文档 数据库 。
+
+•
+Cloud Spanner
+云原生 关系型 数据库 ， 规模 不 受 限制 ， 可用性 高 达 99 . 99 9 % 。
+
+•
+Cloud Bigtable
+适用 于 大规模 、 低 延迟 工作 负载 的 云原生宽 列 数据库 。
+
+•
+Datastream
+无 服务器 变更 数据 捕获 和 复制 服务 。
+
+•
+Database Migration Service
+使用 无 服务器 技术 以 最 短 停机 时间 迁移 到 Cloud SQL 。
+
+•
+[ forward ]
+开发者 工具
+
+•
+Artifact Registry
+构建 工件 和 依赖 项 的 通用 软件 包 管理器 。
+
+•
+Cloud Code
+可 提供 IDE 支持 ， 帮助 您 编写 、 运行 和 调试 Kubernetes 应用 。
+
+•
+Cloud Build
+持续 集成 和 持续 交付 平台 。
+
+•
+Cloud Deploy
+以 全 代管式 方式 持续 交付 到 GKE 和 Cloud Run 。
+
+•
+Cloud Deployment Manager
+用于 创建 和 管理 Google Cloud 资源 的 服务 。
+
+•
+Cloud SDK
+适用 于 Google Cloud 的 命令 行 工具 和 库 。
+
+•
+Cloud Scheduler
+用于 自动 执行 以及 管理 任务 的 Cron 作业 调度器 。
+
+•
+Cloud Source Repositories
+用于 存储 、 管理 和 跟踪 代码 的 私有 Git 代码库 。
+
+•
+Infrastructure Manager
+使用 Terraform 自动 管理 基础 设施 。
+
+•
+Cloud Works tations
+安全 的 代管式 云端 开发 环境 。
+
+•
+Duet AI
+AI 赋能 的 协作 平台 ， 可 在 Google Cloud 和 IDE 中 使用 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 开发者 工具
+
+•
+[ forward ]
+分布式 云
+
+•
+Google Distributed Cloud Edge
+适用 于 边缘 工作 负载 的 分布式 云 服务 。
+
+•
+Google Distributed Cloud Hosted
+适用 于 经过 网闸 隔离 的 工作 负载 的 分布式云 。
+
+• 混合云 和 多云
+
+•
+Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+•
+Apigee API Management
+API 管理 、 开发 和 安全 平台 。
+
+•
+Migrate t o Containers
+用于 将 工作 负载 和 现有 应用 迁移 到 GKE 的 工具 。
+
+•
+Traffic Director
+面向 开放式 服务 网格 的 流量 控制 窗格 和 流量 管理 工具 。
+
+•
+Cloud Build
+用于 在 Google Cloud 基础 架构 上 执行 构建 作业 的 服务 。
+
+•
+运维
+监控 、 日志 记录 和 应用 性能 套件 。
+
+•
+Google Distributed Cloud
+适用 于 边缘 和 数据 中心的 全代 管式 解决 方案 。
+
+• 针对 特定 行业
+
+•
+反 洗钱 AI
+借助 AI 检测 可疑 的 潜在 洗钱 活动 。
+
+•
+Cloud Healthcare API
+用于 衔接 现有 医疗 保健 系统 与 Google Cloud 上 的 应用 的 解决 方案 。
+
+•
+关联 Fitbit 设备
+通过 Google Cloud 上 的 关联 Fitbit 数据 全方位 了 解 患者 。
+
+•
+电信 网络 自动化
+适用 于 电信 网络 的 现成 云原生 自动化 。
+
+•
+电信 数据 结构 脉络
+使用 自动化 方法 进行 电信 数据 管理 和 分析 。
+
+•
+Telecom Subscriber Insights
+注入 数据 以 提升 订阅者 获取率 和 留存率 。
+
+•
+Spectrum Access System ( SAS )
+控制 对 公民 宽带 无线电 服务 ( CBRS ) 的 基本 访问 权限 。
+
+•
+[ forward ]
+集成 服务
+
+•
+Application Integration
+无 需 编写 代码 即 可 连 接到 第三 方 应用 并 保证 数据 一致性 。
+
+•
+Workflows
+无 服务器 产品 和 API 服务 的 工作流 编排 。
+
+•
+Apigee API Management
+随时随地 以 直观 且 可 掌控 的 方式 来 管理 API 的 整个 生命 周期 。
+
+•
+Cloud Tasks
+用于 异步 执行 任务 的 任务 管理 服务 。
+
+•
+Cloud Scheduler
+用于 自动 执行 以及 管理 任务 的 Cron 作业 调度器 。
+
+•
+Dataproc
+用于 运行 Apache Spark 集群 和 Apache Hadoop 集群 的 服务 。
+
+•
+Cloud Data Fusion
+用于 构建 和 管理 数据 流水线 的 数据 集成 服务 。
+
+•
+Cloud Composer
+基于 Apache Airflow 构建 的 工作流 编排 服务 。
+
+•
+Pub / Sub
+用于 提取 和 传送 事件 的 消息 传递 服务 。
+
+•
+Event arc
+构建 一个 可 连 接 任何 服务 的 事件 驱动型 架构 。
+
+•
+[ forward ]
+管理 工具
+
+•
+Cloud Shell
+带有 内 置 命令 行 的 交互式 Shell 环境 。
+
+•
+Cloud 控制台
+基于 Web 的 界面 ， 可 用于 管理 和 监控云 应用 。
+
+•
+Cloud Endpoints
+Google Cloud 上 的 API 部署 和 开发 管理 服务 。
+
+•
+Cloud IAM
+适用 于 Google Cloud 资源 的 权限 管理 系统 。
+
+•
+Cloud API
+Google Cloud 服务 的 编程 接口 。
+
+•
+Service Catalog
+有助于 管理员 管理 内部 企业 解决 方案 的 服务 目录 。
+
+•
+费用 管理
+用于 监测 、 控制 和 优化 费用 的 工具 。
+
+•
+运维
+监控 、 日志 记录 和 应用 性能 套件 。
+
+•
+碳 足迹
+用于 查看 和 导出 Google Cloud 碳 排放量 报告 的 信息 中心 。
+
+•
+Config Connector
+用于 管理 Google Cloud 资源 的 Kubernetes 插件 。
+
+•
+Active Assis t
+用于 轻松 管理 性能 、 安全性 和 费用 的 工具 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 管理 工具
+
+•
+[ forward ]
+地图 和 地理 空间
+
+•
+Earth Engine
+提供 地球 观测 数据 和 分析 的 地理 空间 平台 。
+
+•
+Google Maps Platform
+打造 基于 地理 位置 的 沉浸式 体验 ， 并 改进 业务 运营 。
+
+• 媒体 服务
+
+•
+Cloud CDN
+用于 提供 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+•
+Live Stream API
+这 项 服务 可 用 来 转换 实时 视频 和 软件 包以 进行 流式 传输 。
+
+•
+OpenCue
+专 为 视效 和 动画 行业 设计 的 开源 渲染 管理器 。
+
+•
+Transcoder API
+转换 并 打包 视频 文件 ， 以 优化 视频 传输 。
+
+•
+Video Stitcher API
+用于 动态 广告 插播 或 服务 器端 广告 插播 的 服务 。
+
+•
+[ forward ]
+迁移
+
+•
+迁移 中心
+用于 通过 Google Cloud 进行 迁移 和 现代化 改造 的 统一 平台 。
+
+•
+应用 迁移
+用于 将 应用 迁移 到 云端 ， 以 实现 低 费用 更新 周期 。
+
+•
+Migrate t o Virtual Machines
+用于 将 虚拟机 和 物理 服务器 迁移 到 Compute Engine 的 各种 组件 。
+
+•
+Cloud Foundation Toolkit
+适用 于 Deployment Manager 和 Terraform 的 参考 模板 。
+
+•
+Database Migration Service
+使用 无 服务器 技术 以 最 短 停机 时间 迁移 到 Cloud SQL 。
+
+•
+Migrate t o Containers
+用于 将 虚拟机 迁移 到 GKE 上 的 系统 容器 的 各种 组件 。
+
+•
+BigQuery Data Transfer Service
+用于 安排 将 数据 转移 到 BigQuery 的 数据 导入 服务 。
+
+•
+快速 迁移 计划 ( RaMP )
+用于 简化云 迁移 路径 的 端 到 端 迁移 计划 。
+
+•
+Transfer Appliance
+用于 将 大量 数据 转移 到 Google Cloud 的 存储 服务器 。
+
+•
+Storage Transfer Service
+用于 将 数据 从 在线 和 本地 来 源 转移 到 Cloud Storage 的 服务 。
+
+•
+VMware Engine
+将 您 的 VMware 工作 负载 迁移 到 Google Cloud 并 继续 以 原生 方式 运行 。
+
+• 混合 现实
+
+•
+Immersive Stream for XR
+托管 、 渲染 并 流式 传输 3 D 和 XR 体验 。
+
+•
+[ forward ]
+网络
+
+•
+Cloud Armor
+针对 Web 攻击 和 DDoS 攻击 的 安全 政策 和 防御 机制 。
+
+•
+Cloud CDN 和 媒体 CDN
+用于 提供 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+•
+Cloud DNS
+提供 可靠 、 低 延迟 的 域名 查询 服务 的 域名 系统 。
+
+•
+Cloud Load Balancing
+用于 跨 应用 和 区域 分配 流量 的 服务 。
+
+•
+Cloud NAT
+用于 向 私有 实例 授予 互联网 访问 权限 的 NAT 服务 。
+
+•
+云 连 接
+适合 VPN 、 对 等 互 连 和 企业 需求 的 连接 方案 。
+
+•
+Network Connectivity Center
+连 接 管理 可 帮助 简化 和 扩缩 网络 。
+
+•
+Network Intelligence Center
+网络 监控 、 验证 和 优化 平台 。
+
+•
+Network Service Tiers
+基于 性能 、 可用性 和 费用 的 Cloud 网络 方案 。
+
+•
+虚拟 私有 云
+整个 组织 使用 一个 VPC ， 在 项目 中 进行 隔离 。
+
+•
+Private Service Connect
+保护 VPC 与 各 服务 之间 的 连接 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 网络 产品
+
+•
+[ forward ]
+运维
+
+•
+Cloud Logging
+管理 Google Cloud 审核 日志 、 平台 日志 和 应用 日志 。
+
+•
+Cloud Monitoring
+通过 丰富 的 指标 帮助 您 了 解 基础 架构 和 应用 的 运行 状况 。
+
+•
+Error Reporting
+识别 和 分析 应用 错误 。
+
+•
+Cloud Debugger
+实时 检查 应用 状态 以及 在 生产 环境 中 进行 调试 。
+
+•
+Cloud Trace
+用于 从 应用 中 收集 延迟 数据 的 跟踪 系统 。
+
+•
+Cloud Profiler
+用于 分析 应用 性能 的 CPU 和 堆性能 分析器 。
+
+• 工作 效率 与 协作
+
+•
+AppSheet
+用于 构建 和 扩展 应用 的 无 代码 开发 平台 。
+
+•
+AppSheet Automation
+在 统一 平台 上 构建 自动化 和 应用 。
+
+•
+Google Workspace
+面向 个人 和 组织 的 协作 和 办公 工具 。
+
+•
+Google Workspace 基本 功能 版
+为 团队 提供 安全 的 视频 会议 功能 和 现代化 协作 功能 。
+
+•
+Duet AI for Workspace
+在 Workspace 应用 中 嵌 入 生成式 AI 。
+
+•
+Cloud Identity
+IT 管理员 用于 管理 用户 设备 和 应用 的 统一 平台 。
+
+•
+Chrome 企业 版
+专 为 企业 打造 的 Chrome 操作系统 、 Chrome 浏览器 和 Chrome 设备 。
+
+•
+[ forward ]
+安全 和 身份
+
+•
+Cloud IAM
+适用 于 Google Cloud 资源 的 权限 管理 系统 。
+
+•
+Assured Workloads
+针对 敏感 工作 负载 的 合规 与 安全 控制 措施 。
+
+•
+Cloud Key Management
+在 Google Cloud 上 管理 加密 密钥 。
+
+•
+机密 计算
+通过 机密 虚拟机 加密 使用 中 的 数据 。
+
+•
+Security Comm and Center
+用于 保护 Google Cloud 资产 免遭 安全 威胁 的 平台 。
+
+•
+敏感 数据 保护
+帮助 您 发现 、 分类 和 保护 宝贵 的 数据 资产 。
+
+•
+Mandiant 产品 和 服务
+来 自 一线 的 信息 安全 技术 和 专业 知识 。
+
+•
+reCAPT CHA Enterprise
+保护 您 的 网站 免 受 欺诈 活动 、 垃圾 内容 和 滥用 行为 的 侵扰 。
+
+•
+Chronicle Security Operations
+检测 、 调查 和 应对 网络 威胁 。
+
+•
+Secret Manager
+存储 API 密钥 、 密码 、 证书 和 其他 敏感 数据 。
+
+•
+Cloud Identity
+IT 管理员 用于 管理 用户 设备 和 应用 的 统一 平台 。
+
+• 没有 看到 您 需要 的 内容 ？
+•
+查看 所有 安全 和 身份 产品
+
+•
+[ forward ]
+无 服务器
+
+•
+Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+•
+Cloud Functions
+用于 创建 响应云 事件 的 函数 的 平台 。
+
+•
+App Engine
+适用 于 应用 和 后端 的 无 服务器 应用 平台 。
+
+•
+Workflows
+无 服务器 产品 和 API 服务 的 工作流 编排 。
+
+•
+API 网关
+借助 全 代管式 网关 开发 、 部署 、 保护 和 管理 API 。
+
+•
+[ forward ]
+存储
+
+•
+Cloud Storage
+安全 、 耐用 且 可 伸缩 的 对象 存储 服务 。
+
+•
+备份 和 灾难 恢复 服务
+用于 实现 具有 应用 一致性 的 集中式 数据 保护 的 服务 。
+
+•
+Filestore
+伸缩 能力 极 强 且 安全 可靠 的 文件 存储 服务 。
+
+•
+Persistent Disk
+适用 于 Google Cloud 上 运行 的 虚拟机 实例 的 块 存储 服务 。
+
+•
+Cloud Storage for Firebase
+可 用于 存储 和 提供 用户 生成 的 内容 的 对象 存储 服务 。
+
+•
+本地 SSD
+本地 挂 接 以 满足 高性能 需求 的 块 存储 。
+
+•
+Storage Transfer Service
+用于 将 数据 从 在线 和 本地 来 源 转移 到 Cloud Storage 的 服务 。
+
+•
+Parallelstore
+高性能 代管式 并行 文件 服务 。
+
+•
+Google Cloud NetApp Volumes
+适用 于 NFS 、 SMB 和 多 协议 环境 的 文件 存储 服务 。
+
+•
+[ forward ]
+Web3
+
+•
+Blockchain Node Engine
+帮助 开发者 在 区块 链上 进行 开发 的 全代管式 节点 托管 解决 方案 。
+
+价 格
+close
+
+• 利用 我们 透明 的 定 价 方法 节省 资金
+• Google Cloud 的 随用 随付 价 格 方案 会 根据 预付费 资源 的 每月 用量 和 折扣费率 自动 为 您
+节省 费用 。 请 立即 联系 我们 ， 获取 报 价 。
+•
+请求 报 价
+
+• 价 格 概览 和 工具
+•
+Google Cloud 价 格
+用 多少 付 多少 ， 没有 限制 。
+•
+价 格 计算器
+计算 您 可 节省 的 云 服务 费用 。
+•
+Google Cloud 免费 层级
+探索 提供 每月 免费 用量 的 产品 。
+
+•
+费用 优化 框架
+了 解优化 工作 负载 费用 的 最佳 实践 。
+•
+费用 管理 工具
+用于 监控 和 控制 费用 的 工具 。
+
+• 产品 详细 价 格
+•
+Compute Engine
+•
+Cloud SQL
+•
+Google Kubernetes Engine
+•
+Cloud Storage
+•
+BigQuery
+
+•
+查看 100 多种 产品 的 完整 价 格表
+
+资源
+close
+
+• 学习 与 构建
+•
+Google Cloud 免费 计划
+获 享 $ 300 赠金 以及 20 多种 提供 “ 始终 免费 ” 用量 的 产品 。
+•
+快速 入门
+获取 教程 和 演示 。
+•
+云 计算 基础 知识
+详细 了 解云 计算 主题 。
+•
+博客
+阅读 我们 最新 的 产品 资讯 和 案例 。
+
+•
+学习 中心
+通过 基于 角色 的 学习 发展 您 的 职业 生涯
+•
+训练
+注册 参加 自助式 培训 或 课堂 培训 。
+•
+认证
+准备 并 注册 认证 。
+•
+云 架构 中心
+了 解 参考 架构 和 最佳 实践 。
+
+• 交流 合作
+•
+创新者
+加入 Google Cloud 合作 伙伴 计划 。
+•
+开发者 中心
+及时 获得 最新 资讯 并 保持 联系 。
+•
+活动 和 在线 讲座
+浏览 即将 到 来 的 活动 和 点播 观看 活动 。
+•
+Google Cloud 社区
+提出 问题 、 寻找 答案 并 与 他人 交流 。
+
+• 第三 方 工具 和 合作 伙伴
+•
+Google Cloud Marketplace
+只 需 点击 几 下 即可 部署 即时 可用 的 解决 方案 。
+•
+Google Cloud 合作 伙伴
+探索 与 合作 伙伴 合作 的 好处 。
+•
+成为 合作 伙伴
+加入 Partner Advant age 计划 。
+
+文档 支持
+[ ]
+文档 支持
+
+• English
+• Deutsch
+• Español – América Latina
+• Français
+• Indonesia
+• Italiano
+• Português – Brasil
+• 中文 – 简体
+• 日本 語
+• 한국 어
+
+登录
+
+• 云 架构 中心
+
+与 我们 联系 免费 开始 使用 吧
+[ ]
+Google Cloud
+
+•
+
+• 概览
+□ 更 多
+• 解决 方案
+□ 更 多
+• 产品
+□ 更 多
+• 价 格
+□ 更 多
+• 资源
+□ 更 多
+• 文档
+• 支持
+• 控制台
+• 与 我们 联系
+• 免费 开始 使用 吧
+
+• Google Cloud 架构 框架
+• 概览
+• 系统 设计
+□ 概览
+□ 核心 原 则
+□ 选择 部署 类型
+□ 选择 可用区 和 区域
+□ 管理云 资源
+□ 选择 和 管理 计算
+□ 设计 网络 基础 架构
+□ 实施 存储 策略
+□ 优化 数据库
+□ 分析 您 的 数据
+□ 实现 机器 学习
+□ 实现 可 持续性 设计
+• 卓越 运营
+□ 概览
+□ 实现 部署 自动化
+□ 设置 监控 、 提醒 和 日志 记录
+□ 请求 云 支持 并 建立 上报 流程
+□ 管理 容量 和 配额
+□ 规划 峰值 和 发布 事件
+□ 打造 自动化 文化
+• 安全性 、 隐私权 和 合规性
+□ 概览
+□ 共 担 责任 和 命运
+□ 安全 原 则
+□ 利用 控件 来 管理 风险
+□ 管理 资产
+□ 管理 身份 和 访问 权限
+□ 实现 计算 和 容器 安全
+□ 保护 您 的 网络
+□ 实现 数据 安全
+□ 安全 地 部署 应用
+□ 管理 法规 遵从 义务
+□ 实现 数据 驻留 和 主权
+□ 实现 隐私权 要求
+□ 实现 日志 记录 和 检测 控制
+• 可靠性
+□ 概览
+□ 核心 原 则
+□ 定义 目标
+□ 定义 SLO
+□ 采用 SLO
+□ 术语
+□ SLO 和 提醒
+□ 可 观察 的 基础 架构 和 应用
+□ 可 扩缩性 和 高 可用性 设计
+□ 操作 流程 和 工具
+□ 构建 高效 提醒
+□ 事件 管理 流程
+□ 产品 指南
+☆ 概览
+☆ 计算
+○ Compute Engine
+○ Cloud Run
+○ Cloud Functions
+○ Google Kubernetes Engine
+☆ 存储 和 数据库
+○ Cloud Storage
+○ Firestore
+○ Cloud Bigtable
+○ Cloud SQL
+○ Cloud Spanner
+○ Filestore
+○ Memorystore
+☆ 网络
+○ Cloud DNS
+○ Cloud Load Balancing
+○ Cloud CDN
+☆ 数据 分析
+○ BigQuery
+○ Dataflow
+○ Dataproc
+• 费用 优化
+□ 概览
+□ 采用 和 实现 FinOps
+□ 监控 和 控制 费用
+□ 计算 、 容器 和 无 服务器
+□ 存储
+□ 数据库 和 智能 分析
+□ 网络
+□ Cloud Operations
+• 性能 优化
+□ 概览
+□ 性能 优化 过程
+□ 监控 和 分析 性能
+□ 优化 计算 性能
+□ 优化 存储 性能
+□ 优化 网络 和 API 性能
+□ 优化 数据库 性能
+□ 优化 分析 性能
+• 最新 资讯
+• 在 一个 页面 中 查看
+
+• 加快 数字化 转型 的 速度
+• 了 解详 情
+• 主要 优势
+• 为什 么 选择 Google Cloud
+• AI 和 机器 学习
+• 多 云端
+• 全球 基础 架构
+• 数据云
+• 开放 的 云
+• 信任 与 安全
+• 工作 效率 与 协作
+• 报告 和 数据洞 见
+• 高管 数据洞 见
+• 分析 机构 报告
+• 白皮书
+• 客户 案例
+
+• 行业 解决 方案
+• 零售
+• 快速 消费品
+• 金融 服务
+• 医疗 保健 和 生命 科学
+• 媒体 和 娱乐
+• 电信
+• 游戏
+• 制造
+• 供应链 与 物流
+• 政府
+• 教育
+• 查看 所有 行业 解决 方案
+• 查看 所有 解决 方案
+• 应用 现代化 改造
+• CAMP
+• 对 传统 应用 进行 现代化 改造
+• 从 PaaS 迁移 ： Cloud Foundry 或 Opens hift
+• 从 大型 主机 迁移
+• 对 软件 交付 进行 现代化 改造
+• DevOps 最佳 实践
+• SRE 原 则
+• GKE 的 投产 后 运维
+• FinOps 和 GKE 优化
+• 在 边缘 运行 应用
+• 设计 适合 多云 环境 的 架构
+• 无 服务 器化
+• 人工智能
+• Cont act Center AI
+• Document AI
+• 产品 发现
+• API 和 应用
+• 使用 API 开拓 新 的 业务 渠道
+• 使用 API 发掘 旧式 应用 的 潜力
+• Open Banking API x
+• 数据库
+• 数据库 迁移
+• 数据库 现代化 改造
+• 游戏 数据库
+• Google Cloud 数据库
+• 将 Oracle 工作 负载 迁移 到 Google Cloud
+• 开源 数据库
+• SQL Server on Google Cloud
+• 数据云
+• 数据库 解决 方案
+• 智能 分析 解决 方案
+• AI 解决 方案
+• 面向 独立 软件 供应商 ( ISV ) 的 数据 云
+• 数据云 联盟
+• 数字化 转型
+• 数字化 创新
+• 运营 效率
+• 新型 冠状 病毒 肺炎 ( COVID - 19 ) 解决 方案
+• 面向 医疗 保健 行业 的 新型 冠状 病毒 肺炎 ( COVID - 19 ) 解决 方案
+• 基础 架构 现代化 改造
+• 应用 迁移
+• SAP on Google Cloud
+• 高性能 计算
+• Windows on Google Cloud
+• 数据 中心 迁移
+• Active Assis t
+• 虚拟 桌面
+• 快速 迁移 计划 ( RaMP )
+• 备份 和 灾难 恢复
+• 工作 效率 与 协作
+• Google Workspace
+• Google Workspace 基本 功能 版
+• Cloud Identity
+• Chrome 企业 版
+• Cloud Search
+• 安全
+• 安全 分析 与 运营
+• Web 应用 和 API 保护
+• 安全 和 弹性 框架
+• 风险 和 合规 即 代码 ( RCaC )
+• 软件 供应链 安全
+• Security Foundation
+• 智能 分析
+• 数据 仓库 现代化 改造
+• 数据湖 现代化 改造
+• Google Cloud 上 的 Spark
+• 数据流 分析
+• 商业 智能
+• 数据 科学
+• 营销 分析
+• 地理 空间 分析 和 AI
+• 数据 集
+• 初创 企业 和 中小型 企业
+• 初创 公司 解决 方案
+• 初创 公司 计划
+• 中小型 企业
+• 软件 即 服务
+
+• 精选 产品
+• Compute Engine
+• Cloud Storage
+• BigQuery
+• Cloud Run
+• Google Kubernetes Engine
+• Vertex AI Platform
+• Looker
+• Apigee API Management
+• Cloud SQL
+• Cloud SDK
+• Cloud CDN
+• 查看 所有 产品 （ 100 多 款 ）
+• AI 和 机器 学习
+• Vertex AI Platform
+• Vertex AI 上 的 生成式 AI
+• Vertex AI Search and Conversation
+• Dialogflow
+• Natural Language AI
+• Speech - t o - Text
+• Text - t o - Speech
+• Translation AI
+• Document AI
+• Vision AI
+• Cont act Center AI
+• 查看 所有 AI 和 机器 学习 产品
+• 商业 智能
+• Looker
+• Looker Studio
+• 计算
+• Compute Engine
+• App Engine
+• Cloud GPU
+• Migrate t o Virtual Machines
+• Spot 虚拟机
+• Batch
+• 单租户 节点
+• Bare Metal
+• Recommender
+• VMware Engine
+• Cloud Run
+• 查看 所有 计算 产品
+• 容器
+• Google Kubernetes Engine
+• Cloud Run
+• Cloud Build
+• Artifact Registry
+• Cloud Code
+• Cloud Deploy
+• Migrate t o Containers
+• Deep Learning Containers
+• Knative
+• 数据 分析
+• BigQuery
+• Looker
+• Dataflow
+• Pub / Sub
+• Dataproc
+• Cloud Data Fusion
+• Cloud Composer
+• Dataprep
+• Dataplex
+• Dataform
+• Analytics Hub
+• 查看 所有 数据 分析 产品
+• 数据库
+• Alloy DB for PostgreSQL
+• Cloud SQL
+• Firestore
+• Cloud Spanner
+• Cloud Bigtable
+• Datastream
+• Database Migration Service
+• 开发者 工具
+• Artifact Registry
+• Cloud Code
+• Cloud Build
+• Cloud Deploy
+• Cloud Deployment Manager
+• Cloud SDK
+• Cloud Scheduler
+• Cloud Source Repositories
+• Infrastructure Manager
+• Cloud Works tations
+• Duet AI
+• 查看 所有 开发者 工具
+• 分布式 云
+• Google Distributed Cloud Edge
+• Google Distributed Cloud Hosted
+• 混合云 和 多云
+• Google Kubernetes Engine
+• Apigee API Management
+• Migrate t o Containers
+• Traffic Director
+• Cloud Build
+• 运维
+• Google Distributed Cloud
+• 针对 特定 行业
+• 反 洗钱 AI
+• Cloud Healthcare API
+• 关联 Fitbit 设备
+• 电信 网络 自动化
+• 电信 数据 结构 脉络
+• Telecom Subscriber Insights
+• Spectrum Access System ( SAS )
+• 集成 服务
+• Application Integration
+• Workflows
+• Apigee API Management
+• Cloud Tasks
+• Cloud Scheduler
+• Dataproc
+• Cloud Data Fusion
+• Cloud Composer
+• Pub / Sub
+• Event arc
+• 管理 工具
+• Cloud Shell
+• Cloud 控制台
+• Cloud Endpoints
+• Cloud IAM
+• Cloud API
+• Service Catalog
+• 费用 管理
+• 运维
+• 碳 足迹
+• Config Connector
+• Active Assis t
+• 查看 所有 管理 工具
+• 地图 和 地理 空间
+• Earth Engine
+• Google Maps Platform
+• 媒体 服务
+• Cloud CDN
+• Live Stream API
+• OpenCue
+• Transcoder API
+• Video Stitcher API
+• 迁移
+• 迁移 中心
+• 应用 迁移
+• Migrate t o Virtual Machines
+• Cloud Foundation Toolkit
+• Database Migration Service
+• Migrate t o Containers
+• BigQuery Data Transfer Service
+• 快速 迁移 计划 ( RaMP )
+• Transfer Appliance
+• Storage Transfer Service
+• VMware Engine
+• 混合 现实
+• Immersive Stream for XR
+• 网络
+• Cloud Armor
+• Cloud CDN 和 媒体 CDN
+• Cloud DNS
+• Cloud Load Balancing
+• Cloud NAT
+• 云 连 接
+• Network Connectivity Center
+• Network Intelligence Center
+• Network Service Tiers
+• 虚拟 私有 云
+• Private Service Connect
+• 查看 所有 网络 产品
+• 运维
+• Cloud Logging
+• Cloud Monitoring
+• Error Reporting
+• Cloud Debugger
+• Cloud Trace
+• Cloud Profiler
+• 工作 效率 与 协作
+• AppSheet
+• AppSheet Automation
+• Google Workspace
+• Google Workspace 基本 功能 版
+• Duet AI for Workspace
+• Cloud Identity
+• Chrome 企业 版
+• 安全 和 身份
+• Cloud IAM
+• Assured Workloads
+• Cloud Key Management
+• 机密 计算
+• Security Comm and Center
+• 敏感 数据 保护
+• Mandiant 产品 和 服务
+• reCAPT CHA Enterprise
+• Chronicle Security Operations
+• Secret Manager
+• Cloud Identity
+• 查看 所有 安全 和 身份 产品
+• 无 服务器
+• Cloud Run
+• Cloud Functions
+• App Engine
+• Workflows
+• API 网关
+• 存储
+• Cloud Storage
+• 备份 和 灾难 恢复 服务
+• Filestore
+• Persistent Disk
+• Cloud Storage for Firebase
+• 本地 SSD
+• Storage Transfer Service
+• Parallelstore
+• Google Cloud NetApp Volumes
+• Web3
+• Blockchain Node Engine
+
+• 利用 我们 透明 的 定 价 方法 节省 资金
+• 请求 报 价
+• 价 格 概览 和 工具
+• Google Cloud 价 格
+• 价 格 计算器
+• Google Cloud 免费 层级
+• 费用 优化 框架
+• 费用 管理 工具
+• 产品 详细 价 格
+• Compute Engine
+• Cloud SQL
+• Google Kubernetes Engine
+• Cloud Storage
+• BigQuery
+• 查看 100 多种 产品 的 完整 价 格表
+
+• 学习 与 构建
+• Google Cloud 免费 计划
+• 快速 入门
+• 云 计算 基础 知识
+• 博客
+• 学习 中心
+• 训练
+• 认证
+• 云 架构 中心
+• 交流 合作
+• 创新者
+• 开发者 中心
+• 活动 和 在线 讲座
+• Google Cloud 社区
+• 第三 方 工具 和 合作 伙伴
+• Google Cloud Marketplace
+• Google Cloud 合作 伙伴
+• 成为 合作 伙伴
+
+• 首 页
+•
+文档
+•
+云 架构 中心
+•
+架构 框架
+
+发送 反馈
+
+Google Cloud 上 的 共 担 责任 和 命运 共同体
+
+使用 集合 让 一切 井井有条 根据 您 的 偏好 保存 内容 并 对 其 进行 分类 。
+Last reviewed 2023 - 0 8 - 2 1 UTC
+
+本文档 介绍 了 Google Cloud 中共 担 责任 模型 和 命运 共同体 之间 的 差异 。 文中 讨论 了 共 担
+责任 模型 的 挑战 和 细微 差别 。 本 文档 介绍 了 什 么 是 命运 共同体 ， 以及 我们 如何 与 客户 合作
+解决 云 安全 挑战 。
+
+在 确定 如何 最好 地 保护 Google Cloud 上 的 数据 和 工作 负载 时 ， 了 解共 担 责任 模型 非常 重
+要 。 共 担 责任 模型 描述 了 在 云端 涉及 安全性 时 的 任务 ， 以及 这些 任务 对于 云 提供 商 的 不同
+之 处 。
+
+但是 ， 了 解共 担 责任 可能 具有 挑战性 。 此 模型 需要 深入 了 解 您 使用 的 每 项 服务 、 每 项 服务
+提供 的 配置 选项 ， 以及 Google Cloud 为 保护 该 服务 而 执行 的 操作 。 每 项 服务 都 有 不 同 的
+配置 文件 ， 并且 可能 很 难 确定 最佳 安全 配置 。 Google 认为 ， 共 担 责任 模型 无法 帮助 云 客户
+获得 更 好 的 安全 结果 。 我们 依靠 命运 共同体 ， 而 不 是 共 担 责任 。
+
+共同 命运体 包括 要 我们 可 帮助 您 为 工作 负载 构建 和 运营 受 信任 的 云平台 。 我们 提供 最佳 做
+法 指导 和 安全 的 经过 证明 的 基础 架构 代码 ， 可 用于 以 安全 方式 部署 工作 负载 。 我们 发布 了
+各种 Google Cloud 服务 解决 方案 ， 以 解决 复杂 的 安全 问题 ， 并 提供 创新 的 保险 方案 ， 帮
+助 您 衡量 和 缓解 必须 接受 的 风险 。 在 您 保护 Google Cloud 上 的 资源 时 ， 命运 共同体 的 关
+键 在于 我们 能够 更 密切 地 与 您 互动 。
+
+共 担 责任
+
+您 非常 了 解 企业 的 安全 和 监管 要求 ， 也 非常 了 解 保护 机密 数据 和 资源 的 要求 。 在 Google
+Cloud 上 运行 工作 负载 时 ， 必须 确定 您 需要 在 Google Cloud 中 配置 的 安全 控制 措施 ， 以
+帮助 保护 机密 数据 和 每个 工作 负载 。 如 需 确定 要 实现 的 安全 控制 措施 ， 您 必须 考虑 以下 因
+素 ：
+
+• 法规 遵从 义务
+• 组织 的 安全 标准 和 风险 管理 计划
+• 客户 和 供应商 的 安全 要求
+
+由 工作 负载 定义
+
+传统 上 ， 责任 是 根据 您 运行 的 工作 负载 类型 和 所 需 的 云 服务 定义 的 。 云 服务 包括 以下 类别
+：
+
+云 服务 说明
+IaaS 服务 包括 Compute Engine 、 Cloud Storage 以及 Cloud VPN 、 Cloud
+Load Balancing 和 Cloud DNS 等 网络 服务 。
+
+IaaS 以 随用 随付 的 价格 提供 计算 、 存储 和 网络 服务 。 如果 您 计划 使用 直接
+基础 架构 即服 原样 迁移 将 现有 本地 工作 负载 迁移 到 云端 ， 或者 希望 使用 特定 数据库 在 特定
+务 ( IaaS ) 虚拟机 上 运行 应用 ， 则 可以 使用 IaaS ： 网络 配置 。
+
+在 IaaS 中 ， 大部分 安全 责任 属于 您 ， 我们 的 责任 侧重 于 底层 基础 架构 和 物
+理 安全 。
+
+PaaS 服务 包括 App Engine 、 Google Kubernetes Engine ( GKE ) 和
+BigQuery 。
+
+PaaS 提供 了 您 可以 在 其中 开发 和 运行 应用 的 运行 时 环境 。 如果 您 正在 构建
+平台 即 服务 应用 （ 例如 网站 ） ， 并且 希望 专注 于 开发 而 不 是 底层 基础 架构 ， 则 可以 使用
+( PaaS ) PaaS 。
+
+在 PaaS 中 ， 我们 负责 比 IaaS 中 更 多 的 控制 ， 包括 网络 控制 。 您 与 我们 负
+责 应用级 控制 和 IAM 管理 。 您 仍 需 负责 您 的 数据 安全 和 客户 端 保护 。
+
+SaaS 应用 包括 Google Workspace 、 Chronicle 和 Google Cloud
+Marketplace 中 提供 的 第三 方 SaaS 应用 。
+
+SaaS 提供 在线 应用 ， 您 可以 通过 某种 方式 订阅 或 付费 。 如果 您 的 企业 对构
+软件 即 服务 建 应用 本身 不 具备 内部 专业 知识 或 业务 需求 ， 但 需要 处理 工作 负载 的 能力 ，
+( SaaS ) 则 可以 使用 SaaS 应用 。
+
+在 SaaS 中 ， 我们 担负 大部分 安全 责任 。 您 仍 需 负责 您 的 访问 权限 控制 以及
+您 选择 存储 在 应用 中 的 数据 。
+
+FaaS 为 开发者 提供 了 运行 单一 用途 的 小型 代码 （ 称为 函数 ） 的 平台 ， 用于
+响应 特定 事件 。 如果 您 希望 特定 事件 发生 特定 情况 ， 则 可以 使用 FaaS 。 例
+函数 即 服务 如 ， 您 可以 创建 一个 函数 ， 该 函数 在 数据 上 传 到 Cloud Storage 时 就 会 运
+( FaaS ) 或 无 行 以便 对 其 进行 分类 。
+服务器
+FaaS 具有 与 SaaS 类似 的 共 担 责任 列表 。 Cloud Functions 是 一 种 FaaS
+应用 。
+
+下 图 展示 了 云 服务 并 定义 了 云 提供 商 与 客户 应 如何 共 担 责任 。
+
+共 担 安全 责任
+
+如 图 所示 ， 云 提供 商 始终 负责 底层 网络 和 基础 架构 ， 并且 客户 始终 负责 其 访问 政策 和 数据
+。
+
+由 行业 和 监管 框架 定义
+
+各个 行业 都 有 监管 框架 ， 用于 定义 必须 落实 的 安全 控制 措施 。 将 工作 负载 迁移 到 云端 时 ，
+您 必须 了 解 以下 内容 ：
+
+• 哪 些 安全 控制 措施 由 您 负责
+• Cloud 产品 提供 哪 些 安全 控制 措施
+• 继承 的 默认 安全 控制 有 哪 些
+
+继承 的 安全 控制 措施 （ 例如 我们 的 默认 加密 和 基础 架构 控制 ） 是 您 可以 作为 安全 状况 证据
+的 一 部分 提供 给 审计员 和 监管 机构 的 控制 措施 。 例如 ， 支付卡 行业 数据 安全 标准 ( PCI
+DSS ) 定义 了 付款 处理方 的 法规 。 将 业务 迁移 到 云端 后 ， 这些 法规会 在 您 和 CSP 之间 共享
+。 如 需 了 解 如何 在 您 与 Google Cloud 之间 共 担 PCI DSS 责任 ， 请 参阅 Google Cloud ：
+PCI DSS 共 担 责任表 。
+
+再 举 一个 例子 ， 在 美国 ， 《 健康 保险 流通 与 责任 法案 》 ( HIPAA ) 规定 了 处理 电子 个人 健康
+信息 ( PHI ) 的 标准 。 这些 责任 还 会 在 CSP 与 您 之间 共 担 。 如 需 详细 了 解 Google Cloud
+如何 履行 了 HIPAA 规定 的 责任 ， 请 参阅 HIPAA - 合规性 。
+
+其他 行业 （ 例如 金融 或 制造 ） 也 有 法规 来 规定 收集 、 处理 和 存储 数据 的 方式 。 如 需 详细 了
+解 与 这 类 事项 相关 的 共 担 责任 以及 Google Cloud 如何 履行 我们 的 责任 ， 请 参阅 合规性 资
+源中心 。
+
+由 位置 定义
+
+根据 您 的 业务 场景 ， 您 可能 需要 根据 公司 办公室 的 位置 、 客户 和 数据 来 考虑 您 的 职责 。 不
+同 的 国 家 和 地区 制定 了 相应 的 法规 ， 指导 您 如何 处理 和 存储 客户 数据 。 例如 ， 如果 您 的 企
+业 有 欧盟 境内 的 客户 ， 则 您 的 企业 可能 需要 遵守 一 般 数据 保护 条例 中 所 述 的 要求 ( GDPR ) ，
+您 可能 有 义务 将 客户 数据 保存 在 欧盟 境内 。 在 这种 情况 下 ， 您 需 负责 确保 您 收集 的 数据 会
+保留 在 欧盟 的 Google Cloud 区域 中 。 如 需 详细 了 解 我们 如何 履行 GDPR 义务 ， 请 参阅
+GDPR 和 Google Cloud 。
+
+如 需 了 解 与 您 的 区域 相关 的 要求 ， 请 参阅 符合 的 法规 和 标准 。 如果 您 的 场景 特别 复杂 ， 建
+议 您 与 我们 的 销售 团队 或 我们 的 合作 伙伴 联系 ， 以 帮助 您 评估 安全 责任 。
+
+共 担 责任 所 面临 的 挑战
+
+虽然 共 担 责任 有助于 定义 您 或 云 提供 商 具有 的 安全 角色 ， 但 依赖 共 担 责任 仍然 可以 产生 挑
+战 。 以 下面 几 种 情况 为 例 ：
+
+• 大多数 云 安全 事故 都 属于 配置 错误 直接 导致 的 结果 （ 在 Cloud Security Alliance 的
+Pandemic 11 报告 中 被 列为 编号 3 ） ， 此 趋势 预计 会 增加 。 云 产品 不 断 变化 ， 并且 新
+产品 也 在 不 断 发布 。 跟 上 不 断 变化 似乎 很 困难 。 客户 需要 云 服务 提供 商 为 他们 提供 可
+靠 的 最佳 做法 ， 以 帮助 其 适应 变化 ， 从 默认 的 最佳 做法 开始 ， 并 具有 基准 安全 配置 。
+• 虽然 按 云 服务 划分 内容 非常 有用 ， 但 许多 企业 的 工作 负载 需要 多种 云 服务 类型 。 在 这
+种 情况 下 ， 您 必须 考虑 这些 服务 的 各种 安全 控制 措施 如何 交互 ， 包括 它们 在 服务 之间
+是 否 重叠 。 例如 ， 您 可能 有 一个 要 迁移 到 Compute Engine 的 本地 应用 ， 使用 Google
+Workspace 处理 公司 电子 邮件 ， 同时 运行 BigQuery 来 分析 数据 以 改进 您 的 产品 。
+• 随着 法规 的 改变 ， 当 您 进入 新 市场 或者 是 收购 其他 公司 时 ， 您 的 业务 和 市场 都 会 不 断
+变化 。 您 的 新 市场 可能 有 不 同 的 要求 ， 而 新 的 收购 可能 会 将 其 工作 负载 托管 在 另 一个
+云 平台 上 。 为 了 管理 不 断 变化 ， 您 必须 不 断 重新 评估 您 的 风险 概况 ， 并 能够 快速 实施
+新 的 控制 措施 。
+• 数据 加密 密钥 的 管理 方式 和 位置 是 与 您 保护 数据 职责 相关 的 重要 决策 。 您 选择 的 选 项
+取决于 您 的 监管 要求 （ 无论 您 是 运行 混合云 环境 还是 仍然 具有 本地 环境 ） ， 以及 您 要
+处理 和 存储 的 数据 的 敏感性 。
+• 事件 管理 是 一 项 重要 而 又 经常 被 忽视 的 领域 ， 在 此 您 的 责任 和 云 服务商 责任 不 易 定义
+。 许多 事件 都 需要 云 提供 商 密切 合作 和 支持 ， 以 帮助 调查 和 缓解 它们 。 其他 事件 可能
+由于 云 资源 配置 不 当 或 凭据 被盗 而 造成 ， 并且 确保 您 满足 保护 资源 和 账号 的 最佳 做法
+非常 困难 。
+• 高级 持续 威胁 ( APT ) 和 新 漏洞 会 影响 您 开始 云 转换 时 可能 不 会 考虑 的 工作 负载 。 确保
+您 及时 了 解 最新 的 变化 情况 并 负责 威胁 缓解 工作 ， 尤其 是 在 您 的 企业 没有 大型 安全团
+队 的 情况 下 。
+
+命运 共同体
+
+我们 在 Google Cloud 中 开发 了 命运 共同体 ， 以 开始 解决 共 担 责任 模型 无法 解决 的 难题 。
+命运 共同体 希望 侧重 于 所有 各方 可以 更 好 地 互动 ， 以 持续 提高 安全性 。 命运 共同体 基于 共
+担 责任 模型 ， 因为 它 将 云 提供 商 与 客户 之间 的 关系 视为 持续 改善 的 合作 伙伴 关系 。
+
+命运 共同体 就 是 要 我们 负责 确保 Google Cloud 更 安全 。 命运 共同体 包括 帮助 您 从 安全 的
+着陆 可用区 开始 ， 并 清晰 、 明确 、 公开 地 介绍 推荐 的 安全 控制 措施 、 设置 和 关联 的 最佳 做
+法 。 它 包括 使用 我们 的 风险 防范 计划 ， 帮助 您 更 好 地 量化 和 管理 网络 保险 的 风险 。 通过 命
+运 共同体 ， 我们 希望 从 标准 的 共 担 责任 框架 转变 为 更 好 的 模型 ， 帮助 您 保护 企业 并 在
+Google Cloud 中 建立 信任 。
+
+以下 部分 介绍 了 命运 共同体 的 各种 组件 。
+
+使用 入门 帮助
+
+命运 共同体 的 一个 重要 组件 是 我们 提供 的 资源 ， 可 帮助 您 在 Google Cloud 中 以 安全 配置
+入门 。 从 安全 配置 开始 有助于 减少 配置 错误 的 问题 ， 而 配置 错误 是 大多数 安全 事故 的 根本
+原因 。
+
+资源 包括 以下 内容 ：
+
+• 安全 基础 ： 讨论 主要 安全 问题 和 我们 的 主要 建议 。
+• 安全 蓝图 ： 可 让 您 使用 基础 架构 即 代码 ( IaC ) 部署 和 维护 安全 解决 方案 。 蓝图 默认 启
+用 我们 的 安全 建议 。 许多 蓝图 由 Google 安全 团队 创建 并 作为 产品 进行 管理 。 此 支持
+意味着 它们 会 定期 更新 ， 通过 严格 的 测试 流程 ， 并 获得 了 第三方 测试组 的 证明 。 蓝图
+包括 安全 基础 蓝图 、 安全 数据 仓库 蓝图 和 Vertex AI Workbench 笔记本 蓝图 。
+
+• 架构 框架 最佳 做法 ， 解决 了 如何 将 安全性 纳入 设计 中 的 热门 建议 。 架构 框架 包括 安全
+部分 和 可 用于 与 专 家 和 同行 联系 的 社区 可用区 。
+
+• 着陆 可用区 导航 指南 ， 逐步 介绍 了 为 工作 负载 构建 安全 基础 所 需 做出 的 主要 决策 ， 包
+括 资源 层次 结构 、 身份 入门 、 安全性 密钥 管理 和 网络 结构 。
+
+Risk Protection Program
+
+命运 共同体 还 包括 风险 防护 计划 （ 目前 为 预览 版 ） ， 可 帮助 您 将 Google Cloud 的 强大 功
+能 用作 管理 风险 的 平台 ， 而 不 仅仅 是 查看 将 云 工作 负载 作为 您 需要 管理 的 风险 的 另 一个 来
+源 。 风险 防护 计划 是 Google Cloud 和 两 家 领先 的 网络 保险 公司 Munich Re 和 Allianz
+Global & Corporate Speciality 的 合作 项目 。
+
+风险 防护 计划 包含 Risk Manager ， 它 提供 数据 驱动 的 数据 分析 ， 可 用于 更 好 地 了 解云 安全
+状况 。 如 需 寻找 网络 承保 责任 范围 ， 您 可以 直接 与 我们 的 保险 合作 伙伴 分享 来 自 Risk
+Manager 的 数据 洞见 ， 以 获取 报 价 。 如 需 了 解详情 ， 请 参阅 Google Cloud 风险 防护 计划
+现 提供 预览版 。
+
+部署 和 治理 方面 的 帮助
+
+命运 共同体 还 有助于 您 持续 治理 环境 。 例如 ， 我们 专注 并 致力 于 如下 产品 ：
+
+• Assured Workloads ， 可 帮助 您 履行 合规性 义务 。
+• Security Comm and Center Premium ， 使用 威胁 情报 、 威胁 检测 、 Web 扫描 和 其他 高级
+方法 监控 并 检测 威胁 。 它 还 提供 了 一 种 快速 自动 解决 许多 此类 威胁 的 方法 。
+• 组织 政策 和 资源 设置 ， 可 让 您 在 整个 文件 夹 和 项目 的 层次 结构 中 配置 政策 。
+• Policy Intelligence 工具 ， 可 让 您 深入 了 解账号 和 资源 的 访问 权限 。
+• 机密 计算 ： 可 用于 加密 使用 中 的 数据 。
+• Sovereign Cloud ， 适用 于 德国 ， 并 实现 数据 驻 留 要求 。
+
+实践 共 担 责任 和 命运 共同体
+
+在 规划 流程 中 ， 请 考虑 以下 操作 ， 以 帮助 您 理解 和 实施 适当 的 安全 控制 措施 ：
+
+• 创建 将 在 Google Cloud 中 托管 的 工作 负载 类型 的 列表 ， 以及 它们 是 否 需要 IaaS 、
+PaaS 和 SaaS 服务 。 您 可以 使用 共 担 责任图 作为 核对 清单 ， 以 确保 您 了 解 需要 考虑 的
+安全 控制 措施 。
+• 创建 您 必须 遵守 的 监管 要求 列表 ， 并 访问 合规性 资源 中心 中 与 这些 要求 相关 的 资源 。
+• 查看 架构 中心的 可用 蓝图 和 架构 列表 ， 了 解 特定 工作 负载 所 需 的 安全 控制 措施 。 蓝图
+提供 推荐 控制 措施 的 列表 以及 部署 该 架构 所 需 的 IaC 代码 。
+• 使用 着陆 可用区 文档 和 安全 基础 指南 中 的 建议 来 设计 符合 您 需求 的 资源 层次 结构 和 网
+络 架构 要求 。 您 可以 使用 专用 的 工作 负载 蓝图 （ 如 安全 数据 仓库 ） 来 加快 开发 过程 。
+• 部署 工作 负载 后 ， 请 使用 Risk Manager 、 Assured Workloads 、 Policy Intelligence
+工具 和 Security Comm and Center Premium 等 服务 验证 您 是 否 履行 了 安全 责任 。
+
+如 需 了 解详情 ， 请 参阅 CISO 的 云转型 指南 论文 。
+
+后续 步骤
+
+• 查看 安全 原 则 （ 本 系列 的 下 一个 文档 ） 。
+• 及时 了 解命运 共同体 资源 。
+• 熟悉 可用 的 蓝图 ， 包括 安全 基础 蓝图 和 安全 数据 仓库 等 工作 负载 示例 。
+• 详细 了 解命运 共同体 。
+• 阅读 Google 基础 架构 安全 设计 概览 ， 了 解 我们 的 底层 安全 基础 架构 。
+• 了 解 如何 在 Google Cloud 中 实施 NIST Cybersecurity Framework 最佳 做法 ( PDF )
+。
+
+发送 反馈
+
+如 未 另行 说明 ， 那 么 本页面 中 的 内容 已 根据 知识 共享 署名 4 . 0 许可 获得 了 许可 ， 并且 代码
+示例 已 根据 Apache 2 . 0 许可 获得 了 许可 。 有关 详情 ， 请 参阅 Google 开发者 网站 政策 。
+Java 是 Oracle 和 / 或 其 关联 公司 的 注册 商标 。
+
+最后 更新 时间 ( UTC ) ： 2023 - 0 8 - 21 。
+
+[ { " type " : " thumb - down " , " id " : " hardToUnderstand " , " label " : " 很 难 理解 " } , {
+" type " : " thumb - down " , " id " : " incorrectInformationOrSampleCode " , " label " : " 信息 或
+示例 代码 不 正确 " } , { " type " : " thumb - down " , " id " :
+" missing TheInformationSamplesINeed " , " label " : " 没有 我 需要 的 信息 / 示例 " } , {
+" type " : " thumb - down " , " id " : " translationIssue " , " label " : " 翻译 问题 " } , { " type " :
+" thumb - down " , " id " : " otherDown " , " label " : " 其他 " } ] [ { " type " : " thumb - u p " , " id " :
+" easyToUnderstand " , " label " : " 易于 理解 " } , { " type " : " thumb - u p " , " id " :
+" solvedMyProblem " , " label " : " 解决 了 我 的 问题 " } , { " type " : " thumb - u p " , " id " :
+" otherUp " , " label " : " 其他 " } ] 需要 向 我们 提供 更 多 信息 ？
+
+• 为什 么 选择 Google
+
+□ 选择 Google Cloud
+□ 信任 与 安全
+□ 开放 的 云
+□ 多 云
+□ 全球 基础 架构
+□ 客户 和 案例 研究
+□ 分析师 报告
+□ 白皮书
+□ 博客
+• 产品 和 价 格
+
+□ Google Cloud 价 格
+□ Google Workspace 价 格
+□ 查看 所有 产品
+• 解决 方案
+
+□ 基础 架构 现代化
+□ 数据库
+□ 应用 现代化 改造
+□ 智能 分析
+□ 人工智能
+□ 安全
+□ Productivity & work transformation
+□ Industry solutions
+□ DevOps solutions
+□ Small business solutions
+□ 查看 所有 解决 方案
+• 资源
+
+□ Google Cloud 文档
+□ Google Cloud 快速 入门
+□ Google Cloud Marketplace
+□ 了 解云 计算
+□ 支持
+□ 代码 示例
+□ 云 架构 中心
+□ 培训
+□ 认证
+□ Google for Developers
+□ Google Cloud 创业 公司 计划
+□ 系统 状态
+□ 版本 说明
+• 互动
+
+□ 与 销售 人员 联系
+□ 查找 合作 伙伴
+□ 成为 合作 伙伴
+□ 活动
+□ 播客
+□ 开发者 中心
+□ 媒体 资讯角
+□ Google Cloud 在 YouTube 上 的 频道
+□ YouTube 上 的 Google Cloud Tech
+□ 在 Twitter 上 关注
+□ 参与 用户 调查
+□ Google Cloud 诚 聘 英才 ， 欢迎 加入 ！
+□ Google Cloud 社区
+
+• 关于 Google
+• 隐私权 政策
+• 网站 条款
+• Google Cloud 条款
+• Our third decade of climate action : join us
+• 订阅 Google Cloud 简报 订阅
+
+• English
+• Deutsch
+• Español – América Latina
+• Français
+• Indonesia
+• Italiano
+• Português – Brasil
+• 中文 – 简体
+• 日本 語
+• 한국 어
+

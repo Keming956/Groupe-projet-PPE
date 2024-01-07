@@ -1,0 +1,588 @@
+   Passer directement au contenu principal
+   (BUTTON) (BUTTON) Microsoft
+   (BUTTON) Support (BUTTON)
+   Support
+   (BUTTON) Support
+     * Accueil
+     * Microsoft 365
+     * Office
+     * (BUTTON) Products
+          + Microsoft 365
+          + Outlook
+          + Microsoft Teams
+          + OneDrive
+          + OneNote
+          + Windows
+          + Microsoft Edge
+          + more ...
+     * (BUTTON) Devices
+          + Surface
+          + PC Accessories
+          + Mobile
+          + Xbox
+          + PC Gaming
+          + HoloLens
+          + Hardware warranties
+     * (BUTTON) Account & billing
+          + Account
+          + Microsoft Store & billing
+     * (BUTTON) Resources
+          + What's new
+          + Community forums
+          + Microsoft 365 Admins
+          + Small Business Portal
+          + Developer
+          + Education
+          + Report a support scam
+     * (BUTTON) Plus
+     * Acheter Microsoft 365
+
+     * (BUTTON) Tout Microsoft
+          + Global
+               o Microsoft 365
+               o Teams
+               o Copilot
+               o Windows
+               o Surface
+               o Xbox
+               o Offres spéciales
+               o TPE & PME
+               o Support technique
+          + Logiciels (BUTTON) Logiciels
+               o Applications Windows
+               o IA
+               o OneDrive
+               o Outlook
+               o Skype
+               o OneNote
+               o Microsoft Teams
+          + PC et appareils (BUTTON) PC et appareils
+               o Découvrir la gamme Xbox
+               o Accessoires
+               o VR et réalité mixte
+          + Divertissement (BUTTON) Divertissement
+               o Xbox Game Pass Ultimate
+               o Xbox Live Gold
+               o Xbox et jeux
+               o Jeux PC
+               o Jeux pour Windows
+               o Films et TV
+          + Entreprises (BUTTON) Entreprises
+               o Microsoft Cloud
+               o Sécurité Microsoft
+               o Azure
+               o Dynamics 365
+               o Microsoft 365 pour les entreprises
+               o Microsoft Industry
+               o Microsoft Power Platform
+               o Windows 365
+          + Développeurs & IT (BUTTON) Développeurs & IT
+               o Centre pour les développeurs
+               o Documentation
+               o Microsoft Learn
+               o Microsoft Tech Community
+               o Place de marché Azure
+               o AppSource
+               o Visual Studio
+          + Autres (BUTTON) Autres
+               o Microsoft Rewards
+               o Téléchargements gratuits et pour la sécurité
+               o Éducation
+               o Cartes cadeaux
+               o Licences
+          + Vue plan de site
+
+   ____________________ (BUTTON) Rechercher Demander de l’aide
+
+     * Aucun résultat
+
+   (BUTTON) Annuler
+   Se connecter
+   Se connecter avec Microsoft
+   S'identifier ou créer un compte.
+   Bonjour,
+   Sélectionnez un autre compte.
+   Vous avez plusieurs comptes
+   Choisissez le compte avec lequel vous voulez vous connecter.
+   Education
+   Devoirs
+   Concepts de base
+   Concepts de base
+   Créer un devoir dans Microsoft Teams
+
+Créer un devoir dans Microsoft Teams
+
+   Microsoft Teams pour l’Éducation Plus...Moins
+
+   Créez des devoirs pour vos étudiants dans Microsoft Teams. Gérez les
+   chronologies de devoirs, ajoutez des instructions, créez des ressources
+   à rendre, etc.
+
+   Remarque : Devoirs est uniquement disponible dans les équipes de
+   classe. Vous pouvez affecter des devoirs à des classes d’un maximum de
+   1 000 classes. Les classes supérieures à 300 ne peuvent pas utiliser un
+   bloc-notes pour la classe ou Makecode.
+
+Contenu de cet article
+
+   Créer un devoir
+
+   Titre et catégorie
+
+   Instructions et pièces jointes
+
+   Points, rubriques et notation
+
+   Devoirs à des étudiants ou à des groupes
+
+   Dates d’échéance et planification
+
+   Calendriers
+
+   Affecter, enregistrer ou ignorer
+
+Créer un devoir
+
+    1. Accédez à l’équipe de classe souhaitée, puis sélectionnez Devoirs.
+
+
+
+   Sélectionnez Créer>Devoir.
+
+   Remarque : Pour passer en mode plein écran, sélectionnez l’onglet
+   Développement (flèche en diagonale bidirectionnelle).
+
+
+
+   Entrez un titre pour ce devoir.
+
+
+
+   Si vous le souhaitez, ajoutez des instructions, une rubrique ou une
+   date d’échéance.
+
+
+
+   Si vous le souhaitez, ajoutez au module de classe pour votre travail de
+   classe.
+
+
+
+   Si vous le souhaitez, ajoutez catégorie de notation, schéma de
+   notation.
+
+
+
+   Si vous le souhaitez, attribuez le travail à un groupe spécifique
+   d’étudiants.
+
+
+
+   Si vous le souhaitez, affectez le travail à une ou plusieurs classes.
+
+
+
+   Ajoutez le devoir aux calendriers, si vous le souhaitez.
+
+
+
+   Sélectionnez le canal pour les notifications de devoir.
+
+
+
+   Sélectionnez Affecter en haut pour affecter le travail.
+    a. Sélectionnez Enregistrer en haut pour sécuriser un brouillon de
+       devoir.
+
+
+
+   Si vous ne souhaitez pas enregistrer ce devoir, vous pouvez
+   sélectionner Ignorer pour supprimer le brouillon.
+
+   Affiche l’expérience Créer pour les affectations
+
+Titre et catégorie
+
+   Attribuez un titre au devoir. Cela est obligatoire. Vous pouvez
+   éventuellement ajouter une balise.
+
+Instructions et pièces jointes
+
+   Vous pouvez taper des instructions dans la zone de texte et insérer des
+   images ou des gifs avec l’icône Ajouter des images Bouton Image .
+
+   Remarques :
+     * Les affectations prennent uniquement en charge les types de
+       fichiers image suivants : .png, .jpeg et .gif.
+     * Sur les appareils mobiles, les images sont redimensionnées à
+       l’écran.
+     * Sur le bureau, vous pouvez utiliser des poignées de dimensionnement
+       sur des images pour les redimensionner.
+
+   Vous pouvez également joindre des fichiers existants, des liens ou des
+   intégrations de devoirs, et créer et nommer un nouveau fichier
+   directement à partir d’ici pour que les étudiants puissent les
+   remettre.
+
+   Remarque : Vous pouvez ajouter jusqu’à cinq fichiers à modifier pour
+   les étudiants. Le nombre total de ressources que vous pouvez ajouter à
+   un devoir est de 10, qu’elles soient modifiables ou non modifiables. La
+   taille des fichiers de référence en lecture seule peut aller jusqu’à
+   500 Mo. La taille des fichiers que les étudiants peuvent modifier peut
+   aller jusqu’à 50 Mo.
+     * Sélectionnez Attacher pour attacher des ressources au devoir.
+       Choisissez un fichier dans votre Espace OneDrive, chargez un
+       fichier à partir de votre appareil ou choisissez l’une des autres
+       options définies par votre administrateur, comme MakeCode.
+       Remarque : Si vous attribuez une page bloc-notes pour la classe,
+       vérifiez quelle version de OneNote vos étudiants utilisent pour
+       vous assurer que leurs pages de devoir se verrouilleront une fois
+       la date d’échéance du devoir atteinte.
+
+
+
+   Sélectionnez +Nouveau pour créer un document Word vide (.docx), Excel
+   (.xlsx), PowerPoint (.pptx) ou Whiteboard, ou un nouvel enregistrement
+   vidéo à distribuer à vos étudiants.
+
+   Remarque : Sélectionnez Applications pour attacher du contenu d’une
+   application au devoir. Les administrateurs peuvent gérer les
+   applications Teams dans le Centre d’administration Microsoft Teams.
+
+
+
+   Sélectionnez Accélérateurs d’apprentissage pour ajouter progression de
+   la lecture, Progrès en recherche et d’autres accélérateurs
+   d’apprentissage au devoir.
+
+
+
+   Par défaut, les étudiants ne peuvent pas modifier les documents joints,
+   ce qui signifie que le document est en lecture seule. Il s’agit de
+   l’option idéale pour des documents de référence.
+
+   Pour permettre aux étudiants de modifier une copie distincte du fichier
+   joint, sélectionnez Plus d’options Bouton Autres options > Les
+   étudiants modifient leur propre copie. De cette façon, les étudiants
+   peuvent modifier leur propre copie du fichier et le rendre pour une
+   note. Seuls Les fichiers Word (.docx), Excel (.xlsx), PowerPoint
+   (.pptx), Tableau blanc, Page ClassNotebook et MakeCode ou les devoirs
+   de progression de lecture permettent aux étudiants de modifier leurs
+   propres copies.
+
+   Remarque : Si vous avez des documents plus anciens avec l’extension de
+   fichier .doc, .xls ou .ppt, les étudiants ne pourront pas les modifier.
+   Vous pouvez soit les joindre en tant que documents de référence en
+   lecture seule, soit créer un fichier dans Teams, copier l’ancien
+   contenu et l’enregistrer. Tous les fichiers créés dans Teams ou
+   d’autres applications Office 365 présenteront l’extension appropriée.
+
+   Affiche l’écran de création d’affectation
+
+Points, rubriques et notation
+
+   Vous pouvez sélectionner le schéma de notation, les catégories de
+   notation et les points que l’affectation vaut.
+
+   Si vous avez configuré la classe pour utiliser les catégories de
+   notation, vous devez sélectionner une catégorie de notation pour
+   l’affectation avec des points.
+
+   Sélectionnez la quantité de points que vaut le devoir. Vous pouvez
+   choisir n'importe quelle échelle de notation, y compris de nombres
+   entiers, par exemple 100, et définir votre dénominateur.
+   Exemples : 88/100 ou décimales 3,7/4,0.
+     * Sélectionnez Ajouter une rubrique pour ajouter une rubrique.
+
+
+
+   Sélectionnez Gérer les catégories de notation pour créer ou modifier
+   les catégories de notation pour la classe.
+
+   Volet Notation dans Affectations, montrant les catégories de notation
+   développées
+
+Devoirs à des étudiants ou à des groupes
+
+   Sélectionnez plusieurs classes ou les étudiants individuels ou groupes
+   d’étudiants d’une classe pour l’attribution du devoir.
+
+   Par défaut, seuls les étudiants qui sont actuellement dans votre classe
+   recevront ce devoir. Pour effectuer cette action, sélectionnez Modifier
+   à côté de Ne pas assigner de devoir aux étudiants dorénavant ajoutés à
+   cette classe. Effectuez votre sélection, puis sélectionnez Terminé.
+
+   Remarque : Si vous choisissez une date limite, les étudiants qui
+   s’intègrent à la classe reçoivent ce devoir jusqu’à cette date.
+
+Dates d’échéance et planification
+
+   Sélectionnez l’heure et la date d’échéance du devoir. Pour planifier
+   une affectation, en regard de Les devoirs seront affichés immédiatement
+   et les remises tardives seront autorisées, sélectionnez Modifier.
+   Ici, vous pouvez personnaliser le moment auquel votre devoir est publié
+   et disponible pour les étudiants, ainsi que la date-limite de remise.
+   Par défaut, aucune date de clôture n’est sélectionnée, ce qui permet
+   aux étudiants de remettre des devoirs en retard.
+
+   Remarque : Si vous choisissez plusieurs classes dans lesquelles publier
+   le devoir, vous pouvez sélectionner Définir la date d’échéance par
+   classe pour définir la planification, l’échéance et la date de
+   fermeture de chaque classe
+
+   Affiche l’heure d’échéance et la date d’échéance des affectations
+
+   Affectations La chronologie affiche plusieurs sélections de temps pour
+   les dates d’échéance
+
+Calendriers
+
+   Vous pouvez choisir d’ajouter ce devoir à votre calendrier dans
+   Outlook, les calendriers des étudiants et d’autres enseignants ou
+   membres du personnel de votre équipe de classe. Définissez cette
+   préférence pour tous les devoirs dans Paramètres de devoirs.
+
+   En regard d’Ajouter une affectation aux calendriers, sélectionnez la
+   liste déroulante et choisissez l’une des options suivantes :
+     * Les étudiants ajoutent uniquement le devoir aux calendriers des
+       étudiants.
+
+
+
+   Les étudiants et moi-même ajoutons le devoir aux calendriers des
+   étudiants et à votre calendrier.
+
+
+
+   Les étudiants et les propriétaires d’équipe pour ajouter le devoir aux
+   étudiants et autres enseignants ou membres du personnel dans les
+   calendriers d’équipe de classe.
+
+   Remarque : Pour consulter la liste complète de votre équipe de classe,
+   accédez à votre équipe de classe, puis sélectionnez Autres options
+   Bouton Autres options >Gérer l’équipe.
+
+   Créer un devoir avec la sélection du calendrier
+
+   Affectation d’étiquette de cellule pour un cours de biologie
+   apparaissant dans le calendrier Teams
+
+Affecter, enregistrer ou ignorer
+
+   Sélectionnez le canal dans lequel vous voulez publier les notifications
+   relatives à ce devoir. Cela vous permet d’organiser les travaux des
+   étudiants et les discussions par unité, rubrique ou matière. Par
+   défaut, les devoirs sont publiés dans le canal Général ou dans votre
+   sélection dans Les paramètres des devoirs.
+    1. Pour choisir un canal dans lequel poster, à côté de Poster les
+       notifications d'affectation à ce canal,  sélectionnez Éditer.
+
+
+
+   Choisissez le canal dans lequel vous souhaitez que cette notification
+   de devoir soit publiée, puis sélectionnez Terminé.
+
+   Remarques :
+     * Pour publier des notifications d’affectation sur un canal,
+       assurez-vous que la publication du bot est activée. Cette page vous
+       permet de vérifierou de demander de l'aide à votre administrateur
+       informatique.
+     * Les devoirs sont publiés dans les canaux visibles par tous les
+       étudiants. Les canaux privés n’apparaissent pas dans cette étape.
+     * Si vous avez sélectionné plusieurs classes, sélectionnez Définir
+       par classe pour définir le canal à utiliser ou simplement utiliser
+       le canal Général. Les devoirs pour des étudiants individuels ne
+       sont pas publiés sur les canaux.
+
+   Lorsque vous êtes prêt, vous pouvez terminer le processus de création
+   de votre devoir en l’affectant aux étudiants.
+
+   Remarque : Si votre établissement scolaire utilise Turnitin, vous
+   pouvez synchroniser les retours de devoirs avec Turnitin.
+
+    1. Affecter publiera immédiatement le devoir et vos étudiants seront
+       informés du nouveau devoir le jour que vous avez spécifié et la
+       notification liant à ce devoir sera publiée dans le canal que vous
+       avez sélectionné. Une entrée est également disponible dans les
+       calendriers Teams et Outlook si vous avez sélectionné cette option.
+
+
+
+   L’enregistrement enregistre un brouillon de devoir. Les étudiants ne
+   recevront aucune notification et rien ne sera ajouté à un calendrier.
+
+
+
+   L’abandon supprime le brouillon du devoir. Les étudiants ne recevront
+   aucune notification et rien ne sera ajouté à un calendrier.
+
+   Affiche la sélection de notification dans l’affichage Créer une
+   affectation.
+
+   Sélectionnez le canal dans lequel vous voulez publier cette
+   notification de devoir.
+
+   ​​​​​​
+
+   Une carte de devoir dans un canal.
+
+En savoir plus
+
+   Créer un devoir de groupe
+
+   Modifier un devoir
+
+   Enregistrer un devoir en tant que brouillon
+
+   Noter, retourner et réattribuer les devoirs
+
+Ressources supplémentaires pour les enseignants
+
+   Formation
+
+   Demander à la communauté
+
+   Facebook LinkedIn E-mail
+
+Besoin d’aide ?
+
+   ____________________ (BUTTON)
+
+Vous voulez plus d’options ?
+
+   Découvrir Communauté
+   
+
+   Explorez les avantages de l’abonnement, parcourez les cours de
+   formation, découvrez comment sécuriser votre appareil, etc.
+
+   Avantages de l’abonnement Microsoft 365
+
+   Formation Microsoft 365
+
+   Sécurité Microsoft
+
+   Centre d’accessibilité
+
+   Les communautés vous permettent de poser des questions et d'y répondre,
+   de donner vos commentaires et de bénéficier de l'avis d'experts aux
+   connaissances approfondies.
+
+   Demandez à la Communauté Microsoft
+
+   Communauté technique Microsoft
+
+   Windows Insiders
+
+   Microsoft 365 Insiders
+
+Ces informations vous ont-elles été utiles ?
+
+   (buttonYes) Oui (buttonNo) Non
+   Merci. Avez-vous d’autres commentaires à partager avec Microsoft ?
+   Pouvez-vous nous aider à nous améliorer ? (Envoyez des commentaires à
+   Microsoft pour que nous puissions vous aider.)
+
+   Dans quelle mesure êtes-vous satisfait(e) de la qualité de la langue ?
+
+   Qu’est-ce qui a affecté votre expérience ?
+
+   [ ] J’ai résolu mon problème
+   [ ] Instructions claires
+   [ ] Les instructions sont faciles à suivre
+   [ ] Aucun terme n’est difficile à comprendre
+   [ ] Les images sont utiles
+   [ ] Qualité de la traduction
+   [ ] Les images ne correspondent pas à mon écran
+   [ ] Les instructions sont incorrectes
+   [ ] Les instructions sont trop techniques
+   [ ] Les informations sont insuffisantes
+   [ ] Il n’y a pas assez d’images
+   [ ] Qualité de la traduction
+
+   Avez-vous d’autres commentaires ? (Facultatif)
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   (BUTTON) Envoyer les commentaires
+   En cliquant sur Envoyer, vos commentaires seront utilisés pour
+   améliorer les produits et services de Microsoft. Votre administrateur
+   informatique sera en mesure de collecter ces données. Déclaration de
+   confidentialité.
+
+Nous vous remercions de vos commentaires.
+
+   ×
+   Nouveautés
+     * Surface Laptop Studio 2
+     * Surface Laptop Go 3
+     * Surface Pro 9
+     * Surface Laptop 5
+     * Surface Studio 2+
+     * Microsoft 365
+     * Applications Windows 11
+
+   Microsoft Store
+     * Profil du compte
+     * Centre de téléchargement
+     * Support du Microsoft Store
+     * Retours
+     * Suivi des commandes
+     * Recycler
+     * Garanties
+
+   Éducation
+     * Microsoft Éducation
+     * Appareils pour l’enseignement
+     * Microsoft Teams pour l’éducation
+     * Microsoft 365 Éducation
+     * Office Éducation
+     * Formation et développement des enseignants
+     * Offres pour étudiants et parents
+     * Azure pour les étudiants
+
+   Entreprises
+     * Microsoft Cloud
+     * Sécurité Microsoft
+     * Azure
+     * Dynamics 365
+     * Microsoft 365
+     * Microsoft Teams
+     * TPE & PME
+
+   Développeur et IT
+     * Centre pour les développeurs
+     * Documentation
+     * Microsoft Learn
+     * Microsoft Tech Community
+     * Place de marché Azure
+     * AppSource
+     * Microsoft Power Platform
+     * Visual Studio
+
+   Société
+     * Emploi
+     * Actualités de la société
+     * Confidentialité chez Microsoft
+     * Investisseurs
+     * Durabilité
+
+   Français (France) Vos choix de confidentialité Vos choix de
+   confidentialité
+     * Contacter Microsoft
+     * Gérer ou annuler l’abonnement
+     * Mentions légales et Informations consommateurs
+     * Confidentialité
+     * Gérer les cookies
+     * Conditions d'utilisation
+     * Conditions générales de vente
+     * Marques
+     * À propos de nos annonces
+     * EU Compliance DoCs
+     * Accessibilité
+     * © Microsoft 2023
+
+   IFRAME: iframeOP

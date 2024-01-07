@@ -1,0 +1,219 @@
+   #alternate alternate alternate
+
+   Skip to main content
+
+   European Commission logo
+   English
+   Select your language
+   (BUTTON) Close
+     * bgбългарски
+     * esespañol
+     * csčeština
+     * dadansk
+     * deDeutsch
+     * eteesti
+     * elελληνικά
+     * enEnglish
+     * frfrançais
+     * gaGaeilge
+     * hrhrvatski
+     * ititaliano
+     * lvlatviešu
+     * ltlietuvių
+     * humagyar
+     * mtMalti
+     * nlNederlands
+     * plpolski
+     * ptportuguês
+     * roromână
+     * skslovenčina
+     * slslovenščina
+     * fisuomi
+     * svsvenska
+
+   Search
+   Search ____________________
+   (BUTTON) Search
+   Business, Economy, Euro
+   Taxation and Customs Union
+
+   Menu
+
+   (BUTTON) Close
+   Menu
+   (BUTTON) Back (BUTTON) (BUTTON)
+     * Home
+     * Taxation (BUTTON)
+          + Corporate Taxation
+          + International affairs
+          + Decision making on EU Tax Policy
+          + Company taxation
+          + Value added tax (VAT)
+          + VAT and Administrative Cooperation
+          + Excise duties
+          + Tax Co-operation and control
+          + Economic analysis of taxation
+          + Personal taxation
+          + Other taxes
+          + Central Electronic System of Payment information (CESOP)
+          + National tax administrations
+          + Conferences and events
+          + EU Training
+          + Legislation
+          + Glossary
+     * Customs (BUTTON)
+          + AEO (Authorised Economic Operator)
+          + Prohibitions and Restrictions
+          + Calculation of customs duties
+          + Customs controls
+          + Customs Laboratories
+          + EU Customs strategy
+          + Customs Procedures for import and export
+          + Union Customs code
+          + Customs security
+          + Customs Risk Management
+          + International affairs
+          + Legislation
+          + National customs administrations
+          + EU Training
+          + Glossary
+          + Customs cooperation
+          + Electronic customs
+     * Online services (BUTTON)
+          + Online services and databases for Customs
+          + Online services and databases for Taxation
+     * Tenders and grants
+     * News
+     * Events
+
+    1. Home
+    2. (BUTTON) …
+    3. Customs
+    4. Calculation of customs duties
+    5. Customs Tariff
+    6. EU Customs Tariff (TARIC)
+
+TARIC
+
+   TARIC, the integrated Tariff of the European Union, is a multilingual
+   database integrating all measures relating to EU customs tariff,
+   commercial and agricultural legislation.
+
+   ACCESS THE DATABASE
+
+   Integrating and coding these measures facilitates their uniform
+   application by all Member States and gives all economic operators a
+   clear view of measures to be taken when importing goods into the EU or
+   exporting goods from the EU.
+
+   It also makes it possible to collect EU-wide statistics for the
+   concerned measures.
+
+   Daily transmissions of TARIC data via an electronic network guarantee
+   immediate and correct information for the national administrations of
+   the Member States, who use this data mainly to feed their national
+   systems for customs clearance, with the goal of maximising automatic
+   customs clearance.
+
+Legal basis
+
+   The legal base of the TARIC is Council Regulation (EEC) No 2658/87 of
+   23 July 1987 on the tariff and statistical nomenclature and on the
+   Common Customs Tariff (Official Journal L 256, 07/09/1987).
+
+Main categories of measures (Non exhaustive list):
+
+     * Tariff measures
+          + "Third country duty”, customs duty applicable to all imports
+            originating in a non-EU country/territory, as defined in the
+            Combined Nomenclature
+          + Tariff preferences
+          + Autonomous tariff suspensions
+          + Tariff quotas
+          + Customs Unions
+     * Agricultural measures
+          + Agricultural components
+          + Additional duties on sugar, on sugar content and on flour
+            content
+          + Representative prices for poultry
+          + Standard Import Values and Unit Prices for fruits and
+            vegetables
+     * Trade Defence instruments
+          + Antidumping duties and countervailing duties
+          + Safeguard measures
+     * Prohibitions and restrictions to import and export
+          + Import and/or export prohibition of certain goods (e.g.:
+            ozone-depleting substances, certain products originating in or
+            exported to some countries/territories like Iran, North Korea,
+            etc.)
+          + Quantitative limits
+          + Import and/or export controls of certain categories of goods
+            (e.g. products subject to CITES, luxury goods, cultural goods,
+            products and equipment containing fluorinated greenhouse
+            gases, dual use goods, veterinary or phytosanitary controls on
+            animals and food, etc.)
+     * Surveillance of movements of goods at import and export
+
+TARIC also contains
+
+     * The goods nomenclature and the additional codes;
+     * The supplementary units;
+     * The EU codes to be used in Data Element 2/3 of the Customs
+       Declaration as "Documents produced, certificates and
+       authorisations, additional references" (previously: Box 44 of the
+       Single Administrative Document - SAD)
+     * The nomenclature of country/territory codes used in the different
+       Data Elements of the Customs Declaration, in accordance with
+       Commission Regulation (EU) No 1106/2012 of 27 November 2012
+       implementing Regulation (EC) No 471/2009 of the European Parliament
+       and of the Council on Community statistics relating to external
+       trade with non-member countries, as regards the update of the
+       nomenclature of countries and territories.
+
+   The TARIC does not contain information relating to national levies such
+   as rates of VAT and rates of excises.
+
+   TARIC raw data is also freely available in Excel format.
+
+   ACCESS THE DATABASE
+
+   Share this page
+
+Taxation and Customs Union
+
+   This site is managed by: Directorate-General for Taxation and Customs
+   Union
+
+Contact us
+
+     * Contact us
+     * Accessibility Statement
+
+Follow us
+
+     * Twitter
+     * LinkedIn
+     * YouTube
+
+About us
+
+     * Newsletter
+     * Glossary
+     * Our department
+
+Related sites
+
+     * Have your say
+
+   More information on:
+     * Business, Economy, Euro
+
+   European Commission logo
+     * Contact the European Commission
+     * Follow the European Commission on social media
+     * Resources for partners
+
+     * Languages on our websites
+     * Cookies
+     * Privacy policy
+     * Legal notice
