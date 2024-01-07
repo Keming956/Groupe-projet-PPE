@@ -15,7 +15,7 @@ Les informations que nous mettrons dans le header :
 - une icone (moyen de retourner sur la page d'index),
 - un onglet méthode (qui expliquera pourquoi ce mot, les langues sur lesquelles nous allons travailler), notre hypothèse, l'étymologie du mot...
 - un onglet analyse dans lequels on mettra notre analyse itrameur
-- Le logo GitHub qui permettra d'accéder à cet endroit
+- Le logo GitHub qui permettra d'accéder à cet endroit/PPE/
 
 Les informations que nous mettrons dans le footer :
 - Qui nous sommes (afin de détailler et donner des informations sur nous)
@@ -53,12 +53,12 @@ d'inclure l'API google traduction via un script js. Cela n'a malheureusement pas
 
 
 --- 26/12/23 ---
-PAGE ANALYSE :
+PAGE METHODE :
 
 Cette page est probablement celle qui nous a posé le plus de problèmes.
 
 En effet, pour rendre notre page interactive nous avons voulu mettre des key frames afin de faire des animations.
-La partie la plus dure à géré a été
+La partie la plus dure à géré a été le responsive design nous y reviendrons plus tard.
 
 --- 26/12/23 ---
 Qui sommes nous : (page dans le footer), une des pages dont nous sommes les plus fiers. Nous avons importé Leaflet (afin d'afficher une map interactive). Je ne sais pas pourquoi il y'a des losanges et que l'affiche se fait sur des ronds, j'ai eu beau regarder la documentation de leaflet je n'ai pas trouvé pourquoi nous avions ce problème d'affichage. J'ai écris un script js que j'ai incorporé dans la page. Pour faire ce script, je me suis servi de la docummentation leaflet https://leafletjs.com/. J'ai mis les points de coordonnées de nos trois universités. Même si l'affichage de la carte n'est parfait nous avons bien aimé la fonctionnalité et avond décidé de la garder.
@@ -66,8 +66,27 @@ Qui sommes nous : (page dans le footer), une des pages dont nous sommes les plus
 --- 28/12/23 ---
 PAGE TABLEAUX :
 
-Des animations ont aussi été faites pour faire apparaître les tableaux par le biais de key frames. Le css associé est tableaux.css.
+Des animations ont aussi été faites pour faire apparaître les tableaux par le biais de key frames. Le css associé est tableaux.css. Le design des tableaux a été fait grâce à Bulma
 
+
+--- 28/12/23 ---
+PAGE ANALYSE :
+
+Page très simple dans laquelle nous avons mis nos captures d'écrans itrameur et nos analyses. Rien de plus à ajouter. Peut etre aurez vous des difficulté avec le responsive design aussi
+
+--- 03/04/24 ---
+RERPISE PAGE METHODE :
+
+Cette page a demandé beaucoup de travail. Nous avons utilisé des keyframes afin de faire des petites animations sur les "bloc anglais, français, chinois". Cependant le responsive design est trop compliqué et je ne comprends pas pourquoi certains éléments rendent mal. J'ai utilisé des media queries pour prendre en compte les différents formats d'écrans mais il semblerait que cela rend très mal.
+Par manque de temps, nous n'avons pas pu creuser ce point plus loin.
+Il semblerait d'autant plus que sur certains navigateur l'affchage ne soit pas pareil. Il aurait très certainement utilisé des webkits afin de les prendre en compte
+
+Le responsive design nous pose trop de problème nous fourniront une documentation afin d'expliquer quelles sont les meilleures façon de bien voir le site.
+
+
+
+
+BILAN : Je pense qu'avec l'équipe nous avonf fait du super travail, je pense qu'il aurait été plus simple d'utiliser des frameworks que des propriétés css, cela nous aurait facilité le travail de responsive design. Nous avons perdu pas mal de temps à chercher les propriétés qui nous intéressaient sur internet, au moins nous avons bien compris comment marche les différents éléments du site. Nous avons bien compris comment fonctionnait github ainsi que la gestion de projet alors qu'au début c'était un peu laborieux. Nous avons accordé beaucoup de temps au projet mais avec une ou deux semaines de plus je suis convaincu que nous aurions pu le pousser encore plus et le rendre adaptatif à tous les formats et surement rendre notre code plus lisible sur certains aspect (notamment les pages css).
 
 ------------Baptiste-------------------------------------------
 
